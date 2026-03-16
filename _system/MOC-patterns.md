@@ -18,6 +18,13 @@ Reusable technical patterns. Check here before solving a problem.
 | Teaser PPTX Generation | content | [[patterns/teaser-pptx-generation]] |
 | Gemweb RSS Parsing | scraping | [[patterns/gemweb-rss-parsing]] |
 
+## Website-Specific
+
+| Pattern | Category | File |
+|---------|----------|------|
+| GEO AI Content Optimization | seo | [[website/patterns/geo-ai-content-optimization]] |
+| SEO Subagent Audit+Fix | seo | [[website/patterns/seo-subagent-audit-fix]] |
+
 ## Brantham-Specific
 
 | Pattern | Category | File |

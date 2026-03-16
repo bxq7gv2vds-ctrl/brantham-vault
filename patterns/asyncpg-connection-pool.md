@@ -30,3 +30,6 @@ Any async Python code accessing PostgreSQL concurrently (asyncio.gather, multipl
 - Don't forget to close the pool on shutdown
 - Set max_size based on expected concurrent connections
 - Each acquired connection must be released (use async with)
+
+## Origin
+Discovered fixing [[brantham/bugs/2026-03-05-asyncpg-another-operation]].

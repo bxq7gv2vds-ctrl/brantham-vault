@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  .slide {
+    width: 1080px;
+    height: 1080px;
+    background: #FAFAF8;
+    font-family: 'DM Sans', sans-serif;
+    color: #0F0F0E;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .slide-inner {
+    padding: 80px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .eyebrow {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #8A8A86;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: #5E54F0;
+  }
+
+  .spacer { flex: 1; }
+
+  .stat-block {
+    display: flex;
+    gap: 48px;
+    margin-bottom: 48px;
+  }
+
+  .stat-item {}
+
+  .stat-value {
+    font-size: 48px;
+    font-weight: 300;
+    letter-spacing: -0.04em;
+    line-height: 1;
+    margin-bottom: 8px;
+  }
+
+  .stat-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #8A8A86;
+  }
+
+  .divider {
+    width: 100%;
+    height: 1px;
+    background: rgba(15, 15, 14, 0.08);
+    margin-bottom: 48px;
+  }
+
+  .headline {
+    font-family: 'Instrument Serif', serif;
+    font-style: italic;
+    font-size: 40px;
+    line-height: 1.2;
+    color: #0F0F0E;
+    max-width: 750px;
+    margin-bottom: 24px;
+  }
+
+  .body-text {
+    font-size: 18px;
+    font-weight: 300;
+    color: #4A4A47;
+    line-height: 1.7;
+    max-width: 700px;
+  }
+
+  .tag {
+    display: inline-flex;
+    align-items: center;
+    padding: 8px 18px;
+    border-radius: 40px;
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    border: 1px solid;
+  }
+
+  .tag-red {
+    color: #C8251A;
+    border-color: rgba(200, 37, 26, 0.2);
+    background: rgba(200, 37, 26, 0.04);
+  }
+
+  .tag-ink {
+    color: #4A4A47;
+    border-color: rgba(15, 15, 14, 0.1);
+    background: rgba(15, 15, 14, 0.03);
+  }
+
+  .tags {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 40px;
+  }
+
+  .footer-bar {
+    padding: 28px 80px;
+    border-top: 1px solid rgba(15, 15, 14, 0.06);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .logo-mark {
+    width: 28px;
+    height: 28px;
+    background: #0F0F0E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .logo-text {
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: -0.01em;
+  }
+
+  .footer-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #B8B8B4;
+  }
+</style>
+</head>
+<body style="background: #e0e0e0; padding: 40px; display: flex; flex-direction: column; align-items: center;">
+
+<div class="slide">
+  <div class="slide-inner">
+    <div class="eyebrow"><span class="dot"></span> Etude de cas</div>
+    <div style="height: 24px"></div>
+    <div class="tags">
+      <span class="tag tag-red">Redressement judiciaire</span>
+      <span class="tag tag-ink">Industrie</span>
+    </div>
+
+    <div class="stat-block">
+      <div class="stat-item">
+        <div class="stat-value">5M</div>
+        <div class="stat-label">Chiffre d'affaires</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-value">45</div>
+        <div class="stat-label">Salaries</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-value">35%</div>
+        <div class="stat-label">Marge brute</div>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="headline">L'entreprise est viable. Le dirigeant est epuise. Le tribunal attend un repreneur.</div>
+
+    <div class="body-text">
+      En 8 semaines : 12 repreneurs identifies, 4 offres deposees, 30 emplois preserves.
+    </div>
+
+    <div class="spacer"></div>
+  </div>
+  <div class="footer-bar">
+    <div class="logo">
+      <div class="logo-mark">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M2 11L7 3L12 11" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 8H10" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </div>
+      <span class="logo-text">Brantham Partners</span>
+    </div>
+    <span class="footer-label">Paul Roulleau</span>
+  </div>
+</div>
+
+</body>
+</html>

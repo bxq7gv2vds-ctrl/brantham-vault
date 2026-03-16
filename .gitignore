@@ -1,0 +1,8 @@
+# Obsidian local config
+.obsidian/
+
+# QMD index (rebuilt locally)
+.qmd/
+
+# OS
+.DS_Store

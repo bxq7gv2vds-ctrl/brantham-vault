@@ -1,3 +1,9 @@
+---
+type: moc
+project: brantham
+updated: 2026-03-16
+---
+
 # Brantham Partners -- Map of Content
 
 ## Mission
@@ -43,6 +49,10 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 - [[brantham/patterns/teaser-patterns]]
 - [[brantham/patterns/scoring-patterns]]
 - [[brantham/patterns/acheteur-mapping]]
+
+## Strategy
+
+- [[brantham/strategy/2026-03-15-linkedin-personal-brand]]
 
 ---
 

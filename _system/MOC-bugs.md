@@ -1,6 +1,6 @@
 ---
 type: moc
-updated: 2026-03-12
+updated: 2026-03-16
 ---
 
 # Bugs Index
@@ -21,3 +21,10 @@ Resolved bugs. Search here before debugging.
 | 2026-03-06 | [[brantham/bugs/2026-03-06-sendcommand-not-awaited]] | agents | high |
 | 2026-03-06 | [[brantham/bugs/2026-03-06-agent-auth-401]] | agents | high |
 | 2026-03-06 | [[brantham/bugs/2026-03-06-handoff-raw-wrapper]] | agents | medium |
+| 2026-03-13 | [[brantham/bugs/2026-03-13-mobile-router-animation-css]] | dashboard-frontend | critical |
+
+## Website
+
+| Date | Bug | Component | Severity |
+|------|-----|-----------|----------|
+| 2026-03-15 | [[website/bugs/2026-03-15-audit-seo-technique]] | seo | medium |
