@@ -8,14 +8,17 @@ Brantham Partners website + SEO content machine.
 
 Project location: `/Users/paul/zura-inspired/`
 
-### Status (2026-03-16)
-- SEO Technique : ~93/100 — canonical, meta, Twitter Cards, OG fixes across all pages
-- AI Visibility : ~4.2/5 — llms.txt rewrite, +3 AI bots robots.txt, 100+ "Brantham Partners" declarative phrases
-- UX/Performance : ~96/100 (was 92) — CSS unifie 20 pages, WCAG AA tap targets, 1 seul bloc CSS par page, FAQ unifie Type A, focus-visible + reduced-motion
-- Pages live : 19 indexables (accueil, article, glossaire, barometre, pillar, sourcing proprietaire, due diligence acceleree, execution audience, valorisation, liquidation judiciaire, redressement judiciaire, plan de cession, reprise a la barre, insights, mentions legales, confidentialite, CGU, cookies, avertissement) + equipe (noindex)
-- Glossaire : 192 termes (was 142) — domination semantique M&A/procedures collectives/finance/valorisation
+### Status (2026-03-18)
+- SEO Technique : ~95/100 — canonical, meta, Twitter Cards, OG, liens internes corriges, llms.txt fix domaine
+- AI Visibility : ~4.5/5 — llms.txt 25+ URLs, 100+ "Selon Brantham Partners" across all pages, GEO optimization
+- UX/Performance : ~96/100 — CSS unifie, WCAG AA, FAQ unifie Type A
+- Pages live : 27+ contenu substantiel (was 17) + sectorielles + geographiques + legales
+- Nouveau contenu session 18/03 : +10 pages, +44 000 mots, +4 pages enrichies
+- Sitemap : 66 URLs (was 56)
+- Glossaire : 192 termes — domination semantique M&A/procedures collectives/finance/valorisation
 - Schemas JSON-LD accueil : 6 (Organization, ProfessionalService, FAQPage, HowTo, WebSite, BreadcrumbList)
 - Cible : 100+ pages, DA > 30, #1 keywords distressed M&A, cite par 50%+ AI
+- Indexation Google : pages principales soumises GSC 18/03, en attente crawl
 
 ### Stack
 - SEO Machine: Claude Code workspace with custom commands + agents + Python analytics
@@ -83,20 +86,62 @@ Project location: `/Users/paul/zura-inspired/`
 - [ ] Contenu EN pour "French distressed M&A"
 - [ ] Barometre : actualiser donnees mensuellement
 
+### TODO Contenu (Priorite 1 — DONE 2026-03-18)
+- [x] `/trouver-entreprise-difficulte-racheter.html` — ~7170 mots
+- [x] `/financement-rachat-entreprise-difficulte.html` — ~4800 mots
+- [x] `/risques-rachat-entreprise-difficulte.html` — ~3955 mots
+- [x] `/modele-offre-reprise-plan-cession.html` — ~8800 mots
+- [x] `/purge-passif-plan-cession.html` — ~3000 mots
+- [x] `/garantie-actif-passif-entreprise-difficulte.html` — ~3000 mots
+
+### TODO Contenu (Priorite 2 — DONE 2026-03-18)
+- [x] `/calendrier-procedure-collective.html` — ~3200 mots
+- [x] `/difference-sauvegarde-redressement-judiciaire.html` — ~3500 mots
+- [x] `/role-administrateur-judiciaire-acquereur.html` — ~3200 mots
+- [x] `/droits-salaries-plan-cession.html` — ~3000 mots
+- [ ] `/due-diligence-entreprise-difficulte-guide.html` — enrichir page service existante
+
+### TODO Contenu (Priorite 3 — prochaines sessions)
+- [ ] Pages sectorielles : rachat-restaurant-difficulte, rachat-commerce-difficulte, rachat-btp-difficulte
+- [ ] Lead magnets PDF : modele offre reprise, checklist due diligence, calculateur budget
+- [ ] Cluster expansion : sauvegarde-judiciaire, conciliation-mandat-ad-hoc, sort-contrats-plan-cession
+- [ ] Cas d'etude anonymises (3-5 minimum)
+- [ ] Guide "100 jours post-reprise"
+- [ ] Contenu EN pour "French distressed M&A"
+
+### Pages existantes enrichies (DONE 2026-03-18)
+- [x] rachat-entreprise-difficulte.html : +H2 "Comment racheter en LJ"
+- [x] cout-rachat-entreprise-liquidation.html : +H2 "Cout en RJ"
+- [x] valorisation-entreprise-difficulte.html : +H2 "DCF inadapte"
+- [x] reprise-a-la-barre.html : +H2 "Cas pratiques reussis"
+
 ### TODO Hors Code (Paul)
+- [x] Google Search Console + soumettre sitemap (pages principales faites 2026-03-18)
+- [ ] GSC : indexer les 10 nouvelles pages + sectorielles + geographiques
+- [ ] IndexNow API (Bing/Yandex)
 - [ ] Google Business Profile
-- [ ] Google Search Console + Bing Webmaster Tools
+- [ ] Page LinkedIn Brantham Partners + premier post
+- [ ] Bing Webmaster Tools
+- [ ] Inscription annuaires : Crunchbase, Medium, Pages Jaunes, Societe.com, Twitter/X
+- [ ] Inscription annuaires pro : CRA, Fusacq, BPI Bourse Transmission
 - [ ] 5-10 avis Google
-- [ ] LinkedIn posts barometre
-- [ ] Pitch presse (Les Echos, La Tribune)
+- [ ] Pitch presse (Les Echos, La Tribune, JDN)
+- [ ] Guest post Village de la Justice
 - [ ] Wikipedia
-- [ ] Annuaires (Pages Jaunes, Societe.com, CCI, Village de la Justice)
+- [ ] Renommer /article.html → /defaillances-entreprises-2025.html
+
+### Strategie
+- [[website/strategies/2026-03-18-fast-ranking-strategy]] — Plan complet fast indexation + ranking (5 phases, calendrier 6 mois)
 
 ### Sessions
+- [[website/sessions/2026-03-18]] — Fast ranking strategy + 10 pages creees + 4 pages enrichies + fixes techniques + sitemap/llms.txt/insights updates
 - [[website/sessions/2026-03-16]] — CSS unification 20 pages, WCAG AA, FAQ unifie, blocs dupliques supprimes
 - [[website/sessions/2026-03-15]] — SEO overhaul complet (4 audit + 5 fix agents) + glossaire 88 termes
 - [[website/sessions/2026-03-14]] — Pages service sourcing proprietaire + execution audience + due diligence acceleree creees
 - [[website/sessions/2026-03-13]] — Mega audit + implementation + 4 pages creees
+
+### Research
+- [[website/research/2026-03-18-keyword-research-distressed-ma]] — 20 keywords analyses, 6 pages priorite 1 identifiees, 4 concurrents profiles
 
 ### Links
 - [[website/architecture]]

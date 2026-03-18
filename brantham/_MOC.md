@@ -1,7 +1,7 @@
 ---
 type: moc
 project: brantham
-updated: 2026-03-16
+updated: 2026-03-18
 ---
 
 # Brantham Partners -- Map of Content
@@ -33,8 +33,9 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 | Frontend dashboard | `/Users/paul/internal-tool/` | React 19 + Vite + Zustand |
 | Data pipeline | `/Users/paul/Desktop/brantham-partners/` | Python, PostgreSQL 16, Redis 7, Docker |
 | Agent pipeline | `/Users/paul/Downloads/brantham-pipeline/` | server.js + 6 agents |
-| Memory vault (ops) | `/Users/paul/Desktop/brantham-partners/memory-vault/` | Markdown |
+| Memory vault (ops) | **MERGED into vault/brantham/** | Markdown |
 | Deals archive | `/Users/paul/brantham-vault/` | 600+ deals |
+| MiroFish Engine | `/Users/paul/MiroFish/` | Python 3.12, MLX, FastAPI, Vue/Vite |
 | Design/Next.js | `/Users/paul/Desktop/brantham-next/` | Next.js |
 | SEO | see [[website/_MOC]] | |
 
@@ -50,9 +51,28 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 - [[brantham/patterns/scoring-patterns]]
 - [[brantham/patterns/acheteur-mapping]]
 
+## Pipeline Operations
+
+- [[brantham/pipeline/BOARD]] — Kanban pipeline (statuts des deals)
+- [[brantham/pipeline/QUEUE]] — File d'attente opportunites
+- [[brantham/analyses/INDEX]] — Toutes les analyses IA
+- [[brantham/teasers/INDEX]] — Tous les teasers generes
+
 ## Strategy
 
 - [[brantham/strategy/2026-03-15-linkedin-personal-brand]]
+- [[brantham/strategy/mirofish-vision]] — Vision MiroFish: simulateur de monde M&A distressed (agents autonomes, echelle massive)
+- [[brantham/strategy/mirofish-roadmap]] — Roadmap technique MiroFish (v0.1 → v2.0)
+- [[brantham/strategy/mirofish-todo]] — TODO executif: World Simulator M&A (7 phases)
+
+### MiroFish v0.3 Status (2026-03-18)
+- **995K agents x 100 rounds = 83.4s** (0.83s/round sur M5)
+- Modele distille: MLP 4293 params, 83.9% accuracy, 17.2KB
+- MLX GPU inference: 0.117s pour 1M agents
+- 7 scenarios pre-configures (baseline, crise_2008, boom_2021, hausse_taux, reforme, desert, million_agents)
+- API FastAPI + Frontend Vue/Vite operationnels
+- Patterns: [[brantham/patterns/distilled-model-scaling]], [[brantham/patterns/numpy-aggregation-over-objects]]
+- [[brantham/strategy/webapp-roadmap]] — Roadmap Web App internal-tool (6 phases)
 
 ---
 
