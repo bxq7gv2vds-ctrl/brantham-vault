@@ -1,32 +1,42 @@
 #!/usr/bin/env bash
-# Watch vault for .md changes and auto-commit + push
-# Usage: ./sync-brain.sh (runs in background)
-# Stop: kill the process or Ctrl+C
-set -e
+# Daemon: watch vault for .md changes and auto-commit + push
+# Managed by LaunchAgent com.paul.vault-sync
+# Manual: ./sync-brain.sh
+# Logs: ~/.cache/vault-sync.log
+set -euo pipefail
 
 VAULT_DIR="$(cd "$(dirname "$0")" && pwd)"
-DEBOUNCE=10  # seconds to wait after last change before pushing
+DEBOUNCE=10
 
 cd "$VAULT_DIR"
 
-echo "Watching $VAULT_DIR for .md changes..."
-echo "Auto-commit + push every ${DEBOUNCE}s after changes."
-echo "Press Ctrl+C to stop."
+echo "[$(date)] vault-sync started — watching $VAULT_DIR"
 
-fswatch -0 -e ".*" -i "\\.md$" -e "\\.git/" -e "\\.qmd/" -e "\\.obsidian/" --latency "$DEBOUNCE" "$VAULT_DIR" | while read -d "" event; do
-    # Stage all markdown changes
-    git add -A "*.md" 2>/dev/null || true
+fswatch -0 \
+    -e ".*" -i "\\.md$" \
+    -e "\\.git/" -e "\\.qmd/" -e "\\.obsidian/" \
+    --latency "$DEBOUNCE" \
+    "$VAULT_DIR" | while read -d "" event; do
 
-    # Check if there's anything to commit
-    if ! git diff --cached --quiet 2>/dev/null; then
-        TIMESTAMP=$(date "+%Y-%m-%d %H:%M")
-        COUNT=$(git diff --cached --name-only | wc -l | tr -d ' ')
-        git commit -m "vault: sync ${COUNT} file(s) — ${TIMESTAMP}" --no-gpg-sign
-        git push origin main
-        echo "[${TIMESTAMP}] Pushed ${COUNT} file(s)"
+    # Stage all changes (md + new files like scripts, templates)
+    git add -A 2>/dev/null || true
 
-        # Re-index QMD
-        qmd update 2>/dev/null || true
-        qmd embed 2>/dev/null || true
+    # Nothing to commit? skip
+    if git diff --cached --quiet 2>/dev/null; then
+        continue
+    fi
+
+    TIMESTAMP=$(date "+%Y-%m-%d %H:%M")
+    COUNT=$(git diff --cached --name-only | wc -l | tr -d ' ')
+    MSG="vault: sync ${COUNT} file(s) — ${TIMESTAMP}"
+
+    if git commit -m "$MSG" --no-gpg-sign 2>&1; then
+        if git push origin main 2>&1; then
+            echo "[${TIMESTAMP}] Pushed ${COUNT} file(s)"
+        else
+            echo "[${TIMESTAMP}] ERROR: push failed (will retry on next change)"
+        fi
+    else
+        echo "[${TIMESTAMP}] ERROR: commit failed"
     fi
 done

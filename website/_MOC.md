@@ -141,6 +141,7 @@ Project location: `/Users/paul/zura-inspired/`
 - [[website/sessions/2026-03-13]] — Mega audit + implementation + 4 pages creees
 
 ### Research
+- [[website/research/2026-03-18-indexation-ranking-audit]] — Audit complet : 0 page indexee, 38 keywords analyses, 12 concurrents cartographies, plan d'action 3 mois
 - [[website/research/2026-03-18-keyword-research-distressed-ma]] — 20 keywords analyses, 6 pages priorite 1 identifiees, 4 concurrents profiles
 
 ### Links
