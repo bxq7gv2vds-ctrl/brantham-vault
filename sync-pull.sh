@@ -17,5 +17,5 @@ while true; do
         echo "[$TIMESTAMP] Pull effectué" >> "$LOG"
     fi
 
-    sleep 30
+    sleep 3600
 done
