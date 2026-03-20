@@ -26,6 +26,7 @@ Single source of truth for all Brantham Partners knowledge.
 | [[founder/journal]] | Founder journal |
 | [[founder/todo]] | TODO persistant (P0/P1/P2/Inbox) |
 | [[founder/daily]] | Plans du jour + KPIs |
+| [[remember]] | Session remembers (ce qui a ete fait/installe/configure) |
 
 ## Brantham Sub-Systems
 
