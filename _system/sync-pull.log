@@ -16,3 +16,11 @@ error: Please commit or stash them.
 error: cannot pull with rebase: You have unstaged changes.
 error: Please commit or stash them.
 [2026-03-20 18:30:21] Pull effectué
+From github.com:bxq7gv2vds-ctrl/brantham-vault
+ * branch            main       -> FETCH_HEAD
+error: cannot rebase: You have unstaged changes.
+error: Please commit or stash them.
+[2026-03-20 18:46:17] Pull effectué
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+[2026-03-20 18:46:51] Pull effectué
