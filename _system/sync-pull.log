@@ -13,3 +13,6 @@ error: Please commit or stash them.
 error: cannot pull with rebase: You have unstaged changes.
 error: Please commit or stash them.
 [2026-03-20 18:30:16] Pull effectué
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+[2026-03-20 18:30:21] Pull effectué
