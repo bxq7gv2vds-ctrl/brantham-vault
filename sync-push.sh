@@ -15,5 +15,5 @@ while true; do
         echo "[$TIMESTAMP] Push effectué" >> "$LOG"
     fi
 
-    sleep 30
+    sleep 3600
 done
