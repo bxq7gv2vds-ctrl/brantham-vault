@@ -13,6 +13,7 @@ Single source of truth for all Brantham Partners knowledge.
 |---------|--------|----------|-----|
 | **Brantham Partners** | Active (pre-revenue) | Multiple repos | [[brantham/_MOC]] |
 | **Website / SEO Machine** | Active (16 pages live, SEO 93/100, AI 4.2/5, glossaire 142 termes) | `/Users/paul/zura-inspired/` | [[website/_MOC]] |
+| **Soren Mendy** | — | `vault/soren-mendy/` | [[soren-mendy/_MOC]] |
 
 ## Cross-Project
 
