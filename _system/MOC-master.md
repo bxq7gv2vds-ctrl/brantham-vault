@@ -24,6 +24,8 @@ Single source of truth for all Brantham Partners knowledge.
 | [[_system/MOC-bugs]] | Resolved bugs (never re-debug) |
 | [[founder/strategy/current-strategy]] | Strategic framework |
 | [[founder/journal]] | Founder journal |
+| [[founder/todo]] | TODO persistant (P0/P1/P2/Inbox) |
+| [[founder/daily]] | Plans du jour + KPIs |
 
 ## Brantham Sub-Systems
 
