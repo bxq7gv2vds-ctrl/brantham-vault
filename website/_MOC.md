@@ -84,6 +84,15 @@ Project location: `/Users/paul/zura-inspired/`
 - [x] Page service : valorisation (done 2026-03-15)
 - [x] Page blog/insights index (done 2026-03-15)
 - [x] CSS unification 20 pages + WCAG AA + FAQ unifie (done 2026-03-16)
+- [x] Audit SEO/GEO complet + remediation (done 2026-03-21)
+- [x] Deduplication contenu geo/secteur (done 2026-03-21)
+- [x] equipe.html avec Person schema (done 2026-03-21)
+- [x] procedure-collective.html 14K mots (done 2026-03-21)
+- [x] CSP header + cache optimise (done 2026-03-21)
+- [x] Speakable sur toutes les pages contenu (done 2026-03-21)
+- [x] Organization standalone sur toutes les pages (done 2026-03-21)
+- [x] Viewport WCAG fix (done 2026-03-21)
+- [ ] Paul : relire contenu genere et envoyer corrections
 - [ ] 3-5 cas d'etude anonymises
 - [ ] Mentions legales : remplir placeholders
 - [ ] Contenu EN pour "French distressed M&A"
