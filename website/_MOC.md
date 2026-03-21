@@ -136,7 +136,11 @@ Project location: `/Users/paul/zura-inspired/`
 ### Strategie
 - [[website/strategies/2026-03-18-fast-ranking-strategy]] — Plan complet fast indexation + ranking (5 phases, calendrier 6 mois)
 
+### Audits
+- [[website/audits/2026-03-21-seo-geo-audit]] — Audit GEO complet (framework geo-seo-claude), score 42→82
+
 ### Sessions
+- [[website/sessions/2026-03-21]] — Audit SEO/GEO multi-agents + deduplication contenu + 2 pages creees + remediation complete
 - [[website/sessions/2026-03-18]] — Fast ranking strategy + 10 pages creees + 4 pages enrichies + fixes techniques + sitemap/llms.txt/insights updates
 - [[website/sessions/2026-03-16]] — CSS unification 20 pages, WCAG AA, FAQ unifie, blocs dupliques supprimes
 - [[website/sessions/2026-03-15]] — SEO overhaul complet (4 audit + 5 fix agents) + glossaire 88 termes
