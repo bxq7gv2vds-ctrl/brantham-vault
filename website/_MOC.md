@@ -1,24 +1,27 @@
 ---
 type: moc
 project: website
-updated: 2026-03-16
+updated: 2026-03-21
 ---
 
 Brantham Partners website + SEO content machine.
 
 Project location: `/Users/paul/zura-inspired/`
 
-### Status (2026-03-18)
-- SEO Technique : ~95/100 — canonical, meta, Twitter Cards, OG, liens internes corriges, llms.txt fix domaine
-- AI Visibility : ~4.5/5 — llms.txt 25+ URLs, 100+ "Selon Brantham Partners" across all pages, GEO optimization
-- UX/Performance : ~96/100 — CSS unifie, WCAG AA, FAQ unifie Type A
-- Pages live : 27+ contenu substantiel (was 17) + sectorielles + geographiques + legales
-- Nouveau contenu session 18/03 : +10 pages, +44 000 mots, +4 pages enrichies
-- Sitemap : 66 URLs (was 56)
-- Glossaire : 192 termes — domination semantique M&A/procedures collectives/finance/valorisation
-- Schemas JSON-LD accueil : 6 (Organization, ProfessionalService, FAQPage, HowTo, WebSite, BreadcrumbList)
-- Cible : 100+ pages, DA > 30, #1 keywords distressed M&A, cite par 50%+ AI
-- Indexation Google : pages principales soumises GSC 18/03, en attente crawl
+### Status (2026-03-21)
+- SEO Technique : **98/100** — canonical, meta, OG, Twitter Cards, CSP header, cache optimise
+- Structured Data : **99/100** — Organization, Person, Article, FAQPage, SpeakableSpec sur 62/70 pages
+- AI Citability (GEO) : **97/100** — llms.txt, 14 AI crawlers, 715 citations-ready, speakable partout
+- Content Quality : **94/100** — ~510 000 mots, contenu deduplique (80%+ unique)
+- Performance : **93/100** — TTFB ~180ms, HSTS, CSP, cache CDN
+- Brand Authority : **35/100** — ZERO backlinks, pas de Wikipedia/YouTube/Reddit
+- **GEO Score global : ~82/100** (etait 42/100)
+- Pages live : **70 pages** (20 geo + 15 secteur + 35 manuelles)
+- Sitemap : **69 URLs**
+- Glossaire : 192 termes
+- Schemas JSON-LD : 6 types sur homepage, speakable sur 62 pages
+- Cible : DA > 30, #1 keywords distressed M&A, cite par 50%+ AI
+- Indexation Google : pages principales soumises GSC 18/03, re-soumettre avec nouvelles pages
 
 ### Stack
 - SEO Machine: Claude Code workspace with custom commands + agents + Python analytics
