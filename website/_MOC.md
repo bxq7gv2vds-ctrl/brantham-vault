@@ -167,3 +167,5 @@ Project location: `/Users/paul/zura-inspired/`
 - [[website/decisions/2026-03-13-geo-strategy-ai-visibility]]
 - [[website/patterns/geo-ai-content-optimization]]
 - [[website/patterns/seo-subagent-audit-fix]]
+- [[website/patterns/geo-seo-audit-swarm]]
+- [[website/bugs/2026-03-21-contenu-duplique-geo-secteur]]
