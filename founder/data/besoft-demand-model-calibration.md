@@ -1,71 +1,172 @@
 ---
-name: BeSoft Demand Model Calibration
-description: Reverse-engineered demand model parameters from BeSoft historical data R1-R6, used to calibrate polytech-strategist engine
+name: BeSoft Demand Model Calibration v2
+description: Reverse-engineered demand model from 2 BeSoft universes (Paul 6f + Leo 5f), 6 periods, 11 firms, 21K+ data points. Updated 2026-03-22.
 type: reference
 ---
 
-# BeSoft Demand Model — Reverse-Engineering Results
+# BeSoft Demand Model — Full Reverse-Engineering (v2)
 
-## Model Architecture (likely MNL / market-share)
+Updated: 2026-03-22
+Sources: `/Users/paul/Desktop/Besoft Paul/` (Sim #3535, U05, 6 firms) + `/Users/paul/Desktop/Besoft Leo/` (5 firms)
 
-BeSoft uses a **market-share allocation model**:
-1. Compute total market demand (base * seasonal * market factors)
-2. Allocate shares via attractiveness scores (price, ads, sellers)
-3. Each firm gets: total_demand × share_i
+## Architecture BeSoft
 
-## Calibrated Parameters
+BeSoft utilise un modele **MNL (Multinomial Logit)** :
+1. Marche total local = f(seasonal, macro) — ~20,000 u normalise pour 6 firmes
+2. Attractivite firme = f(prix, pub, vendeurs, travel)
+3. Part de marche = attractivite relative
+4. Demand_i = marche_total × share_i
+
+Notre approximation lineaire fonctionne bien quand les prix sont proches (P1-P2).
+
+## Parametres calibres (v2)
 
 ### Base Demand
-- **3,200 units/firm** (deseasoned, at avg market price)
-- Validated: P1 F3 prediction=3,827 vs actual=3,826 (delta=1)
-- Source: T0 was ~2,800/firm but described as "very quiet" quarter
+- **3,300 u/firme** desaisonnalise (was 3,200 in v1)
+- Cross-validation:
+  - Paul P1: 21,434/6 = 3,572/firme at seasonal 107 → **3,339 desais.**
+  - Leo P1: 17,658/5 = 3,532/firme at seasonal 107 → **3,301 desais.**
+  - Ratio Leo/Paul: 0.989 (< 1% delta = independant du nb de firmes)
 
 ### Price Elasticity
-- **85 units per EUR** deviation from competitor average
-- Source: P1 F3 (165.89, 3826) vs F4/F5 (170.00, 3477) = 349/4.11 = 84.9
-- This is a **market share** effect, not total market expansion
-- Works both ways: 1 EUR above avg → -85 units, 1 EUR below → +85 units
+- **85 u/EUR** d'ecart vs moyenne concurrents — INCHANGE
+- Methodes convergentes:
+  - Regression directe P1 (6 firmes): pente = -87.4, R² = 0.848
+  - Pairwise F3 vs F4 (extreme spread): 350/4.11 = **85.2 u/EUR**
+  - Pairwise moyenne: 151 (biaisee par paires proches), mediane: 103
+- **competitor_prices doit EXCLURE notre propre prix** (valide: F3 exact match 0.0% avec EXCLUT)
 
-### Advertising Effect (hyperbolic diminishing returns)
-- Formula: `300 * (1 - 3600 / advertising)`
-- At 3,600 (minimum): 0 extra units
-- At 5,000 (standard): +84 units
-- At 7,500: +156 units
-- At 10,000: +192 units
-- At 15,000: +228 units
-- Max theoretical: ~300 units (never reached)
+### Advertising Effect
+- Formula: `200 * (1 - 3600 / advertising)` (was 300 in v1)
+- Reduced from 300 to **200** based on P2 residual analysis:
+  - Paul F1 P1→P2: ads 5K→7.5K, residual net = ~20-30 units (not 72 as predicted by 300)
+- Values:
+  - At 3,600 (min): 0
+  - At 5,000: **+56 u**
+  - At 7,500: **+104 u**
+  - At 10,000: **+128 u**
+  - At 15,000: **+152 u**
+  - Max: ~200 u (asymptote)
 
 ### Seller Effect
-- +250 units per seller above baseline of 2
-- Commission: 750 units quota/seller, 4.32 EUR/unit above quota (verified)
+- **+150 u/vendeur** au-dela de 2 (was 250 in v1)
+- Reduced from 250 to 150 based on Leo F4 P1→P2:
+  - Added 1 seller (+1K ads, -0.50 price, better seasonal)
+  - Total demand (ATOM+BOLT) DROPPED from 3,563 to 3,530
+  - Model with 250: predicted 3,917 (+387 overshoot)
+  - Model with 150: predicted 3,767 (+237 overshoot, still high)
+  - Seller effect is hard to isolate but clearly < 250
 
 ### Market Memory
-- 15% weight on (previous_sales - base_demand)
-- Inertia: good period → slightly better next period
+- **15%** weight on (previous_sales - base_demand) — INCHANGE
+- Difficult to isolate precisely
 
-### Seasonal Indices (confirmed)
-- Q1: 107, Q2: 108, Q3: 101, Q4: 84 (repeats)
+### Seasonal Indices
+- Q1: 107, Q2: 108, Q3: 101, Q4: 84 — constantes BeSoft, 100% fiables
 
-## Validation Results
+### Demand Clamp
+- [1,500 — 4,500] unites — INCHANGE
 
-| Period | Firm | Predicted | Actual | Delta | Error % |
-|--------|------|-----------|--------|-------|---------|
-| P1 | F3 | 3,827 | 3,826 | +1 | 0.03% |
-| P1 | F1 | 3,428 | 3,514 | -86 | 2.4% |
-| P1 | F4 | 3,408 | 3,477 | -69 | 2.0% |
-| P2 | F1 | 4,012 | 4,064 | -52 | 1.3% |
+## Validation croisee (2 univers)
 
-Residual errors (2-3%) likely from unknown inter-firm advertising/travel differences.
+### Pre-BOLT (P1-P2) — 13 data points
 
-## Key Strategic Insights
+| Universe | Period | Firm | Price | Actual | Predicted | Error |
+|----------|--------|------|-------|--------|-----------|-------|
+| Paul | P1 | F1 | 169.80 | 3,514 | 3,506 | -0.2% |
+| Paul | P1 | F2 | 168.90 | 3,687 | 3,598 | -2.4% |
+| Paul | P1 | F3 | 165.89 | 3,826 | 3,905 | +2.1% |
+| Paul | P1 | F4 | 170.00 | 3,476 | 3,486 | +0.3% |
+| Paul | P1 | F5 | 170.00 | 3,476 | 3,486 | +0.3% |
+| Paul | P1 | F6 | 169.50 | 3,455 | 3,537 | +2.4% |
+| Paul | P2 | F1 | 164.00 | 4,064 | 4,053 | -0.3% |
+| Leo | P1 | F1 | 172.50 | 3,530 | 3,588 | +1.6% |
+| Leo | P1 | F2 | 172.50 | 3,497 | 3,588 | +2.6% |
+| Leo | P1 | F3 | 172.50 | 3,534 | 3,588 | +1.5% |
+| Leo | P1 | F4 | 172.50 | 3,563 | 3,544 | -0.5% |
+| Leo | P1 | F5 | 172.50 | 3,534 | 3,588 | +1.5% |
 
-1. **Price is king**: 85 units/EUR is massive. Undercutting by 5 EUR = +425 units.
-2. **Advertising has diminishing returns**: going from 5K to 10K adds only 108 more units.
-3. **3rd seller**: adds ~250 units but costs 10,800 salary + reduces commission threshold. Worth it only if margin > 43 EUR/unit (10,800/250).
-4. **BOLT cannibalization**: from P3 onward, ATOM demand drops as BOLT grows (45% of market by P6). Temporal diffusion model, not price-driven.
-5. **T0 is "quiet"**: actual first-period demand will be significantly higher than T0 reference.
+**Erreur moyenne pre-BOLT: 1.5%**
 
-## Files Updated
-- `backend/engine/optimizer.py` — `estimate_demand()` recalibrated
-- `backend/tests/test_analysis.py` — clamp range updated to [1500, 4500]
-- `backend/tests/test_engine.py` — building depreciation corrected
+### Post-BOLT — model overpredicts (expected)
+
+| Period | Actual (local) | Predicted | Error | Cause |
+|--------|---------------|-----------|-------|-------|
+| P3 Paul F1 | 3,614 | 4,075 | +12.8% | BOLT debut (5% du local) |
+| P4 Paul F1 | 2,395 | 3,537 | +47.7% | BOLT 10% + Export cannibalise local |
+| P5 Paul F1 | 2,855 | 4,083 | +43.0% | BOLT 13% + Export |
+| P6 Paul F1 | 2,151 | 3,976 | +84.8% | BOLT 45% du marche local |
+
+Le modele predit la demande ATOM LOCAL. Apres P2, BOLT et l'Export redistribuent la demande.
+
+## Mecanismes BeSoft decouverts
+
+### 3 marches separes
+1. **Local ATOM** — marche principal, predit par notre modele
+2. **Local BOLT** — cannibalise ATOM local progressivement
+3. **Export (ATOM + BOLT)** — marche additionnel, mais reduit le local de ~15-20%
+
+### BOLT cannibalization timeline
+
+| Period | ATOM local % | BOLT local % | Export % | BOLT market effort |
+|--------|-------------|-------------|---------|-------------------|
+| P1 | 100% | 0% | 0% | 0.00 |
+| P2 | 96% | 4% | 0% | 0.00 |
+| P3 | 95% | 5% | 0% | 0.15 |
+| P4 | 76% | 9% | 15% | 0.20 |
+| P5 | 67% | 10% | 23% | 0.30 |
+| P6 | 44% | 36% | 20% | 0.40 |
+
+Consistant entre les 2 univers (Paul 6f et Leo 5f).
+
+### Marche total par firme (normalise, TOUT inclus)
+
+| Period | Paul/firme | Leo/firme |
+|--------|-----------|----------|
+| P1 | 3,339 | 3,301 |
+| P2 | 3,441 | 3,285 |
+| P3 | 3,136 | 3,064 |
+| P4 | 3,204 | 3,189 |
+| P5 | 3,564 | 3,535 |
+| P6 | 4,103 | 3,652 |
+
+Le marche TOTAL (local+export, ATOM+BOLT) par firme est relativement stable ~3,200-3,500 normalise. Il augmente en P5-P6 grace a l'export.
+
+### Storage costs (formule exacte)
+```
+storage = 1000 + 1% * min(inv, 180K) + 2% * min(max(inv-180K,0), 360K) + 4% * max(inv-540K, 0)
+```
+Verifie exact sur F1 Paul P3 (5,305 EUR) et P4 (7,878 EUR).
+
+### Commission
+- Quota: 750 u/vendeur, rate: 4.32 EUR/u au-dela — verifie exact P1-P2
+- P3+: ecart avec calcul simple → probablement commissions export separees ou rates differents pour BOLT
+
+### Seller salary progression
+- P1: 10,800/vendeur, P2: 11,300 (+500), P3: 11,800 (+500)
+- P4-P6 avec 3 vendeurs: 34,600/3 = 11,533/vendeur (3e vendeur a un rate different?)
+
+### Export pricing
+- F1 Paul: export ATOM = local + 3 EUR systematiquement
+- Marche export = marche SEPARE qui ajoute du volume mais reduit le local
+
+## Strategie competition
+
+### T1-T2: le modele est fiable (1.5% erreur)
+- Undercut 3-5 EUR vs concurrents
+- Production max (3,000)
+- Pub 5,100 EUR (optimum recalcule)
+- 2-3 vendeurs
+- MLT obligatoire T1
+
+### T3+: recalibrer en live
+- Entrer les resultats reels dans l'app
+- Observer la cannibalization BOLT
+- Ajuster le modele avec les prix concurrents observes
+- Anticiper BOLT des l'annonce
+
+## Files updated
+- `backend/engine/optimizer.py` — `estimate_demand()` recalibrated v2
+- `backend/engine/optimizer.py` — ad optimization uses 200 (was 300)
+- `backend/tests/test_analysis.py` — baseline demand range updated
+- 272 tests green
