@@ -48,6 +48,7 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 - [[brantham/agents/_MOC]]
 - [[brantham/dashboard/_MOC]]
 - [[brantham/patterns/teaser-patterns]]
+- [[brantham/patterns/teaser-onepager-html-pdf]] — One-pager HTML/PDF aligne sur DA site web
 - [[brantham/patterns/scoring-patterns]]
 - [[brantham/patterns/acheteur-mapping]]
 
