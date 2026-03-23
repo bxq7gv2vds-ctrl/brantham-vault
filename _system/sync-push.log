@@ -4235,3 +4235,9 @@ To github.com:bxq7gv2vds-ctrl/brantham-vault.git
 To github.com:bxq7gv2vds-ctrl/brantham-vault.git
    bd03535..f785206  main -> main
 [2026-03-23 13:32:16] Push effectué
+ssh: connect to host github.com port 22: Undefined error: 0
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[2026-03-23 13:39:22] Push effectué
