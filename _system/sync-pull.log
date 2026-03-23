@@ -34,3 +34,6 @@ From github.com:bxq7gv2vds-ctrl/brantham-vault
  * branch            main       -> FETCH_HEAD
 Already up to date.
 [2026-03-23 11:52:10] Pull effectué
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+[2026-03-23 11:56:42] Pull effectué
