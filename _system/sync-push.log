@@ -199,3 +199,2890 @@ fatal: Could not read from remote repository.
 Please make sure you have the correct access rights
 and the repository exists.
 [2026-03-20 19:00:51] Push effectué
+ssh: connect to host github.com port 22: Undefined error: 0
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[2026-03-20 19:01:21] Push effectué
+To github.com:bxq7gv2vds-ctrl/brantham-vault.git
+   31a3f57..5de345a  main -> main
+[2026-03-20 19:04:13] Push effectué
+Everything up-to-date
+[2026-03-20 19:21:05] Push effectué
+Everything up-to-date
+[2026-03-20 20:29:48] Push effectué
+Everything up-to-date
+[2026-03-20 20:46:05] Push effectué
+Everything up-to-date
+[2026-03-20 20:55:39] Push effectué
+Everything up-to-date
+[2026-03-20 21:42:59] Push effectué
+Everything up-to-date
+[2026-03-20 21:56:12] Push effectué
+Everything up-to-date
+[2026-03-20 21:56:44] Push effectué
+Everything up-to-date
+[2026-03-20 22:47:19] Push effectué
+Everything up-to-date
+[2026-03-20 22:57:16] Push effectué
+Everything up-to-date
+[2026-03-20 22:57:48] Push effectué
+Everything up-to-date
+[2026-03-20 23:49:40] Push effectué
+Everything up-to-date
+[2026-03-20 23:58:21] Push effectué
+Everything up-to-date
+[2026-03-21 00:15:35] Push effectué
+Everything up-to-date
+[2026-03-21 00:48:01] Push effectué
+Everything up-to-date
+[2026-03-21 00:59:11] Push effectué
+Everything up-to-date
+[2026-03-21 00:59:43] Push effectué
+Everything up-to-date
+[2026-03-21 01:11:53] Push effectué
+Everything up-to-date
+[2026-03-21 01:44:10] Push effectué
+Everything up-to-date
+[2026-03-21 02:00:05] Push effectué
+Everything up-to-date
+[2026-03-21 03:09:00] Push effectué
+Everything up-to-date
+[2026-03-21 03:12:26] Push effectué
+Everything up-to-date
+[2026-03-21 03:12:58] Push effectué
+Everything up-to-date
+[2026-03-21 04:17:07] Push effectué
+Everything up-to-date
+[2026-03-21 04:50:26] Push effectué
+Everything up-to-date
+[2026-03-21 05:22:09] Push effectué
+Everything up-to-date
+[2026-03-21 05:22:40] Push effectué
+Everything up-to-date
+[2026-03-21 05:23:12] Push effectué
+Everything up-to-date
+[2026-03-21 05:23:44] Push effectué
+Everything up-to-date
+[2026-03-21 05:39:40] Push effectué
+Everything up-to-date
+[2026-03-21 06:16:34] Push effectué
+Everything up-to-date
+[2026-03-21 06:33:51] Push effectué
+Everything up-to-date
+[2026-03-21 06:51:06] Push effectué
+Everything up-to-date
+[2026-03-21 07:19:43] Push effectué
+Everything up-to-date
+[2026-03-21 07:37:12] Push effectué
+Everything up-to-date
+[2026-03-21 07:56:39] Push effectué
+Everything up-to-date
+[2026-03-21 07:57:11] Push effectué
+Everything up-to-date
+[2026-03-21 08:45:24] Push effectué
+Everything up-to-date
+[2026-03-21 08:57:43] Push effectué
+Everything up-to-date
+[2026-03-21 08:58:15] Push effectué
+Everything up-to-date
+[2026-03-21 09:13:20] Push effectué
+Everything up-to-date
+[2026-03-21 09:47:16] Push effectué
+Everything up-to-date
+[2026-03-21 09:47:47] Push effectué
+Everything up-to-date
+[2026-03-21 09:58:56] Push effectué
+kex_exchange_identification: read: Connection reset by peer
+Connection reset by 140.82.121.4 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[2026-03-21 10:15:40] Push effectué
+Everything up-to-date
+[2026-03-21 10:49:18] Push effectué
+Everything up-to-date
+[2026-03-21 11:00:01] Push effectué
+Everything up-to-date
+[2026-03-21 11:11:58] Push effectué
+Everything up-to-date
+[2026-03-21 11:12:30] Push effectué
+Everything up-to-date
+[2026-03-21 11:25:43] Push effectué
+Everything up-to-date
+[2026-03-21 11:59:40] Push effectué
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'sorenmendy@Air-de-Soren.(none)')
+Everything up-to-date
+[2026-03-21 14:19:54] Push effectué
+Connection closed by 140.82.121.3 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[2026-03-21 12:34:51] Push effectué
+Everything up-to-date
+[2026-03-21 14:20:31] Push effectué
+Everything up-to-date
+[2026-03-21 14:21:02] Push effectué
+Everything up-to-date
+[2026-03-21 14:21:34] Push effectué
+Everything up-to-date
+[2026-03-21 14:22:06] Push effectué
+Everything up-to-date
+[2026-03-21 14:22:38] Push effectué
+Everything up-to-date
+[2026-03-21 14:23:09] Push effectué
+Everything up-to-date
+[2026-03-21 14:23:41] Push effectué
+Everything up-to-date
+[2026-03-21 14:24:13] Push effectué
+Everything up-to-date
+[2026-03-21 14:24:44] Push effectué
+Everything up-to-date
+[2026-03-21 14:25:16] Push effectué
+Everything up-to-date
+[2026-03-21 14:25:47] Push effectué
+Everything up-to-date
+[2026-03-21 14:26:19] Push effectué
+Everything up-to-date
+[2026-03-21 14:26:51] Push effectué
+Everything up-to-date
+[2026-03-21 14:27:22] Push effectué
+Everything up-to-date
+[2026-03-21 14:27:54] Push effectué
+Everything up-to-date
+[2026-03-21 14:28:25] Push effectué
+Everything up-to-date
+[2026-03-21 14:28:57] Push effectué
+Everything up-to-date
+[2026-03-21 14:29:29] Push effectué
+Everything up-to-date
+[2026-03-21 14:30:00] Push effectué
+Everything up-to-date
+[2026-03-21 14:30:32] Push effectué
+Everything up-to-date
+[2026-03-21 14:31:03] Push effectué
+Everything up-to-date
+[2026-03-21 14:31:35] Push effectué
+Everything up-to-date
+[2026-03-21 14:32:07] Push effectué
+Everything up-to-date
+[2026-03-21 14:32:39] Push effectué
+Everything up-to-date
+[2026-03-21 14:33:11] Push effectué
+Everything up-to-date
+[2026-03-21 14:33:43] Push effectué
+Everything up-to-date
+[2026-03-21 14:34:15] Push effectué
+Everything up-to-date
+[2026-03-21 14:34:47] Push effectué
+Everything up-to-date
+[2026-03-21 14:35:18] Push effectué
+Everything up-to-date
+[2026-03-21 14:38:20] Push effectué
+Everything up-to-date
+[2026-03-21 14:38:52] Push effectué
+Everything up-to-date
+[2026-03-21 14:39:24] Push effectué
+Everything up-to-date
+[2026-03-21 14:39:55] Push effectué
+Everything up-to-date
+[2026-03-21 14:40:28] Push effectué
+Everything up-to-date
+[2026-03-21 14:40:59] Push effectué
+Everything up-to-date
+[2026-03-21 14:41:31] Push effectué
+Everything up-to-date
+[2026-03-21 14:42:03] Push effectué
+Everything up-to-date
+[2026-03-21 14:42:35] Push effectué
+Everything up-to-date
+[2026-03-21 14:43:06] Push effectué
+Everything up-to-date
+[2026-03-21 14:46:29] Push effectué
+Everything up-to-date
+[2026-03-21 14:47:01] Push effectué
+Everything up-to-date
+[2026-03-21 15:04:55] Push effectué
+Everything up-to-date
+[2026-03-21 15:18:49] Push effectué
+Everything up-to-date
+[2026-03-21 15:19:21] Push effectué
+Everything up-to-date
+[2026-03-21 15:19:53] Push effectué
+Everything up-to-date
+[2026-03-21 15:20:25] Push effectué
+Everything up-to-date
+[2026-03-21 15:20:57] Push effectué
+Everything up-to-date
+[2026-03-21 15:21:28] Push effectué
+Everything up-to-date
+[2026-03-21 15:22:00] Push effectué
+Everything up-to-date
+[2026-03-21 15:22:31] Push effectué
+Everything up-to-date
+[2026-03-21 15:23:03] Push effectué
+Everything up-to-date
+[2026-03-21 15:23:35] Push effectué
+Everything up-to-date
+[2026-03-21 15:24:07] Push effectué
+Everything up-to-date
+[2026-03-21 15:40:43] Push effectué
+Everything up-to-date
+[2026-03-21 16:03:29] Push effectué
+Everything up-to-date
+[2026-03-21 16:04:00] Push effectué
+Everything up-to-date
+[2026-03-21 16:16:53] Push effectué
+Everything up-to-date
+[2026-03-21 16:29:56] Push effectué
+Everything up-to-date
+[2026-03-21 16:30:29] Push effectué
+Everything up-to-date
+[2026-03-21 16:31:01] Push effectué
+Everything up-to-date
+[2026-03-21 16:31:33] Push effectué
+Everything up-to-date
+[2026-03-21 16:32:04] Push effectué
+Everything up-to-date
+[2026-03-21 16:32:36] Push effectué
+Everything up-to-date
+[2026-03-21 16:33:08] Push effectué
+Everything up-to-date
+[2026-03-21 16:33:40] Push effectué
+Everything up-to-date
+[2026-03-21 16:34:12] Push effectué
+Everything up-to-date
+[2026-03-21 16:34:44] Push effectué
+Everything up-to-date
+[2026-03-21 16:35:16] Push effectué
+Everything up-to-date
+[2026-03-21 16:35:47] Push effectué
+Everything up-to-date
+[2026-03-21 16:36:19] Push effectué
+Everything up-to-date
+[2026-03-21 16:36:51] Push effectué
+Everything up-to-date
+[2026-03-21 16:37:22] Push effectué
+Everything up-to-date
+[2026-03-21 16:37:54] Push effectué
+Everything up-to-date
+[2026-03-21 16:38:26] Push effectué
+Everything up-to-date
+[2026-03-21 16:38:58] Push effectué
+Everything up-to-date
+[2026-03-21 16:39:30] Push effectué
+Everything up-to-date
+[2026-03-21 16:40:02] Push effectué
+Everything up-to-date
+[2026-03-21 16:40:34] Push effectué
+Everything up-to-date
+[2026-03-21 16:41:06] Push effectué
+Everything up-to-date
+[2026-03-21 16:41:38] Push effectué
+Everything up-to-date
+[2026-03-21 16:42:09] Push effectué
+Everything up-to-date
+[2026-03-21 16:42:41] Push effectué
+Everything up-to-date
+[2026-03-21 16:43:13] Push effectué
+Everything up-to-date
+[2026-03-21 16:52:27] Push effectué
+Everything up-to-date
+[2026-03-21 16:52:58] Push effectué
+Everything up-to-date
+[2026-03-21 16:53:30] Push effectué
+Everything up-to-date
+[2026-03-21 16:54:02] Push effectué
+Everything up-to-date
+[2026-03-21 16:54:33] Push effectué
+Everything up-to-date
+[2026-03-21 16:55:05] Push effectué
+Everything up-to-date
+[2026-03-21 16:55:37] Push effectué
+Everything up-to-date
+[2026-03-21 16:56:08] Push effectué
+Everything up-to-date
+[2026-03-21 16:56:40] Push effectué
+Everything up-to-date
+[2026-03-21 16:57:12] Push effectué
+Everything up-to-date
+[2026-03-21 16:57:44] Push effectué
+Everything up-to-date
+[2026-03-21 16:58:15] Push effectué
+Everything up-to-date
+[2026-03-21 16:58:47] Push effectué
+Everything up-to-date
+[2026-03-21 16:59:19] Push effectué
+Everything up-to-date
+[2026-03-21 16:59:52] Push effectué
+Everything up-to-date
+[2026-03-21 17:00:23] Push effectué
+Everything up-to-date
+[2026-03-21 17:00:55] Push effectué
+Everything up-to-date
+[2026-03-21 17:01:27] Push effectué
+Everything up-to-date
+[2026-03-21 17:01:59] Push effectué
+Everything up-to-date
+[2026-03-21 17:02:31] Push effectué
+Everything up-to-date
+[2026-03-21 17:03:03] Push effectué
+Everything up-to-date
+[2026-03-21 17:03:34] Push effectué
+Everything up-to-date
+[2026-03-21 17:04:06] Push effectué
+Everything up-to-date
+[2026-03-21 17:04:38] Push effectué
+Everything up-to-date
+[2026-03-21 17:05:10] Push effectué
+Everything up-to-date
+[2026-03-21 17:05:42] Push effectué
+Everything up-to-date
+[2026-03-21 17:06:14] Push effectué
+Everything up-to-date
+[2026-03-21 17:06:46] Push effectué
+Everything up-to-date
+[2026-03-21 17:07:18] Push effectué
+Everything up-to-date
+[2026-03-21 17:07:50] Push effectué
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'sorenmendy@Air-de-Soren.(none)')
+Everything up-to-date
+[2026-03-21 17:07:55] Push effectué
+Everything up-to-date
+[2026-03-21 17:08:21] Push effectué
+Everything up-to-date
+[2026-03-21 17:08:53] Push effectué
+Everything up-to-date
+[2026-03-21 17:09:25] Push effectué
+Everything up-to-date
+[2026-03-21 17:09:56] Push effectué
+Everything up-to-date
+[2026-03-21 17:10:29] Push effectué
+Everything up-to-date
+[2026-03-21 17:11:01] Push effectué
+Everything up-to-date
+[2026-03-21 17:11:33] Push effectué
+Everything up-to-date
+[2026-03-21 17:12:05] Push effectué
+Everything up-to-date
+[2026-03-21 17:12:37] Push effectué
+Everything up-to-date
+[2026-03-21 17:13:09] Push effectué
+Everything up-to-date
+[2026-03-21 17:13:41] Push effectué
+Everything up-to-date
+[2026-03-21 17:14:13] Push effectué
+Everything up-to-date
+[2026-03-21 17:14:44] Push effectué
+Everything up-to-date
+[2026-03-21 17:15:16] Push effectué
+Everything up-to-date
+[2026-03-21 17:15:47] Push effectué
+Everything up-to-date
+[2026-03-21 17:16:19] Push effectué
+Everything up-to-date
+[2026-03-21 17:16:51] Push effectué
+Everything up-to-date
+[2026-03-21 17:17:23] Push effectué
+Everything up-to-date
+[2026-03-21 17:17:55] Push effectué
+Everything up-to-date
+[2026-03-21 17:18:27] Push effectué
+Everything up-to-date
+[2026-03-21 17:18:59] Push effectué
+Everything up-to-date
+[2026-03-21 17:19:31] Push effectué
+Everything up-to-date
+[2026-03-21 17:20:03] Push effectué
+Everything up-to-date
+[2026-03-21 17:20:35] Push effectué
+Everything up-to-date
+[2026-03-21 17:21:07] Push effectué
+Everything up-to-date
+[2026-03-21 17:21:39] Push effectué
+Everything up-to-date
+[2026-03-21 17:22:11] Push effectué
+Everything up-to-date
+[2026-03-21 17:22:42] Push effectué
+Everything up-to-date
+[2026-03-21 17:23:14] Push effectué
+Everything up-to-date
+[2026-03-21 17:23:46] Push effectué
+Everything up-to-date
+[2026-03-21 17:24:17] Push effectué
+Everything up-to-date
+[2026-03-21 17:24:49] Push effectué
+Everything up-to-date
+[2026-03-21 17:25:21] Push effectué
+Everything up-to-date
+[2026-03-21 17:25:53] Push effectué
+Everything up-to-date
+[2026-03-21 17:26:25] Push effectué
+Everything up-to-date
+[2026-03-21 17:26:57] Push effectué
+Everything up-to-date
+[2026-03-21 17:27:29] Push effectué
+Everything up-to-date
+[2026-03-21 17:28:00] Push effectué
+Everything up-to-date
+[2026-03-21 17:28:32] Push effectué
+Everything up-to-date
+[2026-03-21 17:29:04] Push effectué
+Everything up-to-date
+[2026-03-21 17:29:35] Push effectué
+Everything up-to-date
+[2026-03-21 17:30:07] Push effectué
+Everything up-to-date
+[2026-03-21 17:30:39] Push effectué
+Everything up-to-date
+[2026-03-21 17:31:11] Push effectué
+Everything up-to-date
+[2026-03-21 17:31:43] Push effectué
+Everything up-to-date
+[2026-03-21 17:32:15] Push effectué
+Everything up-to-date
+[2026-03-21 17:32:47] Push effectué
+Everything up-to-date
+[2026-03-21 17:33:18] Push effectué
+Everything up-to-date
+[2026-03-21 17:33:50] Push effectué
+Everything up-to-date
+[2026-03-21 17:34:22] Push effectué
+Everything up-to-date
+[2026-03-21 17:34:53] Push effectué
+Everything up-to-date
+[2026-03-21 17:35:25] Push effectué
+Everything up-to-date
+[2026-03-21 17:35:57] Push effectué
+Everything up-to-date
+[2026-03-21 17:36:29] Push effectué
+Everything up-to-date
+[2026-03-21 17:37:01] Push effectué
+Everything up-to-date
+[2026-03-21 17:37:33] Push effectué
+Everything up-to-date
+[2026-03-21 17:38:05] Push effectué
+Everything up-to-date
+[2026-03-21 17:39:25] Push effectué
+Everything up-to-date
+[2026-03-21 17:40:45] Push effectué
+Everything up-to-date
+[2026-03-21 17:41:17] Push effectué
+Everything up-to-date
+[2026-03-21 17:41:49] Push effectué
+Everything up-to-date
+[2026-03-21 17:42:21] Push effectué
+Everything up-to-date
+[2026-03-21 17:42:52] Push effectué
+Everything up-to-date
+[2026-03-21 17:43:24] Push effectué
+Everything up-to-date
+[2026-03-21 17:43:56] Push effectué
+Everything up-to-date
+[2026-03-21 17:44:27] Push effectué
+Everything up-to-date
+[2026-03-21 17:44:59] Push effectué
+Everything up-to-date
+[2026-03-21 17:45:31] Push effectué
+Everything up-to-date
+[2026-03-21 17:46:03] Push effectué
+Everything up-to-date
+[2026-03-21 17:46:35] Push effectué
+Everything up-to-date
+[2026-03-21 17:47:07] Push effectué
+Everything up-to-date
+[2026-03-21 17:47:39] Push effectué
+Everything up-to-date
+[2026-03-21 17:48:10] Push effectué
+Everything up-to-date
+[2026-03-21 17:48:42] Push effectué
+Everything up-to-date
+[2026-03-21 17:49:14] Push effectué
+Everything up-to-date
+[2026-03-21 17:49:45] Push effectué
+Everything up-to-date
+[2026-03-21 17:50:17] Push effectué
+Everything up-to-date
+[2026-03-21 17:50:49] Push effectué
+Everything up-to-date
+[2026-03-21 17:51:21] Push effectué
+Everything up-to-date
+[2026-03-21 17:51:52] Push effectué
+Everything up-to-date
+[2026-03-21 17:52:24] Push effectué
+Everything up-to-date
+[2026-03-21 17:52:56] Push effectué
+Everything up-to-date
+[2026-03-21 17:53:28] Push effectué
+Everything up-to-date
+[2026-03-21 17:53:59] Push effectué
+Everything up-to-date
+[2026-03-21 17:54:31] Push effectué
+Everything up-to-date
+[2026-03-21 17:55:03] Push effectué
+Everything up-to-date
+[2026-03-21 17:55:35] Push effectué
+Everything up-to-date
+[2026-03-21 17:56:06] Push effectué
+Everything up-to-date
+[2026-03-21 17:56:39] Push effectué
+Everything up-to-date
+[2026-03-21 17:57:10] Push effectué
+Everything up-to-date
+[2026-03-21 17:57:42] Push effectué
+Everything up-to-date
+[2026-03-21 17:58:14] Push effectué
+Everything up-to-date
+[2026-03-21 17:58:46] Push effectué
+Everything up-to-date
+[2026-03-21 17:59:18] Push effectué
+Everything up-to-date
+[2026-03-21 17:59:50] Push effectué
+Everything up-to-date
+[2026-03-21 18:00:22] Push effectué
+Everything up-to-date
+[2026-03-21 18:00:54] Push effectué
+Everything up-to-date
+[2026-03-21 18:01:26] Push effectué
+Everything up-to-date
+[2026-03-21 18:01:57] Push effectué
+Everything up-to-date
+[2026-03-21 18:02:29] Push effectué
+Everything up-to-date
+[2026-03-21 18:03:01] Push effectué
+Everything up-to-date
+[2026-03-21 18:03:33] Push effectué
+Everything up-to-date
+[2026-03-21 18:04:05] Push effectué
+Everything up-to-date
+[2026-03-21 18:04:37] Push effectué
+Everything up-to-date
+[2026-03-21 18:05:09] Push effectué
+Everything up-to-date
+[2026-03-21 18:05:40] Push effectué
+Everything up-to-date
+[2026-03-21 18:06:12] Push effectué
+Everything up-to-date
+[2026-03-21 18:06:43] Push effectué
+Everything up-to-date
+[2026-03-21 18:07:15] Push effectué
+Everything up-to-date
+[2026-03-21 18:07:46] Push effectué
+Everything up-to-date
+[2026-03-21 18:08:18] Push effectué
+Everything up-to-date
+[2026-03-21 18:08:49] Push effectué
+Everything up-to-date
+[2026-03-21 18:09:21] Push effectué
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'sorenmendy@Air-de-Soren.(none)')
+Everything up-to-date
+[2026-03-21 18:09:30] Push effectué
+Everything up-to-date
+[2026-03-21 18:09:53] Push effectué
+Everything up-to-date
+[2026-03-21 18:10:24] Push effectué
+Everything up-to-date
+[2026-03-21 18:10:56] Push effectué
+Everything up-to-date
+[2026-03-21 18:11:28] Push effectué
+Everything up-to-date
+[2026-03-21 18:12:00] Push effectué
+Everything up-to-date
+[2026-03-21 18:12:32] Push effectué
+Everything up-to-date
+[2026-03-21 18:13:03] Push effectué
+Everything up-to-date
+[2026-03-21 18:13:35] Push effectué
+Everything up-to-date
+[2026-03-21 18:14:07] Push effectué
+Everything up-to-date
+[2026-03-21 18:14:38] Push effectué
+Everything up-to-date
+[2026-03-21 18:15:10] Push effectué
+Everything up-to-date
+[2026-03-21 18:15:42] Push effectué
+Everything up-to-date
+[2026-03-21 18:16:14] Push effectué
+Everything up-to-date
+[2026-03-21 18:16:46] Push effectué
+Everything up-to-date
+[2026-03-21 18:17:17] Push effectué
+Everything up-to-date
+[2026-03-21 18:17:49] Push effectué
+Everything up-to-date
+[2026-03-21 18:18:21] Push effectué
+Everything up-to-date
+[2026-03-21 18:18:53] Push effectué
+Everything up-to-date
+[2026-03-21 18:19:24] Push effectué
+Everything up-to-date
+[2026-03-21 18:19:56] Push effectué
+Everything up-to-date
+[2026-03-21 18:20:28] Push effectué
+Everything up-to-date
+[2026-03-21 18:20:59] Push effectué
+Everything up-to-date
+[2026-03-21 18:21:32] Push effectué
+Everything up-to-date
+[2026-03-21 18:22:03] Push effectué
+Everything up-to-date
+[2026-03-21 18:22:35] Push effectué
+Everything up-to-date
+[2026-03-21 18:23:07] Push effectué
+Everything up-to-date
+[2026-03-21 18:23:39] Push effectué
+Everything up-to-date
+[2026-03-21 18:24:10] Push effectué
+Everything up-to-date
+[2026-03-21 18:24:42] Push effectué
+Everything up-to-date
+[2026-03-21 18:25:14] Push effectué
+Everything up-to-date
+[2026-03-21 18:25:45] Push effectué
+Everything up-to-date
+[2026-03-21 18:26:17] Push effectué
+Everything up-to-date
+[2026-03-21 18:26:49] Push effectué
+Everything up-to-date
+[2026-03-21 18:27:21] Push effectué
+Everything up-to-date
+[2026-03-21 18:27:53] Push effectué
+Everything up-to-date
+[2026-03-21 18:28:25] Push effectué
+Everything up-to-date
+[2026-03-21 18:28:57] Push effectué
+Everything up-to-date
+[2026-03-21 18:29:28] Push effectué
+Everything up-to-date
+[2026-03-21 18:30:00] Push effectué
+Everything up-to-date
+[2026-03-21 18:30:32] Push effectué
+Everything up-to-date
+[2026-03-21 18:31:04] Push effectué
+Everything up-to-date
+[2026-03-21 18:31:36] Push effectué
+Everything up-to-date
+[2026-03-21 18:32:07] Push effectué
+Everything up-to-date
+[2026-03-21 18:32:39] Push effectué
+Everything up-to-date
+[2026-03-21 18:33:11] Push effectué
+Everything up-to-date
+[2026-03-21 18:33:43] Push effectué
+Everything up-to-date
+[2026-03-21 18:34:14] Push effectué
+Everything up-to-date
+[2026-03-21 18:37:13] Push effectué
+Everything up-to-date
+[2026-03-21 18:37:45] Push effectué
+Everything up-to-date
+[2026-03-21 18:38:17] Push effectué
+Everything up-to-date
+[2026-03-21 18:38:49] Push effectué
+Everything up-to-date
+[2026-03-21 18:39:20] Push effectué
+Everything up-to-date
+[2026-03-21 18:39:52] Push effectué
+Everything up-to-date
+[2026-03-21 18:40:24] Push effectué
+Everything up-to-date
+[2026-03-21 18:40:56] Push effectué
+Everything up-to-date
+[2026-03-21 18:41:28] Push effectué
+Everything up-to-date
+[2026-03-21 18:42:00] Push effectué
+Everything up-to-date
+[2026-03-21 18:43:31] Push effectué
+Everything up-to-date
+[2026-03-21 18:44:04] Push effectué
+Everything up-to-date
+[2026-03-21 18:44:36] Push effectué
+Everything up-to-date
+[2026-03-21 18:45:08] Push effectué
+Everything up-to-date
+[2026-03-21 18:45:39] Push effectué
+Everything up-to-date
+[2026-03-21 18:46:11] Push effectué
+Everything up-to-date
+[2026-03-21 18:46:43] Push effectué
+Everything up-to-date
+[2026-03-21 18:47:14] Push effectué
+Everything up-to-date
+[2026-03-21 18:47:46] Push effectué
+Everything up-to-date
+[2026-03-21 18:48:18] Push effectué
+Everything up-to-date
+[2026-03-21 18:48:51] Push effectué
+Everything up-to-date
+[2026-03-21 18:49:22] Push effectué
+Everything up-to-date
+[2026-03-21 18:49:54] Push effectué
+Everything up-to-date
+[2026-03-21 18:51:52] Push effectué
+Everything up-to-date
+[2026-03-21 18:52:29] Push effectué
+Everything up-to-date
+[2026-03-21 18:53:00] Push effectué
+Everything up-to-date
+[2026-03-21 18:53:32] Push effectué
+Everything up-to-date
+[2026-03-21 18:54:04] Push effectué
+Everything up-to-date
+[2026-03-21 18:54:36] Push effectué
+Everything up-to-date
+[2026-03-21 18:55:08] Push effectué
+Everything up-to-date
+[2026-03-21 18:55:40] Push effectué
+Everything up-to-date
+[2026-03-21 18:56:11] Push effectué
+Everything up-to-date
+[2026-03-21 18:56:43] Push effectué
+Everything up-to-date
+[2026-03-21 18:57:16] Push effectué
+Everything up-to-date
+[2026-03-21 18:57:47] Push effectué
+Everything up-to-date
+[2026-03-21 18:58:19] Push effectué
+Everything up-to-date
+[2026-03-21 18:58:51] Push effectué
+Everything up-to-date
+[2026-03-21 18:59:23] Push effectué
+Everything up-to-date
+[2026-03-21 18:59:55] Push effectué
+Everything up-to-date
+[2026-03-21 19:00:27] Push effectué
+Everything up-to-date
+[2026-03-21 19:00:59] Push effectué
+Everything up-to-date
+[2026-03-21 19:01:31] Push effectué
+Everything up-to-date
+[2026-03-21 19:02:03] Push effectué
+Everything up-to-date
+[2026-03-21 19:02:35] Push effectué
+Everything up-to-date
+[2026-03-21 19:03:08] Push effectué
+Everything up-to-date
+[2026-03-21 19:03:39] Push effectué
+Everything up-to-date
+[2026-03-21 19:04:11] Push effectué
+Everything up-to-date
+[2026-03-21 19:04:43] Push effectué
+Everything up-to-date
+[2026-03-21 19:05:14] Push effectué
+Everything up-to-date
+[2026-03-21 19:05:46] Push effectué
+Everything up-to-date
+[2026-03-21 19:06:19] Push effectué
+Everything up-to-date
+[2026-03-21 19:06:50] Push effectué
+Everything up-to-date
+[2026-03-21 19:07:22] Push effectué
+Everything up-to-date
+[2026-03-21 19:07:54] Push effectué
+Everything up-to-date
+[2026-03-21 19:08:26] Push effectué
+Everything up-to-date
+[2026-03-21 19:08:58] Push effectué
+Everything up-to-date
+[2026-03-21 19:09:30] Push effectué
+Everything up-to-date
+[2026-03-21 19:10:01] Push effectué
+Everything up-to-date
+[2026-03-21 19:10:33] Push effectué
+Everything up-to-date
+[2026-03-21 19:11:05] Push effectué
+Everything up-to-date
+[2026-03-21 19:11:36] Push effectué
+Everything up-to-date
+[2026-03-21 19:12:08] Push effectué
+Everything up-to-date
+[2026-03-21 19:12:41] Push effectué
+Everything up-to-date
+[2026-03-21 19:13:13] Push effectué
+Everything up-to-date
+[2026-03-21 19:13:45] Push effectué
+Everything up-to-date
+[2026-03-21 19:14:17] Push effectué
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'sorenmendy@Air-de-Soren.(none)')
+Everything up-to-date
+[2026-03-21 19:14:25] Push effectué
+Everything up-to-date
+[2026-03-21 19:14:48] Push effectué
+Everything up-to-date
+[2026-03-21 19:15:20] Push effectué
+Everything up-to-date
+[2026-03-21 19:15:51] Push effectué
+Everything up-to-date
+[2026-03-21 19:16:23] Push effectué
+Everything up-to-date
+[2026-03-21 19:16:55] Push effectué
+Everything up-to-date
+[2026-03-21 19:17:27] Push effectué
+Everything up-to-date
+[2026-03-21 19:17:59] Push effectué
+Everything up-to-date
+[2026-03-21 19:18:31] Push effectué
+Everything up-to-date
+[2026-03-21 19:19:03] Push effectué
+Everything up-to-date
+[2026-03-21 19:19:35] Push effectué
+Everything up-to-date
+[2026-03-21 19:20:07] Push effectué
+Everything up-to-date
+[2026-03-21 19:20:38] Push effectué
+Everything up-to-date
+[2026-03-21 19:21:10] Push effectué
+Everything up-to-date
+[2026-03-21 19:21:42] Push effectué
+Everything up-to-date
+[2026-03-21 19:22:13] Push effectué
+Everything up-to-date
+[2026-03-21 19:22:45] Push effectué
+Everything up-to-date
+[2026-03-21 19:23:17] Push effectué
+Everything up-to-date
+[2026-03-21 19:23:49] Push effectué
+Everything up-to-date
+[2026-03-21 19:24:21] Push effectué
+Everything up-to-date
+[2026-03-21 19:24:53] Push effectué
+Everything up-to-date
+[2026-03-21 19:25:25] Push effectué
+Everything up-to-date
+[2026-03-21 19:25:57] Push effectué
+Everything up-to-date
+[2026-03-21 19:26:28] Push effectué
+Everything up-to-date
+[2026-03-21 19:27:00] Push effectué
+Everything up-to-date
+[2026-03-21 19:27:32] Push effectué
+Everything up-to-date
+[2026-03-21 19:28:03] Push effectué
+Everything up-to-date
+[2026-03-21 19:28:36] Push effectué
+Everything up-to-date
+[2026-03-21 19:29:07] Push effectué
+Everything up-to-date
+[2026-03-21 19:29:39] Push effectué
+Everything up-to-date
+[2026-03-21 19:30:11] Push effectué
+Everything up-to-date
+[2026-03-21 19:30:43] Push effectué
+Everything up-to-date
+[2026-03-21 19:31:15] Push effectué
+Everything up-to-date
+[2026-03-21 19:31:46] Push effectué
+Everything up-to-date
+[2026-03-21 19:32:18] Push effectué
+Everything up-to-date
+[2026-03-21 19:32:50] Push effectué
+Everything up-to-date
+[2026-03-21 19:33:21] Push effectué
+Everything up-to-date
+[2026-03-21 19:33:53] Push effectué
+Everything up-to-date
+[2026-03-21 19:34:25] Push effectué
+Everything up-to-date
+[2026-03-21 19:34:56] Push effectué
+Everything up-to-date
+[2026-03-21 19:35:28] Push effectué
+Everything up-to-date
+[2026-03-21 19:36:00] Push effectué
+Everything up-to-date
+[2026-03-21 19:36:31] Push effectué
+Everything up-to-date
+[2026-03-21 19:37:03] Push effectué
+Everything up-to-date
+[2026-03-21 19:41:09] Push effectué
+Everything up-to-date
+[2026-03-21 19:41:42] Push effectué
+Everything up-to-date
+[2026-03-21 19:42:14] Push effectué
+Everything up-to-date
+[2026-03-21 19:42:45] Push effectué
+Everything up-to-date
+[2026-03-21 19:43:17] Push effectué
+Everything up-to-date
+[2026-03-21 19:43:49] Push effectué
+Everything up-to-date
+[2026-03-21 19:44:20] Push effectué
+Everything up-to-date
+[2026-03-21 19:44:52] Push effectué
+Everything up-to-date
+[2026-03-21 19:45:23] Push effectué
+Everything up-to-date
+[2026-03-21 19:45:55] Push effectué
+Everything up-to-date
+[2026-03-21 19:46:27] Push effectué
+Everything up-to-date
+[2026-03-21 19:46:58] Push effectué
+Everything up-to-date
+[2026-03-21 19:47:30] Push effectué
+Everything up-to-date
+[2026-03-21 19:48:02] Push effectué
+Everything up-to-date
+[2026-03-21 19:48:34] Push effectué
+Everything up-to-date
+[2026-03-21 19:49:06] Push effectué
+Everything up-to-date
+[2026-03-21 19:49:38] Push effectué
+Everything up-to-date
+[2026-03-21 19:50:10] Push effectué
+Everything up-to-date
+[2026-03-21 19:50:41] Push effectué
+Everything up-to-date
+[2026-03-21 19:51:13] Push effectué
+Everything up-to-date
+[2026-03-21 19:51:44] Push effectué
+Everything up-to-date
+[2026-03-21 19:52:16] Push effectué
+Everything up-to-date
+[2026-03-21 19:52:48] Push effectué
+Everything up-to-date
+[2026-03-21 19:53:19] Push effectué
+Everything up-to-date
+[2026-03-21 19:53:51] Push effectué
+Everything up-to-date
+[2026-03-21 19:54:23] Push effectué
+Everything up-to-date
+[2026-03-21 19:54:54] Push effectué
+Everything up-to-date
+[2026-03-21 19:55:26] Push effectué
+Everything up-to-date
+[2026-03-21 19:55:58] Push effectué
+Everything up-to-date
+[2026-03-21 20:08:02] Push effectué
+Everything up-to-date
+[2026-03-21 20:17:12] Push effectué
+Everything up-to-date
+[2026-03-21 20:17:44] Push effectué
+Everything up-to-date
+[2026-03-21 20:18:43] Push effectué
+Everything up-to-date
+[2026-03-21 20:56:47] Push effectué
+Connection to github.com closed by remote host.
+client_loop: send disconnect: Broken pipe
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[2026-03-21 21:12:45] Push effectué
+Everything up-to-date
+[2026-03-21 22:02:35] Push effectué
+Everything up-to-date
+[2026-03-21 22:06:14] Push effectué
+Everything up-to-date
+[2026-03-21 22:07:59] Push effectué
+Everything up-to-date
+[2026-03-21 22:08:31] Push effectué
+Everything up-to-date
+[2026-03-21 22:09:30] Push effectué
+Everything up-to-date
+[2026-03-21 22:10:53] Push effectué
+Everything up-to-date
+[2026-03-21 22:11:24] Push effectué
+Everything up-to-date
+[2026-03-21 22:14:30] Push effectué
+Everything up-to-date
+[2026-03-21 22:16:36] Push effectué
+Everything up-to-date
+[2026-03-21 22:17:07] Push effectué
+Everything up-to-date
+[2026-03-21 22:17:45] Push effectué
+Everything up-to-date
+[2026-03-21 22:18:18] Push effectué
+Connection closed by 140.82.121.3 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[2026-03-21 22:18:49] Push effectué
+Everything up-to-date
+[2026-03-21 22:41:12] Push effectué
+Everything up-to-date
+[2026-03-21 22:58:11] Push effectué
+Everything up-to-date
+[2026-03-21 23:15:26] Push effectué
+Everything up-to-date
+[2026-03-21 23:32:14] Push effectué
+Everything up-to-date
+[2026-03-22 00:05:32] Push effectué
+Everything up-to-date
+[2026-03-22 00:38:51] Push effectué
+Everything up-to-date
+[2026-03-22 01:05:26] Push effectué
+Everything up-to-date
+[2026-03-22 01:21:28] Push effectué
+Connection closed by 140.82.121.3 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[2026-03-22 01:38:41] Push effectué
+Everything up-to-date
+[2026-03-22 03:01:24] Push effectué
+Everything up-to-date
+[2026-03-22 03:36:18] Push effectué
+Everything up-to-date
+[2026-03-22 03:55:56] Push effectué
+Everything up-to-date
+[2026-03-22 04:13:51] Push effectué
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'sorenmendy@Air-de-Soren.(none)')
+Connection to github.com closed by remote host.
+client_loop: send disconnect: Broken pipe
+Connection closed by 140.82.121.4 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[2026-03-22 05:25:30] Push effectué
+error: failed to push some refs to 'github.com:bxq7gv2vds-ctrl/brantham-vault.git'
+[2026-03-22 04:48:41] Push effectué
+Everything up-to-date
+[2026-03-22 06:51:43] Push effectué
+Everything up-to-date
+[2026-03-22 06:52:15] Push effectué
+Everything up-to-date
+[2026-03-22 07:43:54] Push effectué
+Everything up-to-date
+[2026-03-22 08:16:01] Push effectué
+Everything up-to-date
+[2026-03-22 08:16:33] Push effectué
+Everything up-to-date
+[2026-03-22 08:49:39] Push effectué
+Everything up-to-date
+[2026-03-22 09:38:44] Push effectué
+Connection closed by 140.82.121.4 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[2026-03-22 10:11:52] Push effectué
+Everything up-to-date
+[2026-03-22 11:02:09] Push effectué
+Everything up-to-date
+[2026-03-22 11:02:41] Push effectué
+Everything up-to-date
+[2026-03-22 11:03:13] Push effectué
+Everything up-to-date
+[2026-03-22 11:03:45] Push effectué
+Everything up-to-date
+[2026-03-22 11:04:17] Push effectué
+Everything up-to-date
+[2026-03-22 11:04:49] Push effectué
+Everything up-to-date
+[2026-03-22 11:05:21] Push effectué
+Everything up-to-date
+[2026-03-22 11:05:53] Push effectué
+Everything up-to-date
+[2026-03-22 11:06:25] Push effectué
+Everything up-to-date
+[2026-03-22 11:06:57] Push effectué
+Everything up-to-date
+[2026-03-22 11:07:29] Push effectué
+Everything up-to-date
+[2026-03-22 11:08:01] Push effectué
+Everything up-to-date
+[2026-03-22 11:08:33] Push effectué
+Everything up-to-date
+[2026-03-22 11:09:05] Push effectué
+Everything up-to-date
+[2026-03-22 11:09:37] Push effectué
+Everything up-to-date
+[2026-03-22 11:10:09] Push effectué
+Everything up-to-date
+[2026-03-22 11:10:41] Push effectué
+Everything up-to-date
+[2026-03-22 11:11:13] Push effectué
+Everything up-to-date
+[2026-03-22 11:11:45] Push effectué
+Everything up-to-date
+[2026-03-22 11:12:17] Push effectué
+Everything up-to-date
+[2026-03-22 11:12:49] Push effectué
+Everything up-to-date
+[2026-03-22 11:13:21] Push effectué
+Everything up-to-date
+[2026-03-22 11:13:53] Push effectué
+Everything up-to-date
+[2026-03-22 11:14:25] Push effectué
+Everything up-to-date
+[2026-03-22 11:14:57] Push effectué
+Everything up-to-date
+[2026-03-22 11:15:29] Push effectué
+Everything up-to-date
+[2026-03-22 11:16:00] Push effectué
+Everything up-to-date
+[2026-03-22 11:16:33] Push effectué
+Everything up-to-date
+[2026-03-22 11:17:05] Push effectué
+Everything up-to-date
+[2026-03-22 11:17:36] Push effectué
+Everything up-to-date
+[2026-03-22 11:18:08] Push effectué
+Everything up-to-date
+[2026-03-22 11:18:39] Push effectué
+Everything up-to-date
+[2026-03-22 11:19:11] Push effectué
+Everything up-to-date
+[2026-03-22 11:19:42] Push effectué
+Everything up-to-date
+[2026-03-22 11:20:14] Push effectué
+Everything up-to-date
+[2026-03-22 11:20:46] Push effectué
+Everything up-to-date
+[2026-03-22 11:21:17] Push effectué
+Everything up-to-date
+[2026-03-22 11:21:49] Push effectué
+Everything up-to-date
+[2026-03-22 11:22:20] Push effectué
+Everything up-to-date
+[2026-03-22 11:22:52] Push effectué
+Everything up-to-date
+[2026-03-22 11:23:23] Push effectué
+Everything up-to-date
+[2026-03-22 11:23:55] Push effectué
+Everything up-to-date
+[2026-03-22 11:24:26] Push effectué
+Everything up-to-date
+[2026-03-22 11:24:58] Push effectué
+Everything up-to-date
+[2026-03-22 11:25:30] Push effectué
+Everything up-to-date
+[2026-03-22 11:26:02] Push effectué
+Everything up-to-date
+[2026-03-22 11:26:34] Push effectué
+Everything up-to-date
+[2026-03-22 11:27:06] Push effectué
+Everything up-to-date
+[2026-03-22 11:27:38] Push effectué
+Everything up-to-date
+[2026-03-22 11:28:10] Push effectué
+Everything up-to-date
+[2026-03-22 11:28:42] Push effectué
+Everything up-to-date
+[2026-03-22 11:29:14] Push effectué
+Everything up-to-date
+[2026-03-22 11:29:45] Push effectué
+Everything up-to-date
+[2026-03-22 11:30:17] Push effectué
+Everything up-to-date
+[2026-03-22 11:30:49] Push effectué
+Everything up-to-date
+[2026-03-22 11:31:21] Push effectué
+Everything up-to-date
+[2026-03-22 11:31:52] Push effectué
+Everything up-to-date
+[2026-03-22 11:32:24] Push effectué
+Everything up-to-date
+[2026-03-22 11:32:55] Push effectué
+Everything up-to-date
+[2026-03-22 11:33:27] Push effectué
+Everything up-to-date
+[2026-03-22 11:33:58] Push effectué
+Everything up-to-date
+[2026-03-22 11:34:30] Push effectué
+Everything up-to-date
+[2026-03-22 11:35:02] Push effectué
+Everything up-to-date
+[2026-03-22 11:35:33] Push effectué
+Everything up-to-date
+[2026-03-22 11:36:05] Push effectué
+Everything up-to-date
+[2026-03-22 11:36:37] Push effectué
+Everything up-to-date
+[2026-03-22 11:37:08] Push effectué
+Everything up-to-date
+[2026-03-22 11:37:40] Push effectué
+Everything up-to-date
+[2026-03-22 11:38:11] Push effectué
+Everything up-to-date
+[2026-03-22 11:38:43] Push effectué
+Everything up-to-date
+[2026-03-22 11:39:15] Push effectué
+Everything up-to-date
+[2026-03-22 11:39:46] Push effectué
+Everything up-to-date
+[2026-03-22 11:40:18] Push effectué
+Everything up-to-date
+[2026-03-22 11:40:49] Push effectué
+Everything up-to-date
+[2026-03-22 11:41:21] Push effectué
+Everything up-to-date
+[2026-03-22 11:41:53] Push effectué
+Everything up-to-date
+[2026-03-22 11:42:24] Push effectué
+Everything up-to-date
+[2026-03-22 11:59:18] Push effectué
+Everything up-to-date
+[2026-03-22 12:08:51] Push effectué
+Everything up-to-date
+[2026-03-22 12:25:49] Push effectué
+Everything up-to-date
+[2026-03-22 12:31:19] Push effectué
+Everything up-to-date
+[2026-03-22 12:31:51] Push effectué
+Everything up-to-date
+[2026-03-22 12:32:23] Push effectué
+Everything up-to-date
+[2026-03-22 12:32:55] Push effectué
+Everything up-to-date
+[2026-03-22 12:33:27] Push effectué
+Everything up-to-date
+[2026-03-22 12:33:59] Push effectué
+Everything up-to-date
+[2026-03-22 12:34:31] Push effectué
+Everything up-to-date
+[2026-03-22 12:35:03] Push effectué
+Everything up-to-date
+[2026-03-22 12:35:35] Push effectué
+Everything up-to-date
+[2026-03-22 12:36:07] Push effectué
+Everything up-to-date
+[2026-03-22 12:36:39] Push effectué
+Everything up-to-date
+[2026-03-22 12:37:11] Push effectué
+Everything up-to-date
+[2026-03-22 12:37:43] Push effectué
+Everything up-to-date
+[2026-03-22 12:38:15] Push effectué
+Everything up-to-date
+[2026-03-22 12:38:47] Push effectué
+Everything up-to-date
+[2026-03-22 12:42:02] Push effectué
+Everything up-to-date
+[2026-03-22 12:42:33] Push effectué
+Everything up-to-date
+[2026-03-22 12:43:05] Push effectué
+Everything up-to-date
+[2026-03-22 12:43:37] Push effectué
+Everything up-to-date
+[2026-03-22 12:44:08] Push effectué
+Everything up-to-date
+[2026-03-22 12:44:40] Push effectué
+Everything up-to-date
+[2026-03-22 12:45:12] Push effectué
+Everything up-to-date
+[2026-03-22 12:45:43] Push effectué
+Everything up-to-date
+[2026-03-22 12:46:15] Push effectué
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'sorenmendy@Air-de-Soren.(none)')
+Everything up-to-date
+[2026-03-22 12:46:35] Push effectué
+Everything up-to-date
+[2026-03-22 12:46:47] Push effectué
+Everything up-to-date
+[2026-03-22 12:47:18] Push effectué
+Everything up-to-date
+[2026-03-22 12:47:50] Push effectué
+Everything up-to-date
+[2026-03-22 12:48:21] Push effectué
+Everything up-to-date
+[2026-03-22 12:48:53] Push effectué
+Everything up-to-date
+[2026-03-22 12:49:25] Push effectué
+Everything up-to-date
+[2026-03-22 12:49:56] Push effectué
+Everything up-to-date
+[2026-03-22 12:50:28] Push effectué
+Everything up-to-date
+[2026-03-22 12:51:00] Push effectué
+Everything up-to-date
+[2026-03-22 12:51:31] Push effectué
+Everything up-to-date
+[2026-03-22 12:52:03] Push effectué
+Everything up-to-date
+[2026-03-22 12:52:35] Push effectué
+Everything up-to-date
+[2026-03-22 12:53:06] Push effectué
+Everything up-to-date
+[2026-03-22 12:53:38] Push effectué
+Everything up-to-date
+[2026-03-22 12:54:10] Push effectué
+Everything up-to-date
+[2026-03-22 12:54:41] Push effectué
+Everything up-to-date
+[2026-03-22 12:55:13] Push effectué
+Everything up-to-date
+[2026-03-22 12:55:45] Push effectué
+Everything up-to-date
+[2026-03-22 12:56:16] Push effectué
+Everything up-to-date
+[2026-03-22 12:56:48] Push effectué
+Everything up-to-date
+[2026-03-22 12:57:19] Push effectué
+Everything up-to-date
+[2026-03-22 12:57:51] Push effectué
+Everything up-to-date
+[2026-03-22 12:58:23] Push effectué
+Everything up-to-date
+[2026-03-22 12:58:54] Push effectué
+Everything up-to-date
+[2026-03-22 12:59:26] Push effectué
+Everything up-to-date
+[2026-03-22 12:59:58] Push effectué
+Everything up-to-date
+[2026-03-22 13:00:29] Push effectué
+Everything up-to-date
+[2026-03-22 13:01:01] Push effectué
+Everything up-to-date
+[2026-03-22 13:04:19] Push effectué
+Everything up-to-date
+[2026-03-22 13:04:50] Push effectué
+Everything up-to-date
+[2026-03-22 13:05:22] Push effectué
+Everything up-to-date
+[2026-03-22 13:05:54] Push effectué
+Everything up-to-date
+[2026-03-22 13:06:26] Push effectué
+Everything up-to-date
+[2026-03-22 13:06:58] Push effectué
+Everything up-to-date
+[2026-03-22 13:07:30] Push effectué
+Everything up-to-date
+[2026-03-22 13:08:02] Push effectué
+Everything up-to-date
+[2026-03-22 13:08:34] Push effectué
+Everything up-to-date
+[2026-03-22 13:09:06] Push effectué
+Everything up-to-date
+[2026-03-22 13:09:38] Push effectué
+Everything up-to-date
+[2026-03-22 13:10:10] Push effectué
+Everything up-to-date
+[2026-03-22 13:10:42] Push effectué
+Everything up-to-date
+[2026-03-22 13:11:14] Push effectué
+Everything up-to-date
+[2026-03-22 13:11:45] Push effectué
+Everything up-to-date
+[2026-03-22 13:12:17] Push effectué
+Everything up-to-date
+[2026-03-22 13:12:49] Push effectué
+Everything up-to-date
+[2026-03-22 13:13:21] Push effectué
+Everything up-to-date
+[2026-03-22 13:13:53] Push effectué
+Everything up-to-date
+[2026-03-22 13:14:25] Push effectué
+Everything up-to-date
+[2026-03-22 13:14:57] Push effectué
+Everything up-to-date
+[2026-03-22 13:15:29] Push effectué
+Everything up-to-date
+[2026-03-22 13:16:01] Push effectué
+Everything up-to-date
+[2026-03-22 13:16:32] Push effectué
+Everything up-to-date
+[2026-03-22 13:17:04] Push effectué
+Everything up-to-date
+[2026-03-22 13:17:36] Push effectué
+Everything up-to-date
+[2026-03-22 13:18:07] Push effectué
+Everything up-to-date
+[2026-03-22 13:18:39] Push effectué
+Everything up-to-date
+[2026-03-22 13:19:11] Push effectué
+Everything up-to-date
+[2026-03-22 13:19:42] Push effectué
+Everything up-to-date
+[2026-03-22 13:20:14] Push effectué
+Everything up-to-date
+[2026-03-22 13:20:45] Push effectué
+Everything up-to-date
+[2026-03-22 13:21:17] Push effectué
+Everything up-to-date
+[2026-03-22 13:21:48] Push effectué
+Everything up-to-date
+[2026-03-22 13:22:20] Push effectué
+Everything up-to-date
+[2026-03-22 13:22:52] Push effectué
+Everything up-to-date
+[2026-03-22 13:23:23] Push effectué
+Everything up-to-date
+[2026-03-22 13:23:55] Push effectué
+Everything up-to-date
+[2026-03-22 13:24:26] Push effectué
+Everything up-to-date
+[2026-03-22 13:24:58] Push effectué
+Everything up-to-date
+[2026-03-22 13:25:29] Push effectué
+Everything up-to-date
+[2026-03-22 13:26:01] Push effectué
+Everything up-to-date
+[2026-03-22 13:26:33] Push effectué
+Everything up-to-date
+[2026-03-22 13:27:05] Push effectué
+Everything up-to-date
+[2026-03-22 13:27:37] Push effectué
+Everything up-to-date
+[2026-03-22 13:28:09] Push effectué
+Everything up-to-date
+[2026-03-22 13:28:41] Push effectué
+Everything up-to-date
+[2026-03-22 13:29:13] Push effectué
+Everything up-to-date
+[2026-03-22 13:29:45] Push effectué
+Everything up-to-date
+[2026-03-22 13:30:17] Push effectué
+Everything up-to-date
+[2026-03-22 13:30:48] Push effectué
+Everything up-to-date
+[2026-03-22 13:31:20] Push effectué
+Everything up-to-date
+[2026-03-22 13:31:52] Push effectué
+Everything up-to-date
+[2026-03-22 13:32:24] Push effectué
+Everything up-to-date
+[2026-03-22 13:32:56] Push effectué
+Everything up-to-date
+[2026-03-22 13:33:28] Push effectué
+Everything up-to-date
+[2026-03-22 13:34:00] Push effectué
+Everything up-to-date
+[2026-03-22 13:34:33] Push effectué
+Everything up-to-date
+[2026-03-22 13:35:05] Push effectué
+Everything up-to-date
+[2026-03-22 13:35:36] Push effectué
+Everything up-to-date
+[2026-03-22 13:53:31] Push effectué
+Everything up-to-date
+[2026-03-22 14:00:36] Push effectué
+Everything up-to-date
+[2026-03-22 14:01:08] Push effectué
+Everything up-to-date
+[2026-03-22 14:01:40] Push effectué
+Everything up-to-date
+[2026-03-22 14:02:12] Push effectué
+Everything up-to-date
+[2026-03-22 14:02:44] Push effectué
+Everything up-to-date
+[2026-03-22 14:03:16] Push effectué
+Everything up-to-date
+[2026-03-22 14:03:48] Push effectué
+Everything up-to-date
+[2026-03-22 14:04:20] Push effectué
+Everything up-to-date
+[2026-03-22 14:04:51] Push effectué
+Everything up-to-date
+[2026-03-22 14:05:23] Push effectué
+Everything up-to-date
+[2026-03-22 14:05:55] Push effectué
+Everything up-to-date
+[2026-03-22 14:06:27] Push effectué
+Everything up-to-date
+[2026-03-22 14:06:59] Push effectué
+Everything up-to-date
+[2026-03-22 14:07:31] Push effectué
+Everything up-to-date
+[2026-03-22 14:08:03] Push effectué
+Everything up-to-date
+[2026-03-22 14:08:35] Push effectué
+Everything up-to-date
+[2026-03-22 14:09:06] Push effectué
+Everything up-to-date
+[2026-03-22 14:09:39] Push effectué
+Everything up-to-date
+[2026-03-22 14:10:11] Push effectué
+Everything up-to-date
+[2026-03-22 14:10:42] Push effectué
+Everything up-to-date
+[2026-03-22 14:11:14] Push effectué
+Everything up-to-date
+[2026-03-22 14:11:46] Push effectué
+Everything up-to-date
+[2026-03-22 14:12:18] Push effectué
+Everything up-to-date
+[2026-03-22 14:12:49] Push effectué
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'sorenmendy@Air-de-Soren.(none)')
+Everything up-to-date
+[2026-03-22 14:13:18] Push effectué
+Everything up-to-date
+[2026-03-22 14:13:21] Push effectué
+Everything up-to-date
+[2026-03-22 14:13:53] Push effectué
+Everything up-to-date
+[2026-03-22 14:14:25] Push effectué
+Everything up-to-date
+[2026-03-22 14:18:55] Push effectué
+Everything up-to-date
+[2026-03-22 14:19:27] Push effectué
+Everything up-to-date
+[2026-03-22 14:19:59] Push effectué
+Everything up-to-date
+[2026-03-22 14:30:43] Push effectué
+Everything up-to-date
+[2026-03-22 14:31:16] Push effectué
+Everything up-to-date
+[2026-03-22 14:31:48] Push effectué
+Everything up-to-date
+[2026-03-22 14:32:21] Push effectué
+Everything up-to-date
+[2026-03-22 14:32:53] Push effectué
+Everything up-to-date
+[2026-03-22 14:33:25] Push effectué
+Everything up-to-date
+[2026-03-22 14:33:57] Push effectué
+Everything up-to-date
+[2026-03-22 14:34:29] Push effectué
+Everything up-to-date
+[2026-03-22 14:35:01] Push effectué
+Everything up-to-date
+[2026-03-22 14:35:33] Push effectué
+Everything up-to-date
+[2026-03-22 14:36:05] Push effectué
+Everything up-to-date
+[2026-03-22 14:36:37] Push effectué
+Everything up-to-date
+[2026-03-22 14:37:08] Push effectué
+Everything up-to-date
+[2026-03-22 14:37:40] Push effectué
+Everything up-to-date
+[2026-03-22 14:38:12] Push effectué
+Everything up-to-date
+[2026-03-22 14:38:44] Push effectué
+Everything up-to-date
+[2026-03-22 14:39:16] Push effectué
+Everything up-to-date
+[2026-03-22 14:39:48] Push effectué
+Everything up-to-date
+[2026-03-22 14:40:20] Push effectué
+Everything up-to-date
+[2026-03-22 14:40:52] Push effectué
+Everything up-to-date
+[2026-03-22 14:41:24] Push effectué
+Everything up-to-date
+[2026-03-22 14:41:56] Push effectué
+Everything up-to-date
+[2026-03-22 14:42:28] Push effectué
+Everything up-to-date
+[2026-03-22 14:43:00] Push effectué
+Everything up-to-date
+[2026-03-22 14:43:31] Push effectué
+Everything up-to-date
+[2026-03-22 14:44:04] Push effectué
+Everything up-to-date
+[2026-03-22 14:44:36] Push effectué
+Everything up-to-date
+[2026-03-22 14:45:07] Push effectué
+Everything up-to-date
+[2026-03-22 14:45:39] Push effectué
+Everything up-to-date
+[2026-03-22 14:46:11] Push effectué
+Everything up-to-date
+[2026-03-22 14:46:43] Push effectué
+Everything up-to-date
+[2026-03-22 14:47:15] Push effectué
+Everything up-to-date
+[2026-03-22 14:47:47] Push effectué
+Everything up-to-date
+[2026-03-22 14:48:19] Push effectué
+Everything up-to-date
+[2026-03-22 14:48:51] Push effectué
+Everything up-to-date
+[2026-03-22 14:49:23] Push effectué
+Everything up-to-date
+[2026-03-22 14:49:55] Push effectué
+Everything up-to-date
+[2026-03-22 14:50:27] Push effectué
+Everything up-to-date
+[2026-03-22 14:50:59] Push effectué
+Everything up-to-date
+[2026-03-22 14:51:31] Push effectué
+Everything up-to-date
+[2026-03-22 14:52:03] Push effectué
+Everything up-to-date
+[2026-03-22 14:52:35] Push effectué
+Everything up-to-date
+[2026-03-22 14:53:07] Push effectué
+Everything up-to-date
+[2026-03-22 14:53:39] Push effectué
+Everything up-to-date
+[2026-03-22 14:54:11] Push effectué
+Everything up-to-date
+[2026-03-22 14:54:42] Push effectué
+Everything up-to-date
+[2026-03-22 14:55:14] Push effectué
+Everything up-to-date
+[2026-03-22 14:55:46] Push effectué
+Everything up-to-date
+[2026-03-22 14:56:18] Push effectué
+Everything up-to-date
+[2026-03-22 14:56:51] Push effectué
+Everything up-to-date
+[2026-03-22 14:57:23] Push effectué
+Everything up-to-date
+[2026-03-22 14:57:55] Push effectué
+Everything up-to-date
+[2026-03-22 14:58:27] Push effectué
+Everything up-to-date
+[2026-03-22 14:58:59] Push effectué
+Everything up-to-date
+[2026-03-22 14:59:31] Push effectué
+Everything up-to-date
+[2026-03-22 15:00:03] Push effectué
+Everything up-to-date
+[2026-03-22 15:00:35] Push effectué
+Everything up-to-date
+[2026-03-22 15:01:06] Push effectué
+Everything up-to-date
+[2026-03-22 15:01:38] Push effectué
+Everything up-to-date
+[2026-03-22 15:02:10] Push effectué
+Everything up-to-date
+[2026-03-22 15:02:42] Push effectué
+Everything up-to-date
+[2026-03-22 15:03:14] Push effectué
+Everything up-to-date
+[2026-03-22 15:03:46] Push effectué
+Everything up-to-date
+[2026-03-22 15:04:18] Push effectué
+Everything up-to-date
+[2026-03-22 15:04:50] Push effectué
+Everything up-to-date
+[2026-03-22 15:05:22] Push effectué
+Everything up-to-date
+[2026-03-22 15:05:54] Push effectué
+Everything up-to-date
+[2026-03-22 15:06:25] Push effectué
+Everything up-to-date
+[2026-03-22 15:06:58] Push effectué
+Everything up-to-date
+[2026-03-22 15:07:30] Push effectué
+Everything up-to-date
+[2026-03-22 15:08:02] Push effectué
+Everything up-to-date
+[2026-03-22 15:08:34] Push effectué
+Everything up-to-date
+[2026-03-22 15:09:06] Push effectué
+Everything up-to-date
+[2026-03-22 15:09:38] Push effectué
+Everything up-to-date
+[2026-03-22 15:10:10] Push effectué
+Everything up-to-date
+[2026-03-22 15:10:42] Push effectué
+Everything up-to-date
+[2026-03-22 15:11:14] Push effectué
+Everything up-to-date
+[2026-03-22 15:11:45] Push effectué
+Everything up-to-date
+[2026-03-22 15:12:17] Push effectué
+Everything up-to-date
+[2026-03-22 15:12:49] Push effectué
+Everything up-to-date
+[2026-03-22 15:13:21] Push effectué
+Everything up-to-date
+[2026-03-22 15:13:53] Push effectué
+Everything up-to-date
+[2026-03-22 15:14:25] Push effectué
+Everything up-to-date
+[2026-03-22 15:14:56] Push effectué
+Everything up-to-date
+[2026-03-22 15:15:28] Push effectué
+Everything up-to-date
+[2026-03-22 15:16:00] Push effectué
+Everything up-to-date
+[2026-03-22 15:16:32] Push effectué
+Everything up-to-date
+[2026-03-22 15:17:04] Push effectué
+Everything up-to-date
+[2026-03-22 15:17:36] Push effectué
+Everything up-to-date
+[2026-03-22 15:18:08] Push effectué
+Everything up-to-date
+[2026-03-22 15:18:40] Push effectué
+Everything up-to-date
+[2026-03-22 15:19:13] Push effectué
+Everything up-to-date
+[2026-03-22 15:19:45] Push effectué
+Everything up-to-date
+[2026-03-22 15:20:17] Push effectué
+Everything up-to-date
+[2026-03-22 15:20:49] Push effectué
+Everything up-to-date
+[2026-03-22 15:21:21] Push effectué
+Everything up-to-date
+[2026-03-22 15:21:53] Push effectué
+Everything up-to-date
+[2026-03-22 15:22:25] Push effectué
+Everything up-to-date
+[2026-03-22 15:22:57] Push effectué
+Everything up-to-date
+[2026-03-22 15:23:28] Push effectué
+Everything up-to-date
+[2026-03-22 15:24:01] Push effectué
+Everything up-to-date
+[2026-03-22 15:24:32] Push effectué
+Everything up-to-date
+[2026-03-22 15:25:04] Push effectué
+Everything up-to-date
+[2026-03-22 15:25:36] Push effectué
+Everything up-to-date
+[2026-03-22 15:26:08] Push effectué
+Everything up-to-date
+[2026-03-22 15:26:40] Push effectué
+Everything up-to-date
+[2026-03-22 15:27:12] Push effectué
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'sorenmendy@Air-de-Soren.(none)')
+Everything up-to-date
+[2026-03-22 15:27:30] Push effectué
+Everything up-to-date
+[2026-03-22 15:27:44] Push effectué
+Everything up-to-date
+[2026-03-22 15:28:16] Push effectué
+Everything up-to-date
+[2026-03-22 15:28:48] Push effectué
+Everything up-to-date
+[2026-03-22 15:29:19] Push effectué
+Everything up-to-date
+[2026-03-22 15:29:51] Push effectué
+Everything up-to-date
+[2026-03-22 15:30:22] Push effectué
+Everything up-to-date
+[2026-03-22 15:30:54] Push effectué
+Everything up-to-date
+[2026-03-22 15:31:26] Push effectué
+Everything up-to-date
+[2026-03-22 15:31:57] Push effectué
+Everything up-to-date
+[2026-03-22 15:32:29] Push effectué
+Everything up-to-date
+[2026-03-22 15:33:01] Push effectué
+Everything up-to-date
+[2026-03-22 15:33:33] Push effectué
+Everything up-to-date
+[2026-03-22 15:34:04] Push effectué
+Everything up-to-date
+[2026-03-22 15:34:36] Push effectué
+Everything up-to-date
+[2026-03-22 15:35:07] Push effectué
+Everything up-to-date
+[2026-03-22 15:35:39] Push effectué
+Everything up-to-date
+[2026-03-22 15:36:11] Push effectué
+Everything up-to-date
+[2026-03-22 15:36:42] Push effectué
+Everything up-to-date
+[2026-03-22 15:37:14] Push effectué
+Everything up-to-date
+[2026-03-22 15:37:45] Push effectué
+Everything up-to-date
+[2026-03-22 15:38:17] Push effectué
+Everything up-to-date
+[2026-03-22 15:38:49] Push effectué
+Everything up-to-date
+[2026-03-22 15:39:20] Push effectué
+Everything up-to-date
+[2026-03-22 15:39:52] Push effectué
+Everything up-to-date
+[2026-03-22 15:40:24] Push effectué
+Everything up-to-date
+[2026-03-22 15:40:55] Push effectué
+Everything up-to-date
+[2026-03-22 15:41:28] Push effectué
+Everything up-to-date
+[2026-03-22 15:42:00] Push effectué
+Everything up-to-date
+[2026-03-22 15:42:31] Push effectué
+Everything up-to-date
+[2026-03-22 15:43:10] Push effectué
+Everything up-to-date
+[2026-03-22 15:43:56] Push effectué
+Everything up-to-date
+[2026-03-22 15:44:28] Push effectué
+Everything up-to-date
+[2026-03-22 15:45:00] Push effectué
+Everything up-to-date
+[2026-03-22 15:46:24] Push effectué
+Everything up-to-date
+[2026-03-22 15:46:55] Push effectué
+Everything up-to-date
+[2026-03-22 15:47:27] Push effectué
+Everything up-to-date
+[2026-03-22 15:47:59] Push effectué
+Everything up-to-date
+[2026-03-22 15:48:31] Push effectué
+Everything up-to-date
+[2026-03-22 15:49:03] Push effectué
+Everything up-to-date
+[2026-03-22 15:49:35] Push effectué
+Everything up-to-date
+[2026-03-22 15:50:07] Push effectué
+Everything up-to-date
+[2026-03-22 15:50:39] Push effectué
+Everything up-to-date
+[2026-03-22 15:51:11] Push effectué
+Everything up-to-date
+[2026-03-22 15:51:43] Push effectué
+Everything up-to-date
+[2026-03-22 15:52:15] Push effectué
+Everything up-to-date
+[2026-03-22 15:52:47] Push effectué
+Everything up-to-date
+[2026-03-22 15:53:19] Push effectué
+Everything up-to-date
+[2026-03-22 15:53:51] Push effectué
+Everything up-to-date
+[2026-03-22 15:54:23] Push effectué
+Everything up-to-date
+[2026-03-22 15:54:54] Push effectué
+Everything up-to-date
+[2026-03-22 15:55:26] Push effectué
+Everything up-to-date
+[2026-03-22 15:55:58] Push effectué
+Everything up-to-date
+[2026-03-22 15:56:30] Push effectué
+Everything up-to-date
+[2026-03-22 15:57:02] Push effectué
+Everything up-to-date
+[2026-03-22 15:57:34] Push effectué
+Everything up-to-date
+[2026-03-22 15:58:06] Push effectué
+Everything up-to-date
+[2026-03-22 15:58:37] Push effectué
+Everything up-to-date
+[2026-03-22 15:59:09] Push effectué
+Everything up-to-date
+[2026-03-22 15:59:41] Push effectué
+Everything up-to-date
+[2026-03-22 16:00:12] Push effectué
+Everything up-to-date
+[2026-03-22 16:00:44] Push effectué
+Everything up-to-date
+[2026-03-22 16:01:16] Push effectué
+Everything up-to-date
+[2026-03-22 16:01:47] Push effectué
+Everything up-to-date
+[2026-03-22 16:02:19] Push effectué
+Everything up-to-date
+[2026-03-22 16:02:51] Push effectué
+Everything up-to-date
+[2026-03-22 16:03:22] Push effectué
+Everything up-to-date
+[2026-03-22 16:03:54] Push effectué
+Everything up-to-date
+[2026-03-22 16:04:26] Push effectué
+Everything up-to-date
+[2026-03-22 16:04:57] Push effectué
+Everything up-to-date
+[2026-03-22 16:05:29] Push effectué
+Everything up-to-date
+[2026-03-22 16:06:01] Push effectué
+Everything up-to-date
+[2026-03-22 16:06:32] Push effectué
+Everything up-to-date
+[2026-03-22 16:07:04] Push effectué
+Everything up-to-date
+[2026-03-22 16:07:36] Push effectué
+Everything up-to-date
+[2026-03-22 16:08:07] Push effectué
+Everything up-to-date
+[2026-03-22 16:08:39] Push effectué
+Everything up-to-date
+[2026-03-22 16:09:10] Push effectué
+Everything up-to-date
+[2026-03-22 16:09:42] Push effectué
+Everything up-to-date
+[2026-03-22 16:10:14] Push effectué
+Everything up-to-date
+[2026-03-22 16:10:45] Push effectué
+Everything up-to-date
+[2026-03-22 16:11:17] Push effectué
+Everything up-to-date
+[2026-03-22 16:11:48] Push effectué
+Everything up-to-date
+[2026-03-22 16:12:20] Push effectué
+Everything up-to-date
+[2026-03-22 16:12:52] Push effectué
+Everything up-to-date
+[2026-03-22 16:13:23] Push effectué
+Everything up-to-date
+[2026-03-22 16:13:55] Push effectué
+Everything up-to-date
+[2026-03-22 16:14:27] Push effectué
+Everything up-to-date
+[2026-03-22 16:14:58] Push effectué
+Everything up-to-date
+[2026-03-22 16:15:30] Push effectué
+Everything up-to-date
+[2026-03-22 16:16:02] Push effectué
+Everything up-to-date
+[2026-03-22 16:16:33] Push effectué
+Everything up-to-date
+[2026-03-22 16:32:18] Push effectué
+Everything up-to-date
+[2026-03-22 16:32:49] Push effectué
+Everything up-to-date
+[2026-03-22 16:34:29] Push effectué
+Everything up-to-date
+[2026-03-22 17:00:23] Push effectué
+Everything up-to-date
+[2026-03-22 17:00:58] Push effectué
+Everything up-to-date
+[2026-03-22 17:01:30] Push effectué
+Everything up-to-date
+[2026-03-22 17:02:02] Push effectué
+Everything up-to-date
+[2026-03-22 17:02:33] Push effectué
+Everything up-to-date
+[2026-03-22 17:03:05] Push effectué
+Everything up-to-date
+[2026-03-22 17:03:37] Push effectué
+Everything up-to-date
+[2026-03-22 17:04:09] Push effectué
+Everything up-to-date
+[2026-03-22 17:04:40] Push effectué
+Everything up-to-date
+[2026-03-22 17:05:12] Push effectué
+Everything up-to-date
+[2026-03-22 17:05:43] Push effectué
+Everything up-to-date
+[2026-03-22 17:06:15] Push effectué
+Everything up-to-date
+[2026-03-22 17:06:47] Push effectué
+Everything up-to-date
+[2026-03-22 17:07:19] Push effectué
+Everything up-to-date
+[2026-03-22 17:07:51] Push effectué
+Everything up-to-date
+[2026-03-22 17:10:23] Push effectué
+Everything up-to-date
+[2026-03-22 17:10:55] Push effectué
+Everything up-to-date
+[2026-03-22 17:11:27] Push effectué
+Everything up-to-date
+[2026-03-22 17:11:59] Push effectué
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'sorenmendy@Air-de-Soren.(none)')
+Everything up-to-date
+[2026-03-22 17:12:29] Push effectué
+Everything up-to-date
+[2026-03-22 17:12:30] Push effectué
+Everything up-to-date
+[2026-03-22 17:13:02] Push effectué
+Everything up-to-date
+[2026-03-22 17:13:34] Push effectué
+Everything up-to-date
+[2026-03-22 17:14:05] Push effectué
+Everything up-to-date
+[2026-03-22 17:14:38] Push effectué
+Everything up-to-date
+[2026-03-22 17:15:09] Push effectué
+Everything up-to-date
+[2026-03-22 17:15:41] Push effectué
+Everything up-to-date
+[2026-03-22 17:16:13] Push effectué
+Everything up-to-date
+[2026-03-22 17:16:44] Push effectué
+Everything up-to-date
+[2026-03-22 17:17:16] Push effectué
+Everything up-to-date
+[2026-03-22 17:17:48] Push effectué
+Everything up-to-date
+[2026-03-22 17:18:21] Push effectué
+Everything up-to-date
+[2026-03-22 17:18:53] Push effectué
+Everything up-to-date
+[2026-03-22 17:19:24] Push effectué
+Everything up-to-date
+[2026-03-22 17:19:56] Push effectué
+Everything up-to-date
+[2026-03-22 17:20:28] Push effectué
+Everything up-to-date
+[2026-03-22 17:21:50] Push effectué
+Everything up-to-date
+[2026-03-22 17:22:22] Push effectué
+Everything up-to-date
+[2026-03-22 17:22:54] Push effectué
+Everything up-to-date
+[2026-03-22 17:23:25] Push effectué
+Everything up-to-date
+[2026-03-22 17:23:57] Push effectué
+Everything up-to-date
+[2026-03-22 17:24:29] Push effectué
+Everything up-to-date
+[2026-03-22 17:25:01] Push effectué
+Everything up-to-date
+[2026-03-22 17:25:33] Push effectué
+Everything up-to-date
+[2026-03-22 17:26:05] Push effectué
+Everything up-to-date
+[2026-03-22 17:26:37] Push effectué
+Everything up-to-date
+[2026-03-22 17:27:09] Push effectué
+Everything up-to-date
+[2026-03-22 17:27:41] Push effectué
+Everything up-to-date
+[2026-03-22 17:28:13] Push effectué
+Everything up-to-date
+[2026-03-22 17:28:44] Push effectué
+Everything up-to-date
+[2026-03-22 17:29:16] Push effectué
+Everything up-to-date
+[2026-03-22 17:29:47] Push effectué
+Everything up-to-date
+[2026-03-22 17:30:19] Push effectué
+Everything up-to-date
+[2026-03-22 17:30:51] Push effectué
+Everything up-to-date
+[2026-03-22 17:31:22] Push effectué
+Everything up-to-date
+[2026-03-22 17:31:54] Push effectué
+Everything up-to-date
+[2026-03-22 17:32:25] Push effectué
+Everything up-to-date
+[2026-03-22 17:32:57] Push effectué
+Everything up-to-date
+[2026-03-22 17:33:28] Push effectué
+Everything up-to-date
+[2026-03-22 17:34:00] Push effectué
+Everything up-to-date
+[2026-03-22 17:34:32] Push effectué
+Everything up-to-date
+[2026-03-22 17:35:03] Push effectué
+Everything up-to-date
+[2026-03-22 17:35:35] Push effectué
+Everything up-to-date
+[2026-03-22 17:36:07] Push effectué
+Everything up-to-date
+[2026-03-22 17:36:38] Push effectué
+Everything up-to-date
+[2026-03-22 17:37:10] Push effectué
+Everything up-to-date
+[2026-03-22 17:37:42] Push effectué
+Everything up-to-date
+[2026-03-22 17:38:13] Push effectué
+Everything up-to-date
+[2026-03-22 17:38:45] Push effectué
+Everything up-to-date
+[2026-03-22 17:53:13] Push effectué
+Everything up-to-date
+[2026-03-22 17:54:48] Push effectué
+Connection closed by 140.82.121.4 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[2026-03-22 17:55:20] Push effectué
+Everything up-to-date
+[2026-03-22 18:11:23] Push effectué
+Everything up-to-date
+[2026-03-22 18:11:55] Push effectué
+Everything up-to-date
+[2026-03-22 18:12:27] Push effectué
+Everything up-to-date
+[2026-03-22 18:12:59] Push effectué
+Everything up-to-date
+[2026-03-22 18:13:30] Push effectué
+Everything up-to-date
+[2026-03-22 18:14:02] Push effectué
+Everything up-to-date
+[2026-03-22 18:14:34] Push effectué
+Everything up-to-date
+[2026-03-22 18:15:05] Push effectué
+Everything up-to-date
+[2026-03-22 18:15:37] Push effectué
+Everything up-to-date
+[2026-03-22 18:16:09] Push effectué
+Everything up-to-date
+[2026-03-22 18:16:40] Push effectué
+Everything up-to-date
+[2026-03-22 18:17:12] Push effectué
+Everything up-to-date
+[2026-03-22 18:17:44] Push effectué
+Everything up-to-date
+[2026-03-22 18:18:16] Push effectué
+Everything up-to-date
+[2026-03-22 18:18:47] Push effectué
+Everything up-to-date
+[2026-03-22 18:19:19] Push effectué
+Everything up-to-date
+[2026-03-22 18:19:50] Push effectué
+Everything up-to-date
+[2026-03-22 18:20:22] Push effectué
+Everything up-to-date
+[2026-03-22 18:20:54] Push effectué
+Everything up-to-date
+[2026-03-22 18:21:26] Push effectué
+Everything up-to-date
+[2026-03-22 18:21:57] Push effectué
+Everything up-to-date
+[2026-03-22 18:22:29] Push effectué
+Everything up-to-date
+[2026-03-22 18:23:01] Push effectué
+Everything up-to-date
+[2026-03-22 18:23:32] Push effectué
+Everything up-to-date
+[2026-03-22 18:27:42] Push effectué
+Everything up-to-date
+[2026-03-22 18:28:13] Push effectué
+Everything up-to-date
+[2026-03-22 18:28:45] Push effectué
+Everything up-to-date
+[2026-03-22 18:29:17] Push effectué
+Everything up-to-date
+[2026-03-22 18:29:49] Push effectué
+Everything up-to-date
+[2026-03-22 18:30:21] Push effectué
+Everything up-to-date
+[2026-03-22 18:30:52] Push effectué
+Everything up-to-date
+[2026-03-22 18:31:24] Push effectué
+Everything up-to-date
+[2026-03-22 18:31:55] Push effectué
+Everything up-to-date
+[2026-03-22 18:32:27] Push effectué
+Everything up-to-date
+[2026-03-22 18:46:07] Push effectué
+Everything up-to-date
+[2026-03-22 18:46:39] Push effectué
+Everything up-to-date
+[2026-03-22 19:04:28] Push effectué
+Everything up-to-date
+[2026-03-22 19:10:00] Push effectué
+Everything up-to-date
+[2026-03-22 19:10:32] Push effectué
+Everything up-to-date
+[2026-03-22 19:11:03] Push effectué
+Everything up-to-date
+[2026-03-22 19:11:35] Push effectué
+Everything up-to-date
+[2026-03-22 19:12:07] Push effectué
+Everything up-to-date
+[2026-03-22 19:12:39] Push effectué
+Everything up-to-date
+[2026-03-22 19:13:10] Push effectué
+Everything up-to-date
+[2026-03-22 19:13:42] Push effectué
+Everything up-to-date
+[2026-03-22 19:14:14] Push effectué
+Everything up-to-date
+[2026-03-22 19:14:45] Push effectué
+Everything up-to-date
+[2026-03-22 19:15:17] Push effectué
+Everything up-to-date
+[2026-03-22 19:15:49] Push effectué
+Everything up-to-date
+[2026-03-22 19:16:21] Push effectué
+Everything up-to-date
+[2026-03-22 19:16:52] Push effectué
+Everything up-to-date
+[2026-03-22 19:17:24] Push effectué
+Everything up-to-date
+[2026-03-22 19:17:55] Push effectué
+Everything up-to-date
+[2026-03-22 19:18:27] Push effectué
+Everything up-to-date
+[2026-03-22 19:18:59] Push effectué
+Everything up-to-date
+[2026-03-22 19:19:30] Push effectué
+Everything up-to-date
+[2026-03-22 19:20:02] Push effectué
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'sorenmendy@Air-de-Soren.(none)')
+Everything up-to-date
+[2026-03-22 19:20:34] Push effectué
+Everything up-to-date
+[2026-03-22 19:20:35] Push effectué
+Everything up-to-date
+[2026-03-22 19:21:05] Push effectué
+Everything up-to-date
+[2026-03-22 19:21:37] Push effectué
+Everything up-to-date
+[2026-03-22 19:22:09] Push effectué
+Everything up-to-date
+[2026-03-22 19:22:40] Push effectué
+Everything up-to-date
+[2026-03-22 19:23:12] Push effectué
+Everything up-to-date
+[2026-03-22 19:23:44] Push effectué
+Everything up-to-date
+[2026-03-22 19:24:44] Push effectué
+Everything up-to-date
+[2026-03-22 19:25:16] Push effectué
+Everything up-to-date
+[2026-03-22 19:25:48] Push effectué
+Everything up-to-date
+[2026-03-22 19:26:19] Push effectué
+Everything up-to-date
+[2026-03-22 19:26:51] Push effectué
+Everything up-to-date
+[2026-03-22 19:27:23] Push effectué
+Everything up-to-date
+[2026-03-22 19:27:54] Push effectué
+Everything up-to-date
+[2026-03-22 19:28:26] Push effectué
+Everything up-to-date
+[2026-03-22 19:28:58] Push effectué
+Everything up-to-date
+[2026-03-22 19:29:29] Push effectué
+Everything up-to-date
+[2026-03-22 19:30:01] Push effectué
+Everything up-to-date
+[2026-03-22 19:30:33] Push effectué
+Everything up-to-date
+[2026-03-22 19:31:05] Push effectué
+Everything up-to-date
+[2026-03-22 19:31:37] Push effectué
+Everything up-to-date
+[2026-03-22 19:32:08] Push effectué
+Everything up-to-date
+[2026-03-22 19:32:40] Push effectué
+Everything up-to-date
+[2026-03-22 19:33:11] Push effectué
+Everything up-to-date
+[2026-03-22 19:49:18] Push effectué
+Everything up-to-date
+[2026-03-22 20:00:26] Push effectué
+Everything up-to-date
+[2026-03-22 20:00:58] Push effectué
+Everything up-to-date
+[2026-03-22 20:01:29] Push effectué
+Everything up-to-date
+[2026-03-22 20:02:01] Push effectué
+Everything up-to-date
+[2026-03-22 20:02:33] Push effectué
+Everything up-to-date
+[2026-03-22 20:03:04] Push effectué
+Everything up-to-date
+[2026-03-22 20:03:36] Push effectué
+Everything up-to-date
+[2026-03-22 20:04:08] Push effectué
+Everything up-to-date
+[2026-03-22 20:04:39] Push effectué
+Everything up-to-date
+[2026-03-22 20:05:11] Push effectué
+Everything up-to-date
+[2026-03-22 20:05:43] Push effectué
+Everything up-to-date
+[2026-03-22 20:06:15] Push effectué
+Everything up-to-date
+[2026-03-22 20:06:46] Push effectué
+Everything up-to-date
+[2026-03-22 20:07:18] Push effectué
+Everything up-to-date
+[2026-03-22 20:07:50] Push effectué
+Everything up-to-date
+[2026-03-22 20:08:22] Push effectué
+Everything up-to-date
+[2026-03-22 20:08:54] Push effectué
+Everything up-to-date
+[2026-03-22 20:09:25] Push effectué
+Everything up-to-date
+[2026-03-22 20:09:57] Push effectué
+Everything up-to-date
+[2026-03-22 20:10:29] Push effectué
+Everything up-to-date
+[2026-03-22 20:11:01] Push effectué
+Everything up-to-date
+[2026-03-22 20:11:32] Push effectué
+Everything up-to-date
+[2026-03-22 20:12:04] Push effectué
+Everything up-to-date
+[2026-03-22 20:12:35] Push effectué
+Everything up-to-date
+[2026-03-22 20:13:07] Push effectué
+Everything up-to-date
+[2026-03-22 20:13:39] Push effectué
+Everything up-to-date
+[2026-03-22 20:14:10] Push effectué
+Everything up-to-date
+[2026-03-22 20:14:42] Push effectué
+Everything up-to-date
+[2026-03-22 20:15:14] Push effectué
+Everything up-to-date
+[2026-03-22 20:15:46] Push effectué
+Everything up-to-date
+[2026-03-22 20:16:17] Push effectué
+Everything up-to-date
+[2026-03-22 20:16:49] Push effectué
+Everything up-to-date
+[2026-03-22 20:17:21] Push effectué
+Everything up-to-date
+[2026-03-22 20:17:53] Push effectué
+Everything up-to-date
+[2026-03-22 20:18:24] Push effectué
+Everything up-to-date
+[2026-03-22 20:18:56] Push effectué
+Everything up-to-date
+[2026-03-22 20:19:28] Push effectué
+Everything up-to-date
+[2026-03-22 20:20:00] Push effectué
+Everything up-to-date
+[2026-03-22 20:20:32] Push effectué
+Everything up-to-date
+[2026-03-22 20:21:03] Push effectué
+Everything up-to-date
+[2026-03-22 20:21:35] Push effectué
+Everything up-to-date
+[2026-03-22 20:22:06] Push effectué
+Everything up-to-date
+[2026-03-22 20:22:38] Push effectué
+Everything up-to-date
+[2026-03-22 20:23:10] Push effectué
+Everything up-to-date
+[2026-03-22 20:23:42] Push effectué
+Everything up-to-date
+[2026-03-22 20:24:13] Push effectué
+Everything up-to-date
+[2026-03-22 20:24:45] Push effectué
+Everything up-to-date
+[2026-03-22 20:26:33] Push effectué
+Everything up-to-date
+[2026-03-22 20:27:05] Push effectué
+Everything up-to-date
+[2026-03-22 20:27:36] Push effectué
+Everything up-to-date
+[2026-03-22 20:28:08] Push effectué
+Everything up-to-date
+[2026-03-22 20:28:40] Push effectué
+Everything up-to-date
+[2026-03-22 20:29:12] Push effectué
+Everything up-to-date
+[2026-03-22 20:29:43] Push effectué
+Everything up-to-date
+[2026-03-22 20:30:15] Push effectué
+Everything up-to-date
+[2026-03-22 20:30:47] Push effectué
+Everything up-to-date
+[2026-03-22 20:31:19] Push effectué
+Everything up-to-date
+[2026-03-22 20:31:50] Push effectué
+Everything up-to-date
+[2026-03-22 20:32:22] Push effectué
+Everything up-to-date
+[2026-03-22 20:32:53] Push effectué
+Everything up-to-date
+[2026-03-22 20:33:25] Push effectué
+Everything up-to-date
+[2026-03-22 20:33:57] Push effectué
+Everything up-to-date
+[2026-03-22 20:34:29] Push effectué
+Everything up-to-date
+[2026-03-22 20:35:00] Push effectué
+Everything up-to-date
+[2026-03-22 20:35:32] Push effectué
+Everything up-to-date
+[2026-03-22 20:36:04] Push effectué
+Everything up-to-date
+[2026-03-22 20:36:36] Push effectué
+Everything up-to-date
+[2026-03-22 20:37:07] Push effectué
+Everything up-to-date
+[2026-03-22 20:37:39] Push effectué
+Everything up-to-date
+[2026-03-22 20:38:11] Push effectué
+Everything up-to-date
+[2026-03-22 20:38:42] Push effectué
+Everything up-to-date
+[2026-03-22 20:39:14] Push effectué
+Everything up-to-date
+[2026-03-22 20:39:46] Push effectué
+Everything up-to-date
+[2026-03-22 20:40:17] Push effectué
+Everything up-to-date
+[2026-03-22 20:40:49] Push effectué
+Everything up-to-date
+[2026-03-22 20:41:21] Push effectué
+Everything up-to-date
+[2026-03-22 20:41:52] Push effectué
+Everything up-to-date
+[2026-03-22 20:42:24] Push effectué
+Everything up-to-date
+[2026-03-22 20:55:04] Push effectué
+Everything up-to-date
+[2026-03-22 20:55:36] Push effectué
+Everything up-to-date
+[2026-03-22 20:56:08] Push effectué
+Everything up-to-date
+[2026-03-22 20:56:40] Push effectué
+Everything up-to-date
+[2026-03-22 20:57:12] Push effectué
+Everything up-to-date
+[2026-03-22 20:57:44] Push effectué
+Everything up-to-date
+[2026-03-22 20:58:16] Push effectué
+Everything up-to-date
+[2026-03-22 20:58:47] Push effectué
+Everything up-to-date
+[2026-03-22 20:59:19] Push effectué
+Everything up-to-date
+[2026-03-22 20:59:51] Push effectué
+Everything up-to-date
+[2026-03-22 21:00:23] Push effectué
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'sorenmendy@Air-de-Soren.(none)')
+Everything up-to-date
+[2026-03-22 21:00:42] Push effectué
+Everything up-to-date
+[2026-03-22 21:00:54] Push effectué
+Everything up-to-date
+[2026-03-22 21:01:26] Push effectué
+Everything up-to-date
+[2026-03-22 21:01:57] Push effectué
+Everything up-to-date
+[2026-03-22 21:02:29] Push effectué
+Everything up-to-date
+[2026-03-22 21:03:01] Push effectué
+Everything up-to-date
+[2026-03-22 21:03:33] Push effectué
+Everything up-to-date
+[2026-03-22 21:04:04] Push effectué
+Everything up-to-date
+[2026-03-22 21:04:36] Push effectué
+Everything up-to-date
+[2026-03-22 21:05:08] Push effectué
+Everything up-to-date
+[2026-03-22 21:05:39] Push effectué
+Everything up-to-date
+[2026-03-22 21:06:12] Push effectué
+Everything up-to-date
+[2026-03-22 21:06:44] Push effectué
+Everything up-to-date
+[2026-03-22 21:07:15] Push effectué
+Everything up-to-date
+[2026-03-22 21:07:47] Push effectué
+Everything up-to-date
+[2026-03-22 21:08:19] Push effectué
+Everything up-to-date
+[2026-03-22 21:08:50] Push effectué
+Everything up-to-date
+[2026-03-22 21:09:22] Push effectué
+Everything up-to-date
+[2026-03-22 21:09:54] Push effectué
+Everything up-to-date
+[2026-03-22 21:10:26] Push effectué
+Everything up-to-date
+[2026-03-22 21:10:57] Push effectué
+Everything up-to-date
+[2026-03-22 21:11:29] Push effectué
+Everything up-to-date
+[2026-03-22 21:12:01] Push effectué
+Everything up-to-date
+[2026-03-22 21:12:32] Push effectué
+Everything up-to-date
+[2026-03-22 21:13:04] Push effectué
+Everything up-to-date
+[2026-03-22 21:13:36] Push effectué
+Everything up-to-date
+[2026-03-22 21:14:07] Push effectué
+Everything up-to-date
+[2026-03-22 21:14:39] Push effectué
+Everything up-to-date
+[2026-03-22 21:17:41] Push effectué
+Everything up-to-date
+[2026-03-22 21:18:13] Push effectué
+Everything up-to-date
+[2026-03-22 21:18:45] Push effectué
+Everything up-to-date
+[2026-03-22 21:19:17] Push effectué
+Everything up-to-date
+[2026-03-22 21:19:48] Push effectué
+Everything up-to-date
+[2026-03-22 21:37:13] Push effectué
+Everything up-to-date
+[2026-03-22 21:57:45] Push effectué
+Everything up-to-date
+[2026-03-22 21:58:52] Push effectué
+Everything up-to-date
+[2026-03-22 21:59:45] Push effectué
+Everything up-to-date
+[2026-03-22 22:00:32] Push effectué
+Everything up-to-date
+[2026-03-22 22:01:29] Push effectué
+Everything up-to-date
+[2026-03-22 22:02:01] Push effectué
+Everything up-to-date
+[2026-03-22 22:02:33] Push effectué
+Everything up-to-date
+[2026-03-22 22:03:46] Push effectué
+Everything up-to-date
+[2026-03-22 22:04:51] Push effectué
+Everything up-to-date
+[2026-03-22 22:05:52] Push effectué
+Everything up-to-date
+[2026-03-22 22:06:45] Push effectué
+Everything up-to-date
+[2026-03-22 22:07:57] Push effectué
+Everything up-to-date
+[2026-03-22 22:09:27] Push effectué
+Everything up-to-date
+[2026-03-22 22:09:58] Push effectué
+Everything up-to-date
+[2026-03-22 22:10:30] Push effectué
+Everything up-to-date
+[2026-03-22 22:11:02] Push effectué
+Everything up-to-date
+[2026-03-22 22:11:33] Push effectué
+Everything up-to-date
+[2026-03-22 22:12:05] Push effectué
+Everything up-to-date
+[2026-03-22 22:12:36] Push effectué
+Everything up-to-date
+[2026-03-22 22:13:08] Push effectué
+Everything up-to-date
+[2026-03-22 22:13:40] Push effectué
+Everything up-to-date
+[2026-03-22 22:14:12] Push effectué
+Everything up-to-date
+[2026-03-22 22:14:43] Push effectué
+Everything up-to-date
+[2026-03-22 22:15:15] Push effectué
+Everything up-to-date
+[2026-03-22 22:15:47] Push effectué
+Everything up-to-date
+[2026-03-22 22:16:18] Push effectué
+Everything up-to-date
+[2026-03-22 22:16:50] Push effectué
+Everything up-to-date
+[2026-03-22 22:17:22] Push effectué
+Everything up-to-date
+[2026-03-22 22:17:53] Push effectué
+Everything up-to-date
+[2026-03-22 22:18:25] Push effectué
+Everything up-to-date
+[2026-03-22 22:18:57] Push effectué
+Everything up-to-date
+[2026-03-22 22:19:28] Push effectué
+Everything up-to-date
+[2026-03-22 22:20:00] Push effectué
+Everything up-to-date
+[2026-03-22 22:20:32] Push effectué
+Everything up-to-date
+[2026-03-22 22:21:04] Push effectué
+Everything up-to-date
+[2026-03-22 22:21:36] Push effectué
+Everything up-to-date
+[2026-03-22 22:22:08] Push effectué
+Everything up-to-date
+[2026-03-22 22:22:40] Push effectué
+Everything up-to-date
+[2026-03-22 22:23:12] Push effectué
+Everything up-to-date
+[2026-03-22 22:23:43] Push effectué
+Everything up-to-date
+[2026-03-22 22:24:15] Push effectué
+Everything up-to-date
+[2026-03-22 22:24:47] Push effectué
+Everything up-to-date
+[2026-03-22 22:25:19] Push effectué
+Everything up-to-date
+[2026-03-22 22:25:51] Push effectué
+Everything up-to-date
+[2026-03-22 22:26:23] Push effectué
+Everything up-to-date
+[2026-03-22 22:26:56] Push effectué
+Everything up-to-date
+[2026-03-22 22:27:28] Push effectué
+Everything up-to-date
+[2026-03-22 22:28:01] Push effectué
+Everything up-to-date
+[2026-03-22 22:28:32] Push effectué
+Everything up-to-date
+[2026-03-22 22:29:04] Push effectué
+Everything up-to-date
+[2026-03-22 22:29:36] Push effectué
+Everything up-to-date
+[2026-03-22 22:30:08] Push effectué
+Everything up-to-date
+[2026-03-22 22:30:39] Push effectué
+Everything up-to-date
+[2026-03-22 22:31:11] Push effectué
+Everything up-to-date
+[2026-03-22 22:31:43] Push effectué
+Everything up-to-date
+[2026-03-22 22:32:14] Push effectué
+Everything up-to-date
+[2026-03-22 22:32:46] Push effectué
+Everything up-to-date
+[2026-03-22 22:33:18] Push effectué
+Everything up-to-date
+[2026-03-22 22:33:50] Push effectué
+Everything up-to-date
+[2026-03-22 22:34:22] Push effectué
+Everything up-to-date
+[2026-03-22 22:34:54] Push effectué
+Everything up-to-date
+[2026-03-22 22:35:26] Push effectué
+Everything up-to-date
+[2026-03-22 22:35:58] Push effectué
+Everything up-to-date
+[2026-03-22 22:36:30] Push effectué
+Everything up-to-date
+[2026-03-22 22:37:02] Push effectué
+Everything up-to-date
+[2026-03-22 22:37:34] Push effectué
+Everything up-to-date
+[2026-03-22 22:38:06] Push effectué
+Everything up-to-date
+[2026-03-22 22:38:38] Push effectué
+Everything up-to-date
+[2026-03-22 22:39:10] Push effectué
+Everything up-to-date
+[2026-03-22 22:39:42] Push effectué
+Everything up-to-date
+[2026-03-22 22:40:14] Push effectué
+Everything up-to-date
+[2026-03-22 22:40:45] Push effectué
+Everything up-to-date
+[2026-03-22 22:41:17] Push effectué
+Everything up-to-date
+[2026-03-22 22:41:50] Push effectué
+Everything up-to-date
+[2026-03-22 22:42:21] Push effectué
+Everything up-to-date
+[2026-03-22 22:42:53] Push effectué
+Everything up-to-date
+[2026-03-22 22:53:11] Push effectué
+Everything up-to-date
+[2026-03-22 22:58:28] Push effectué
+Everything up-to-date
+[2026-03-22 22:58:59] Push effectué
+Everything up-to-date
+[2026-03-22 22:59:31] Push effectué
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'sorenmendy@Air-de-Soren.(none)')
+Everything up-to-date
+[2026-03-22 22:59:57] Push effectué
+Everything up-to-date
+[2026-03-22 23:00:03] Push effectué
+Everything up-to-date
+[2026-03-22 23:00:34] Push effectué
+Everything up-to-date
+[2026-03-22 23:01:06] Push effectué
+Everything up-to-date
+[2026-03-22 23:01:38] Push effectué
+Everything up-to-date
+[2026-03-22 23:02:09] Push effectué
+Everything up-to-date
+[2026-03-22 23:02:41] Push effectué
+Everything up-to-date
+[2026-03-22 23:03:13] Push effectué
+Everything up-to-date
+[2026-03-22 23:03:44] Push effectué
+Everything up-to-date
+[2026-03-22 23:04:16] Push effectué
+Everything up-to-date
+[2026-03-22 23:04:48] Push effectué
+Everything up-to-date
+[2026-03-22 23:05:19] Push effectué
+Everything up-to-date
+[2026-03-22 23:05:51] Push effectué
+Everything up-to-date
+[2026-03-22 23:06:23] Push effectué
+Everything up-to-date
+[2026-03-22 23:06:54] Push effectué
+Everything up-to-date
+[2026-03-22 23:07:26] Push effectué
+Everything up-to-date
+[2026-03-22 23:07:58] Push effectué
+Everything up-to-date
+[2026-03-22 23:08:29] Push effectué
+Everything up-to-date
+[2026-03-22 23:09:01] Push effectué
+Everything up-to-date
+[2026-03-22 23:09:33] Push effectué
+Everything up-to-date
+[2026-03-22 23:10:05] Push effectué
+Everything up-to-date
+[2026-03-22 23:10:36] Push effectué
+Everything up-to-date
+[2026-03-22 23:11:08] Push effectué
+Everything up-to-date
+[2026-03-22 23:11:39] Push effectué
+Everything up-to-date
+[2026-03-22 23:12:11] Push effectué
+Everything up-to-date
+[2026-03-22 23:12:42] Push effectué
+Everything up-to-date
+[2026-03-22 23:13:14] Push effectué
+Everything up-to-date
+[2026-03-22 23:13:48] Push effectué
+Everything up-to-date
+[2026-03-22 23:14:20] Push effectué
+Everything up-to-date
+[2026-03-22 23:14:51] Push effectué
+Everything up-to-date
+[2026-03-22 23:15:23] Push effectué
+Everything up-to-date
+[2026-03-22 23:15:55] Push effectué
+Everything up-to-date
+[2026-03-22 23:16:27] Push effectué
+Everything up-to-date
+[2026-03-22 23:16:58] Push effectué
+Everything up-to-date
+[2026-03-22 23:17:30] Push effectué
+Everything up-to-date
+[2026-03-22 23:33:47] Push effectué
+Everything up-to-date
+[2026-03-23 00:41:29] Push effectué
+Everything up-to-date
+[2026-03-23 01:09:21] Push effectué
+Everything up-to-date
+[2026-03-23 01:09:55] Push effectué
+Everything up-to-date
+[2026-03-23 01:43:31] Push effectué
+Everything up-to-date
+[2026-03-23 02:50:15] Push effectué
+Everything up-to-date
+[2026-03-23 03:07:07] Push effectué
+Everything up-to-date
+[2026-03-23 03:57:16] Push effectué
+Everything up-to-date
+[2026-03-23 04:45:35] Push effectué
+Everything up-to-date
+[2026-03-23 05:06:13] Push effectué
+Everything up-to-date
+[2026-03-23 06:11:25] Push effectué
+Everything up-to-date
+[2026-03-23 06:43:11] Push effectué
+Everything up-to-date
+[2026-03-23 07:24:08] Push effectué
+Everything up-to-date
+[2026-03-23 08:08:16] Push effectué
+Everything up-to-date
+[2026-03-23 08:25:35] Push effectué
