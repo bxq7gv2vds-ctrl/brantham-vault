@@ -142,3 +142,38 @@ Simulation avec cap 3,000 (T1-T4) puis 2,880 (T5+):
 3. **Remise MP maximale**: 12.8% (32.96/u) via contrat 4 livraisons.
 4. **Prix agressif calibre**: 168 = sweet spot memory effect + NI.
 5. **Pub optimisee**: 4,500 (ROI max) vs industrie a 4,800.
+
+## Webapp ameliorations session 23-24 mars
+
+### Simulateur restructure
+- Formulaire: 20 champs dans l'ordre exact BeSoft (BOLT, salaire, quota, commission, taux MO, machines vendues, emprunt CT)
+- Prix decimaux (step 0.10, champ editable a cote du slider)
+- Override ventes manuelles (0 = auto modele, >0 = force)
+- Encaissements/Decaissements dans le panneau resultats
+
+### Projections stocks
+- Tableau T1-T7: production, vendu, stock PF fin, stock MP fin par trimestre
+- Barres visuelles avec alertes RUPTURE
+- Chart capacite vs ventes (barres avec marqueurs capacite)
+
+### Trajectoires multi-periodes
+- NI cumule T1-T7 avec 3 scenarios concurrents (optimiste/baseline/pessimiste)
+- Price sweep: impact du prix T1 sur le NI cumule a T7 (162-176 EUR)
+- Band d'incertitude + prix optimal baseline et robuste
+
+### 4 bugs corriges dans le simulateur
+1. CMP PF: hardcode 133.33 → dynamique (134.18, reel 134.10)
+2. Tech director: en double (prod + admin) → retire des frais generaux (27,000 exact)
+3. Interets MLT: factures en T1 → mis a 0 (BeSoft commence T2)
+4. CMP MP T0: 37.80 → 35.65 (reel)
+- Resultat: simulateur NI = 34,789 vs live 35,021 (**0.7% erreur**)
+
+### Modele demand_model.py (backend)
+- BOLT cannibalization timeline T1-T12
+- Export volume estimation T4+
+- Storage costs tiered formula exacte BeSoft (<3% erreur)
+- Seller salary inflation +500/trim
+- Production split ATOM/BOLT
+- Export pricing local + 3 EUR
+- Competitor price convergence
+- Transition correction factors T3-T6 (MAE 2.7%)
