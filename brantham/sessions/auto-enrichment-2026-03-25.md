@@ -1315,3 +1315,26 @@ Cache API: `/Users/paul/Desktop/brantham-partners/api/aj_annonces.json`
   - OK
 - **Cycle termine** a 17:13
 ---
+
+---
+
+## Cycle Cron 17:17
+
+- **Scrape AJ** : 456 opportunites sur 24/31 sites (0 erreur, 7 vides)
+- **Diff** : 42 nouvelles, 65 disparues
+- **Dashboard** : aj_annonces.json mis a jour
+- **Enrichissement Pappers** : rate-limite (token epuise)
+- **Enrichissement API Entreprise** : 11 top opportunites enrichies
+
+### Top Enrichies
+
+| Entreprise | CA | SIREN | Dirigeant | Dept | Source |
+|---|---|---|---|---|---|
+| SFDPE (electronique) | 30,7M | 532253952 | Lionel Sebag | 75 | Abitbol |
+| Laduree | 2,8M | 572045540 | Eric Bleuze | 75 | Abitbol |
+| Cloud Computing | 2,3M | 523705382 | — | 95 | Abitbol |
+| Transport | 1,5M | 952072635 | Daouda Warr | 76 | Abitbol |
+| E.Therm | 1,4M | 408367902 | Marc Stallschus | 34 | Abitbol |
+| Fonderie Niederbronn | >10M | 499026169 | — | 67 | AJlink GE |
+| Tele Menager More | 3-10M | 309694719 | Anne Mertz | 81 | Ajilink SO |
+
