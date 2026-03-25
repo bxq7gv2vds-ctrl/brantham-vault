@@ -1379,3 +1379,4 @@ Cache API: `/Users/paul/Desktop/brantham-partners/api/aj_annonces.json`
 ## Cycle 23:12
 
 - **Scrape AJ** : lancement...
+  - OK : 473 opportunites scrapees
