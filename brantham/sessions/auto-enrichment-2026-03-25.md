@@ -1373,3 +1373,5 @@ Cache API: `/Users/paul/Desktop/brantham-partners/api/aj_annonces.json`
 - **Enrichissement API Entreprise** : 7/10 top opportunites enrichies
 - Asteren maintenant actif (40 opportunites detectees, nouveau vs scan precedent)
 
+
+## Deep Enrichment 23:10
