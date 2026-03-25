@@ -1375,3 +1375,7 @@ Cache API: `/Users/paul/Desktop/brantham-partners/api/aj_annonces.json`
 
 
 ## Deep Enrichment 23:10
+
+## Cycle 23:12
+
+- **Scrape AJ** : lancement...
