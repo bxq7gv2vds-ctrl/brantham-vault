@@ -82,3 +82,6 @@ Already up to date.
 error: cannot pull with rebase: You have unstaged changes.
 error: Please commit or stash them.
 [2026-03-25 09:05:39] Pull effectué
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+[2026-03-25 12:55:49] Pull effectué
