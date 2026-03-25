@@ -84,6 +84,7 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 | MLD (Multi Loisirs Distribution) | teaser_redige | 17/03/2026 | Pret pour Hunter |
 
 - 600+ deals archives dans `/Users/paul/brantham-vault/`
+- Dernier scan AJ: [[brantham/sessions/auto-enrichment-2026-03-25]] -- 456 opportunites (24/31 sites), 75 avec CA>=1M, top pick: Papier & electricite (204M), Commerce sport (deadline 07/04)
 
 ---
 
