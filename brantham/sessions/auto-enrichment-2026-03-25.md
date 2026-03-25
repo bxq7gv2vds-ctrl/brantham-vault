@@ -1362,3 +1362,14 @@ Cache API: `/Users/paul/Desktop/brantham-partners/api/aj_annonces.json`
 
 - **Scrape AJ** : lancement...
   - OK : 456 opportunites scrapees
+
+---
+
+## Cycle Cron 22:17
+
+- **Scrape AJ** : 473 opportunites sur 25/31 sites (0 erreur, 6 vides) — +17 vs scan precedent
+- **Diff** : 42 nouvelles, 65 disparues
+- **Dashboard** : aj_annonces.json mis a jour
+- **Enrichissement API Entreprise** : 7/10 top opportunites enrichies
+- Asteren maintenant actif (40 opportunites detectees, nouveau vs scan precedent)
+
