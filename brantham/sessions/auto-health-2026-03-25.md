@@ -3,3 +3,6 @@
 
 ## Health Check 17:10 — 2 problemes detectes et corriges
 - ALERTE : PostgreSQL DOWN — relance...
+- ALERTE : FastAPI DOWN — relance...
+
+## Health Check 17:11 — 2 problemes detectes et corriges
