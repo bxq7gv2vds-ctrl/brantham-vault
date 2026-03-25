@@ -43,3 +43,19 @@ Format:
 - Source: Abitbol & Rousselet
 - Priorite: MOYENNE (secteur tech, CA correct)
 
+
+
+## Nouvelles opportunites - 2026-03-25
+
+| Slug | Nom | CA | Procedure | Deadline | Source |
+|------|-----|-----|-----------|----------|--------|
+| abitbol-papier-et-lectricit | Papier & Electricite | 204M | cession | - | Abitbol |
+| abitbol-produits-lectroniques | Produits electroniques | 30.7M | cession | - | Abitbol |
+| ajrs-diffusion-marques-streetwear | Streetwear | 4.2M | redressement | 31/03 URGENT | AJRS |
+| ascagne-agence-conseil-digital | Agence digitale Paris16 | 4.2M | redressement | - | Ascagne |
+| ascagne-gros-oeuvre-btp | BTP Paris16 | 3.1M | redressement | - | Ascagne |
+| ascagne-production-audiovisuelle | Production audiovisuelle | 3M | redressement | - | Ascagne |
+| abitbol-patisserie | Patisserie 4 boutiques Paris | 2.8M | redressement | - | Abitbol |
+| meynet-domaine-skiable | Domaine skiable Portes du Soleil | 2.6M | cession | 27/03 CRITIQUE | Meynet |
+| abitbol-cloud-computing | Cloud B2B IDF | 2.3M | cession | - | Abitbol |
+| meynet-recomat-distribution | RECOMAT DISTRIBUTION | 2M | cession | 16/04 | Meynet |
