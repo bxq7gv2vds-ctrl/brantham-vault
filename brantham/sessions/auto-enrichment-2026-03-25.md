@@ -1312,3 +1312,6 @@ Cache API: `/Users/paul/Desktop/brantham-partners/api/aj_annonces.json`
 - **Enrichissement Pappers** : lancement...
   - 0 procedures enrichies
 - **Re-scoring** : lancement...
+  - OK
+- **Cycle termine** a 17:13
+---
