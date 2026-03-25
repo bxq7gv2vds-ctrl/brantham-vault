@@ -1357,3 +1357,7 @@ Cache API: `/Users/paul/Desktop/brantham-partners/api/aj_annonces.json`
 - Ces groupes multi-entites faussent le scoring — chaque entite est scoree individuellement alors que c'est un seul deal potentiel
 - Pas de donnees financieres (CA, EBITDA) — API Entreprise ne les fournit pas, Pappers bloque pour 24h
 
+
+## Cycle 20:11
+
+- **Scrape AJ** : lancement...
