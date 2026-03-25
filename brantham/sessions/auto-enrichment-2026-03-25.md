@@ -1338,3 +1338,22 @@ Cache API: `/Users/paul/Desktop/brantham-partners/api/aj_annonces.json`
 | Fonderie Niederbronn | >10M | 499026169 | — | 67 | AJlink GE |
 | Tele Menager More | 3-10M | 309694719 | Anne Mertz | 81 | Ajilink SO |
 
+
+---
+
+## Cycle Cron Deep Enrichment 19:00
+
+- **Procedures identifiees** : 30 avec score > 50 et sans bilan
+- **Scores** : 84.75 a 87.41 (concentre restauration/hebergement)
+- **Enrichissement Pappers** : rate-limite (0/30)
+- **Enrichissement API Entreprise** : 30/30 (denomination, NAF, adresse, dirigeant, etat admin)
+- **Fraicheur** : recalculee (OK)
+- **Stats** : 1065 AJ, 2739 MJ, 595 tribunaux, 2030 combinaisons matrice
+
+### Observations
+- 18/30 = restauration (NAF 56.xx), 5 = hebergement (55.xx), 2 = transport (49.xx)
+- Groupe CAFEINCUP : 5 entites meme gerant (Jimmy Thirant), toutes Bordeaux
+- Groupe SANTOSHA : 6 entites meme gerant (Emmanuel Meuret), toutes Gironde
+- Ces groupes multi-entites faussent le scoring — chaque entite est scoree individuellement alors que c'est un seul deal potentiel
+- Pas de donnees financieres (CA, EBITDA) — API Entreprise ne les fournit pas, Pappers bloque pour 24h
+
