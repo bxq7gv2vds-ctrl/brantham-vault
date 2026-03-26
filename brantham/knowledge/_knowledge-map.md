@@ -53,15 +53,17 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 
 | Sujet | Statut | Fichier vault | Niveau |
 |---|---|---|---|
-| Restructuration de dette (standstill, waiver, A&E) | a faire | — | — |
-| Debt-to-equity swap | a faire | — | — |
-| New money / privilege L611-11 | couvert | `legal/rang-des-creances.md` (section 5) | avance |
-| LBO distressed | a faire | — | — |
-| NPL et titrisation de creances douteuses | a faire | — | — |
-| Garanties et suretes (nantissement, fiducie-surete) | a faire | — | — |
+| Restructuration de dette (standstill, waiver, A&E) | couvert | `finance/restructuration-dette.md` (sections 1.1-1.3) | avance |
+| Debt-to-equity swap | couvert | `finance/restructuration-dette.md` (section 1.4) | avance |
+| New money / privilege L611-11 | couvert | `finance/restructuration-dette.md` (section 2.1) + `legal/rang-des-creances.md` (section 5) | avance |
+| LBO distressed | couvert | `finance/restructuration-dette.md` (sections 3.1-3.4) | avance |
+| NPL et titrisation de creances douteuses | couvert | `finance/restructuration-dette.md` (section 1.7) | avance |
+| Garanties et suretes (nantissement, fiducie-surete) | couvert | `finance/restructuration-dette.md` (sections 6.1-6.6) | avance |
 | AGS: mecanisme et plafonds | couvert | `legal/rang-des-creances.md` (section 4) | avance |
-| Cash management en crise (13-week cash flow) | couvert | `finance/valorisation-distressed.md` (section) | avance |
-| Business plan de retournement | couvert | `finance/valorisation-distressed.md` (section) | avance |
+| Cash management en crise (13-week cash flow) | couvert | `finance/restructuration-dette.md` (section 4) + `finance/valorisation-distressed.md` | avance |
+| Business plan de retournement | couvert | `finance/restructuration-dette.md` (section 5) + `finance/valorisation-distressed.md` | avance |
+| Financement en crise (bridge, DIP, affacturage, sale-leaseback) | couvert | `finance/restructuration-dette.md` (sections 2.2-2.6) | avance |
+| Haircut et debt buy-back | couvert | `finance/restructuration-dette.md` (sections 1.5-1.6) | avance |
 
 ## 4. Acteurs et ecosysteme
 
