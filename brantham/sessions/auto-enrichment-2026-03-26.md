@@ -41,3 +41,5 @@ tags: [scraping, aj, auto-enrichment, pipeline]
 
 - **Scrape AJ** : lancement...
   - OK : 468 opportunites scrapees
+
+## Deep Enrichment 19:39
