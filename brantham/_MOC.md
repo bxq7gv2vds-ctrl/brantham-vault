@@ -64,6 +64,10 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 - [[brantham/knowledge/legal/nullites-periode-suspecte]] — Nullites periode suspecte (L632-1/L632-2), responsabilite dirigeants (L651-2, L653-1+, L654-1+), checklist due diligence repreneur
 - [[brantham/patterns/acheteur-mapping]]
 
+## Knowledge Base — Process
+
+- [[brantham/knowledge/process/due-diligence-distressed]] — Due diligence distressed exhaustif: checklist financiere/juridique/sociale/fiscale/operationnelle, red flags, timing LJ vs RJ, quick scan 48h, scoring DD
+
 ## Knowledge Base — Finance
 
 - [[brantham/knowledge/finance/valorisation-distressed]] — Valorisation distressed exhaustif: 4 methodes, EBITDA normalise, 13-week CF, BP retournement, multiples sectoriels, scoring deals
