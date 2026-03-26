@@ -67,15 +67,15 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 
 | Sujet | Statut | Fichier vault | Niveau |
 |---|---|---|---|
-| Administrateurs judiciaires (etudes principales) | a faire | — | — |
-| Mandataires judiciaires (etudes principales) | a faire | — | — |
-| Tribunaux de commerce specialises | a faire | — | — |
-| CIRI et CDE | a faire | — | — |
-| Mediateur des entreprises, mediateur du credit | a faire | — | — |
-| Fonds distressed France | a faire | — | — |
+| Administrateurs judiciaires (etudes principales) | couvert | `acteurs/ecosysteme-restructuring.md` | avance |
+| Mandataires judiciaires (etudes principales) | couvert | `acteurs/ecosysteme-restructuring.md` | avance |
+| Tribunaux de commerce specialises | couvert | `acteurs/ecosysteme-restructuring.md` | avance |
+| CIRI et CDE | couvert | `acteurs/ecosysteme-restructuring.md` | avance |
+| Mediateur des entreprises, mediateur du credit | couvert | `acteurs/ecosysteme-restructuring.md` | avance |
+| Fonds distressed France | couvert | `acteurs/ecosysteme-restructuring.md` | avance |
 | Banques cellules restructuring | a faire | — | — |
-| Avocats specialises restructuring | a faire | — | — |
-| ARE et managers de transition | a faire | — | — |
+| Avocats specialises restructuring | couvert | `acteurs/ecosysteme-restructuring.md` | avance |
+| ARE et managers de transition | couvert | `acteurs/ecosysteme-restructuring.md` | avance |
 
 ## 5. Marche et tendances
 

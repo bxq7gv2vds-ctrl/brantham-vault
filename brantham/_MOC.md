@@ -57,6 +57,10 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 - [[brantham/knowledge/procedures/sauvegarde]] — Procedure de sauvegarde
 - [[brantham/knowledge/procedures/redressement-judiciaire]] — Redressement judiciaire
 - [[brantham/knowledge/procedures/liquidation-judiciaire]] — Liquidation judiciaire
+
+## Knowledge Base — Legal
+
+- [[brantham/knowledge/legal/plans-de-cession]] — Plans de cession judiciaire (L642-1+) : offre, criteres, procedure, effets, execution
 - [[brantham/patterns/acheteur-mapping]]
 
 ## Knowledge Base — Finance
