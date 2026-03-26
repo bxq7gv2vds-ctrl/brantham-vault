@@ -1,45 +1,42 @@
----
-type: session
-project: brantham
-date: 2026-03-26
-tags: [scraping, aj, auto-enrichment, pipeline]
----
+# Session auto-enrichment — 2026-03-26
 
-# Auto-Enrichment AJ -- 2026-03-26
+## Resultats
 
-## Cycle Cron 01:17
+| Metrique | Valeur |
+|----------|--------|
+| Scrape AJ (40 sites) | OK — 468 opportunites |
+| Opportunites expireees supprimees | 355 |
+| Opportunites qualifiees (CA>500K) | 50 |
+| Nouvelles sans dossier | 10 |
+| Dossiers crees | 10 |
+| Enrichis Pappers | 5/10 |
+| SIREN identifies | 5 (348398918, 462200403, 845074020, 514498039, 930134390) |
+| Repreneurs identifies | 24 sur 8 deals |
+| Erreurs | 0 |
 
-- **Scrape AJ** : 466 opportunites sur 25/31 sites (0 erreur, 6 vides)
-- **Diff** : 42 nouvelles, 65 disparues
-- **Dashboard** : aj_annonces.json mis a jour
-- **Enrichissement** : Pappers 0 (rate-limite), API Entreprise 5/7 top opportunites
-- Stable vs veille (memes sites actifs, Asteren toujours 40 annonces)
+## Deals traites
 
+1. Commerce textile (Ascagne) — 19.4M — 1 repreneur
+2. SOHNEJ (AJRS) — 1.5M — 5 repreneurs — DL 17/04/2026
+3. Transport commissionnaire (Abitbol) — 1.5M — SIREN:348398918
+4. Equipements thermiques (Abitbol) — 1.4M — SIREN:462200403 — 4 repreneurs
+5. Agence pub sport (Ascagne) — 1.2M — Paris 75016
+6. LA BIO N'AVENTURE (Meynet) — 1.0M — SIREN:845074020 — Saint-Ismier
+7. ARRIS tabac (Ajilink Provence) — 1.0M — SIREN:514498039 — BdR
+8. Medico-chirurgical (Ajilink Provence) — 1.0M — 5 repreneurs — DL 16/04/2026
+9. ROYALHAIR (Ajilink IHDF) — 1.0M — 5 repreneurs — Yvelines
+10. LAMIAN LATIAN (Ajilink IHDF) — 1.0M — SIREN:930134390 — Paris — 4 repreneurs
 
----
+## Actions suivantes recommandees
 
-## Cycle Deep Enrichment 00:58
+- PRIORITE : Commerce textile 19.4M — dossier le plus important, contacter Ascagne
+- DEADLINE proche : medico-chirurgical DL 16/04/2026
+- DEADLINE proche : SOHNEJ DL 17/04/2026
+- Enrichir SIREN manquants (SOHNEJ, textile Ascagne, pub sport)
+- API FastAPI down — relancer pour matching 4D complet
 
-- **Procedures identifiees** : 30 avec score > 50 sans bilan (meme liste que veille)
-- **Pappers** : 15 requetes executees, 0 avec donnees financieres. Token fonctionne mais ces TPE (restauration, 3-9 salaries) n'ont pas de bilans publics sur Pappers.
-- **Constat** : le top scoring est domine par des TPE restauration/hebergement (NAF 56xx/55xx) qui n'ont pas de donnees financieres publiques. L'enrichissement Pappers gratuit ne couvre pas ces petites structures.
-- **Fraicheur** : recalculee OK
-- **Stats** : 1065 AJ, 2739 MJ, 595 tribunaux, 2030 combinaisons
+## Infrastructure
 
-### Action necessaire
-- Le scoring favorise trop la restauration — a recalibrer ou filtrer
-- Pour les donnees financieres de TPE, il faudrait un token Pappers payant ou scraper les bilans INPI directement
-- Les deals AJ (scan 40 sites) sont plus interessants que le top scoring DB — les gros deals (SFDPE 30M, Fonderie Niederbronn >10M, JOTT >10M) viennent du scraper, pas de la DB
-
-
-## Cycle 02:13
-
-- **Scrape AJ** : lancement...
-  - OK : 466 opportunites scrapees
-
-## Cycle 19:37
-
-- **Scrape AJ** : lancement...
-  - OK : 468 opportunites scrapees
-
-## Deep Enrichment 19:39
+- FastAPI (port 8000) : DOWN — relance necessaire
+- Scraper AJ : OK
+- Pappers : OK (rate limit: ~95 req restantes)
