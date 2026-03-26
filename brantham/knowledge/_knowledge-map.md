@@ -110,3 +110,4 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 |---|---|---|
 | 2026-03-12 | creation | LJ, RJ, SV (fiches de base) |
 | 2026-03-26 | creation | Knowledge map initiale |
+| 2026-03-26 | creation | Valorisation distressed (exhaustif: 4 methodes, EBITDA normalise, 13-week CF, BP retournement, scoring Brantham) |
