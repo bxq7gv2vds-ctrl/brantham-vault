@@ -50,6 +50,13 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 - [[brantham/patterns/teaser-patterns]]
 - [[brantham/patterns/teaser-onepager-html-pdf]] — One-pager HTML/PDF aligne sur DA site web
 - [[brantham/patterns/scoring-patterns]]
+
+## Knowledge Base — Procedures
+
+- [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation]] — Mandat ad hoc, conciliation, pre-pack cession, privilege new money
+- [[brantham/knowledge/procedures/sauvegarde]] — Procedure de sauvegarde
+- [[brantham/knowledge/procedures/redressement-judiciaire]] — Redressement judiciaire
+- [[brantham/knowledge/procedures/liquidation-judiciaire]] — Liquidation judiciaire
 - [[brantham/patterns/acheteur-mapping]]
 
 ## Pipeline Operations
