@@ -99,10 +99,10 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 
 ## Stats
 
-- **Couvert**: 3 fiches
+- **Couvert**: 6 fiches (3 procedures + valorisation distressed avec 13-week CF et BP retournement)
 - **Partiel**: 2 fiches
-- **A faire**: ~40 sujets
-- **Priorite suivante**: Mandat ad hoc, Conciliation, Plans de cession, Valorisation distressed
+- **A faire**: ~37 sujets
+- **Priorite suivante**: Mandat ad hoc, Conciliation, Plans de cession, Due diligence distressed
 
 ## Historique d'apprentissage
 
