@@ -26,8 +26,8 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | Super-privilege salaries, AGS | couvert | `legal/rang-des-creances.md` (sections 3-4) | avance |
 | Sort des contrats en cours (L622-13) | couvert | `legal/contrats-baux-en-procedure.md` | avance |
 | Sort des baux commerciaux | couvert | `legal/contrats-baux-en-procedure.md` | avance |
-| Declaration et verification du passif | a faire | — | — |
-| Classes de parties affectees (reforme 2022) | a faire | — | — |
+| Declaration et verification du passif | couvert | `legal/rang-des-creances.md` (sections 10-11) | avance |
+| Classes de parties affectees (reforme 2022) | couvert | `legal/rang-des-creances.md` (section 12) | avance |
 | Responsabilite dirigeants: insuffisance d'actif | a faire | — | — |
 | Nullites de la periode suspecte (L632-1, L632-2) | a faire | — | — |
 | Plans de cession (L642-1+) | a faire | — | — |
