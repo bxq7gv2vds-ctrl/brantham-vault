@@ -55,11 +55,11 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 |---|---|---|---|
 | Restructuration de dette (standstill, waiver, A&E) | a faire | — | — |
 | Debt-to-equity swap | a faire | — | — |
-| New money / privilege L611-11 | a faire | — | — |
+| New money / privilege L611-11 | couvert | `legal/rang-des-creances.md` (section 5) | avance |
 | LBO distressed | a faire | — | — |
 | NPL et titrisation de creances douteuses | a faire | — | — |
 | Garanties et suretes (nantissement, fiducie-surete) | a faire | — | — |
-| AGS: mecanisme et plafonds | a faire | — | — |
+| AGS: mecanisme et plafonds | couvert | `legal/rang-des-creances.md` (section 4) | avance |
 | Cash management en crise (13-week cash flow) | couvert | `finance/valorisation-distressed.md` (section) | avance |
 | Business plan de retournement | couvert | `finance/valorisation-distressed.md` (section) | avance |
 
