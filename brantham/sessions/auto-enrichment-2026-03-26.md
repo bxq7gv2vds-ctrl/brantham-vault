@@ -40,3 +40,5 @@
 - FastAPI (port 8000) : DOWN — relance necessaire
 - Scraper AJ : OK
 - Pappers : OK (rate limit: ~95 req restantes)
+- Deep enrichment termine a 19:42
+---
