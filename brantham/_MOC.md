@@ -71,6 +71,7 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 ## Knowledge Base — Finance
 
 - [[brantham/knowledge/finance/valorisation-distressed]] — Valorisation distressed exhaustif: 4 methodes, EBITDA normalise, 13-week CF, BP retournement, multiples sectoriels, scoring deals
+- [[brantham/knowledge/finance/restructuration-dette]] — Restructuration de dette et financement en crise: standstill/waiver/A&E/DES/haircut/buyback/NPL, new money L611-11/bridge/DIP/BPI/affacturage/sale-leaseback, LBO distressed, cash management 13WCF, BP retournement, 6 suretes, application Brantham
 
 ## Knowledge Base — Market Intelligence
 
