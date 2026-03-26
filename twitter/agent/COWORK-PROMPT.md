@@ -252,19 +252,34 @@ Process de generation :
 
 Sauvegarder dans `vault/twitter/agent/drafts/YYYY-MM-DD.md`
 
-### 4. ENGAGE (continu)
+### 4. ENGAGE (continu — via browser)
 Objectif : 70% du temps sur les replies, 30% sur le contenu original.
 
-- Liker 20-30 tweets pertinents
-- Reply a 10-15 tweets avec des commentaires substantiels
-- Follow 5-10 nouveaux comptes dans la niche
-- Bookmark les tweets qui meritent d'etre analyses plus tard
+**Engagement session (15-30 min, 2-3x par jour) :**
+
+a) Ouvrir x.com/home, scroller naturellement
+b) Liker 20-30 tweets pertinents (cliquer le coeur, pause 2-5s entre chaque)
+c) Reply a 10-15 tweets avec des commentaires substantiels :
+   - Cliquer Reply
+   - Taper le commentaire dans la reply box
+   - Relire, editer si besoin
+   - Publier
+   - Attendre 30s-2min avant la prochaine reply
+d) Follow 5-10 nouveaux comptes dans la niche (visiter leur profil d'abord)
+e) Bookmark les tweets a analyser plus tard
 
 **Regles de reply :**
 - Jamais "Great post!" ou "This is so true"
 - Ajouter une info, un contrepoint, une experience
 - Etre le commentaire le plus interessant sous le tweet
 - Si t'as rien d'interessant a dire, ne dis rien
+- Les replies sont l'arme #1 de croissance — une bonne reply sous un tweet viral = des centaines de follows
+
+**Anti-detection :**
+- Varier l'ordre des actions (pas toujours like->reply->follow)
+- Sessions de longueur variable (12min, 25min, 18min — pas toujours 20min pile)
+- Ne pas engager avec le meme compte trop souvent (max 2-3 interactions/jour par compte)
+- Mixer scroll passif (juste lire) et engagement actif
 
 ### 5. LEARN (soir)
 Objectif : mettre a jour la base de connaissances.
