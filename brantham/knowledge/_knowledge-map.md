@@ -22,8 +22,8 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | Sauvegarde financiere acceleree (SFA) | a faire | — | — |
 | LJ simplifiee | a faire | — | — |
 | Sanctions: faillite personnelle, interdiction de gerer, banqueroute | a faire | — | — |
-| Privilege des creanciers et rang des creances | a faire | — | — |
-| Super-privilege salaries, AGS | a faire | — | — |
+| Privilege des creanciers et rang des creances | couvert | `legal/rang-des-creances.md` | avance |
+| Super-privilege salaries, AGS | couvert | `legal/rang-des-creances.md` (sections 3-4) | avance |
 | Sort des contrats en cours (L622-13) | couvert | `legal/contrats-baux-en-procedure.md` | avance |
 | Sort des baux commerciaux | couvert | `legal/contrats-baux-en-procedure.md` | avance |
 | Declaration et verification du passif | a faire | — | — |
