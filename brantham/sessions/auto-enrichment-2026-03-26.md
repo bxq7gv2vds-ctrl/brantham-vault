@@ -31,3 +31,7 @@ tags: [scraping, aj, auto-enrichment, pipeline]
 - Pour les donnees financieres de TPE, il faudrait un token Pappers payant ou scraper les bilans INPI directement
 - Les deals AJ (scan 40 sites) sont plus interessants que le top scoring DB — les gros deals (SFDPE 30M, Fonderie Niederbronn >10M, JOTT >10M) viennent du scraper, pas de la DB
 
+
+## Cycle 02:13
+
+- **Scrape AJ** : lancement...
