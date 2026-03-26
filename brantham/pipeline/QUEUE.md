@@ -59,3 +59,24 @@ Format:
 | meynet-domaine-skiable | Domaine skiable Portes du Soleil | 2.6M | cession | 27/03 CRITIQUE | Meynet |
 | abitbol-cloud-computing | Cloud B2B IDF | 2.3M | cession | - | Abitbol |
 | meynet-recomat-distribution | RECOMAT DISTRIBUTION | 2M | cession | 16/04 | Meynet |
+
+---
+
+## Ajout auto 2026-03-26
+
+### 10 nouvelles opportunites decouvertes (scrape 468 total)
+
+| Slug | Nom | CA | Procedure | Source |
+|------|-----|-----|-----------|--------|
+| ascagne-commerce-de-d-tail-de-textiles-en-magasin-sp-cialis | Commerce textile | 19.4M | cession | Ascagne |
+| ajrs-sohnej | SOHNEJ | 1.5M | redressement | AJRS |
+| abitbol-transport | Transport commissionnaire | 1.5M | redressement | Abitbol |
+| abitbol-equipements-thermiques | Equipements thermiques | 1.4M | redressement | Abitbol |
+| ascagne-agence-de-publicit-sp-cialis-e-dans-l-univers-du-spo | Agence pub sport | 1.2M | redressement | Ascagne |
+| meynet-la-bio-n-aventure | LA BIO N'AVENTURE | 1.0M | cession | Meynet |
+| ajilink-provence-arris | ARRIS (tabac) | 1.0M | cession | Ajilink Provence |
+| ajilink-provence-entreprise-de-conception-fabrication-et-ven | Medico-chirurgical | 1.0M | cession | Ajilink Provence |
+| ajilink-ihdf-royalhair-institut-body-minute | ROYALHAIR | 1.0M | cession | Ajilink IHDF |
+| ajilink-ihdf-lamian-latian | LAMIAN LATIAN | 1.0M | cession | Ajilink IHDF |
+
+Statut: dossiers crees, enrichissement partiel (5/10 SIREN trouves), repreneurs identifies (24 total)
