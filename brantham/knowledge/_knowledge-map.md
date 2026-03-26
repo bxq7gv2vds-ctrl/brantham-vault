@@ -24,8 +24,8 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | Sanctions: faillite personnelle, interdiction de gerer, banqueroute | a faire | — | — |
 | Privilege des creanciers et rang des creances | a faire | — | — |
 | Super-privilege salaries, AGS | a faire | — | — |
-| Sort des contrats en cours (L622-13) | a faire | — | — |
-| Sort des baux commerciaux | a faire | — | — |
+| Sort des contrats en cours (L622-13) | couvert | `legal/contrats-baux-en-procedure.md` | avance |
+| Sort des baux commerciaux | couvert | `legal/contrats-baux-en-procedure.md` | avance |
 | Declaration et verification du passif | a faire | — | — |
 | Classes de parties affectees (reforme 2022) | a faire | — | — |
 | Responsabilite dirigeants: insuffisance d'actif | a faire | — | — |
@@ -99,9 +99,9 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 
 ## Stats
 
-- **Couvert**: 6 fiches (3 procedures + valorisation distressed avec 13-week CF et BP retournement)
+- **Couvert**: 8 fiches (3 procedures + valorisation distressed + contrats en cours & baux commerciaux)
 - **Partiel**: 2 fiches
-- **A faire**: ~37 sujets
+- **A faire**: ~35 sujets
 - **Priorite suivante**: Mandat ad hoc, Conciliation, Plans de cession, Due diligence distressed
 
 ## Historique d'apprentissage
@@ -111,3 +111,4 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | 2026-03-12 | creation | LJ, RJ, SV (fiches de base) |
 | 2026-03-26 | creation | Knowledge map initiale |
 | 2026-03-26 | creation | Valorisation distressed (exhaustif: 4 methodes, EBITDA normalise, 13-week CF, BP retournement, scoring Brantham) |
+| 2026-03-26 | creation | Contrats en cours & baux commerciaux en procedure collective (L622-13, L641-11-1, L642-7, regime bail, plan de cession, checklist repreneur) |
