@@ -112,3 +112,4 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | 2026-03-26 | creation | Knowledge map initiale |
 | 2026-03-26 | creation | Valorisation distressed (exhaustif: 4 methodes, EBITDA normalise, 13-week CF, BP retournement, scoring Brantham) |
 | 2026-03-26 | creation | Contrats en cours & baux commerciaux en procedure collective (L622-13, L641-11-1, L642-7, regime bail, plan de cession, checklist repreneur) |
+| 2026-03-26 | creation | Ecosysteme restructuring France (AJ, MJ, TCS, CIRI/CRP/CODEFI, mediateurs, fonds distressed, avocats, ARE, managers transition) |
