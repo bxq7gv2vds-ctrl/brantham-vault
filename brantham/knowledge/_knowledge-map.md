@@ -101,9 +101,9 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 
 ## Stats
 
-- **Couvert**: 22 sujets (3 procedures + valorisation + contrats/baux + ecosysteme acteurs + rang creances/privileges/AGS/new money/declaration passif/classes parties affectees)
+- **Couvert**: 30 sujets (3 procedures + valorisation + contrats/baux + ecosysteme acteurs + rang creances/privileges/AGS/new money/declaration passif/classes parties affectees + restructuration dette complète: standstill/waiver/A&E/DES/haircut/buyback/NPL + financement crise: new money/bridge/DIP/BPI/affacturage/sale-leaseback + LBO distressed + garanties/suretes + 13WCF + BP retournement)
 - **Partiel**: 2 fiches
-- **A faire**: ~21 sujets
+- **A faire**: ~13 sujets
 - **Priorite suivante**: Mandat ad hoc, Conciliation, Plans de cession, Due diligence distressed, Banques cellules restructuring
 
 ## Historique d'apprentissage
