@@ -42,7 +42,7 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 |---|---|---|---|
 | Sourcing deals (BODACC, infogreffe, AJ, MJ) | partiel | `scraping/INDEX.md` | fondamental |
 | Due diligence distressed | a faire | — | — |
-| Valorisation entreprises en difficulte | a faire | — | — |
+| Valorisation entreprises en difficulte | couvert | `finance/valorisation-distressed.md` | avance |
 | Structuration offres de reprise (L642-2) | a faire | — | — |
 | Encheres et surencheres | a faire | — | — |
 | Audience au tribunal | a faire | — | — |
@@ -60,8 +60,8 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | NPL et titrisation de creances douteuses | a faire | — | — |
 | Garanties et suretes (nantissement, fiducie-surete) | a faire | — | — |
 | AGS: mecanisme et plafonds | a faire | — | — |
-| Cash management en crise (13-week cash flow) | a faire | — | — |
-| Business plan de retournement | a faire | — | — |
+| Cash management en crise (13-week cash flow) | couvert | `finance/valorisation-distressed.md` (section) | avance |
+| Business plan de retournement | couvert | `finance/valorisation-distressed.md` (section) | avance |
 
 ## 4. Acteurs et ecosysteme
 
