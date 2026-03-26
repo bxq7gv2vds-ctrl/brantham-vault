@@ -183,20 +183,42 @@ qmd get vault/path/to/file.md         # Lire un doc
 ### 1. SCAN (matin)
 Objectif : capturer TOUT ce qui est interessant dans la niche.
 
-```
-a) clix feed --json -n 100 → analyser les 100 derniers tweets du feed
-b) clix search "AI agents" "LLM" "Claude" "automation" --json → recherche par keywords
-c) clix trending → topics du moment
-d) Checker les comptes cles (voir section Comptes a Suivre)
-```
+**Etape A — Feed algorithmique (le plus important)**
+1. Ouvrir `x.com/home` dans le browser
+2. Scroller le feed lentement (comme un humain)
+3. Pour chaque tweet visible, lire via `browser_snapshot()`
+4. Si interessant : noter contenu, auteur, engagement, format
+5. Scroller ~50-100 tweets au total
+6. Pause naturelle entre les scrolls (3-5s)
 
-Pour chaque tweet interessant, extraire :
-- Le contenu exact
-- L'engagement (likes, RT, replies, bookmarks)
-- Le format (thread, single, image, video, poll)
-- Le hook (premiere phrase)
-- Pourquoi ca marche
-- Le timing (heure de publication)
+**Etape B — Recherche par keywords**
+Chercher chaque keyword separement sur `x.com/search` :
+- "AI agents"
+- "LLM"
+- "Claude Code"
+- "automation"
+- "agentic"
+- "self-improvement"
+- "building in public"
+Filtrer par "Latest" ET "Top" pour chaque recherche.
+
+**Etape C — Explorer / Trending**
+Ouvrir `x.com/explore` → lire les trending topics
+Identifier ceux lies a la niche AI/tech
+
+**Etape D — Comptes cles**
+Visiter les profils des comptes Tier 1 (voir section Comptes)
+Lire leurs 3-5 derniers tweets
+Noter ce qui a le plus d'engagement
+
+**Pour chaque tweet interessant, extraire :**
+- Le contenu exact (copie verbatim)
+- L'engagement visible (likes, RT, replies, bookmarks, views)
+- Le format (single, thread, image, video, poll, quote)
+- Le hook (premiere phrase — la plus importante)
+- Pourquoi ca marche (analyse rapide)
+- L'heure de publication
+- Le profil de l'auteur (followers count, bio, type de compte)
 
 Sauvegarder dans `vault/twitter/digests/YYYY-MM-DD.md`
 
