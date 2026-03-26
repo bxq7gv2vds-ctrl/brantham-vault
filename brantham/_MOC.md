@@ -61,6 +61,7 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 ## Knowledge Base — Legal
 
 - [[brantham/knowledge/legal/plans-de-cession]] — Plans de cession judiciaire (L642-1+) : offre, criteres, procedure, effets, execution
+- [[brantham/knowledge/legal/nullites-periode-suspecte]] — Nullites periode suspecte (L632-1/L632-2), responsabilite dirigeants (L651-2, L653-1+, L654-1+), checklist due diligence repreneur
 - [[brantham/patterns/acheteur-mapping]]
 
 ## Knowledge Base — Finance
