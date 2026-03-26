@@ -3,31 +3,27 @@ type: agent-config
 updated: 2026-03-26
 ---
 
-# Comptes a suivre — Tier List
+# Tier List — Comptes a suivre
 
-## Tier 1 — Etudier leur style en detail
-Analyser : ton, format, timing, hooks, engagement patterns.
-
-| Handle | Niche | Pourquoi |
-|---|---|---|
-| @levelsio | indie hacking + AI | ton direct, pas de bullshit, massive audience |
-| @swyx | AI engineer | bon mix technique/accessible |
-| @karpathy | deep learning | technique mais accessible, huge engagement |
-| @alexalbert__ | Claude Code creator | ecosystem Anthropic |
-| @steipete | Claude Code power user | similar profile to Paul |
+## Tier 1 — Etudier en detail
+- @levelsio — indie hacking + AI, direct, build in public avec chiffres
+- @swyx — AI engineer, mix technique/accessible
+- @steipete — power user Claude Code, builder narrative
+- @karpathy — technique mais accessible, engagement massif
+- @alexalbert__ — Claude Code creator
+- @bindureddy — enterprise AI, opinions fortes
 
 ## Tier 2 — Veille quotidienne
-| Handle | Niche | Pourquoi |
-|---|---|---|
-| @_akhaliq | AI papers | toujours premier sur les papers |
-| @claudeai | Anthropic official | updates produit |
-| @WatcherGuru | breaking news | finance/tech rapide |
-| @DeItaone | breaking news | ultra rapide |
+- @_akhaliq — papers daily, toujours premier
+- @therundownai — newsletter AI, curation
+- @gregisenberg — startup ideas
+- @WatcherGuru — breaking news
+- @DeItaone — breaking news rapide
 
-## Tier 3 — French tech AI (a identifier)
-- Chercher les comptes FR actifs dans la niche AI/agents
-- Objectif : identifier 10-15 comptes FR pertinents en semaine 1
+## Tier 3 — A decouvrir
+- French AI Twitter (priority scan semaine 1)
+- Comptes qui apparaissent 3+ fois dans le feed
 
-## A mettre a jour
-Cette liste evolue. Ajouter/retirer selon les decouvertes de l'agent.
-Criteres d'ajout : engagement rate, pertinence niche, style interessant a analyser.
+## Regles
+- Revisiter chaque semaine
+- Max 2-3 interactions/jour par compte
