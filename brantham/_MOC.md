@@ -59,6 +59,10 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 - [[brantham/knowledge/procedures/liquidation-judiciaire]] — Liquidation judiciaire
 - [[brantham/patterns/acheteur-mapping]]
 
+## Knowledge Base — Finance
+
+- [[brantham/knowledge/finance/valorisation-distressed]] — Valorisation distressed exhaustif: 4 methodes, EBITDA normalise, 13-week CF, BP retournement, multiples sectoriels, scoring deals
+
 ## Pipeline Operations
 
 - [[brantham/pipeline/BOARD]] — Kanban pipeline (statuts des deals)
