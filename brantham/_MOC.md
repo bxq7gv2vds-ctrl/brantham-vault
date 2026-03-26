@@ -72,6 +72,10 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 
 - [[brantham/knowledge/finance/valorisation-distressed]] — Valorisation distressed exhaustif: 4 methodes, EBITDA normalise, 13-week CF, BP retournement, multiples sectoriels, scoring deals
 
+## Knowledge Base — Market Intelligence
+
+- [[brantham/knowledge/market/stats-defaillances-2025]] — Statistiques defaillances France 2024-2025: 70K defaillances/an, 267K emplois, secteurs, PGE, previsions 2026, comparaison internationale, application Brantham
+
 ## Pipeline Operations
 
 - [[brantham/pipeline/BOARD]] — Kanban pipeline (statuts des deals)
