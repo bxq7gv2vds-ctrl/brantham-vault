@@ -77,7 +77,7 @@ Signaux systematiquement presents dans les entreprises en pre-defaillance :
    - Mise en place d'un comite de tresorerie quotidien puis hebdomadaire
    - Centralisation de toutes les decisions de paiement (DAF ou DG uniquement)
    - Acceleration du recouvrement : relance systematique a J+1, J+7, J+15, mise en demeure a J+30
-   - Negociation echelonnement URSSAF et Tresor (formulaires en ligne, delai 24 mois max)
+   - [[negociation-crise|Negociation]] echelonnement URSSAF et Tresor (formulaires en ligne, delai 24 mois max)
    - Activation affacturage si eligible (attention aux clauses de resiliation en procedure)
 
 3. **Securisation des revenus**
@@ -510,6 +510,21 @@ Situations ou le retournement est quasi-impossible — orienter vers la cession 
 - Perte de l'autorisation d'exercer / licence / agrement
 - Climat social toxique avec greve recurrente et sabotage
 - Dirigeant fondateur refuse de partir malgre son role dans la defaillance
+
+---
+
+## Voir aussi
+
+- [[due-diligence-distressed]] — Diagnostic operationnel en phase DD
+- [[integration-post-acquisition]] — Plan 100 jours post-acquisition
+- [[structuration-offres-reprise]] — Integration du plan de retournement dans l'offre
+- [[valorisation-distressed]] — Business plan de retournement et EBITDA normalise
+- [[financial-modeling-distressed]] — 13-week cash flow et stress testing
+- [[restructuration-dette]] — Techniques de financement en crise
+- [[droit-social-restructuration]] — PSE, APC, APLD et cadre social
+- [[communication-parties-prenantes]] — Communication de crise
+- [[assurance-credit]] — Impact sur le BFR et retablissement du credit
+- [[ecosysteme-restructuring]] — Cabinets de management de transition
 
 ---
 
