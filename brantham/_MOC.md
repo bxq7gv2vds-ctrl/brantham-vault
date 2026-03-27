@@ -103,6 +103,17 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 - [[brantham/knowledge/skills/quick-scan-diagnostic]] — Quick scan / diagnostic flash 24-48h: 10 indicateurs critiques, scoring 1-5, red flags eliminatoires, decision framework go/no-go, template memo 1 page
 - [[brantham/knowledge/skills/ethique-repreneur]] — Ethique du repreneur: pratiques condamnables, L642-2 obligations, jurisprudence, charte ethique, RSE distressed, positionnement Brantham
 
+## Knowledge Base — Sectors (Playbooks sectoriels)
+
+- [[brantham/knowledge/sectors/INDEX]] — Index des fiches sectorielles
+- [[brantham/knowledge/sectors/retail-commerce]] — Retail/commerce: bail commercial L642-7, stock saisonnier, e-commerce, clauses enseigne, Camaieu/La Halle/Naf Naf
+- [[brantham/knowledge/sectors/btp-construction]] — BTP/construction: garantie decennale, sous-traitance L131-12, marches publics, retenue garantie 5%, 21% defaillances FR
+- [[brantham/knowledge/sectors/restauration-hotellerie]] — Restauration/hotellerie: licence IV, HACCP, bail 3/6/9, saisonnalite, fonds commerce, Courtepaille/Flunch
+- [[brantham/knowledge/sectors/industrie-manufacturiere]] — Industrie: ICPE, credit-bail machines, certifications IATF/EN9100, passif environnemental, sous-traitance auto/aero
+- [[brantham/knowledge/sectors/tech-startups]] — Tech/startups: PI, ARR/burn rate, dette technique, BSPCE, acqui-hire, 70% LJ directe
+- [[brantham/knowledge/sectors/immobilier]] — Immobilier: VEFA, GFA, promotion, marchand biens, SCI, suretes, DPE passoires energetiques
+- [[brantham/knowledge/sectors/agriculture-agroalimentaire]] — Agriculture/IAA: tribunal judiciaire, GAEC/EARL, PAC/DPB, SAFER preemption, IFS/BRC, AOP/AOC
+
 ## Knowledge Base — Market Intelligence
 
 - [[brantham/knowledge/market/stats-defaillances-2025]] — Statistiques defaillances France 2024-2025: 70K defaillances/an, 267K emplois, secteurs, PGE, previsions 2026, comparaison internationale, application Brantham
