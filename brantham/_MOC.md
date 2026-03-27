@@ -67,6 +67,7 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 - [[brantham/knowledge/legal/plans-de-continuation]] — Plans de continuation (sauvegarde L626-1+ / redressement L631-19+): elaboration, classes de parties affectees, vote, execution, resolution, impact repreneur
 - [[brantham/knowledge/legal/sanctions-dirigeants]] — Sanctions et responsabilite des dirigeants (L651-2 insuffisance actif, L653-1+ faillite personnelle, L653-8 interdiction gerer, L654-1+ banqueroute, L621-2 extension procedure): conditions, peines, prescription, jurisprudence, checklist DD repreneur
 - [[brantham/knowledge/legal/droit-europeen-insolvabilite]] — Droit europeen de l'insolvabilite : reglement UE 2015/848 (COMI, reconnaissance mutuelle, groupes), directive 2019/1023 (restructuration preventive, classes, cram-down), transposition francaise (ordonnance 2021), comparaison Chapter 11/UK/StaRUG, enjeux cross-border M&A distressed
+- [[brantham/knowledge/legal/droit-social-restructuration]] — Droit social en restructuration et procedure collective : L1224-1 (transfert, Spijkers/Suzen, exception plan cession L642-5), PSE en RJ/LJ (L1233-58+, delais raccourcis, homologation DREETS, AGS), licenciement eco hors PSE, consultation CSE, convention collective post-cession (L2261-14, survie 15 mois), APC (L2254-2), APLD-R, contentieux prud'homal, IRP post-cession, checklist sociale repreneur
 - [[brantham/patterns/acheteur-mapping]]
 
 ## Knowledge Base — Process
