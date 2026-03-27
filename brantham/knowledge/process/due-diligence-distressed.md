@@ -128,7 +128,7 @@ Guide operationnel pour la due diligence dans le contexte des reprises d'entrepr
 
 - [ ] Nature de la procedure : sauvegarde, RJ, LJ, conciliation
 - [ ] Date de cessation des paiements fixee par le tribunal
-- [ ] **Periode suspecte** : identifier tous les actes entre la date de CDO et le jugement d'ouverture
+- [ ] **[[nullites-periode-suspecte|Periode suspecte]]** : identifier tous les actes entre la date de CDO et le jugement d'ouverture
   - Actes nuls de plein droit (art. L632-1) : 12 categories dont actes a titre gratuit, paiements de dettes non echues, hypotheques, nantissements
   - Extension : actes a titre gratuit annulables jusqu'a 6 mois avant CDO
   - Nullites facultatives (art. L632-2) : paiements et actes si connaissance de la CDO

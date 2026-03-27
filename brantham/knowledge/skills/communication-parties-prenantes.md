@@ -293,3 +293,14 @@ Les fournisseurs sont les plus nerveux : ils ont souvent des impayes et craignen
 - **Empathie** d'abord, faits ensuite
 - **Repetition** : les messages cles doivent etre repetes 7 fois minimum pour etre integres
 - **Ecoute** : autant que l'emission, sinon plus
+
+## Voir aussi
+
+- [[negociation-crise]] — Techniques de negociation en restructuration
+- [[ethique-repreneur]] — Principes ethiques dans la communication
+- [[audience-tribunal]] — Presentation devant le tribunal
+- [[post-closing-execution]] — Execution post-reprise et plan 100 jours
+- [[integration-post-acquisition]] — Integration operationnelle
+- [[ecosysteme-restructuring]] — Identifier les interlocuteurs cles
+- [[droit-social-restructuration]] — PSE et obligations sociales
+- [[plans-de-cession]] — Contenu obligatoire de l'offre (volet emploi)

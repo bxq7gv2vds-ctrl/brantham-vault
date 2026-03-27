@@ -86,7 +86,7 @@ Un diagnostic flash (ou quick scan) est une analyse rapide et structuree d'une e
 ## 4. Analyse juridique express
 
 ### Procedure en cours
-- **Type** : sauvegarde, RJ, LJ ? Implications tres differentes
+- **Type** : [[sauvegarde]], [[redressement-judiciaire|RJ]], [[liquidation-judiciaire|LJ]] ? Implications tres differentes
 - **Date d'ouverture** : depuis combien de temps ? Fin de periode d'observation ?
 - **AJ/MJ** : qui sont-ils ? Reputation ? Approche (pro-cession ou pro-continuation) ?
 - **Juge-commissaire** : qui ? Son historique de decisions ?
