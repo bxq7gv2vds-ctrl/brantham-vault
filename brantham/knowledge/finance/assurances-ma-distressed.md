@@ -59,7 +59,7 @@ L'assurance D&O (Responsabilite Civile des Dirigeants) couvre les dirigeants de 
 | **Responsabilite civile** | Dommages causes aux tiers, salaries, associes |
 | **Frais de defense** | Honoraires d'avocats, frais de procedure |
 | **Sanctions financieres** | Amendes civiles et administratives (pas penales) |
-| **Comblement de passif** | Action en responsabilite pour insuffisance d'actif (L651-2 C.com) |
+| **Comblement de passif** | Action en responsabilite pour insuffisance d'actif (L651-2 C.com, voir [[sanctions-dirigeants]]) |
 
 ### 2.3 Exclusions courantes
 
@@ -81,7 +81,7 @@ L'assurance D&O (Responsabilite Civile des Dirigeants) couvre les dirigeants de 
 
 **Points de vigilance** :
 - Verifier que la police existante de la cible est toujours en vigueur (primes payees ?)
-- En RJ : les primes d'assurance sont des creances posterieures privilegiees (L622-17)
+- En [[redressement-judiciaire|RJ]] : les primes d'assurance sont des creances posterieures privilegiees (L622-17)
 - En LJ : si la police est resiliee, les anciens dirigeants perdent toute couverture
 - Le repreneur doit souscrire sa propre police D&O des la prise de controle
 - Les dirigeants de transition sont couverts par la police du cabinet de management de transition ou leur propre RC pro
@@ -254,7 +254,7 @@ En reprise d'entreprise en difficulte, les hommes-cles sont souvent :
 
 ### 7.1 Principe
 
-La Pollution Legal Liability (PLL) couvre les frais de depollution et les responsabilites liees a une contamination environnementale du site. Particulierement critique pour les reprises de sites industriels (ICPE, Seveso).
+La Pollution Legal Liability (PLL) couvre les frais de depollution et les responsabilites liees a une contamination environnementale du site. Particulierement critique pour les reprises de sites industriels (ICPE, Seveso). Voir [[passif-environnemental]] pour le detail des obligations.
 
 ### 7.2 Pertinence en distressed
 

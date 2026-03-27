@@ -319,7 +319,7 @@ Ce precedent :
 
 7. **La CDC comme investisseur de dernier recours** : pour les groupes systemiques (sante, emploi), l'Etat peut intervenir via la CDC. Ce n'est pas une nationalisation mais un sauvetage structure.
 8. **Le rebrand est necessaire apres un scandale majeur** : Orpea->Emeis montre qu'un changement de nom est indispensable pour la credibilite
-9. **Due diligence renforcee sur la dette reelle** : toujours verifier les engagements hors bilan, les JV non consolidees, les vehicules de titrisation
+9. **[[due-diligence-distressed|Due diligence]] renforcee sur la dette reelle** : toujours verifier les engagements hors bilan, les JV non consolidees, les vehicules de titrisation
 
 ### Application Brantham
 
@@ -348,3 +348,15 @@ Ce precedent :
 
 *Fiche creee le 2026-03-27. Derniere mise a jour : 2026-03-27.*
 *Cas de reference Brantham pour : cram-down, sauvegarde acceleree, restructuration mega-cap, scandale declencheur.*
+
+## Voir aussi
+
+- [[sauvegarde-acceleree-sfa]] — Procedure de sauvegarde acceleree utilisee par Orpea
+- [[cas-casino-groupe]] — Autre mega-restructuration avec cram-down
+- [[restructuration-dette]] — Mecanismes de conversion dette/equity
+- [[rang-des-creances]] — Hierarchie des creanciers dans le plan
+- [[mandat-ad-hoc-conciliation]] — Procedures de conciliation pre-sauvegarde
+- [[ecosysteme-restructuring]] — Acteurs impliques (FHBX, Houlihan Lokey)
+- [[valorisation-distressed]] — Methodes de valorisation appliquees
+- [[stats-defaillances-2025]] — Contexte macro des defaillances
+- [[droit-europeen-insolvabilite]] — Directive europeenne ayant permis le cram-down

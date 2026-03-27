@@ -88,7 +88,7 @@ Le service de la dette des holdings dependait exclusivement des dividendes remon
 
 **2019 : Rallye en sauvegarde**
 
-- **23 mai 2019** : Rallye, Fonciere Euris, Finatis et Euris sont placees sous **procedure de sauvegarde** par le tribunal de commerce de Paris
+- **23 mai 2019** : Rallye, Fonciere Euris, Finatis et Euris sont placees sous **procedure de [[sauvegarde]]** par le tribunal de commerce de Paris
 - Declencheur : vendeurs a decouvert (Muddy Waters, Carson Block) attaquent le titre Casino depuis 2015, denoncant la complexite de la structure et le surendettement. Casino perd 6,4% en bourse le jour de l'annonce.
 - Rallye ne peut plus refinancer sa dette de 2,9 Mds EUR sur les marches
 - Casino annonce ne pas etre "concerne" mais le doute s'installe
