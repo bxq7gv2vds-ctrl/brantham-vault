@@ -33,7 +33,6 @@ updated: 2026-03-27
 | [[03-deal-analysis]] | Deal Analysis | 10h/15h | Analyse financière + juridique sur infos publiques |
 | [[04-buyer-hunt]] | Buyer Hunt | 11h/14h | Sourcing 15-25 acheteurs qualifiés par deal |
 | [[05-morning-brief]] | Morning Brief | 07h30 | Brief actionnable Paul + Soren |
-| [[06-teaser-factory]] | Teaser Factory | 12h30 | Génération teaser markdown + email + PPTX |
 | [[07-contact-enricher]] | Contact Enricher | 16h | Enrichissement emails + LinkedIn décideurs |
 
 ## État partagé (lire/écrire)
