@@ -83,3 +83,16 @@ Statut: dossiers crees, enrichissement partiel (5/10 SIREN trouves), repreneurs 
 
 ## Related
 - [[brantham/_MOC]]
+
+---
+
+## Ajout auto 2026-03-27 21:09
+
+### MONTE CARLO SNC (LE VOLUPTE) — Commerce de detail boissons
+- CA: 881K EUR (2024) | Effectif: 2 | SIREN: 812784056
+- Carpentras 84200 (PACA) | NAF: 47.26Z
+- Source: Meynet AJ | Ref: 14520 | Procedure: cession
+- Date limite: **2026-04-08** (12 jours)
+- Dossier: deals/meynet-monte-carlo-snc/
+- Priorite: HAUTE (deadline proche, surface 102m2, loyer correct)
+- Status: enrichissement fait, 5 repreneurs identifies, analyse complete

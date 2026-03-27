@@ -122,9 +122,9 @@ Lire la section "Décisions en attente (→ Paul)" dans BRAIN.md. Compter :
 ### Étape 6 — Calculer le score de santé global du pipeline
 
 Score sur 100 :
-- Nb deals GO en pipeline / 5 cibles minimum → jusqu'à 30 pts
-- Nb deals avec teaser prêt / nb deals GO → jusqu'à 25 pts
-- Nb deals avec acheteurs identifiés / nb deals avec teaser → jusqu'à 25 pts
+- Nb deals actifs en pipeline / 5 cibles minimum → jusqu'à 30 pts
+- Nb deals `analysé` ou plus / nb deals actifs → jusqu'à 25 pts
+- Nb deals avec acheteurs identifiés / nb deals analysés → jusqu'à 25 pts
 - Aucune alerte rouge → 20 pts (retirer 5 pts par alerte rouge active)
 
 ### Étape 7 — Mettre à jour BRAIN.md
