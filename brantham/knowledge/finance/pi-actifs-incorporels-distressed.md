@@ -390,3 +390,16 @@ Souvent 30 a 70% de la valeur totale de l'entreprise en going concern.
 - CGI : art. 244 quater B (CIR), art. 244 quater B bis (CII)
 - ISO 10668 (evaluation des marques)
 - Norme francaise NF X50-091 (management de la propriete intellectuelle)
+
+---
+
+## Voir aussi
+
+- [[valorisation-distressed]] — Methodes de valorisation globale en distressed
+- [[due-diligence-distressed]] — Checklist PI dans la DD juridique
+- [[plans-de-cession]] — Cession de PI dans le cadre du plan de cession
+- [[contrats-baux-en-procedure]] — Sort des contrats de licence et franchise en procedure
+- [[post-closing-execution]] — Formalites INPI et transferts post-closing
+- [[fiscalite-restructuration]] — CIR, CII et traitement fiscal des actifs incorporels
+- [[nullites-periode-suspecte]] — Risques de nullite sur cessions PI en periode suspecte
+- [[structuration-offres-reprise]] — Integrer la PI dans le perimetre de l'offre
