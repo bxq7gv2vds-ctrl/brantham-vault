@@ -1,9 +1,11 @@
 ---
 type: cowork-prompt
 agent: contact-enricher
-schedule: "16h00 (après buyer-hunt 14h00)"
+schedule: "09h30 + 16h00"
 updated: 2026-03-27
 ---
+
+> **OUTPUT OBLIGATOIRE** : écrire `/Users/paul/vault/brantham/cowork-outputs/contact-enricher-[YYYY-MM-DD-HHMM].json` à la fin du run. Voir protocole : [[cowork-prompts/00-output-protocol]]
 
 # COWORK PROMPT — BRANTHAM CONTACT ENRICHER
 
