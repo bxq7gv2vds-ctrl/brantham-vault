@@ -9,14 +9,14 @@ Reusable technical patterns. Check here before solving a problem.
 
 ## Cross-Project
 
-| Pattern | Category | File |
-|---------|----------|------|
-| asyncpg Connection Pool | data | [[patterns/asyncpg-connection-pool]] |
-| Robust Scraping | scraping | [[patterns/scraping-robust]] |
-| Agent Orchestration | agent | [[patterns/agent-orchestration]] |
-| Prefect Pipeline | data | [[patterns/prefect-pipeline]] |
-| Teaser PPTX Generation | content | [[patterns/teaser-pptx-generation]] |
-| Gemweb RSS Parsing | scraping | [[patterns/gemweb-rss-parsing]] |
+| Pattern                 | File                                 | Category |
+| ----------------------- | ------------------------------------ | -------- |
+| asyncpg Connection Pool | [[patterns/asyncpg-connection-pool]] | data     |
+| Robust Scraping         | [[patterns/scraping-robust]]         | scraping |
+| Agent Orchestration     | [[patterns/agent-orchestration]]     | agent    |
+| Prefect Pipeline        | [[patterns/prefect-pipeline]]        | data     |
+| Teaser PPTX Generation  | [[patterns/teaser-pptx-generation]]  | content  |
+| Gemweb RSS Parsing      | [[patterns/gemweb-rss-parsing]]      | scraping |
 
 ## Website-Specific
 
