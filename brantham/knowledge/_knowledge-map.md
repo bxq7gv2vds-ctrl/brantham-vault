@@ -148,3 +148,9 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | 2026-03-27 | creation | Quick scan / diagnostic flash (10 indicateurs critiques, grille scoring 1-5, decision framework go/conditional/no-go, template memo 1 page) |
 | 2026-03-27 | creation | Ethique du repreneur (pratiques condamnables, charte 10 principes, RSE distressed, jurisprudence, positionnement Brantham) |
 | 2026-03-27 | **COMPLET** | **49/49 sujets couverts — Knowledge base operationnelle** |
+| 2026-03-27 | creation | Retournement operationnel et management de transition (diagnostic, plan 3 phases, cost-cutting PSE/APC/APLD, management transition TJM/acteurs, KPIs, communication crise) |
+| 2026-03-27 | creation | Droit de la concurrence en M&A distressed (seuils FR/UE, procedure simplifiee, failing firm defense 3 conditions, pratique AdlC, Casino/Auchan, bid rigging) |
+| 2026-03-27 | creation | Assurances en M&A distressed (D&O/run-off, RC pro AJ/MJ, escrow/retention/earn-out, W&I insurance, homme-cle, PLL environnemental) |
+| 2026-03-27 | creation | PI et actifs incorporels distressed (marques royalty relief, brevets, franchise intuitu personae, logiciel/SaaS, noms domaine, RGPD, CIR) |
+| 2026-03-27 | rewrite | Glossaire distressed M&A (200+ termes en 6 categories vs 64 lignes precedemment) |
+| 2026-03-27 | **MAJ** | **53/53 sujets couverts + glossaire etendu** |
