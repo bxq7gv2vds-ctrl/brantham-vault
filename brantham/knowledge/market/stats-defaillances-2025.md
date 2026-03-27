@@ -60,9 +60,9 @@ Le ralentissement de la progression est net : +1,7% au T4 2025 vs +10% au T4 202
 
 | Procedure | Nombre | Part | Evolution vs 2024 |
 |---|---|---|---|
-| **Liquidation judiciaire directe (LJ)** | **47 078** | **67%** | +0,9% |
-| **Redressement judiciaire (RJ)** | **21 336** | **30%** | +8,6% |
-| **Sauvegarde** | **1 543** | **2%** | -0,4% |
+| **[[liquidation-judiciaire|Liquidation judiciaire]] directe (LJ)** | **47 078** | **67%** | +0,9% |
+| **[[redressement-judiciaire|Redressement judiciaire]] (RJ)** | **21 336** | **30%** | +8,6% |
+| **[[sauvegarde|Sauvegarde]]** | **1 543** | **2%** | -0,4% |
 | **Total** | **69 957** | 100% | +3,1% |
 
 ### Analyse

@@ -391,7 +391,7 @@ BESOIN DE FINANCEMENT      |     |     |     |     |     |
 
 ### Utilisation
 
-- **Negociation avec les creanciers** : prouver que l'entreprise a assez de cash pour survivre pendant la restructuration
+- **[[negociation-crise|Negociation]] avec les creanciers** : prouver que l'entreprise a assez de cash pour survivre pendant la restructuration
 - **Demande de DIP financing** : justifier le besoin de financement interimaire
 - **Decision du tribunal** : le TWCF est souvent demande par l'administrateur judiciaire pour evaluer la viabilite
 - **Pilotage de crise** : identifier la semaine ou le cash tombe a zero ("cash wall")
