@@ -119,7 +119,7 @@ Avec un EBITDA d'environ 700 M EUR et une dette nette de 9,5 Mds, le ratio dette
 - Cours de bourse : chute de 120 EUR a 25 EUR
 
 **Avril-Juin 2022 : Premiere conciliation**
-- 20/04 : Ouverture d'une procedure de conciliation par ordonnance du president du tribunal de commerce specialise de Nanterre. SELARL FHB (Me Helene Bourbouloux) designee conciliatrice pour 4 mois.
+- 20/04 : Ouverture d'une procedure de [[mandat-ad-hoc-conciliation|conciliation]] par ordonnance du president du tribunal de commerce specialise de Nanterre. SELARL FHB (Me Helene Bourbouloux) designee conciliatrice pour 4 mois.
 - 12/05 : Accord de principe avec les principaux partenaires bancaires
 - 03/06 : Conclusion du protocole de conciliation avec le pool bancaire
 - 10/06 : Homologation du protocole par le tribunal de Nanterre, fin de la premiere conciliation

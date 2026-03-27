@@ -24,7 +24,7 @@ Guide complet sur les produits d'assurance et mecanismes de couverture dans le c
 En M&A classique, la garantie de passif (garantie d'actif et de passif, GAP) est le mecanisme standard de protection de l'acquereur. Le vendeur garantit la sincerite des comptes et indemnise l'acquereur en cas de passif cache.
 
 En M&A distressed, ce mecanisme est **inoperant** :
-- En **cession judiciaire** (plan de cession L642-1 et suivants C.com) : le repreneur ne reprend pas le passif anterieur. Pas de vendeur solvable pour garantir quoi que ce soit
+- En **cession judiciaire** ([[plans-de-cession|plan de cession]] L642-1 et suivants C.com) : le repreneur ne reprend pas le passif anterieur. Pas de vendeur solvable pour garantir quoi que ce soit
 - En **cession de gre a gre en LJ** : le liquidateur cede "en l'etat", sans garantie
 - En **pre-pack/conciliation** : le vendeur est en difficulte, sa capacite a honorer une garantie est douteuse
 - Les actionnaires/dirigeants de la cible sont souvent insolvables
