@@ -69,7 +69,8 @@ def detect_file_type(file_path):
 
 def has_related_section(content):
     """Check if file has ## Related section with wikilinks."""
-    related_match = re.search(r'## Related.*?(?=\n##|\Z)', content, re.DOTALL)
+    # Match ## Related that is a proper Markdown header (preceded by newline)
+    related_match = re.search(r'\n## Related.*?(?=\n##|\Z)', content, re.DOTALL)
     if not related_match:
         return False
 
