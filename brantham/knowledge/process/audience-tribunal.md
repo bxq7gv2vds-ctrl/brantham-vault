@@ -67,7 +67,7 @@ L'audience de cession est regie par les articles L642-2 a L642-5 et R642-1 a R64
 
 **Juridiquement** :
 - Mandat a un avocat specialise en procedures collectives (obligatoire pour plaider)
-- Revision de l'offre : verifier que toutes les mentions L642-2 sont completes
+- Revision de l'offre : verifier que toutes les mentions [[structuration-offres-reprise|L642-2]] sont completes
 - Preparer les reponses aux questions previsibles (financement, emploi, synergies, calendrier)
 - Connaitre les offres concurrentes si possible (en RJ, l'AJ communique un comparatif)
 - Preparer une eventuelle amelioration de derniere minute (jusqu'a J-2)
