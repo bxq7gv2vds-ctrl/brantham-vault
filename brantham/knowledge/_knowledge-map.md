@@ -130,4 +130,11 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | 2026-03-27 | creation | Structuration offres de reprise (L642-2, 9 mentions obligatoires, prix ~3% CA, criteres selection, checklist) |
 | 2026-03-27 | creation | Encheres et surencheres (regime mobilier/immobilier, surenchere 10%/10j, pas de surenchere sur plan cession, strategies) |
 | 2026-03-27 | creation | Audience tribunal (deroulement, intervenants, presentation orale, voies de recours, conseils praticiens) |
-| 2026-03-27 | sync | Knowledge map complete — 45/49 sujets couverts |
+| 2026-03-27 | creation | Post-closing et execution plan de cession (purge suretes L642-12, paiement prix, reprise salaries L1224-1, commissaire execution, inexecution L642-11, checklist J+1 a J+90) |
+| 2026-03-27 | creation | Integration post-acquisition distressed (plan 100 jours en 4 phases, stabilisation tresorerie/fournisseurs/clients, volet RH, quick wins, KPIs avec seuils alerte, cas pratiques) |
+| 2026-03-27 | creation | Banques cellules restructuring (6 banques FR detaillees, classification IFRS 9, criteres transfert DAS, Bale III/IV provisionnement, marche NPL 115-124 Mds, servicers, strategie loan-to-own) |
+| 2026-03-27 | creation | Negociation en crise (BATNA distressed, negociation AJ/MJ/creanciers/CSE, tactiques/contre-tactiques, playbook Brantham par type de deal) |
+| 2026-03-27 | creation | Communication parties prenantes (interne/clients/fournisseurs/banques/medias/institutionnel, timeline J-7 a J+90, templates) |
+| 2026-03-27 | creation | Quick scan / diagnostic flash (10 indicateurs critiques, grille scoring 1-5, decision framework go/conditional/no-go, template memo 1 page) |
+| 2026-03-27 | creation | Ethique du repreneur (pratiques condamnables, charte 10 principes, RSE distressed, jurisprudence, positionnement Brantham) |
+| 2026-03-27 | **COMPLET** | **49/49 sujets couverts — Knowledge base operationnelle** |
