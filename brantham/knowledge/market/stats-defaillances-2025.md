@@ -70,7 +70,7 @@ Le ralentissement de la progression est net : +1,7% au T4 2025 vs +10% au T4 202
 - Les **LJ directes** dominent massivement (2 defaillances sur 3). Cela signifie que la majorite des entreprises arrivent au tribunal **trop tard**, sans possibilite de redressement.
 - Les **RJ** progressent plus vite que les LJ (+8,6% vs +0,9%), signe que davantage d'entreprises tentent le redressement -- tendance positive pour le M&A distressed (cessions en RJ).
 - Les **sauvegardes** restent marginales a 2%. La procedure est sous-utilisee par les PME qui ne connaissent pas ou craignent la procedure. Enorme potentiel de conseil en amont.
-- **Conciliation** : les chiffres de conciliation ne sont pas publies (procedure confidentielle). On estime 1 500-2 000 conciliations/an (source : Conference des presidents de TC).
+- **[[mandat-ad-hoc-conciliation|Conciliation]]** : les chiffres de conciliation ne sont pas publies (procedure confidentielle). On estime 1 500-2 000 conciliations/an (source : Conference des presidents de TC).
 
 ---
 
