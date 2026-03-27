@@ -1,7 +1,7 @@
 ---
 type: cowork-prompt
 agent: buyer-hunt
-schedule: "09h00 + 14h00"
+schedule: "09h00"
 updated: 2026-03-27
 ---
 
