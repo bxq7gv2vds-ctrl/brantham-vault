@@ -216,7 +216,7 @@ L'ouverture d'une procedure collective ne suspend pas les obligations en matiere
 
 ### 4.3 Regularisation TVA en cas de cession
 
-Lors d'une cession d'entreprise (plan de cession L642-1+ ou cession de gre a gre en LJ) :
+Lors d'une cession d'entreprise ([[plans-de-cession|plan de cession]] L642-1+ ou cession de gre a gre en [[liquidation-judiciaire|LJ]]) :
 - **Biens meubles corporels** : pas de regularisation si le cessionnaire est redevable de la TVA (art. 210 Annexe II CGI). Le cessionnaire reprend les obligations de regularisation
 - **Immeubles** : transfert des regularisations au cessionnaire (art. 207 Annexe II CGI) sur la base d'un etat descriptif des biens
 - **Stock** : cede au prix convenu, TVA collectee normalement par le cedant (ou le MJ/AJ)

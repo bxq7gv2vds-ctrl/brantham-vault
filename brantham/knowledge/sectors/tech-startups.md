@@ -72,7 +72,7 @@ La PI est souvent le **principal actif** d'une startup tech en difficulte. Elle 
 
 | Type PI | Exemples | Valorisation distressed |
 |---|---|---|
-| **Brevets** | Algorithmes, procedes techniques | 10-30% de la valeur going concern. Royalties capitalisees (3-5 ans) |
+| **Brevets** | Algorithmes, procedes techniques | 10-30% de la valeur going concern. Royalties capitalisees (3-5 ans). Voir [[pi-actifs-incorporels-distressed]] |
 | **Code source** | Logiciel, plateforme SaaS | Cout de reproduction - dette technique. Si code propre : 30-50% du cout de dev |
 | **Marque** | Nom, domaine, notoriete | 0 si startup inconnue. Valeur du domaine + base users si notoriete |
 | **Donnees** | Base clients, datasets, modeles entraines | Valeur RGPD-compliant uniquement. Donnees proprietaires = actif strategique |
