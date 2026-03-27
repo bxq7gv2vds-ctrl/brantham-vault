@@ -57,6 +57,7 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 - [[brantham/knowledge/procedures/sauvegarde]] — Procedure de sauvegarde
 - [[brantham/knowledge/procedures/redressement-judiciaire]] — Redressement judiciaire
 - [[brantham/knowledge/procedures/liquidation-judiciaire]] — Liquidation judiciaire
+- [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa]] — Sauvegarde acceleree et SFA (classes de parties affectees, cram-down cross-class, reforme 2021)
 
 ## Knowledge Base — Legal
 
