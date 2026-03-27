@@ -39,11 +39,10 @@ Audit du vault le 2026-03-27 : 70% des fichiers (192/274) n'avaient aucun wikili
 - 90d: [pending] — evaluer la densite du graph Obsidian
 
 ## Related
+
 - [[_system/MOC-decisions]]
 - [[_system/MOC-master]]
 - [[_system/wikilinks-convention]]
-- [[founder/decisions/2026-03-12-unified-vault]]
-## Related
-
-- [[_system/MOC-decisions]]
+- [[founder/decisions/2026-03-12-unified-vault|Prior: Unified Vault Decision]]
 - [[brantham/_MOC]]
+- [[founder/strategy/current-strategy]]
