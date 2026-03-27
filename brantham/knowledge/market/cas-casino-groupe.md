@@ -88,7 +88,7 @@ Le service de la dette des holdings dependait exclusivement des dividendes remon
 
 **2019 : Rallye en sauvegarde**
 
-- **23 mai 2019** : Rallye, Fonciere Euris, Finatis et Euris sont placees sous **procedure de [[sauvegarde]]** par le tribunal de commerce de Paris
+- **23 mai 2019** : Rallye, Fonciere Euris, Finatis et Euris sont placees sous **procedure de [[brantham/knowledge/procedures/sauvegarde]]** par le tribunal de commerce de Paris
 - Declencheur : vendeurs a decouvert (Muddy Waters, Carson Block) attaquent le titre Casino depuis 2015, denoncant la complexite de la structure et le surendettement. Casino perd 6,4% en bourse le jour de l'annonce.
 - Rallye ne peut plus refinancer sa dette de 2,9 Mds EUR sur les marches
 - Casino annonce ne pas etre "concerne" mais le doute s'installe
@@ -133,7 +133,7 @@ Pour reduire sa dette, Casino lance un programme massif de cessions :
 
 **Octobre 2023 : Ouverture de la sauvegarde acceleree**
 
-- **25 octobre 2023** : Le tribunal de commerce de Paris ouvre des **procedures de [[sauvegarde-acceleree-sfa|sauvegarde acceleree]]** pour Casino et 6 entites filiales :
+- **25 octobre 2023** : Le tribunal de commerce de Paris ouvre des **procedures de [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa|sauvegarde acceleree]]** pour Casino et 6 entites filiales :
   - Casino, Guichard-Perrachon (societe mere)
   - Casino Finance
   - Casino Participations France
@@ -359,7 +359,7 @@ La restructuration de Casino en 2023-2024 intervient alors que les holdings Rall
 
 ### Lecons juridiques
 
-8. **La [[sauvegarde-acceleree-sfa|sauvegarde acceleree]] est adaptee aux grands groupes** : procedure rapide (quelques mois vs annees pour une sauvegarde classique), preservant l'activite operationnelle
+8. **La [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa|sauvegarde acceleree]] est adaptee aux grands groupes** : procedure rapide (quelques mois vs annees pour une sauvegarde classique), preservant l'activite operationnelle
 9. **Les classes de parties affectees permettent une negociation structuree** : chaque classe vote, permettant d'isoler les opposants
 10. **Le CSEC peut faire appel mais a peu de chances de bloquer** : le droit des procedures collectives prime sur le droit social dans ces situations
 
@@ -370,7 +370,7 @@ La restructuration de Casino en 2023-2024 intervient alors que les holdings Rall
 ### Veille et scoring
 
 - **Pattern "holding pyramidale"** : scorer automatiquement les entreprises controlees via des cascades de holdings comme a risque eleve
-- **Indicateur avance** : la decote des obligations sur le [[restructuration-dette|marche secondaire]] precede souvent de 12-18 mois la procedure formelle
+- **Indicateur avance** : la decote des obligations sur le [[brantham/knowledge/finance/restructuration-dette|marche secondaire]] precede souvent de 12-18 mois la procedure formelle
 - **Cessions en cascade** : quand un grand groupe cede des actifs pour desendetter, les filiales cedees sont des opportunites pour des repreneurs PME
 
 ### Positionnement Brantham
@@ -431,15 +431,16 @@ La reprise de Casino par Kretinsky a ete qualifiee de "victoire a la Pyrrhus" pa
 
 ## Voir aussi
 
-- [[sauvegarde-acceleree-sfa]] — Procedure de sauvegarde acceleree utilisee par Casino
-- [[cas-orpea-emeis]] — Autre mega-restructuration avec cram-down en France
-- [[retail-commerce]] — Playbook sectoriel distribution/commerce
-- [[restructuration-dette]] — Conversion dette-equity et abandon de creances
-- [[rang-des-creances]] — Hierarchie des creanciers (TSSDI, chirographaires)
-- [[concurrence-distressed]] — Controle des concentrations lors des cessions
-- [[plans-de-cession]] — Mecanisme de cession des magasins Casino
-- [[stats-defaillances-2025]] — Contexte macro des defaillances
-- [[cas-emblematiques-france]] — Autres etudes de cas de restructurations
+- [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa]] — Procedure de sauvegarde acceleree utilisee par Casino
+- [[brantham/knowledge/market/cas-orpea-emeis]] — Autre mega-restructuration avec cram-down en France
+- [[brantham/knowledge/sectors/retail-commerce]] — Playbook sectoriel distribution/commerce
+- [[brantham/knowledge/finance/restructuration-dette]] — Conversion dette-equity et abandon de creances
+- [[brantham/knowledge/legal/rang-des-creances]] — Hierarchie des creanciers (TSSDI, chirographaires)
+- [[brantham/knowledge/legal/concurrence-distressed]] — Controle des concentrations lors des cessions
+- [[brantham/knowledge/legal/plans-de-cession]] — Mecanisme de cession des magasins Casino
+- [[brantham/knowledge/market/stats-defaillances-2025]] — Contexte macro des defaillances
+- [[brantham/knowledge/market/cas-emblematiques-france]] — Autres etudes de cas de restructurations
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/legal/droit-europeen-insolvabilite]]

@@ -285,3 +285,4 @@ Pas dans 5 ans. C'est ce qu'on construit maintenant.
 
 ## Related
 - [[_system/MOC-master]]
+- [[founder/strategy/current-strategy]]

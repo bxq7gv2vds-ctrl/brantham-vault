@@ -26,3 +26,4 @@ Toujours utiliser `.length` pour verifier un tableau avant de l'utiliser comme g
 - [[website/sessions/2026-03-16-seo-audit-t01]]
 - [[brantham/bugs/2026-03-16-ollama-m5-metal-bfloat]]
 - [[brantham/sessions/2026-03-16]]
+- [[_system/wikilinks-convention]]

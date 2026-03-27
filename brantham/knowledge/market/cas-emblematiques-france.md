@@ -78,7 +78,7 @@ Camaieu etait une reference du pret-a-porter feminin accessible en France, avec 
 
 - Fermeture de plus de 800 magasins dans le monde pendant le confinement
 - Perte de **95% du CA** entre mars et avril 2020 (manque a gagner de **162 M EUR**)
-- **26 mai 2020** : Placement en **[[redressement-judiciaire|redressement judiciaire]]** par le tribunal de commerce de Lille
+- **26 mai 2020** : Placement en **[[brantham/knowledge/procedures/redressement-judiciaire|redressement judiciaire]]** par le tribunal de commerce de Lille
 - Date de cessation des paiements : mars 2020
 
 **Aout 2020 : Reprise par FIB (Financiere Immobiliere Bordelaise)**
@@ -96,12 +96,12 @@ Camaieu etait une reference du pret-a-porter feminin accessible en France, avec 
 - Modele centre-commercial en declin structurel
 - Concurrence croissante du fast-fashion (Shein, Primark) et du e-commerce
 
-**Juin 2022** : Placement sous **[[mandat-ad-hoc-conciliation|mandat ad hoc]]**
+**Juin 2022** : Placement sous **[[brantham/knowledge/procedures/mandat-ad-hoc-conciliation|mandat ad hoc]]**
 **Juillet 2022** : Conversion en **redressement judiciaire**
 - Dette accumulee : ~230 M EUR
 - Besoin de financement : ~90 M EUR pour continuer
 
-**28 septembre 2022 : [[liquidation-judiciaire|LIQUIDATION JUDICIAIRE]]**
+**28 septembre 2022 : [[brantham/knowledge/procedures/liquidation-judiciaire|LIQUIDATION JUDICIAIRE]]**
 - Le tribunal de commerce de Lille prononce la liquidation
 - **Aucun repreneur credible** ne s'est presente pour l'ensemble
 - **2 600 emplois supprimes**
@@ -276,7 +276,7 @@ La Halle etait la plus grande enseigne de mode accessible en France par le nombr
 **2 juin 2020** : Conversion en **redressement judiciaire** par le tribunal de commerce de Paris
 - Objectif : permettre la cession des actifs et activites
 
-**8 juillet 2020** : Le tribunal de commerce de Paris approuve le **[[plans-de-cession|plan de cession]]** :
+**8 juillet 2020** : Le tribunal de commerce de Paris approuve le **[[brantham/knowledge/legal/plans-de-cession|plan de cession]]** :
 
 | Repreneur | Activite | Magasins repris | Emplois repris |
 |---|---|---|---|
@@ -431,7 +431,7 @@ Orchestra-Premaman etait le leader europeen du pret-a-porter enfantin et de la p
 
 ### Procedure
 
-**24 septembre 2019** : Ouverture d'une **procedure de [[sauvegarde]]** par le tribunal de commerce de Montpellier
+**24 septembre 2019** : Ouverture d'une **procedure de [[brantham/knowledge/procedures/sauvegarde]]** par le tribunal de commerce de Montpellier
 
 **29 avril 2020** : Conversion en **redressement judiciaire**
 - Declencheur : COVID-19, fermeture des magasins
@@ -670,16 +670,17 @@ A partir des patterns identifies, voici les signaux d'alerte a integrer dans le 
 
 ## Voir aussi
 
-- [[cas-orpea-emeis]] — Cas Orpea, plus grande restructuration francaise
-- [[cas-casino-groupe]] — Cas Casino, effondrement pyramidal
-- [[stats-defaillances-2025]] — Chiffres macro des defaillances 2024-2025
-- [[retail-commerce]] — Playbook sectoriel du commerce de detail
-- [[restauration-hotellerie]] — Playbook sectoriel CHR (Courtepaille)
-- [[plans-de-cession]] — Mecanisme juridique des cessions judiciaires
-- [[liquidation-judiciaire]] — Procedure de LJ (issue majoritaire)
-- [[redressement-judiciaire]] — Procedure de RJ et cessions
-- [[quick-scan-diagnostic]] — Grille de scoring et red flags
-- [[ethique-repreneur]] — Pratiques condamnables (asset stripping)
+- [[brantham/knowledge/market/cas-orpea-emeis]] — Cas Orpea, plus grande restructuration francaise
+- [[brantham/knowledge/market/cas-casino-groupe]] — Cas Casino, effondrement pyramidal
+- [[brantham/knowledge/market/stats-defaillances-2025]] — Chiffres macro des defaillances 2024-2025
+- [[brantham/knowledge/sectors/retail-commerce]] — Playbook sectoriel du commerce de detail
+- [[brantham/knowledge/sectors/restauration-hotellerie]] — Playbook sectoriel CHR (Courtepaille)
+- [[brantham/knowledge/legal/plans-de-cession]] — Mecanisme juridique des cessions judiciaires
+- [[brantham/knowledge/procedures/liquidation-judiciaire]] — Procedure de LJ (issue majoritaire)
+- [[brantham/knowledge/procedures/redressement-judiciaire]] — Procedure de RJ et cessions
+- [[brantham/knowledge/skills/quick-scan-diagnostic]] — Grille de scoring et red flags
+- [[brantham/knowledge/skills/ethique-repreneur]] — Pratiques condamnables (asset stripping)
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/agriculture-agroalimentaire]]

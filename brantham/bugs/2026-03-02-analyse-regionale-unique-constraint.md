@@ -22,3 +22,8 @@ Changed UNIQUE constraint to (departement, region).
 - [[_system/MOC-bugs]]
 - [[brantham/_MOC]]
 - [[brantham/bugs/2026-03-02-matrice-aj-secteur-taux-cession]]
+- [[patterns/agent-orchestration]]
+- [[patterns/teaser-pptx-generation]]
+- [[brantham/patterns/agent-decision-quality]]
+- [[brantham/patterns/teaser-onepager-html-pdf]]
+- [[brantham/patterns/scoring-patterns]]

@@ -86,7 +86,7 @@ Un diagnostic flash (ou quick scan) est une analyse rapide et structuree d'une e
 ## 4. Analyse juridique express
 
 ### Procedure en cours
-- **Type** : [[sauvegarde]], [[redressement-judiciaire|RJ]], [[liquidation-judiciaire|LJ]] ? Implications tres differentes
+- **Type** : [[brantham/knowledge/procedures/sauvegarde]], [[brantham/knowledge/procedures/redressement-judiciaire|RJ]], [[brantham/knowledge/procedures/liquidation-judiciaire|LJ]] ? Implications tres differentes
 - **Date d'ouverture** : depuis combien de temps ? Fin de periode d'observation ?
 - **AJ/MJ** : qui sont-ils ? Reputation ? Approche (pro-cession ou pro-continuation) ?
 - **Juge-commissaire** : qui ? Son historique de decisions ?
@@ -165,7 +165,7 @@ Un diagnostic flash (ou quick scan) est une analyse rapide et structuree d'une e
 Ces elements declenchent un **no-go immediat** sauf circonstances exceptionnelles :
 
 ### Categorie A : elimination automatique
-1. **[[passif-environnemental|Passif environnemental]] majeur** : site pollue (ICPE classee), sol contamine, obligation de depollution (cout potentiel : centaines de milliers a millions)
+1. **[[brantham/knowledge/legal/passif-environnemental|Passif environnemental]] majeur** : site pollue (ICPE classee), sol contamine, obligation de depollution (cout potentiel : centaines de milliers a millions)
 2. **Amiante** : presence confirmee dans les batiments = obligation de desamiantage avant toute intervention
 3. **Fraude averee** : comptabilite falsifiee, abus de biens sociaux, cavalerie = impossible d'evaluer le vrai passif
 4. **Contentieux fiscal majeur** : redressement > 50% du CA = risque existentiel
@@ -311,16 +311,21 @@ Ne pas faire de quick scan et se lancer directement dans une DD complete sur un 
 
 ## Voir aussi
 
-- [[due-diligence-distressed]] — Due diligence complete apres le GO
-- [[valorisation-distressed]] — Methodes de valorisation rapide
-- [[financial-modeling-distressed]] — Modelisation financiere express
-- [[structuration-offres-reprise]] — Structurer l'offre apres validation
-- [[negociation-crise]] — Negociation avec l'AJ/MJ
-- [[passif-environnemental]] — Red flag n.1 en industrie
-- [[comptabilite-crise]] — Lecture des comptes en situation de crise
-- [[ecosysteme-restructuring]] — Identifier l'AJ et le tribunal competent
-- [[stats-defaillances-2025]] — Volume du marche adressable
-- [[glossaire-distressed]] — Definitions des termes techniques
+- [[brantham/knowledge/process/due-diligence-distressed]] — Due diligence complete apres le GO
+- [[brantham/knowledge/finance/valorisation-distressed]] — Methodes de valorisation rapide
+- [[brantham/knowledge/finance/financial-modeling-distressed]] — Modelisation financiere express
+- [[brantham/knowledge/process/structuration-offres-reprise]] — Structurer l'offre apres validation
+- [[brantham/knowledge/skills/negociation-crise]] — Negociation avec l'AJ/MJ
+- [[brantham/knowledge/legal/passif-environnemental]] — Red flag n.1 en industrie
+- [[brantham/knowledge/finance/comptabilite-crise]] — Lecture des comptes en situation de crise
+- [[brantham/knowledge/acteurs/ecosysteme-restructuring]] — Identifier l'AJ et le tribunal competent
+- [[brantham/knowledge/market/stats-defaillances-2025]] — Volume du marche adressable
+- [[brantham/knowledge/glossary/glossaire-distressed]] — Definitions des termes techniques
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/tech-startups]]
+- [[brantham/knowledge/sectors/btp-construction]]
+- [[brantham/knowledge/sectors/industrie-manufacturiere]]
+- [[brantham/knowledge/sectors/restauration-hotellerie]]
+- [[brantham/knowledge/sectors/retail-commerce]]

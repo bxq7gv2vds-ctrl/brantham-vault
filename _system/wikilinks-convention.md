@@ -117,3 +117,4 @@ Script de batch : `vault/_system/scripts/batch-wikilinks.py`
 - [[_system/MOC-master]]
 - [[brantham/_MOC]]
 - [[website/_MOC]]
+- [[founder/decisions/2026-03-27-vault-wikilinks-overhaul]]

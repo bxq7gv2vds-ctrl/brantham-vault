@@ -25,8 +25,8 @@ L'administrateur judiciaire est un professionnel liberal, officier ministeriel, 
 - Superviser la gestion courante pendant la periode d'observation
 - Servir d'intermediaire entre le tribunal, le dirigeant, les salaries et les repreneurs potentiels
 
-En procedure de [[sauvegarde]] : mission de surveillance uniquement.
-En [[redressement-judiciaire]] : mission d'assistance (co-signature) ou d'administration (direction complete).
+En procedure de [[brantham/knowledge/procedures/sauvegarde]] : mission de surveillance uniquement.
+En [[brantham/knowledge/procedures/redressement-judiciaire]] : mission d'assistance (co-signature) ou d'administration (direction complete).
 
 Il y a environ **170 administrateurs judiciaires** exercant dans **75 etudes** en France (source CNAJMJ 2024).
 
@@ -88,16 +88,16 @@ Il y a environ **170 administrateurs judiciaires** exercant dans **75 etudes** e
 
 ## Voir aussi
 
-- [[mandat-ad-hoc-conciliation]] — Procedures amiables en amont des procedures collectives
-- [[redressement-judiciaire]] — Procedure de redressement et role de l'AJ
-- [[liquidation-judiciaire]] — Procedure de liquidation et role du MJ/liquidateur
-- [[sauvegarde]] — Procedure preventive sous controle du tribunal
-- [[plans-de-cession]] — Mecanisme de cession ordonnee par le tribunal
-- [[negociation-crise]] — Techniques de negociation avec les acteurs de l'ecosysteme
-- [[banques-cellules-restructuring]] — Cellules restructuring des banques francaises
-- [[audience-tribunal]] — Deroulement de l'audience devant le tribunal
-- [[turnaround-operationnel]] — Role des managers de transition en retournement
-- [[glossaire-distressed]] — Definitions des termes techniques
+- [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation]] — Procedures amiables en amont des procedures collectives
+- [[brantham/knowledge/procedures/redressement-judiciaire]] — Procedure de redressement et role de l'AJ
+- [[brantham/knowledge/procedures/liquidation-judiciaire]] — Procedure de liquidation et role du MJ/liquidateur
+- [[brantham/knowledge/procedures/sauvegarde]] — Procedure preventive sous controle du tribunal
+- [[brantham/knowledge/legal/plans-de-cession]] — Mecanisme de cession ordonnee par le tribunal
+- [[brantham/knowledge/skills/negociation-crise]] — Techniques de negociation avec les acteurs de l'ecosysteme
+- [[brantham/knowledge/acteurs/banques-cellules-restructuring]] — Cellules restructuring des banques francaises
+- [[brantham/knowledge/process/audience-tribunal]] — Deroulement de l'audience devant le tribunal
+- [[brantham/knowledge/process/turnaround-operationnel]] — Role des managers de transition en retournement
+- [[brantham/knowledge/glossary/glossaire-distressed]] — Definitions des termes techniques
 
 ### Ce qu'un AJ cherche chez un repreneur
 
@@ -566,3 +566,8 @@ Brantham Partners se positionne comme **intermediaire specialise** entre:
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/tech-startups]]
+- [[brantham/knowledge/finance/comptabilite-crise]]
+- [[brantham/knowledge/finance/assurances-ma-distressed]]
+- [[brantham/knowledge/market/cas-orpea-emeis]]
+- [[brantham/knowledge/market/stats-defaillances-2025]]

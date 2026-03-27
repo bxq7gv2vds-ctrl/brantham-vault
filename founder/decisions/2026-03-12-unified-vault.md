@@ -42,3 +42,4 @@ Build a unified Obsidian vault at ~/vault/ with structured directories, template
 - [[brantham/patterns/acheteur-mapping]]
 - [[founder/journal/2026-03-12]]
 - [[founder/strategy/current-strategy]]
+- [[founder/decisions/2026-03-27-vault-wikilinks-overhaul]]

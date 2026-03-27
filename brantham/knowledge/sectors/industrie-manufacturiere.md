@@ -63,7 +63,7 @@ sources:
 
 ### ICPE (Installations Classees pour la Protection de l'Environnement)
 
-Les sites industriels sont souvent classes ICPE. C'est le **risque n.1** du secteur (voir [[passif-environnemental]]).
+Les sites industriels sont souvent classes ICPE. C'est le **risque n.1** du secteur (voir [[brantham/knowledge/legal/passif-environnemental]]).
 
 | Regime | Seuil | Obligation |
 |---|---|---|
@@ -98,7 +98,7 @@ Les sites industriels sont souvent classes ICPE. C'est le **risque n.1** du sect
 | Type | Regime en procedure collective |
 |---|---|
 | Machines en propriete | Actif du debiteur, cessible |
-| Machines en credit-bail | Le credit-bailleur peut revendiquer (L624-10). Le [[contrats-baux-en-procedure|bail peut etre continue ou resilie]]. |
+| Machines en credit-bail | Le credit-bailleur peut revendiquer (L624-10). Le [[brantham/knowledge/legal/contrats-baux-en-procedure|bail peut etre continue ou resilie]]. |
 | Machines en location | Le bailleur peut revendiquer. Pas de propriete pour le debiteur. |
 | Machines en reserve de propriete | Le vendeur peut revendiquer si clause valable et bien identifiable |
 
@@ -235,16 +235,17 @@ Les sites industriels sont souvent classes ICPE. C'est le **risque n.1** du sect
 
 ## Voir aussi
 
-- [[passif-environnemental]] — ICPE, pollution des sols, obligations de depollution
-- [[stats-defaillances-2025]] — Contexte macro (+75% PME-ETI industrielles)
-- [[valorisation-distressed]] — Methodes de valorisation industrielle
-- [[due-diligence-distressed]] — Checklist DD industrielle
-- [[pi-actifs-incorporels-distressed]] — Brevets et PI en distressed
-- [[contrats-baux-en-procedure]] — Credit-bail et contrats en procedure
-- [[plans-de-cession]] — Cession d'activite vs cession de site
-- [[droit-social-restructuration]] — Reprise des equipes et PSE
-- [[quick-scan-diagnostic]] — Diagnostic flash industriel
-- [[financial-modeling-distressed]] — Modelisation carnet de commandes
+- [[brantham/knowledge/legal/passif-environnemental]] — ICPE, pollution des sols, obligations de depollution
+- [[brantham/knowledge/market/stats-defaillances-2025]] — Contexte macro (+75% PME-ETI industrielles)
+- [[brantham/knowledge/finance/valorisation-distressed]] — Methodes de valorisation industrielle
+- [[brantham/knowledge/process/due-diligence-distressed]] — Checklist DD industrielle
+- [[brantham/knowledge/finance/pi-actifs-incorporels-distressed]] — Brevets et PI en distressed
+- [[brantham/knowledge/legal/contrats-baux-en-procedure]] — Credit-bail et contrats en procedure
+- [[brantham/knowledge/legal/plans-de-cession]] — Cession d'activite vs cession de site
+- [[brantham/knowledge/legal/droit-social-restructuration]] — Reprise des equipes et PSE
+- [[brantham/knowledge/skills/quick-scan-diagnostic]] — Diagnostic flash industriel
+- [[brantham/knowledge/finance/financial-modeling-distressed]] — Modelisation carnet de commandes
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/INDEX]]

@@ -59,3 +59,4 @@ Input (31 features) → Linear(64) → BatchNorm → ReLU
 - [[_system/MOC-patterns]]
 - [[brantham/_MOC]]
 - [[brantham/bugs/2026-03-06-agent-auth-401]]
+- [[brantham/sessions/2026-03-18]]

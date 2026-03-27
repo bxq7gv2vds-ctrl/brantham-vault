@@ -52,7 +52,7 @@ La continuite d'exploitation est l'un des principes fondamentaux de la comptabil
 
 **Indicateurs financiers de remise en cause** :
 - Situation nette negative ou capitaux propres < 50 % du capital social (art. L225-248 C. com. pour les SA, L223-42 pour les SARL)
-- Incapacite a rembourser les dettes a echeance (cessation des paiements, art. L631-1 C. com., voir [[redressement-judiciaire]])
+- Incapacite a rembourser les dettes a echeance (cessation des paiements, art. L631-1 C. com., voir [[brantham/knowledge/procedures/redressement-judiciaire]])
 - Tresorerie negative persistante, fonds de roulement insuffisant
 - Pertes d'exploitation recurrentes, absence de business plan credible
 - Rupture de covenants bancaires, denonciation de concours bancaires
@@ -159,7 +159,7 @@ Le CAC dispose d'un droit et d'un devoir d'alerte :
 
 ### 2.5 Articulation avec les procedures collectives
 
-- La procedure d'alerte est **incompatible** avec une procedure de [[mandat-ad-hoc-conciliation|conciliation]], [[sauvegarde]], [[redressement-judiciaire|RJ]] ou [[liquidation-judiciaire|LJ]] deja ouverte (art. L234-4 C. com.)
+- La procedure d'alerte est **incompatible** avec une procedure de [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation|conciliation]], [[brantham/knowledge/procedures/sauvegarde]], [[brantham/knowledge/procedures/redressement-judiciaire|RJ]] ou [[brantham/knowledge/procedures/liquidation-judiciaire|LJ]] deja ouverte (art. L234-4 C. com.)
 - Si une procedure est ouverte, l'alerte cesse automatiquement
 - Le CAC continue neanmoins de certifier les comptes pendant la procedure (sauf dessaisissement du dirigeant en LJ)
 - Le rapport du CAC sur les comptes de la periode d'observation est un document essentiel pour le tribunal
@@ -241,7 +241,7 @@ Le CAC dispose d'un droit et d'un devoir d'alerte :
 
 ### 3.6 Comptes de la periode suspecte
 
-La [[nullites-periode-suspecte|periode suspecte]] (art. L631-8 C. com.) est la periode entre la date de cessation des paiements et le jugement d'ouverture. Les comptes de cette periode sont scrutees par le MJ et le tribunal pour identifier :
+La [[brantham/knowledge/legal/nullites-periode-suspecte|periode suspecte]] (art. L631-8 C. com.) est la periode entre la date de cessation des paiements et le jugement d'ouverture. Les comptes de cette periode sont scrutees par le MJ et le tribunal pour identifier :
 - Les paiements de dettes non echues
 - Les constitutions de suretes pour dettes anterieures
 - Les actes a titre gratuit
@@ -702,15 +702,16 @@ Lors de l'analyse des comptes pour valoriser une cible en difficulte, les ajuste
 
 ## Voir aussi
 
-- [[valorisation-distressed]] — Valeur liquidative vs going concern dans la valorisation
-- [[due-diligence-distressed]] — Fiabilite des comptes et DD financiere
-- [[fiscalite-restructuration]] — Traitement fiscal des provisions et depreciations
-- [[liquidation-judiciaire]] — Comptes de liquidation et cloture
-- [[redressement-judiciaire]] — Comptes en periode d'observation
-- [[nullites-periode-suspecte]] — Ecritures comptables de la periode suspecte
-- [[ecosysteme-restructuring]] — Role de l'expert-comptable et du CAC
-- [[financial-modeling-distressed]] — Modelisation et projections en distressed
-- [[glossaire-distressed]] — Terminologie M&A distressed
+- [[brantham/knowledge/finance/valorisation-distressed]] — Valeur liquidative vs going concern dans la valorisation
+- [[brantham/knowledge/process/due-diligence-distressed]] — Fiabilite des comptes et DD financiere
+- [[brantham/knowledge/finance/fiscalite-restructuration]] — Traitement fiscal des provisions et depreciations
+- [[brantham/knowledge/procedures/liquidation-judiciaire]] — Comptes de liquidation et cloture
+- [[brantham/knowledge/procedures/redressement-judiciaire]] — Comptes en periode d'observation
+- [[brantham/knowledge/legal/nullites-periode-suspecte]] — Ecritures comptables de la periode suspecte
+- [[brantham/knowledge/acteurs/ecosysteme-restructuring]] — Role de l'expert-comptable et du CAC
+- [[brantham/knowledge/finance/financial-modeling-distressed]] — Modelisation et projections en distressed
+- [[brantham/knowledge/glossary/glossaire-distressed]] — Terminologie M&A distressed
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/skills/quick-scan-diagnostic]]

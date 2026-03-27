@@ -67,7 +67,7 @@ Le repreneur detient un pouvoir considerable : il decide qui garde son emploi, q
 
 ## 3. Obligations legales du repreneur (L642-2 et suivants)
 
-### Contenu obligatoire de l'offre ([[plans-de-cession|L642-2]])
+### Contenu obligatoire de l'offre ([[brantham/knowledge/legal/plans-de-cession|L642-2]])
 L'offre de reprise doit contenir :
 1. Designation precise des biens, droits et contrats repris
 2. Previsions d'activite et de financement
@@ -86,7 +86,7 @@ Le repreneur s'engage sur trois dimensions indissociables :
 
 ### Force contraignante
 - Une fois le plan de cession arrete par le tribunal, les engagements ont force de loi
-- Le non-respect peut entrainer la resolution du [[plans-de-cession|plan de cession]] (L642-11)
+- Le non-respect peut entrainer la resolution du [[brantham/knowledge/legal/plans-de-cession|plan de cession]] (L642-11)
 - Le ministere public peut demander la resolution
 - Le MJ, le CSE, ou tout interesse peut saisir le tribunal
 
@@ -130,7 +130,7 @@ Le repreneur s'engage sur trois dimensions indissociables :
 - Dommages et interets au profit des creanciers et des salaries
 - Possible extension du passif si le repreneur a aggrave la situation
 
-### [[sanctions-dirigeants|Sanctions penales]]
+### [[brantham/knowledge/legal/sanctions-dirigeants|Sanctions penales]]
 - Banqueroute si gestion frauduleuse
 - Abus de biens sociaux si detournement d'actifs
 - Escroquerie si informations mensongeres dans l'offre
@@ -262,14 +262,14 @@ Avant de deposer une offre, se poser une question simple : "Si cette reprise eta
 
 ## Voir aussi
 
-- [[negociation-crise]] — Techniques de negociation ethique
-- [[plans-de-cession]] — Obligations legales du repreneur (L642-2)
-- [[sanctions-dirigeants]] — Sanctions en cas de non-respect des engagements
-- [[communication-parties-prenantes]] — Communication transparente en crise
-- [[audience-tribunal]] — Presentation de l'offre devant le tribunal
-- [[post-closing-execution]] — Execution des engagements post-reprise
-- [[ecosysteme-restructuring]] — Reputation dans l'ecosysteme
-- [[cas-emblematiques-france]] — Exemples de reprises reussies et echouees
+- [[brantham/knowledge/skills/negociation-crise]] — Techniques de negociation ethique
+- [[brantham/knowledge/legal/plans-de-cession]] — Obligations legales du repreneur (L642-2)
+- [[brantham/knowledge/legal/sanctions-dirigeants]] — Sanctions en cas de non-respect des engagements
+- [[brantham/knowledge/skills/communication-parties-prenantes]] — Communication transparente en crise
+- [[brantham/knowledge/process/audience-tribunal]] — Presentation de l'offre devant le tribunal
+- [[brantham/knowledge/process/post-closing-execution]] — Execution des engagements post-reprise
+- [[brantham/knowledge/acteurs/ecosysteme-restructuring]] — Reputation dans l'ecosysteme
+- [[brantham/knowledge/market/cas-emblematiques-france]] — Exemples de reprises reussies et echouees
 
 ## Related
 - [[brantham/_MOC]]

@@ -77,10 +77,10 @@ Le debiteur doit deposer (art. R621-1) :
 - Compte de resultat previsionnel
 - Nombre de salaries et CA du dernier exercice
 - Etat chiffre des creances et des dettes avec identification des creanciers
-- Etat actif et passif des [[suretes-en-procedure-collective|suretes]] et engagements hors bilan
+- Etat actif et passif des [[brantham/knowledge/legal/suretes-en-procedure-collective|suretes]] et engagements hors bilan
 - Inventaire sommaire des biens
 - Noms des representants du CSE
-- Attestation sur l'honneur d'absence de mandat ad hoc ou [[mandat-ad-hoc-conciliation|conciliation]] dans les 18 mois precedents
+- Attestation sur l'honneur d'absence de mandat ad hoc ou [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation|conciliation]] dans les 18 mois precedents
 
 ### 2.5 Jugement d'ouverture
 
@@ -203,12 +203,12 @@ Les paiements effectues en violation sont nuls. Le dirigeant qui paie une creanc
 
 ### 6.1 Principe de continuation des contrats
 
-**Article L622-13 I** : les [[contrats-baux-en-procedure|contrats en cours]] au jour du jugement d'ouverture se poursuivent. Le cocontractant ne peut pas refuser d'executer ses obligations au motif de l'ouverture de la procedure ou du defaut de paiement des creances anterieures.
+**Article L622-13 I** : les [[brantham/knowledge/legal/contrats-baux-en-procedure|contrats en cours]] au jour du jugement d'ouverture se poursuivent. Le cocontractant ne peut pas refuser d'executer ses obligations au motif de l'ouverture de la procedure ou du defaut de paiement des creances anterieures.
 
 ### 6.2 Option de l'administrateur (ou du dirigeant)
 
 **Article L622-13 II** : l'administrateur judiciaire (ou le dirigeant si pas d'administrateur) dispose d'une option :
-- **Continuer le contrat** : le cocontractant est tenu d'executer. Les creances nees de cette continuation sont des [[rang-des-creances|creances privilegiees]] (art. L622-17).
+- **Continuer le contrat** : le cocontractant est tenu d'executer. Les creances nees de cette continuation sont des [[brantham/knowledge/legal/rang-des-creances|creances privilegiees]] (art. L622-17).
 - **Ne pas continuer** : apres mise en demeure restee sans reponse pendant **1 mois**, le contrat est resilie de plein droit.
 
 Le cocontractant peut mettre en demeure l'administrateur de se prononcer. Le silence pendant 1 mois vaut renonciation a la poursuite.
@@ -226,7 +226,7 @@ Le cocontractant peut mettre en demeure l'administrateur de se prononcer. Le sil
 ### 6.4 Contrats de travail
 
 Les contrats de travail se poursuivent integralement. En sauvegarde :
-- Les [[droit-social-restructuration|licenciements economiques]] sont possibles mais strictement encadres (art. L631-17 par renvoi) : doivent etre **urgents, inevitables et indispensables**
+- Les [[brantham/knowledge/legal/droit-social-restructuration|licenciements economiques]] sont possibles mais strictement encadres (art. L631-17 par renvoi) : doivent etre **urgents, inevitables et indispensables**
 - Le dirigeant conserve le pouvoir de licencier (avec autorisation du juge-commissaire)
 - L'AGS **n'intervient pas** en sauvegarde (sauf si conversion en RJ/LJ) -- c'est une difference majeure avec le RJ
 
@@ -263,7 +263,7 @@ Le plan de sauvegarde comprend :
 5. **Mesures sociales** : licenciements economiques si necessaire, plan de sauvegarde de l'emploi (PSE) si applicable
 6. **Engagements financiers** : apport de fonds propres, nouveaux financements
 7. **Maintien ou arret d'activites** : le plan peut prevoir l'arret de certaines activites non rentables
-8. **Cession partielle** : le plan peut inclure la cession d'une ou plusieurs branches d'activite (cession partielle integree au plan, pas un [[plans-de-cession|plan de cession]] autonome)
+8. **Cession partielle** : le plan peut inclure la cession d'une ou plusieurs branches d'activite (cession partielle integree au plan, pas un [[brantham/knowledge/legal/plans-de-cession|plan de cession]] autonome)
 
 ### 7.3 Classes de parties affectees (reforme 2021)
 
@@ -295,7 +295,7 @@ Les creances publiques (Tresor, URSSAF) sont reparties dans les classes selon le
 
 **Article L626-32** : si toutes les classes ne votent pas favorablement, le tribunal peut neanmoins arreter le plan si :
 1. Le plan a ete approuve par la **majorite des classes**, dont au moins une classe de creanciers garantis ou privilegies (ou, a defaut, au moins une classe autre que la classe des detenteurs de capital)
-2. Le plan respecte le **best interest test** : aucun creancier ne recoit moins que ce qu'il aurait recu en [[liquidation-judiciaire|liquidation judiciaire]]
+2. Le plan respecte le **best interest test** : aucun creancier ne recoit moins que ce qu'il aurait recu en [[brantham/knowledge/procedures/liquidation-judiciaire|liquidation judiciaire]]
 3. Le plan respecte la **regle de priorite absolue** : les classes dissidentes sont integralement desinteressees avant les classes de rang inferieur (sauf derogation raisonnable necessaire pour atteindre les objectifs du plan)
 4. Les nouvelles aides financieres ne portent pas atteinte de maniere inequitable aux interets des parties affectees
 
@@ -416,13 +416,13 @@ Les plans de sauvegarde des differentes entites du groupe peuvent etre coordonne
 
 ### 11.2 Ancienne sauvegarde financiere acceleree (SFA)
 
-Procedure qui existait entre 2010 et 2021, reservee aux restructurations de dette financiere. Remplacee par la [[sauvegarde-acceleree-sfa|sauvegarde acceleree]] depuis l'ordonnance du 15 septembre 2021.
+Procedure qui existait entre 2010 et 2021, reservee aux restructurations de dette financiere. Remplacee par la [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa|sauvegarde acceleree]] depuis l'ordonnance du 15 septembre 2021.
 
 ---
 
 ## 12. Differences avec le RJ (tableau comparatif)
 
-| Critere | Sauvegarde | [[redressement-judiciaire|Redressement Judiciaire]] |
+| Critere | Sauvegarde | [[brantham/knowledge/procedures/redressement-judiciaire|Redressement Judiciaire]] |
 |---------|-----------|------------------------|
 | **Cessation des paiements** | Non (condition negative) | Oui (condition positive) |
 | **Initiative** | Dirigeant exclusivement | Dirigeant, creanciers, ministere public, tribunal d'office |
@@ -464,7 +464,7 @@ La sauvegarde affiche les **meilleurs taux de succes** de toutes les procedures 
 - **Taux de resolution du plan** : ~30-40% (echec dans les 5 premieres annees en general)
 
 A comparer avec le RJ :
-- Taux d'adoption du [[plans-de-continuation|plan de continuation]] en RJ : ~25-30%
+- Taux d'adoption du [[brantham/knowledge/legal/plans-de-continuation|plan de continuation]] en RJ : ~25-30%
 - Taux de succes des plans de continuation en RJ : ~50-60%
 
 ### Profil type des entreprises en sauvegarde
@@ -575,15 +575,20 @@ Malgre ces limites, la sauvegarde merite une **veille strategique** dans certain
 
 ## Voir aussi
 
-- [[redressement-judiciaire]] -- Redressement judiciaire
-- [[liquidation-judiciaire]] -- Liquidation judiciaire
-- [[sauvegarde-acceleree-sfa]] -- Sauvegarde acceleree et SFA
-- [[mandat-ad-hoc-conciliation]] -- Mandat ad hoc et conciliation
-- [[plans-de-cession]] -- Plans de cession judiciaire
-- [[plans-de-continuation]] -- Plans de continuation
-- [[contrats-baux-en-procedure]] -- Sort des contrats et baux
-- [[rang-des-creances]] -- Rang des creances
-- [[droit-social-restructuration]] -- Droit social en restructuration
+- [[brantham/knowledge/procedures/redressement-judiciaire]] -- Redressement judiciaire
+- [[brantham/knowledge/procedures/liquidation-judiciaire]] -- Liquidation judiciaire
+- [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa]] -- Sauvegarde acceleree et SFA
+- [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation]] -- Mandat ad hoc et conciliation
+- [[brantham/knowledge/legal/plans-de-cession]] -- Plans de cession judiciaire
+- [[brantham/knowledge/legal/plans-de-continuation]] -- Plans de continuation
+- [[brantham/knowledge/legal/contrats-baux-en-procedure]] -- Sort des contrats et baux
+- [[brantham/knowledge/legal/rang-des-creances]] -- Rang des creances
+- [[brantham/knowledge/legal/droit-social-restructuration]] -- Droit social en restructuration
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/retail-commerce]]
+- [[brantham/knowledge/sectors/agriculture-agroalimentaire]]
+- [[brantham/knowledge/glossary/glossaire-distressed]]
+- [[brantham/knowledge/finance/fiscalite-restructuration]]
+- [[brantham/knowledge/finance/comptabilite-crise]]

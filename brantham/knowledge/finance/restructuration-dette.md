@@ -50,7 +50,7 @@ Ce document couvre l'ensemble des techniques de restructuration financiere utili
 **Definition** : Accord temporaire par lequel les creanciers suspendent l'exercice de leurs droits (exigibilite, poursuites, acceleration) pour donner au debiteur un delai de respiration ("breathing space").
 
 **Cadre juridique francais** :
-- En **[[mandat-ad-hoc-conciliation|mandat ad hoc]]** (L611-3) et **[[mandat-ad-hoc-conciliation|conciliation]]** (L611-4+) : le standstill est demande systematiquement par le mandataire/conciliateur des l'ouverture. C'est une pratique de marche, pas une obligation legale.
+- En **[[brantham/knowledge/procedures/mandat-ad-hoc-conciliation|mandat ad hoc]]** (L611-3) et **[[brantham/knowledge/procedures/mandat-ad-hoc-conciliation|conciliation]]** (L611-4+) : le standstill est demande systematiquement par le mandataire/conciliateur des l'ouverture. C'est une pratique de marche, pas une obligation legale.
 - Depuis l'ordonnance du 15 septembre 2021 (transposition Directive UE 2019/1023), le tribunal peut imposer un **moratoire force** aux creanciers qui refusent le standstill, y compris sur des creances non encore echues, pour la duree de la conciliation (max 5 mois).
 - En procedure collective, l'**arret des poursuites individuelles** (L622-21) produit un effet standstill automatique et generalise.
 
@@ -102,13 +102,13 @@ Ce document couvre l'ensemble des techniques de restructuration financiere utili
 - **Profil d'amortissement** : passage de lineaire a bullet, ou report des echeances
 - **Covenants financiers** : reset des ratios (leverage, DSCR, interest cover) avec trajectoire descendante
 - **Marge** : augmentation de +50bps a +300bps pour compenser le risque accru
-- **Garanties** : ajout de [[suretes-en-procedure-collective|suretes]] supplementaires (nantissement titres, hypotheque, gage stocks)
+- **Garanties** : ajout de [[brantham/knowledge/legal/suretes-en-procedure-collective|suretes]] supplementaires (nantissement titres, hypotheque, gage stocks)
 - **Cash sweep** : mecanisme de remboursement anticipe si le cash flow depasse un certain seuil
 
 **Processus en France** :
 1. Diagnostic financier independant (IBR - Independent Business Review) commande par les banques
 2. Business plan a 5 ans avec scenarios base/downside
-3. [[financial-modeling-distressed|13-week cash flow]] pour valider la liquidite court terme
+3. [[brantham/knowledge/finance/financial-modeling-distressed|13-week cash flow]] pour valider la liquidite court terme
 4. Negociation du term sheet amende
 5. Redaction des documents definitifs par les conseils juridiques
 6. Signature et mise en oeuvre
@@ -131,7 +131,7 @@ Ce document couvre l'ensemble des techniques de restructuration financiere utili
 
 **Parite de conversion** :
 - En general, la conversion se fait avec une **decote significative** (30% a 70%) par rapport au nominal de la creance
-- Exemple [[cas-orpea-emeis|Orpea]] (2023) : 3.8 milliards EUR de dette convertis en capital, reduisant la dette nette de 60%. Les creanciers ont recu des actions valorisees bien en dessous du nominal des creances.
+- Exemple [[brantham/knowledge/market/cas-orpea-emeis|Orpea]] (2023) : 3.8 milliards EUR de dette convertis en capital, reduisant la dette nette de 60%. Les creanciers ont recu des actions valorisees bien en dessous du nominal des creances.
 - Pour une PME en RJ : la decote peut atteindre 50-80% car la valeur de l'equity est souvent proche de zero
 
 **Avantages** :
@@ -158,7 +158,7 @@ Ce document couvre l'ensemble des techniques de restructuration financiere utili
 
 **Cadre juridique** :
 - En amiable (mandat ad hoc, conciliation) : l'abandon de creance est **purement consensuel** et s'inscrit dans l'accord negocie
-- En procedure collective : l'abandon peut etre impose dans le cadre d'un plan de [[sauvegarde]]/[[redressement-judiciaire|redressement]] vote par les classes de parties affectees, y compris par cram-down
+- En procedure collective : l'abandon peut etre impose dans le cadre d'un plan de [[brantham/knowledge/procedures/sauvegarde]]/[[brantham/knowledge/procedures/redressement-judiciaire|redressement]] vote par les classes de parties affectees, y compris par cram-down
 - Art. L626-30-2 al. 5 : le tribunal peut imposer le plan a une classe dissidente si les conditions du "best interest test" et du "relative priority test" sont remplies
 
 **Ampleur typique** :
@@ -435,7 +435,7 @@ c) **Debt-to-equity swap partiel** : une partie de la dette mezzanine est conver
 d) **Cram-down / wipe-out** : les creanciers seniors prennent le controle de l'equity. Le sponsor et les mezzaneurs sont essuyes.
    - Typique si leverage >8-10x, l'entreprise ne vaut pas plus que la dette senior
 
-e) **Cession a un tiers** : l'entreprise est vendue (souvent en pre-pack via L611-7 ou en [[plans-de-cession|plan de cession]] L642-1+) a un repreneur industriel ou un autre sponsor.
+e) **Cession a un tiers** : l'entreprise est vendue (souvent en pre-pack via L611-7 ou en [[brantham/knowledge/legal/plans-de-cession|plan de cession]] L642-1+) a un repreneur industriel ou un autre sponsor.
    - Dernier recours si aucun accord n'est possible entre sponsor et creanciers
 
 ---
@@ -1094,16 +1094,20 @@ Un reporting hebdomadaire de 2 pages max est envoye au comite de pilotage :
 
 ## Voir aussi
 
-- [[valorisation-distressed]] — Methodes de valorisation et decotes par procedure
-- [[mandat-ad-hoc-conciliation]] — Procedures amiables et privilege new money
-- [[rang-des-creances]] — Ordre de priorite et suretes en procedure
-- [[financial-modeling-distressed]] — Waterfall analysis et recovery rates
-- [[plans-de-cession]] — Cadre legal de la cession d'entreprise
-- [[fiscalite-restructuration]] — Traitement fiscal des abandons de creances et conversions
-- [[suretes-en-procedure-collective]] — Nantissements, hypotheques et gages
-- [[banques-cellules-restructuring]] — Acteurs bancaires du restructuring
-- [[turnaround-operationnel]] — Plan de retournement et cash management
-- [[glossaire-distressed]] — Terminologie M&A distressed
+- [[brantham/knowledge/finance/valorisation-distressed]] — Methodes de valorisation et decotes par procedure
+- [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation]] — Procedures amiables et privilege new money
+- [[brantham/knowledge/legal/rang-des-creances]] — Ordre de priorite et suretes en procedure
+- [[brantham/knowledge/finance/financial-modeling-distressed]] — Waterfall analysis et recovery rates
+- [[brantham/knowledge/legal/plans-de-cession]] — Cadre legal de la cession d'entreprise
+- [[brantham/knowledge/finance/fiscalite-restructuration]] — Traitement fiscal des abandons de creances et conversions
+- [[brantham/knowledge/legal/suretes-en-procedure-collective]] — Nantissements, hypotheques et gages
+- [[brantham/knowledge/acteurs/banques-cellules-restructuring]] — Acteurs bancaires du restructuring
+- [[brantham/knowledge/process/turnaround-operationnel]] — Plan de retournement et cash management
+- [[brantham/knowledge/glossary/glossaire-distressed]] — Terminologie M&A distressed
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa]]
+- [[brantham/knowledge/finance/assurance-credit]]
+- [[brantham/knowledge/market/cas-casino-groupe]]
+- [[brantham/knowledge/process/integration-post-acquisition]]

@@ -41,9 +41,9 @@ Ce regime etait juge trop severe pour les banques, qui hesitaient a accorder des
 
 ### 1.2 Regime post-2005 : quasi-immunite (art. L650-1)
 
-**Article L650-1 C. com.** (cree par la loi n° 2005-845 du 26 juillet 2005 de [[sauvegarde|sauvegarde]] des entreprises) :
+**Article L650-1 C. com.** (cree par la loi n° 2005-845 du 26 juillet 2005 de [[brantham/knowledge/procedures/sauvegarde|sauvegarde]] des entreprises) :
 
-*"Lorsqu'une procedure de sauvegarde, de [[redressement-judiciaire|redressement judiciaire]] ou de [[liquidation-judiciaire|liquidation judiciaire]] est ouverte, les creanciers ne peuvent etre tenus pour responsables des prejudices subis du fait des concours consentis, sauf les cas de fraude, d'immixtion caracterisee dans la gestion du debiteur ou si les garanties prises en contrepartie de ces concours sont disproportionnees a ceux-ci."*
+*"Lorsqu'une procedure de sauvegarde, de [[brantham/knowledge/procedures/redressement-judiciaire|redressement judiciaire]] ou de [[brantham/knowledge/procedures/liquidation-judiciaire|liquidation judiciaire]] est ouverte, les creanciers ne peuvent etre tenus pour responsables des prejudices subis du fait des concours consentis, sauf les cas de fraude, d'immixtion caracterisee dans la gestion du debiteur ou si les garanties prises en contrepartie de ces concours sont disproportionnees a ceux-ci."*
 
 **Trois elements cles** :
 
@@ -269,7 +269,7 @@ L'AJ assiste ou represente le debiteur pendant la periode d'observation. Fautes 
 | Non-respect des obligations sociales | Defaut de paiement des salaires, non-respect des procedures de licenciement | Cass. soc., 4 mai 2011 |
 | Poursuite d'exploitation deficitaire | Continuation de l'activite alors que la situation est irremediablement compromise | Cass. com., 15 decembre 2009 |
 | Defaut de surveillance | Non-controle des actes de gestion du debiteur (en mission d'assistance) | Cass. 3e civ., 22 octobre 2014 |
-| Non-exercice d'actions utiles | Non-engagement d'actions en nullite de la [[nullites-periode-suspecte|periode suspecte]] alors que les conditions etaient reunies | Cass. com., 3 juin 2014 |
+| Non-exercice d'actions utiles | Non-engagement d'actions en nullite de la [[brantham/knowledge/legal/nullites-periode-suspecte|periode suspecte]] alors que les conditions etaient reunies | Cass. com., 3 juin 2014 |
 | Mauvaise gestion de la tresorerie | Reglements inopportuns pendant la periode d'observation | Cass. com., 26 janvier 2016 |
 | Cession defavorable | Acceptation d'une offre de reprise manifestement insuffisante sans recherche suffisante | Rare mais possible |
 
@@ -283,7 +283,7 @@ Le MJ represente l'interet collectif des creanciers. Le liquidateur gere la real
 | Retard dans la liquidation | Inertie dans la realisation de l'actif, augmentation des frais |
 | Vente a vil prix | Cession d'actifs a un prix manifestement inferieur a leur valeur |
 | Defaut de recouvrement | Non-poursuite des debiteurs du debiteur en LJ |
-| Non-engagement d'actions en responsabilite | Non-exercice de l'action en [[sanctions-dirigeants|insuffisance d'actif]] (L651-2) contre les dirigeants alors que les conditions etaient reunies |
+| Non-engagement d'actions en responsabilite | Non-exercice de l'action en [[brantham/knowledge/legal/sanctions-dirigeants|insuffisance d'actif]] (L651-2) contre les dirigeants alors que les conditions etaient reunies |
 | Repartition erronee | Distribution des fonds sans respecter l'ordre des privileges |
 | Conflit d'interets | Cumul de mandats incompatibles, liens avec les parties |
 
@@ -362,7 +362,7 @@ Identifier un dirigeant de fait permet au repreneur (via le liquidateur) de :
 
 ### 7.1 Principe : actions transmises vs actions personnelles
 
-Le [[plans-de-cession|plan de cession]] transfere les actifs de l'entreprise au cessionnaire. La question est : les actions en responsabilite contre les tiers sont-elles transmises ?
+Le [[brantham/knowledge/legal/plans-de-cession|plan de cession]] transfere les actifs de l'entreprise au cessionnaire. La question est : les actions en responsabilite contre les tiers sont-elles transmises ?
 
 **Actions qui restent dans la procedure (exercees par le liquidateur)** :
 - Action en insuffisance d'actif (L651-2) : action attiree du liquidateur
@@ -422,7 +422,7 @@ Dans le cadre d'une cession d'entreprise, les actions en justice peuvent avoir u
 
 ### 8.1 Identifier les actions possibles
 
-Lors de la [[due-diligence-distressed|due diligence]] d'un deal, systematiquement :
+Lors de la [[brantham/knowledge/process/due-diligence-distressed|due diligence]] d'un deal, systematiquement :
 
 **Checklist actions contre tiers** :
 
@@ -480,14 +480,15 @@ Pour le scoring Brantham, integrer un "bonus" d'actif potentiel :
 
 ## Voir aussi
 
-- [[liquidation-judiciaire]] -- Liquidation judiciaire
-- [[redressement-judiciaire]] -- Redressement judiciaire
-- [[sanctions-dirigeants]] -- Sanctions et responsabilite des dirigeants
-- [[nullites-periode-suspecte]] -- Nullites de la periode suspecte
-- [[plans-de-cession]] -- Plans de cession judiciaire
-- [[mandat-ad-hoc-conciliation]] -- Mandat ad hoc et conciliation
-- [[due-diligence-distressed]] -- Due diligence distressed
-- [[rang-des-creances]] -- Rang des creances
+- [[brantham/knowledge/procedures/liquidation-judiciaire]] -- Liquidation judiciaire
+- [[brantham/knowledge/procedures/redressement-judiciaire]] -- Redressement judiciaire
+- [[brantham/knowledge/legal/sanctions-dirigeants]] -- Sanctions et responsabilite des dirigeants
+- [[brantham/knowledge/legal/nullites-periode-suspecte]] -- Nullites de la periode suspecte
+- [[brantham/knowledge/legal/plans-de-cession]] -- Plans de cession judiciaire
+- [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation]] -- Mandat ad hoc et conciliation
+- [[brantham/knowledge/process/due-diligence-distressed]] -- Due diligence distressed
+- [[brantham/knowledge/legal/rang-des-creances]] -- Rang des creances
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/legal/passif-environnemental]]

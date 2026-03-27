@@ -27,3 +27,5 @@ Always validate scraped content against expected format before ingesting.
 - [[brantham/bugs/2026-02-19-scraper-abitbol-mailto]]
 - [[brantham/bugs/2026-02-19-pipeline-cron-delivery]]
 - [[brantham/bugs/2026-02-19-llm-glm47-content-null]]
+- [[patterns/gemweb-rss-parsing]]
+- [[patterns/scraping-robust]]

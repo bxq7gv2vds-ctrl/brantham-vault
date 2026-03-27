@@ -90,3 +90,4 @@ Ne jamais presenter la procedure comme un echec. Reformuler positivement:
 - [[brantham/bugs/2026-03-02-analyse-regionale-unique-constraint]]
 - [[brantham/bugs/2026-02-19-llm-glm47-content-null]]
 - [[brantham/bugs/2026-03-06-agent-auth-401]]
+- [[_system/wikilinks-convention]]

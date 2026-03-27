@@ -57,3 +57,4 @@ Si N > 10K: ne jamais creer N objets Python. Agreger en numpy, materialiser seul
 - [[brantham/_MOC]]
 - [[brantham/bugs/2026-03-02-analyse-regionale-unique-constraint]]
 - [[brantham/bugs/2026-03-06-agent-auth-401]]
+- [[brantham/sessions/2026-03-18]]

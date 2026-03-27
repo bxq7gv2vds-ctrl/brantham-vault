@@ -67,7 +67,7 @@ L'audience de cession est regie par les articles L642-2 a L642-5 et R642-1 a R64
 
 **Juridiquement** :
 - Mandat a un avocat specialise en procedures collectives (obligatoire pour plaider)
-- Revision de l'offre : verifier que toutes les mentions [[structuration-offres-reprise|L642-2]] sont completes
+- Revision de l'offre : verifier que toutes les mentions [[brantham/knowledge/process/structuration-offres-reprise|L642-2]] sont completes
 - Preparer les reponses aux questions previsibles (financement, emploi, synergies, calendrier)
 - Connaitre les offres concurrentes si possible (en RJ, l'AJ communique un comparatif)
 - Preparer une eventuelle amelioration de derniere minute (jusqu'a J-2)
@@ -262,7 +262,7 @@ Ouvert dans les conditions de droit commun, apres appel. Delai : 2 mois.
 
 **Fonctions repressives** (post-LJ) :
 - Defaut de cooperation du dirigeant pendant la procedure
-- Absence de comptabilite : [[sanctions-dirigeants|faillite personnelle]], interdiction de gerer (7 ans en moyenne)
+- Absence de comptabilite : [[brantham/knowledge/legal/sanctions-dirigeants|faillite personnelle]], interdiction de gerer (7 ans en moyenne)
 - Detournement d'actifs : poursuites penales (tribunal correctionnel)
 
 ### 6.2. L'administrateur judiciaire (en RJ)
@@ -386,7 +386,7 @@ Ce calendrier est indicatif. Les grandes procedures peuvent s'etaler sur plusieu
 
 ### 9.2. Transfert des salaries
 
-- Les contrats de travail des salaries designes dans le jugement sont **transferes de plein droit** (article L1224-1 du Code du travail, voir [[droit-social-restructuration]])
+- Les contrats de travail des salaries designes dans le jugement sont **transferes de plein droit** (article L1224-1 du Code du travail, voir [[brantham/knowledge/legal/droit-social-restructuration]])
 - Le cessionnaire reprend l'anciennete et les conditions salariales
 - Les salaries non repris sont licencies par l'AJ/MJ dans le cadre de la procedure
 
@@ -410,16 +410,21 @@ Ce calendrier est indicatif. Les grandes procedures peuvent s'etaler sur plusieu
 
 ## Voir aussi
 
-- [[structuration-offres-reprise]] — Redaction et contenu obligatoire de l'offre
-- [[encheres-surencheres]] — Regime des encheres et surencheres
-- [[due-diligence-distressed]] — DD prealable a l'audience
-- [[plans-de-cession]] — Cadre legal L642-1 et criteres de selection
-- [[post-closing-execution]] — Execution du plan apres le jugement
-- [[negociation-crise]] — Strategies de communication a l'audience
-- [[ecosysteme-restructuring]] — Roles des organes de la procedure
-- [[sanctions-dirigeants]] — Responsabilite des dirigeants et interdictions
-- [[droit-social-restructuration]] — Volet social et consultation du CSE
-- [[glossaire-distressed]] — Terminologie M&A distressed
+- [[brantham/knowledge/process/structuration-offres-reprise]] — Redaction et contenu obligatoire de l'offre
+- [[brantham/knowledge/process/encheres-surencheres]] — Regime des encheres et surencheres
+- [[brantham/knowledge/process/due-diligence-distressed]] — DD prealable a l'audience
+- [[brantham/knowledge/legal/plans-de-cession]] — Cadre legal L642-1 et criteres de selection
+- [[brantham/knowledge/process/post-closing-execution]] — Execution du plan apres le jugement
+- [[brantham/knowledge/skills/negociation-crise]] — Strategies de communication a l'audience
+- [[brantham/knowledge/acteurs/ecosysteme-restructuring]] — Roles des organes de la procedure
+- [[brantham/knowledge/legal/sanctions-dirigeants]] — Responsabilite des dirigeants et interdictions
+- [[brantham/knowledge/legal/droit-social-restructuration]] — Volet social et consultation du CSE
+- [[brantham/knowledge/glossary/glossaire-distressed]] — Terminologie M&A distressed
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/context/process-end-to-end]]
+- [[brantham/knowledge/finance/valorisation-distressed]]
+- [[brantham/knowledge/skills/communication-parties-prenantes]]
+- [[brantham/knowledge/skills/ethique-repreneur]]
+- [[brantham/knowledge/legal/concurrence-distressed]]

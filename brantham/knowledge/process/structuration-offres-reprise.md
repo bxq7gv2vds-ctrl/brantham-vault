@@ -117,7 +117,7 @@ L'annonce est anonymisee (pas de nom du debiteur dans les grandes procedures) et
 3. Analyser : baux, contrats clients, effectifs, derniers chiffres, liste des actifs, contentieux en cours, situation environnementale
 4. Visiter les locaux, rencontrer les equipes cles si possible
 5. Evaluer le besoin en fonds de roulement post-reprise
-6. **Constituer l'equipe** : avocat specialise [[ecosysteme-restructuring|procedures collectives]] + expert-comptable
+6. **Constituer l'equipe** : avocat specialise [[brantham/knowledge/acteurs/ecosysteme-restructuring|procedures collectives]] + expert-comptable
 
 ### 3.2. Structure optimale de l'offre
 
@@ -203,7 +203,7 @@ Les elements suivants reduisent le prix exige tout en valorisant l'offre :
 
 ### 4.3. En pratique
 
-Le prix de cession en procedure collective represente en moyenne **3% du chiffre d'affaires** de l'entreprise cedee (voir [[valorisation-distressed]] pour les methodes de calcul). C'est une reference de marche, pas une regle de droit.
+Le prix de cession en procedure collective represente en moyenne **3% du chiffre d'affaires** de l'entreprise cedee (voir [[brantham/knowledge/finance/valorisation-distressed]] pour les methodes de calcul). C'est une reference de marche, pas une regle de droit.
 
 En LJ sans concurrence, le prix peut etre tres bas. En RJ avec concurrence, le prix monte mais reste contraint par la capacite financiere des repreneurs.
 
@@ -218,7 +218,7 @@ En LJ sans concurrence, le prix peut etre tres bas. En RJ avec concurrence, le p
 ### 5.2. Erreurs de fond
 - **Prix symbolique sans justification** : ecarte d'office
 - **Business plan fantaisiste** : previsions de croissance irrealistes
-- **Sous-estimation du BFR** : le repreneur se retrouve en difficulte des le premier mois (voir [[integration-post-acquisition]])
+- **Sous-estimation du BFR** : le repreneur se retrouve en difficulte des le premier mois (voir [[brantham/knowledge/process/integration-post-acquisition]])
 - **Perimetre flou** : "reprise de l'ensemble des actifs" sans precision = dangereux
 - **Conditions suspensives multiples** : le tribunal privilegie les offres fermes
 - **Negligence du volet social** : pas assez de detail sur l'emploi
@@ -251,7 +251,7 @@ En LJ sans concurrence, le prix peut etre tres bas. En RJ avec concurrence, le p
 2. **Communication** au juge-commissaire et au ministere public uniquement
 3. **Tableau comparatif** etabli par l'AJ (en RJ) pour les candidats
 4. **Phase d'amelioration** : possible jusqu'a J-2 avant audience
-5. **Audience d'examen** : presentation devant le tribunal (voir [[audience-tribunal]])
+5. **Audience d'examen** : presentation devant le tribunal (voir [[brantham/knowledge/process/audience-tribunal]])
 6. **Jugement** : le tribunal arrete le plan de cession
 7. **Signification du jugement** : delai d'appel de 10 jours
 8. **Realisation** : acte de cession dans les 2 mois suivant le jugement devenu definitif
@@ -282,16 +282,21 @@ En LJ sans concurrence, le prix peut etre tres bas. En RJ avec concurrence, le p
 
 ## Voir aussi
 
-- [[encheres-surencheres]] — Regime des encheres et surencheres en procedure
-- [[audience-tribunal]] — Deroulement de l'audience de cession
-- [[due-diligence-distressed]] — DD prealable a la structuration de l'offre
-- [[plans-de-cession]] — Cadre legal L642-1 et suivants
-- [[valorisation-distressed]] — Determination du prix et methodes de valorisation
-- [[post-closing-execution]] — Execution du plan apres jugement
-- [[negociation-crise]] — Strategies de negociation avec les organes de la procedure
-- [[droit-social-restructuration]] — Volet social de l'offre et transfert des salaries
-- [[contrats-baux-en-procedure]] — Contrats et baux a reprendre dans l'offre
-- [[glossaire-distressed]] — Terminologie M&A distressed
+- [[brantham/knowledge/process/encheres-surencheres]] — Regime des encheres et surencheres en procedure
+- [[brantham/knowledge/process/audience-tribunal]] — Deroulement de l'audience de cession
+- [[brantham/knowledge/process/due-diligence-distressed]] — DD prealable a la structuration de l'offre
+- [[brantham/knowledge/legal/plans-de-cession]] — Cadre legal L642-1 et suivants
+- [[brantham/knowledge/finance/valorisation-distressed]] — Determination du prix et methodes de valorisation
+- [[brantham/knowledge/process/post-closing-execution]] — Execution du plan apres jugement
+- [[brantham/knowledge/skills/negociation-crise]] — Strategies de negociation avec les organes de la procedure
+- [[brantham/knowledge/legal/droit-social-restructuration]] — Volet social de l'offre et transfert des salaries
+- [[brantham/knowledge/legal/contrats-baux-en-procedure]] — Contrats et baux a reprendre dans l'offre
+- [[brantham/knowledge/glossary/glossaire-distressed]] — Terminologie M&A distressed
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/context/process-end-to-end]]
+- [[brantham/knowledge/sectors/restauration-hotellerie]]
+- [[brantham/knowledge/sectors/retail-commerce]]
+- [[brantham/knowledge/finance/pi-actifs-incorporels-distressed]]
+- [[brantham/knowledge/finance/assurances-ma-distressed]]

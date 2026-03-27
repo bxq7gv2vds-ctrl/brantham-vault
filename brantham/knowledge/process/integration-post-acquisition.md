@@ -51,7 +51,7 @@ L'integration d'une entreprise reprise en procedure collective differe radicalem
 
 ### 1.2 Contraintes specifiques
 
-- **Cadre judiciaire** : le repreneur est lie par les engagements de son offre (emploi, activite, investissements) sous peine de [[post-closing-execution|resolution du plan]].
+- **Cadre judiciaire** : le repreneur est lie par les engagements de son offre (emploi, activite, investissements) sous peine de [[brantham/knowledge/process/post-closing-execution|resolution du plan]].
 - **Surveillance** : le liquidateur/commissaire a l'execution du plan surveille le respect des engagements.
 - **BFR negatif** : l'entreprise est en general videe de sa tresorerie, les stocks sont bas, les clients ont annule des commandes, les fournisseurs exigent du comptant.
 - **Perte de savoir-faire** : les salaries cles ont parfois quitte l'entreprise pendant la procedure.
@@ -59,7 +59,7 @@ L'integration d'une entreprise reprise en procedure collective differe radicalem
 
 ### 1.3 Avantages du distressed
 
-- **Achat libre de dettes** : pas de passif repris (hors [[suretes-en-procedure-collective|suretes speciales]] L642-12).
+- **Achat libre de dettes** : pas de passif repris (hors [[brantham/knowledge/legal/suretes-en-procedure-collective|suretes speciales]] L642-12).
 - **Prix bas** : decote importante par rapport a la valeur a la casse.
 - **Base de restructuration** : possibilite de repartir sur des bases saines (nouveau bail, nouvelle organisation, equipe choisie).
 - **Motivation** : les salaries repris sont souvent reconnaissants et prets a s'investir si le repreneur communique bien.
@@ -618,16 +618,17 @@ Ce template est a generer pour chaque deal qui arrive au stade **"cession valide
 
 ## Voir aussi
 
-- [[post-closing-execution]] — Post-closing et execution du plan de cession (cadre juridique)
-- [[turnaround-operationnel]] — Retournement operationnel et management de transition
-- [[due-diligence-distressed]] — Due diligence pre-offre et diagnostic
-- [[structuration-offres-reprise]] — Redaction de l'offre de reprise
-- [[valorisation-distressed]] — Valorisation et BFR de relance
-- [[restructuration-dette]] — Refinancement et affacturage post-cession
-- [[assurance-credit]] — Retablir la couverture fournisseur
-- [[droit-social-restructuration]] — Transfert des salaries et conventions collectives
-- [[communication-parties-prenantes]] — Communication de crise et stakeholders
-- [[contrats-baux-en-procedure]] — Transfert des contrats et baux
+- [[brantham/knowledge/process/post-closing-execution]] — Post-closing et execution du plan de cession (cadre juridique)
+- [[brantham/knowledge/process/turnaround-operationnel]] — Retournement operationnel et management de transition
+- [[brantham/knowledge/process/due-diligence-distressed]] — Due diligence pre-offre et diagnostic
+- [[brantham/knowledge/process/structuration-offres-reprise]] — Redaction de l'offre de reprise
+- [[brantham/knowledge/finance/valorisation-distressed]] — Valorisation et BFR de relance
+- [[brantham/knowledge/finance/restructuration-dette]] — Refinancement et affacturage post-cession
+- [[brantham/knowledge/finance/assurance-credit]] — Retablir la couverture fournisseur
+- [[brantham/knowledge/legal/droit-social-restructuration]] — Transfert des salaries et conventions collectives
+- [[brantham/knowledge/skills/communication-parties-prenantes]] — Communication de crise et stakeholders
+- [[brantham/knowledge/legal/contrats-baux-en-procedure]] — Transfert des contrats et baux
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/context/process-end-to-end]]

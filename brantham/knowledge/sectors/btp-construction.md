@@ -89,7 +89,7 @@ La loi du 31 decembre 1975 protege les sous-traitants BTP :
 
 ### Marches publics
 
-- **Marches en cours** : un marche public peut etre cede avec l'entreprise dans le [[plans-de-cession|plan de cession]] (L642-7 s'applique).
+- **Marches en cours** : un marche public peut etre cede avec l'entreprise dans le [[brantham/knowledge/legal/plans-de-cession|plan de cession]] (L642-7 s'applique).
 - **Qualification** : Qualibat, Qualifelec, RGE = prerequis pour les marches publics. Verifier la validite des qualifications.
 - **References** : les references de chantier de l'entreprise cedee **ne sont pas automatiquement transferees** au repreneur pour les nouveaux appels d'offres.
 - **Garantie a premiere demande** : le repreneur devra fournir ses propres garanties bancaires pour les nouveaux marches.
@@ -227,15 +227,16 @@ La loi du 31 decembre 1975 protege les sous-traitants BTP :
 
 ## Voir aussi
 
-- [[stats-defaillances-2025]] — Chiffres macro (BTP = 21% des defaillances, 1er secteur)
-- [[immobilier]] — Playbook sectoriel immobilier (promoteurs)
-- [[passif-environnemental]] — Risque amiante, pollution sols sur chantiers
-- [[suretes-en-procedure-collective]] — Garanties et cautions de marches
-- [[valorisation-distressed]] — Methodes de valorisation BTP
-- [[due-diligence-distressed]] — Checklist DD industrielle
-- [[plans-de-cession]] — Cession de marches publics (L642-7)
-- [[droit-social-restructuration]] — Reprise des equipes BTP
-- [[quick-scan-diagnostic]] — Diagnostic flash avant DD
+- [[brantham/knowledge/market/stats-defaillances-2025]] — Chiffres macro (BTP = 21% des defaillances, 1er secteur)
+- [[brantham/knowledge/sectors/immobilier]] — Playbook sectoriel immobilier (promoteurs)
+- [[brantham/knowledge/legal/passif-environnemental]] — Risque amiante, pollution sols sur chantiers
+- [[brantham/knowledge/legal/suretes-en-procedure-collective]] — Garanties et cautions de marches
+- [[brantham/knowledge/finance/valorisation-distressed]] — Methodes de valorisation BTP
+- [[brantham/knowledge/process/due-diligence-distressed]] — Checklist DD industrielle
+- [[brantham/knowledge/legal/plans-de-cession]] — Cession de marches publics (L642-7)
+- [[brantham/knowledge/legal/droit-social-restructuration]] — Reprise des equipes BTP
+- [[brantham/knowledge/skills/quick-scan-diagnostic]] — Diagnostic flash avant DD
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/INDEX]]

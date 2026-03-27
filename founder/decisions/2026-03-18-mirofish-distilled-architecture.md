@@ -54,3 +54,4 @@ Les preferences geo des agents sont groupees en clusters uniques. Score matrix c
 - [[founder/decisions/2026-03-18-weather-alpha-dashboard-design-system]]
 - [[founder/sessions/2026-03-18-weather-alpha-dashboard-redesign]]
 - [[founder/strategy/current-strategy]]
+- [[_system/wikilinks-convention]]

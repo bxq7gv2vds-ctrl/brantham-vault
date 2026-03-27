@@ -366,3 +366,5 @@ Accompagner le repreneur dans la restructuration post-acquisition.
 - [[brantham/knowledge/process/audience-tribunal]]
 - [[brantham/knowledge/process/post-closing-execution]]
 - [[brantham/knowledge/process/integration-post-acquisition]]
+- [[brantham/COWORK-PROMPT]]
+- [[brantham/context/roles-et-responsabilites]]

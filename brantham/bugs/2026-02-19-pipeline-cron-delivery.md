@@ -27,3 +27,6 @@ Always use silent mode for agent cron tasks.
 - [[brantham/bugs/2026-02-19-scraper-abitbol-mailto]]
 - [[brantham/bugs/2026-02-19-llm-glm47-content-null]]
 - [[brantham/bugs/2026-02-19-scraper-gemweb-false-positives]]
+- [[patterns/agent-orchestration]]
+- [[patterns/prefect-pipeline]]
+- [[brantham/patterns/scoring-patterns]]

@@ -21,23 +21,23 @@ Glossaire exhaustif couvrant le vocabulaire specialise du M&A d'entreprises en d
 
 | Terme | Definition | Reference legale |
 |---|---|---|
-| **Cessation de paiements** | Impossibilite de faire face au passif exigible avec l'actif disponible. Condition d'ouverture du [[redressement-judiciaire|RJ]] et de la [[liquidation-judiciaire|LJ]]. Le dirigeant doit la declarer dans les 45 jours. | L631-1 C.com |
+| **Cessation de paiements** | Impossibilite de faire face au passif exigible avec l'actif disponible. Condition d'ouverture du [[brantham/knowledge/procedures/redressement-judiciaire|RJ]] et de la [[brantham/knowledge/procedures/liquidation-judiciaire|LJ]]. Le dirigeant doit la declarer dans les 45 jours. | L631-1 C.com |
 | **Date de cessation de paiements** | Date fixee par le tribunal (pouvant remonter jusqu'a 18 mois avant le jugement d'ouverture). Determine le debut de la periode suspecte. | L631-8 C.com |
-| **Periode suspecte** | Periode entre la date de cessation de paiements et le jugement d'ouverture. Certains actes passes pendant cette periode sont annulables ([[nullites-periode-suspecte|nullites de droit ou facultatives]]). | L632-1, L632-2 C.com |
+| **Periode suspecte** | Periode entre la date de cessation de paiements et le jugement d'ouverture. Certains actes passes pendant cette periode sont annulables ([[brantham/knowledge/legal/nullites-periode-suspecte|nullites de droit ou facultatives]]). | L632-1, L632-2 C.com |
 | **Periode d'observation** | Phase post-ouverture du RJ ou de la sauvegarde pendant laquelle l'activite se poursuit sous controle judiciaire. Duree : 6 mois renouvelable une fois (+ prolongation exceptionnelle 6 mois). | L621-3 C.com |
 | **Jugement d'ouverture** | Decision du tribunal de commerce (ou TJ) prononcant l'ouverture d'une procedure collective. Publie au BODACC et au RCS. | L621-1 et s. C.com |
-| **[[mandat-ad-hoc-conciliation|Mandat ad hoc]]** | Procedure preventive confidentielle. Un mandataire ad hoc est designe par le president du tribunal pour negocier avec les creanciers. Pas de cessation de paiements requise. | L611-3 C.com |
+| **[[brantham/knowledge/procedures/mandat-ad-hoc-conciliation|Mandat ad hoc]]** | Procedure preventive confidentielle. Un mandataire ad hoc est designe par le president du tribunal pour negocier avec les creanciers. Pas de cessation de paiements requise. | L611-3 C.com |
 | **Conciliation** | Procedure preventive confidentielle (ou homologuee). Le conciliateur negocie un accord entre le debiteur et ses principaux creanciers. Duree : 5 mois max (dont 1 mois de prorogation). Peut etre ouverte si cessation de paiements < 45 jours. | L611-4 a L611-15 C.com |
 | **Accord de conciliation** | Accord constate (confidentiel, force executoire) ou homologue (public, force executoire renforcee, privilege de new money). | L611-8 C.com |
-| **[[sauvegarde|Sauvegarde]]** | Procedure pour les entreprises en difficulte mais PAS en cessation de paiements. Permet d'elaborer un plan de reorganisation sous protection du tribunal. | L620-1 et s. C.com |
-| **[[sauvegarde-acceleree-sfa|Sauvegarde acceleree (SA)]]** | Procedure simplifiee permettant d'imposer un accord de conciliation a tous les creanciers via un vote en comites (2/3 des voix). Duree max : 4 mois. | L628-1 et s. C.com |
+| **[[brantham/knowledge/procedures/sauvegarde|Sauvegarde]]** | Procedure pour les entreprises en difficulte mais PAS en cessation de paiements. Permet d'elaborer un plan de reorganisation sous protection du tribunal. | L620-1 et s. C.com |
+| **[[brantham/knowledge/procedures/sauvegarde-acceleree-sfa|Sauvegarde acceleree (SA)]]** | Procedure simplifiee permettant d'imposer un accord de conciliation a tous les creanciers via un vote en comites (2/3 des voix). Duree max : 4 mois. | L628-1 et s. C.com |
 | **Sauvegarde financiere acceleree (SFA)** | Variante de la SA ne concernant que les creanciers financiers. Les creanciers fournisseurs et salaries ne sont pas affectes. | L628-9 et s. C.com (abrogee en 2021, fusionnee avec SA) |
-| **[[redressement-judiciaire|Redressement judiciaire (RJ)]]** | Procedure pour les entreprises en cessation de paiements dont le redressement est possible. Poursuite d'activite, recherche d'un [[plans-de-continuation|plan de continuation]] ou de [[plans-de-cession|cession]]. | L631-1 et s. C.com |
-| **[[liquidation-judiciaire|Liquidation judiciaire (LJ)]]** | Procedure pour les entreprises en cessation de paiements dont le redressement est manifestement impossible. Arret de l'activite (sauf maintien temporaire) et realisation des actifs. | L640-1 et s. C.com |
-| **[[lj-simplifiee|LJ simplifiee]]** | Procedure de LJ acceleree pour les petites entreprises (CA < 750 KEUR, effectif < 5, actif < 50 KEUR). Delai de cloture : 6 mois a 1 an. | L644-1 et s. C.com |
+| **[[brantham/knowledge/procedures/redressement-judiciaire|Redressement judiciaire (RJ)]]** | Procedure pour les entreprises en cessation de paiements dont le redressement est possible. Poursuite d'activite, recherche d'un [[brantham/knowledge/legal/plans-de-continuation|plan de continuation]] ou de [[brantham/knowledge/legal/plans-de-cession|cession]]. | L631-1 et s. C.com |
+| **[[brantham/knowledge/procedures/liquidation-judiciaire|Liquidation judiciaire (LJ)]]** | Procedure pour les entreprises en cessation de paiements dont le redressement est manifestement impossible. Arret de l'activite (sauf maintien temporaire) et realisation des actifs. | L640-1 et s. C.com |
+| **[[brantham/knowledge/procedures/lj-simplifiee|LJ simplifiee]]** | Procedure de LJ acceleree pour les petites entreprises (CA < 750 KEUR, effectif < 5, actif < 50 KEUR). Delai de cloture : 6 mois a 1 an. | L644-1 et s. C.com |
 | **Conversion** | Passage d'une procedure a une autre. RJ peut etre converti en LJ si le redressement est manifestement impossible. Sauvegarde peut etre convertie en RJ. | L631-15, L622-10 C.com |
-| **[[plans-de-continuation|Plan de continuation]]** | Plan adopte en RJ ou sauvegarde permettant au debiteur de poursuivre l'activite en remboursant les creanciers selon un echeancier (10 ans max, 15 ans si agriculteur). | L626-1 et s. C.com |
-| **[[plans-de-cession|Plan de cession]]** | Decision du tribunal ordonnant la cession de tout ou partie de l'entreprise a un repreneur. Le repreneur ne reprend pas le passif anterieur (sauf exceptions). | L642-1 et s. C.com |
+| **[[brantham/knowledge/legal/plans-de-continuation|Plan de continuation]]** | Plan adopte en RJ ou sauvegarde permettant au debiteur de poursuivre l'activite en remboursant les creanciers selon un echeancier (10 ans max, 15 ans si agriculteur). | L626-1 et s. C.com |
+| **[[brantham/knowledge/legal/plans-de-cession|Plan de cession]]** | Decision du tribunal ordonnant la cession de tout ou partie de l'entreprise a un repreneur. Le repreneur ne reprend pas le passif anterieur (sauf exceptions). | L642-1 et s. C.com |
 | **Pre-pack cession** | Cession preparee en amont (conciliation/mandat ad hoc) puis executee immediatement a l'ouverture d'un RJ/LJ. Permet une cession rapide avec continuite d'exploitation. | L611-7 al. 5 C.com |
 | **Cession de gre a gre** | En LJ, cession d'actifs isoles (pas une unite de production) autorisee par le juge-commissaire. Pas d'appel d'offres obligatoire. | L642-18 et s. C.com |
 | **Cession d'unite de production** | Cession d'un ensemble coherent d'actifs (materiels, contrats, salaries) formant une branche d'activite autonome. Possible en LJ sur autorisation du juge-commissaire. | L642-18 al. 4 C.com |
@@ -110,12 +110,12 @@ Glossaire exhaustif couvrant le vocabulaire specialise du M&A d'entreprises en d
 
 | Terme | Definition | Reference legale |
 |---|---|---|
-| **[[structuration-offres-reprise|Offre de reprise]]** | Document formel soumis au tribunal contenant : identite du repreneur, perimetre (actifs, contrats, salaries), prix, projet industriel, garanties financieres, calendrier. | L642-2 C.com |
+| **[[brantham/knowledge/process/structuration-offres-reprise|Offre de reprise]]** | Document formel soumis au tribunal contenant : identite du repreneur, perimetre (actifs, contrats, salaries), prix, projet industriel, garanties financieres, calendrier. | L642-2 C.com |
 | **Teaser** | Document anonyme presentant l'entreprise a ceder (activite, CA, effectif, localisation). Premier contact avec les repreneurs potentiels. Ne revele pas le nom de l'entreprise. | Usage professionnel |
 | **Memorandum d'information (info memo)** | Document detaille sur l'entreprise (historique, finances, operations, marche, perspectives). Communique apres signature d'un NDA. | Usage professionnel |
 | **NDA (Non-Disclosure Agreement)** | Accord de confidentialite signe par les candidats repreneurs avant l'acces aux informations detaillees et a la data room. | Contractuel |
 | **Data room** | Espace physique ou virtuel contenant les documents de due diligence (comptes, contrats, baux, contentieux, PI, RH, environnement). | Usage professionnel |
-| **[[due-diligence-distressed|Due diligence (DD)]]** | Audit prealable de l'entreprise cible. En distressed : delai court (2-8 semaines), information souvent incomplete, focus sur les risques critiques. | Usage professionnel |
+| **[[brantham/knowledge/process/due-diligence-distressed|Due diligence (DD)]]** | Audit prealable de l'entreprise cible. En distressed : delai court (2-8 semaines), information souvent incomplete, focus sur les risques critiques. | Usage professionnel |
 | **LOI (Letter of Intent)** | Lettre d'intention. En distressed, souvent remplacee par l'offre de reprise directement deposee au tribunal ou a l'AJ. | Contractuel |
 | **SPA (Share Purchase Agreement)** | Contrat de cession d'actions. Utilise en cession amiable (conciliation, pre-pack). Rare en cession judiciaire (pas de cession de parts mais d'actifs). | Contractuel |
 | **APA (Asset Purchase Agreement)** | Contrat de cession d'actifs. Plus courant en distressed. En cession judiciaire, le jugement tient lieu de contrat. | L642-1 et s. C.com |
@@ -141,9 +141,9 @@ Glossaire exhaustif couvrant le vocabulaire specialise du M&A d'entreprises en d
 
 | Terme | Definition | Reference legale |
 |---|---|---|
-| **[[nullites-periode-suspecte|Nullites de droit]]** | Actes passes pendant la periode suspecte qui sont automatiquement annulables (liberalites, paiements anticipes, suretes pour dettes anterieures, etc.). Le juge n'a pas de pouvoir d'appreciation. | L632-1 C.com |
+| **[[brantham/knowledge/legal/nullites-periode-suspecte|Nullites de droit]]** | Actes passes pendant la periode suspecte qui sont automatiquement annulables (liberalites, paiements anticipes, suretes pour dettes anterieures, etc.). Le juge n'a pas de pouvoir d'appreciation. | L632-1 C.com |
 | **Nullites facultatives** | Actes passes pendant la periode suspecte que le tribunal peut annuler s'il estime qu'ils ont ete realises en connaissance de la cessation de paiements par le cocontractant. | L632-2 C.com |
-| **[[sanctions-dirigeants|Action en comblement de passif]]** | Action en responsabilite pour insuffisance d'actif contre les dirigeants de droit ou de fait dont la faute de gestion a contribue a l'insuffisance d'actif. | L651-2 C.com |
+| **[[brantham/knowledge/legal/sanctions-dirigeants|Action en comblement de passif]]** | Action en responsabilite pour insuffisance d'actif contre les dirigeants de droit ou de fait dont la faute de gestion a contribue a l'insuffisance d'actif. | L651-2 C.com |
 | **Banqueroute** | Delit penal puni de 5 ans d'emprisonnement et 75 000 EUR d'amende. Concerne le detournement d'actifs, la tenue de comptabilite fictive, etc. | L654-1 et s. C.com |
 | **Faillite personnelle** | Sanction prononcee par le tribunal interdisant au dirigeant de diriger, gerer ou controler une entreprise (duree : jusqu'a 15 ans). | L653-1 et s. C.com |
 | **Interdiction de gerer** | Sanction prononcee contre le dirigeant fautif. Duree max : 15 ans. Inscrite au casier judiciaire et au fichier national des interdits de gerer. | L653-8 C.com |
@@ -237,22 +237,27 @@ Glossaire exhaustif couvrant le vocabulaire specialise du M&A d'entreprises en d
 Ce glossaire est concu pour etre utilise comme reference rapide par l'equipe Brantham Partners. Il couvre les termes les plus frequemment rencontres dans la pratique quotidienne du M&A distressed en France.
 
 Pour approfondir un sujet, se referer aux fiches thematiques de la knowledge base :
-- Procedures : [[liquidation-judiciaire]], [[redressement-judiciaire]], [[sauvegarde]], [[sauvegarde-acceleree-sfa]], [[lj-simplifiee]], [[mandat-ad-hoc-conciliation]]
-- Juridique : [[rang-des-creances]], [[nullites-periode-suspecte]], [[plans-de-cession]], [[plans-de-continuation]], [[sanctions-dirigeants]]
-- Finance : [[valorisation-distressed]], [[restructuration-dette]], [[financial-modeling-distressed]]
-- Process : [[due-diligence-distressed]], [[structuration-offres-reprise]], [[audience-tribunal]], [[post-closing-execution]]
-- Acteurs : [[ecosysteme-restructuring]], [[banques-cellules-restructuring]]
+- Procedures : [[brantham/knowledge/procedures/liquidation-judiciaire]], [[brantham/knowledge/procedures/redressement-judiciaire]], [[brantham/knowledge/procedures/sauvegarde]], [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa]], [[brantham/knowledge/procedures/lj-simplifiee]], [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation]]
+- Juridique : [[brantham/knowledge/legal/rang-des-creances]], [[brantham/knowledge/legal/nullites-periode-suspecte]], [[brantham/knowledge/legal/plans-de-cession]], [[brantham/knowledge/legal/plans-de-continuation]], [[brantham/knowledge/legal/sanctions-dirigeants]]
+- Finance : [[brantham/knowledge/finance/valorisation-distressed]], [[brantham/knowledge/finance/restructuration-dette]], [[brantham/knowledge/finance/financial-modeling-distressed]]
+- Process : [[brantham/knowledge/process/due-diligence-distressed]], [[brantham/knowledge/process/structuration-offres-reprise]], [[brantham/knowledge/process/audience-tribunal]], [[brantham/knowledge/process/post-closing-execution]]
+- Acteurs : [[brantham/knowledge/acteurs/ecosysteme-restructuring]], [[brantham/knowledge/acteurs/banques-cellules-restructuring]]
 
 ## Voir aussi
 
-- [[ecosysteme-restructuring]] — Cartographie des acteurs du restructuring
-- [[rang-des-creances]] — Hierarchie detaillee des creanciers
-- [[plans-de-cession]] — Procedure de cession judiciaire
-- [[nullites-periode-suspecte]] — Nullites en periode suspecte
-- [[valorisation-distressed]] — Methodes de valorisation distressed
-- [[quick-scan-diagnostic]] — Diagnostic flash et scoring
-- [[negociation-crise]] — Techniques de negociation en crise
-- [[stats-defaillances-2025]] — Contexte macro des defaillances
+- [[brantham/knowledge/acteurs/ecosysteme-restructuring]] — Cartographie des acteurs du restructuring
+- [[brantham/knowledge/legal/rang-des-creances]] — Hierarchie detaillee des creanciers
+- [[brantham/knowledge/legal/plans-de-cession]] — Procedure de cession judiciaire
+- [[brantham/knowledge/legal/nullites-periode-suspecte]] — Nullites en periode suspecte
+- [[brantham/knowledge/finance/valorisation-distressed]] — Methodes de valorisation distressed
+- [[brantham/knowledge/skills/quick-scan-diagnostic]] — Diagnostic flash et scoring
+- [[brantham/knowledge/skills/negociation-crise]] — Techniques de negociation en crise
+- [[brantham/knowledge/market/stats-defaillances-2025]] — Contexte macro des defaillances
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/agriculture-agroalimentaire]]
+- [[brantham/knowledge/finance/fiscalite-restructuration]]
+- [[brantham/knowledge/finance/comptabilite-crise]]
+- [[brantham/knowledge/finance/assurance-credit]]
+- [[brantham/knowledge/skills/communication-parties-prenantes]]

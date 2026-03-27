@@ -24,7 +24,7 @@ Guide complet sur les produits d'assurance et mecanismes de couverture dans le c
 En M&A classique, la garantie de passif (garantie d'actif et de passif, GAP) est le mecanisme standard de protection de l'acquereur. Le vendeur garantit la sincerite des comptes et indemnise l'acquereur en cas de passif cache.
 
 En M&A distressed, ce mecanisme est **inoperant** :
-- En **cession judiciaire** ([[plans-de-cession|plan de cession]] L642-1 et suivants C.com) : le repreneur ne reprend pas le passif anterieur. Pas de vendeur solvable pour garantir quoi que ce soit
+- En **cession judiciaire** ([[brantham/knowledge/legal/plans-de-cession|plan de cession]] L642-1 et suivants C.com) : le repreneur ne reprend pas le passif anterieur. Pas de vendeur solvable pour garantir quoi que ce soit
 - En **cession de gre a gre en LJ** : le liquidateur cede "en l'etat", sans garantie
 - En **pre-pack/conciliation** : le vendeur est en difficulte, sa capacite a honorer une garantie est douteuse
 - Les actionnaires/dirigeants de la cible sont souvent insolvables
@@ -37,7 +37,7 @@ D'ou la necessite de recourir a des mecanismes alternatifs d'assurance et de cou
 |---|---|---|
 | Passif social cache (heures sup, contentieux prud'homaux) | Elevee | Moyen |
 | Passif fiscal cache (redressement, TVA) | Moyenne | Eleve |
-| [[passif-environnemental|Passif environnemental]] (depollution, ICPE) | Moyenne | Tres eleve |
+| [[brantham/knowledge/legal/passif-environnemental|Passif environnemental]] (depollution, ICPE) | Moyenne | Tres eleve |
 | Vices caches sur actifs | Moyenne | Moyen |
 | Contentieux en cours non reveles | Moyenne | Variable |
 | Perte d'homme-cle post-reprise | Elevee | Eleve |
@@ -59,7 +59,7 @@ L'assurance D&O (Responsabilite Civile des Dirigeants) couvre les dirigeants de 
 | **Responsabilite civile** | Dommages causes aux tiers, salaries, associes |
 | **Frais de defense** | Honoraires d'avocats, frais de procedure |
 | **Sanctions financieres** | Amendes civiles et administratives (pas penales) |
-| **Comblement de passif** | Action en responsabilite pour insuffisance d'actif (L651-2 C.com, voir [[sanctions-dirigeants]]) |
+| **Comblement de passif** | Action en responsabilite pour insuffisance d'actif (L651-2 C.com, voir [[brantham/knowledge/legal/sanctions-dirigeants]]) |
 
 ### 2.3 Exclusions courantes
 
@@ -81,7 +81,7 @@ L'assurance D&O (Responsabilite Civile des Dirigeants) couvre les dirigeants de 
 
 **Points de vigilance** :
 - Verifier que la police existante de la cible est toujours en vigueur (primes payees ?)
-- En [[redressement-judiciaire|RJ]] : les primes d'assurance sont des creances posterieures privilegiees (L622-17)
+- En [[brantham/knowledge/procedures/redressement-judiciaire|RJ]] : les primes d'assurance sont des creances posterieures privilegiees (L622-17)
 - En LJ : si la police est resiliee, les anciens dirigeants perdent toute couverture
 - Le repreneur doit souscrire sa propre police D&O des la prise de controle
 - Les dirigeants de transition sont couverts par la police du cabinet de management de transition ou leur propre RC pro
@@ -254,7 +254,7 @@ En reprise d'entreprise en difficulte, les hommes-cles sont souvent :
 
 ### 7.1 Principe
 
-La Pollution Legal Liability (PLL) couvre les frais de depollution et les responsabilites liees a une contamination environnementale du site. Particulierement critique pour les reprises de sites industriels (ICPE, Seveso). Voir [[passif-environnemental]] pour le detail des obligations.
+La Pollution Legal Liability (PLL) couvre les frais de depollution et les responsabilites liees a une contamination environnementale du site. Particulierement critique pour les reprises de sites industriels (ICPE, Seveso). Voir [[brantham/knowledge/legal/passif-environnemental]] pour le detail des obligations.
 
 ### 7.2 Pertinence en distressed
 
@@ -321,7 +321,7 @@ Obligatoire avant toute reprise de site industriel :
 - [ ] Estimer le cout des assurances post-reprise
 
 **Phase offre** :
-- [ ] Integrer le cout des assurances dans la [[valorisation-distressed|valorisation]]
+- [ ] Integrer le cout des assurances dans la [[brantham/knowledge/finance/valorisation-distressed|valorisation]]
 - [ ] Prevoir un mecanisme de couverture du passif cache (escrow, retention, W&I si applicable)
 - [ ] Budgeter la D&O pour les nouveaux dirigeants
 
@@ -360,14 +360,14 @@ A integrer dans le business plan de reprise.
 
 ## Voir aussi
 
-- [[due-diligence-distressed]] — Checklist assurances dans la phase DD
-- [[valorisation-distressed]] — Integration du cout des assurances dans la valorisation
-- [[structuration-offres-reprise]] — Prevoir les mecanismes de couverture dans l'offre
-- [[passif-environnemental]] — Risque environnemental et assurance PLL
-- [[post-closing-execution]] — Souscription des polices post-cession
-- [[sanctions-dirigeants]] — Responsabilite des dirigeants et D&O
-- [[plans-de-cession]] — Purge du passif et alternatives a la GAP
-- [[ecosysteme-restructuring]] — Courtiers W&I et assureurs specialises
+- [[brantham/knowledge/process/due-diligence-distressed]] — Checklist assurances dans la phase DD
+- [[brantham/knowledge/finance/valorisation-distressed]] — Integration du cout des assurances dans la valorisation
+- [[brantham/knowledge/process/structuration-offres-reprise]] — Prevoir les mecanismes de couverture dans l'offre
+- [[brantham/knowledge/legal/passif-environnemental]] — Risque environnemental et assurance PLL
+- [[brantham/knowledge/process/post-closing-execution]] — Souscription des polices post-cession
+- [[brantham/knowledge/legal/sanctions-dirigeants]] — Responsabilite des dirigeants et D&O
+- [[brantham/knowledge/legal/plans-de-cession]] — Purge du passif et alternatives a la GAP
+- [[brantham/knowledge/acteurs/ecosysteme-restructuring]] — Courtiers W&I et assureurs specialises
 
 ## Related
 - [[brantham/_MOC]]

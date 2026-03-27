@@ -391,14 +391,14 @@ En tant que repreneur potentiel, les signaux d'assurance-credit sont des indicat
 
 ### 6.1 Ouverture de procedure et contrat d'assurance-credit
 
-**[[sauvegarde|Sauvegarde]] / [[redressement-judiciaire|Redressement judiciaire]]** :
+**[[brantham/knowledge/procedures/sauvegarde|Sauvegarde]] / [[brantham/knowledge/procedures/redressement-judiciaire|Redressement judiciaire]]** :
 - Le contrat d'assurance-credit n'est pas automatiquement resilie par l'ouverture de la procedure
 - Mais l'assureur peut invoquer les clauses de resiliation prevues au contrat
 - En pratique, l'assureur gele systematiquement les couvertures sur l'entreprise en procedure
 - Les couvertures sur l'entreprise en tant que debiteur sont retirees immediatement par tous les assureurs
 - Impact : les fournisseurs de l'entreprise perdent leur couverture -> passage au comptant ou cessation des approvisionnements
 
-**[[liquidation-judiciaire|Liquidation judiciaire]]** :
+**[[brantham/knowledge/procedures/liquidation-judiciaire|Liquidation judiciaire]]** :
 - Le contrat est generalement resilie de plein droit (clauses contractuelles)
 - Le liquidateur peut tenter de le maintenir s'il poursuit l'activite temporairement (art. L.641-10 C.com)
 - En pratique, aucun assureur ne maintient de couverture en LJ
@@ -747,15 +747,16 @@ Dans le scoring global d'un deal Brantham, la composante "risque fournisseur / a
 
 ## Voir aussi
 
-- [[valorisation-distressed]] — Impact du retrait de couverture sur la valorisation
-- [[restructuration-dette]] — Affacturage et financement en crise
-- [[quick-scan-diagnostic]] — Detection precoce des difficultes via les signaux assurance-credit
-- [[communication-parties-prenantes]] — Gestion des relations fournisseurs post-retrait
-- [[due-diligence-distressed]] — Verification des couvertures assurance-credit de la cible
-- [[integration-post-acquisition]] — Retablir le credit fournisseur post-cession
-- [[turnaround-operationnel]] — Stabilisation du BFR et cash conservation
-- [[stats-defaillances-2025]] — Statistiques de defaillances et sinistralite
-- [[glossaire-distressed]] — Terminologie M&A distressed
+- [[brantham/knowledge/finance/valorisation-distressed]] — Impact du retrait de couverture sur la valorisation
+- [[brantham/knowledge/finance/restructuration-dette]] — Affacturage et financement en crise
+- [[brantham/knowledge/skills/quick-scan-diagnostic]] — Detection precoce des difficultes via les signaux assurance-credit
+- [[brantham/knowledge/skills/communication-parties-prenantes]] — Gestion des relations fournisseurs post-retrait
+- [[brantham/knowledge/process/due-diligence-distressed]] — Verification des couvertures assurance-credit de la cible
+- [[brantham/knowledge/process/integration-post-acquisition]] — Retablir le credit fournisseur post-cession
+- [[brantham/knowledge/process/turnaround-operationnel]] — Stabilisation du BFR et cash conservation
+- [[brantham/knowledge/market/stats-defaillances-2025]] — Statistiques de defaillances et sinistralite
+- [[brantham/knowledge/glossary/glossaire-distressed]] — Terminologie M&A distressed
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/acteurs/banques-cellules-restructuring]]

@@ -52,9 +52,9 @@ Depuis la LFR 2012 (exercices clos a compter du 31/12/2012), l'imputation des de
 ### 1.3 Majorations du plafond
 
 Le plafond de 1 M EUR est majore du montant des abandons de creances consentis dans le cadre :
-- D'un accord de [[mandat-ad-hoc-conciliation|conciliation]] homologue ou constate (art. L611-8 C. com.)
-- D'un plan de [[sauvegarde]] ou de [[redressement-judiciaire|redressement]]
-- D'un accord constate par le president du tribunal dans le cadre d'un [[mandat-ad-hoc-conciliation|mandat ad hoc]]
+- D'un accord de [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation|conciliation]] homologue ou constate (art. L611-8 C. com.)
+- D'un plan de [[brantham/knowledge/procedures/sauvegarde]] ou de [[brantham/knowledge/procedures/redressement-judiciaire|redressement]]
+- D'un accord constate par le president du tribunal dans le cadre d'un [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation|mandat ad hoc]]
 
 Cette majoration est essentielle en restructuration : elle permet d'accelerer l'imputation des deficits anterieurs lorsque l'entreprise beneficie d'abandons de creances de ses partenaires bancaires ou fournisseurs.
 
@@ -216,7 +216,7 @@ L'ouverture d'une procedure collective ne suspend pas les obligations en matiere
 
 ### 4.3 Regularisation TVA en cas de cession
 
-Lors d'une cession d'entreprise ([[plans-de-cession|plan de cession]] L642-1+ ou cession de gre a gre en [[liquidation-judiciaire|LJ]]) :
+Lors d'une cession d'entreprise ([[brantham/knowledge/legal/plans-de-cession|plan de cession]] L642-1+ ou cession de gre a gre en [[brantham/knowledge/procedures/liquidation-judiciaire|LJ]]) :
 - **Biens meubles corporels** : pas de regularisation si le cessionnaire est redevable de la TVA (art. 210 Annexe II CGI). Le cessionnaire reprend les obligations de regularisation
 - **Immeubles** : transfert des regularisations au cessionnaire (art. 207 Annexe II CGI) sur la base d'un etat descriptif des biens
 - **Stock** : cede au prix convenu, TVA collectee normalement par le cedant (ou le MJ/AJ)
@@ -571,15 +571,18 @@ Si l'entreprise est deficitaire, le CIR constitue une creance sur l'Etat (imputa
 
 ## Voir aussi
 
-- [[restructuration-dette]] — Techniques de restructuration de dette et abandons de creances
-- [[plans-de-cession]] — Cadre legal et fiscalite des cessions judiciaires
-- [[plans-de-continuation]] — Traitement fiscal des plans de continuation
-- [[valorisation-distressed]] — Impact fiscal sur la valorisation
-- [[comptabilite-crise]] — Ecritures comptables et continuite d'exploitation
-- [[due-diligence-distressed]] — DD fiscale en procedure collective
-- [[sauvegarde]] — Procedures de sauvegarde et plans d'apurement
-- [[redressement-judiciaire]] — Deficits et changement de controle en RJ
-- [[glossaire-distressed]] — Terminologie M&A distressed
+- [[brantham/knowledge/finance/restructuration-dette]] — Techniques de restructuration de dette et abandons de creances
+- [[brantham/knowledge/legal/plans-de-cession]] — Cadre legal et fiscalite des cessions judiciaires
+- [[brantham/knowledge/legal/plans-de-continuation]] — Traitement fiscal des plans de continuation
+- [[brantham/knowledge/finance/valorisation-distressed]] — Impact fiscal sur la valorisation
+- [[brantham/knowledge/finance/comptabilite-crise]] — Ecritures comptables et continuite d'exploitation
+- [[brantham/knowledge/process/due-diligence-distressed]] — DD fiscale en procedure collective
+- [[brantham/knowledge/procedures/sauvegarde]] — Procedures de sauvegarde et plans d'apurement
+- [[brantham/knowledge/procedures/redressement-judiciaire]] — Deficits et changement de controle en RJ
+- [[brantham/knowledge/glossary/glossaire-distressed]] — Terminologie M&A distressed
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/immobilier]]
+- [[brantham/knowledge/sectors/agriculture-agroalimentaire]]
+- [[brantham/knowledge/finance/pi-actifs-incorporels-distressed]]

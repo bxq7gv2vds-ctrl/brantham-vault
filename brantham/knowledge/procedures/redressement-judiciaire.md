@@ -20,7 +20,7 @@ updated: 2026-03-27
 
 ## 1. Definition et fondement legal
 
-Le redressement judiciaire est regi par les articles **L631-1 a L631-22** du Code de commerce (Livre VI, Titre III). Il s'intercale entre la [[sauvegarde|sauvegarde]] (preventive) et la [[liquidation-judiciaire|liquidation judiciaire]] (definitive) : l'entreprise est en CDP mais un redressement reste envisageable.
+Le redressement judiciaire est regi par les articles **L631-1 a L631-22** du Code de commerce (Livre VI, Titre III). Il s'intercale entre la [[brantham/knowledge/procedures/sauvegarde|sauvegarde]] (preventive) et la [[brantham/knowledge/procedures/liquidation-judiciaire|liquidation judiciaire]] (definitive) : l'entreprise est en CDP mais un redressement reste envisageable.
 
 **Article L631-1 al. 1** : *"Il est institue une procedure de redressement judiciaire ouverte a tout debiteur mentionne a l'article L631-2 qui, dans l'impossibilite de faire face au passif exigible avec son actif disponible, est en cessation des paiements."*
 
@@ -67,13 +67,13 @@ Condition necessaire et suffisante (pas besoin de demontrer que le redressement 
 
 **Article L631-8** : le tribunal fixe la date de CDP dans le jugement. A defaut, c'est la date du jugement. Elle ne peut etre reportee a plus de **18 mois** avant la date du jugement d'ouverture.
 
-Cette date est fondamentale : elle determine la **[[nullites-periode-suspecte|periode suspecte]]** pendant laquelle certains actes sont nuls de plein droit (art. L632-1) ou annulables (art. L632-2).
+Cette date est fondamentale : elle determine la **[[brantham/knowledge/legal/nullites-periode-suspecte|periode suspecte]]** pendant laquelle certains actes sont nuls de plein droit (art. L632-1) ou annulables (art. L632-2).
 
 ### 2.3 Obligation de declaration
 
-**Article L631-4** : le debiteur doit demander l'ouverture d'un RJ ou d'une LJ dans les **45 jours** de la CDP, sauf s'il a demande l'ouverture d'une [[mandat-ad-hoc-conciliation|conciliation]] dans ce delai.
+**Article L631-4** : le debiteur doit demander l'ouverture d'un RJ ou d'une LJ dans les **45 jours** de la CDP, sauf s'il a demande l'ouverture d'une [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation|conciliation]] dans ce delai.
 
-En pratique, les dirigeants declarent souvent tardivement, ce qui aggrave la situation et expose a des [[sanctions-dirigeants|sanctions]] (interdiction de gerer, action en comblement de passif).
+En pratique, les dirigeants declarent souvent tardivement, ce qui aggrave la situation et expose a des [[brantham/knowledge/legal/sanctions-dirigeants|sanctions]] (interdiction de gerer, action en comblement de passif).
 
 ### 2.4 Personnes habilitees a saisir le tribunal
 
@@ -118,7 +118,7 @@ En pratique, la plupart des periodes d'observation durent 6 a 12 mois.
 
 La periode d'observation sert a :
 1. Realiser un **bilan economique et social** de l'entreprise (art. L623-1)
-2. Evaluer les possibilites de **redressement** ([[plans-de-continuation|plan de continuation]] ou [[plans-de-cession|plan de cession]])
+2. Evaluer les possibilites de **redressement** ([[brantham/knowledge/legal/plans-de-continuation|plan de continuation]] ou [[brantham/knowledge/legal/plans-de-cession|plan de cession]])
 3. Preparer un **plan** soumis au tribunal
 4. Maintenir l'activite le temps de l'analyse
 
@@ -175,7 +175,7 @@ Trois niveaux possibles :
 
 ### 4.3 Bail commercial
 
-**Article L622-14** : le [[contrats-baux-en-procedure|bail commercial]] se poursuit de plein droit. Particularites :
+**Article L622-14** : le [[brantham/knowledge/legal/contrats-baux-en-procedure|bail commercial]] se poursuit de plein droit. Particularites :
 - Le bailleur ne peut ni resilier ni refuser le renouvellement pour defaut de paiement des loyers anterieurs
 - Les loyers posterieurs sont des creances privilegiees (payes a echance)
 - L'administrateur peut renoncer au bail (resiliation a son initiative)
@@ -185,9 +185,9 @@ Trois niveaux possibles :
 ### 4.4 Contrats de travail
 
 Les contrats de travail se poursuivent de plein droit (art. L1224-1 C. travail). Pendant la periode d'observation :
-- Pas de [[droit-social-restructuration|licenciement]] sauf pour motif economique si **urgent, inevitable et indispensable** (art. L631-17)
+- Pas de [[brantham/knowledge/legal/droit-social-restructuration|licenciement]] sauf pour motif economique si **urgent, inevitable et indispensable** (art. L631-17)
 - Le juge-commissaire autorise les licenciements
-- [[rang-des-creances|L'AGS]] avance les creances salariales si l'entreprise ne peut pas payer
+- [[brantham/knowledge/legal/rang-des-creances|L'AGS]] avance les creances salariales si l'entreprise ne peut pas payer
 
 ### 4.5 Contrats de credit et soutien bancaire
 
@@ -223,7 +223,7 @@ Le plan de continuation comprend (art. L626-2 et s.) :
 
 #### 5.1.3 Classes de parties affectees (reforme 2021)
 
-**Articles L626-29 a L626-34** (applicables au RJ via L631-19) : pour les entreprises depassant certains seuils, les creanciers sont repartis en **[[sauvegarde-acceleree-sfa|classes de parties affectees]]** qui votent sur le plan.
+**Articles L626-29 a L626-34** (applicables au RJ via L631-19) : pour les entreprises depassant certains seuils, les creanciers sont repartis en **[[brantham/knowledge/procedures/sauvegarde-acceleree-sfa|classes de parties affectees]]** qui votent sur le plan.
 
 **Seuils d'application** (art. R626-52) :
 - Au moins 250 salaries ET CA net > 20 M EUR
@@ -489,7 +489,7 @@ Le RJ est le **deuxieme terrain de chasse** de Brantham Partners, apres la LJ. I
 | **Entreprise en activite** | Clients, fournisseurs, salaries encore la. Going concern. |
 | **Plus de temps** | 6-18 mois de periode d'observation vs 2-6 semaines en LJ |
 | **Meilleure information** | Bilan eco/social, rapport administrateur, comptes recents |
-| **[[due-diligence-distressed|Due diligence]]** | Acces au data room, visite des locaux, rencontre equipe |
+| **[[brantham/knowledge/process/due-diligence-distressed|Due diligence]]** | Acces au data room, visite des locaux, rencontre equipe |
 | **Negociation** | Echanges avec l'administrateur, ajustement de l'offre |
 | **Actifs en meilleur etat** | Maintenance continue, salaries en poste |
 
@@ -535,16 +535,21 @@ Le RJ est le **deuxieme terrain de chasse** de Brantham Partners, apres la LJ. I
 
 ## Voir aussi
 
-- [[liquidation-judiciaire]] -- Liquidation judiciaire
-- [[sauvegarde]] -- Sauvegarde
-- [[plans-de-cession]] -- Plans de cession judiciaire
-- [[plans-de-continuation]] -- Plans de continuation
-- [[rang-des-creances]] -- Rang des creances
-- [[sanctions-dirigeants]] -- Sanctions et responsabilite des dirigeants
-- [[nullites-periode-suspecte]] -- Nullites de la periode suspecte
-- [[contrats-baux-en-procedure]] -- Sort des contrats et baux
-- [[droit-social-restructuration]] -- Droit social en restructuration
-- [[due-diligence-distressed]] -- Due diligence distressed
+- [[brantham/knowledge/procedures/liquidation-judiciaire]] -- Liquidation judiciaire
+- [[brantham/knowledge/procedures/sauvegarde]] -- Sauvegarde
+- [[brantham/knowledge/legal/plans-de-cession]] -- Plans de cession judiciaire
+- [[brantham/knowledge/legal/plans-de-continuation]] -- Plans de continuation
+- [[brantham/knowledge/legal/rang-des-creances]] -- Rang des creances
+- [[brantham/knowledge/legal/sanctions-dirigeants]] -- Sanctions et responsabilite des dirigeants
+- [[brantham/knowledge/legal/nullites-periode-suspecte]] -- Nullites de la periode suspecte
+- [[brantham/knowledge/legal/contrats-baux-en-procedure]] -- Sort des contrats et baux
+- [[brantham/knowledge/legal/droit-social-restructuration]] -- Droit social en restructuration
+- [[brantham/knowledge/process/due-diligence-distressed]] -- Due diligence distressed
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/procedures/lj-simplifiee]]
+- [[brantham/knowledge/sectors/tech-startups]]
+- [[brantham/knowledge/sectors/retail-commerce]]
+- [[brantham/knowledge/sectors/agriculture-agroalimentaire]]
+- [[brantham/knowledge/glossary/glossaire-distressed]]

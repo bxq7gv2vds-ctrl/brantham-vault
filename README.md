@@ -108,3 +108,10 @@ vault/
 - All content is markdown — readable without any tooling
 - QMD indexes and embeddings are local (`.qmd/` and `~/.cache/qmd/`) — not in the repo
 - Updates are pushed automatically by the vault owner
+
+## Related
+- [[brantham/agents/hunter/INDEX]]
+- [[brantham/agents/enricher/INDEX]]
+- [[brantham/agents/analyst/INDEX]]
+- [[brantham/agents/director/INDEX]]
+- [[brantham/agents/scout/INDEX]]

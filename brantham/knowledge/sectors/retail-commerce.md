@@ -63,9 +63,9 @@ Le bail commercial est souvent **le principal actif** d'un commerce en difficult
 
 | Situation | Regime applicable |
 |---|---|
-| **Ouverture [[redressement-judiciaire|RJ]]/[[sauvegarde|Sauvegarde]]** | Bail continue (L622-13). Loyers post-jugement = [[rang-des-creances|creance privilegiee]] (art. 40). |
+| **Ouverture [[brantham/knowledge/procedures/redressement-judiciaire|RJ]]/[[brantham/knowledge/procedures/sauvegarde|Sauvegarde]]** | Bail continue (L622-13). Loyers post-jugement = [[brantham/knowledge/legal/rang-des-creances|creance privilegiee]] (art. 40). |
 | **Option AJ** | AJ peut continuer ou resilier le bail. Bailleur peut demander resiliation si loyers impayes > 3 mois. |
-| **Cession dans plan de cession** | **L642-7** : le tribunal ordonne la [[plans-de-cession|cession]] du bail. Les clauses d'agrement, de preference et de solidarite sont **reputees non ecrites**. |
+| **Cession dans plan de cession** | **L642-7** : le tribunal ordonne la [[brantham/knowledge/legal/plans-de-cession|cession]] du bail. Les clauses d'agrement, de preference et de solidarite sont **reputees non ecrites**. |
 | **LJ** | Liquidateur peut ceder le droit au bail isolement ou avec le fonds. Clauses d'agrement du bailleur **s'appliquent** (sauf plan de cession). |
 
 **Point cle L642-7** : en plan de cession, le bail commercial est cede au repreneur **sans que le bailleur puisse s'y opposer**. Les clauses restrictives (agrement, preference, solidarite) sont purgees par le jugement. C'est un avantage majeur pour le repreneur.
@@ -81,7 +81,7 @@ Le bail commercial est souvent **le principal actif** d'un commerce en difficult
 
 - Retail = secteur a forte intensite de main-d'oeuvre (vendeurs, caissiers, logistique).
 - Convention collective du commerce de detail : preavis, primes, anciennete.
-- En [[plans-de-cession|plan de cession]] : le repreneur choisit les salaries repris (L642-5). Pas d'obligation de tous les reprendre.
+- En [[brantham/knowledge/legal/plans-de-cession|plan de cession]] : le repreneur choisit les salaries repris (L642-5). Pas d'obligation de tous les reprendre.
 - **Attention** : les salaries non repris = licenciement economique a la charge de l'AGS (pas du repreneur).
 
 ### E-commerce vs physique
@@ -214,16 +214,18 @@ Le bail commercial est souvent **le principal actif** d'un commerce en difficult
 
 ## Voir aussi
 
-- [[stats-defaillances-2025]] — Chiffres macro (commerce = 20% des defaillances)
-- [[cas-emblematiques-france]] — Camaieu, Go Sport, La Halle, San Marina
-- [[contrats-baux-en-procedure]] — Regime juridique des baux en procedure collective
-- [[plans-de-cession]] — Mecanisme de cession judiciaire (L642-7)
-- [[valorisation-distressed]] — Methodes de valorisation en distressed
-- [[due-diligence-distressed]] — Checklist DD pour le commerce
-- [[structuration-offres-reprise]] — Structurer une offre de reprise retail
-- [[droit-social-restructuration]] — Reprise des salaries et PSE
-- [[pi-actifs-incorporels-distressed]] — Valorisation des marques et PI
-- [[quick-scan-diagnostic]] — Diagnostic flash avant DD
+- [[brantham/knowledge/market/stats-defaillances-2025]] — Chiffres macro (commerce = 20% des defaillances)
+- [[brantham/knowledge/market/cas-emblematiques-france]] — Camaieu, Go Sport, La Halle, San Marina
+- [[brantham/knowledge/legal/contrats-baux-en-procedure]] — Regime juridique des baux en procedure collective
+- [[brantham/knowledge/legal/plans-de-cession]] — Mecanisme de cession judiciaire (L642-7)
+- [[brantham/knowledge/finance/valorisation-distressed]] — Methodes de valorisation en distressed
+- [[brantham/knowledge/process/due-diligence-distressed]] — Checklist DD pour le commerce
+- [[brantham/knowledge/process/structuration-offres-reprise]] — Structurer une offre de reprise retail
+- [[brantham/knowledge/legal/droit-social-restructuration]] — Reprise des salaries et PSE
+- [[brantham/knowledge/finance/pi-actifs-incorporels-distressed]] — Valorisation des marques et PI
+- [[brantham/knowledge/skills/quick-scan-diagnostic]] — Diagnostic flash avant DD
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/INDEX]]
+- [[brantham/knowledge/market/cas-casino-groupe]]

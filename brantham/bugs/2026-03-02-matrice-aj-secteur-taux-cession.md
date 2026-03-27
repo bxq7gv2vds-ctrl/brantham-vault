@@ -25,3 +25,7 @@ Always validate analytical columns with sanity checks (rates should be 0-1, coun
 - [[_system/MOC-bugs]]
 - [[brantham/_MOC]]
 - [[brantham/bugs/2026-03-02-analyse-regionale-unique-constraint]]
+- [[brantham/patterns/teaser-onepager-html-pdf]]
+- [[brantham/patterns/scoring-patterns]]
+- [[brantham/patterns/teaser-patterns]]
+- [[brantham/patterns/acheteur-mapping]]

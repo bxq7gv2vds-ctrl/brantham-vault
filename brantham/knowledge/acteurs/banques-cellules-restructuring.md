@@ -107,7 +107,7 @@ Direction des Engagements
 ### Contentieux (souvent rattache ou distinct)
 
 - Prend le relais quand la banque decide d'aller au conflit judiciaire
-- Gestion des procedures collectives ([[sauvegarde]], [[redressement-judiciaire|RJ]], [[liquidation-judiciaire|LJ]]) cote creancier
+- Gestion des procedures collectives ([[brantham/knowledge/procedures/sauvegarde]], [[brantham/knowledge/procedures/redressement-judiciaire|RJ]], [[brantham/knowledge/procedures/liquidation-judiciaire|LJ]]) cote creancier
 - Exercice des voies d'execution (saisies, realisations de suretes)
 - Selon les banques, le contentieux est **integre** aux Affaires Speciales ou constitue un **service distinct** avec des liens plus ou moins etroits
 
@@ -123,7 +123,7 @@ Direction des Engagements
 | **Covenant breach** | Rupture de ratio financier (leverage, DSCR, gearing) |
 | **Degradation de cotation BdF** | Passage en cote 5-, 6 ou inferieur (ancienne echelle : 5, 6, 7) |
 | **Incident de paiement BdF** | Incidents declares > 10% des achats TTC sur 6 mois, ou > 45.000 EUR |
-| **Procedure amiable** | Ouverture d'un [[mandat-ad-hoc-conciliation|mandat ad hoc ou d'une conciliation]] |
+| **Procedure amiable** | Ouverture d'un [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation|mandat ad hoc ou d'une conciliation]] |
 | **Procedure collective** | Ouverture sauvegarde, RJ ou LJ |
 | **Demande de restructuration** | L'entreprise demande un moratoire, un reechelonnement, ou un abandon |
 | **Alerte sectorielle** | Le secteur est juge a risque par la direction des risques |
@@ -248,8 +248,8 @@ Le passage de Stage 1 a Stage 2 multiplie la provision par **5 a 10x** (le perim
 | **Waiver** | Renonciation temporaire a l'exercice d'un droit (ex: covenant breach) | Breach technique, restructuration en cours |
 | **Reechelonnement** | Allongement de la duree du pret, reduction des echeances | Difficulte temporaire de tresorerie |
 | **Refinancement** | Nouveau pret pour rembourser l'ancien | Entreprise viable mais structure de dette inadaptee |
-| **Conversion dette/capital** | Transformation de creance en capital ([[restructuration-dette|debt-to-equity swap]]) | Restructuration profonde, bilan a assainir |
-| **Abandon partiel de creance** | Renonciation a une partie de la creance | [[plans-de-continuation|Plan de continuation]], conciliation, [[plans-de-cession|plan de cession]] |
+| **Conversion dette/capital** | Transformation de creance en capital ([[brantham/knowledge/finance/restructuration-dette|debt-to-equity swap]]) | Restructuration profonde, bilan a assainir |
+| **Abandon partiel de creance** | Renonciation a une partie de la creance | [[brantham/knowledge/legal/plans-de-continuation|Plan de continuation]], conciliation, [[brantham/knowledge/legal/plans-de-cession|plan de cession]] |
 | **Abandon total de creance** | Renonciation a la totalite | Creance juge irrecuperable, compromis dans un plan |
 | **Cession de creance** | Vente de la creance a un tiers (fonds, servicer) | Banque veut sortir du dossier, nettoyage de bilan |
 | **Provision et attente** | Provisionner a 100% et attendre le denouement | Procedure collective en cours, issue incertaine |
@@ -479,7 +479,7 @@ Avant de contacter une cellule restructuring, il faut comprendre ce que la banqu
 
 #### Phase 3 : Execution
 
-- **En [[plans-de-cession|plan de cession]]** : le repreneur propose un prix pour les actifs. Les dettes sont purgees par le jugement. La banque recupere ce que le plan prevoit (souvent 5-30% du nominal en chirographaire)
+- **En [[brantham/knowledge/legal/plans-de-cession|plan de cession]]** : le repreneur propose un prix pour les actifs. Les dettes sont purgees par le jugement. La banque recupere ce que le plan prevoit (souvent 5-30% du nominal en chirographaire)
 - **En conciliation** : le repreneur peut racheter la dette decotee aupres de la banque (ex: 30 cents/EUR), puis convertir en capital ou obtenir un abandon du solde dans le protocole
 - **Loan-to-own** : le repreneur rachete la creance senior a la banque, puis utilise sa position de creancier pour piloter la restructuration (DES, plan de continuation avec abandon)
 
@@ -525,15 +525,15 @@ Avant de contacter une cellule restructuring, il faut comprendre ce que la banqu
 
 ## Voir aussi
 
-- [[ecosysteme-restructuring]] — Cartographie complete des acteurs du restructuring
-- [[rang-des-creances]] — Ordre de priorite des creanciers en procedure collective
-- [[restructuration-dette]] — Mecanismes de restructuration de dette
-- [[mandat-ad-hoc-conciliation]] — Procedures amiables ou les banques negocient
-- [[negociation-crise]] — Techniques de negociation avec les creanciers bancaires
-- [[suretes-en-procedure-collective]] — Garanties bancaires en procedure
-- [[valorisation-distressed]] — Methodes de valorisation utilisees par les banques
-- [[assurance-credit]] — Role de l'assurance-credit dans le financement
-- [[glossaire-distressed]] — Definitions NPL, ECL, backstop, etc.
+- [[brantham/knowledge/acteurs/ecosysteme-restructuring]] — Cartographie complete des acteurs du restructuring
+- [[brantham/knowledge/legal/rang-des-creances]] — Ordre de priorite des creanciers en procedure collective
+- [[brantham/knowledge/finance/restructuration-dette]] — Mecanismes de restructuration de dette
+- [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation]] — Procedures amiables ou les banques negocient
+- [[brantham/knowledge/skills/negociation-crise]] — Techniques de negociation avec les creanciers bancaires
+- [[brantham/knowledge/legal/suretes-en-procedure-collective]] — Garanties bancaires en procedure
+- [[brantham/knowledge/finance/valorisation-distressed]] — Methodes de valorisation utilisees par les banques
+- [[brantham/knowledge/finance/assurance-credit]] — Role de l'assurance-credit dans le financement
+- [[brantham/knowledge/glossary/glossaire-distressed]] — Definitions NPL, ECL, backstop, etc.
 
 ## Related
 - [[brantham/_MOC]]

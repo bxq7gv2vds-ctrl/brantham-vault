@@ -128,7 +128,7 @@ Recherche de transactions comparables (cessions de marques dans le meme secteur)
 ### 3.3 Risques specifiques en distressed
 
 - **Non-paiement des annuites** : si l'entreprise en difficulte n'a pas paye les annuites INPI, le brevet est dechu. Verifier systematiquement l'etat des paiements
-- **Contrats de licence** : les licences de brevet sont des [[contrats-baux-en-procedure|contrats en cours]] (L622-13 C.com). L'AJ peut decider de les continuer ou non
+- **Contrats de licence** : les licences de brevet sont des [[brantham/knowledge/legal/contrats-baux-en-procedure|contrats en cours]] (L622-13 C.com). L'AJ peut decider de les continuer ou non
 - **Co-titularite** : si le brevet est co-detenu, le co-titulaire a un droit de preemption
 - **Employes inventeurs** : verifier que les inventions des salaries ont ete valablement cedes a l'employeur (L611-7 CPI) et que les remunerations supplementaires ont ete versees
 
@@ -140,7 +140,7 @@ Recherche de transactions comparables (cessions de marques dans le meme secteur)
 
 La cession de droits de propriete intellectuelle en procedure collective obeit a des regles specifiques.
 
-**En [[plans-de-cession|plan de cession]] (L642-1 et suivants C.com)** :
+**En [[brantham/knowledge/legal/plans-de-cession|plan de cession]] (L642-1 et suivants C.com)** :
 - Les droits de PI font partie du perimetre de cession s'ils sont necessaires a l'activite
 - Le tribunal arrete le plan de cession incluant les actifs de PI
 - Le transfert des marques et brevets doit etre inscrit a l'INPI pour etre opposable aux tiers
@@ -180,7 +180,7 @@ Les brevets europeens delivres par l'OEB sont en realite un faisceau de brevets 
 
 Le contrat de franchise est conclu intuitu personae : il est consenti en consideration de la personne du franchise. En cas de procedure collective du franchise :
 
-**L622-13 C.com** : l'AJ peut decider de la continuation des [[contrats-baux-en-procedure|contrats en cours]], y compris les contrats de franchise. Le franchiseur ne peut pas resilier du seul fait de l'ouverture de la procedure (L622-13 al. 2 : interdiction des clauses de resiliation automatique).
+**L622-13 C.com** : l'AJ peut decider de la continuation des [[brantham/knowledge/legal/contrats-baux-en-procedure|contrats en cours]], y compris les contrats de franchise. Le franchiseur ne peut pas resilier du seul fait de l'ouverture de la procedure (L622-13 al. 2 : interdiction des clauses de resiliation automatique).
 
 **Mais** : la cession du contrat de franchise dans le cadre d'un plan de cession est soumise a l'accord du franchiseur si le contrat comporte une clause d'agrement (ou si la cession implique un changement de franchise).
 
@@ -227,7 +227,7 @@ Le contrat de franchise est conclu intuitu personae : il est consenti en conside
 
 | Methode | Application |
 |---|---|
-| **Revenus** | DCF des revenus recurrents (ARR pour SaaS, licences pour on-premise, voir [[valorisation-distressed]]) |
+| **Revenus** | DCF des revenus recurrents (ARR pour SaaS, licences pour on-premise, voir [[brantham/knowledge/finance/valorisation-distressed]]) |
 | **Couts de remplacement** | Cout de re-developpement from scratch (methode COCOMO, story points, etc.) |
 | **Multiples** | ARR x 3-8 pour SaaS sain. En distressed : ARR x 1-3 avec decote churn. |
 | **Par utilisateur** | Nombre d'utilisateurs actifs x valeur par utilisateur (benchmark sectoriel) |
@@ -301,7 +301,7 @@ Les donnees clients (noms, emails, historique d'achat, preferences) ne sont pas 
 ### 9.1 CIR : enjeu en distressed
 
 Le CIR (Credit Impot Recherche) represente un actif financier significatif pour les entreprises innovantes :
-- 30% des depenses de R&D jusqu'a 100M EUR, 5% au-dela (voir [[fiscalite-restructuration]] pour le traitement en procedure)
+- 30% des depenses de R&D jusqu'a 100M EUR, 5% au-dela (voir [[brantham/knowledge/finance/fiscalite-restructuration]] pour le traitement en procedure)
 - CII (Credit Impot Innovation) : 30% des depenses d'innovation (PME, plafond 400 KEUR)
 - Remboursement immediat pour les PME et entreprises en procedure collective
 
@@ -395,14 +395,17 @@ Souvent 30 a 70% de la valeur totale de l'entreprise en going concern.
 
 ## Voir aussi
 
-- [[valorisation-distressed]] — Methodes de valorisation globale en distressed
-- [[due-diligence-distressed]] — Checklist PI dans la DD juridique
-- [[plans-de-cession]] — Cession de PI dans le cadre du plan de cession
-- [[contrats-baux-en-procedure]] — Sort des contrats de licence et franchise en procedure
-- [[post-closing-execution]] — Formalites INPI et transferts post-closing
-- [[fiscalite-restructuration]] — CIR, CII et traitement fiscal des actifs incorporels
-- [[nullites-periode-suspecte]] — Risques de nullite sur cessions PI en periode suspecte
-- [[structuration-offres-reprise]] — Integrer la PI dans le perimetre de l'offre
+- [[brantham/knowledge/finance/valorisation-distressed]] — Methodes de valorisation globale en distressed
+- [[brantham/knowledge/process/due-diligence-distressed]] — Checklist PI dans la DD juridique
+- [[brantham/knowledge/legal/plans-de-cession]] — Cession de PI dans le cadre du plan de cession
+- [[brantham/knowledge/legal/contrats-baux-en-procedure]] — Sort des contrats de licence et franchise en procedure
+- [[brantham/knowledge/process/post-closing-execution]] — Formalites INPI et transferts post-closing
+- [[brantham/knowledge/finance/fiscalite-restructuration]] — CIR, CII et traitement fiscal des actifs incorporels
+- [[brantham/knowledge/legal/nullites-periode-suspecte]] — Risques de nullite sur cessions PI en periode suspecte
+- [[brantham/knowledge/process/structuration-offres-reprise]] — Integrer la PI dans le perimetre de l'offre
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/tech-startups]]
+- [[brantham/knowledge/sectors/industrie-manufacturiere]]
+- [[brantham/knowledge/sectors/retail-commerce]]

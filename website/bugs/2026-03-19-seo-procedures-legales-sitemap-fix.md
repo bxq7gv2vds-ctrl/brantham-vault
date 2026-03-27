@@ -45,3 +45,4 @@ status: resolved
 - [[_system/MOC-bugs]]
 - [[website/_MOC]]
 - [[website/bugs/2026-03-19-seo-meta-titles-descriptions-fix]]
+- [[website/patterns/seo-subagent-audit-fix]]

@@ -173,7 +173,7 @@ C'est l'approche recommandee en distressed. Au lieu d'un seul scenario DCF, on c
 
 La waterfall analysis (analyse en cascade) determine comment la valeur d'une entreprise est distribuee entre les differentes classes de creanciers selon leur rang de priorite. C'est l'outil central du restructuring pour negocier les recoveries.
 
-### 2.2 [[rang-des-creances|Rang des creances]] en droit francais
+### 2.2 [[brantham/knowledge/legal/rang-des-creances|Rang des creances]] en droit francais
 
 En procedure collective francaise, l'ordre de priorite (simplifie) est :
 
@@ -1202,15 +1202,17 @@ Etape 5 : Execution
 
 ## Voir aussi
 
-- [[valorisation-distressed]] — Methodes de valorisation et multiples distressed
-- [[restructuration-dette]] — Techniques de restructuration et pricing de la dette
-- [[rang-des-creances]] — Ordre de priorite pour la waterfall analysis
-- [[due-diligence-distressed]] — Construction du 13-week cash flow en DD
-- [[comptabilite-crise]] — Comptes en procedure et valeur liquidative
-- [[quick-scan-diagnostic]] — Diagnostic rapide et scoring
-- [[turnaround-operationnel]] — Business plan de retournement et KPIs
-- [[structuration-offres-reprise]] — Determination du prix dans l'offre
-- [[glossaire-distressed]] — Terminologie M&A distressed
+- [[brantham/knowledge/finance/valorisation-distressed]] — Methodes de valorisation et multiples distressed
+- [[brantham/knowledge/finance/restructuration-dette]] — Techniques de restructuration et pricing de la dette
+- [[brantham/knowledge/legal/rang-des-creances]] — Ordre de priorite pour la waterfall analysis
+- [[brantham/knowledge/process/due-diligence-distressed]] — Construction du 13-week cash flow en DD
+- [[brantham/knowledge/finance/comptabilite-crise]] — Comptes en procedure et valeur liquidative
+- [[brantham/knowledge/skills/quick-scan-diagnostic]] — Diagnostic rapide et scoring
+- [[brantham/knowledge/process/turnaround-operationnel]] — Business plan de retournement et KPIs
+- [[brantham/knowledge/process/structuration-offres-reprise]] — Determination du prix dans l'offre
+- [[brantham/knowledge/glossary/glossaire-distressed]] — Terminologie M&A distressed
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/tech-startups]]
+- [[brantham/knowledge/sectors/industrie-manufacturiere]]

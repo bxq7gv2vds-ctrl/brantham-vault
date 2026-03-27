@@ -70,7 +70,7 @@ La licence IV (licence de debit de boissons) est un actif a part entiere, parfoi
 | **Rarete** | Stock ferme depuis 1941, nombre en diminution constante (environ 32 000 en France) |
 | **Valeur** | 5 000-20 000 EUR (province), 30 000-80 000 EUR (Paris/grandes villes) |
 | **Transfert** | Possible dans le meme departement. La loi revient a limiter le transfert au departement (fin de la possibilite inter-regionale). |
-| **En procedure collective** | La licence IV est un element du fonds de commerce. Elle est cedee avec le fonds dans un [[plans-de-cession|plan de cession]]. |
+| **En procedure collective** | La licence IV est un element du fonds de commerce. Elle est cedee avec le fonds dans un [[brantham/knowledge/legal/plans-de-cession|plan de cession]]. |
 | **Mutation** | Le repreneur doit declarer la mutation en mairie (formulaire Cerfa) dans les 15 jours. |
 | **Peremption** | Licence non exploitee > 5 ans = perimee. Verifier si la licence est toujours active. |
 
@@ -180,7 +180,7 @@ Le fonds de commerce en CHR comprend :
 
 | Entreprise | Annee | Procedure | Issue | Enseignement |
 |---|---|---|---|---|
-| **[[cas-emblematiques-france|Courtepaille]]** | 2020 | RJ | Reprise par Napaquaro (Buffalo Grill) | Reseau = valeur, 180 restaurants |
+| **[[brantham/knowledge/market/cas-emblematiques-france|Courtepaille]]** | 2020 | RJ | Reprise par Napaquaro (Buffalo Grill) | Reseau = valeur, 180 restaurants |
 | **Flunch** | 2023 | RJ | Reprise partielle, 55 restaurants fermes | Restauration collective en mutation |
 | **Hippopotamus** (Groupe Bertrand) | 2024 | Restructuration | Fermeture progressive | Concept fatigue, immobilier > marque |
 | **Potel & Chabot** | 2024 | RJ | Reprise | Traiteur haut de gamme, clientele captive |
@@ -246,15 +246,16 @@ Le fonds de commerce en CHR comprend :
 
 ## Voir aussi
 
-- [[stats-defaillances-2025]] — Contexte macro (+187% vs 2019 pour le CHR)
-- [[cas-emblematiques-france]] — Courtepaille, Flunch, Hippopotamus
-- [[contrats-baux-en-procedure]] — Regime du bail commercial 3/6/9 en procedure
-- [[valorisation-distressed]] — Multiples EBE et valorisation CHR
-- [[due-diligence-distressed]] — Checklist DD restauration/hotellerie
-- [[plans-de-cession]] — Cession du fonds de commerce et licence IV
-- [[droit-social-restructuration]] — Convention collective CHR et reprise
-- [[quick-scan-diagnostic]] — Diagnostic flash avant DD
-- [[structuration-offres-reprise]] — Structurer une offre multi-sites
+- [[brantham/knowledge/market/stats-defaillances-2025]] — Contexte macro (+187% vs 2019 pour le CHR)
+- [[brantham/knowledge/market/cas-emblematiques-france]] — Courtepaille, Flunch, Hippopotamus
+- [[brantham/knowledge/legal/contrats-baux-en-procedure]] — Regime du bail commercial 3/6/9 en procedure
+- [[brantham/knowledge/finance/valorisation-distressed]] — Multiples EBE et valorisation CHR
+- [[brantham/knowledge/process/due-diligence-distressed]] — Checklist DD restauration/hotellerie
+- [[brantham/knowledge/legal/plans-de-cession]] — Cession du fonds de commerce et licence IV
+- [[brantham/knowledge/legal/droit-social-restructuration]] — Convention collective CHR et reprise
+- [[brantham/knowledge/skills/quick-scan-diagnostic]] — Diagnostic flash avant DD
+- [[brantham/knowledge/process/structuration-offres-reprise]] — Structurer une offre multi-sites
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/INDEX]]

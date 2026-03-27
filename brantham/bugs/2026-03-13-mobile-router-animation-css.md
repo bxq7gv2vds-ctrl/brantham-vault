@@ -41,3 +41,6 @@ The `mobFadeIn` animation overrides `display: none` from `.page { display: none;
 - The `handleRoute` wrapper for EXTENDED_PAGES also has issues with routing delegation
 - See audit report: `swarm/tracks/2026-03-13-001/reports/T01.md`
 - Related: [[brantham/dashboard/_MOC]]
+- [[website/patterns/geo-ai-content-optimization]]
+- [[website/decisions/2026-03-13-geo-strategy-ai-visibility]]
+- [[website/sessions/2026-03-13]]

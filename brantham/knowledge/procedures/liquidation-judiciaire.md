@@ -24,10 +24,10 @@ La liquidation judiciaire est regie par les articles **L640-1 a L644-6** du Code
 
 **Article L640-1** : *"Il est institue une procedure de liquidation judiciaire ouverte a tout debiteur mentionne a l'article L640-2 en cessation des paiements et dont le redressement est manifestement impossible."*
 
-La liquidation judiciaire peut egalement etre ouverte a la demande du debiteur qui est en cessation des paiements et qui ne demande pas l'ouverture d'une procedure de [[redressement-judiciaire|redressement judiciaire]].
+La liquidation judiciaire peut egalement etre ouverte a la demande du debiteur qui est en cessation des paiements et qui ne demande pas l'ouverture d'une procedure de [[brantham/knowledge/procedures/redressement-judiciaire|redressement judiciaire]].
 
 **Fondements** :
-- Loi n. 2005-845 du 26 juillet 2005 (loi de [[sauvegarde|sauvegarde]] des entreprises) -- refonte du Livre VI
+- Loi n. 2005-845 du 26 juillet 2005 (loi de [[brantham/knowledge/procedures/sauvegarde|sauvegarde]] des entreprises) -- refonte du Livre VI
 - Ordonnance n. 2008-1345 du 18 decembre 2008 -- reformes de simplification
 - Ordonnance n. 2014-326 du 12 mars 2014 -- reforme des procedures collectives
 - Ordonnance n. 2021-1193 du 15 septembre 2021 -- transposition directive (UE) 2019/1023 sur la restructuration et l'insolvabilite
@@ -48,14 +48,14 @@ Deux elements cumulatifs :
 1. **Passif exigible** : dettes certaines, liquides et exigibles (echues et non contestees serieusement). Inclut les dettes fiscales, sociales, fournisseurs, bancaires. Exclut les dettes a terme non echues et les dettes contestees.
 2. **Actif disponible** : liquidites immediates (caisse, banque, VMP facilement cessibles, credit mobilisable immediatement). Exclut les immobilisations, stocks (sauf s'ils sont immediatement liquidables), creances clients non echues.
 
-**Date de cessation des paiements** : le tribunal la fixe dans le jugement d'ouverture. Elle ne peut remonter a plus de **18 mois** avant le jugement (art. L631-8). Cette date est cruciale car elle determine la [[nullites-periode-suspecte|periode suspecte]] pendant laquelle certains actes sont nuls de plein droit ou annulables (art. L632-1 et L632-2).
+**Date de cessation des paiements** : le tribunal la fixe dans le jugement d'ouverture. Elle ne peut remonter a plus de **18 mois** avant le jugement (art. L631-8). Cette date est cruciale car elle determine la [[brantham/knowledge/legal/nullites-periode-suspecte|periode suspecte]] pendant laquelle certains actes sont nuls de plein droit ou annulables (art. L632-1 et L632-2).
 
-**Obligation de declaration** : le debiteur doit declarer la CDP dans les **45 jours** suivant sa survenance (art. L631-4), sauf s'il a demande l'ouverture d'une [[mandat-ad-hoc-conciliation|conciliation]] dans ce delai. Le non-respect expose le dirigeant a une interdiction de gerer (jusqu'a 15 ans, art. L653-8).
+**Obligation de declaration** : le debiteur doit declarer la CDP dans les **45 jours** suivant sa survenance (art. L631-4), sauf s'il a demande l'ouverture d'une [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation|conciliation]] dans ce delai. Le non-respect expose le dirigeant a une interdiction de gerer (jusqu'a 15 ans, art. L653-8).
 
 ### 2.2 Redressement manifestement impossible
 
 C'est la condition specifique a la LJ par rapport au RJ. Le tribunal doit constater que :
-- L'entreprise ne peut pas etre redresse par un [[plans-de-continuation|plan de continuation]]
+- L'entreprise ne peut pas etre redresse par un [[brantham/knowledge/legal/plans-de-continuation|plan de continuation]]
 - La poursuite d'activite n'est pas viable economiquement
 - Les moyens financiers, humains et techniques sont insuffisants
 
@@ -141,7 +141,7 @@ Concretement :
 ### 4.2 Exceptions au dessaisissement
 
 **Article L641-9 I al. 2 et suivants** : le debiteur conserve :
-- Les **droits propres** (action en contestation de creance, voies de recours contre le jugement d'ouverture, droit de proposer un [[plans-de-cession|plan de cession]], droit d'etre entendu)
+- Les **droits propres** (action en contestation de creance, voies de recours contre le jugement d'ouverture, droit de proposer un [[brantham/knowledge/legal/plans-de-cession|plan de cession]], droit d'etre entendu)
 - Les **droits extrapatrimoniaux** (actions en divorce, filiation, etc.)
 - Le droit d'exercer une **activite salariee** (mais les revenus tombent dans la masse)
 
@@ -185,7 +185,7 @@ Concretement :
 Pendant le maintien d'activite :
 - Le **liquidateur** gere l'entreprise (il remplace le dirigeant dessaisi)
 - Un **administrateur judiciaire** peut etre designe pour assister le liquidateur (art. L641-10 II) -- obligatoire si l'entreprise emploie plus de 20 salaries et realise un CA > 3 M EUR HT
-- Les [[contrats-baux-en-procedure|contrats en cours]] necessaires a la poursuite d'activite continuent
+- Les [[brantham/knowledge/legal/contrats-baux-en-procedure|contrats en cours]] necessaires a la poursuite d'activite continuent
 - Les creances nees pendant le maintien sont des creances **privilegiees** (art. L641-13)
 - Les licenciements peuvent intervenir selon les regles du droit du travail
 
@@ -239,7 +239,7 @@ L'ordre de paiement en LJ suit une hierarchie stricte :
 
 ### 6.5 AGS (Assurance Garantie des Salaires)
 
-[[rang-des-creances|L'AGS]] (art. L3253-6 et s. C. travail) avance les creances salariales dans les limites de plafonds legaux (environ 82 272 EUR en 2026 pour le plafond 13, soit 6 x plafond mensuel Securite sociale). Le liquidateur doit saisir l'AGS dans les **10 jours** du jugement pour les creances exigibles.
+[[brantham/knowledge/legal/rang-des-creances|L'AGS]] (art. L3253-6 et s. C. travail) avance les creances salariales dans les limites de plafonds legaux (environ 82 272 EUR en 2026 pour le plafond 13, soit 6 x plafond mensuel Securite sociale). Le liquidateur doit saisir l'AGS dans les **10 jours** du jugement pour les creances exigibles.
 
 ---
 
@@ -353,7 +353,7 @@ Le tribunal peut etre saisi par :
 ### 8.3 Consequences de la cloture
 
 **Pour le debiteur personne physique** (art. L643-11) :
-- La cloture pour [[sanctions-dirigeants|insuffisance d'actif]] **ne fait pas recouvrer** aux creanciers l'exercice individuel de leurs actions (principe de non-reprise des poursuites)
+- La cloture pour [[brantham/knowledge/legal/sanctions-dirigeants|insuffisance d'actif]] **ne fait pas recouvrer** aux creanciers l'exercice individuel de leurs actions (principe de non-reprise des poursuites)
 - **Exceptions** : les creanciers retrouvent leur droit de poursuite en cas de :
   - Fraude du debiteur
   - Condamnation pour banqueroute
@@ -368,7 +368,7 @@ Le tribunal peut etre saisi par :
 
 ### 8.4 Delais de cloture
 
-**[[lj-simplifiee|Liquidation judiciaire simplifiee]]** (art. L644-1 a L644-6) :
+**[[brantham/knowledge/procedures/lj-simplifiee|Liquidation judiciaire simplifiee]]** (art. L644-1 a L644-6) :
 - Applicable si pas de bien immobilier et seuils respectes (CA < 750 000 EUR et < 5 salaries, ou CA < 300 000 EUR et < 1 salarie)
 - Cloture dans un delai de **6 mois** (1 an si > 1 salarie et CA > 300 000 EUR)
 - Prolongation de 3 mois possible
@@ -564,9 +564,9 @@ La LJ est le **terrain de chasse principal** de Brantham Partners pour l'acquisi
 
 ### 14.4 Points de vigilance pour le repreneur
 
-1. **[[due-diligence-distressed|Due diligence]] acceleree** : peu de temps, information souvent incomplete. Privilegier les donnees du liquidateur et du bilan economique et social.
+1. **[[brantham/knowledge/process/due-diligence-distressed|Due diligence]] acceleree** : peu de temps, information souvent incomplete. Privilegier les donnees du liquidateur et du bilan economique et social.
 2. **Etat des actifs** : degradation rapide en LJ (pas de maintenance, salaries partis). Visite physique indispensable.
-3. **[[passif-environnemental|Passif environnemental]]** : la jurisprudence est fluctuante sur le transfert du passif environnemental au cessionnaire. Risque a evaluer au cas par cas.
+3. **[[brantham/knowledge/legal/passif-environnemental|Passif environnemental]]** : la jurisprudence est fluctuante sur le transfert du passif environnemental au cessionnaire. Risque a evaluer au cas par cas.
 4. **Contrats de travail** : les salaries repris dans le plan de cession sont transferes avec leurs droits acquis. Impossibilite de selectionner individuellement (mais le tribunal fixe le nombre par categorie).
 5. **Bail commercial** : le tribunal peut ordonner le transfert du bail au cessionnaire (art. L642-7), meme contre la volonte du bailleur. Verifier l'etat des lieux et les arrieres de loyer.
 6. **Garanties financieres** : le tribunal exige des garanties credibles (caution bancaire, fonds propres du repreneur, business plan solide).
@@ -583,16 +583,21 @@ La LJ est le **terrain de chasse principal** de Brantham Partners pour l'acquisi
 
 ## Voir aussi
 
-- [[redressement-judiciaire]] -- Redressement judiciaire
-- [[sauvegarde]] -- Sauvegarde
-- [[lj-simplifiee]] -- Liquidation judiciaire simplifiee
-- [[plans-de-cession]] -- Plans de cession judiciaire
-- [[rang-des-creances]] -- Rang des creances
-- [[sanctions-dirigeants]] -- Sanctions et responsabilite des dirigeants
-- [[nullites-periode-suspecte]] -- Nullites de la periode suspecte
-- [[contrats-baux-en-procedure]] -- Sort des contrats et baux
-- [[due-diligence-distressed]] -- Due diligence distressed
-- [[passif-environnemental]] -- Passif environnemental
+- [[brantham/knowledge/procedures/redressement-judiciaire]] -- Redressement judiciaire
+- [[brantham/knowledge/procedures/sauvegarde]] -- Sauvegarde
+- [[brantham/knowledge/procedures/lj-simplifiee]] -- Liquidation judiciaire simplifiee
+- [[brantham/knowledge/legal/plans-de-cession]] -- Plans de cession judiciaire
+- [[brantham/knowledge/legal/rang-des-creances]] -- Rang des creances
+- [[brantham/knowledge/legal/sanctions-dirigeants]] -- Sanctions et responsabilite des dirigeants
+- [[brantham/knowledge/legal/nullites-periode-suspecte]] -- Nullites de la periode suspecte
+- [[brantham/knowledge/legal/contrats-baux-en-procedure]] -- Sort des contrats et baux
+- [[brantham/knowledge/process/due-diligence-distressed]] -- Due diligence distressed
+- [[brantham/knowledge/legal/passif-environnemental]] -- Passif environnemental
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa]]
+- [[brantham/knowledge/sectors/tech-startups]]
+- [[brantham/knowledge/sectors/agriculture-agroalimentaire]]
+- [[brantham/knowledge/glossary/glossaire-distressed]]
+- [[brantham/knowledge/finance/fiscalite-restructuration]]

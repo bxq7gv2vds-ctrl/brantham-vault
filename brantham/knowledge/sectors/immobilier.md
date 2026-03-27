@@ -108,10 +108,10 @@ La VEFA est le mode de vente dominant dans la promotion immobiliere neuve. En ca
 |---|---|---|
 | **Hypotheque conventionnelle** | Surete reelle sur l'immeuble | Le creancier hypothecaire est privilegie. En LJ, il est paye en priorite sur le prix de vente de l'immeuble. |
 | **Privilege de preteur de deniers (PPD)** | Surete du preteur immobilier | Prime l'hypotheque. Moins cher a constituer. |
-| **Hypotheque judiciaire** | Prononcee par un juge | Peut etre inscrite meme en periode suspecte (attention [[nullites-periode-suspecte|nullites]] L632-1). |
+| **Hypotheque judiciaire** | Prononcee par un juge | Peut etre inscrite meme en periode suspecte (attention [[brantham/knowledge/legal/nullites-periode-suspecte|nullites]] L632-1). |
 | **Hypotheque legale du Tresor** | Privilegies fiscales | Le fisc a un super-privilege sur les immeubles. |
 
-**En [[plans-de-cession|plan de cession]]** : l'article L642-12 dispose que le jugement de cession **purge les [[suretes-en-procedure-collective|suretes]]** grevant les actifs cedes. Le repreneur acquiert l'immeuble libre de toute hypotheque. Le prix de cession est reparti entre les creanciers selon leur [[rang-des-creances|rang]].
+**En [[brantham/knowledge/legal/plans-de-cession|plan de cession]]** : l'article L642-12 dispose que le jugement de cession **purge les [[brantham/knowledge/legal/suretes-en-procedure-collective|suretes]]** grevant les actifs cedes. Le repreneur acquiert l'immeuble libre de toute hypotheque. Le prix de cession est reparti entre les creanciers selon leur [[brantham/knowledge/legal/rang-des-creances|rang]].
 
 ### DPE et passoires energetiques
 
@@ -244,15 +244,16 @@ La VEFA est le mode de vente dominant dans la promotion immobiliere neuve. En ca
 
 ## Voir aussi
 
-- [[btp-construction]] — Playbook sectoriel BTP (promoteurs et constructeurs)
-- [[stats-defaillances-2025]] — Contexte macro (+29% defaillances immobilier)
-- [[suretes-en-procedure-collective]] — Hypotheques et privileges en procedure
-- [[rang-des-creances]] — Ordre de priorite des creanciers hypothecaires
-- [[nullites-periode-suspecte]] — Nullites des hypotheques en periode suspecte
-- [[valorisation-distressed]] — Methodes de valorisation immobiliere distressed
-- [[passif-environnemental]] — Diagnostic sols et pollution
-- [[due-diligence-distressed]] — Checklist DD immobiliere
-- [[fiscalite-restructuration]] — TVA immobiliere et droits de mutation
+- [[brantham/knowledge/sectors/btp-construction]] — Playbook sectoriel BTP (promoteurs et constructeurs)
+- [[brantham/knowledge/market/stats-defaillances-2025]] — Contexte macro (+29% defaillances immobilier)
+- [[brantham/knowledge/legal/suretes-en-procedure-collective]] — Hypotheques et privileges en procedure
+- [[brantham/knowledge/legal/rang-des-creances]] — Ordre de priorite des creanciers hypothecaires
+- [[brantham/knowledge/legal/nullites-periode-suspecte]] — Nullites des hypotheques en periode suspecte
+- [[brantham/knowledge/finance/valorisation-distressed]] — Methodes de valorisation immobiliere distressed
+- [[brantham/knowledge/legal/passif-environnemental]] — Diagnostic sols et pollution
+- [[brantham/knowledge/process/due-diligence-distressed]] — Checklist DD immobiliere
+- [[brantham/knowledge/finance/fiscalite-restructuration]] — TVA immobiliere et droits de mutation
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/INDEX]]

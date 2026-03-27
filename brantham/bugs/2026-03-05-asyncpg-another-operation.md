@@ -27,3 +27,5 @@ See [[patterns/asyncpg-connection-pool]] for the reusable pattern.
 - [[_system/MOC-bugs]]
 - [[brantham/_MOC]]
 - [[patterns/asyncpg-connection-pool]]
+- [[patterns/prefect-pipeline]]
+- [[brantham/patterns/teaser-onepager-html-pdf]]

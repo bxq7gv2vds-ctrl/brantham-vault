@@ -44,7 +44,7 @@ Le jugement arretant le plan de cession (art. L642-1 et suivants C. com.) produi
 
 **Principe fondamental** : le cessionnaire acquiert les actifs libres de toute charge.
 
-- Le paiement du prix de cession fait obstacle a l'exercice, a l'encontre du cessionnaire, des droits des creanciers inscrits sur les biens cedes (voir [[rang-des-creances]] et [[suretes-en-procedure-collective]]).
+- Le paiement du prix de cession fait obstacle a l'exercice, a l'encontre du cessionnaire, des droits des creanciers inscrits sur les biens cedes (voir [[brantham/knowledge/legal/rang-des-creances]] et [[brantham/knowledge/legal/suretes-en-procedure-collective]]).
 - La purge des biens transmis de leurs inscriptions est entrainee par le **paiement integral** du prix de cession.
 - Les suretes reelles (hypotheques, nantissements, gages, privileges speciaux) sont purgees par le paiement du prix.
 
@@ -68,7 +68,7 @@ Le jugement arretant le plan de cession (art. L642-1 et suivants C. com.) produi
 
 - **Principe de non-transmission des dettes** : le cessionnaire n'est pas tenu au passif du debiteur. Il acquiert des actifs, pas un passif.
 - Les dettes du debiteur restent a la charge de la procedure collective (liquidation judiciaire en cours).
-- **Exceptions** : [[suretes-en-procedure-collective|suretes speciales]] transferees (L642-12 al. 4), dettes environnementales ([[passif-environnemental|responsabilite ICPE]] attachee a la qualite d'exploitant), dettes sociales liees aux salaries repris (salaires courants post-transfert).
+- **Exceptions** : [[brantham/knowledge/legal/suretes-en-procedure-collective|suretes speciales]] transferees (L642-12 al. 4), dettes environnementales ([[brantham/knowledge/legal/passif-environnemental|responsabilite ICPE]] attachee a la qualite d'exploitant), dettes sociales liees aux salaries repris (salaires courants post-transfert).
 
 ---
 
@@ -104,7 +104,7 @@ Le jugement arretant le plan de cession (art. L642-1 et suivants C. com.) produi
 
 ### 3.1 Transfert automatique (art. L1224-1 Code du travail)
 
-- Lors d'une cession d'entreprise, tous les [[droit-social-restructuration|contrats de travail]] en cours au jour de la modification **subsistent entre le nouvel employeur et le personnel**.
+- Lors d'une cession d'entreprise, tous les [[brantham/knowledge/legal/droit-social-restructuration|contrats de travail]] en cours au jour de la modification **subsistent entre le nouvel employeur et le personnel**.
 - Tous les types de contrats sont concernes : CDI, CDD, apprentissage, contrats aides. Meme les contrats suspendus (maladie, conge maternite) se transferent automatiquement.
 - L'anciennete des salaries est preservee integralement, tout comme les avantages acquis (conges payes, primes, clauses particulieres).
 
@@ -372,7 +372,7 @@ La resolution du plan peut etre prononcee pour :
 - [ ] Publicites foncieres et INPI pour les transferts de propriete
 - [ ] Purge des inscriptions si prix integralement paye
 - [ ] Premiere revue strategique : business plan vs realite
-- [ ] Preparation du plan d'integration a moyen terme (voir [[integration-post-acquisition]])
+- [ ] Preparation du plan d'integration a moyen terme (voir [[brantham/knowledge/process/integration-post-acquisition]])
 
 ---
 
@@ -399,16 +399,21 @@ La resolution du plan peut etre prononcee pour :
 
 ## Voir aussi
 
-- [[due-diligence-distressed]] — Due diligence pre-offre
-- [[structuration-offres-reprise]] — Redaction de l'offre de reprise
-- [[audience-tribunal]] — Audience de cession au tribunal
-- [[integration-post-acquisition]] — Plan 100 jours post-acquisition
-- [[encheres-surencheres]] — Encheres et surencheres en procedure
-- [[plans-de-cession]] — Cadre legal du plan de cession
-- [[rang-des-creances]] — Purge des suretes et ordre des creanciers
-- [[passif-environnemental]] — Obligations environnementales du repreneur
-- [[droit-social-restructuration]] — Transfert des salaries et obligations sociales
-- [[turnaround-operationnel]] — Retournement operationnel post-reprise
+- [[brantham/knowledge/process/due-diligence-distressed]] — Due diligence pre-offre
+- [[brantham/knowledge/process/structuration-offres-reprise]] — Redaction de l'offre de reprise
+- [[brantham/knowledge/process/audience-tribunal]] — Audience de cession au tribunal
+- [[brantham/knowledge/process/integration-post-acquisition]] — Plan 100 jours post-acquisition
+- [[brantham/knowledge/process/encheres-surencheres]] — Encheres et surencheres en procedure
+- [[brantham/knowledge/legal/plans-de-cession]] — Cadre legal du plan de cession
+- [[brantham/knowledge/legal/rang-des-creances]] — Purge des suretes et ordre des creanciers
+- [[brantham/knowledge/legal/passif-environnemental]] — Obligations environnementales du repreneur
+- [[brantham/knowledge/legal/droit-social-restructuration]] — Transfert des salaries et obligations sociales
+- [[brantham/knowledge/process/turnaround-operationnel]] — Retournement operationnel post-reprise
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/context/process-end-to-end]]
+- [[brantham/knowledge/glossary/glossaire-distressed]]
+- [[brantham/knowledge/finance/pi-actifs-incorporels-distressed]]
+- [[brantham/knowledge/finance/assurances-ma-distressed]]
+- [[brantham/knowledge/skills/communication-parties-prenantes]]

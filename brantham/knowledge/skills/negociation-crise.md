@@ -21,7 +21,7 @@ La negociation en contexte de restructuration est fondamentalement differente d'
 - Les creanciers ont une vision fragmentee (chacun connait sa creance, pas le tableau global)
 
 ### Urgence temporelle
-- Delais judiciaires imposes : periode d'observation limitee (6+6+6 mois max en [[redressement-judiciaire|RJ]])
+- Delais judiciaires imposes : periode d'observation limitee (6+6+6 mois max en [[brantham/knowledge/procedures/redressement-judiciaire|RJ]])
 - Tresorerie qui fond : chaque semaine de retard reduit la valeur de l'entreprise
 - "Wasting assets" : les actifs (stock, carnet de commandes, savoir-faire) se degradent rapidement
 - Pression du tribunal pour une solution rapide
@@ -57,7 +57,7 @@ La negociation en contexte de restructuration est fondamentalement differente d'
 ### BATNA en distressed
 Le BATNA (Best Alternative To a Negotiated Agreement) est critique en distressed car les alternatives sont souvent terribles pour toutes les parties :
 - **BATNA du repreneur** : ne pas reprendre, chercher une autre cible. C'est le plus fort.
-- **BATNA du debiteur** : [[liquidation-judiciaire|liquidation judiciaire]], destruction de valeur totale.
+- **BATNA du debiteur** : [[brantham/knowledge/procedures/liquidation-judiciaire|liquidation judiciaire]], destruction de valeur totale.
 - **BATNA des creanciers** : liquidation = dividend quasi nul (souvent < 5%).
 - **BATNA des salaries** : chomage.
 
@@ -112,7 +112,7 @@ Le BATNA (Best Alternative To a Negotiated Agreement) est critique en distressed
 
 ### Conversion en equity
 - Outil puissant mais rare en PME : les creanciers deviennent actionnaires
-- Depuis la reforme 2021 (transposition [[droit-europeen-insolvabilite|directive EU]]) : les classes de parties affectees permettent d'imposer une conversion a certaines conditions (cross-class cram-down)
+- Depuis la reforme 2021 (transposition [[brantham/knowledge/legal/droit-europeen-insolvabilite|directive EU]]) : les classes de parties affectees permettent d'imposer une conversion a certaines conditions (cross-class cram-down)
 - Utile avec les banques qui ont deja une exposition importante et prefere un upside equity qu'une perte seche
 
 ### Tactiques de negociation avec les creanciers
@@ -233,7 +233,7 @@ Le BATNA (Best Alternative To a Negotiated Agreement) est critique en distressed
 - Periode d'observation = temps pour le repreneur de bien preparer
 - Le dirigeant est encore en poste : negocier avec lui en parallele de l'AJ
 
-### Deals amiables ([[mandat-ad-hoc-conciliation|mandat ad hoc / conciliation]])
+### Deals amiables ([[brantham/knowledge/procedures/mandat-ad-hoc-conciliation|mandat ad hoc / conciliation]])
 - Negociation directe avec le dirigeant et les creanciers
 - Plus de flexibilite sur le prix et les conditions
 - Confidentialite = avantage majeur (pas de publicite de la procedure)
@@ -247,16 +247,19 @@ Le BATNA (Best Alternative To a Negotiated Agreement) est critique en distressed
 
 ## Voir aussi
 
-- [[communication-parties-prenantes]] — Communication avec les parties prenantes en crise
-- [[structuration-offres-reprise]] — Structurer et chiffrer une offre de reprise
-- [[encheres-surencheres]] — Gestion des surencheres et offres concurrentes
-- [[audience-tribunal]] — Presentation de l'offre devant le tribunal
-- [[ecosysteme-restructuring]] — AJ, MJ, fonds et avocats a connaitre
-- [[plans-de-cession]] — Cadre juridique de la cession (L642-2)
-- [[ethique-repreneur]] — Principes ethiques dans la negociation
-- [[banques-cellules-restructuring]] — Negocier avec les cellules bancaires
-- [[rang-des-creances]] — Comprendre les interets de chaque creancier
-- [[valorisation-distressed]] — Benchmarks de prix en distressed
+- [[brantham/knowledge/skills/communication-parties-prenantes]] — Communication avec les parties prenantes en crise
+- [[brantham/knowledge/process/structuration-offres-reprise]] — Structurer et chiffrer une offre de reprise
+- [[brantham/knowledge/process/encheres-surencheres]] — Gestion des surencheres et offres concurrentes
+- [[brantham/knowledge/process/audience-tribunal]] — Presentation de l'offre devant le tribunal
+- [[brantham/knowledge/acteurs/ecosysteme-restructuring]] — AJ, MJ, fonds et avocats a connaitre
+- [[brantham/knowledge/legal/plans-de-cession]] — Cadre juridique de la cession (L642-2)
+- [[brantham/knowledge/skills/ethique-repreneur]] — Principes ethiques dans la negociation
+- [[brantham/knowledge/acteurs/banques-cellules-restructuring]] — Negocier avec les cellules bancaires
+- [[brantham/knowledge/legal/rang-des-creances]] — Comprendre les interets de chaque creancier
+- [[brantham/knowledge/finance/valorisation-distressed]] — Benchmarks de prix en distressed
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/glossary/glossaire-distressed]]
+- [[brantham/knowledge/skills/quick-scan-diagnostic]]
+- [[brantham/knowledge/process/turnaround-operationnel]]

@@ -23,3 +23,4 @@ Add `await` to sendCommand() calls.
 - [[brantham/_MOC]]
 - [[brantham/bugs/2026-03-06-agent-auth-401]]
 - [[brantham/bugs/2026-03-06-handoff-raw-wrapper]]
+- [[patterns/agent-orchestration]]

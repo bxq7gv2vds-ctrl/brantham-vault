@@ -34,3 +34,6 @@ tags: [dns, email, google-workspace, dkim, mx]
 ## Related
 - [[brantham/_MOC]]
 - [[remember/2026-03-20]]
+- [[twitter/2026-03-20-2]]
+- [[twitter/2026-03-20]]
+- [[founder/daily/2026-03-20]]

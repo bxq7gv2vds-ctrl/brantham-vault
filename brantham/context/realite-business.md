@@ -183,3 +183,6 @@ On accompagne des **repreneurs** (notre client) dans l'acquisition d'entreprises
 - [[brantham/context/process-end-to-end]] — Process complet de A a Z
 - [[brantham/context/roles-et-responsabilites]] — Qui fait quoi
 - [[brantham/_MOC]] — Index technique du projet
+
+## Related
+- [[brantham/COWORK-PROMPT]]

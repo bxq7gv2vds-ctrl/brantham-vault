@@ -46,3 +46,4 @@ Le fix doit etre deploye sur le site live pour prendre effet.
 - [[website/competitor-analysis/2026-03-17-deep-content-analysis]]
 - [[brantham/sessions/2026-03-17]]
 - [[brantham/analyses/2026-03-17-competitor-content-analysis]]
+- [[website/patterns/seo-subagent-audit-fix]]

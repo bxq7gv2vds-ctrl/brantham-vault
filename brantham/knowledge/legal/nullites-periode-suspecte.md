@@ -22,21 +22,21 @@ sources:
 
 # Nullites de la Periode Suspecte
 
-> Fiche de reference pour la [[due-diligence-distressed|due diligence]] M&A distressed -- Brantham Partners.
+> Fiche de reference pour la [[brantham/knowledge/process/due-diligence-distressed|due diligence]] M&A distressed -- Brantham Partners.
 > Articles L632-1 a L632-4 du Code de Commerce.
 
 ---
 
 ## 1. Definition de la Periode Suspecte
 
-La **periode suspecte** est l'intervalle entre la **date de cessation des paiements** (fixee par le tribunal) et le **jugement d'ouverture** de la procedure collective ([[redressement-judiciaire|redressement judiciaire]] ou [[liquidation-judiciaire|liquidation judiciaire]]).
+La **periode suspecte** est l'intervalle entre la **date de cessation des paiements** (fixee par le tribunal) et le **jugement d'ouverture** de la procedure collective ([[brantham/knowledge/procedures/redressement-judiciaire|redressement judiciaire]] ou [[brantham/knowledge/procedures/liquidation-judiciaire|liquidation judiciaire]]).
 
 **Objectif** : permettre l'annulation retroactive des actes qui ont disperse l'actif du debiteur ou rompu l'egalite entre creanciers avant l'ouverture de la procedure.
 
 ### Champ d'application
 
 - **S'applique** : redressement judiciaire, liquidation judiciaire.
-- **Ne s'applique PAS** : procedure de [[sauvegarde|sauvegarde]] (pas de cessation des paiements par definition).
+- **Ne s'applique PAS** : procedure de [[brantham/knowledge/procedures/sauvegarde|sauvegarde]] (pas de cessation des paiements par definition).
 
 ### Point de depart
 
@@ -117,7 +117,7 @@ Tout depot ou consignation de sommes effectue en l'absence d'une **decision de j
 
 #### 6. Suretes reelles constituees pour dettes anterieures
 
-Sont nulles les **[[suretes-en-procedure-collective|hypotheques]] conventionnelles**, les **nantissements** et les **gages** constitues sur les biens du debiteur pour des dettes anterieurement contractees.
+Sont nulles les **[[brantham/knowledge/legal/suretes-en-procedure-collective|hypotheques]] conventionnelles**, les **nantissements** et les **gages** constitues sur les biens du debiteur pour des dettes anterieurement contractees.
 
 **Exception** : remplacement d'une surete anterieure par une surete equivalente (substitution a l'identique).
 
@@ -284,7 +284,7 @@ Consequence : nullite retroactive avec restitution des salaires. Le salarie peut
 | **Cass. com., 21 sept. 2010** | Confirmation : prescription commerciale inapplicable |
 | **CA Bordeaux, 10 janv. 2018, n 17/01837** | Action recevable tant que dure la mission du liquidateur |
 | **CA Nancy, 23 mai 2018** | Les cautions ne peuvent pas invoquer les nullites de periode suspecte |
-| **Cass. com., 10 juin 2020, n 19-12.222** | Responsabilite du dirigeant ayant contracte des credits en connaissance d'incapacite de remboursement ([[sanctions-dirigeants|insuffisance d'actif]]) |
+| **Cass. com., 10 juin 2020, n 19-12.222** | Responsabilite du dirigeant ayant contracte des credits en connaissance d'incapacite de remboursement ([[brantham/knowledge/legal/sanctions-dirigeants|insuffisance d'actif]]) |
 | **Cass. com., 24 juin 2024** | Compensation impossible entre restitution post-nullite (indisponible au profit des creanciers) et creance de loyer post-ouverture |
 
 ---
@@ -389,7 +389,7 @@ Sanction **alternative** a la faillite personnelle, moins severe.
 
 Le tribunal **peut** prononcer l'interdiction de gerer (au lieu de la faillite personnelle) dans les cas suivants :
 
-1. **Omission de declarer la cessation des paiements** dans les 45 jours (sauf demande d'ouverture d'une [[mandat-ad-hoc-conciliation|conciliation]])
+1. **Omission de declarer la cessation des paiements** dans les 45 jours (sauf demande d'ouverture d'une [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation|conciliation]])
 2. **Non-remise sciemment** des renseignements demandes par le mandataire judiciaire dans le mois suivant l'ouverture
 3. **Manquement a l'obligation d'information** prevue a l'article L622-22 (information sur les instances en cours)
 
@@ -510,7 +510,7 @@ Lors de l'analyse d'une cible en procedure collective, verifier systematiquement
 #### E. Impact sur la reprise
 
 - [ ] Si des actes sont annules apres la cession, les biens concernes reviennent dans l'actif
-- [ ] Verifier que le [[plans-de-cession|plan de cession]] ne porte pas sur des actifs dont le transfert pourrait etre remis en cause
+- [ ] Verifier que le [[brantham/knowledge/legal/plans-de-cession|plan de cession]] ne porte pas sur des actifs dont le transfert pourrait etre remis en cause
 - [ ] S'assurer que les suretes prises par les financeurs de la reprise sont valides et non susceptibles d'annulation
 - [ ] Anticiper les actions en restitution potentielles
 
@@ -554,14 +554,18 @@ Banqueroute (L654-1+)                    -> 5 ans prison + 75K EUR -> prescripti
 
 ## Voir aussi
 
-- [[redressement-judiciaire]] -- Redressement judiciaire
-- [[liquidation-judiciaire]] -- Liquidation judiciaire
-- [[sanctions-dirigeants]] -- Sanctions et responsabilite des dirigeants
-- [[suretes-en-procedure-collective]] -- Suretes en procedure collective
-- [[plans-de-cession]] -- Plans de cession judiciaire
-- [[due-diligence-distressed]] -- Due diligence distressed
-- [[rang-des-creances]] -- Rang des creances
-- [[glossaire-distressed]] -- Glossaire distressed
+- [[brantham/knowledge/procedures/redressement-judiciaire]] -- Redressement judiciaire
+- [[brantham/knowledge/procedures/liquidation-judiciaire]] -- Liquidation judiciaire
+- [[brantham/knowledge/legal/sanctions-dirigeants]] -- Sanctions et responsabilite des dirigeants
+- [[brantham/knowledge/legal/suretes-en-procedure-collective]] -- Suretes en procedure collective
+- [[brantham/knowledge/legal/plans-de-cession]] -- Plans de cession judiciaire
+- [[brantham/knowledge/process/due-diligence-distressed]] -- Due diligence distressed
+- [[brantham/knowledge/legal/rang-des-creances]] -- Rang des creances
+- [[brantham/knowledge/glossary/glossaire-distressed]] -- Glossaire distressed
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/immobilier]]
+- [[brantham/knowledge/finance/pi-actifs-incorporels-distressed]]
+- [[brantham/knowledge/finance/comptabilite-crise]]
+- [[brantham/knowledge/legal/responsabilite-tiers]]

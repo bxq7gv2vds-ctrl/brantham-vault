@@ -9,7 +9,7 @@ tags: [creances, privileges, liquidation, redressement, sauvegarde, AGS, cession
 
 # Rang des Creances en Procedures Collectives
 
-Fiche exhaustive sur la hierarchie des creanciers en droit francais des entreprises en difficulte. Cadre legal: Livre VI du Code de commerce, reforme ordonnance n 2021-1193 du 15 septembre 2021 (transposition [[droit-europeen-insolvabilite|directive UE 2019/1023]]), ordonnance n 2021-1192 du 15 septembre 2021 (reforme du droit des [[suretes-en-procedure-collective|suretes]]).
+Fiche exhaustive sur la hierarchie des creanciers en droit francais des entreprises en difficulte. Cadre legal: Livre VI du Code de commerce, reforme ordonnance n 2021-1193 du 15 septembre 2021 (transposition [[brantham/knowledge/legal/droit-europeen-insolvabilite|directive UE 2019/1023]]), ordonnance n 2021-1192 du 15 septembre 2021 (reforme du droit des [[brantham/knowledge/legal/suretes-en-procedure-collective|suretes]]).
 
 ---
 
@@ -27,7 +27,7 @@ Au sein de chaque categorie, un ordre hierarchique strict determine qui est paye
 
 ## 2. Ordre complet de priorite (Article L643-8 C.com)
 
-L'ordonnance du 15 septembre 2021 a clarifie le rang des creances dans un article unique (L643-8) prevoyant **15 rangs distincts** en [[liquidation-judiciaire|liquidation judiciaire]]. Sous reserve des droits de propriete, du droit de retention, et des articles L622-17 et L641-13:
+L'ordonnance du 15 septembre 2021 a clarifie le rang des creances dans un article unique (L643-8) prevoyant **15 rangs distincts** en [[brantham/knowledge/procedures/liquidation-judiciaire|liquidation judiciaire]]. Sous reserve des droits de propriete, du droit de retention, et des articles L622-17 et L641-13:
 
 ### Rang 1 — Subsides au debiteur personne physique (L631-11)
 Subsides accordes au debiteur ou a sa famille, restes impayes.
@@ -42,7 +42,7 @@ Frais de justice (depens) nes regulierement apres le jugement d'ouverture ou de 
 Privilege special des producteurs agricoles ayant livre des produits dans les 3 mois avant le jugement.
 
 ### Rang 5 — Privilege de conciliation / New Money (L611-11)
-Creances des personnes ayant consenti un **nouvel apport en tresorerie** dans le cadre d'un accord de [[mandat-ad-hoc-conciliation|conciliation]] homologue. Rang tres favorable pour inciter le financement des entreprises en difficulte.
+Creances des personnes ayant consenti un **nouvel apport en tresorerie** dans le cadre d'un accord de [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation|conciliation]] homologue. Rang tres favorable pour inciter le financement des entreprises en difficulte.
 
 ### Rang 6 — Suretes immobilieres (hypotheques)
 Creances garanties par des suretes immobilieres, classees selon l'ordre prevu par le Code civil (date d'inscription).
@@ -115,7 +115,7 @@ Regime de garantie mutualise finance par les employeurs, gerant le risque d'inso
 - Non supportee par les salaries
 
 ### Conditions d'intervention
-1. Procedure collective ouverte ([[sauvegarde|sauvegarde]], RJ, LJ)
+1. Procedure collective ouverte ([[brantham/knowledge/procedures/sauvegarde|sauvegarde]], RJ, LJ)
 2. Insuffisance de fonds du debiteur pour payer les salaries
 3. Caractere subsidiaire: n'intervient que si aucun autre dispositif ne couvre les creances
 
@@ -132,7 +132,7 @@ Regime de garantie mutualise finance par les employeurs, gerant le risque d'inso
 
 ### Plafonds de garantie (2026)
 
-**En sauvegarde et [[redressement-judiciaire|redressement judiciaire]]** (selon anciennete au jour d'ouverture):
+**En sauvegarde et [[brantham/knowledge/procedures/redressement-judiciaire|redressement judiciaire]]** (selon anciennete au jour d'ouverture):
 | Anciennete | Plafond |
 |---|---|
 | Plus de 2 ans | 96 120 EUR |
@@ -183,7 +183,7 @@ Article L611-11 du Code de commerce. Cree par la loi de sauvegarde de 2005, renf
 **Rang 5** en liquidation judiciaire (L643-8). Paye apres les super-privileges salariaux et les frais de justice, mais **avant** les hypotheques, nantissements, Tresor public, URSSAF, et tous les chirographaires.
 
 ### Protection specifique
-Le creancier new money **ne peut se voir imposer de delais de paiement** sans son consentement dans un [[plans-de-continuation|plan de sauvegarde]] ou de redressement.
+Le creancier new money **ne peut se voir imposer de delais de paiement** sans son consentement dans un [[brantham/knowledge/legal/plans-de-continuation|plan de sauvegarde]] ou de redressement.
 
 ### Publicite
 Le jugement d'homologation est publie au BODACC et mentionne les privileges et garanties constitues.
@@ -265,7 +265,7 @@ En liquidation judiciaire: rang 11 (apres les suretes immobilieres, les salaires
 
 **Droit de preference**: sur le prix de vente de l'immeuble greve. Le creancier hypothecaire est paye en priorite sur le produit de la vente de l'immeuble, avant les chirographaires mais apres le super-privilege des salaires, les frais de justice, et le new money.
 
-**En cas de cession**: le repreneur acquiert l'immeuble **libre de charge** si le [[plans-de-cession|plan de cession]] est arrete par le tribunal. Le creancier hypothecaire est reporte sur le prix de cession.
+**En cas de cession**: le repreneur acquiert l'immeuble **libre de charge** si le [[brantham/knowledge/legal/plans-de-cession|plan de cession]] est arrete par le tribunal. Le creancier hypothecaire est reporte sur le prix de cession.
 
 ### Nantissements (suretes mobilieres)
 
@@ -417,8 +417,8 @@ Si une ou plusieurs classes rejettent le plan, le tribunal peut neanmoins l'impo
 - Exception: le tribunal peut deroger a cette regle si c'est necessaire pour atteindre les objectifs du plan et que le plan ne porte pas atteinte de maniere indue aux droits des classes dissidentes
 
 ### Exemples jurisprudentiels
-- **[[cas-orpea-emeis|Orpea]]** (2023): [[sauvegarde-acceleree-sfa|sauvegarde acceleree]], cram-down applique malgre l'opposition de creanciers non securises
-- **[[cas-casino-groupe|Casino]]** (2023-2024): 16 classes sur 17 ont approuve le plan
+- **[[brantham/knowledge/market/cas-orpea-emeis|Orpea]]** (2023): [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa|sauvegarde acceleree]], cram-down applique malgre l'opposition de creanciers non securises
+- **[[brantham/knowledge/market/cas-casino-groupe|Casino]]** (2023-2024): 16 classes sur 17 ont approuve le plan
 
 ---
 
@@ -437,7 +437,7 @@ Le plan de cession est l'outil principal du repreneur en procedure collective. I
 
 ### Elements qui SUIVENT le repreneur
 
-**[[droit-social-restructuration|Contrats de travail]]** (L1224-1 C.trav):
+**[[brantham/knowledge/legal/droit-social-restructuration|Contrats de travail]]** (L1224-1 C.trav):
 - Les contrats de travail des salaries affectes a l'activite cedee sont **transferes de plein droit** au repreneur
 - Le repreneur est tenu de reprendre les salaries designes dans le plan de cession
 - Les conventions collectives applicables suivent les contrats
@@ -447,7 +447,7 @@ Le plan de cession est l'outil principal du repreneur en procedure collective. I
 - Notamment: baux commerciaux, contrats de franchise, licences, marches en cours
 - Le repreneur est tenu d'executer ces contrats aux conditions existantes
 
-**[[passif-environnemental|Charges environnementales]]**:
+**[[brantham/knowledge/legal/passif-environnemental|Charges environnementales]]**:
 - La responsabilite environnementale liee aux sites exploites peut suivre le repreneur (installations classees ICPE)
 
 ### Cautions et garanties personnelles
@@ -531,15 +531,20 @@ Le plan de cession est l'outil principal du repreneur en procedure collective. I
 
 ## Voir aussi
 
-- [[liquidation-judiciaire]] -- Liquidation judiciaire
-- [[redressement-judiciaire]] -- Redressement judiciaire
-- [[sauvegarde]] -- Sauvegarde
-- [[mandat-ad-hoc-conciliation]] -- Conciliation et privilege new money
-- [[plans-de-cession]] -- Plans de cession judiciaire
-- [[plans-de-continuation]] -- Plans de continuation
-- [[suretes-en-procedure-collective]] -- Suretes en procedure collective
-- [[droit-social-restructuration]] -- Droit social en restructuration
-- [[glossaire-distressed]] -- Glossaire distressed
+- [[brantham/knowledge/procedures/liquidation-judiciaire]] -- Liquidation judiciaire
+- [[brantham/knowledge/procedures/redressement-judiciaire]] -- Redressement judiciaire
+- [[brantham/knowledge/procedures/sauvegarde]] -- Sauvegarde
+- [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation]] -- Conciliation et privilege new money
+- [[brantham/knowledge/legal/plans-de-cession]] -- Plans de cession judiciaire
+- [[brantham/knowledge/legal/plans-de-continuation]] -- Plans de continuation
+- [[brantham/knowledge/legal/suretes-en-procedure-collective]] -- Suretes en procedure collective
+- [[brantham/knowledge/legal/droit-social-restructuration]] -- Droit social en restructuration
+- [[brantham/knowledge/glossary/glossaire-distressed]] -- Glossaire distressed
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/procedures/lj-simplifiee]]
+- [[brantham/knowledge/sectors/immobilier]]
+- [[brantham/knowledge/sectors/retail-commerce]]
+- [[brantham/knowledge/finance/restructuration-dette]]
+- [[brantham/knowledge/finance/financial-modeling-distressed]]

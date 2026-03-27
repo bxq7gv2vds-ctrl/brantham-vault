@@ -24,3 +24,4 @@ Filter href attributes to skip mailto: protocol.
 - [[brantham/bugs/2026-02-19-pipeline-cron-delivery]]
 - [[brantham/bugs/2026-02-19-llm-glm47-content-null]]
 - [[brantham/bugs/2026-02-19-scraper-gemweb-false-positives]]
+- [[patterns/scraping-robust]]

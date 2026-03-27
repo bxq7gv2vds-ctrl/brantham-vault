@@ -82,8 +82,8 @@ sources:
 
 | Procedure | Specificite agricole |
 |---|---|
-| **Reglement amiable agricole** (L351-1 Code rural) | Specifique a l'agriculture. Le president du TJ designe un **conciliateur** (comparable a la [[mandat-ad-hoc-conciliation|conciliation]]) pour negocier un echeancier avec les creanciers. Dure 2 mois (+ 1 mois renouvelable). |
-| **[[sauvegarde]] / [[redressement-judiciaire|RJ]] / [[liquidation-judiciaire|LJ]]** | Procedures classiques du Livre VI du Code de commerce, applicables aux agriculteurs. |
+| **Reglement amiable agricole** (L351-1 Code rural) | Specifique a l'agriculture. Le president du TJ designe un **conciliateur** (comparable a la [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation|conciliation]]) pour negocier un echeancier avec les creanciers. Dure 2 mois (+ 1 mois renouvelable). |
+| **[[brantham/knowledge/procedures/sauvegarde]] / [[brantham/knowledge/procedures/redressement-judiciaire|RJ]] / [[brantham/knowledge/procedures/liquidation-judiciaire|LJ]]** | Procedures classiques du Livre VI du Code de commerce, applicables aux agriculteurs. |
 | **Commission departementale d'orientation agricole** | Avis sur la reprise de l'exploitation. |
 | **Aide a la relance** (DDTM) | Subvention plafonnee a 10 800 EUR (1ere UTH) + 10 000 EUR/UTH supplementaire. |
 
@@ -287,15 +287,16 @@ Les certifications sont des **prerequisites obligatoires** pour acceder a la gra
 
 ## Voir aussi
 
-- [[stats-defaillances-2025]] — Contexte macro des defaillances agricoles
-- [[passif-environnemental]] — Pollution sols, ICPE elevage, nitrates
-- [[valorisation-distressed]] — Methodes de valorisation agricole et IAA
-- [[due-diligence-distressed]] — Checklist DD agricole et agroalimentaire
-- [[plans-de-cession]] — Cession d'exploitation et droit de preemption SAFER
-- [[fiscalite-restructuration]] — Regimes fiscaux agricoles
-- [[cas-emblematiques-france]] — Cas Doux, cooperatives laitieres
-- [[quick-scan-diagnostic]] — Diagnostic flash avant DD
-- [[glossaire-distressed]] — Definitions des termes techniques
+- [[brantham/knowledge/market/stats-defaillances-2025]] — Contexte macro des defaillances agricoles
+- [[brantham/knowledge/legal/passif-environnemental]] — Pollution sols, ICPE elevage, nitrates
+- [[brantham/knowledge/finance/valorisation-distressed]] — Methodes de valorisation agricole et IAA
+- [[brantham/knowledge/process/due-diligence-distressed]] — Checklist DD agricole et agroalimentaire
+- [[brantham/knowledge/legal/plans-de-cession]] — Cession d'exploitation et droit de preemption SAFER
+- [[brantham/knowledge/finance/fiscalite-restructuration]] — Regimes fiscaux agricoles
+- [[brantham/knowledge/market/cas-emblematiques-france]] — Cas Doux, cooperatives laitieres
+- [[brantham/knowledge/skills/quick-scan-diagnostic]] — Diagnostic flash avant DD
+- [[brantham/knowledge/glossary/glossaire-distressed]] — Definitions des termes techniques
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/INDEX]]

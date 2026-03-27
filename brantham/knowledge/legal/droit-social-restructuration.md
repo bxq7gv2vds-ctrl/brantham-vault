@@ -42,7 +42,7 @@ related:
 
 # Droit Social en Restructuration et Procedure Collective
 
-Fiche exhaustive a destination du praticien M&A distressed. Couvre l'ensemble du droit social applicable en [[sauvegarde|sauvegarde]], [[redressement-judiciaire|redressement judiciaire]] (RJ) et [[liquidation-judiciaire|liquidation judiciaire]] (LJ), ainsi que les outils de restructuration sociale hors procedure.
+Fiche exhaustive a destination du praticien M&A distressed. Couvre l'ensemble du droit social applicable en [[brantham/knowledge/procedures/sauvegarde|sauvegarde]], [[brantham/knowledge/procedures/redressement-judiciaire|redressement judiciaire]] (RJ) et [[brantham/knowledge/procedures/liquidation-judiciaire|liquidation judiciaire]] (LJ), ainsi que les outils de restructuration sociale hors procedure.
 
 ---
 
@@ -101,7 +101,7 @@ Distinction secteur main-d'oeuvre vs secteur capitalistique :
 
 ### 1.4 Exception majeure : plan de cession en procedure collective
 
-**En procedure collective, L1224-1 ne s'applique PAS dans le cadre d'un [[plans-de-cession|plan de cession]].**
+**En procedure collective, L1224-1 ne s'applique PAS dans le cadre d'un [[brantham/knowledge/legal/plans-de-cession|plan de cession]].**
 
 C'est l'article **L642-5 du Code de commerce** qui deroge au principe :
 - Le tribunal fixe dans le jugement de cession la liste des contrats de travail transferes
@@ -113,7 +113,7 @@ C'est l'article **L642-5 du Code de commerce** qui deroge au principe :
 - L'offre doit indiquer le nombre de salaries repris, les activites et categories professionnelles (L642-2, 5)
 - Le tribunal retient l'offre assurant "le maintien le plus durable de l'emploi attache aux biens cedes" (L642-5 al. 2)
 - Le repreneur ne peut pas "choisir" des salaries nominativement mais indique des postes et categories
-- Les salaries non repris beneficient de l'indemnisation par [[rang-des-creances|l'AGS]]
+- Les salaries non repris beneficient de l'indemnisation par [[brantham/knowledge/legal/rang-des-creances|l'AGS]]
 
 **Jurisprudence** :
 - Cass. soc., 12 mai 2021, n 19-19.454 : confirmation que le transfert en plan de cession deroge a L1224-1
@@ -659,7 +659,7 @@ En procedure collective, le licenciement d'un salarie protege (elu CSE, delegue 
 
 ### 12.1 Checklist sociale du repreneur en plan de cession
 
-**Phase 1 : [[due-diligence-distressed|Due diligence]] sociale (avant depot de l'offre)**
+**Phase 1 : [[brantham/knowledge/process/due-diligence-distressed|Due diligence]] sociale (avant depot de l'offre)**
 
 - [ ] Obtenir la liste complete des salaries avec anciennete, qualification, salaire, statut (protege ou non)
 - [ ] Identifier les salaries proteges (elus CSE, delegues syndicaux) et anticiper la procedure inspecteur du travail
@@ -796,14 +796,19 @@ En procedure collective, le licenciement d'un salarie protege (elu CSE, delegue 
 
 ## Voir aussi
 
-- [[liquidation-judiciaire]] -- Liquidation judiciaire
-- [[redressement-judiciaire]] -- Redressement judiciaire
-- [[plans-de-cession]] -- Plans de cession judiciaire
-- [[plans-de-continuation]] -- Plans de continuation
-- [[rang-des-creances]] -- Rang des creances et AGS
-- [[sanctions-dirigeants]] -- Sanctions et responsabilite des dirigeants
-- [[integration-post-acquisition]] -- Integration post-acquisition
-- [[post-closing-execution]] -- Execution post-closing
+- [[brantham/knowledge/procedures/liquidation-judiciaire]] -- Liquidation judiciaire
+- [[brantham/knowledge/procedures/redressement-judiciaire]] -- Redressement judiciaire
+- [[brantham/knowledge/legal/plans-de-cession]] -- Plans de cession judiciaire
+- [[brantham/knowledge/legal/plans-de-continuation]] -- Plans de continuation
+- [[brantham/knowledge/legal/rang-des-creances]] -- Rang des creances et AGS
+- [[brantham/knowledge/legal/sanctions-dirigeants]] -- Sanctions et responsabilite des dirigeants
+- [[brantham/knowledge/process/integration-post-acquisition]] -- Integration post-acquisition
+- [[brantham/knowledge/process/post-closing-execution]] -- Execution post-closing
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/btp-construction]]
+- [[brantham/knowledge/sectors/industrie-manufacturiere]]
+- [[brantham/knowledge/sectors/restauration-hotellerie]]
+- [[brantham/knowledge/sectors/retail-commerce]]
+- [[brantham/knowledge/skills/communication-parties-prenantes]]

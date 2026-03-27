@@ -76,7 +76,7 @@ Lorsqu'une ICPE autorisee est mise a l'arret definitif, l'exploitant doit :
 - R512-39-5 : attestation bureau d'etudes certifie
 - R512-39-6 : conservation de la memoire (servitudes d'utilite publique si restrictions d'usage)
 
-**Point critique M&A distressed** : l'obligation pese sur le **dernier exploitant**. En cas de cession d'actifs isoles (pas de [[plans-de-cession|plan de cession]] judiciaire), l'acheteur devient le dernier exploitant s'il poursuit l'activite. Si l'activite est arretee avant cession, c'est le cedant (ou le liquidateur pour le compte du cedant) qui doit executer la mise en securite.
+**Point critique M&A distressed** : l'obligation pese sur le **dernier exploitant**. En cas de cession d'actifs isoles (pas de [[brantham/knowledge/legal/plans-de-cession|plan de cession]] judiciaire), l'acheteur devient le dernier exploitant s'il poursuit l'activite. Si l'activite est arretee avant cession, c'est le cedant (ou le liquidateur pour le compte du cedant) qui doit executer la mise en securite.
 
 ### 1.4 Regimes enregistrement et declaration
 
@@ -89,7 +89,7 @@ Lorsqu'une ICPE autorisee est mise a l'arret definitif, l'exploitant doit :
 
 ### 2.1 Les bases de donnees publiques
 
-Toute [[due-diligence-distressed|due diligence]] environnementale commence par la consultation des bases publiques :
+Toute [[brantham/knowledge/process/due-diligence-distressed|due diligence]] environnementale commence par la consultation des bases publiques :
 
 **BASIAS (Base des Anciens Sites Industriels et Activites de Service)**
 - Inventaire historique tenu par le BRGM depuis 1998
@@ -169,11 +169,11 @@ Le plan de cession ordonne par le tribunal transfere les actifs au repreneur. Co
 - **Le prefet peut imposer des prescriptions complementaires** au nouvel exploitant
 - **Transfert de l'arrete d'autorisation** : les prescriptions de l'arrete prefectoral d'autorisation s'imposent au nouvel exploitant
 
-**Point critique** : le plan de cession purge les [[suretes-en-procedure-collective|suretes]] (L642-12) mais ne purge PAS les obligations de police administrative. Le repreneur herite des obligations ICPE attachees au site. C'est une charge propter rem (liee a la chose, pas a la personne).
+**Point critique** : le plan de cession purge les [[brantham/knowledge/legal/suretes-en-procedure-collective|suretes]] (L642-12) mais ne purge PAS les obligations de police administrative. Le repreneur herite des obligations ICPE attachees au site. C'est une charge propter rem (liee a la chose, pas a la personne).
 
 ### 3.2 Cession d'actifs isoles (hors plan de cession)
 
-En [[liquidation-judiciaire|liquidation judiciaire]], les actifs peuvent etre vendus isolement (L642-18+). Dans ce cas :
+En [[brantham/knowledge/procedures/liquidation-judiciaire|liquidation judiciaire]], les actifs peuvent etre vendus isolement (L642-18+). Dans ce cas :
 
 - Si le site ICPE est cede avec poursuite d'activite : meme declaration de changement d'exploitant
 - Si le terrain seul est cede (sans activite) : l'obligation de remise en etat reste sur le dernier exploitant (le debiteur en LJ, represente par le liquidateur)
@@ -266,11 +266,11 @@ Metaleurop Nord, filiale de Metaleurop SA, exploitait une fonderie de plomb et z
 
 Apres les arrets Metaleurop, le legislateur a introduit des mecanismes pour eviter que les societes-meres n'echappent a toute responsabilite :
 
-**Loi Grenelle II (2010), art. L512-17 C. env.** : lorsque l'exploitant est une filiale et que la societe-mere a commis une faute ayant contribue a l'[[sanctions-dirigeants|insuffisance d'actif]] de la filiale, la societe-mere peut etre mise en cause pour financer la remise en etat.
+**Loi Grenelle II (2010), art. L512-17 C. env.** : lorsque l'exploitant est une filiale et que la societe-mere a commis une faute ayant contribue a l'[[brantham/knowledge/legal/sanctions-dirigeants|insuffisance d'actif]] de la filiale, la societe-mere peut etre mise en cause pour financer la remise en etat.
 
 **Action en insuffisance d'actif (L651-2 C. com.)** : le liquidateur peut poursuivre la societe-mere si elle a agi comme dirigeant de fait de la filiale et a contribue a l'insuffisance d'actif par des fautes de gestion.
 
-**Action en [[responsabilite-tiers|responsabilite delictuelle (art. 1240 C. civ.)** : un tiers]] (collectivite, riverains) peut agir contre la societe-mere pour faute propre (abandon volontaire de la filiale, organisation de l'insolvabilite).
+**Action en [[brantham/knowledge/legal/responsabilite-tiers|responsabilite delictuelle (art. 1240 C. civ.)** : un tiers]] (collectivite, riverains) peut agir contre la societe-mere pour faute propre (abandon volontaire de la filiale, organisation de l'insolvabilite).
 
 ### 5.4 Loi Industrie Verte (2023) : renforcement
 
@@ -345,7 +345,7 @@ Le prefet peut, a tout moment :
 **Avant la loi Industrie Verte (2023)** : la creance environnementale (depollution) etait traitee comme une creance chirographaire, voire une creance anterieure au jugement d'ouverture. En pratique, elle n'etait presque jamais payee en LJ.
 
 **Depuis la loi n° 2023-973 du 23 octobre 2023 (loi Industrie Verte)** :
-- **Art. L641-13 C. com. modifie** : les creances nees regulierement apres le jugement de LJ pour assurer la mise en securite du site ICPE sont des **[[rang-des-creances|creances posterieures privilegiees]]**, payees a echeance
+- **Art. L641-13 C. com. modifie** : les creances nees regulierement apres le jugement de LJ pour assurer la mise en securite du site ICPE sont des **[[brantham/knowledge/legal/rang-des-creances|creances posterieures privilegiees]]**, payees a echeance
 - **Art. L641-8 C. com. modifie** : ces creances sont classees au **6eme rang** dans l'ordre de paiement des creanciers en LJ
 - Creances couvertes : evacuation produits dangereux, delimitation d'acces, suppression risques incendie/explosion, surveillance
 - **La rehabilitation du site** (au-dela de la mise en securite) n'intervient que si les actifs le permettent apres desinteressement des creanciers prioritaires
@@ -500,13 +500,18 @@ L'offre de reprise (L642-2 C. com.) doit anticiper le risque environnemental. Cl
 
 ## Voir aussi
 
-- [[liquidation-judiciaire]] -- Liquidation judiciaire
-- [[plans-de-cession]] -- Plans de cession judiciaire
-- [[rang-des-creances]] -- Rang des creances
-- [[sanctions-dirigeants]] -- Sanctions et responsabilite des dirigeants
-- [[due-diligence-distressed]] -- Due diligence distressed
-- [[responsabilite-tiers]] -- Responsabilite des tiers
-- [[valorisation-distressed]] -- Valorisation distressed
+- [[brantham/knowledge/procedures/liquidation-judiciaire]] -- Liquidation judiciaire
+- [[brantham/knowledge/legal/plans-de-cession]] -- Plans de cession judiciaire
+- [[brantham/knowledge/legal/rang-des-creances]] -- Rang des creances
+- [[brantham/knowledge/legal/sanctions-dirigeants]] -- Sanctions et responsabilite des dirigeants
+- [[brantham/knowledge/process/due-diligence-distressed]] -- Due diligence distressed
+- [[brantham/knowledge/legal/responsabilite-tiers]] -- Responsabilite des tiers
+- [[brantham/knowledge/finance/valorisation-distressed]] -- Valorisation distressed
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/btp-construction]]
+- [[brantham/knowledge/sectors/industrie-manufacturiere]]
+- [[brantham/knowledge/sectors/immobilier]]
+- [[brantham/knowledge/sectors/agriculture-agroalimentaire]]
+- [[brantham/knowledge/finance/assurances-ma-distressed]]

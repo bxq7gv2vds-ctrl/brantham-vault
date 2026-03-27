@@ -237,3 +237,4 @@ Ces chantiers doivent etre termines AVANT de pouvoir generer du revenu.
 - [[brantham/context/process-end-to-end]]
 - [[brantham/context/roles-et-responsabilites]]
 - [[brantham/_MOC]]
+- [[brantham/COWORK-PROMPT]]

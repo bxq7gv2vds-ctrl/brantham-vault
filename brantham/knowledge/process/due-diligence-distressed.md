@@ -11,7 +11,7 @@ status: active
 
 # Due Diligence Specifique aux Entreprises en Difficulte
 
-Guide operationnel pour la due diligence dans le contexte des reprises d'entreprises en procedure collective ([[redressement-judiciaire]], [[liquidation-judiciaire]], [[sauvegarde]]) en France.
+Guide operationnel pour la due diligence dans le contexte des reprises d'entreprises en procedure collective ([[brantham/knowledge/procedures/redressement-judiciaire]], [[brantham/knowledge/procedures/liquidation-judiciaire]], [[brantham/knowledge/procedures/sauvegarde]]) en France.
 
 ---
 
@@ -48,8 +48,8 @@ Guide operationnel pour la due diligence dans le contexte des reprises d'entrepr
 
 | M&A classique | Distressed M&A |
 |---|---|
-| [[valorisation-distressed|Valorisation]] par multiples, DCF | Valeur de liquidation, actif net reel |
-| EBITDA normalise | **Cash burn rate** et tresorerie [[financial-modeling-distressed|13 semaines]] |
+| [[brantham/knowledge/finance/valorisation-distressed|Valorisation]] par multiples, DCF | Valeur de liquidation, actif net reel |
+| EBITDA normalise | **Cash burn rate** et tresorerie [[brantham/knowledge/finance/financial-modeling-distressed|13 semaines]] |
 | Synergies et croissance | **Survie operationnelle** et retournement |
 | GAP + earn-out | Pas de garanties, prix ferme |
 | DD 8-12 semaines | DD 2-4 semaines max |
@@ -66,7 +66,7 @@ Guide operationnel pour la due diligence dans le contexte des reprises d'entrepr
 
 #### Tresorerie et Cash Flow (PRIORITE N.1)
 
-- [ ] **[[financial-modeling-distressed|13-Week Cash Flow (TWCF)]]** : construire un previsionnel de tresorerie semaine par semaine sur 13 semaines. C'est l'outil #1 en distressed.
+- [ ] **[[brantham/knowledge/finance/financial-modeling-distressed|13-Week Cash Flow (TWCF)]]** : construire un previsionnel de tresorerie semaine par semaine sur 13 semaines. C'est l'outil #1 en distressed.
   - Recettes : encaissements clients realistes (pas le CA facture)
   - Depenses : charges fixes incompressibles, fournisseurs critiques, salaires, charges sociales
   - Besoin de financement du retournement (le repreneur finance tout)
@@ -115,7 +115,7 @@ Guide operationnel pour la due diligence dans le contexte des reprises d'entrepr
 
 #### Rentabilite Normalisee
 
-- [ ] [[valorisation-distressed|EBITDA ajuste]] : retraiter les elements exceptionnels, les salaires du dirigeant, les charges non recurrentes
+- [ ] [[brantham/knowledge/finance/valorisation-distressed|EBITDA ajuste]] : retraiter les elements exceptionnels, les salaires du dirigeant, les charges non recurrentes
 - [ ] Marge brute par produit/service : identifier ce qui est rentable
 - [ ] Point mort (break-even) : a quel CA l'entreprise est-elle a l'equilibre ?
 - [ ] Saisonnalite : mois de forte/faible activite
@@ -128,7 +128,7 @@ Guide operationnel pour la due diligence dans le contexte des reprises d'entrepr
 
 - [ ] Nature de la procedure : sauvegarde, RJ, LJ, conciliation
 - [ ] Date de cessation des paiements fixee par le tribunal
-- [ ] **[[nullites-periode-suspecte|Periode suspecte]]** : identifier tous les actes entre la date de CDO et le jugement d'ouverture
+- [ ] **[[brantham/knowledge/legal/nullites-periode-suspecte|Periode suspecte]]** : identifier tous les actes entre la date de CDO et le jugement d'ouverture
   - Actes nuls de plein droit (art. L632-1) : 12 categories dont actes a titre gratuit, paiements de dettes non echues, hypotheques, nantissements
   - Extension : actes a titre gratuit annulables jusqu'a 6 mois avant CDO
   - Nullites facultatives (art. L632-2) : paiements et actes si connaissance de la CDO
@@ -240,7 +240,7 @@ Guide operationnel pour la due diligence dans le contexte des reprises d'entrepr
 - [ ] Controles URSSAF en cours ou recents
 - [ ] Risques de redressement identifies mais non encore notifies
 - [ ] Conventions intra-groupe : prix de transfert conformes ?
-- [ ] Avantages fiscaux : CIR, CII, JEI, ZFU -- conditions toujours remplies ? (voir [[fiscalite-restructuration]])
+- [ ] Avantages fiscaux : CIR, CII, JEI, ZFU -- conditions toujours remplies ? (voir [[brantham/knowledge/finance/fiscalite-restructuration]])
 
 #### Deficits Reportables
 
@@ -251,7 +251,7 @@ Guide operationnel pour la due diligence dans le contexte des reprises d'entrepr
 
 #### Structure Fiscale de la Reprise
 
-- [ ] Asset deal ([[plans-de-cession|plan de cession]]) vs. share deal : implications fiscales radicalement differentes
+- [ ] Asset deal ([[brantham/knowledge/legal/plans-de-cession|plan de cession]]) vs. share deal : implications fiscales radicalement differentes
 - [ ] Droits d'enregistrement : 3% (0-23K EUR), 5% (au-dela) pour fonds de commerce ; 0.1% pour titres de societes a l'IS
 - [ ] TVA sur cession : exoneration si transfert d'universalite (art. 257 bis CGI)
 - [ ] Plus-values : traitement fiscal pour le cedant (souvent sans objet en procedure)
@@ -301,7 +301,7 @@ Guide operationnel pour la due diligence dans le contexte des reprises d'entrepr
 - [ ] **Phase I ESA** (Environmental Site Assessment) : historique du site, utilisation passee
 - [ ] ICPE : l'entreprise est-elle classee Installation Classee pour la Protection de l'Environnement ?
 - [ ] Autorisations ICPE : en cours de validite ? Transferables ?
-- [ ] **Sols pollues** : consultation BASIAS/BASOL, historique industriel du site (voir [[passif-environnemental]])
+- [ ] **Sols pollues** : consultation BASIAS/BASOL, historique industriel du site (voir [[brantham/knowledge/legal/passif-environnemental]])
 - [ ] **Amiante** : DTA (Dossier Technique Amiante) a jour ?
 - [ ] Dechets : gestion, borderaux de suivi, stockage
 - [ ] Rejets : eaux usees, emissions atmospheriques, conformite
@@ -552,16 +552,21 @@ Grille de notation rapide pour comparer les opportunites :
 
 ## Voir aussi
 
-- [[valorisation-distressed]] — Methodes de valorisation et EBITDA normalise
-- [[structuration-offres-reprise]] — Redaction et depot de l'offre de reprise
-- [[financial-modeling-distressed]] — 13-week cash flow et waterfall analysis
-- [[plans-de-cession]] — Cadre legal de la cession en procedure collective
-- [[nullites-periode-suspecte]] — Actes nuls de la periode suspecte
-- [[contrats-baux-en-procedure]] — Sort des contrats et baux en procedure
-- [[passif-environnemental]] — Risque environnemental et ICPE
-- [[fiscalite-restructuration]] — DD fiscale et deficits reportables
-- [[rang-des-creances]] — Privileges et rang des creanciers
-- [[quick-scan-diagnostic]] — Framework de triage rapide
+- [[brantham/knowledge/finance/valorisation-distressed]] — Methodes de valorisation et EBITDA normalise
+- [[brantham/knowledge/process/structuration-offres-reprise]] — Redaction et depot de l'offre de reprise
+- [[brantham/knowledge/finance/financial-modeling-distressed]] — 13-week cash flow et waterfall analysis
+- [[brantham/knowledge/legal/plans-de-cession]] — Cadre legal de la cession en procedure collective
+- [[brantham/knowledge/legal/nullites-periode-suspecte]] — Actes nuls de la periode suspecte
+- [[brantham/knowledge/legal/contrats-baux-en-procedure]] — Sort des contrats et baux en procedure
+- [[brantham/knowledge/legal/passif-environnemental]] — Risque environnemental et ICPE
+- [[brantham/knowledge/finance/fiscalite-restructuration]] — DD fiscale et deficits reportables
+- [[brantham/knowledge/legal/rang-des-creances]] — Privileges et rang des creanciers
+- [[brantham/knowledge/skills/quick-scan-diagnostic]] — Framework de triage rapide
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/context/process-end-to-end]]
+- [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation]]
+- [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa]]
+- [[brantham/knowledge/procedures/lj-simplifiee]]
+- [[brantham/knowledge/sectors/tech-startups]]

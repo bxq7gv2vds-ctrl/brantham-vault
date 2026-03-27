@@ -27,16 +27,16 @@ sources:
 La valorisation d'une entreprise en difficulte differe fondamentalement de la valorisation classique pour cinq raisons structurelles :
 
 **1. Incertitude sur la continuite d'exploitation**
-Le presuppose de base de toute methode de valorisation standard (DCF, multiples) est que l'entreprise continue d'operer indefiniment. En distressed, cette hypothese est remise en cause (cf. [[comptabilite-crise|continuite d'exploitation]]). L'entreprise peut disparaitre a tout moment, ce qui rend les projections financieres intrinsequement fragiles.
+Le presuppose de base de toute methode de valorisation standard (DCF, multiples) est que l'entreprise continue d'operer indefiniment. En distressed, cette hypothese est remise en cause (cf. [[brantham/knowledge/finance/comptabilite-crise|continuite d'exploitation]]). L'entreprise peut disparaitre a tout moment, ce qui rend les projections financieres intrinsequement fragiles.
 
 **2. Asymetrie d'information**
-Le vendeur (souvent sous pression du tribunal, des creanciers, ou de l'administrateur judiciaire) detient des informations que le repreneur ne peut pas verifier dans les delais imposes. Les comptes sont souvent degrades, les reportings incomplets, les provisions sous-estimees. Le risque de "cadavre dans le placard" (dette cachee, litige non provisionne, contrat toxique) est eleve. La [[due-diligence-distressed]] doit etre priorisee sur les sujets critiques.
+Le vendeur (souvent sous pression du tribunal, des creanciers, ou de l'administrateur judiciaire) detient des informations que le repreneur ne peut pas verifier dans les delais imposes. Les comptes sont souvent degrades, les reportings incomplets, les provisions sous-estimees. Le risque de "cadavre dans le placard" (dette cachee, litige non provisionne, contrat toxique) est eleve. La [[brantham/knowledge/process/due-diligence-distressed]] doit etre priorisee sur les sujets critiques.
 
 **3. Urgence temporelle**
-Les procedures collectives imposent des delais stricts. En [[liquidation-judiciaire|LJ]], le tribunal fixe une date limite pour les offres. En [[redressement-judiciaire|RJ]], l'administrateur a une periode d'observation limitee (6 mois renouvelable une fois, max 18 mois). Cette pression temporelle reduit le pouvoir de negociation de l'acquereur mais aussi la qualite de la due diligence.
+Les procedures collectives imposent des delais stricts. En [[brantham/knowledge/procedures/liquidation-judiciaire|LJ]], le tribunal fixe une date limite pour les offres. En [[brantham/knowledge/procedures/redressement-judiciaire|RJ]], l'administrateur a une periode d'observation limitee (6 mois renouvelable une fois, max 18 mois). Cette pression temporelle reduit le pouvoir de negociation de l'acquereur mais aussi la qualite de la due diligence.
 
 **4. Contrainte de la purge du passif**
-En [[plans-de-cession|plan de cession]] (Art. L.642-1 et suivants du Code de commerce), le cessionnaire acquiert les actifs libres de toute charge. Le passif est purge. Cela signifie que le prix n'a pas a couvrir le passif total — il reflète la valeur des actifs repris et les engagements pris (emploi, investissement, activite).
+En [[brantham/knowledge/legal/plans-de-cession|plan de cession]] (Art. L.642-1 et suivants du Code de commerce), le cessionnaire acquiert les actifs libres de toute charge. Le passif est purge. Cela signifie que le prix n'a pas a couvrir le passif total — il reflète la valeur des actifs repris et les engagements pris (emploi, investissement, activite).
 
 **5. Nombre limite d'acheteurs**
 Le pool de repreneurs potentiels est restreint : la plupart des acheteurs classiques fuient le risque procedural. Moins de competition = prix plus bas. En pratique, beaucoup de cessions se font avec un seul candidat.
@@ -49,7 +49,7 @@ Le pool de repreneurs potentiels est restreint : la plupart des acheteurs classi
 Evaluer chaque actif individuellement a sa valeur de realisation en cas de vente forcee, puis soustraire les dettes. C'est le plancher de valorisation : ce que l'entreprise vaut si on la demantele.
 
 ### Quand l'utiliser
-- [[liquidation-judiciaire|Liquidation judiciaire]] sans repreneur
+- [[brantham/knowledge/procedures/liquidation-judiciaire|Liquidation judiciaire]] sans repreneur
 - Entreprise dont l'activite est definitivement arretee
 - Benchmark minimum pour toute offre de reprise
 
@@ -69,7 +69,7 @@ Evaluer chaque actif individuellement a sa valeur de realisation en cas de vente
 | Machines specifiques/sur-mesure | 5-20% | Quasi pas de marche secondaire |
 | Vehicules | 40-70% | Argus + decote vente rapide |
 | Informatique et mobilier | 5-15% | Depreciation tres rapide |
-| Marques et [[pi-actifs-incorporels-distressed|PI]] | 0-100% | Tres variable. Marque connue = valeur. Brevet non exploite = zero |
+| Marques et [[brantham/knowledge/finance/pi-actifs-incorporels-distressed|PI]] | 0-100% | Tres variable. Marque connue = valeur. Brevet non exploite = zero |
 | Fonds de commerce | 10-50% | Depend de la clientele residuelle et de l'emplacement |
 | Goodwill | 0% | En liquidation, le goodwill vaut zero. Il n'existe que dans un contexte going concern |
 
@@ -91,9 +91,9 @@ Les couts de liquidation incluent : honoraires du liquidateur (bareme legal), fr
 Projeter les cash flows futurs de l'entreprise en supposant qu'elle est reprise et restructuree, puis les actualiser a un taux refletant le risque eleve.
 
 ### Quand l'utiliser
-- [[redressement-judiciaire|Redressement judiciaire]] avec [[plans-de-continuation|plan de continuation]] ou de cession
+- [[brantham/knowledge/procedures/redressement-judiciaire|Redressement judiciaire]] avec [[brantham/knowledge/legal/plans-de-continuation|plan de continuation]] ou de cession
 - Entreprise dont le core business est viable mais mal gere ou surendette
-- Quand le repreneur a un plan de [[turnaround-operationnel|retournement]] credible
+- Quand le repreneur a un plan de [[brantham/knowledge/process/turnaround-operationnel|retournement]] credible
 
 ### Ajustements specifiques au distressed
 
@@ -301,16 +301,16 @@ Un EBITDA comptable de -150K se transforme en un EBITDA normalise de +220K. C'es
 
 | Procedure | Impact sur le prix | Purge du passif | Reprise salaries | Delai typique offre |
 |---|---|---|---|---|
-| [[mandat-ad-hoc-conciliation|Mandat ad hoc]] | Decote faible (10-20%). Negociation amiable. | Non | Non applicable | Libre |
-| [[mandat-ad-hoc-conciliation|Conciliation]] | Decote moderee (15-25%). Confidentiel. | Non | Non applicable | 4-5 mois |
-| [[sauvegarde|Sauvegarde]] | Decote 20-35%. Plan arrete par tribunal. | Partielle (plan d'apurement) | Oui (tous) | 6-18 mois |
-| [[redressement-judiciaire|Redressement judiciaire]] (plan de cession) | Decote 30-50%. Offre au tribunal. | Oui (totale pour cessionnaire) | Oui (choisis par repreneur, min fixe par tribunal) | 2-6 mois |
-| [[liquidation-judiciaire|Liquidation judiciaire]] (cession activite) | Decote 50-70%. Urgence max. | Oui (totale) | Possible mais pas obligatoire | 1-3 mois |
+| [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation|Mandat ad hoc]] | Decote faible (10-20%). Negociation amiable. | Non | Non applicable | Libre |
+| [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation|Conciliation]] | Decote moderee (15-25%). Confidentiel. | Non | Non applicable | 4-5 mois |
+| [[brantham/knowledge/procedures/sauvegarde|Sauvegarde]] | Decote 20-35%. Plan arrete par tribunal. | Partielle (plan d'apurement) | Oui (tous) | 6-18 mois |
+| [[brantham/knowledge/procedures/redressement-judiciaire|Redressement judiciaire]] (plan de cession) | Decote 30-50%. Offre au tribunal. | Oui (totale pour cessionnaire) | Oui (choisis par repreneur, min fixe par tribunal) | 2-6 mois |
+| [[brantham/knowledge/procedures/liquidation-judiciaire|Liquidation judiciaire]] (cession activite) | Decote 50-70%. Urgence max. | Oui (totale) | Possible mais pas obligatoire | 1-3 mois |
 | Liquidation judiciaire (actifs isoles) | Decote 60-85%. Vente aux encheres. | Oui | Non | Immediat |
 
 ### Purge du passif = valeur cachee pour l'acheteur
 
-En plan de cession, le repreneur acquiert les actifs sans reprendre les dettes (voir [[rang-des-creances]]). Concretement :
+En plan de cession, le repreneur acquiert les actifs sans reprendre les dettes (voir [[brantham/knowledge/legal/rang-des-creances]]). Concretement :
 - Les dettes fournisseurs sont purgees
 - Les dettes fiscales et sociales sont purgees
 - Les emprunts bancaires sont purges
@@ -328,7 +328,7 @@ Prix reel = Prix de cession paye au tribunal
 
 Si une entreprise a 2M de dettes et que le tribunal accepte une offre a 400K avec purge du passif, le repreneur "economise" 1.6M de dettes — c'est l'avantage structurel de la reprise a la barre.
 
-### Ce que regarde le tribunal (Art. L.642-5 du Code de commerce, voir [[audience-tribunal]])
+### Ce que regarde le tribunal (Art. L.642-5 du Code de commerce, voir [[brantham/knowledge/process/audience-tribunal]])
 
 Le prix n'est pas le seul critere. Le tribunal evalue :
 1. Le maintien de l'emploi (nombre de postes repris)
@@ -391,7 +391,7 @@ BESOIN DE FINANCEMENT      |     |     |     |     |     |
 
 ### Utilisation
 
-- **[[negociation-crise|Negociation]] avec les creanciers** : prouver que l'entreprise a assez de cash pour survivre pendant la restructuration
+- **[[brantham/knowledge/skills/negociation-crise|Negociation]] avec les creanciers** : prouver que l'entreprise a assez de cash pour survivre pendant la restructuration
 - **Demande de DIP financing** : justifier le besoin de financement interimaire
 - **Decision du tribunal** : le TWCF est souvent demande par l'administrateur judiciaire pour evaluer la viabilite
 - **Pilotage de crise** : identifier la semaine ou le cash tombe a zero ("cash wall")
@@ -569,16 +569,21 @@ Chaque mois de procedure consume du cash, erode la clientele, demotive les equip
 
 ## Voir aussi
 
-- [[financial-modeling-distressed]] — DCF ajuste, waterfall analysis, bridge equity-to-EV
-- [[due-diligence-distressed]] — Checklist DD financiere, operationnelle et juridique
-- [[restructuration-dette]] — Techniques de restructuration et financement en crise
-- [[plans-de-cession]] — Cadre legal de la cession d'entreprise en procedure
-- [[structuration-offres-reprise]] — Redaction et structuration de l'offre de reprise
-- [[comptabilite-crise]] — Continuite d'exploitation et comptes en procedure
-- [[fiscalite-restructuration]] — Report de deficits, abandons de creances, TVA
-- [[pi-actifs-incorporels-distressed]] — Valorisation des actifs incorporels
-- [[rang-des-creances]] — Ordre de priorite des creanciers
-- [[glossaire-distressed]] — Terminologie M&A distressed
+- [[brantham/knowledge/finance/financial-modeling-distressed]] — DCF ajuste, waterfall analysis, bridge equity-to-EV
+- [[brantham/knowledge/process/due-diligence-distressed]] — Checklist DD financiere, operationnelle et juridique
+- [[brantham/knowledge/finance/restructuration-dette]] — Techniques de restructuration et financement en crise
+- [[brantham/knowledge/legal/plans-de-cession]] — Cadre legal de la cession d'entreprise en procedure
+- [[brantham/knowledge/process/structuration-offres-reprise]] — Redaction et structuration de l'offre de reprise
+- [[brantham/knowledge/finance/comptabilite-crise]] — Continuite d'exploitation et comptes en procedure
+- [[brantham/knowledge/finance/fiscalite-restructuration]] — Report de deficits, abandons de creances, TVA
+- [[brantham/knowledge/finance/pi-actifs-incorporels-distressed]] — Valorisation des actifs incorporels
+- [[brantham/knowledge/legal/rang-des-creances]] — Ordre de priorite des creanciers
+- [[brantham/knowledge/glossary/glossaire-distressed]] — Terminologie M&A distressed
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/tech-startups]]
+- [[brantham/knowledge/sectors/btp-construction]]
+- [[brantham/knowledge/sectors/industrie-manufacturiere]]
+- [[brantham/knowledge/sectors/immobilier]]
+- [[brantham/knowledge/sectors/restauration-hotellerie]]

@@ -27,3 +27,8 @@ Always check both content and reasoning_content fields when integrating new LLM 
 - [[brantham/bugs/2026-02-19-scraper-abitbol-mailto]]
 - [[brantham/bugs/2026-02-19-pipeline-cron-delivery]]
 - [[brantham/bugs/2026-02-19-scraper-gemweb-false-positives]]
+- [[patterns/gemweb-rss-parsing]]
+- [[patterns/teaser-pptx-generation]]
+- [[patterns/scraping-robust]]
+- [[website/patterns/geo-ai-content-optimization]]
+- [[brantham/patterns/teaser-onepager-html-pdf]]

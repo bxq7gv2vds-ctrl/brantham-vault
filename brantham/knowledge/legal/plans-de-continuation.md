@@ -37,7 +37,7 @@ Le terme "plan de continuation" designe generiquement le plan par lequel le debi
 - **Initiative** : debiteur, creancier ou ministere public
 - **Finalite** : assurer la poursuite de l'activite, le maintien de l'emploi et l'apurement du passif (art. L. 631-19)
 - **Dirigeant** : peut etre maintenu, remplace ou evince par le tribunal (art. L. 631-19-1)
-- **Textes** : renvoi aux dispositions du chapitre VI du titre II (plan de [[sauvegarde|sauvegarde]]), avec des derogations specifiques
+- **Textes** : renvoi aux dispositions du chapitre VI du titre II (plan de [[brantham/knowledge/procedures/sauvegarde|sauvegarde]]), avec des derogations specifiques
 
 ### Difference fondamentale
 
@@ -83,7 +83,7 @@ Le comite social et economique (CSE) ou, a defaut, les delegues du personnel son
 
 ### Contexte de la reforme
 
-L'ordonnance n. 2021-1193 du 15 septembre 2021, transposant la [[droit-europeen-insolvabilite|directive europeenne "Restructuration et insolvabilite" (2019/1023]]), a **remplace les anciens comites de creanciers** par les **[[sauvegarde-acceleree-sfa|classes de parties affectees]]** (art. L. 626-29 a L. 626-34).
+L'ordonnance n. 2021-1193 du 15 septembre 2021, transposant la [[brantham/knowledge/legal/droit-europeen-insolvabilite|directive europeenne "Restructuration et insolvabilite" (2019/1023]]), a **remplace les anciens comites de creanciers** par les **[[brantham/knowledge/procedures/sauvegarde-acceleree-sfa|classes de parties affectees]]** (art. L. 626-29 a L. 626-34).
 
 ### Definition
 
@@ -94,7 +94,7 @@ Les **parties affectees** sont :
 ### Constitution des classes
 
 L'administrateur judiciaire repartit les parties affectees en classes representant une **communaute d'interet economique suffisante**, en respectant :
-- Les creanciers titulaires de **[[suretes-en-procedure-collective|suretes reelles]]** forment une classe distincte des chirographaires
+- Les creanciers titulaires de **[[brantham/knowledge/legal/suretes-en-procedure-collective|suretes reelles]]** forment une classe distincte des chirographaires
 - Les **accords de subordination** conclus avant l'ouverture sont respectes
 - Les detenteurs de capital forment une ou plusieurs classes separees
 
@@ -167,7 +167,7 @@ Les remises consenties par les creanciers publics (Tresor, URSSAF) sont soumises
 
 ### Cessions partielles d'activite
 
-Le plan peut prevoir la **cession d'une ou plusieurs branches d'activite** (L. 626-1 al. 2). Ces cessions s'effectuent selon les modalites du plan, et non selon le regime du [[plans-de-cession|plan de cession]] (art. L. 642-1 et s.).
+Le plan peut prevoir la **cession d'une ou plusieurs branches d'activite** (L. 626-1 al. 2). Ces cessions s'effectuent selon les modalites du plan, et non selon le regime du [[brantham/knowledge/legal/plans-de-cession|plan de cession]] (art. L. 642-1 et s.).
 
 ### Inalivenabilite
 
@@ -257,7 +257,7 @@ La resolution peut etre demandee par :
 - Possibilite d'ouverture d'une nouvelle procedure si cessation des paiements ulterieure
 
 #### En cas de cessation des paiements pendant le plan de sauvegarde
-- Resolution du plan + ouverture d'un **[[redressement-judiciaire|redressement judiciaire]]** ou d'une **[[liquidation-judiciaire|liquidation judiciaire]]** (L. 626-27 al. 4)
+- Resolution du plan + ouverture d'un **[[brantham/knowledge/procedures/redressement-judiciaire|redressement judiciaire]]** ou d'une **[[brantham/knowledge/procedures/liquidation-judiciaire|liquidation judiciaire]]** (L. 626-27 al. 4)
 
 #### En cas de cessation des paiements pendant le plan de redressement (L. 631-20)
 - **Disposition specifique et plus severe** : "Lorsque la cessation des paiements du debiteur est constatee au cours de l'execution du plan, le tribunal [...] decide sa resolution et ouvre une procedure de **liquidation judiciaire**"
@@ -372,14 +372,19 @@ Plan de sauvegarde/redressement adopte
 
 ## Voir aussi
 
-- [[redressement-judiciaire]] -- Redressement judiciaire
-- [[liquidation-judiciaire]] -- Liquidation judiciaire
-- [[sauvegarde]] -- Sauvegarde
-- [[plans-de-cession]] -- Plans de cession judiciaire
-- [[sauvegarde-acceleree-sfa]] -- Sauvegarde acceleree et classes de parties affectees
-- [[rang-des-creances]] -- Rang des creances
-- [[suretes-en-procedure-collective]] -- Suretes en procedure collective
-- [[droit-europeen-insolvabilite]] -- Droit europeen de l'insolvabilite
+- [[brantham/knowledge/procedures/redressement-judiciaire]] -- Redressement judiciaire
+- [[brantham/knowledge/procedures/liquidation-judiciaire]] -- Liquidation judiciaire
+- [[brantham/knowledge/procedures/sauvegarde]] -- Sauvegarde
+- [[brantham/knowledge/legal/plans-de-cession]] -- Plans de cession judiciaire
+- [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa]] -- Sauvegarde acceleree et classes de parties affectees
+- [[brantham/knowledge/legal/rang-des-creances]] -- Rang des creances
+- [[brantham/knowledge/legal/suretes-en-procedure-collective]] -- Suretes en procedure collective
+- [[brantham/knowledge/legal/droit-europeen-insolvabilite]] -- Droit europeen de l'insolvabilite
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/glossary/glossaire-distressed]]
+- [[brantham/knowledge/finance/fiscalite-restructuration]]
+- [[brantham/knowledge/finance/valorisation-distressed]]
+- [[brantham/knowledge/acteurs/banques-cellules-restructuring]]
+- [[brantham/knowledge/legal/contrats-baux-en-procedure]]

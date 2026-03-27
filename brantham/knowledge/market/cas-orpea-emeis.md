@@ -119,7 +119,7 @@ Avec un EBITDA d'environ 700 M EUR et une dette nette de 9,5 Mds, le ratio dette
 - Cours de bourse : chute de 120 EUR a 25 EUR
 
 **Avril-Juin 2022 : Premiere conciliation**
-- 20/04 : Ouverture d'une procedure de [[mandat-ad-hoc-conciliation|conciliation]] par ordonnance du president du tribunal de commerce specialise de Nanterre. SELARL FHB (Me Helene Bourbouloux) designee conciliatrice pour 4 mois.
+- 20/04 : Ouverture d'une procedure de [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation|conciliation]] par ordonnance du president du tribunal de commerce specialise de Nanterre. SELARL FHB (Me Helene Bourbouloux) designee conciliatrice pour 4 mois.
 - 12/05 : Accord de principe avec les principaux partenaires bancaires
 - 03/06 : Conclusion du protocole de conciliation avec le pool bancaire
 - 10/06 : Homologation du protocole par le tribunal de Nanterre, fin de la premiere conciliation
@@ -141,7 +141,7 @@ Avec un EBITDA d'environ 700 M EUR et une dette nette de 9,5 Mds, le ratio dette
 
 **Janvier-Mars 2023**
 - 01/02 : Les negociations aboutissent. Le consortium CDC (Caisse des Depots et Consignations) + CNP Assurances + MACSF + MAIF s'engage a prendre le controle.
-- **24/03/2023** : Ouverture de la **procedure de [[sauvegarde-acceleree-sfa|sauvegarde acceleree]]** par le tribunal de commerce specialise de Nanterre
+- **24/03/2023** : Ouverture de la **procedure de [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa|sauvegarde acceleree]]** par le tribunal de commerce specialise de Nanterre
 
 **Avril-Juin 2023 : Preparation du plan**
 - 21/04 : Notifications des administrateurs judiciaires aux classes de parties affectees
@@ -285,7 +285,7 @@ L'affaire Orpea constitue un **precedent majeur** en droit francais des entrepri
 
 1. **Premiere application de l'article L.626-32 du Code de commerce** (issu de l'ordonnance du 15/09/2021) : le tribunal peut imposer un plan rejete par certaines classes si les conditions legales sont remplies.
 
-2. **Test du meilleur interet des creanciers** : le tribunal a verifie que chaque creancier dissident recevait au moins autant qu'en [[liquidation-judiciaire|liquidation judiciaire]].
+2. **Test du meilleur interet des creanciers** : le tribunal a verifie que chaque creancier dissident recevait au moins autant qu'en [[brantham/knowledge/procedures/liquidation-judiciaire|liquidation judiciaire]].
 
 3. **Regle de priorite absolue** : les actionnaires existants (classe la plus junior) ne peuvent bloquer un plan qui beneficie aux creanciers plus seniors.
 
@@ -319,7 +319,7 @@ Ce precedent :
 
 7. **La CDC comme investisseur de dernier recours** : pour les groupes systemiques (sante, emploi), l'Etat peut intervenir via la CDC. Ce n'est pas une nationalisation mais un sauvetage structure.
 8. **Le rebrand est necessaire apres un scandale majeur** : Orpea->Emeis montre qu'un changement de nom est indispensable pour la credibilite
-9. **[[due-diligence-distressed|Due diligence]] renforcee sur la dette reelle** : toujours verifier les engagements hors bilan, les JV non consolidees, les vehicules de titrisation
+9. **[[brantham/knowledge/process/due-diligence-distressed|Due diligence]] renforcee sur la dette reelle** : toujours verifier les engagements hors bilan, les JV non consolidees, les vehicules de titrisation
 
 ### Application Brantham
 
@@ -351,15 +351,16 @@ Ce precedent :
 
 ## Voir aussi
 
-- [[sauvegarde-acceleree-sfa]] — Procedure de sauvegarde acceleree utilisee par Orpea
-- [[cas-casino-groupe]] — Autre mega-restructuration avec cram-down
-- [[restructuration-dette]] — Mecanismes de conversion dette/equity
-- [[rang-des-creances]] — Hierarchie des creanciers dans le plan
-- [[mandat-ad-hoc-conciliation]] — Procedures de conciliation pre-sauvegarde
-- [[ecosysteme-restructuring]] — Acteurs impliques (FHBX, Houlihan Lokey)
-- [[valorisation-distressed]] — Methodes de valorisation appliquees
-- [[stats-defaillances-2025]] — Contexte macro des defaillances
-- [[droit-europeen-insolvabilite]] — Directive europeenne ayant permis le cram-down
+- [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa]] — Procedure de sauvegarde acceleree utilisee par Orpea
+- [[brantham/knowledge/market/cas-casino-groupe]] — Autre mega-restructuration avec cram-down
+- [[brantham/knowledge/finance/restructuration-dette]] — Mecanismes de conversion dette/equity
+- [[brantham/knowledge/legal/rang-des-creances]] — Hierarchie des creanciers dans le plan
+- [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation]] — Procedures de conciliation pre-sauvegarde
+- [[brantham/knowledge/acteurs/ecosysteme-restructuring]] — Acteurs impliques (FHBX, Houlihan Lokey)
+- [[brantham/knowledge/finance/valorisation-distressed]] — Methodes de valorisation appliquees
+- [[brantham/knowledge/market/stats-defaillances-2025]] — Contexte macro des defaillances
+- [[brantham/knowledge/legal/droit-europeen-insolvabilite]] — Directive europeenne ayant permis le cram-down
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/market/cas-emblematiques-france]]

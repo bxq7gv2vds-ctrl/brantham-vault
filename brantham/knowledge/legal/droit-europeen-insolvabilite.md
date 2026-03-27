@@ -90,7 +90,7 @@ Informations obligatoires : date d'ouverture, juridiction, type de procedure, id
 
 ### 1.8 Champ d'application
 
-Le reglement s'applique aux procedures d'insolvabilite **collectives** fondees sur l'insolvabilite du debiteur, qui entrainent le dessaisissement partiel ou total et la designation d'un praticien. Les procedures couvertes sont listees en annexe A (pour la France : [[sauvegarde|sauvegarde]], [[sauvegarde-acceleree-sfa|sauvegarde acceleree]], sauvegarde financiere acceleree, [[redressement-judiciaire|redressement judiciaire]], [[liquidation-judiciaire|liquidation judiciaire]]).
+Le reglement s'applique aux procedures d'insolvabilite **collectives** fondees sur l'insolvabilite du debiteur, qui entrainent le dessaisissement partiel ou total et la designation d'un praticien. Les procedures couvertes sont listees en annexe A (pour la France : [[brantham/knowledge/procedures/sauvegarde|sauvegarde]], [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa|sauvegarde acceleree]], sauvegarde financiere acceleree, [[brantham/knowledge/procedures/redressement-judiciaire|redressement judiciaire]], [[brantham/knowledge/procedures/liquidation-judiciaire|liquidation judiciaire]]).
 
 **Exclusions** : assurances, etablissements de credit, entreprises d'investissement, organismes de placement collectif.
 
@@ -214,12 +214,12 @@ L'article L626-32 du Code de commerce permet au tribunal d'**arreter le plan mal
 
 ### 3.5 Fusion SA/SFA en sauvegarde acceleree unique
 
-L'ordonnance fusionne la sauvegarde acceleree (SA) et la sauvegarde financiere acceleree (SFA) en une **procedure unique de sauvegarde acceleree** (art. L628-1+). Cette procedure permet d'imposer a tous les creanciers (pas seulement les financiers) un plan negocie en [[mandat-ad-hoc-conciliation|conciliation]], dans un delai de **2 a 4 mois maximum**.
+L'ordonnance fusionne la sauvegarde acceleree (SA) et la sauvegarde financiere acceleree (SFA) en une **procedure unique de sauvegarde acceleree** (art. L628-1+). Cette procedure permet d'imposer a tous les creanciers (pas seulement les financiers) un plan negocie en [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation|conciliation]], dans un delai de **2 a 4 mois maximum**.
 
 ### 3.6 Ameliorations de la conciliation
 
 - Allongement possible de la duree de conciliation (5 mois + 3 mois si demande de sauvegarde acceleree).
-- [[rang-des-creances|Privilege de **new money]]** (art. L611-11) renforce.
+- [[brantham/knowledge/legal/rang-des-creances|Privilege de **new money]]** (art. L611-11) renforce.
 - Meilleure articulation conciliation / sauvegarde acceleree (le plan de SA doit etre soutenu par au moins 2/3 des creanciers avant l'ouverture).
 
 ### 3.7 Autres modifications notables
@@ -247,8 +247,8 @@ Procedure de choix pour les restructurations complexes :
 - Le cram-down interclasse est pleinement operationnel.
 
 **Cas emblematiques** :
-- **[[cas-orpea-emeis|Orpea]] (2022-2023)** : plan de sauvegarde acceleree avec cram-down sur les actionnaires et creanciers chirographaires dissidents. Les actionnaires ont subi une dilution massive.
-- **[[cas-casino-groupe|Casino]] (2023)** : 17 classes de parties affectees constituees. 16 sur 17 ont approuve le plan. Illustration de la flexibilite du nouveau systeme.
+- **[[brantham/knowledge/market/cas-orpea-emeis|Orpea]] (2022-2023)** : plan de sauvegarde acceleree avec cram-down sur les actionnaires et creanciers chirographaires dissidents. Les actionnaires ont subi une dilution massive.
+- **[[brantham/knowledge/market/cas-casino-groupe|Casino]] (2023)** : 17 classes de parties affectees constituees. 16 sur 17 ont approuve le plan. Illustration de la flexibilite du nouveau systeme.
 
 ### 4.3 Redressement judiciaire
 
@@ -285,7 +285,7 @@ Un plan de sauvegarde ou de sauvegarde acceleree adopte en France est **automati
 
 ### 5.4 Competence internationale pour la cession
 
-En cas de cession judiciaire ([[plans-de-cession|plan de cession]] en LJ ou RJ), la vente est organisee par la juridiction de la procedure principale. Les biens situes dans d'autres Etats sont inclus dans le perimetre de cession grace a l'effet universel de la procedure principale.
+En cas de cession judiciaire ([[brantham/knowledge/legal/plans-de-cession|plan de cession]] en LJ ou RJ), la vente est organisee par la juridiction de la procedure principale. Les biens situes dans d'autres Etats sont inclus dans le perimetre de cession grace a l'effet universel de la procedure principale.
 
 ### 5.5 Post-Brexit : impact sur les operations UK-France
 
@@ -340,7 +340,7 @@ Depuis le 1er janvier 2021, le Royaume-Uni est un Etat tiers. Consequences :
 | PME avec creanciers bancaires etrangers (pool syndique) | Classes de parties affectees : les banques etrangeres votent dans leur classe | Anticiper la constitution des classes et les negociations cross-border. |
 | Groupe avec holding etrangere | COMI de la holding vs COMI de la filiale operationnelle | Verifier ou se situe le veritable COMI (gestion effective). |
 | Concurrent utilisant le COMI shopping | Transfert dans un Etat plus favorable (Pays-Bas, Irlande) | Surveiller les transferts de siege et denoncer si < 3 mois. |
-| Cible avec dette governed by English law | Post-Brexit : contrats de droit anglais ne beneficient plus de la reconnaissance automatique | [[due-diligence-distressed|Due diligence]] sur la loi applicable a chaque contrat de dette. |
+| Cible avec dette governed by English law | Post-Brexit : contrats de droit anglais ne beneficient plus de la reconnaissance automatique | [[brantham/knowledge/process/due-diligence-distressed|Due diligence]] sur la loi applicable a chaque contrat de dette. |
 
 ### 7.2 Due diligence cross-border -- Checklist
 
@@ -362,14 +362,16 @@ Depuis le 1er janvier 2021, le Royaume-Uni est un Etat tiers. Consequences :
 
 ## Voir aussi
 
-- [[sauvegarde]] -- Sauvegarde
-- [[sauvegarde-acceleree-sfa]] -- Sauvegarde acceleree et SFA
-- [[redressement-judiciaire]] -- Redressement judiciaire
-- [[liquidation-judiciaire]] -- Liquidation judiciaire
-- [[mandat-ad-hoc-conciliation]] -- Mandat ad hoc et conciliation
-- [[rang-des-creances]] -- Rang des creances et privilege new money
-- [[cas-orpea-emeis]] -- Cas Orpea / Emeis
-- [[cas-casino-groupe]] -- Cas Casino Groupe
+- [[brantham/knowledge/procedures/sauvegarde]] -- Sauvegarde
+- [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa]] -- Sauvegarde acceleree et SFA
+- [[brantham/knowledge/procedures/redressement-judiciaire]] -- Redressement judiciaire
+- [[brantham/knowledge/procedures/liquidation-judiciaire]] -- Liquidation judiciaire
+- [[brantham/knowledge/procedures/mandat-ad-hoc-conciliation]] -- Mandat ad hoc et conciliation
+- [[brantham/knowledge/legal/rang-des-creances]] -- Rang des creances et privilege new money
+- [[brantham/knowledge/market/cas-orpea-emeis]] -- Cas Orpea / Emeis
+- [[brantham/knowledge/market/cas-casino-groupe]] -- Cas Casino Groupe
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/skills/negociation-crise]]
+- [[brantham/knowledge/legal/plans-de-continuation]]

@@ -31,3 +31,8 @@ status: resolved
 - [[website/audits/2026-03-21-seo-geo-audit]]
 - [[website/sessions/2026-03-21]]
 - [[brantham/sessions/2026-03-21-scan]]
+- [[website/patterns/seo-subagent-audit-fix]]
+- [[website/patterns/geo-ai-content-optimization]]
+- [[brantham/patterns/teaser-onepager-html-pdf]]
+- [[brantham/patterns/scoring-patterns]]
+- [[brantham/patterns/teaser-patterns]]

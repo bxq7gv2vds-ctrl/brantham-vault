@@ -23,7 +23,7 @@ Le choix entre ces deux modes depend de la nature des actifs, du nombre de candi
 
 ### 2.1. Encheres sur actifs isoles (LJ)
 
-En [[liquidation-judiciaire|liquidation judiciaire]], lorsqu'aucune offre de gre a gre n'est suffisante ou que le juge-commissaire l'ordonne, les actifs sont vendus aux encheres publiques.
+En [[brantham/knowledge/procedures/liquidation-judiciaire|liquidation judiciaire]], lorsqu'aucune offre de gre a gre n'est suffisante ou que le juge-commissaire l'ordonne, les actifs sont vendus aux encheres publiques.
 
 **Types d'actifs concernes** :
 - Biens meubles corporels (materiel, vehicules, stocks, mobilier)
@@ -246,7 +246,7 @@ Exception pretorienne : l'appel-nullite ou la tierce opposition-nullite en cas d
 - Business plan type parametrable rapidement
 
 ### 8.3. Phase d'audience
-- Se deplacer systematiquement a l'audience (voir [[audience-tribunal]])
+- Se deplacer systematiquement a l'audience (voir [[brantham/knowledge/process/audience-tribunal]])
 - Preparer une presentation orale convaincante
 - Cheque de banque en main
 
@@ -263,15 +263,18 @@ Exception pretorienne : l'appel-nullite ou la tierce opposition-nullite en cas d
 
 ## Voir aussi
 
-- [[structuration-offres-reprise]] — Redaction de l'offre de reprise
-- [[audience-tribunal]] — Deroulement de l'audience de cession
-- [[due-diligence-distressed]] — DD prealable aux encheres
-- [[plans-de-cession]] — Plan de cession vs actifs isoles
-- [[liquidation-judiciaire]] — Regime de la LJ et vente d'actifs
-- [[valorisation-distressed]] — Determination du prix et decotes
-- [[post-closing-execution]] — Realisation de la cession apres jugement
-- [[ecosysteme-restructuring]] — Plateformes de veille et acteurs
-- [[glossaire-distressed]] — Terminologie M&A distressed
+- [[brantham/knowledge/process/structuration-offres-reprise]] — Redaction de l'offre de reprise
+- [[brantham/knowledge/process/audience-tribunal]] — Deroulement de l'audience de cession
+- [[brantham/knowledge/process/due-diligence-distressed]] — DD prealable aux encheres
+- [[brantham/knowledge/legal/plans-de-cession]] — Plan de cession vs actifs isoles
+- [[brantham/knowledge/procedures/liquidation-judiciaire]] — Regime de la LJ et vente d'actifs
+- [[brantham/knowledge/finance/valorisation-distressed]] — Determination du prix et decotes
+- [[brantham/knowledge/process/post-closing-execution]] — Realisation de la cession apres jugement
+- [[brantham/knowledge/acteurs/ecosysteme-restructuring]] — Plateformes de veille et acteurs
+- [[brantham/knowledge/glossary/glossaire-distressed]] — Terminologie M&A distressed
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/context/process-end-to-end]]
+- [[brantham/knowledge/procedures/lj-simplifiee]]
+- [[brantham/knowledge/skills/negociation-crise]]

@@ -35,8 +35,8 @@ Le mandat ad hoc et la conciliation sont les deux **procedures amiables de preve
 
 Points cles :
 - **Mandat ad hoc** : souple, confidentiel, sans duree legale maximale, pas d'effet collectif. Ideal pour des difficultes ponctuelles ou des conflits entre associes.
-- **Conciliation** : plus structuree, 5 mois max, peut deboucher sur un accord homologue avec [[rang-des-creances|privilege de new money]]. Accessible meme si cessation de paiements < 45 jours.
-- **Taux de reussite** : > 60% des procedures debouchent sur un accord avec les creanciers (vs ~25-30% en [[redressement-judiciaire|redressement judiciaire]]).
+- **Conciliation** : plus structuree, 5 mois max, peut deboucher sur un accord homologue avec [[brantham/knowledge/legal/rang-des-creances|privilege de new money]]. Accessible meme si cessation de paiements < 45 jours.
+- **Taux de reussite** : > 60% des procedures debouchent sur un accord avec les creanciers (vs ~25-30% en [[brantham/knowledge/procedures/redressement-judiciaire|redressement judiciaire]]).
 - **Confidentialite** : totale en mandat ad hoc ; preservee en conciliation (sauf homologation).
 
 ---
@@ -166,7 +166,7 @@ C'est une distinction fondamentale en pratique :
 
 #### Texte de reference
 
-> **Article L611-11 du Code de commerce** : En cas d'ouverture d'une procedure de [[sauvegarde|sauvegarde]], de redressement judiciaire ou de [[liquidation-judiciaire|liquidation judiciaire]], les personnes qui avaient consenti, dans le cadre d'une procedure de conciliation ayant donne lieu a l'accord homologue mentionne au II de l'article L. 611-8, un nouvel apport en tresorerie au debiteur en vue d'assurer la poursuite d'activite de l'entreprise et sa perennite, sont payees, pour le montant de cet apport, par privilege avant toutes les autres creances [...]. Les personnes qui fournissent, dans le meme cadre, un nouveau bien ou service en vue d'assurer la poursuite d'activite de l'entreprise et sa perennite beneficient du meme privilege pour le prix de ce bien ou de ce service.
+> **Article L611-11 du Code de commerce** : En cas d'ouverture d'une procedure de [[brantham/knowledge/procedures/sauvegarde|sauvegarde]], de redressement judiciaire ou de [[brantham/knowledge/procedures/liquidation-judiciaire|liquidation judiciaire]], les personnes qui avaient consenti, dans le cadre d'une procedure de conciliation ayant donne lieu a l'accord homologue mentionne au II de l'article L. 611-8, un nouvel apport en tresorerie au debiteur en vue d'assurer la poursuite d'activite de l'entreprise et sa perennite, sont payees, pour le montant de cet apport, par privilege avant toutes les autres creances [...]. Les personnes qui fournissent, dans le meme cadre, un nouveau bien ou service en vue d'assurer la poursuite d'activite de l'entreprise et sa perennite beneficient du meme privilege pour le prix de ce bien ou de ce service.
 
 #### Conditions cumulatives
 
@@ -234,7 +234,7 @@ Le pre-pack cession (ou "cession preparee") est un mecanisme qui permet de **pre
 
 6. La conciliation est convertie en procedure collective (sauvegarde, redressement ou liquidation judiciaire).
 7. Le tribunal statue sur les offres de reprise deja preparees. **Article L642-2 modifie** : le tribunal peut decider de ne pas fixer de nouveau delai de reception d'offres si les offres existantes remplissent les conditions legales.
-8. Le [[plans-de-cession|plan de cession]] est arrete en quelques jours (vs plusieurs semaines/mois dans une procedure classique).
+8. Le [[brantham/knowledge/legal/plans-de-cession|plan de cession]] est arrete en quelques jours (vs plusieurs semaines/mois dans une procedure classique).
 
 #### Conditions de validite
 
@@ -261,7 +261,7 @@ Le pre-pack cession (ou "cession preparee") est un mecanisme qui permet de **pre
 
 - Le pre-pack cession s'est progressivement installe dans la pratique depuis 2014. Les tribunaux de commerce de Paris et Lyon sont les plus actifs.
 - **Affaire Mim (2015)** : un des premiers pre-packs mediatises en France (enseigne de pret-a-porter).
-- **Reforme 2021** (ordonnance du 15 sept. 2021, transposition directive EU 2019/1023) : renforcement du cadre legal, articulation avec la [[sauvegarde-acceleree-sfa|sauvegarde acceleree]].
+- **Reforme 2021** (ordonnance du 15 sept. 2021, transposition directive EU 2019/1023) : renforcement du cadre legal, articulation avec la [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa|sauvegarde acceleree]].
 
 ---
 
@@ -338,7 +338,7 @@ Les procedures amiables representent un **gisement de deals sous-exploite** pour
    - **Action** : developper la relation avec les AJ non seulement sur les RJ/LJ mais aussi sur leurs missions amiables.
 
 4. **Positionnement comme repreneur/investisseur** :
-   - Brantham peut accompagner des repreneurs dans des pre-packs : identification du deal, [[due-diligence-distressed|due diligence]] rapide, structuration de l'offre, accompagnement post-cession.
+   - Brantham peut accompagner des repreneurs dans des pre-packs : identification du deal, [[brantham/knowledge/process/due-diligence-distressed|due diligence]] rapide, structuration de l'offre, accompagnement post-cession.
    - Le privilege de new money peut inciter des investisseurs a fournir du bridge financing pendant la conciliation, securisant leur creance.
 
 5. **Intelligence sur le marche** :
@@ -419,15 +419,20 @@ Difficultes precoces → Mandat ad hoc (confidentiel, flexible)
 
 ## Voir aussi
 
-- [[sauvegarde]] -- Sauvegarde
-- [[sauvegarde-acceleree-sfa]] -- Sauvegarde acceleree et SFA
-- [[redressement-judiciaire]] -- Redressement judiciaire
-- [[liquidation-judiciaire]] -- Liquidation judiciaire
-- [[rang-des-creances]] -- Rang des creances et privilege new money
-- [[plans-de-cession]] -- Plans de cession (pre-pack)
-- [[restructuration-dette]] -- Restructuration de dette
-- [[due-diligence-distressed]] -- Due diligence distressed
-- [[stats-defaillances-2025]] -- Statistiques des defaillances
+- [[brantham/knowledge/procedures/sauvegarde]] -- Sauvegarde
+- [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa]] -- Sauvegarde acceleree et SFA
+- [[brantham/knowledge/procedures/redressement-judiciaire]] -- Redressement judiciaire
+- [[brantham/knowledge/procedures/liquidation-judiciaire]] -- Liquidation judiciaire
+- [[brantham/knowledge/legal/rang-des-creances]] -- Rang des creances et privilege new money
+- [[brantham/knowledge/legal/plans-de-cession]] -- Plans de cession (pre-pack)
+- [[brantham/knowledge/finance/restructuration-dette]] -- Restructuration de dette
+- [[brantham/knowledge/process/due-diligence-distressed]] -- Due diligence distressed
+- [[brantham/knowledge/market/stats-defaillances-2025]] -- Statistiques des defaillances
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/agriculture-agroalimentaire]]
+- [[brantham/knowledge/glossary/glossaire-distressed]]
+- [[brantham/knowledge/finance/fiscalite-restructuration]]
+- [[brantham/knowledge/finance/comptabilite-crise]]
+- [[brantham/knowledge/finance/valorisation-distressed]]

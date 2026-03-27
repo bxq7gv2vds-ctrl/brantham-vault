@@ -62,7 +62,7 @@ L'entreprise en difficulte souffre d'une crise de confiance generalisee :
 
 ### FAQ type salaries
 - Est-ce que je vais garder mon emploi ? (reponse honnete : "le repreneur s'engage sur X postes")
-- Est-ce que mes salaires sont payes ? ([[glossaire-distressed|AGS]] garantit les arrieres)
+- Est-ce que mes salaires sont payes ? ([[brantham/knowledge/glossary/glossaire-distressed|AGS]] garantit les arrieres)
 - Qui est le repreneur ? (presenter le projet sans survendre)
 - Qu'est-ce qui change pour moi au quotidien ? (le moins possible dans l'immediat)
 - Et si je veux partir ? (expliquer les droits, ne pas retenir de force)
@@ -181,7 +181,7 @@ Les fournisseurs sont les plus nerveux : ils ont souvent des impayes et craignen
 
 ## 7. Communication institutionnelle
 
-### [[audience-tribunal|Tribunal de commerce]]
+### [[brantham/knowledge/process/audience-tribunal|Tribunal de commerce]]
 - Communiquer via le dossier formel (offre, memoires, pieces justificatives)
 - Credibilite = dossier complet, coherent, realiste
 - Presenter en audience avec assurance mais humilite
@@ -296,14 +296,16 @@ Les fournisseurs sont les plus nerveux : ils ont souvent des impayes et craignen
 
 ## Voir aussi
 
-- [[negociation-crise]] — Techniques de negociation en restructuration
-- [[ethique-repreneur]] — Principes ethiques dans la communication
-- [[audience-tribunal]] — Presentation devant le tribunal
-- [[post-closing-execution]] — Execution post-reprise et plan 100 jours
-- [[integration-post-acquisition]] — Integration operationnelle
-- [[ecosysteme-restructuring]] — Identifier les interlocuteurs cles
-- [[droit-social-restructuration]] — PSE et obligations sociales
-- [[plans-de-cession]] — Contenu obligatoire de l'offre (volet emploi)
+- [[brantham/knowledge/skills/negociation-crise]] — Techniques de negociation en restructuration
+- [[brantham/knowledge/skills/ethique-repreneur]] — Principes ethiques dans la communication
+- [[brantham/knowledge/process/audience-tribunal]] — Presentation devant le tribunal
+- [[brantham/knowledge/process/post-closing-execution]] — Execution post-reprise et plan 100 jours
+- [[brantham/knowledge/process/integration-post-acquisition]] — Integration operationnelle
+- [[brantham/knowledge/acteurs/ecosysteme-restructuring]] — Identifier les interlocuteurs cles
+- [[brantham/knowledge/legal/droit-social-restructuration]] — PSE et obligations sociales
+- [[brantham/knowledge/legal/plans-de-cession]] — Contenu obligatoire de l'offre (volet emploi)
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/finance/assurance-credit]]
+- [[brantham/knowledge/process/turnaround-operationnel]]

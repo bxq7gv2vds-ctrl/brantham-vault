@@ -60,9 +60,9 @@ Le ralentissement de la progression est net : +1,7% au T4 2025 vs +10% au T4 202
 
 | Procedure | Nombre | Part | Evolution vs 2024 |
 |---|---|---|---|
-| **[[liquidation-judiciaire|Liquidation judiciaire]] directe (LJ)** | **47 078** | **67%** | +0,9% |
-| **[[redressement-judiciaire|Redressement judiciaire]] (RJ)** | **21 336** | **30%** | +8,6% |
-| **[[sauvegarde|Sauvegarde]]** | **1 543** | **2%** | -0,4% |
+| **[[brantham/knowledge/procedures/liquidation-judiciaire|Liquidation judiciaire]] directe (LJ)** | **47 078** | **67%** | +0,9% |
+| **[[brantham/knowledge/procedures/redressement-judiciaire|Redressement judiciaire]] (RJ)** | **21 336** | **30%** | +8,6% |
+| **[[brantham/knowledge/procedures/sauvegarde|Sauvegarde]]** | **1 543** | **2%** | -0,4% |
 | **Total** | **69 957** | 100% | +3,1% |
 
 ### Analyse
@@ -70,7 +70,7 @@ Le ralentissement de la progression est net : +1,7% au T4 2025 vs +10% au T4 202
 - Les **LJ directes** dominent massivement (2 defaillances sur 3). Cela signifie que la majorite des entreprises arrivent au tribunal **trop tard**, sans possibilite de redressement.
 - Les **RJ** progressent plus vite que les LJ (+8,6% vs +0,9%), signe que davantage d'entreprises tentent le redressement -- tendance positive pour le M&A distressed (cessions en RJ).
 - Les **sauvegardes** restent marginales a 2%. La procedure est sous-utilisee par les PME qui ne connaissent pas ou craignent la procedure. Enorme potentiel de conseil en amont.
-- **[[mandat-ad-hoc-conciliation|Conciliation]]** : les chiffres de conciliation ne sont pas publies (procedure confidentielle). On estime 1 500-2 000 conciliations/an (source : Conference des presidents de TC).
+- **[[brantham/knowledge/procedures/mandat-ad-hoc-conciliation|Conciliation]]** : les chiffres de conciliation ne sont pas publies (procedure confidentielle). On estime 1 500-2 000 conciliations/an (source : Conference des presidents de TC).
 
 ---
 
@@ -104,7 +104,7 @@ Le ralentissement de la progression est net : +1,7% au T4 2025 vs +10% au T4 202
 
 | Secteur | Defaillances (12 mois cumules) | Part | Evolution vs 2019 |
 |---|---|---|---|
-| **[[btp-construction|Construction / BTP]]** | **14 672** | **21%** | Hausse significative mais deceleration (-3,2% annuel, -8,1% au T4) |
+| **[[brantham/knowledge/sectors/btp-construction|Construction / BTP]]** | **14 672** | **21%** | Hausse significative mais deceleration (-3,2% annuel, -8,1% au T4) |
 | **Commerce / Reparation auto** | **13 724** | **20%** | Commerce gros +76%, detail habillement en crise |
 | **Hebergement / Restauration** | **9 250** | **13%** | +187% vs S1 2019 |
 | **Services aux entreprises** | **8 442** | **12%** | +791 defaillances/12 mois au T3 |
@@ -374,8 +374,8 @@ La France est **le pays le plus touche en volume absolu** en Europe. Cela s'expl
 | Entreprise | Secteur | Procedure | CA / Employes | Notes |
 |---|---|---|---|---|
 | **Auchan** | Distribution | Restructuration | ~30 Mds EUR CA, ~54 000 sal. | Pertes 1,22 Md EUR 2024. Plan economies 350M, -2 389 postes. |
-| **[[cas-casino-groupe|Casino]]** | Distribution | [[sauvegarde-acceleree-sfa|Sauvegarde acceleree]] | ~8 Mds EUR CA | 17 classes de parties affectees. 16/17 ont vote le plan. Reprise Teract/Auchan/Intermarche. |
-| **[[cas-orpea-emeis|Orpea]]** | Sante/EHPAD | [[sauvegarde-acceleree-sfa|Sauvegarde acceleree]] | -- | Cram-down sur actionnaires et chirographaires dissidents. Dilution massive. |
+| **[[brantham/knowledge/market/cas-casino-groupe|Casino]]** | Distribution | [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa|Sauvegarde acceleree]] | ~8 Mds EUR CA | 17 classes de parties affectees. 16/17 ont vote le plan. Reprise Teract/Auchan/Intermarche. |
+| **[[brantham/knowledge/market/cas-orpea-emeis|Orpea]]** | Sante/EHPAD | [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa|Sauvegarde acceleree]] | -- | Cram-down sur actionnaires et chirographaires dissidents. Dilution massive. |
 | **Brandt** | Electromenager | LJ | ~300M EUR CA | Fin de l'electromenager francais. |
 | **IKKS** | Habillement | LJ (dec 2025) | ~250M EUR CA, ~1 500 sal. | Crise du retail mode. |
 | **Casa** | Decoration | LJ | ~200 magasins | Concurrence e-commerce + baisse pouvoir achat. |
@@ -398,16 +398,20 @@ La France est **le pays le plus touche en volume absolu** en Europe. Cela s'expl
 
 ## Voir aussi
 
-- [[retail-commerce]] — Playbook sectoriel commerce (20% des defaillances)
-- [[btp-construction]] — Playbook sectoriel BTP (21% des defaillances)
-- [[restauration-hotellerie]] — Playbook sectoriel CHR (13% des defaillances)
-- [[industrie-manufacturiere]] — Playbook sectoriel industrie
-- [[tech-startups]] — Playbook sectoriel tech et startups
-- [[cas-emblematiques-france]] — Etudes de cas des defaillances majeures
-- [[cas-orpea-emeis]] — Cas Orpea/Emeis, plus grande restructuration francaise
-- [[cas-casino-groupe]] — Cas Casino, effondrement d'un empire pyramidal
-- [[ecosysteme-restructuring]] — Acteurs de l'ecosysteme restructuring
-- [[quick-scan-diagnostic]] — Diagnostic flash pour evaluer les opportunites
+- [[brantham/knowledge/sectors/retail-commerce]] — Playbook sectoriel commerce (20% des defaillances)
+- [[brantham/knowledge/sectors/btp-construction]] — Playbook sectoriel BTP (21% des defaillances)
+- [[brantham/knowledge/sectors/restauration-hotellerie]] — Playbook sectoriel CHR (13% des defaillances)
+- [[brantham/knowledge/sectors/industrie-manufacturiere]] — Playbook sectoriel industrie
+- [[brantham/knowledge/sectors/tech-startups]] — Playbook sectoriel tech et startups
+- [[brantham/knowledge/market/cas-emblematiques-france]] — Etudes de cas des defaillances majeures
+- [[brantham/knowledge/market/cas-orpea-emeis]] — Cas Orpea/Emeis, plus grande restructuration francaise
+- [[brantham/knowledge/market/cas-casino-groupe]] — Cas Casino, effondrement d'un empire pyramidal
+- [[brantham/knowledge/acteurs/ecosysteme-restructuring]] — Acteurs de l'ecosysteme restructuring
+- [[brantham/knowledge/skills/quick-scan-diagnostic]] — Diagnostic flash pour evaluer les opportunites
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/immobilier]]
+- [[brantham/knowledge/sectors/agriculture-agroalimentaire]]
+- [[brantham/knowledge/glossary/glossaire-distressed]]
+- [[brantham/knowledge/finance/assurance-credit]]

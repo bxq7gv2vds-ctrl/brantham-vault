@@ -4,13 +4,13 @@
 
 | Secteur | Fichier | Defaillances/an | Priorite Brantham |
 |---------|---------|-----------------|-------------------|
-| Retail / Commerce de detail | [[retail-commerce]] | 13 724 (20%) | P1 |
-| BTP / Construction | [[btp-construction]] | 14 672 (21%) | P0 |
-| Restauration / Hotellerie | [[restauration-hotellerie]] | 9 250 (13%) | P2 |
-| Industrie manufacturiere | [[industrie-manufacturiere]] | ~4 000 (6%) | P0 |
-| Tech / Startups | [[tech-startups]] | ~2 500 (4%) | P2 |
-| Immobilier | [[immobilier]] | ~2 000 (3%) | P1 |
-| Agriculture / Agroalimentaire | [[agriculture-agroalimentaire]] | ~2 500 (3,5%) | P1 |
+| Retail / Commerce de detail | [[brantham/knowledge/sectors/retail-commerce]] | 13 724 (20%) | P1 |
+| BTP / Construction | [[brantham/knowledge/sectors/btp-construction]] | 14 672 (21%) | P0 |
+| Restauration / Hotellerie | [[brantham/knowledge/sectors/restauration-hotellerie]] | 9 250 (13%) | P2 |
+| Industrie manufacturiere | [[brantham/knowledge/sectors/industrie-manufacturiere]] | ~4 000 (6%) | P0 |
+| Tech / Startups | [[brantham/knowledge/sectors/tech-startups]] | ~2 500 (4%) | P2 |
+| Immobilier | [[brantham/knowledge/sectors/immobilier]] | ~2 000 (3%) | P1 |
+| Agriculture / Agroalimentaire | [[brantham/knowledge/sectors/agriculture-agroalimentaire]] | ~2 500 (3,5%) | P1 |
 
 Chaque fiche contient : panorama, specificites sectorielles, risques cles, valorisation, exemples FR, checklist repreneur.
 

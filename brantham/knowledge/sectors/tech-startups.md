@@ -72,7 +72,7 @@ La PI est souvent le **principal actif** d'une startup tech en difficulte. Elle 
 
 | Type PI | Exemples | Valorisation distressed |
 |---|---|---|
-| **Brevets** | Algorithmes, procedes techniques | 10-30% de la valeur going concern. Royalties capitalisees (3-5 ans). Voir [[pi-actifs-incorporels-distressed]] |
+| **Brevets** | Algorithmes, procedes techniques | 10-30% de la valeur going concern. Royalties capitalisees (3-5 ans). Voir [[brantham/knowledge/finance/pi-actifs-incorporels-distressed]] |
 | **Code source** | Logiciel, plateforme SaaS | Cout de reproduction - dette technique. Si code propre : 30-50% du cout de dev |
 | **Marque** | Nom, domaine, notoriete | 0 si startup inconnue. Valeur du domaine + base users si notoriete |
 | **Donnees** | Base clients, datasets, modeles entraines | Valeur RGPD-compliant uniquement. Donnees proprietaires = actif strategique |
@@ -192,7 +192,7 @@ L'acqui-hire est la forme de M&A la plus frequente pour les startups en difficul
 | **Ynsect** | 2025 | Agritech | RJ puis LJ | Liquidation | 1,5 Md EUR de valorisation en 2022, burn insoutenable |
 | **Carmat** | 2026 | Medtech | LJ | Liquidation | Coeur artificiel, R&D sans marche suffisant |
 | **Lynx** | 2026 | VR/XR | LJ | Liquidation | Realite mixte, marche trop etroit |
-| **Sigfox** | 2022 | IoT | [[redressement-judiciaire|RJ]] | Reprise UnaBiz | Licorne devaluee, PI = actif principal |
+| **Sigfox** | 2022 | IoT | [[brantham/knowledge/procedures/redressement-judiciaire|RJ]] | Reprise UnaBiz | Licorne devaluee, PI = actif principal |
 | **Devialet** | 2024 | Audio tech | RJ | Restructuration | Produit premium, pivot B2B necessaire |
 | **Swile** (restructuration) | 2024 | Fintech | Restructuration | Pivot | Pas de procedure collective mais 30% licenciements |
 
@@ -253,15 +253,16 @@ L'acqui-hire est la forme de M&A la plus frequente pour les startups en difficul
 
 ## Voir aussi
 
-- [[pi-actifs-incorporels-distressed]] — Valorisation brevets, code source, donnees
-- [[stats-defaillances-2025]] — Contexte macro (+40% defaillances tech)
-- [[valorisation-distressed]] — Multiples ARR et methodes distressed
-- [[due-diligence-distressed]] — Checklist DD tech (code, PI, RGPD)
-- [[liquidation-judiciaire]] — LJ directe (70% des startups en difficulte)
-- [[plans-de-cession]] — Cession de fonds de commerce tech
-- [[financial-modeling-distressed]] — Modelisation SaaS distressed
-- [[quick-scan-diagnostic]] — Diagnostic flash tech
-- [[ecosysteme-restructuring]] — Fonds de retournement actifs en tech
+- [[brantham/knowledge/finance/pi-actifs-incorporels-distressed]] — Valorisation brevets, code source, donnees
+- [[brantham/knowledge/market/stats-defaillances-2025]] — Contexte macro (+40% defaillances tech)
+- [[brantham/knowledge/finance/valorisation-distressed]] — Multiples ARR et methodes distressed
+- [[brantham/knowledge/process/due-diligence-distressed]] — Checklist DD tech (code, PI, RGPD)
+- [[brantham/knowledge/procedures/liquidation-judiciaire]] — LJ directe (70% des startups en difficulte)
+- [[brantham/knowledge/legal/plans-de-cession]] — Cession de fonds de commerce tech
+- [[brantham/knowledge/finance/financial-modeling-distressed]] — Modelisation SaaS distressed
+- [[brantham/knowledge/skills/quick-scan-diagnostic]] — Diagnostic flash tech
+- [[brantham/knowledge/acteurs/ecosysteme-restructuring]] — Fonds de retournement actifs en tech
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/knowledge/sectors/INDEX]]
