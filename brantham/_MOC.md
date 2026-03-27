@@ -8,20 +8,34 @@ updated: 2026-03-27
 
 ## Mission
 
-Cabinet M&A specialise dans les entreprises en difficulte (PME France). Cible les procedures collectives (redressement judiciaire, liquidation judiciaire, sauvegarde) pour identifier les opportunites de cession et les connecter a des repreneurs qualifies.
+Cabinet M&A AI-powered specialise dans les PME en difficulte en France. On accompagne des **repreneurs** (notre client) dans l'acquisition d'entreprises en procedure collective. Intermediaire cote repreneur, pas mandate par les AJ.
 
 ## Revenue Model
 
-Success fees sur cessions realisees. Commission sur mise en relation vendeur/repreneur. Pre-revenue actuellement.
+Modele hybride : **15-30k upfront** (1ere offre) + **15-30k** (offre finale) + **variable** (% ou forfait negocie). Pre-revenue.
 
-## Statut
+## Equipe
 
-- API FastAPI: operationnelle (3900+ lignes)
-- Pipeline Prefect: operationnel (daily + weekly + monthly)
-- Agents: 6 agents operationnels, orchestration Director
-- 1 deal actif: MLD (Multi Loisirs Distribution)
-- 600+ deals archives
-- Revenue: **0 EUR** (pre-revenue)
+- **Paul Roulleau** : co-fondateur, tech/infra/product/strategie
+- **Soren** : co-fondateur, commercial/outreach/closing (role a activer)
+
+## Statut (27 mars 2026)
+
+- **Revenue** : 0 EUR (pre-revenue, bootstrapped, 300$/mois infra)
+- **Deals traites end-to-end** : 0
+- **Repreneurs contactes** : 0 (bloque par absence de plaquette)
+- **Mandats signes** : 0
+- **Data rooms obtenues** : 0 (AJ refusent sans mandat repreneur)
+- Pipeline tech : operationnel (scraping, agents construits, pas en prod autonome)
+- Knowledge base : 49 sujets, complete
+
+## Contexte & Process (LIRE EN PRIORITE)
+
+- [[brantham/context/realite-business]] — La verite du business sans bullshit
+- [[brantham/context/process-end-to-end]] — Workflow complet de A a Z (10 phases)
+- [[brantham/context/sow]] — Statement of Work, tous les chantiers par priorite
+- [[brantham/context/roles-et-responsabilites]] — Qui fait quoi
+- [[brantham/COWORK-PROMPT]] — Prompt pour agents Cowork
 
 ---
 
