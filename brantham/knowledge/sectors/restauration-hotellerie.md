@@ -243,3 +243,15 @@ Le fonds de commerce en CHR comprend :
 ---
 
 *Fiche compilee a partir de sources publiques (UMIH, GNI, GHR, Altares, DDPP) et experience terrain. Usage interne Brantham Partners.*
+
+## Voir aussi
+
+- [[stats-defaillances-2025]] — Contexte macro (+187% vs 2019 pour le CHR)
+- [[cas-emblematiques-france]] — Courtepaille, Flunch, Hippopotamus
+- [[contrats-baux-en-procedure]] — Regime du bail commercial 3/6/9 en procedure
+- [[valorisation-distressed]] — Multiples EBE et valorisation CHR
+- [[due-diligence-distressed]] — Checklist DD restauration/hotellerie
+- [[plans-de-cession]] — Cession du fonds de commerce et licence IV
+- [[droit-social-restructuration]] — Convention collective CHR et reprise
+- [[quick-scan-diagnostic]] — Diagnostic flash avant DD
+- [[structuration-offres-reprise]] — Structurer une offre multi-sites
