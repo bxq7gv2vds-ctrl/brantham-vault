@@ -37,7 +37,7 @@ D'ou la necessite de recourir a des mecanismes alternatifs d'assurance et de cou
 |---|---|---|
 | Passif social cache (heures sup, contentieux prud'homaux) | Elevee | Moyen |
 | Passif fiscal cache (redressement, TVA) | Moyenne | Eleve |
-| Passif environnemental (depollution, ICPE) | Moyenne | Tres eleve |
+| [[passif-environnemental|Passif environnemental]] (depollution, ICPE) | Moyenne | Tres eleve |
 | Vices caches sur actifs | Moyenne | Moyen |
 | Contentieux en cours non reveles | Moyenne | Variable |
 | Perte d'homme-cle post-reprise | Elevee | Eleve |

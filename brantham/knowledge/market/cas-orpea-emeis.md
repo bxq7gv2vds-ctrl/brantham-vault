@@ -141,7 +141,7 @@ Avec un EBITDA d'environ 700 M EUR et une dette nette de 9,5 Mds, le ratio dette
 
 **Janvier-Mars 2023**
 - 01/02 : Les negociations aboutissent. Le consortium CDC (Caisse des Depots et Consignations) + CNP Assurances + MACSF + MAIF s'engage a prendre le controle.
-- **24/03/2023** : Ouverture de la **procedure de sauvegarde acceleree** par le tribunal de commerce specialise de Nanterre
+- **24/03/2023** : Ouverture de la **procedure de [[sauvegarde-acceleree-sfa|sauvegarde acceleree]]** par le tribunal de commerce specialise de Nanterre
 
 **Avril-Juin 2023 : Preparation du plan**
 - 21/04 : Notifications des administrateurs judiciaires aux classes de parties affectees
@@ -285,7 +285,7 @@ L'affaire Orpea constitue un **precedent majeur** en droit francais des entrepri
 
 1. **Premiere application de l'article L.626-32 du Code de commerce** (issu de l'ordonnance du 15/09/2021) : le tribunal peut imposer un plan rejete par certaines classes si les conditions legales sont remplies.
 
-2. **Test du meilleur interet des creanciers** : le tribunal a verifie que chaque creancier dissident recevait au moins autant qu'en liquidation judiciaire.
+2. **Test du meilleur interet des creanciers** : le tribunal a verifie que chaque creancier dissident recevait au moins autant qu'en [[liquidation-judiciaire|liquidation judiciaire]].
 
 3. **Regle de priorite absolue** : les actionnaires existants (classe la plus junior) ne peuvent bloquer un plan qui beneficie aux creanciers plus seniors.
 
