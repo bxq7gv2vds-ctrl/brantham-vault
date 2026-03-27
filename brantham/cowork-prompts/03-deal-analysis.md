@@ -341,6 +341,47 @@ DEAL TRAITÉ : [slug]
 
 ---
 
+## Étape FINALE — Écrire le fichier output (OBLIGATOIRE)
+
+```bash
+OUTPUT_DIR=/Users/paul/vault/brantham/cowork-outputs
+TIMESTAMP=$(date +%Y-%m-%d-%H%M)
+OUTPUT_FILE=$OUTPUT_DIR/deal-analysis-$TIMESTAMP.json
+
+python3 -c "
+import json
+output = {
+  'agent': 'deal-analysis',
+  'run_id': 'deal-analysis-$TIMESTAMP',
+  'timestamp': '$(date -u +%Y-%m-%dT%H:%M:%SZ)',
+  'status': 'success',
+  'summary': '[slug] analysé — score [X]/100 → [DECISION]',
+  'data': {
+    'slug': '',
+    'score': 0,
+    'decision': '',
+    'ca_estime': 0,
+    'procedure': '',
+    'deadline': '',
+    'days_left': 0,
+    'key_assets': [],
+    'main_risks': [],
+    'missing_data': [],
+    'analyse_path': ''
+  },
+  'actions_taken': [],
+  'pending_for_human': [
+    {'who': 'Paul', 'action': 'Valider score et décision GO/NO-GO', 'urgency': 'orange', 'deadline': None}
+  ],
+  'triggered_next': ['buyer-hunt si score >= 60'],
+  'errors': []
+}
+print(json.dumps(output, indent=2, ensure_ascii=False))
+" > \$OUTPUT_FILE
+
+echo "Output écrit : \$OUTPUT_FILE"
+```
+
 ## Règles absolues
 
 - **Ne jamais inventer un chiffre** — si CA non disponible sur Pappers, écrire "ND" et expliquer
