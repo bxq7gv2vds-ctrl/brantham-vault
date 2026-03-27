@@ -325,6 +325,54 @@ PROCHAINE ÉTAPE :
 
 ---
 
+## Étape FINALE — Écrire le fichier output (OBLIGATOIRE)
+
+```bash
+OUTPUT_DIR=/Users/paul/vault/brantham/cowork-outputs
+TIMESTAMP=$(date +%Y-%m-%d-%H%M)
+OUTPUT_FILE=$OUTPUT_DIR/buyer-hunt-$TIMESTAMP.json
+
+python3 -c "
+import json
+output = {
+  'agent': 'buyer-hunt',
+  'run_id': 'buyer-hunt-$TIMESTAMP',
+  'timestamp': '$(date -u +%Y-%m-%dT%H:%M:%SZ)',
+  'status': 'success',
+  'summary': '[slug] — [N] acheteurs qualifiés sur [N] candidats',
+  'data': {
+    'slug': '',
+    'total_identified': 0,
+    'total_qualified': 0,
+    'top_buyers': [
+      {
+        'rang': 1,
+        'siren': '',
+        'nom': '',
+        'ca': 0,
+        'ca_multiple': 0,
+        'contact_nom': '',
+        'contact_email': '',
+        'contact_linkedin': '',
+        'priority_score': 0,
+        'match_reason': ''
+      }
+    ],
+    'acheteurs_path': ''
+  },
+  'actions_taken': [],
+  'pending_for_human': [
+    {'who': 'Soren', 'action': 'Lancer outreach sur top 5 acheteurs', 'urgency': 'orange', 'deadline': None}
+  ],
+  'triggered_next': ['contact-enricher'],
+  'errors': []
+}
+print(json.dumps(output, indent=2, ensure_ascii=False))
+" > \$OUTPUT_FILE
+
+echo "Output écrit : \$OUTPUT_FILE"
+```
+
 ## Règles absolues
 
 - **CA ≥ 5× minimum** : pas d'exception sauf deal micro (<500K€ CA) où on accepte 3×
