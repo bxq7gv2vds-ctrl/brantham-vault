@@ -103,6 +103,9 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 ## Knowledge Base — Market Intelligence
 
 - [[brantham/knowledge/market/stats-defaillances-2025]] — Statistiques defaillances France 2024-2025: 70K defaillances/an, 267K emplois, secteurs, PGE, previsions 2026, comparaison internationale, application Brantham
+- [[brantham/knowledge/market/cas-orpea-emeis]] — Etude de cas Orpea/Emeis: premier cram-down cross-class FR, sauvegarde acceleree, dette 9.7Mds, dilution 99.6%, CDC repreneur, chronologie 2022-2024
+- [[brantham/knowledge/market/cas-casino-groupe]] — Etude de cas Casino/Rallye: structure pyramidale Naouri, sauvegarde acceleree, dette 7.4Mds, Kretinsky repreneur, cession 323 magasins, chronologie 2019-2024
+- [[brantham/knowledge/market/cas-emblematiques-france]] — 9 cas emblematiques restructurations France 2018-2025: Camaieu, Go Sport, Aigle Azur, La Halle, Conforama, Courtepaille, Orchestra, Scopelec, San Marina + synthese patterns et grille scoring
 
 ## Pipeline Operations
 
