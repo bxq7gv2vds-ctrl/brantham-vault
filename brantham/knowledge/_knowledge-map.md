@@ -46,8 +46,8 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | Structuration offres de reprise (L642-2) | couvert | `process/structuration-offres-reprise.md` | avance |
 | Encheres et surencheres | couvert | `process/encheres-surencheres.md` | avance |
 | Audience au tribunal | couvert | `process/audience-tribunal.md` | avance |
-| Post-closing et execution du plan | a faire | — | — |
-| Integration post-acquisition distressed | a faire | — | — |
+| Post-closing et execution du plan | couvert | `process/post-closing-execution.md` | avance |
+| Integration post-acquisition distressed | couvert | `process/integration-post-acquisition.md` | avance |
 
 ## 3. Finance de restructuration
 
@@ -75,7 +75,7 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | CIRI et CDE | couvert | `acteurs/ecosysteme-restructuring.md` | avance |
 | Mediateur des entreprises, mediateur du credit | couvert | `acteurs/ecosysteme-restructuring.md` | avance |
 | Fonds distressed France | couvert | `acteurs/ecosysteme-restructuring.md` | avance |
-| Banques cellules restructuring | a faire | — | — |
+| Banques cellules restructuring | couvert | `acteurs/banques-cellules-restructuring.md` | avance |
 | Avocats specialises restructuring | couvert | `acteurs/ecosysteme-restructuring.md` | avance |
 | ARE et managers de transition | couvert | `acteurs/ecosysteme-restructuring.md` | avance |
 
@@ -92,19 +92,19 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 
 | Sujet | Statut | Fichier vault | Niveau |
 |---|---|---|---|
-| Negociation en crise | a faire | — | — |
-| Communication parties prenantes | a faire | — | — |
-| Quick scan / diagnostic flash | a faire | — | — |
-| Ethique du repreneur | a faire | — | — |
+| Negociation en crise | couvert | `skills/negociation-crise.md` | avance |
+| Communication parties prenantes | couvert | `skills/communication-parties-prenantes.md` | avance |
+| Quick scan / diagnostic flash | couvert | `skills/quick-scan-diagnostic.md` | avance |
+| Ethique du repreneur | couvert | `skills/ethique-repreneur.md` | avance |
 
 ---
 
 ## Stats
 
-- **Couvert**: 45 sujets sur 49
-- **Partiel**: 1 fiche (sourcing)
-- **A faire**: 3 sujets (banques cellules restructuring, competences transversales: negociation/communication/quick scan/ethique)
-- **Priorite suivante**: Post-closing et integration, competences transversales
+- **Couvert**: 49 sujets sur 49 -- COMPLET
+- **Partiel**: 1 fiche (sourcing -- pipeline technique, pas knowledge juridique)
+- **A faire**: 0
+- **Knowledge base operationnelle** -- pret pour formation, quiz, et application sur deals reels
 
 ## Historique d'apprentissage
 
