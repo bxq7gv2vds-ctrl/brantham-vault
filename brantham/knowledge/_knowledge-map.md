@@ -2,7 +2,7 @@
 type: knowledge
 project: brantham
 category: index
-updated: 2026-03-26
+updated: 2026-03-27
 ---
 
 # Knowledge Map — Distressed M&A France
@@ -18,23 +18,23 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | Sauvegarde | couvert | `procedures/sauvegarde.md` | intermediaire |
 | Mandat ad hoc (L611-3) | couvert | `procedures/mandat-ad-hoc-conciliation.md` | intermediaire |
 | Conciliation (L611-4 a L611-15) | couvert | `procedures/mandat-ad-hoc-conciliation.md` | intermediaire |
-| Sauvegarde acceleree (L628-1+) | a faire | — | — |
-| Sauvegarde financiere acceleree (SFA) | a faire | — | — |
-| LJ simplifiee | a faire | — | — |
-| Sanctions: faillite personnelle, interdiction de gerer, banqueroute | a faire | — | — |
+| Sauvegarde acceleree (L628-1+) | couvert | `procedures/sauvegarde-acceleree-sfa.md` | avance |
+| Sauvegarde financiere acceleree (SFA) | couvert | `procedures/sauvegarde-acceleree-sfa.md` | avance |
+| LJ simplifiee | couvert | `procedures/lj-simplifiee.md` | intermediaire |
+| Sanctions: faillite personnelle, interdiction de gerer, banqueroute | couvert | `legal/sanctions-dirigeants.md` | avance |
+| Responsabilite dirigeants: insuffisance d'actif | couvert | `legal/sanctions-dirigeants.md` (section 2) | avance |
 | Privilege des creanciers et rang des creances | couvert | `legal/rang-des-creances.md` | avance |
 | Super-privilege salaries, AGS | couvert | `legal/rang-des-creances.md` (sections 3-4) | avance |
 | Sort des contrats en cours (L622-13) | couvert | `legal/contrats-baux-en-procedure.md` | avance |
 | Sort des baux commerciaux | couvert | `legal/contrats-baux-en-procedure.md` | avance |
 | Declaration et verification du passif | couvert | `legal/rang-des-creances.md` (sections 10-11) | avance |
 | Classes de parties affectees (reforme 2022) | couvert | `legal/rang-des-creances.md` (section 12) | avance |
-| Responsabilite dirigeants: insuffisance d'actif | a faire | — | — |
 | Nullites de la periode suspecte (L632-1, L632-2) | couvert | `legal/nullites-periode-suspecte.md` | avance |
 | Plans de cession (L642-1+) | couvert | `legal/plans-de-cession.md` | avance |
-| Plans de continuation (L626-1+) | a faire | — | — |
+| Plans de continuation (L626-1+) | couvert | `legal/plans-de-continuation.md` | avance |
 | Pre-pack cession (L611-7) | couvert | `procedures/mandat-ad-hoc-conciliation.md` (section pre-pack) | intermediaire |
-| Reglement europeen insolvabilite 2015/848 | a faire | — | — |
-| Directive restructuration UE / transposition FR | a faire | — | — |
+| Reglement europeen insolvabilite 2015/848 | couvert | `legal/droit-europeen-insolvabilite.md` | avance |
+| Directive restructuration UE / transposition FR | couvert | `legal/droit-europeen-insolvabilite.md` | avance |
 
 ## 2. M&A Distressed — Process
 
@@ -43,9 +43,9 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | Sourcing deals (BODACC, infogreffe, AJ, MJ) | partiel | `scraping/INDEX.md` | fondamental |
 | Due diligence distressed | couvert | `process/due-diligence-distressed.md` | avance |
 | Valorisation entreprises en difficulte | couvert | `finance/valorisation-distressed.md` | avance |
-| Structuration offres de reprise (L642-2) | a faire | — | — |
-| Encheres et surencheres | a faire | — | — |
-| Audience au tribunal | a faire | — | — |
+| Structuration offres de reprise (L642-2) | couvert | `process/structuration-offres-reprise.md` | avance |
+| Encheres et surencheres | couvert | `process/encheres-surencheres.md` | avance |
+| Audience au tribunal | couvert | `process/audience-tribunal.md` | avance |
 | Post-closing et execution du plan | a faire | — | — |
 | Integration post-acquisition distressed | a faire | — | — |
 
@@ -83,10 +83,10 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 
 | Sujet | Statut | Fichier vault | Niveau |
 |---|---|---|---|
-| Stats defaillances France (Altares, BdF) | a faire | — | — |
-| Tendances sectorielles | partiel | `sectors/INDEX.md` | fondamental |
-| Impact macro (taux, PGE, post-COVID) | a faire | — | — |
-| Comparaison internationale (Ch.11, SoA, StaRUG) | a faire | — | — |
+| Stats defaillances France (Altares, BdF) | couvert | `market/stats-defaillances-2025.md` | avance |
+| Tendances sectorielles | couvert | `market/stats-defaillances-2025.md` (section 4) | avance |
+| Impact macro (taux, PGE, post-COVID) | couvert | `market/stats-defaillances-2025.md` (section 6) | avance |
+| Comparaison internationale (Ch.11, SoA, StaRUG) | couvert | `legal/droit-europeen-insolvabilite.md` (section 6) | avance |
 
 ## 6. Competences transversales
 
@@ -101,10 +101,10 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 
 ## Stats
 
-- **Couvert**: 36 sujets (5 procedures + mandat ad hoc/conciliation/pre-pack + plans de cession + nullites periode suspecte + due diligence distressed + valorisation + contrats/baux + ecosysteme acteurs + rang creances/privileges/AGS/new money/declaration passif/classes parties affectees + restructuration dette complete + financement crise + LBO distressed + garanties/suretes + 13WCF + BP retournement + glossaire)
-- **Partiel**: 2 fiches
-- **A faire**: ~9 sujets
-- **Priorite suivante**: Sanctions dirigeants (insuffisance d'actif/faillite personnelle/banqueroute), Sauvegarde acceleree (SA/SFA), LJ simplifiee, Plans de continuation, Structuration offres de reprise
+- **Couvert**: 45 sujets sur 49
+- **Partiel**: 1 fiche (sourcing)
+- **A faire**: 3 sujets (banques cellules restructuring, competences transversales: negociation/communication/quick scan/ethique)
+- **Priorite suivante**: Post-closing et integration, competences transversales
 
 ## Historique d'apprentissage
 
@@ -121,4 +121,13 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | 2026-03-26 | creation | Nullites de la periode suspecte (L632-1/L632-2, nullites de droit vs facultatives, prescription, responsabilite dirigeants, application DD) |
 | 2026-03-26 | creation | Plans de cession judiciaire (L642-1+, redaction offre, criteres tribunal, audience, execution, baux, contrats, surenchere) |
 | 2026-03-26 | creation | Due diligence distressed (guide operationnel: contraintes temps, data room limitee, checklist par domaine, red flags, scoring) |
-| 2026-03-27 | sync | Knowledge map synchronisee — 4 fichiers crees le 26/03 reportes dans le map |
+| 2026-03-27 | creation | Sauvegarde acceleree et SFA (L628-1+, reforme 2021, classes parties affectees, cram-down, jurisprudence Orpea/Casino) |
+| 2026-03-27 | creation | Sanctions dirigeants (L651-2 insuffisance actif, L653-1+ faillite perso, L653-8 interdiction gerer, L654-1+ banqueroute, extension procedure, grille scoring risque) |
+| 2026-03-27 | creation | LJ simplifiee (L644-1+, seuils obligatoire/facultatif, cloture acceleree, impact repreneur) |
+| 2026-03-27 | creation | Plans de continuation (L626-1 a L626-34, L631-19+, classes parties affectees, echeancier 10 ans, inexecution, strategies quand plan bloque reprise) |
+| 2026-03-27 | creation | Droit europeen insolvabilite (Reglement 2015/848 COMI, Directive 2019/1023, transposition FR 2021, comparatif Ch.11/UK/StaRUG/WHOA) |
+| 2026-03-27 | creation | Stats defaillances 2024-2025 (69 957 record, 267K emplois, BTP/commerce/restauration, PGE echeance 2026, previsions) |
+| 2026-03-27 | creation | Structuration offres de reprise (L642-2, 9 mentions obligatoires, prix ~3% CA, criteres selection, checklist) |
+| 2026-03-27 | creation | Encheres et surencheres (regime mobilier/immobilier, surenchere 10%/10j, pas de surenchere sur plan cession, strategies) |
+| 2026-03-27 | creation | Audience tribunal (deroulement, intervenants, presentation orale, voies de recours, conseils praticiens) |
+| 2026-03-27 | sync | Knowledge map complete — 45/49 sujets couverts |
