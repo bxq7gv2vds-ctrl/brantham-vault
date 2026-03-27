@@ -47,9 +47,9 @@ Dashboard API   : http://localhost:3000
 ## Pipeline des statuts
 
 ```
-detecte → en_analyse → analysé → teaser_rédigé → acheteurs_identifiés → contacts_enrichis → en_approche → clos
-   ↑            ↑          ↑              ↑                  ↑                   ↑
-sourcing    deal-analysis  teaser-factory  buyer-hunt    contact-enricher     [Soren]
+detecte → en_analyse → analysé → acheteurs_identifiés → contacts_enrichis → en_approche → clos
+   ↑            ↑          ↑              ↑                   ↑
+sourcing    deal-analysis  [manuel]    buyer-hunt       contact-enricher     [Soren]
 ```
 
 ## Règles communes à tous les agents
