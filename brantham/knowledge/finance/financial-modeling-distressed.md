@@ -1197,3 +1197,17 @@ Etape 5 : Execution
 | **WACC** | Weighted Average Cost of Capital |
 | **YTM** | Yield-To-Maturity (rendement a maturite) |
 | **Z-Score** | Score d'Altman pour la prediction de faillite |
+
+---
+
+## Voir aussi
+
+- [[valorisation-distressed]] — Methodes de valorisation et multiples distressed
+- [[restructuration-dette]] — Techniques de restructuration et pricing de la dette
+- [[rang-des-creances]] — Ordre de priorite pour la waterfall analysis
+- [[due-diligence-distressed]] — Construction du 13-week cash flow en DD
+- [[comptabilite-crise]] — Comptes en procedure et valeur liquidative
+- [[quick-scan-diagnostic]] — Diagnostic rapide et scoring
+- [[turnaround-operationnel]] — Business plan de retournement et KPIs
+- [[structuration-offres-reprise]] — Determination du prix dans l'offre
+- [[glossaire-distressed]] — Terminologie M&A distressed

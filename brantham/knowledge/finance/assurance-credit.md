@@ -742,3 +742,17 @@ Dans le scoring global d'un deal Brantham, la composante "risque fournisseur / a
 | **Sinistre** | Non-paiement a l'echeance, declare a l'assureur |
 | **Subrogation** | Transfert des droits de l'assure vers l'assureur apres indemnisation |
 | **Top-up** | Couverture complementaire souscrite par l'assure |
+
+---
+
+## Voir aussi
+
+- [[valorisation-distressed]] — Impact du retrait de couverture sur la valorisation
+- [[restructuration-dette]] — Affacturage et financement en crise
+- [[quick-scan-diagnostic]] — Detection precoce des difficultes via les signaux assurance-credit
+- [[communication-parties-prenantes]] — Gestion des relations fournisseurs post-retrait
+- [[due-diligence-distressed]] — Verification des couvertures assurance-credit de la cible
+- [[integration-post-acquisition]] — Retablir le credit fournisseur post-cession
+- [[turnaround-operationnel]] — Stabilisation du BFR et cash conservation
+- [[stats-defaillances-2025]] — Statistiques de defaillances et sinistralite
+- [[glossaire-distressed]] — Terminologie M&A distressed

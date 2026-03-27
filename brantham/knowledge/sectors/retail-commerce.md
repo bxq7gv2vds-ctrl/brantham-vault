@@ -211,3 +211,16 @@ Le bail commercial est souvent **le principal actif** d'un commerce en difficult
 ---
 
 *Fiche compilee a partir de sources publiques, jurisprudence et experience terrain. Usage interne Brantham Partners.*
+
+## Voir aussi
+
+- [[stats-defaillances-2025]] — Chiffres macro (commerce = 20% des defaillances)
+- [[cas-emblematiques-france]] — Camaieu, Go Sport, La Halle, San Marina
+- [[contrats-baux-en-procedure]] — Regime juridique des baux en procedure collective
+- [[plans-de-cession]] — Mecanisme de cession judiciaire (L642-7)
+- [[valorisation-distressed]] — Methodes de valorisation en distressed
+- [[due-diligence-distressed]] — Checklist DD pour le commerce
+- [[structuration-offres-reprise]] — Structurer une offre de reprise retail
+- [[droit-social-restructuration]] — Reprise des salaries et PSE
+- [[pi-actifs-incorporels-distressed]] — Valorisation des marques et PI
+- [[quick-scan-diagnostic]] — Diagnostic flash avant DD
