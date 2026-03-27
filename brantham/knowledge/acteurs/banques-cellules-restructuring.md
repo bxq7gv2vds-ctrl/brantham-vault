@@ -479,7 +479,7 @@ Avant de contacter une cellule restructuring, il faut comprendre ce que la banqu
 
 #### Phase 3 : Execution
 
-- **En plan de cession** : le repreneur propose un prix pour les actifs. Les dettes sont purgees par le jugement. La banque recupere ce que le plan prevoit (souvent 5-30% du nominal en chirographaire)
+- **En [[plans-de-cession|plan de cession]]** : le repreneur propose un prix pour les actifs. Les dettes sont purgees par le jugement. La banque recupere ce que le plan prevoit (souvent 5-30% du nominal en chirographaire)
 - **En conciliation** : le repreneur peut racheter la dette decotee aupres de la banque (ex: 30 cents/EUR), puis convertir en capital ou obtenir un abandon du solde dans le protocole
 - **Loan-to-own** : le repreneur rachete la creance senior a la banque, puis utilise sa position de creancier pour piloter la restructuration (DES, plan de continuation avec abandon)
 
@@ -522,3 +522,15 @@ Avant de contacter une cellule restructuring, il faut comprendre ce que la banqu
 | **Forbearance** | Mesures de tolerance accordees par la banque (reechelonnement, moratoire) |
 | **Data tape** | Fichier standardise decrivant un portefeuille de creances a ceder |
 | **Servicer** | Societe specialisee dans la gestion et le recouvrement de creances NPL |
+
+## Voir aussi
+
+- [[ecosysteme-restructuring]] — Cartographie complete des acteurs du restructuring
+- [[rang-des-creances]] — Ordre de priorite des creanciers en procedure collective
+- [[restructuration-dette]] — Mecanismes de restructuration de dette
+- [[mandat-ad-hoc-conciliation]] — Procedures amiables ou les banques negocient
+- [[negociation-crise]] — Techniques de negociation avec les creanciers bancaires
+- [[suretes-en-procedure-collective]] — Garanties bancaires en procedure
+- [[valorisation-distressed]] — Methodes de valorisation utilisees par les banques
+- [[assurance-credit]] — Role de l'assurance-credit dans le financement
+- [[glossaire-distressed]] — Definitions NPL, ECL, backstop, etc.

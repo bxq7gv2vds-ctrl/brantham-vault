@@ -69,7 +69,7 @@ Evaluer chaque actif individuellement a sa valeur de realisation en cas de vente
 | Machines specifiques/sur-mesure | 5-20% | Quasi pas de marche secondaire |
 | Vehicules | 40-70% | Argus + decote vente rapide |
 | Informatique et mobilier | 5-15% | Depreciation tres rapide |
-| Marques et PI | 0-100% | Tres variable. Marque connue = valeur. Brevet non exploite = zero |
+| Marques et [[pi-actifs-incorporels-distressed|PI]] | 0-100% | Tres variable. Marque connue = valeur. Brevet non exploite = zero |
 | Fonds de commerce | 10-50% | Depend de la clientele residuelle et de l'emplacement |
 | Goodwill | 0% | En liquidation, le goodwill vaut zero. Il n'existe que dans un contexte going concern |
 
@@ -328,7 +328,7 @@ Prix reel = Prix de cession paye au tribunal
 
 Si une entreprise a 2M de dettes et que le tribunal accepte une offre a 400K avec purge du passif, le repreneur "economise" 1.6M de dettes — c'est l'avantage structurel de la reprise a la barre.
 
-### Ce que regarde le tribunal (Art. L.642-5 du Code de commerce)
+### Ce que regarde le tribunal (Art. L.642-5 du Code de commerce, voir [[audience-tribunal]])
 
 Le prix n'est pas le seul critere. Le tribunal evalue :
 1. Le maintien de l'emploi (nombre de postes repris)
