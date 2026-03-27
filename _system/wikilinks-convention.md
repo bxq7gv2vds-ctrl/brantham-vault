@@ -1,120 +1,61 @@
 ---
+name: Obsidian Wikilinks Convention
+description: Mandatory linking rules for all vault files to build knowledge graph
 type: reference
-date: 2026-03-27
-tags: [vault, obsidian, wikilinks, convention]
 ---
 
-# Convention Wikilinks — Vault Obsidian
+# Obsidian Wikilinks Convention
 
-## Principe
+**Every file in the vault MUST contain `[[wikilinks]]`** to build a compounding knowledge graph.
 
-Chaque fichier du vault DOIT etre connecte au graph Obsidian via des `[[wikilinks]]`. Un fichier isole = un fichier invisible dans le graph = de la connaissance perdue.
+## Rules (MANDATORY)
 
-## Format
-
-```markdown
-[[path/depuis/racine/vault/sans-extension]]
-[[path/vers/fichier|Alias affiche]]
-```
-
-Exemples :
-- `[[brantham/patterns/teaser-patterns]]`
-- `[[_system/MOC-bugs]]`
-- `[[founder/decisions/2026-03-18-mirofish-distilled-architecture|Decision MiroFish]]`
-
-## Section Related (obligatoire)
-
-Chaque fichier vault se termine par :
+### 1. Every file has `## Related` section (end of file)
 
 ```markdown
 ## Related
-- [[lien-1]]
-- [[lien-2]]
-- ...
+
+- [[_system/MOC-X]]  # Parent MOC
+- [[project/_MOC]]   # Project MOC
+- [optional cross-links]
 ```
 
-## Regles de linking par type
+### 2. Backlinks by type
 
-### Bug-fix
-| Lien | Obligatoire |
-|------|------------|
-| `[[_system/MOC-bugs]]` | Oui |
-| `[[projet/_MOC]]` | Oui |
-| `[[projet/sessions/YYYY-MM-DD]]` | Oui (session ou le bug a ete fixe) |
-| `[[projet/patterns/nom]]` | Si un pattern en decoule |
+| Type | Minimum Backlinks | Example |
+|------|-----------------|---------|
+| **decision** | `[[_system/MOC-decisions]]`<br>`[[brantham/_MOC]]` | Links to strategy, assumptions |
+| **bug** | `[[_system/MOC-bugs]]`<br>`[[project/_MOC]]` | Links to patterns that fixed it |
+| **pattern** | `[[_system/MOC-patterns]]`<br>`[[project/_MOC]]` | Links to bugs it resolves, decisions |
+| **session** | `[[project/_MOC]]` | Links to decisions/bugs/patterns made same day |
+| **assumption** | `[[_system/MOC-assumptions]]`<br>`[[project/_MOC]]` | Links to decisions validating/invalidating it |
 
-### Decision
-| Lien | Obligatoire |
-|------|------------|
-| `[[_system/MOC-decisions]]` | Oui |
-| `[[projet/_MOC]]` | Oui |
-| `[[founder/strategy/current-strategy]]` | Si impacte la strategie |
-| `[[founder/assumptions/nom]]` | Si basee sur une assumption |
-| `[[projet/sessions/YYYY-MM-DD]]` | Oui (session de la decision) |
+### 3. Cross-day linking (temporal)
 
-### Pattern
-| Lien | Obligatoire |
-|------|------------|
-| `[[_system/MOC-patterns]]` | Oui |
-| `[[projet/_MOC]]` | Oui |
-| `[[projet/bugs/YYYY-MM-DD-nom]]` | Si decouvert via un bug |
-| `[[projet/sessions/YYYY-MM-DD]]` | Oui (session de decouverte) |
+Files from **same date** link to each other.
 
-### Session
-| Lien | Obligatoire |
-|------|------------|
-| `[[projet/_MOC]]` | Oui |
-| `[[projet/bugs/...]]` | Tous les bugs fixes ce jour |
-| `[[projet/patterns/...]]` | Tous les patterns decouverts ce jour |
-| `[[founder/decisions/...]]` | Toutes les decisions du jour |
+### 4. Causal linking (semantic)
 
-### Assumption
-| Lien | Obligatoire |
-|------|------------|
-| `[[_system/MOC-assumptions]]` | Oui |
-| `[[founder/decisions/...]]` | Decisions basees sur cette assumption |
-| `[[founder/strategy/current-strategy]]` | Si impacte la strategie |
-| `[[founder/customers/...]]` | Retours clients lies |
+- **Bug → Pattern**: "This pattern was created to fix [[brantham/bugs/YYYY-MM-DD-X]]"
+- **Decision ← Assumption**: "Validates assumption [[founder/assumptions/market-size]]"
 
-### Customer
-| Lien | Obligatoire |
-|------|------------|
-| `[[founder/assumptions/...]]` | Assumptions validees/invalidees |
-| `[[brantham/deals/active/...]]` | Deal concerne |
-| `[[founder/decisions/...]]` | Decisions influencees |
+## Auto-Linking Tool
 
-### Knowledge (brantham/knowledge/)
-| Lien | Obligatoire |
-|------|------------|
-| `[[brantham/_MOC]]` | Oui |
-| `[[brantham/knowledge/_knowledge-map]]` | Oui |
-| Fichiers knowledge lies | Cross-ref entre articles connexes |
+**Location**: `/Users/paul/vault/_system/vault-linker.py`
 
-## Inline links
+```bash
+# Audit vault
+python3 vault-linker.py
 
-Dans le corps du texte, utiliser des wikilinks quand on mentionne un concept qui a un fichier vault :
-
-```markdown
-Le pattern de [[brantham/patterns/teaser-patterns|teaser HTML/PDF]] a ete applique
-suite au bug [[brantham/bugs/2026-03-16-probability-matrix-oscillation|oscillation matrice]].
+# Apply auto-linking
+python3 vault-linker.py fix
 ```
 
-## Anti-patterns
+---
 
-- Fichier sans aucun `[[lien]]` = interdit
-- Lien mort (fichier cible inexistant) = verifier avant de linker
-- Lien generique `[[decision-link]]` placeholder = remplacer par le vrai path
-- Duplication du lien dans Related ET dans le corps = ok (Obsidian deduplique dans le graph)
-
-## Maintenance
-
-Script de batch : `vault/_system/scripts/batch-wikilinks.py`
-- Scanne tous les fichiers, ajoute `## Related` avec liens intelligents
-- A relancer periodiquement : `python3 vault/_system/scripts/batch-wikilinks.py`
-- Suivi par `qmd embed` pour re-indexer la recherche semantique
+**Updated**: 2026-03-27
 
 ## Related
+
 - [[_system/MOC-master]]
 - [[brantham/_MOC]]
-- [[website/_MOC]]
-- [[founder/decisions/2026-03-27-vault-wikilinks-overhaul]]
