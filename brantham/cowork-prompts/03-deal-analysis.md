@@ -1,7 +1,7 @@
 ---
 type: cowork-prompt
 agent: deal-analysis
-schedule: "08h30 + 15h00"
+schedule: "08h30"
 updated: 2026-03-27
 ---
 
