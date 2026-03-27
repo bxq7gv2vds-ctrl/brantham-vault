@@ -23,7 +23,7 @@ Glossaire exhaustif couvrant le vocabulaire specialise du M&A d'entreprises en d
 |---|---|---|
 | **Cessation de paiements** | Impossibilite de faire face au passif exigible avec l'actif disponible. Condition d'ouverture du [[redressement-judiciaire|RJ]] et de la [[liquidation-judiciaire|LJ]]. Le dirigeant doit la declarer dans les 45 jours. | L631-1 C.com |
 | **Date de cessation de paiements** | Date fixee par le tribunal (pouvant remonter jusqu'a 18 mois avant le jugement d'ouverture). Determine le debut de la periode suspecte. | L631-8 C.com |
-| **Periode suspecte** | Periode entre la date de cessation de paiements et le jugement d'ouverture. Certains actes passes pendant cette periode sont annulables (nullites de droit ou facultatives). | L632-1, L632-2 C.com |
+| **Periode suspecte** | Periode entre la date de cessation de paiements et le jugement d'ouverture. Certains actes passes pendant cette periode sont annulables ([[nullites-periode-suspecte|nullites de droit ou facultatives]]). | L632-1, L632-2 C.com |
 | **Periode d'observation** | Phase post-ouverture du RJ ou de la sauvegarde pendant laquelle l'activite se poursuit sous controle judiciaire. Duree : 6 mois renouvelable une fois (+ prolongation exceptionnelle 6 mois). | L621-3 C.com |
 | **Jugement d'ouverture** | Decision du tribunal de commerce (ou TJ) prononcant l'ouverture d'une procedure collective. Publie au BODACC et au RCS. | L621-1 et s. C.com |
 | **Mandat ad hoc** | Procedure preventive confidentielle. Un mandataire ad hoc est designe par le president du tribunal pour negocier avec les creanciers. Pas de cessation de paiements requise. | L611-3 C.com |
