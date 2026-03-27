@@ -117,7 +117,7 @@ L'annonce est anonymisee (pas de nom du debiteur dans les grandes procedures) et
 3. Analyser : baux, contrats clients, effectifs, derniers chiffres, liste des actifs, contentieux en cours, situation environnementale
 4. Visiter les locaux, rencontrer les equipes cles si possible
 5. Evaluer le besoin en fonds de roulement post-reprise
-6. **Constituer l'equipe** : avocat specialise procedures collectives + expert-comptable
+6. **Constituer l'equipe** : avocat specialise [[ecosysteme-restructuring|procedures collectives]] + expert-comptable
 
 ### 3.2. Structure optimale de l'offre
 
@@ -218,7 +218,7 @@ En LJ sans concurrence, le prix peut etre tres bas. En RJ avec concurrence, le p
 ### 5.2. Erreurs de fond
 - **Prix symbolique sans justification** : ecarte d'office
 - **Business plan fantaisiste** : previsions de croissance irrealistes
-- **Sous-estimation du BFR** : le repreneur se retrouve en difficulte des le premier mois
+- **Sous-estimation du BFR** : le repreneur se retrouve en difficulte des le premier mois (voir [[integration-post-acquisition]])
 - **Perimetre flou** : "reprise de l'ensemble des actifs" sans precision = dangereux
 - **Conditions suspensives multiples** : le tribunal privilegie les offres fermes
 - **Negligence du volet social** : pas assez de detail sur l'emploi

@@ -259,4 +259,16 @@ Exception pretorienne : l'appel-nullite ou la tierce opposition-nullite en cas d
 
 **Textes de reference** : Articles L642-1 a L642-22, R642-1 a R642-21 du Code de commerce. Articles L141-19 et suivants (surenchere fonds de commerce).
 
-**Voir aussi** : [[structuration-offres-reprise]], [[audience-tribunal]], [[due-diligence-distressed]]
+---
+
+## Voir aussi
+
+- [[structuration-offres-reprise]] — Redaction de l'offre de reprise
+- [[audience-tribunal]] — Deroulement de l'audience de cession
+- [[due-diligence-distressed]] — DD prealable aux encheres
+- [[plans-de-cession]] — Plan de cession vs actifs isoles
+- [[liquidation-judiciaire]] — Regime de la LJ et vente d'actifs
+- [[valorisation-distressed]] — Determination du prix et decotes
+- [[post-closing-execution]] — Realisation de la cession apres jugement
+- [[ecosysteme-restructuring]] — Plateformes de veille et acteurs
+- [[glossaire-distressed]] — Terminologie M&A distressed
