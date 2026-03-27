@@ -67,7 +67,7 @@ Le repreneur detient un pouvoir considerable : il decide qui garde son emploi, q
 
 ## 3. Obligations legales du repreneur (L642-2 et suivants)
 
-### Contenu obligatoire de l'offre (L642-2)
+### Contenu obligatoire de l'offre ([[plans-de-cession|L642-2]])
 L'offre de reprise doit contenir :
 1. Designation precise des biens, droits et contrats repris
 2. Previsions d'activite et de financement
@@ -86,7 +86,7 @@ Le repreneur s'engage sur trois dimensions indissociables :
 
 ### Force contraignante
 - Une fois le plan de cession arrete par le tribunal, les engagements ont force de loi
-- Le non-respect peut entrainer la resolution du plan de cession (L642-11)
+- Le non-respect peut entrainer la resolution du [[plans-de-cession|plan de cession]] (L642-11)
 - Le ministere public peut demander la resolution
 - Le MJ, le CSE, ou tout interesse peut saisir le tribunal
 

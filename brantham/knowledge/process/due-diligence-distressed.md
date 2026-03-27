@@ -115,7 +115,7 @@ Guide operationnel pour la due diligence dans le contexte des reprises d'entrepr
 
 #### Rentabilite Normalisee
 
-- [ ] EBITDA ajuste : retraiter les elements exceptionnels, les salaires du dirigeant, les charges non recurrentes
+- [ ] [[valorisation-distressed|EBITDA ajuste]] : retraiter les elements exceptionnels, les salaires du dirigeant, les charges non recurrentes
 - [ ] Marge brute par produit/service : identifier ce qui est rentable
 - [ ] Point mort (break-even) : a quel CA l'entreprise est-elle a l'equilibre ?
 - [ ] Saisonnalite : mois de forte/faible activite
