@@ -246,7 +246,7 @@ Exception pretorienne : l'appel-nullite ou la tierce opposition-nullite en cas d
 - Business plan type parametrable rapidement
 
 ### 8.3. Phase d'audience
-- Se deplacer systematiquement a l'audience (cf. [[audience-tribunal]])
+- Se deplacer systematiquement a l'audience (voir [[audience-tribunal]])
 - Preparer une presentation orale convaincante
 - Cheque de banque en main
 
