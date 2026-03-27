@@ -16,8 +16,8 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | Liquidation judiciaire | couvert | `procedures/liquidation-judiciaire.md` | intermediaire |
 | Redressement judiciaire | couvert | `procedures/redressement-judiciaire.md` | intermediaire |
 | Sauvegarde | couvert | `procedures/sauvegarde.md` | intermediaire |
-| Mandat ad hoc (L611-3) | a faire | — | — |
-| Conciliation (L611-4 a L611-15) | a faire | — | — |
+| Mandat ad hoc (L611-3) | couvert | `procedures/mandat-ad-hoc-conciliation.md` | intermediaire |
+| Conciliation (L611-4 a L611-15) | couvert | `procedures/mandat-ad-hoc-conciliation.md` | intermediaire |
 | Sauvegarde acceleree (L628-1+) | a faire | — | — |
 | Sauvegarde financiere acceleree (SFA) | a faire | — | — |
 | LJ simplifiee | a faire | — | — |
@@ -29,10 +29,10 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | Declaration et verification du passif | couvert | `legal/rang-des-creances.md` (sections 10-11) | avance |
 | Classes de parties affectees (reforme 2022) | couvert | `legal/rang-des-creances.md` (section 12) | avance |
 | Responsabilite dirigeants: insuffisance d'actif | a faire | — | — |
-| Nullites de la periode suspecte (L632-1, L632-2) | a faire | — | — |
-| Plans de cession (L642-1+) | a faire | — | — |
+| Nullites de la periode suspecte (L632-1, L632-2) | couvert | `legal/nullites-periode-suspecte.md` | avance |
+| Plans de cession (L642-1+) | couvert | `legal/plans-de-cession.md` | avance |
 | Plans de continuation (L626-1+) | a faire | — | — |
-| Pre-pack cession (L611-7) | a faire | — | — |
+| Pre-pack cession (L611-7) | couvert | `procedures/mandat-ad-hoc-conciliation.md` (section pre-pack) | intermediaire |
 | Reglement europeen insolvabilite 2015/848 | a faire | — | — |
 | Directive restructuration UE / transposition FR | a faire | — | — |
 
@@ -41,7 +41,7 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | Sujet | Statut | Fichier vault | Niveau |
 |---|---|---|---|
 | Sourcing deals (BODACC, infogreffe, AJ, MJ) | partiel | `scraping/INDEX.md` | fondamental |
-| Due diligence distressed | a faire | — | — |
+| Due diligence distressed | couvert | `process/due-diligence-distressed.md` | avance |
 | Valorisation entreprises en difficulte | couvert | `finance/valorisation-distressed.md` | avance |
 | Structuration offres de reprise (L642-2) | a faire | — | — |
 | Encheres et surencheres | a faire | — | — |
