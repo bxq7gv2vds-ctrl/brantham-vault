@@ -249,7 +249,7 @@ Le passage de Stage 1 a Stage 2 multiplie la provision par **5 a 10x** (le perim
 | **Reechelonnement** | Allongement de la duree du pret, reduction des echeances | Difficulte temporaire de tresorerie |
 | **Refinancement** | Nouveau pret pour rembourser l'ancien | Entreprise viable mais structure de dette inadaptee |
 | **Conversion dette/capital** | Transformation de creance en capital ([[restructuration-dette|debt-to-equity swap]]) | Restructuration profonde, bilan a assainir |
-| **Abandon partiel de creance** | Renonciation a une partie de la creance | Plan de continuation, conciliation, plan de cession |
+| **Abandon partiel de creance** | Renonciation a une partie de la creance | [[plans-de-continuation|Plan de continuation]], conciliation, [[plans-de-cession|plan de cession]] |
 | **Abandon total de creance** | Renonciation a la totalite | Creance juge irrecuperable, compromis dans un plan |
 | **Cession de creance** | Vente de la creance a un tiers (fonds, servicer) | Banque veut sortir du dossier, nettoyage de bilan |
 | **Provision et attente** | Provisionner a 100% et attendre le denouement | Procedure collective en cours, issue incertaine |

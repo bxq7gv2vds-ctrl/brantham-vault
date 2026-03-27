@@ -301,16 +301,16 @@ Un EBITDA comptable de -150K se transforme en un EBITDA normalise de +220K. C'es
 
 | Procedure | Impact sur le prix | Purge du passif | Reprise salaries | Delai typique offre |
 |---|---|---|---|---|
-| Mandat ad hoc | Decote faible (10-20%). Negociation amiable. | Non | Non applicable | Libre |
-| Conciliation | Decote moderee (15-25%). Confidentiel. | Non | Non applicable | 4-5 mois |
-| Sauvegarde | Decote 20-35%. Plan arrete par tribunal. | Partielle (plan d'apurement) | Oui (tous) | 6-18 mois |
-| Redressement judiciaire (plan de cession) | Decote 30-50%. Offre au tribunal. | Oui (totale pour cessionnaire) | Oui (choisis par repreneur, min fixe par tribunal) | 2-6 mois |
-| Liquidation judiciaire (cession activite) | Decote 50-70%. Urgence max. | Oui (totale) | Possible mais pas obligatoire | 1-3 mois |
+| [[mandat-ad-hoc-conciliation|Mandat ad hoc]] | Decote faible (10-20%). Negociation amiable. | Non | Non applicable | Libre |
+| [[mandat-ad-hoc-conciliation|Conciliation]] | Decote moderee (15-25%). Confidentiel. | Non | Non applicable | 4-5 mois |
+| [[sauvegarde|Sauvegarde]] | Decote 20-35%. Plan arrete par tribunal. | Partielle (plan d'apurement) | Oui (tous) | 6-18 mois |
+| [[redressement-judiciaire|Redressement judiciaire]] (plan de cession) | Decote 30-50%. Offre au tribunal. | Oui (totale pour cessionnaire) | Oui (choisis par repreneur, min fixe par tribunal) | 2-6 mois |
+| [[liquidation-judiciaire|Liquidation judiciaire]] (cession activite) | Decote 50-70%. Urgence max. | Oui (totale) | Possible mais pas obligatoire | 1-3 mois |
 | Liquidation judiciaire (actifs isoles) | Decote 60-85%. Vente aux encheres. | Oui | Non | Immediat |
 
 ### Purge du passif = valeur cachee pour l'acheteur
 
-En plan de cession, le repreneur acquiert les actifs sans reprendre les dettes. Concretement :
+En plan de cession, le repreneur acquiert les actifs sans reprendre les dettes (voir [[rang-des-creances]]). Concretement :
 - Les dettes fournisseurs sont purgees
 - Les dettes fiscales et sociales sont purgees
 - Les emprunts bancaires sont purges
