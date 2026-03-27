@@ -52,7 +52,7 @@ La continuite d'exploitation est l'un des principes fondamentaux de la comptabil
 
 **Indicateurs financiers de remise en cause** :
 - Situation nette negative ou capitaux propres < 50 % du capital social (art. L225-248 C. com. pour les SA, L223-42 pour les SARL)
-- Incapacite a rembourser les dettes a echeance (cessation des paiements, art. L631-1 C. com.)
+- Incapacite a rembourser les dettes a echeance (cessation des paiements, art. L631-1 C. com., voir [[redressement-judiciaire]])
 - Tresorerie negative persistante, fonds de roulement insuffisant
 - Pertes d'exploitation recurrentes, absence de business plan credible
 - Rupture de covenants bancaires, denonciation de concours bancaires

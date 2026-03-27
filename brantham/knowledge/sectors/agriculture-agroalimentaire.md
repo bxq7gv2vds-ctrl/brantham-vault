@@ -83,7 +83,7 @@ sources:
 | Procedure | Specificite agricole |
 |---|---|
 | **Reglement amiable agricole** (L351-1 Code rural) | Specifique a l'agriculture. Le president du TJ designe un **conciliateur** (comparable a la [[mandat-ad-hoc-conciliation|conciliation]]) pour negocier un echeancier avec les creanciers. Dure 2 mois (+ 1 mois renouvelable). |
-| **Sauvegarde / RJ / LJ** | Procedures classiques du Livre VI du Code de commerce, applicables aux agriculteurs. |
+| **[[sauvegarde]] / [[redressement-judiciaire|RJ]] / [[liquidation-judiciaire|LJ]]** | Procedures classiques du Livre VI du Code de commerce, applicables aux agriculteurs. |
 | **Commission departementale d'orientation agricole** | Avis sur la reprise de l'exploitation. |
 | **Aide a la relance** (DDTM) | Subvention plafonnee a 10 800 EUR (1ere UTH) + 10 000 EUR/UTH supplementaire. |
 
