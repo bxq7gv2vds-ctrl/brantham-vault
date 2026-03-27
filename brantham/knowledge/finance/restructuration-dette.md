@@ -131,7 +131,7 @@ Ce document couvre l'ensemble des techniques de restructuration financiere utili
 
 **Parite de conversion** :
 - En general, la conversion se fait avec une **decote significative** (30% a 70%) par rapport au nominal de la creance
-- Exemple Orpea (2023) : 3.8 milliards EUR de dette convertis en capital, reduisant la dette nette de 60%. Les creanciers ont recu des actions valorisees bien en dessous du nominal des creances.
+- Exemple [[cas-orpea-emeis|Orpea]] (2023) : 3.8 milliards EUR de dette convertis en capital, reduisant la dette nette de 60%. Les creanciers ont recu des actions valorisees bien en dessous du nominal des creances.
 - Pour une PME en RJ : la decote peut atteindre 50-80% car la valeur de l'equity est souvent proche de zero
 
 **Avantages** :

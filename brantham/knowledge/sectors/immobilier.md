@@ -108,7 +108,7 @@ La VEFA est le mode de vente dominant dans la promotion immobiliere neuve. En ca
 |---|---|---|
 | **Hypotheque conventionnelle** | Surete reelle sur l'immeuble | Le creancier hypothecaire est privilegie. En LJ, il est paye en priorite sur le prix de vente de l'immeuble. |
 | **Privilege de preteur de deniers (PPD)** | Surete du preteur immobilier | Prime l'hypotheque. Moins cher a constituer. |
-| **Hypotheque judiciaire** | Prononcee par un juge | Peut etre inscrite meme en periode suspecte (attention nullites L632-1). |
+| **Hypotheque judiciaire** | Prononcee par un juge | Peut etre inscrite meme en periode suspecte (attention [[nullites-periode-suspecte|nullites]] L632-1). |
 | **Hypotheque legale du Tresor** | Privilegies fiscales | Le fisc a un super-privilege sur les immeubles. |
 
 **En [[plans-de-cession|plan de cession]]** : l'article L642-12 dispose que le jugement de cession **purge les [[suretes-en-procedure-collective|suretes]]** grevant les actifs cedes. Le repreneur acquiert l'immeuble libre de toute hypotheque. Le prix de cession est reparti entre les creanciers selon leur [[rang-des-creances|rang]].
