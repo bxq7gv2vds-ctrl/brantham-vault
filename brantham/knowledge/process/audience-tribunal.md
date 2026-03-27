@@ -406,4 +406,17 @@ Ce calendrier est indicatif. Les grandes procedures peuvent s'etaler sur plusieu
 
 **Textes de reference** : Articles L642-1 a L642-17, L661-6, L661-7, R642-1 a R642-7 du Code de commerce. Article L1224-1 du Code du travail.
 
-**Voir aussi** : [[structuration-offres-reprise]], [[encheres-surencheres]], [[due-diligence-distressed]]
+---
+
+## Voir aussi
+
+- [[structuration-offres-reprise]] — Redaction et contenu obligatoire de l'offre
+- [[encheres-surencheres]] — Regime des encheres et surencheres
+- [[due-diligence-distressed]] — DD prealable a l'audience
+- [[plans-de-cession]] — Cadre legal L642-1 et criteres de selection
+- [[post-closing-execution]] — Execution du plan apres le jugement
+- [[negociation-crise]] — Strategies de communication a l'audience
+- [[ecosysteme-restructuring]] — Roles des organes de la procedure
+- [[sanctions-dirigeants]] — Responsabilite des dirigeants et interdictions
+- [[droit-social-restructuration]] — Volet social et consultation du CSE
+- [[glossaire-distressed]] — Terminologie M&A distressed
