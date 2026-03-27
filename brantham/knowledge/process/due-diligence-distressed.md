@@ -11,7 +11,7 @@ status: active
 
 # Due Diligence Specifique aux Entreprises en Difficulte
 
-Guide operationnel pour la due diligence dans le contexte des reprises d'entreprises en procedure collective (redressement judiciaire, liquidation judiciaire, sauvegarde) en France.
+Guide operationnel pour la due diligence dans le contexte des reprises d'entreprises en procedure collective ([[redressement-judiciaire]], [[liquidation-judiciaire]], [[sauvegarde]]) en France.
 
 ---
 

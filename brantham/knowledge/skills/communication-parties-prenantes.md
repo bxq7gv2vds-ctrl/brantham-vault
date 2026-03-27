@@ -62,7 +62,7 @@ L'entreprise en difficulte souffre d'une crise de confiance generalisee :
 
 ### FAQ type salaries
 - Est-ce que je vais garder mon emploi ? (reponse honnete : "le repreneur s'engage sur X postes")
-- Est-ce que mes salaires sont payes ? (AGS garantit les arrieres)
+- Est-ce que mes salaires sont payes ? ([[glossaire-distressed|AGS]] garantit les arrieres)
 - Qui est le repreneur ? (presenter le projet sans survendre)
 - Qu'est-ce qui change pour moi au quotidien ? (le moins possible dans l'immediat)
 - Et si je veux partir ? (expliquer les droits, ne pas retenir de force)
