@@ -39,6 +39,25 @@ updated: 2026-03-27
 | [[04-buyer-hunt]] | Buyer Hunt | 09h / 14h | Sourcing 15-25 acheteurs qualifiés par deal |
 | [[07-contact-enricher]] | Contact Enricher | 09h30 / 16h | Enrichissement emails + LinkedIn décideurs |
 
+## Agréger tous les outputs
+
+Chaque agent écrit un JSON dans `vault/brantham/cowork-outputs/`. Pour tout lire en un seul rapport :
+
+```bash
+# Rapport du jour
+python3 /Users/paul/Downloads/brantham-pipeline/collect_outputs.py
+
+# Rapport d'une date précise
+python3 /Users/paul/Downloads/brantham-pipeline/collect_outputs.py --date 2026-03-27
+
+# Tout l'historique
+python3 /Users/paul/Downloads/brantham-pipeline/collect_outputs.py --all
+```
+
+Output → `vault/brantham/cowork-outputs/REPORT-YYYY-MM-DD.md`
+
+Contient : résumé exécutif, actions Paul/Soren, détail par agent, erreurs, fichiers produits.
+
 ## État partagé (lire/écrire)
 
 ```
