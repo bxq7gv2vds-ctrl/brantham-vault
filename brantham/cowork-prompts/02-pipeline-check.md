@@ -1,9 +1,11 @@
 ---
 type: cowork-prompt
 agent: pipeline-check
-schedule: "09h00 + 17h00"
+schedule: "08h00 + 17h00"
 updated: 2026-03-27
 ---
+
+> **OUTPUT OBLIGATOIRE** : écrire `/Users/paul/vault/brantham/cowork-outputs/pipeline-check-[YYYY-MM-DD-HHMM].json` à la fin du run. Voir protocole : [[cowork-prompts/00-output-protocol]]
 
 # COWORK PROMPT — BRANTHAM PIPELINE CHECK
 
