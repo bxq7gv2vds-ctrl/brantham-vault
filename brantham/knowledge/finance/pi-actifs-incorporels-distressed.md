@@ -128,7 +128,7 @@ Recherche de transactions comparables (cessions de marques dans le meme secteur)
 ### 3.3 Risques specifiques en distressed
 
 - **Non-paiement des annuites** : si l'entreprise en difficulte n'a pas paye les annuites INPI, le brevet est dechu. Verifier systematiquement l'etat des paiements
-- **Contrats de licence** : les licences de brevet sont des contrats en cours (L622-13 C.com). L'AJ peut decider de les continuer ou non
+- **Contrats de licence** : les licences de brevet sont des [[contrats-baux-en-procedure|contrats en cours]] (L622-13 C.com). L'AJ peut decider de les continuer ou non
 - **Co-titularite** : si le brevet est co-detenu, le co-titulaire a un droit de preemption
 - **Employes inventeurs** : verifier que les inventions des salaries ont ete valablement cedes a l'employeur (L611-7 CPI) et que les remunerations supplementaires ont ete versees
 

@@ -276,7 +276,7 @@ La Halle etait la plus grande enseigne de mode accessible en France par le nombr
 **2 juin 2020** : Conversion en **redressement judiciaire** par le tribunal de commerce de Paris
 - Objectif : permettre la cession des actifs et activites
 
-**8 juillet 2020** : Le tribunal de commerce de Paris approuve le **plan de cession** :
+**8 juillet 2020** : Le tribunal de commerce de Paris approuve le **[[plans-de-cession|plan de cession]]** :
 
 | Repreneur | Activite | Magasins repris | Emplois repris |
 |---|---|---|---|
