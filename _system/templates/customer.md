@@ -27,3 +27,8 @@ How the conversation happened.
 - Pain level (1-5):
 - Willingness to pay (1-5):
 - Urgency (1-5):
+
+## Related
+- [[founder/assumptions/assumption-name]] <!-- assumptions validees/invalidees par ce retour -->
+- [[brantham/deals/active/deal-slug]] <!-- deal concerne -->
+- [[founder/decisions/YYYY-MM-DD-decision-name]] <!-- decisions influencees -->

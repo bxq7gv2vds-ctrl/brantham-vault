@@ -130,7 +130,7 @@ Le repreneur s'engage sur trois dimensions indissociables :
 - Dommages et interets au profit des creanciers et des salaries
 - Possible extension du passif si le repreneur a aggrave la situation
 
-### Sanctions penales
+### [[sanctions-dirigeants|Sanctions penales]]
 - Banqueroute si gestion frauduleuse
 - Abus de biens sociaux si detournement d'actifs
 - Escroquerie si informations mensongeres dans l'offre
@@ -259,3 +259,14 @@ Pour chaque reprise, Brantham Partners documente :
 
 ### Le test ultime
 Avant de deposer une offre, se poser une question simple : "Si cette reprise etait rendue publique dans tous ses details, en serais-je fier ?" Si la reponse est non, revoir le projet.
+
+## Voir aussi
+
+- [[negociation-crise]] — Techniques de negociation ethique
+- [[plans-de-cession]] — Obligations legales du repreneur (L642-2)
+- [[sanctions-dirigeants]] — Sanctions en cas de non-respect des engagements
+- [[communication-parties-prenantes]] — Communication transparente en crise
+- [[audience-tribunal]] — Presentation de l'offre devant le tribunal
+- [[post-closing-execution]] — Execution des engagements post-reprise
+- [[ecosysteme-restructuring]] — Reputation dans l'ecosysteme
+- [[cas-emblematiques-france]] — Exemples de reprises reussies et echouees

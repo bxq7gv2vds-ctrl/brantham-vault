@@ -203,7 +203,7 @@ Les elements suivants reduisent le prix exige tout en valorisant l'offre :
 
 ### 4.3. En pratique
 
-Le prix de cession en procedure collective represente en moyenne **3% du chiffre d'affaires** de l'entreprise cedee. C'est une reference de marche, pas une regle de droit.
+Le prix de cession en procedure collective represente en moyenne **3% du chiffre d'affaires** de l'entreprise cedee (voir [[valorisation-distressed]] pour les methodes de calcul). C'est une reference de marche, pas une regle de droit.
 
 En LJ sans concurrence, le prix peut etre tres bas. En RJ avec concurrence, le prix monte mais reste contraint par la capacite financiere des repreneurs.
 
@@ -251,7 +251,7 @@ En LJ sans concurrence, le prix peut etre tres bas. En RJ avec concurrence, le p
 2. **Communication** au juge-commissaire et au ministere public uniquement
 3. **Tableau comparatif** etabli par l'AJ (en RJ) pour les candidats
 4. **Phase d'amelioration** : possible jusqu'a J-2 avant audience
-5. **Audience d'examen** : presentation devant le tribunal (cf. [[audience-tribunal]])
+5. **Audience d'examen** : presentation devant le tribunal (voir [[audience-tribunal]])
 6. **Jugement** : le tribunal arrete le plan de cession
 7. **Signification du jugement** : delai d'appel de 10 jours
 8. **Realisation** : acte de cession dans les 2 mois suivant le jugement devenu definitif
