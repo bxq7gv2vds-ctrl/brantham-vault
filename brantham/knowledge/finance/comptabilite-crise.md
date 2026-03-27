@@ -241,7 +241,7 @@ Le CAC dispose d'un droit et d'un devoir d'alerte :
 
 ### 3.6 Comptes de la periode suspecte
 
-La periode suspecte (art. L631-8 C. com.) est la periode entre la date de cessation des paiements et le jugement d'ouverture. Les comptes de cette periode sont scrutees par le MJ et le tribunal pour identifier :
+La [[nullites-periode-suspecte|periode suspecte]] (art. L631-8 C. com.) est la periode entre la date de cessation des paiements et le jugement d'ouverture. Les comptes de cette periode sont scrutees par le MJ et le tribunal pour identifier :
 - Les paiements de dettes non echues
 - Les constitutions de suretes pour dettes anterieures
 - Les actes a titre gratuit

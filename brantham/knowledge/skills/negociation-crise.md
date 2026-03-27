@@ -21,7 +21,7 @@ La negociation en contexte de restructuration est fondamentalement differente d'
 - Les creanciers ont une vision fragmentee (chacun connait sa creance, pas le tableau global)
 
 ### Urgence temporelle
-- Delais judiciaires imposes : periode d'observation limitee (6+6+6 mois max en RJ)
+- Delais judiciaires imposes : periode d'observation limitee (6+6+6 mois max en [[redressement-judiciaire|RJ]])
 - Tresorerie qui fond : chaque semaine de retard reduit la valeur de l'entreprise
 - "Wasting assets" : les actifs (stock, carnet de commandes, savoir-faire) se degradent rapidement
 - Pression du tribunal pour une solution rapide
@@ -57,7 +57,7 @@ La negociation en contexte de restructuration est fondamentalement differente d'
 ### BATNA en distressed
 Le BATNA (Best Alternative To a Negotiated Agreement) est critique en distressed car les alternatives sont souvent terribles pour toutes les parties :
 - **BATNA du repreneur** : ne pas reprendre, chercher une autre cible. C'est le plus fort.
-- **BATNA du debiteur** : liquidation judiciaire, destruction de valeur totale.
+- **BATNA du debiteur** : [[liquidation-judiciaire|liquidation judiciaire]], destruction de valeur totale.
 - **BATNA des creanciers** : liquidation = dividend quasi nul (souvent < 5%).
 - **BATNA des salaries** : chomage.
 
