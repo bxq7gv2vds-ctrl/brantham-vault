@@ -41,6 +41,7 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | Sujet | Statut | Fichier vault | Niveau |
 |---|---|---|---|
 | Sourcing deals (BODACC, infogreffe, AJ, MJ) | partiel | `scraping/INDEX.md` | fondamental |
+| Retournement operationnel et management de transition | couvert | `process/turnaround-operationnel.md` | avance |
 | Due diligence distressed | couvert | `process/due-diligence-distressed.md` | avance |
 | Valorisation entreprises en difficulte | couvert | `finance/valorisation-distressed.md` | avance |
 | Structuration offres de reprise (L642-2) | couvert | `process/structuration-offres-reprise.md` | avance |
@@ -64,6 +65,15 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | Business plan de retournement | couvert | `finance/restructuration-dette.md` (section 5) + `finance/valorisation-distressed.md` | avance |
 | Financement en crise (bridge, DIP, affacturage, sale-leaseback) | couvert | `finance/restructuration-dette.md` (sections 2.2-2.6) | avance |
 | Haircut et debt buy-back | couvert | `finance/restructuration-dette.md` (sections 1.5-1.6) | avance |
+
+| Droit de la concurrence en M&A distressed | couvert | `legal/concurrence-distressed.md` | avance |
+
+## 3.bis. Finance — Assurances et PI
+
+| Sujet | Statut | Fichier vault | Niveau |
+|---|---|---|---|
+| Assurances en M&A distressed (D&O, W&I, PLL, homme-cle) | couvert | `finance/assurances-ma-distressed.md` | avance |
+| PI et actifs incorporels en distressed (marques, brevets, logiciel, franchise, RGPD) | couvert | `finance/pi-actifs-incorporels-distressed.md` | avance |
 
 ## 4. Acteurs et ecosysteme
 
@@ -101,7 +111,7 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 
 ## Stats
 
-- **Couvert**: 49 sujets sur 49 -- COMPLET
+- **Couvert**: 53 sujets sur 53 -- COMPLET
 - **Partiel**: 1 fiche (sourcing -- pipeline technique, pas knowledge juridique)
 - **A faire**: 0
 - **Knowledge base operationnelle** -- pret pour formation, quiz, et application sur deals reels
