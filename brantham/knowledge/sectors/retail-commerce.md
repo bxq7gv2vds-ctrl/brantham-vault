@@ -65,7 +65,7 @@ Le bail commercial est souvent **le principal actif** d'un commerce en difficult
 |---|---|
 | **Ouverture [[redressement-judiciaire|RJ]]/[[sauvegarde|Sauvegarde]]** | Bail continue (L622-13). Loyers post-jugement = [[rang-des-creances|creance privilegiee]] (art. 40). |
 | **Option AJ** | AJ peut continuer ou resilier le bail. Bailleur peut demander resiliation si loyers impayes > 3 mois. |
-| **Cession dans plan de cession** | **L642-7** : le tribunal ordonne la cession du bail. Les clauses d'agrement, de preference et de solidarite sont **reputees non ecrites**. |
+| **Cession dans plan de cession** | **L642-7** : le tribunal ordonne la [[plans-de-cession|cession]] du bail. Les clauses d'agrement, de preference et de solidarite sont **reputees non ecrites**. |
 | **LJ** | Liquidateur peut ceder le droit au bail isolement ou avec le fonds. Clauses d'agrement du bailleur **s'appliquent** (sauf plan de cession). |
 
 **Point cle L642-7** : en plan de cession, le bail commercial est cede au repreneur **sans que le bailleur puisse s'y opposer**. Les clauses restrictives (agrement, preference, solidarite) sont purgees par le jugement. C'est un avantage majeur pour le repreneur.
@@ -81,7 +81,7 @@ Le bail commercial est souvent **le principal actif** d'un commerce en difficult
 
 - Retail = secteur a forte intensite de main-d'oeuvre (vendeurs, caissiers, logistique).
 - Convention collective du commerce de detail : preavis, primes, anciennete.
-- En plan de cession : le repreneur choisit les salaries repris (L642-5). Pas d'obligation de tous les reprendre.
+- En [[plans-de-cession|plan de cession]] : le repreneur choisit les salaries repris (L642-5). Pas d'obligation de tous les reprendre.
 - **Attention** : les salaries non repris = licenciement economique a la charge de l'AGS (pas du repreneur).
 
 ### E-commerce vs physique
