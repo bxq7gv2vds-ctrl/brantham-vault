@@ -618,11 +618,16 @@ Ce template est a generer pour chaque deal qui arrive au stade **"cession valide
 
 ## Voir aussi
 
-- [[post-closing-execution]] -- Post-closing et execution du plan de cession (cadre juridique)
-- [[due-diligence-distressed]] -- Due diligence pre-offre
-- [[structuration-offres-reprise]] -- Redaction de l'offre
-- [[valorisation-distressed]] -- Valorisation des cibles
-- [[restructuration-dette]] -- Restructuration de dette et financement
+- [[post-closing-execution]] — Post-closing et execution du plan de cession (cadre juridique)
+- [[turnaround-operationnel]] — Retournement operationnel et management de transition
+- [[due-diligence-distressed]] — Due diligence pre-offre et diagnostic
+- [[structuration-offres-reprise]] — Redaction de l'offre de reprise
+- [[valorisation-distressed]] — Valorisation et BFR de relance
+- [[restructuration-dette]] — Refinancement et affacturage post-cession
+- [[assurance-credit]] — Retablir la couverture fournisseur
+- [[droit-social-restructuration]] — Transfert des salaries et conventions collectives
+- [[communication-parties-prenantes]] — Communication de crise et stakeholders
+- [[contrats-baux-en-procedure]] — Transfert des contrats et baux
 
 ## Related
 - [[brantham/_MOC]]

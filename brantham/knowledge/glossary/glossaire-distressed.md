@@ -237,11 +237,22 @@ Glossaire exhaustif couvrant le vocabulaire specialise du M&A d'entreprises en d
 Ce glossaire est concu pour etre utilise comme reference rapide par l'equipe Brantham Partners. Il couvre les termes les plus frequemment rencontres dans la pratique quotidienne du M&A distressed en France.
 
 Pour approfondir un sujet, se referer aux fiches thematiques de la knowledge base :
-- Procedures : `knowledge/procedures/`
-- Juridique : `knowledge/legal/`
-- Finance : `knowledge/finance/`
-- Process : `knowledge/process/`
-- Acteurs : `knowledge/acteurs/`
+- Procedures : [[liquidation-judiciaire]], [[redressement-judiciaire]], [[sauvegarde]], [[sauvegarde-acceleree-sfa]], [[lj-simplifiee]], [[mandat-ad-hoc-conciliation]]
+- Juridique : [[rang-des-creances]], [[nullites-periode-suspecte]], [[plans-de-cession]], [[plans-de-continuation]], [[sanctions-dirigeants]]
+- Finance : [[valorisation-distressed]], [[restructuration-dette]], [[financial-modeling-distressed]]
+- Process : [[due-diligence-distressed]], [[structuration-offres-reprise]], [[audience-tribunal]], [[post-closing-execution]]
+- Acteurs : [[ecosysteme-restructuring]], [[banques-cellules-restructuring]]
+
+## Voir aussi
+
+- [[ecosysteme-restructuring]] — Cartographie des acteurs du restructuring
+- [[rang-des-creances]] — Hierarchie detaillee des creanciers
+- [[plans-de-cession]] — Procedure de cession judiciaire
+- [[nullites-periode-suspecte]] — Nullites en periode suspecte
+- [[valorisation-distressed]] — Methodes de valorisation distressed
+- [[quick-scan-diagnostic]] — Diagnostic flash et scoring
+- [[negociation-crise]] — Techniques de negociation en crise
+- [[stats-defaillances-2025]] — Contexte macro des defaillances
 
 ## Related
 - [[brantham/_MOC]]
