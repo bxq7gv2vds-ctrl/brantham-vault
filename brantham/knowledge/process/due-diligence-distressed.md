@@ -240,7 +240,7 @@ Guide operationnel pour la due diligence dans le contexte des reprises d'entrepr
 - [ ] Controles URSSAF en cours ou recents
 - [ ] Risques de redressement identifies mais non encore notifies
 - [ ] Conventions intra-groupe : prix de transfert conformes ?
-- [ ] Avantages fiscaux : CIR, CII, JEI, ZFU -- conditions toujours remplies ?
+- [ ] Avantages fiscaux : CIR, CII, JEI, ZFU -- conditions toujours remplies ? (voir [[fiscalite-restructuration]])
 
 #### Deficits Reportables
 
@@ -301,7 +301,7 @@ Guide operationnel pour la due diligence dans le contexte des reprises d'entrepr
 - [ ] **Phase I ESA** (Environmental Site Assessment) : historique du site, utilisation passee
 - [ ] ICPE : l'entreprise est-elle classee Installation Classee pour la Protection de l'Environnement ?
 - [ ] Autorisations ICPE : en cours de validite ? Transferables ?
-- [ ] **Sols pollues** : consultation BASIAS/BASOL, historique industriel du site
+- [ ] **Sols pollues** : consultation BASIAS/BASOL, historique industriel du site (voir [[passif-environnemental]])
 - [ ] **Amiante** : DTA (Dossier Technique Amiante) a jour ?
 - [ ] Dechets : gestion, borderaux de suivi, stockage
 - [ ] Rejets : eaux usees, emissions atmospheriques, conformite

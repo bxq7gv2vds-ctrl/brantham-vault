@@ -165,7 +165,7 @@ Un diagnostic flash (ou quick scan) est une analyse rapide et structuree d'une e
 Ces elements declenchent un **no-go immediat** sauf circonstances exceptionnelles :
 
 ### Categorie A : elimination automatique
-1. **Passif environnemental majeur** : site pollue (ICPE classee), sol contamine, obligation de depollution (cout potentiel : centaines de milliers a millions)
+1. **[[passif-environnemental|Passif environnemental]] majeur** : site pollue (ICPE classee), sol contamine, obligation de depollution (cout potentiel : centaines de milliers a millions)
 2. **Amiante** : presence confirmee dans les batiments = obligation de desamiantage avant toute intervention
 3. **Fraude averee** : comptabilite falsifiee, abus de biens sociaux, cavalerie = impossible d'evaluer le vrai passif
 4. **Contentieux fiscal majeur** : redressement > 50% du CA = risque existentiel
