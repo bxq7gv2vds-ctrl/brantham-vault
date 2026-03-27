@@ -386,7 +386,7 @@ Ce calendrier est indicatif. Les grandes procedures peuvent s'etaler sur plusieu
 
 ### 9.2. Transfert des salaries
 
-- Les contrats de travail des salaries designes dans le jugement sont **transferes de plein droit** (article L1224-1 du Code du travail)
+- Les contrats de travail des salaries designes dans le jugement sont **transferes de plein droit** (article L1224-1 du Code du travail, voir [[droit-social-restructuration]])
 - Le cessionnaire reprend l'anciennete et les conditions salariales
 - Les salaries non repris sont licencies par l'AJ/MJ dans le cadre de la procedure
 
