@@ -169,6 +169,40 @@ Pipeline santé : [X]/100
 
 ---
 
+## Étape FINALE — Écrire le fichier output (OBLIGATOIRE)
+
+```bash
+OUTPUT_DIR=/Users/paul/vault/brantham/cowork-outputs
+TIMESTAMP=$(date +%Y-%m-%d-%H%M)
+OUTPUT_FILE=$OUTPUT_DIR/pipeline-check-$TIMESTAMP.json
+
+python3 -c "
+import json
+output = {
+  'agent': 'pipeline-check',
+  'run_id': 'pipeline-check-$TIMESTAMP',
+  'timestamp': '$(date -u +%Y-%m-%dT%H:%M:%SZ)',
+  'status': 'success',
+  'summary': 'Pipeline score [X]/100 — [N] rouges, [N] oranges',
+  'data': {
+    'pipeline_health_score': 0,
+    'deals_actifs': 0,
+    'rouge': [],
+    'orange': [],
+    'vert': [],
+    'pending_human': []
+  },
+  'actions_taken': [],
+  'pending_for_human': [],
+  'triggered_next': [],
+  'errors': []
+}
+print(json.dumps(output, indent=2, ensure_ascii=False))
+" > \$OUTPUT_FILE
+
+echo "Output écrit : \$OUTPUT_FILE"
+```
+
 ## Règles absolues
 
 - **Tu ne changes aucun statut** dans OPPORTUNITIES.md — tu observes et rapportes

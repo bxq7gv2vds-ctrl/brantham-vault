@@ -1,9 +1,11 @@
 ---
 type: cowork-prompt
 agent: deal-analysis
-schedule: "10h00 + 15h00 (ou sur trigger sourcing)"
+schedule: "08h30 + 15h00"
 updated: 2026-03-27
 ---
+
+> **OUTPUT OBLIGATOIRE** : écrire `/Users/paul/vault/brantham/cowork-outputs/deal-analysis-[YYYY-MM-DD-HHMM].json` à la fin du run. Voir protocole : [[cowork-prompts/00-output-protocol]]
 
 # COWORK PROMPT — BRANTHAM DEAL ANALYSIS
 
