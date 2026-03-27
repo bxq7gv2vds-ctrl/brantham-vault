@@ -227,7 +227,7 @@ Le contrat de franchise est conclu intuitu personae : il est consenti en conside
 
 | Methode | Application |
 |---|---|
-| **Revenus** | DCF des revenus recurrents (ARR pour SaaS, licences pour on-premise) |
+| **Revenus** | DCF des revenus recurrents (ARR pour SaaS, licences pour on-premise, voir [[valorisation-distressed]]) |
 | **Couts de remplacement** | Cout de re-developpement from scratch (methode COCOMO, story points, etc.) |
 | **Multiples** | ARR x 3-8 pour SaaS sain. En distressed : ARR x 1-3 avec decote churn. |
 | **Par utilisateur** | Nombre d'utilisateurs actifs x valeur par utilisateur (benchmark sectoriel) |
@@ -301,7 +301,7 @@ Les donnees clients (noms, emails, historique d'achat, preferences) ne sont pas 
 ### 9.1 CIR : enjeu en distressed
 
 Le CIR (Credit Impot Recherche) represente un actif financier significatif pour les entreprises innovantes :
-- 30% des depenses de R&D jusqu'a 100M EUR, 5% au-dela
+- 30% des depenses de R&D jusqu'a 100M EUR, 5% au-dela (voir [[fiscalite-restructuration]] pour le traitement en procedure)
 - CII (Credit Impot Innovation) : 30% des depenses d'innovation (PME, plafond 400 KEUR)
 - Remboursement immediat pour les PME et entreprises en procedure collective
 

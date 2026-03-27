@@ -431,7 +431,7 @@ Orchestra-Premaman etait le leader europeen du pret-a-porter enfantin et de la p
 
 ### Procedure
 
-**24 septembre 2019** : Ouverture d'une **procedure de sauvegarde** par le tribunal de commerce de Montpellier
+**24 septembre 2019** : Ouverture d'une **procedure de [[sauvegarde]]** par le tribunal de commerce de Montpellier
 
 **29 avril 2020** : Conversion en **redressement judiciaire**
 - Declencheur : COVID-19, fermeture des magasins
@@ -667,3 +667,16 @@ A partir des patterns identifies, voici les signaux d'alerte a integrer dans le 
 
 *Fiche creee le 2026-03-27. Derniere mise a jour : 2026-03-27.*
 *Cas de reference Brantham pour : patterns de defaillance, facteurs succes/echec reprise, grille scoring red flags, etudes de cas sectorielles.*
+
+## Voir aussi
+
+- [[cas-orpea-emeis]] — Cas Orpea, plus grande restructuration francaise
+- [[cas-casino-groupe]] — Cas Casino, effondrement pyramidal
+- [[stats-defaillances-2025]] — Chiffres macro des defaillances 2024-2025
+- [[retail-commerce]] — Playbook sectoriel du commerce de detail
+- [[restauration-hotellerie]] — Playbook sectoriel CHR (Courtepaille)
+- [[plans-de-cession]] — Mecanisme juridique des cessions judiciaires
+- [[liquidation-judiciaire]] — Procedure de LJ (issue majoritaire)
+- [[redressement-judiciaire]] — Procedure de RJ et cessions
+- [[quick-scan-diagnostic]] — Grille de scoring et red flags
+- [[ethique-repreneur]] — Pratiques condamnables (asset stripping)
