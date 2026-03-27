@@ -111,7 +111,7 @@ La VEFA est le mode de vente dominant dans la promotion immobiliere neuve. En ca
 | **Hypotheque judiciaire** | Prononcee par un juge | Peut etre inscrite meme en periode suspecte (attention nullites L632-1). |
 | **Hypotheque legale du Tresor** | Privilegies fiscales | Le fisc a un super-privilege sur les immeubles. |
 
-**En plan de cession** : l'article L642-12 dispose que le jugement de cession **purge les suretes** grevant les actifs cedes. Le repreneur acquiert l'immeuble libre de toute hypotheque. Le prix de cession est reparti entre les creanciers selon leur rang.
+**En [[plans-de-cession|plan de cession]]** : l'article L642-12 dispose que le jugement de cession **purge les [[suretes-en-procedure-collective|suretes]]** grevant les actifs cedes. Le repreneur acquiert l'immeuble libre de toute hypotheque. Le prix de cession est reparti entre les creanciers selon leur [[rang-des-creances|rang]].
 
 ### DPE et passoires energetiques
 

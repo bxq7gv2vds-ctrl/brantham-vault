@@ -102,7 +102,7 @@ Ce document couvre l'ensemble des techniques de restructuration financiere utili
 - **Profil d'amortissement** : passage de lineaire a bullet, ou report des echeances
 - **Covenants financiers** : reset des ratios (leverage, DSCR, interest cover) avec trajectoire descendante
 - **Marge** : augmentation de +50bps a +300bps pour compenser le risque accru
-- **Garanties** : ajout de suretes supplementaires (nantissement titres, hypotheque, gage stocks)
+- **Garanties** : ajout de [[suretes-en-procedure-collective|suretes]] supplementaires (nantissement titres, hypotheque, gage stocks)
 - **Cash sweep** : mecanisme de remboursement anticipe si le cash flow depasse un certain seuil
 
 **Processus en France** :
