@@ -89,7 +89,7 @@ La loi du 31 decembre 1975 protege les sous-traitants BTP :
 
 ### Marches publics
 
-- **Marches en cours** : un marche public peut etre cede avec l'entreprise dans le plan de cession (L642-7 s'applique).
+- **Marches en cours** : un marche public peut etre cede avec l'entreprise dans le [[plans-de-cession|plan de cession]] (L642-7 s'applique).
 - **Qualification** : Qualibat, Qualifelec, RGE = prerequis pour les marches publics. Verifier la validite des qualifications.
 - **References** : les references de chantier de l'entreprise cedee **ne sont pas automatiquement transferees** au repreneur pour les nouveaux appels d'offres.
 - **Garantie a premiere demande** : le repreneur devra fournir ses propres garanties bancaires pour les nouveaux marches.
