@@ -47,3 +47,7 @@ Paul (Claude Code) <--claude-peers--> Twitter Agent (Cowork)
 - Learning loop : chaque edit/rejet de Paul = signal
 - Phase observation 3 jours avant de poster
 ## Related
+- [[_system/MOC-master]]
+- [[twitter/agent/COWORK-PROMPT]]
+- [[twitter/agent/voice-card]]
+- [[twitter/agent/accounts/tier-list]]
