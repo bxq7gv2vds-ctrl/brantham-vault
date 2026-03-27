@@ -262,7 +262,7 @@ Ouvert dans les conditions de droit commun, apres appel. Delai : 2 mois.
 
 **Fonctions repressives** (post-LJ) :
 - Defaut de cooperation du dirigeant pendant la procedure
-- Absence de comptabilite : faillite personnelle, interdiction de gerer (7 ans en moyenne)
+- Absence de comptabilite : [[sanctions-dirigeants|faillite personnelle]], interdiction de gerer (7 ans en moyenne)
 - Detournement d'actifs : poursuites penales (tribunal correctionnel)
 
 ### 6.2. L'administrateur judiciaire (en RJ)
