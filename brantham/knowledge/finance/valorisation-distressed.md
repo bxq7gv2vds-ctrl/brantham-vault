@@ -36,7 +36,7 @@ Le vendeur (souvent sous pression du tribunal, des creanciers, ou de l'administr
 Les procedures collectives imposent des delais stricts. En [[liquidation-judiciaire|LJ]], le tribunal fixe une date limite pour les offres. En [[redressement-judiciaire|RJ]], l'administrateur a une periode d'observation limitee (6 mois renouvelable une fois, max 18 mois). Cette pression temporelle reduit le pouvoir de negociation de l'acquereur mais aussi la qualite de la due diligence.
 
 **4. Contrainte de la purge du passif**
-En plan de cession (Art. L.642-1 et suivants du Code de commerce), le cessionnaire acquiert les actifs libres de toute charge. Le passif est purge. Cela signifie que le prix n'a pas a couvrir le passif total — il reflète la valeur des actifs repris et les engagements pris (emploi, investissement, activite).
+En [[plans-de-cession|plan de cession]] (Art. L.642-1 et suivants du Code de commerce), le cessionnaire acquiert les actifs libres de toute charge. Le passif est purge. Cela signifie que le prix n'a pas a couvrir le passif total — il reflète la valeur des actifs repris et les engagements pris (emploi, investissement, activite).
 
 **5. Nombre limite d'acheteurs**
 Le pool de repreneurs potentiels est restreint : la plupart des acheteurs classiques fuient le risque procedural. Moins de competition = prix plus bas. En pratique, beaucoup de cessions se font avec un seul candidat.
