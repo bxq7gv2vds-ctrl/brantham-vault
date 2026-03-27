@@ -23,7 +23,7 @@ Le choix entre ces deux modes depend de la nature des actifs, du nombre de candi
 
 ### 2.1. Encheres sur actifs isoles (LJ)
 
-En liquidation judiciaire, lorsqu'aucune offre de gre a gre n'est suffisante ou que le juge-commissaire l'ordonne, les actifs sont vendus aux encheres publiques.
+En [[liquidation-judiciaire|liquidation judiciaire]], lorsqu'aucune offre de gre a gre n'est suffisante ou que le juge-commissaire l'ordonne, les actifs sont vendus aux encheres publiques.
 
 **Types d'actifs concernes** :
 - Biens meubles corporels (materiel, vehicules, stocks, mobilier)
