@@ -8,7 +8,7 @@
 
 ## Deal en attente
 
-- [[../../deals/active/bma-multi-loisirs-distribution-mld]] — en attente Hunter avant passage Enricher
+- [[brantham/deals/active/mld-multi-loisirs-distribution]] — en attente Hunter avant passage Enricher
 
 ## Statistiques
 
@@ -23,9 +23,10 @@
 
 ## Voir aussi
 
-- [[README]] — Role et responsabilites Enricher
-- [[IDENTITY]] — Instructions operationnelles
-- [[../_shared/BRAIN]] — Etat global du systeme
+- [[brantham/agents/enricher/README]] — Role et responsabilites Enricher
+- [[brantham/agents/enricher/IDENTITY]] — Instructions operationnelles
+- [[brantham/agents/_shared/BRAIN]] — Etat global du systeme
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/agents/_shared/PIPELINE]]

@@ -11,10 +11,10 @@
 
 ## Liens directs
 
-- [[../../teasers/TEASER_bma-multi-loisirs-distribution-mld]] _(si existe)_
-- [[../../teasers/TEASER_bma-artemis]] _(si existe)_
-- [[../../teasers/TEASER_aj2m-gab-france-retail-scotch-soda]] _(si existe)_
-- [[../../teasers/TEASER_aj2m-d-l-commerce-appel-d-offres]] _(si existe)_
+- [[brantham/teasers/bma-multi-loisirs-distribution-mld-teaser]]
+- [[brantham/teasers/bma-artemis-teaser]]
+- [[brantham/teasers/aj2m-gab-france-retail-scotch-soda-teaser]]
+- [[brantham/teasers/aj2m-d-l-commerce-appel-d-offres-teaser]]
 
 ## Statistiques
 
@@ -24,9 +24,11 @@
 
 ## Voir aussi
 
-- [[README]] — Role et responsabilites Writer
-- [[IDENTITY]] — Instructions operationnelles
-- [[../_shared/BRAIN]] — Etat global du systeme
+- [[brantham/agents/writer/README]] — Role et responsabilites Writer
+- [[brantham/agents/writer/IDENTITY]] — Instructions operationnelles
+- [[brantham/agents/_shared/BRAIN]] — Etat global du systeme
+- [[brantham/patterns/teaser-patterns]] — Patterns de teasers
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/agents/_shared/PIPELINE]]
