@@ -88,6 +88,13 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 - [[brantham/knowledge/acteurs/ecosysteme-restructuring]] — Ecosysteme restructuring France
 - [[brantham/knowledge/acteurs/banques-cellules-restructuring]] — Cellules restructuring des banques francaises: DAS/DAEF/DRAS/DECA, organisation front/middle/back, criteres transfert, IFRS 9 staging, provisionnement, strategies (standstill/waiver/abandon/cession NPL), marche secondaire dette, servicers, mediation credit BdF/CCSF, Bale III/IV backstop, approche M&A distressed, negociation abandons, loan-to-own
 
+## Knowledge Base — Skills (Competences Transversales)
+
+- [[brantham/knowledge/skills/negociation-crise]] — Negociation en crise et restructuration: BATNA distressed, AJ/MJ, creanciers, CSE, prix de cession, surencheres, playbook Brantham
+- [[brantham/knowledge/skills/communication-parties-prenantes]] — Communication parties prenantes: interne (salaries), clients, fournisseurs, banques, medias, institutionnel, timeline J-7 a J+90, templates
+- [[brantham/knowledge/skills/quick-scan-diagnostic]] — Quick scan / diagnostic flash 24-48h: 10 indicateurs critiques, scoring 1-5, red flags eliminatoires, decision framework go/no-go, template memo 1 page
+- [[brantham/knowledge/skills/ethique-repreneur]] — Ethique du repreneur: pratiques condamnables, L642-2 obligations, jurisprudence, charte ethique, RSE distressed, positionnement Brantham
+
 ## Knowledge Base — Market Intelligence
 
 - [[brantham/knowledge/market/stats-defaillances-2025]] — Statistiques defaillances France 2024-2025: 70K defaillances/an, 267K emplois, secteurs, PGE, previsions 2026, comparaison internationale, application Brantham
