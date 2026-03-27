@@ -6,7 +6,7 @@ updated: 2026-03-27
 
 # Brantham — Cowork Prompts Index
 
-7 agents Cowork pour automatiser toute la chaîne de deals. Copier-coller chaque prompt directement dans Cowork.
+7 agents Cowork + 1 script email pour automatiser toute la chaîne de deals. Copier-coller chaque prompt directement dans Cowork.
 
 ## Schedule quotidien
 
@@ -17,6 +17,7 @@ updated: 2026-03-27
 08h30  → 03-deal-analysis.md     (analyse deals detecte → analysé)
 09h00  → 04-buyer-hunt.md        (sourcing acheteurs → acheteurs_identifiés)
 09h30  → 07-contact-enricher.md  (enrichissement contacts → prêt outreach)
+10h00  → 08-send-brief.md        (email résumé → Paul reçoit tout + emails outreach prêts)
 
 12h00  → 01-sourcing.md          (scan midi)
 
@@ -38,6 +39,7 @@ updated: 2026-03-27
 | [[03-deal-analysis]] | Deal Analysis | 08h30 / 15h | Analyse financière + juridique sur infos publiques |
 | [[04-buyer-hunt]] | Buyer Hunt | 09h / 14h | Sourcing 15-25 acheteurs qualifiés par deal |
 | [[07-contact-enricher]] | Contact Enricher | 09h30 / 16h | Enrichissement emails + LinkedIn décideurs |
+| [[08-send-brief]] | Send Brief | 10h | Email HTML résumé → deals GO + emails outreach prêts + actions |
 
 ## Agréger tous les outputs
 
