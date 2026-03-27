@@ -81,6 +81,11 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 - [[brantham/knowledge/finance/valorisation-distressed]] — Valorisation distressed exhaustif: 4 methodes, EBITDA normalise, 13-week CF, BP retournement, multiples sectoriels, scoring deals
 - [[brantham/knowledge/finance/restructuration-dette]] — Restructuration de dette et financement en crise: standstill/waiver/A&E/DES/haircut/buyback/NPL, new money L611-11/bridge/DIP/BPI/affacturage/sale-leaseback, LBO distressed, cash management 13WCF, BP retournement, 6 suretes, application Brantham
 
+## Knowledge Base — Acteurs
+
+- [[brantham/knowledge/acteurs/ecosysteme-restructuring]] — Ecosysteme restructuring France
+- [[brantham/knowledge/acteurs/banques-cellules-restructuring]] — Cellules restructuring des banques francaises: DAS/DAEF/DRAS/DECA, organisation front/middle/back, criteres transfert, IFRS 9 staging, provisionnement, strategies (standstill/waiver/abandon/cession NPL), marche secondaire dette, servicers, mediation credit BdF/CCSF, Bale III/IV backstop, approche M&A distressed, negociation abandons, loan-to-own
+
 ## Knowledge Base — Market Intelligence
 
 - [[brantham/knowledge/market/stats-defaillances-2025]] — Statistiques defaillances France 2024-2025: 70K defaillances/an, 267K emplois, secteurs, PGE, previsions 2026, comparaison internationale, application Brantham
