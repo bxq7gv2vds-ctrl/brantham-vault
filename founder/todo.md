@@ -1,6 +1,6 @@
 ---
 type: todo
-updated: 2026-03-20
+updated: 2026-03-28
 ---
 
 # TODO
@@ -9,6 +9,7 @@ Fichier persistant. Les items s'accumulent ici. Le daily-plan les integre chaque
 
 ## Inbox (non trie)
 
+- [ ] AUDIT SEO complet — 88 pages à passer en revue (2026-03-28)
 
 ## P0 — Revenue
 - [ ] Relancer pipeline deals — sourcer 5-10 opportunites BODACC (2026-03-20)
