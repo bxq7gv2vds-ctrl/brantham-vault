@@ -547,3 +547,18 @@ Grille de notation rapide pour comparer les opportunites :
 ---
 
 *Document cree le 2026-03-26. A mettre a jour regulierement en fonction des retours terrain et de l'evolution legislative.*
+
+---
+
+## Voir aussi
+
+- [[valorisation-distressed]] — Methodes de valorisation et EBITDA normalise
+- [[structuration-offres-reprise]] — Redaction et depot de l'offre de reprise
+- [[financial-modeling-distressed]] — 13-week cash flow et waterfall analysis
+- [[plans-de-cession]] — Cadre legal de la cession en procedure collective
+- [[nullites-periode-suspecte]] — Actes nuls de la periode suspecte
+- [[contrats-baux-en-procedure]] — Sort des contrats et baux en procedure
+- [[passif-environnemental]] — Risque environnemental et ICPE
+- [[fiscalite-restructuration]] — DD fiscale et deficits reportables
+- [[rang-des-creances]] — Privileges et rang des creanciers
+- [[quick-scan-diagnostic]] — Framework de triage rapide
