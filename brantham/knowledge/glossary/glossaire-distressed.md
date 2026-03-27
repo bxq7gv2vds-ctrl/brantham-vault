@@ -143,7 +143,7 @@ Glossaire exhaustif couvrant le vocabulaire specialise du M&A d'entreprises en d
 |---|---|---|
 | **[[nullites-periode-suspecte|Nullites de droit]]** | Actes passes pendant la periode suspecte qui sont automatiquement annulables (liberalites, paiements anticipes, suretes pour dettes anterieures, etc.). Le juge n'a pas de pouvoir d'appreciation. | L632-1 C.com |
 | **Nullites facultatives** | Actes passes pendant la periode suspecte que le tribunal peut annuler s'il estime qu'ils ont ete realises en connaissance de la cessation de paiements par le cocontractant. | L632-2 C.com |
-| **Action en comblement de passif** | Action en responsabilite pour insuffisance d'actif contre les dirigeants de droit ou de fait dont la faute de gestion a contribue a l'insuffisance d'actif. | L651-2 C.com |
+| **[[sanctions-dirigeants|Action en comblement de passif]]** | Action en responsabilite pour insuffisance d'actif contre les dirigeants de droit ou de fait dont la faute de gestion a contribue a l'insuffisance d'actif. | L651-2 C.com |
 | **Banqueroute** | Delit penal puni de 5 ans d'emprisonnement et 75 000 EUR d'amende. Concerne le detournement d'actifs, la tenue de comptabilite fictive, etc. | L654-1 et s. C.com |
 | **Faillite personnelle** | Sanction prononcee par le tribunal interdisant au dirigeant de diriger, gerer ou controler une entreprise (duree : jusqu'a 15 ans). | L653-1 et s. C.com |
 | **Interdiction de gerer** | Sanction prononcee contre le dirigeant fautif. Duree max : 15 ans. Inscrite au casier judiciaire et au fichier national des interdits de gerer. | L653-8 C.com |
