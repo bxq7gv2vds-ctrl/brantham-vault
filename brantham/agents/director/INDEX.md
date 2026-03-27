@@ -11,7 +11,7 @@
 
 ## Queue actuelle
 
-- [[../../deals/active/bma-multi-loisirs-distribution-mld]] — pret pour HUNTER — priorite haute
+- [[brantham/deals/active/mld-multi-loisirs-distribution]] — pret pour HUNTER — priorite haute
 
 ## Audits agents
 
@@ -25,10 +25,10 @@ _(aucun audit realise a ce jour — premier audit prevu semaine du 2026-03-09)_
 
 ## Voir aussi
 
-- [[README]] — Role et responsabilites Director
-- [[IDENTITY]] — Instructions operationnelles completes
-- [[../_shared/BRAIN]] — Etat global du systeme
-- [[../_shared/PIPELINE]] — Pipeline complet
+- [[brantham/agents/director/README]] — Role et responsabilites Director
+- [[brantham/agents/director/IDENTITY]] — Instructions operationnelles completes
+- [[brantham/agents/_shared/BRAIN]] — Etat global du systeme
+- [[brantham/agents/_shared/PIPELINE]] — Pipeline complet
 
 ## Related
 - [[brantham/_MOC]]
