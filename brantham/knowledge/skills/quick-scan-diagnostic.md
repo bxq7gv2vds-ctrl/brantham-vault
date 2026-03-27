@@ -308,3 +308,16 @@ Signature : ___
 
 ### Erreur classique
 Ne pas faire de quick scan et se lancer directement dans une DD complete sur un deal qui ne le merite pas = perte de temps et d'argent. Le quick scan est le filtre le plus rentable du processus M&A distressed.
+
+## Voir aussi
+
+- [[due-diligence-distressed]] — Due diligence complete apres le GO
+- [[valorisation-distressed]] — Methodes de valorisation rapide
+- [[financial-modeling-distressed]] — Modelisation financiere express
+- [[structuration-offres-reprise]] — Structurer l'offre apres validation
+- [[negociation-crise]] — Negociation avec l'AJ/MJ
+- [[passif-environnemental]] — Red flag n.1 en industrie
+- [[comptabilite-crise]] — Lecture des comptes en situation de crise
+- [[ecosysteme-restructuring]] — Identifier l'AJ et le tribunal competent
+- [[stats-defaillances-2025]] — Volume du marche adressable
+- [[glossaire-distressed]] — Definitions des termes techniques

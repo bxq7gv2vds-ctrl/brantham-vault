@@ -251,7 +251,7 @@ Guide operationnel pour la due diligence dans le contexte des reprises d'entrepr
 
 #### Structure Fiscale de la Reprise
 
-- [ ] Asset deal (plan de cession) vs. share deal : implications fiscales radicalement differentes
+- [ ] Asset deal ([[plans-de-cession|plan de cession]]) vs. share deal : implications fiscales radicalement differentes
 - [ ] Droits d'enregistrement : 3% (0-23K EUR), 5% (au-dela) pour fonds de commerce ; 0.1% pour titres de societes a l'IS
 - [ ] TVA sur cession : exoneration si transfert d'universalite (art. 257 bis CGI)
 - [ ] Plus-values : traitement fiscal pour le cedant (souvent sans objet en procedure)
