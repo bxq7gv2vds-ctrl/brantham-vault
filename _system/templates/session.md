@@ -1,30 +1,44 @@
 ---
+name: Session Template
 type: session
-project:
-date:
-duration_hours:
-tags: []
+date: YYYY-MM-DD
+project: brantham
+duration: "2h"
 ---
 
-# Session [date] — [project]
+# Session — [Date] — [Project]
 
-## Goal
-What was the objective.
+**Date**: YYYY-MM-DD  
+**Duration**: 2h  
+**Focus**: [What did we work on?]
 
-## Done
-- [ item ]
+## What We Did
+
+- [Action 1]
+- [Action 2]
 
 ## Decisions Made
-- [[decision-link]] (if any)
+
+- [[founder/decisions/YYYY-MM-DD-TITLE]]
 
 ## Bugs Fixed
-- [[bug-link]] (if any)
 
-## Patterns Discovered
-- [[pattern-link]] (if any)
+- [[brantham/bugs/YYYY-MM-DD-TITLE]]
 
-## Blockers / Open
--
+## Patterns Created
 
-## Next
--
+- [[brantham/patterns/TITLE]]
+
+## Key Learnings
+
+[Interesting discoveries? Market signals? Technical insights?]
+
+## Next Steps
+
+- [ ] [TODO 1]
+- [ ] [TODO 2]
+
+## Related
+
+- [[brantham/_MOC]]
+- [[founder/daily/YYYY-MM-DD-auto-brief|Daily Plan — [Date]]]

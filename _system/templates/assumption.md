@@ -1,36 +1,43 @@
 ---
+name: Assumption Template
 type: assumption
-project:
-date:
-status: untested  # untested | testing | validated | invalidated
-confidence: medium  # low | medium | high
-kill_criteria:
-tags: []
-linked_decisions: []
+date: YYYY-MM-DD
+status: untested  # untested | validated | invalidated
+confidence: medium
 ---
 
-# [Hypothesis]
+# [Assumption Title]
 
-## Statement
-Clear, falsifiable hypothesis.
+**Created**: YYYY-MM-DD  
+**Status**: Untested  
+**Confidence**: Medium  
+**Domain**: [Market | Product | Tech | Finance]
 
-## Evidence For
--
+## The Assumption
 
-## Evidence Against
--
+[What are we assuming to be true?]
 
-## Kill Criteria
-What would invalidate this assumption.
+## Why We Believe It
 
-## Test Plan
-How to validate. Timeline.
+[Evidence or reasoning behind this assumption]
 
-## Last Reviewed
-[date] — [notes]
+## How to Validate
+
+[What would prove/disprove this assumption?]
+
+## Impact if Wrong
+
+[What happens if this assumption is false?]
+
+## Validation Results
+
+[Track: tests run, data collected, outcome]
+
+- **Test 1**: [Result]
+- **Test 2**: [Result]
 
 ## Related
+
 - [[_system/MOC-assumptions]]
-- [[founder/decisions/YYYY-MM-DD-decision-name]] <!-- decisions basees sur cette assumption -->
-- [[founder/strategy/current-strategy]] <!-- si impacte la strategie -->
-- [[founder/customers/YYYY-MM-DD-customer-name]] <!-- retours clients lies -->
+- [[brantham/_MOC]]
+- [[founder/decisions/YYYY-MM-DD-TITLE|Decision Based on This Assumption]]

@@ -1,27 +1,45 @@
 ---
+name: Pattern Template
 type: pattern
-project:  # or "cross-project"
-date:
-category:  # scraping | api | agent | data | frontend | deploy
-tags: []
+date: YYYY-MM-DD
+project: brantham
+reusable: true
 ---
 
 # [Pattern Name]
 
-## Problem
-What situation this pattern solves.
+**Date Discovered**: YYYY-MM-DD  
+**Maturity**: Experimental | Proven | Production-ready  
+**Reuse Count**: 0  
 
-## Solution
-The approach, with code snippets if relevant.
+## Description
 
-## When to Use
-Conditions where this pattern applies.
+[What is this pattern? When to use it?]
 
-## Gotchas
-Known edge cases or pitfalls.
+## Problem It Solves
+
+[What class of problems does this pattern address?]
+
+## Implementation
+
+[Code example / pseudocode]
+
+```python
+def pattern_example():
+    pass
+```
+
+## Trade-offs
+
+- ✅ Advantages
+- ⚠️ Limitations
+
+## Lessons Learned
+
+[What did we learn? Gotchas?]
 
 ## Related
+
 - [[_system/MOC-patterns]]
-- [[project/_MOC]] <!-- remplacer project par brantham/website -->
-- [[brantham/bugs/YYYY-MM-DD-bug-name]] <!-- bug qui a mene a ce pattern -->
-- [[brantham/sessions/YYYY-MM-DD]] <!-- session ou le pattern a ete decouvert -->
+- [[brantham/_MOC]]
+- [[brantham/bugs/YYYY-MM-DD-ORIGIN|Bug that Originated This Pattern]]
