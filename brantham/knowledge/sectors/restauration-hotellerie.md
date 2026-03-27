@@ -70,7 +70,7 @@ La licence IV (licence de debit de boissons) est un actif a part entiere, parfoi
 | **Rarete** | Stock ferme depuis 1941, nombre en diminution constante (environ 32 000 en France) |
 | **Valeur** | 5 000-20 000 EUR (province), 30 000-80 000 EUR (Paris/grandes villes) |
 | **Transfert** | Possible dans le meme departement. La loi revient a limiter le transfert au departement (fin de la possibilite inter-regionale). |
-| **En procedure collective** | La licence IV est un element du fonds de commerce. Elle est cedee avec le fonds dans un plan de cession. |
+| **En procedure collective** | La licence IV est un element du fonds de commerce. Elle est cedee avec le fonds dans un [[plans-de-cession|plan de cession]]. |
 | **Mutation** | Le repreneur doit declarer la mutation en mairie (formulaire Cerfa) dans les 15 jours. |
 | **Peremption** | Licence non exploitee > 5 ans = perimee. Verifier si la licence est toujours active. |
 
