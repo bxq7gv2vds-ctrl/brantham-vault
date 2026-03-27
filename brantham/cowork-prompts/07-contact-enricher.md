@@ -267,6 +267,53 @@ ACTION REQUISE — Soren :
 
 ---
 
+## Étape FINALE — Écrire le fichier output (OBLIGATOIRE)
+
+```bash
+OUTPUT_DIR=/Users/paul/vault/brantham/cowork-outputs
+TIMESTAMP=$(date +%Y-%m-%d-%H%M)
+OUTPUT_FILE=$OUTPUT_DIR/contact-enricher-$TIMESTAMP.json
+
+python3 -c "
+import json
+output = {
+  'agent': 'contact-enricher',
+  'run_id': 'contact-enricher-$TIMESTAMP',
+  'timestamp': '$(date -u +%Y-%m-%dT%H:%M:%SZ)',
+  'status': 'success',
+  'summary': '[slug] — [N] contacts enrichis sur [N], [N] prêts outreach',
+  'data': {
+    'slug': '',
+    'total_enriched': 0,
+    'ready_for_outreach': 0,
+    'enrichment_rate': '0%',
+    'contacts': [
+      {
+        'rang': 1,
+        'nom_entreprise': '',
+        'contact_nom': '',
+        'email': '',
+        'email_confidence': 'probable',
+        'linkedin': '',
+        'ready': True
+      }
+    ],
+    'contacts_path': '',
+    'outreach_brief_path': ''
+  },
+  'actions_taken': [],
+  'pending_for_human': [
+    {'who': 'Soren', 'action': 'Envoyer emails outreach depuis outreach-brief.md', 'urgency': 'rouge', 'deadline': None}
+  ],
+  'triggered_next': [],
+  'errors': []
+}
+print(json.dumps(output, indent=2, ensure_ascii=False))
+" > \$OUTPUT_FILE
+
+echo "Output écrit : \$OUTPUT_FILE"
+```
+
 ## Règles absolues
 
 - **Jamais envoyer un email sans confidence ≥ probable** : les bounces détruisent la délivrabilité
