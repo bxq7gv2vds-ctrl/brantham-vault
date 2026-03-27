@@ -173,7 +173,7 @@ C'est l'approche recommandee en distressed. Au lieu d'un seul scenario DCF, on c
 
 La waterfall analysis (analyse en cascade) determine comment la valeur d'une entreprise est distribuee entre les differentes classes de creanciers selon leur rang de priorite. C'est l'outil central du restructuring pour negocier les recoveries.
 
-### 2.2 Rang des creances en droit francais
+### 2.2 [[rang-des-creances|Rang des creances]] en droit francais
 
 En procedure collective francaise, l'ordre de priorite (simplifie) est :
 

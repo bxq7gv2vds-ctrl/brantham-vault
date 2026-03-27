@@ -244,3 +244,16 @@ Le BATNA (Best Alternative To a Negotiated Agreement) est critique en distressed
 - **Preparation > improvisation** : chaque negociation est preparee avec un memo interne (BATNA, ZOPA, concessions possibles, lignes rouges)
 - **Equipe dediee** : avocat + financier + operationnel a chaque negociation importante
 - **Memoire institutionnelle** : chaque negociation est debriefee et les lessons learned sont capturees dans le vault
+
+## Voir aussi
+
+- [[communication-parties-prenantes]] — Communication avec les parties prenantes en crise
+- [[structuration-offres-reprise]] — Structurer et chiffrer une offre de reprise
+- [[encheres-surencheres]] — Gestion des surencheres et offres concurrentes
+- [[audience-tribunal]] — Presentation de l'offre devant le tribunal
+- [[ecosysteme-restructuring]] — AJ, MJ, fonds et avocats a connaitre
+- [[plans-de-cession]] — Cadre juridique de la cession (L642-2)
+- [[ethique-repreneur]] — Principes ethiques dans la negociation
+- [[banques-cellules-restructuring]] — Negocier avec les cellules bancaires
+- [[rang-des-creances]] — Comprendre les interets de chaque creancier
+- [[valorisation-distressed]] — Benchmarks de prix en distressed
