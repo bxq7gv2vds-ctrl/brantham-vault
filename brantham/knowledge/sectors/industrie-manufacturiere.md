@@ -232,3 +232,16 @@ Les sites industriels sont souvent classes ICPE. C'est le **risque n.1** du sect
 ---
 
 *Fiche compilee a partir de sources publiques (DG Tresor, Altares, EY, DREAL, BRGM) et experience terrain. Usage interne Brantham Partners.*
+
+## Voir aussi
+
+- [[passif-environnemental]] — ICPE, pollution des sols, obligations de depollution
+- [[stats-defaillances-2025]] — Contexte macro (+75% PME-ETI industrielles)
+- [[valorisation-distressed]] — Methodes de valorisation industrielle
+- [[due-diligence-distressed]] — Checklist DD industrielle
+- [[pi-actifs-incorporels-distressed]] — Brevets et PI en distressed
+- [[contrats-baux-en-procedure]] — Credit-bail et contrats en procedure
+- [[plans-de-cession]] — Cession d'activite vs cession de site
+- [[droit-social-restructuration]] — Reprise des equipes et PSE
+- [[quick-scan-diagnostic]] — Diagnostic flash industriel
+- [[financial-modeling-distressed]] — Modelisation carnet de commandes
