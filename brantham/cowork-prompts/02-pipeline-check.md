@@ -80,21 +80,20 @@ find /Users/paul/Downloads/brantham-pipeline/deals/[slug]/ -type f -printf '%T@ 
 ### Étape 3 — Classifier les deals par état de santé
 
 **ROUGE — Action immédiate requise :**
-- Deadline < 7 jours ET statut < teaser_redige (pas encore de teaser)
-- Deadline < 4 jours QUEL QUE SOIT le statut
+- Deadline < 7 jours ET statut < acheteurs_identifies
 - Deal en `en_analyse` depuis > 48h sans mise à jour
+- Deal en `detecte` depuis > 72h sans analyse lancée
 
 **ORANGE — Action dans les 48h :**
 - Deadline 7-14 jours ET statut < acheteurs_identifies
-- Deal en `detecte` depuis > 72h sans analyse lancée
-- Deal en `analysé` depuis > 24h sans teaser généré
+- Deal en `analysé` depuis > 24h sans acheteurs lancés
 
 **VERT — En bonne santé :**
 - Pipeline avance, délais confortables, fichiers présents et récents
 
 **BLEU — En attente d'action humaine :**
-- Deal prêt pour outreach (contacts_enrichis) mais Soren n'a pas encore contacté
-- Deal nécessitant une décision de Paul (data room demandée, mandat à signer)
+- Deal en `contacts_enrichis` depuis > 12h sans outreach Soren lancé
+- Deal nécessitant une décision de Paul (mandat à signer, data room demandée)
 
 ### Étape 4 — Vérifier la cohérence des fichiers
 
