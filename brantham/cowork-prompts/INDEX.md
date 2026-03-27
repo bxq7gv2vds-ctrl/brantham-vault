@@ -6,20 +6,19 @@ updated: 2026-03-27
 
 # Brantham — Cowork Prompts Index
 
-6 agents Cowork, chacun envoie un email après son run. Une seule fois par jour.
+6 agents Cowork + 1 send brief. Une seule fois par jour. Un seul email à 10h00 avec tout.
 
 ## Schedule quotidien
 
 ```
-07h00  → 01-sourcing.md          → email "[Brantham] Sourcing 07h00 — X GO détectés"
-07h15  → 05-morning-brief.md     → email "[Brantham] Morning Brief 07h15 — X alertes rouges"
-08h00  → 02-pipeline-check.md    → email "[Brantham] Pipeline Check 08h00 — score X/100"
-08h30  → 03-deal-analysis.md     → email "[Brantham] Deal Analysis 08h30 — [slug] score X/100"
-09h00  → 04-buyer-hunt.md        → email "[Brantham] Buyer Hunt 09h00 — X acheteurs qualifiés"
-09h30  → 07-contact-enricher.md  → email "[Brantham] Contact Enricher 09h30 — X contacts prêts"
+07h00  → 01-sourcing.md          (scan AJ + BODACC)
+07h15  → 05-morning-brief.md     (brief Paul + Soren — plan du jour)
+08h00  → 02-pipeline-check.md    (alertes deadlines, état pipeline)
+08h30  → 03-deal-analysis.md     (analyse deals detecte → analysé)
+09h00  → 04-buyer-hunt.md        (sourcing acheteurs → acheteurs_identifies)
+09h30  → 07-contact-enricher.md  (enrichissement contacts → prêt outreach)
+10h00  → 08-send-brief.md        ← UN SEUL EMAIL avec tout
 ```
-
-Chaque email contient : ce que l'agent vient de faire + l'état complet du pipeline + les emails outreach prêts.
 
 ## Agents
 
@@ -31,6 +30,7 @@ Chaque email contient : ce que l'agent vient de faire + l'état complet du pipel
 | [[03-deal-analysis]] | Deal Analysis | 08h30 | Analyse financière + juridique sur infos publiques |
 | [[04-buyer-hunt]] | Buyer Hunt | 09h00 | Sourcing 15-25 acheteurs qualifiés par deal |
 | [[07-contact-enricher]] | Contact Enricher | 09h30 | Enrichissement emails + LinkedIn décideurs |
+| [[08-send-brief]] | Send Brief | 10h00 | UN email avec tout : pipeline + outreach prêts + actions |
 
 ## Agréger tous les outputs
 
