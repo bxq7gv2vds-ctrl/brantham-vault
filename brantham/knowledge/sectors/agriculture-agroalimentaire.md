@@ -284,3 +284,15 @@ Les certifications sont des **prerequisites obligatoires** pour acceder a la gra
 ---
 
 *Fiche compilee a partir de sources publiques (SAFER, chambres d'agriculture, MSA, DDTM, AFNOR/IFS) et experience terrain. Usage interne Brantham Partners.*
+
+## Voir aussi
+
+- [[stats-defaillances-2025]] — Contexte macro des defaillances agricoles
+- [[passif-environnemental]] — Pollution sols, ICPE elevage, nitrates
+- [[valorisation-distressed]] — Methodes de valorisation agricole et IAA
+- [[due-diligence-distressed]] — Checklist DD agricole et agroalimentaire
+- [[plans-de-cession]] — Cession d'exploitation et droit de preemption SAFER
+- [[fiscalite-restructuration]] — Regimes fiscaux agricoles
+- [[cas-emblematiques-france]] — Cas Doux, cooperatives laitieres
+- [[quick-scan-diagnostic]] — Diagnostic flash avant DD
+- [[glossaire-distressed]] — Definitions des termes techniques

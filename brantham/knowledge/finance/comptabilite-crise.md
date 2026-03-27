@@ -159,7 +159,7 @@ Le CAC dispose d'un droit et d'un devoir d'alerte :
 
 ### 2.5 Articulation avec les procedures collectives
 
-- La procedure d'alerte est **incompatible** avec une procedure de conciliation, sauvegarde, RJ ou LJ deja ouverte (art. L234-4 C. com.)
+- La procedure d'alerte est **incompatible** avec une procedure de [[mandat-ad-hoc-conciliation|conciliation]], [[sauvegarde]], [[redressement-judiciaire|RJ]] ou [[liquidation-judiciaire|LJ]] deja ouverte (art. L234-4 C. com.)
 - Si une procedure est ouverte, l'alerte cesse automatiquement
 - Le CAC continue neanmoins de certifier les comptes pendant la procedure (sauf dessaisissement du dirigeant en LJ)
 - Le rapport du CAC sur les comptes de la periode d'observation est un document essentiel pour le tribunal
