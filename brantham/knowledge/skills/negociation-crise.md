@@ -233,7 +233,7 @@ Le BATNA (Best Alternative To a Negotiated Agreement) est critique en distressed
 - Periode d'observation = temps pour le repreneur de bien preparer
 - Le dirigeant est encore en poste : negocier avec lui en parallele de l'AJ
 
-### Deals amiables (mandat ad hoc / conciliation)
+### Deals amiables ([[mandat-ad-hoc-conciliation|mandat ad hoc / conciliation]])
 - Negociation directe avec le dirigeant et les creanciers
 - Plus de flexibilite sur le prix et les conditions
 - Confidentialite = avantage majeur (pas de publicite de la procedure)
