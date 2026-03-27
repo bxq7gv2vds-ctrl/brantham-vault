@@ -180,7 +180,7 @@ Le fonds de commerce en CHR comprend :
 
 | Entreprise | Annee | Procedure | Issue | Enseignement |
 |---|---|---|---|---|
-| **Courtepaille** | 2020 | RJ | Reprise par Napaquaro (Buffalo Grill) | Reseau = valeur, 180 restaurants |
+| **[[cas-emblematiques-france|Courtepaille]]** | 2020 | RJ | Reprise par Napaquaro (Buffalo Grill) | Reseau = valeur, 180 restaurants |
 | **Flunch** | 2023 | RJ | Reprise partielle, 55 restaurants fermes | Restauration collective en mutation |
 | **Hippopotamus** (Groupe Bertrand) | 2024 | Restructuration | Fermeture progressive | Concept fatigue, immobilier > marque |
 | **Potel & Chabot** | 2024 | RJ | Reprise | Traiteur haut de gamme, clientele captive |
