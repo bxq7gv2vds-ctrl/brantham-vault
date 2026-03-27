@@ -17,7 +17,6 @@ updated: 2026-03-27
 10h00  → 03-deal-analysis.md     (analyse deals detecte → analysé)
 11h00  → 04-buyer-hunt.md        (sourcing acheteurs analysé → acheteurs_identifiés)
 12h00  → 01-sourcing.md          (scan midi)
-12h30  → 06-teaser-factory.md    (génération teasers analysé → teaser_rédigé)
 14h00  → 04-buyer-hunt.md        (2ème run buyer hunt)
 15h00  → 03-deal-analysis.md     (2ème run analyse)
 16h00  → 07-contact-enricher.md  (enrichissement contacts → prêt outreach)
