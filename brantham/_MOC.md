@@ -71,6 +71,9 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 ## Knowledge Base — Process
 
 - [[brantham/knowledge/process/due-diligence-distressed]] — Due diligence distressed exhaustif: checklist financiere/juridique/sociale/fiscale/operationnelle, red flags, timing LJ vs RJ, quick scan 48h, scoring DD
+- [[brantham/knowledge/process/structuration-offres-reprise]] — Structuration offres de reprise (L642-2): 9 mentions obligatoires, strategie redaction, prix vs emploi, garanties, checklist pre-depot, erreurs courantes
+- [[brantham/knowledge/process/encheres-surencheres]] — Encheres et surencheres: regime encheres LJ, surenchere 10%/10j, differences RJ vs LJ, strategies d'offres, jurisprudence, plateformes veille
+- [[brantham/knowledge/process/audience-tribunal]] — Audience de cession tribunal: deroulement, roles (AJ/MJ/procureur/CSE), presentation orale, criteres L642-5, voies de recours, conseils praticiens
 
 ## Knowledge Base — Finance
 
