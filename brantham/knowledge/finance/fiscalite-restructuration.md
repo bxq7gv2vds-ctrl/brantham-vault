@@ -52,9 +52,9 @@ Depuis la LFR 2012 (exercices clos a compter du 31/12/2012), l'imputation des de
 ### 1.3 Majorations du plafond
 
 Le plafond de 1 M EUR est majore du montant des abandons de creances consentis dans le cadre :
-- D'un accord de conciliation homologue ou constate (art. L611-8 C. com.)
-- D'un plan de sauvegarde ou de redressement
-- D'un accord constate par le president du tribunal dans le cadre d'un mandat ad hoc
+- D'un accord de [[mandat-ad-hoc-conciliation|conciliation]] homologue ou constate (art. L611-8 C. com.)
+- D'un plan de [[sauvegarde]] ou de [[redressement-judiciaire|redressement]]
+- D'un accord constate par le president du tribunal dans le cadre d'un [[mandat-ad-hoc-conciliation|mandat ad hoc]]
 
 Cette majoration est essentielle en restructuration : elle permet d'accelerer l'imputation des deficits anterieurs lorsque l'entreprise beneficie d'abandons de creances de ses partenaires bancaires ou fournisseurs.
 
