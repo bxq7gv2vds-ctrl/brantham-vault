@@ -133,7 +133,7 @@ Pour reduire sa dette, Casino lance un programme massif de cessions :
 
 **Octobre 2023 : Ouverture de la sauvegarde acceleree**
 
-- **25 octobre 2023** : Le tribunal de commerce de Paris ouvre des **procedures de sauvegarde acceleree** pour Casino et 6 entites filiales :
+- **25 octobre 2023** : Le tribunal de commerce de Paris ouvre des **procedures de [[sauvegarde-acceleree-sfa|sauvegarde acceleree]]** pour Casino et 6 entites filiales :
   - Casino, Guichard-Perrachon (societe mere)
   - Casino Finance
   - Casino Participations France
