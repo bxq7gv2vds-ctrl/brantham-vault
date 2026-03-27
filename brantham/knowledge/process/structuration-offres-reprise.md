@@ -292,3 +292,6 @@ En LJ sans concurrence, le prix peut etre tres bas. En RJ avec concurrence, le p
 - [[droit-social-restructuration]] — Volet social de l'offre et transfert des salaries
 - [[contrats-baux-en-procedure]] — Contrats et baux a reprendre dans l'offre
 - [[glossaire-distressed]] — Terminologie M&A distressed
+
+## Related
+- [[brantham/_MOC]]

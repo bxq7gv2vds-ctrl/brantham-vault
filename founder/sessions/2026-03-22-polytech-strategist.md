@@ -163,3 +163,9 @@ Document genere: `/Users/paul/Desktop/POLYTECH_STRATEGIST_BRIEF.pdf`
 - Lieu: EDHEC BBA2 Lille
 - Simulation: Polytech 3.0
 - Objectif: **Premier de l'univers ET tous univers reunis**
+
+## Related
+- [[_system/MOC-master]]
+- [[brantham/patterns/teaser-onepager-html-pdf]]
+- [[brantham/sessions/2026-03-22]]
+- [[founder/sessions/2026-03-22-polytech-calibration]]

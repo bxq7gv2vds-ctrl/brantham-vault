@@ -97,3 +97,6 @@ Competition: Polytech 3.0, EDHEC BBA2 Lille, 23-25 Mars 2026
 ## Taux interet
 - T1-T4: 5.00% annuel = 1.25%/trim
 - T5+: 5.50% annuel = 1.375%/trim
+
+## Related
+- [[_system/MOC-master]]

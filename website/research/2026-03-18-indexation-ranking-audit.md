@@ -238,3 +238,17 @@ C'est le territoire vierge de Brantham Partners.
 11. Actualiser le barometre defaillances mensuellement
 12. Developper les pages sectorielles (tech, BTP, industrie)
 13. Lead magnets : modele offre reprise, checklist DD (PDF telechargeable)
+
+## Related
+- [[website/_MOC]]
+- [[reports/2026-03-18-daily]]
+- [[website/research/2026-03-18-keyword-research-distressed-ma]]
+- [[website/audits/2026-03-18-brantham-seo-indexation-audit]]
+- [[website/strategies/2026-03-18-fast-ranking-strategy]]
+- [[website/sessions/2026-03-18]]
+- [[brantham/patterns/backtest-hierarchical-calibration]]
+- [[brantham/decisions/2026-03-18-backtest-v5-calibrated]]
+- [[brantham/sessions/2026-03-18]]
+- [[founder/decisions/2026-03-18-weather-alpha-dashboard-design-system]]
+- [[founder/decisions/2026-03-18-mirofish-distilled-architecture]]
+- [[founder/sessions/2026-03-18-weather-alpha-dashboard-redesign]]

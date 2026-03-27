@@ -18,3 +18,11 @@ Changer `if (status.deal_metrics)` en `if (status.deal_metrics?.length)` dans Si
 
 ## Pattern
 Toujours utiliser `.length` pour verifier un tableau avant de l'utiliser comme guard en JS. `[]` est truthy.
+
+## Related
+- [[brantham/_MOC]]
+- [[website/sessions/2026-03-16]]
+- [[website/sessions/2026-03-16-accent-fix]]
+- [[website/sessions/2026-03-16-seo-audit-t01]]
+- [[brantham/bugs/2026-03-16-ollama-m5-metal-bfloat]]
+- [[brantham/sessions/2026-03-16]]

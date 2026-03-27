@@ -52,3 +52,19 @@ Rewrite complet `backtest_v5_calibrated.py`:
 - 30d: [pending] Verifier performance en production live
 - 60d: [pending]
 - 90d: [pending]
+
+## Related
+- [[_system/MOC-decisions]]
+- [[brantham/_MOC]]
+- [[reports/2026-03-18-daily]]
+- [[website/research/2026-03-18-keyword-research-distressed-ma]]
+- [[website/research/2026-03-18-indexation-ranking-audit]]
+- [[website/audits/2026-03-18-brantham-seo-indexation-audit]]
+- [[website/strategies/2026-03-18-fast-ranking-strategy]]
+- [[website/sessions/2026-03-18]]
+- [[brantham/patterns/backtest-hierarchical-calibration]]
+- [[brantham/sessions/2026-03-18]]
+- [[founder/decisions/2026-03-18-weather-alpha-dashboard-design-system]]
+- [[founder/decisions/2026-03-18-mirofish-distilled-architecture]]
+- [[founder/sessions/2026-03-18-weather-alpha-dashboard-redesign]]
+- [[founder/strategy/current-strategy]]

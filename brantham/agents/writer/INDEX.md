@@ -27,3 +27,6 @@
 - [[README]] — Role et responsabilites Writer
 - [[IDENTITY]] — Instructions operationnelles
 - [[../_shared/BRAIN]] — Etat global du systeme
+
+## Related
+- [[brantham/_MOC]]

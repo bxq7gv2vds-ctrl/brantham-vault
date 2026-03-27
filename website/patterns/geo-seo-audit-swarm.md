@@ -23,3 +23,13 @@ Site avec 50+ pages a auditer. Un seul agent ne peut pas tout lire en une passe.
 - Les agents auditeurs surestiment parfois les longueurs de meta (encodage guillemets)
 - Verifier manuellement les cas limites
 - Les pages generees vs manuelles ont des structures differentes — adapter les checks
+
+## Related
+- [[_system/MOC-patterns]]
+- [[website/_MOC]]
+- [[remember/2026-03-21]]
+- [[website/audits/2026-03-21-seo-geo-audit]]
+- [[website/bugs/2026-03-21-contenu-duplique-geo-secteur]]
+- [[website/sessions/2026-03-21]]
+- [[brantham/sessions/2026-03-21-scan]]
+- [[brantham/bugs/2026-03-06-agent-auth-401]]

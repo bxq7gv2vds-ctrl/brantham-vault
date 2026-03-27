@@ -88,3 +88,20 @@ Un repreneur trop petit n'a pas les moyens. Un trop gros ne s'interessera pas.
 - Ne pas ignorer les repreneurs individuels (managers, cadres en reconversion) pour les petits deals < 1M EUR
 - Ne pas envoyer le teaser a un concurrent direct du mandataire (conflit d'interets)
 - Verifier les liens capitalistiques pour eviter les repreneurs lies au cedant
+
+## Related
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]
+- [[patterns/agent-orchestration]]
+- [[patterns/gemweb-rss-parsing]]
+- [[patterns/teaser-pptx-generation]]
+- [[patterns/prefect-pipeline]]
+- [[patterns/scraping-robust]]
+- [[brantham/patterns/scoring-patterns]]
+- [[brantham/patterns/teaser-patterns]]
+- [[founder/journal/2026-03-12]]
+- [[founder/decisions/2026-03-12-unified-vault]]
+- [[website/bugs/2026-03-21-contenu-duplique-geo-secteur]]
+- [[brantham/bugs/2026-03-02-matrice-aj-secteur-taux-cession]]
+- [[brantham/bugs/2026-03-02-analyse-regionale-unique-constraint]]
+- [[brantham/bugs/2026-03-06-agent-auth-401]]

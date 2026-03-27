@@ -40,3 +40,6 @@ Les PME en difficulte, ca ne devrait etre le sujet de personne en particulier. C
 ---
 
 #PME #MandA #entrepreneuriat #startup #restructuration
+
+## Related
+- [[brantham/_MOC]]

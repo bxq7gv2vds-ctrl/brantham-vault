@@ -47,3 +47,6 @@ Analyste M&A Brantham Partners. Produit l'analyse complete d'un dossier de cessi
 ## Voir aussi
 - [[IDENTITY]] — Instructions operationnelles completes
 - [[INDEX]] — Historique des analyses produites
+
+## Related
+- [[brantham/_MOC]]

@@ -42,3 +42,6 @@ Spawné par Director. Tu reçois un slug et des instructions de priorité.
 ## Ce que tu NE fais pas
 - Tu ne rédiges pas le teaser. Tu fournis la matière brute structurée.
 - Tu ne spawnes pas Writer toi-même — c'est Director qui décide après QC.
+
+## Related
+- [[brantham/_MOC]]

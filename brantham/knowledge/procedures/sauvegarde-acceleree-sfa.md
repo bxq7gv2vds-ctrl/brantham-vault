@@ -464,3 +464,6 @@ Le plan de SA peut inclure une cession partielle d'actifs ou une restructuration
 - [[cas-casino-groupe]] -- Cas Casino Groupe
 - [[droit-europeen-insolvabilite]] -- Droit europeen de l'insolvabilite
 - [[restructuration-dette]] -- Restructuration de dette
+
+## Related
+- [[brantham/_MOC]]

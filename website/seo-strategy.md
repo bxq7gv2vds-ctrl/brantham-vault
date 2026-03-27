@@ -10,3 +10,6 @@ SEO/GEO strategy for Brantham:
 - Approach: GEO blocks 80-120 words, FAQPage schema, llms.txt
 - Opportunity scoring: 8 weighted factors (Volume 25%, Position 20%, Intent 20%, Competition 15%, Cluster 10%, CTR 5%, Freshness 5%, Trend 5%)
 - WordPress integration with Yoast SEO
+
+## Related
+- [[website/_MOC]]

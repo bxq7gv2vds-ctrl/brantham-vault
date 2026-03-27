@@ -368,3 +368,6 @@ A integrer dans le business plan de reprise.
 - [[sanctions-dirigeants]] — Responsabilite des dirigeants et D&O
 - [[plans-de-cession]] — Purge du passif et alternatives a la GAP
 - [[ecosysteme-restructuring]] — Courtiers W&I et assureurs specialises
+
+## Related
+- [[brantham/_MOC]]

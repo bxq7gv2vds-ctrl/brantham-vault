@@ -593,3 +593,6 @@ La LJ est le **terrain de chasse principal** de Brantham Partners pour l'acquisi
 - [[contrats-baux-en-procedure]] -- Sort des contrats et baux
 - [[due-diligence-distressed]] -- Due diligence distressed
 - [[passif-environnemental]] -- Passif environnemental
+
+## Related
+- [[brantham/_MOC]]

@@ -76,3 +76,6 @@ FastAPI backend dans `/Users/paul/Desktop/brantham-partners/api/`. 26+ endpoints
 - Rate limiting: a implementer avant prod
 - CORS: restreint en prod aux domaines autorises
 - SSE stream: connexion persistante, events `deal_update`, `agent_status`, `qc_result`, `pipeline_step`
+
+## Related
+- [[brantham/_MOC]]

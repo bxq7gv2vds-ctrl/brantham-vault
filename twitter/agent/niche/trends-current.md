@@ -43,3 +43,6 @@ Le mot "agent" est partout. Mais le marche se segmente :
 - Cursor vs Claude Code debate va s'intensifier (Cursor self-hosted agents)
 - NanoCorp / AI autonomous companies = narratif emergent
 - Browser automation agents = convergence de plusieurs acteurs
+
+## Related
+- [[_system/MOC-master]]

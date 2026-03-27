@@ -57,3 +57,6 @@ Hypothèses (à valider avec data room complète) :
 **RISQUÉE MAIS POSSIBLE** — Concept vertueux avec potentiel de repositionnement, mais détérioration financière rapide et données incomplètes. Le délai de 3 mois est gérable mais nécessite une diligence rapide.
 
 **Action suggérée** : Approfondir avec l'AJ pour obtenir bilan, compte de résultat détaillé, état de la dette et BFR. Si dette contenue et BFR gérable, lancer pipeline complet sur cession d'actifs (moins risqué que reprise de passif).
+
+## Related
+- [[brantham/_MOC]]

@@ -296,3 +296,6 @@ Les certifications sont des **prerequisites obligatoires** pour acceder a la gra
 - [[cas-emblematiques-france]] — Cas Doux, cooperatives laitieres
 - [[quick-scan-diagnostic]] — Diagnostic flash avant DD
 - [[glossaire-distressed]] — Definitions des termes techniques
+
+## Related
+- [[brantham/_MOC]]

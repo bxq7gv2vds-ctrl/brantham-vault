@@ -583,3 +583,6 @@ En plan de cession, le repreneur fait face aux creanciers titulaires de suretes.
 - [[nullites-periode-suspecte]] -- Nullites de la periode suspecte
 - [[passif-environnemental]] -- Passif environnemental
 - [[due-diligence-distressed]] -- Due diligence distressed
+
+## Related
+- [[brantham/_MOC]]

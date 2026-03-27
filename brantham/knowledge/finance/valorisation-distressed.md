@@ -579,3 +579,6 @@ Chaque mois de procedure consume du cash, erode la clientele, demotive les equip
 - [[pi-actifs-incorporels-distressed]] — Valorisation des actifs incorporels
 - [[rang-des-creances]] — Ordre de priorite des creanciers
 - [[glossaire-distressed]] — Terminologie M&A distressed
+
+## Related
+- [[brantham/_MOC]]

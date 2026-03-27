@@ -47,3 +47,6 @@ Tous dans `posts/` :
 ### Images (1080x1080px)
 - `images/post-02-stigmatisation.html` + PNG
 - `images/post-03-coulisses.html` + PNG
+
+## Related
+- [[brantham/_MOC]]

@@ -551,3 +551,6 @@ vault/twitter/
    - Tweets originaux toujours approuves
    - Augmenter volume progressivement
    - Ajuster basee sur les metriques
+
+## Related
+- [[_system/MOC-master]]

@@ -47,3 +47,6 @@ Devenir le systeme nerveux du M&A distressed en France. Chaque PME viable en pro
 
 ## Full Roadmap
 See [[founder/strategy/roadmap-vision-2026]]
+
+## Related
+- [[_system/MOC-master]]

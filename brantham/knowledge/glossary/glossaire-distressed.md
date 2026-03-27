@@ -242,3 +242,6 @@ Pour approfondir un sujet, se referer aux fiches thematiques de la knowledge bas
 - Finance : `knowledge/finance/`
 - Process : `knowledge/process/`
 - Acteurs : `knowledge/acteurs/`
+
+## Related
+- [[brantham/_MOC]]

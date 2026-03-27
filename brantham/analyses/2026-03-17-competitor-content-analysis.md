@@ -255,3 +255,16 @@ Alvo a un podcast mais sans transcripts indexables. Brantham pourrait créer un 
 
 ### Gap #6 — Simulator avec vraie méthodologie transparente
 Simulateurs existants = lead capture déguisée. Un vrai outil avec méthodologie expliquée (DCF paramétrable, multiples sectoriels justifiés) serait différenciant.
+
+## Related
+- [[brantham/_MOC]]
+- [[website/audits/2026-03-17-legalstart-distressed-cluster-audit]]
+- [[website/audits/2026-03-17-mega-audit-seo-concurrentiel]]
+- [[website/audits/2026-03-17-mega-audit-v2-complete]]
+- [[website/audits/2026-03-17-deloitte-8advisory-deep-dive]]
+- [[website/bugs/2026-03-17-robots-txt-sitemap-wrong-domain]]
+- [[website/sessions/2026-03-17-expansion-article-insights]]
+- [[website/sessions/2026-03-17]]
+- [[website/sessions/2026-03-17-geo-attribution]]
+- [[website/competitor-analysis/2026-03-17-deep-content-analysis]]
+- [[brantham/sessions/2026-03-17]]

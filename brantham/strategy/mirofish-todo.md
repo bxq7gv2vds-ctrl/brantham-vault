@@ -317,3 +317,6 @@ Implementee dans `/Users/paul/MiroFish/frontend/` (Vue 3 + Vite), pas Next.js.
 ---
 
 *Derniere mise a jour: 17 mars 2026*
+
+## Related
+- [[brantham/_MOC]]

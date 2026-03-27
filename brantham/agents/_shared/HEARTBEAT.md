@@ -17,3 +17,6 @@
 ## Important
 Ne fais jamais de travail approximatif pour "paraître actif".
 HEARTBEAT_OK est une réponse parfaitement valide.
+
+## Related
+- [[brantham/_MOC]]

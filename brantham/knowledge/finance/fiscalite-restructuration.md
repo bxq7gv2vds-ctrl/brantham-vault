@@ -580,3 +580,6 @@ Si l'entreprise est deficitaire, le CIR constitue une creance sur l'Etat (imputa
 - [[sauvegarde]] — Procedures de sauvegarde et plans d'apurement
 - [[redressement-judiciaire]] — Deficits et changement de controle en RJ
 - [[glossaire-distressed]] — Terminologie M&A distressed
+
+## Related
+- [[brantham/_MOC]]

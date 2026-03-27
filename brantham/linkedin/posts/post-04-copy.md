@@ -31,3 +31,6 @@ Repondez au sondage. Je partagerai mon analyse la semaine prochaine avec les res
 ---
 
 #PME #reprise #sondage #entrepriseendifficulte
+
+## Related
+- [[brantham/_MOC]]

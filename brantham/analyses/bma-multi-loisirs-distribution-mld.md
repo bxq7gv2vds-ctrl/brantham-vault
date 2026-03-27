@@ -84,3 +84,6 @@ Concessionnaire véhicules de loisirs (neufs et occasions) situé à Cuinchy (62
 4. **Si chiffres OK** (EBITDA positif >60k€) : Monter une offre ferme avant le 10/03 pour laisser une marge de négociation
 
 **Risque principal à creuser** : La valeur et l'âge du stock — si beaucoup d'occasions invendues depuis >12 mois, risque de dépréciation importante.
+
+## Related
+- [[brantham/_MOC]]

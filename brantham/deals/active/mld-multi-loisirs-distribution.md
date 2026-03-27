@@ -72,3 +72,6 @@ Entreprise specialisee dans la vente et la location de vehicules de loisirs (cam
 ### Profil C (financier)
 - Family offices avec portefeuille auto/loisirs
 - Entrepreneurs en reconversion (budget < 500K EUR)
+
+## Related
+- [[brantham/_MOC]]

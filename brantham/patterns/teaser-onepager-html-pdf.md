@@ -99,3 +99,15 @@ Identique au site web branthampartners.fr :
 ## Relation avec l'ancien systeme
 
 L'ancien generateur PPTX (`generate_teaser.py`) utilise Cormorant Garamond + Work Sans + un template PPTX. Ce nouveau systeme le remplace pour les one-pagers avec un rendu superieur et aligne sur l'identite du site web.
+
+## Related
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]
+- [[brantham/sessions/2026-03-22]]
+- [[founder/sessions/2026-03-22-polytech-strategist]]
+- [[founder/sessions/2026-03-22-polytech-calibration]]
+- [[website/bugs/2026-03-21-contenu-duplique-geo-secteur]]
+- [[brantham/bugs/2026-03-02-matrice-aj-secteur-taux-cession]]
+- [[brantham/bugs/2026-03-02-analyse-regionale-unique-constraint]]
+- [[brantham/bugs/2026-02-19-llm-glm47-content-null]]
+- [[brantham/bugs/2026-03-05-asyncpg-another-operation]]

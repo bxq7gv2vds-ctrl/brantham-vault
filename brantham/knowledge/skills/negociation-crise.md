@@ -257,3 +257,6 @@ Le BATNA (Best Alternative To a Negotiated Agreement) est critique en distressed
 - [[banques-cellules-restructuring]] — Negocier avec les cellules bancaires
 - [[rang-des-creances]] — Comprendre les interets de chaque creancier
 - [[valorisation-distressed]] — Benchmarks de prix en distressed
+
+## Related
+- [[brantham/_MOC]]

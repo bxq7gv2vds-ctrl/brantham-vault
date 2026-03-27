@@ -35,3 +35,6 @@ Ce n'est pas un miracle. C'est un process.
 ---
 
 #PME #reprise #redressementjudiciaire #industrie #cession
+
+## Related
+- [[brantham/_MOC]]

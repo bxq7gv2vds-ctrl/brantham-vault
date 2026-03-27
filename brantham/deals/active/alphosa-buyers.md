@@ -108,3 +108,6 @@
 - Verifier les emails via Hunter.io ou NeverBounce
 - Personnaliser chaque message (mentionner une acquisition recente du destinataire)
 - Preparer un teaser 1 page ALPHOSA (anonymise si necessaire)
+
+## Related
+- [[brantham/_MOC]]

@@ -66,3 +66,11 @@ duration: ~2h
 - Optimiser les charts Recharts pour le touch (tooltips mobile)
 - Ajouter un mode sombre
 - PWA manifest pour installation mobile
+
+## Related
+- [[_system/MOC-master]]
+- [[website/patterns/seo-subagent-audit-fix]]
+- [[website/bugs/2026-03-15-audit-seo-technique]]
+- [[website/sessions/2026-03-15]]
+- [[website/sessions/2026-03-15-audit-maillage-interne]]
+- [[brantham/strategy/2026-03-15-linkedin-personal-brand]]

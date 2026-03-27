@@ -507,3 +507,6 @@ L'offre de reprise (L642-2 C. com.) doit anticiper le risque environnemental. Cl
 - [[due-diligence-distressed]] -- Due diligence distressed
 - [[responsabilite-tiers]] -- Responsabilite des tiers
 - [[valorisation-distressed]] -- Valorisation distressed
+
+## Related
+- [[brantham/_MOC]]

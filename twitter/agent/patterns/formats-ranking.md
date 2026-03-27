@@ -29,3 +29,6 @@ updated: 2026-03-26
 - 20% builder log avec chiffres (son pipeline, ses metriques, ses sessions)
 - 10% replies strategiques (sous les tweets a fort reach)
 - 5% threads (1/semaine max, quand il a un vrai sujet dense)
+
+## Related
+- [[_system/MOC-master]]

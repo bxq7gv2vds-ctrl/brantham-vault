@@ -488,3 +488,6 @@ Pour le scoring Brantham, integrer un "bonus" d'actif potentiel :
 - [[mandat-ad-hoc-conciliation]] -- Mandat ad hoc et conciliation
 - [[due-diligence-distressed]] -- Due diligence distressed
 - [[rang-des-creances]] -- Rang des creances
+
+## Related
+- [[brantham/_MOC]]

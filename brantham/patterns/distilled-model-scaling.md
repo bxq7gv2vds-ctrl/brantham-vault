@@ -54,3 +54,8 @@ Input (31 features) → Linear(64) → BatchNorm → ReLU
 - Accuracy plafonne a ~84% (small model)
 - Pas de raisonnement emergent (frozen decisions)
 - Auto-retrain necessaire si les regles du monde changent
+
+## Related
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]
+- [[brantham/bugs/2026-03-06-agent-auth-401]]

@@ -545,3 +545,6 @@ Le RJ est le **deuxieme terrain de chasse** de Brantham Partners, apres la LJ. I
 - [[contrats-baux-en-procedure]] -- Sort des contrats et baux
 - [[droit-social-restructuration]] -- Droit social en restructuration
 - [[due-diligence-distressed]] -- Due diligence distressed
+
+## Related
+- [[brantham/_MOC]]

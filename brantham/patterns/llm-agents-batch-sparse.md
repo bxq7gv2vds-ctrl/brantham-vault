@@ -49,3 +49,6 @@ llm_max_tokens: int = 250     # assez pour batch JSON (150 tronquait)
 
 ## Tags
 #mirofish #llm #optimisation #batch #mlx #json-parsing
+
+## Related
+- [[brantham/_MOC]]

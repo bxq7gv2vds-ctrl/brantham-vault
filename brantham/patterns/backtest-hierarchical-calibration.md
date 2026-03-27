@@ -44,3 +44,18 @@ blended = alpha * model_prob + (1-alpha) * climo_prob
 - Les station+ctype filtres sur train peuvent ne pas generaliser sur test
 - Climo en Celsius dans le parquet, forecasts en Fahrenheit — convertir!
 - Climatology parquet n'a que 183/366 DOYs — chercher DOY adjacent en fallback
+
+## Related
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]
+- [[reports/2026-03-18-daily]]
+- [[website/research/2026-03-18-keyword-research-distressed-ma]]
+- [[website/research/2026-03-18-indexation-ranking-audit]]
+- [[website/audits/2026-03-18-brantham-seo-indexation-audit]]
+- [[website/strategies/2026-03-18-fast-ranking-strategy]]
+- [[website/sessions/2026-03-18]]
+- [[brantham/decisions/2026-03-18-backtest-v5-calibrated]]
+- [[brantham/sessions/2026-03-18]]
+- [[founder/decisions/2026-03-18-weather-alpha-dashboard-design-system]]
+- [[founder/decisions/2026-03-18-mirofish-distilled-architecture]]
+- [[founder/sessions/2026-03-18-weather-alpha-dashboard-redesign]]

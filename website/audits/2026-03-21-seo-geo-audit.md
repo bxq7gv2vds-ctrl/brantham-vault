@@ -431,3 +431,11 @@ Cohere-ai       → NOT SPECIFIED ⚠️
 ---
 
 *Audit genere le 2026-03-21 a partir du framework geo-seo-claude et de l'analyse exhaustive du code source.*
+
+## Related
+- [[website/_MOC]]
+- [[remember/2026-03-21]]
+- [[website/patterns/geo-seo-audit-swarm]]
+- [[website/bugs/2026-03-21-contenu-duplique-geo-secteur]]
+- [[website/sessions/2026-03-21]]
+- [[brantham/sessions/2026-03-21-scan]]

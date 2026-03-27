@@ -370,3 +370,6 @@ Depuis le 1er janvier 2021, le Royaume-Uni est un Etat tiers. Consequences :
 - [[rang-des-creances]] -- Rang des creances et privilege new money
 - [[cas-orpea-emeis]] -- Cas Orpea / Emeis
 - [[cas-casino-groupe]] -- Cas Casino Groupe
+
+## Related
+- [[brantham/_MOC]]

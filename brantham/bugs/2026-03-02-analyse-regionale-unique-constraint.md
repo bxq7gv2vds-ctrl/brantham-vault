@@ -17,3 +17,8 @@ UNIQUE constraint was on departement alone, should be on (departement, region).
 
 ## Fix
 Changed UNIQUE constraint to (departement, region).
+
+## Related
+- [[_system/MOC-bugs]]
+- [[brantham/_MOC]]
+- [[brantham/bugs/2026-03-02-matrice-aj-secteur-taux-cession]]

@@ -371,3 +371,17 @@ Quasi TOUS les concurrents ecrivent soit pour le dirigeant en difficulte, soit d
 4. **Dates 2026** : s'assurer que tous les titles/H1 mentionnent 2026
 5. **Schema HowTo** : sur les pages "etapes" et "comment faire"
 6. **Long-tail dans H2** : utiliser les questions exact-match comme sous-titres
+
+## Related
+- [[website/_MOC]]
+- [[reports/2026-03-18-daily]]
+- [[website/research/2026-03-18-indexation-ranking-audit]]
+- [[website/audits/2026-03-18-brantham-seo-indexation-audit]]
+- [[website/strategies/2026-03-18-fast-ranking-strategy]]
+- [[website/sessions/2026-03-18]]
+- [[brantham/patterns/backtest-hierarchical-calibration]]
+- [[brantham/decisions/2026-03-18-backtest-v5-calibrated]]
+- [[brantham/sessions/2026-03-18]]
+- [[founder/decisions/2026-03-18-weather-alpha-dashboard-design-system]]
+- [[founder/decisions/2026-03-18-mirofish-distilled-architecture]]
+- [[founder/sessions/2026-03-18-weather-alpha-dashboard-redesign]]

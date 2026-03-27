@@ -1104,3 +1104,6 @@ Un reporting hebdomadaire de 2 pages max est envoye au comite de pilotage :
 - [[banques-cellules-restructuring]] — Acteurs bancaires du restructuring
 - [[turnaround-operationnel]] — Plan de retournement et cash management
 - [[glossaire-distressed]] — Terminologie M&A distressed
+
+## Related
+- [[brantham/_MOC]]

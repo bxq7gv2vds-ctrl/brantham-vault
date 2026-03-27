@@ -74,3 +74,6 @@ Adapter la strategie au trimestre saisonnier.
 - Q2 (indice 108): pousser production max, prix ferme
 - Q3 (indice 101): neutre, preparer Q4
 - Ne pas sur-stocker en Q3 (Q4 va baisser la demande)
+
+## Related
+- [[_system/MOC-master]]

@@ -26,3 +26,6 @@ Fichier persistant. Les items s'accumulent ici. Le daily-plan les integre chaque
 - [ ] Mentions legales : remplir placeholders (2026-03-20)
 
 ## Done
+
+## Related
+- [[_system/MOC-master]]

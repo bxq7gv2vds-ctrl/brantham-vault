@@ -72,3 +72,20 @@ Toujours verifier les precedents dans `backtest_scoring`:
 - Ne pas ignorer les petites entreprises avec actifs strategiques (PI, marques, niches)
 - Ne pas sous-estimer l'importance du mandataire (certains facilitent, d'autres bloquent)
 - Ne pas lancer le pipeline si deadline < 5 jours (pas le temps de delivrer)
+
+## Related
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]
+- [[patterns/agent-orchestration]]
+- [[patterns/gemweb-rss-parsing]]
+- [[patterns/teaser-pptx-generation]]
+- [[patterns/prefect-pipeline]]
+- [[patterns/scraping-robust]]
+- [[brantham/patterns/teaser-patterns]]
+- [[brantham/patterns/acheteur-mapping]]
+- [[founder/journal/2026-03-12]]
+- [[founder/decisions/2026-03-12-unified-vault]]
+- [[website/bugs/2026-03-21-contenu-duplique-geo-secteur]]
+- [[brantham/bugs/2026-03-02-matrice-aj-secteur-taux-cession]]
+- [[brantham/bugs/2026-03-02-analyse-regionale-unique-constraint]]
+- [[brantham/bugs/2026-02-19-pipeline-cron-delivery]]

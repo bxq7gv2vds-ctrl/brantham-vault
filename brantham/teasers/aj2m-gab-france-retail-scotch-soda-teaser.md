@@ -44,3 +44,6 @@ Cession dans le cadre d'un plan de cession global mandaté par 2M&Associés. L'o
 
 ---
 *Ce document est confidentiel et ne peut être transmis sans accord de Brantham Partners.*
+
+## Related
+- [[brantham/_MOC]]

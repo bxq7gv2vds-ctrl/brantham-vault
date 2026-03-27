@@ -114,3 +114,9 @@ source: live-feed-scan + web-search
 - Le ratio bookmarks/likes est un signal fort de contenu "saveable" (zostaff: 209 bookmarks pour 168 likes)
 - Les quote tweets avec hot take sont le format dominant
 - Les comptes FR tech sont actifs et engages, audience a exploiter
+
+## Related
+- [[_system/MOC-master]]
+- [[brantham/knowledge/finance/valorisation-distressed]]
+- [[twitter/digests/2026-03-26]]
+- [[twitter/agent/drafts/2026-03-26]]

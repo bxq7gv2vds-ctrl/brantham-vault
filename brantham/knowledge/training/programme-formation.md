@@ -69,3 +69,6 @@ Programme structure pour maitriser le distressed M&A en France. Chaque module co
 | Module 4 | a faire | — | — |
 | Module 5 | a faire | — | — |
 | Module 6 | a faire | — | — |
+
+## Related
+- [[brantham/_MOC]]

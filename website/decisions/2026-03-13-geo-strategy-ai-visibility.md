@@ -32,3 +32,12 @@ Option 2 : GEO + SEO en parallele. Le rapport T02-ai-visibility.md detaille le p
 - 30d: [pending] Tester les 4 AI avec les 5 requetes cibles
 - 60d: [pending]
 - 90d: [pending]
+
+## Related
+- [[_system/MOC-decisions]]
+- [[website/_MOC]]
+- [[website/patterns/geo-ai-content-optimization]]
+- [[website/sessions/2026-03-13]]
+- [[brantham/bugs/2026-03-13-mobile-router-animation-css]]
+- [[founder/assumptions/seo-distressed-niche-low-competition]]
+- [[founder/strategy/current-strategy]]

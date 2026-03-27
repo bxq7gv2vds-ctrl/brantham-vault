@@ -123,3 +123,6 @@ Cession de 13 fonds de commerce retail (Scotch & Soda) situés en France (grande
 - [ ] Obtenir données financières par magasin
 - [ ] Évaluer loyers et durée des baux
 - [ ] Identifier repreneur type avec capacité d'investissement 3-5M€
+
+## Related
+- [[brantham/_MOC]]

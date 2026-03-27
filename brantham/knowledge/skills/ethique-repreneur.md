@@ -270,3 +270,6 @@ Avant de deposer une offre, se poser une question simple : "Si cette reprise eta
 - [[post-closing-execution]] — Execution des engagements post-reprise
 - [[ecosysteme-restructuring]] — Reputation dans l'ecosysteme
 - [[cas-emblematiques-france]] — Exemples de reprises reussies et echouees
+
+## Related
+- [[brantham/_MOC]]

@@ -174,3 +174,6 @@ Paul ne doit pas avoir a chercher l'information. Elle doit etre la quand il ouvr
 6. **Contenus LinkedIn.** C'est ce qui genere de l'inbound a moyen terme.
 7. **Intelligence marche.** C'est ce qui fait la difference sur le long terme.
 8. **Monitoring infra.** Support pour tout le reste.
+
+## Related
+- [[brantham/_MOC]]

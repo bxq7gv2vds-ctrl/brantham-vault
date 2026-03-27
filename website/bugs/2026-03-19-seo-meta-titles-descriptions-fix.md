@@ -30,3 +30,8 @@ status: resolved
 
 ## Impact
 Meilleure indexation Google (titles non tronques), coherence JSON-LD, hierarchie headings correcte.
+
+## Related
+- [[_system/MOC-bugs]]
+- [[website/_MOC]]
+- [[website/bugs/2026-03-19-seo-procedures-legales-sitemap-fix]]

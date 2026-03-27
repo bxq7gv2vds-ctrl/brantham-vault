@@ -11,3 +11,6 @@ updated: 2026-03-12
 - French primary, English for tech terms
 - No emojis, no purple, sober design
 - Services: Sourcing, Due Diligence, Valorisation, Structuration Juridique, Negociation, Integration post-reprise
+
+## Related
+- [[website/_MOC]]

@@ -534,3 +534,6 @@ Avant de contacter une cellule restructuring, il faut comprendre ce que la banqu
 - [[valorisation-distressed]] — Methodes de valorisation utilisees par les banques
 - [[assurance-credit]] — Role de l'assurance-credit dans le financement
 - [[glossaire-distressed]] — Definitions NPL, ECL, backstop, etc.
+
+## Related
+- [[brantham/_MOC]]

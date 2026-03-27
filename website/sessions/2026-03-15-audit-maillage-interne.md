@@ -68,3 +68,11 @@ L'accueil ne linke PAS vers :
 - `https://linkedin.com/in/paulroulleau` : profil LinkedIn equipe
 - Google Fonts : resources techniques
 - Pas de liens vers des sources d'autorite tierces (Infogreffe, BODACC, Legifrance, INSEE) dans le contenu.
+
+## Related
+- [[website/_MOC]]
+- [[website/patterns/seo-subagent-audit-fix]]
+- [[website/bugs/2026-03-15-audit-seo-technique]]
+- [[website/sessions/2026-03-15]]
+- [[brantham/strategy/2026-03-15-linkedin-personal-brand]]
+- [[founder/sessions/2026-03-15-polytech-strategist]]

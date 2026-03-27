@@ -236,3 +236,6 @@ La loi du 31 decembre 1975 protege les sous-traitants BTP :
 - [[plans-de-cession]] — Cession de marches publics (L642-7)
 - [[droit-social-restructuration]] — Reprise des equipes BTP
 - [[quick-scan-diagnostic]] — Diagnostic flash avant DD
+
+## Related
+- [[brantham/_MOC]]

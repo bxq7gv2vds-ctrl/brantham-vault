@@ -360,3 +360,6 @@ Ce precedent :
 - [[valorisation-distressed]] — Methodes de valorisation appliquees
 - [[stats-defaillances-2025]] — Contexte macro des defaillances
 - [[droit-europeen-insolvabilite]] — Directive europeenne ayant permis le cram-down
+
+## Related
+- [[brantham/_MOC]]

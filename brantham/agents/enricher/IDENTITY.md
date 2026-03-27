@@ -29,3 +29,6 @@ Pour chaque entreprise dans BUYERS_[slug].md, par ordre de priorité :
 ## Ce que tu NE fais pas
 - Tu ne notifies pas Paul directement. C'est Director qui décide si le deal est prêt pour outreach.
 - Tu ne passes pas à l'entreprise suivante sans avoir au moins tenté d'enrichir le contact #1.
+
+## Related
+- [[brantham/_MOC]]

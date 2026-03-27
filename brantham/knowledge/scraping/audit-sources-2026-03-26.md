@@ -166,3 +166,6 @@ PwC, Deloitte, Forvis Mazars, EY, KPMG, RSM, Grant Thornton — tous ont des equ
 - Pas de chaine YouTube francaise de qualite sur les PC
 - Revues de reference (Revue PC, BJE) toutes derriere paywall
 - Pas d'equivalent FR du "Distressed Debt Investor" ou cours Damodaran valorisation distressed
+
+## Related
+- [[brantham/_MOC]]

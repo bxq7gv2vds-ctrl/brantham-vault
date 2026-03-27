@@ -48,3 +48,6 @@ La cession intervient dans le cadre d'une procédure collective. Le délai de r�
 
 ---
 *Ce document est confidentiel et ne peut être transmis sans accord de Brantham Partners.*
+
+## Related
+- [[brantham/_MOC]]

@@ -40,3 +40,6 @@
 - **err-007** : Scans partiels polluent le diff (400+ faux 'disparues')
   - Fix : diff uniquement entre scans COMPLETS. Nommer partiels: scan-[site]-[date].json
   - Tags : `scraper`, `diff`
+
+## Related
+- [[brantham/_MOC]]

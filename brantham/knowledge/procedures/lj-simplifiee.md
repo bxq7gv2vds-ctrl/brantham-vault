@@ -181,3 +181,6 @@ La LJS reduit considerablement le temps disponible pour un repreneur :
 - [[rang-des-creances]] -- Rang des creances
 - [[due-diligence-distressed]] -- Due diligence distressed
 - [[encheres-surencheres]] -- Encheres et surencheres
+
+## Related
+- [[brantham/_MOC]]

@@ -218,3 +218,6 @@ Le swarm fait des deals.
 ---
 
 *Le swarm est le seul composant de Brantham qui ne peut PAS etre replique par un concurrent sans la data (184K procs + outcomes) ET l'infrastructure (agents calibres). C'est le moat ultime.*
+
+## Related
+- [[brantham/_MOC]]

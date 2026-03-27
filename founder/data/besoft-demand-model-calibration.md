@@ -170,3 +170,6 @@ Verifie exact sur F1 Paul P3 (5,305 EUR) et P4 (7,878 EUR).
 - `backend/engine/optimizer.py` — ad optimization uses 200 (was 300)
 - `backend/tests/test_analysis.py` — baseline demand range updated
 - 272 tests green
+
+## Related
+- [[_system/MOC-master]]

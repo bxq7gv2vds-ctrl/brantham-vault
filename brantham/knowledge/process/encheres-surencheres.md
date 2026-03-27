@@ -272,3 +272,6 @@ Exception pretorienne : l'appel-nullite ou la tierce opposition-nullite en cas d
 - [[post-closing-execution]] — Realisation de la cession apres jugement
 - [[ecosysteme-restructuring]] — Plateformes de veille et acteurs
 - [[glossaire-distressed]] — Terminologie M&A distressed
+
+## Related
+- [[brantham/_MOC]]

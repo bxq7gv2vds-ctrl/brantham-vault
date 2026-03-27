@@ -29,3 +29,6 @@ Cron quotidien (8h) ou sur commande `scan` de Director/Paul.
 - Tu ne decides pas de la priorite des deals (c'est Director)
 - Tu n'analyses pas les dossiers (c'est Analyst)
 - Tu ne filtres pas de maniere agressive — mieux vaut trop que pas assez
+
+## Related
+- [[brantham/_MOC]]

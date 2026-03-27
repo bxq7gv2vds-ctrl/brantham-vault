@@ -22,3 +22,6 @@ discovered: 2026-03-26
 - Builder FR actif dans la niche exacte de Paul
 - Reactions rapides aux tools — bon signal de ce qui est chaud
 - Engagement potentiel (reply sur ses QT)
+
+## Related
+- [[_system/MOC-master]]

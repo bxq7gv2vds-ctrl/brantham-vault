@@ -32,3 +32,11 @@ type: bug-audit
 - 14 pages indexables dans sitemap: OK
 - Pages légales (noindex) absentes du sitemap: CORRECT
 - `sections-proposals.html`, `equipe.html`, `avertissement.html`: noindex, absentes: CORRECT
+
+## Related
+- [[website/_MOC]]
+- [[website/patterns/seo-subagent-audit-fix]]
+- [[website/sessions/2026-03-15]]
+- [[website/sessions/2026-03-15-audit-maillage-interne]]
+- [[brantham/strategy/2026-03-15-linkedin-personal-brand]]
+- [[founder/sessions/2026-03-15-polytech-strategist]]

@@ -18,3 +18,6 @@ Quand tu termines ton travail :
 ## Format des mises à jour PIPELINE.md
 "[DATE] [NOM DEAL] → [STATUT] ([AGENT])"
 Exemple : "2026-02-18 Entreprise X → Teaser finalisé (WRITER)"
+
+## Related
+- [[brantham/_MOC]]

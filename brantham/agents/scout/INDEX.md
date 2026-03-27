@@ -34,3 +34,6 @@ Voir `[[../_shared/VEILLE_REPORT]]` pour le dernier rapport de veille.
 - [[README]] — Role et responsabilites Scout
 - [[IDENTITY]] — Instructions operationnelles
 - [[../_shared/BRAIN]] — Etat global du systeme
+
+## Related
+- [[brantham/_MOC]]

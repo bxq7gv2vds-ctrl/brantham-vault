@@ -154,3 +154,6 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | 2026-03-27 | creation | PI et actifs incorporels distressed (marques royalty relief, brevets, franchise intuitu personae, logiciel/SaaS, noms domaine, RGPD, CIR) |
 | 2026-03-27 | rewrite | Glossaire distressed M&A (200+ termes en 6 categories vs 64 lignes precedemment) |
 | 2026-03-27 | **MAJ** | **53/53 sujets couverts + glossaire etendu** |
+
+## Related
+- [[brantham/_MOC]]

@@ -110,3 +110,6 @@ Q4 = -19% de demande. Adapter les prix.
 ## Alerte T1
 Sans emprunt MLT, l'entreprise tombe en decouvert (8% vs MLT 3%).
 Emprunt recommande: 80,000-120,000 EUR.
+
+## Related
+- [[_system/MOC-master]]

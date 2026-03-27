@@ -321,3 +321,6 @@ Ne pas faire de quick scan et se lancer directement dans une DD complete sur un 
 - [[ecosysteme-restructuring]] — Identifier l'AJ et le tribunal competent
 - [[stats-defaillances-2025]] — Volume du marche adressable
 - [[glossaire-distressed]] — Definitions des termes techniques
+
+## Related
+- [[brantham/_MOC]]

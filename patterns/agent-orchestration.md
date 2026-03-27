@@ -34,3 +34,19 @@ Multi-step pipelines where quality gates matter.
 - Shared memory (BRAIN.md) must be atomic writes
 - sendCommand must be awaited (async)
 - Auth: copy auth-profiles.json, use anthropic-beta header
+
+## Related
+- [[_system/MOC-patterns]]
+- [[patterns/gemweb-rss-parsing]]
+- [[patterns/teaser-pptx-generation]]
+- [[patterns/prefect-pipeline]]
+- [[patterns/scraping-robust]]
+- [[brantham/patterns/scoring-patterns]]
+- [[brantham/patterns/teaser-patterns]]
+- [[brantham/patterns/acheteur-mapping]]
+- [[founder/journal/2026-03-12]]
+- [[founder/decisions/2026-03-12-unified-vault]]
+- [[brantham/bugs/2026-03-02-analyse-regionale-unique-constraint]]
+- [[brantham/bugs/2026-02-19-pipeline-cron-delivery]]
+- [[brantham/bugs/2026-03-06-agent-auth-401]]
+- [[brantham/bugs/2026-03-06-sendcommand-not-awaited]]

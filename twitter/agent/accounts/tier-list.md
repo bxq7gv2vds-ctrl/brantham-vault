@@ -45,3 +45,6 @@ last_scan: 2026-03-26
 - Max 2-3 interactions/jour par compte
 - Promouvoir Tier 3 → Tier 2 si 3+ apparitions dans le feed
 - Nouveau : section Tier 2-FR pour l'audience francaise
+
+## Related
+- [[_system/MOC-master]]

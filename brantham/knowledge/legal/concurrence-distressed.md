@@ -378,3 +378,6 @@ Scenario : repreneur industriel (CA 200M EUR) souhaite acquerir une PME en RJ (C
 - [[cas-casino-groupe]] -- Cas Casino Groupe
 - [[due-diligence-distressed]] -- Due diligence distressed
 - [[structuration-offres-reprise]] -- Structuration des offres de reprise
+
+## Related
+- [[brantham/_MOC]]

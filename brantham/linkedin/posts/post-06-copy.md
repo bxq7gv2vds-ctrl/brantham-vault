@@ -34,3 +34,6 @@ Source : Barometre Brantham Partners, donnees BODACC T1 2026.
 ---
 
 #defaillances #PME #France #barometre #economie
+
+## Related
+- [[brantham/_MOC]]

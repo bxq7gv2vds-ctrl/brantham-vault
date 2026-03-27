@@ -26,3 +26,12 @@ tags: [geo, ai-visibility, content]
 
 ## llms.txt
 Toujours maintenir /llms.txt et /llms-full.txt a jour quand le contenu change.
+
+## Related
+- [[_system/MOC-patterns]]
+- [[website/_MOC]]
+- [[website/decisions/2026-03-13-geo-strategy-ai-visibility]]
+- [[website/sessions/2026-03-13]]
+- [[brantham/bugs/2026-03-13-mobile-router-animation-css]]
+- [[website/bugs/2026-03-21-contenu-duplique-geo-secteur]]
+- [[brantham/bugs/2026-02-19-llm-glm47-content-null]]

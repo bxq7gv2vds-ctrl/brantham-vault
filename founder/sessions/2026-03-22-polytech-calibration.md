@@ -63,3 +63,9 @@ Precision: 2.2% → **1.5%** (pre-BOLT)
 - Video Loom avec Excalidraw brief
 - Utiliser l'app en temps reel pendant le jeu
 - Recalibrer apres chaque round (saisir resultats + prix concurrents)
+
+## Related
+- [[_system/MOC-master]]
+- [[brantham/patterns/teaser-onepager-html-pdf]]
+- [[brantham/sessions/2026-03-22]]
+- [[founder/sessions/2026-03-22-polytech-strategist]]

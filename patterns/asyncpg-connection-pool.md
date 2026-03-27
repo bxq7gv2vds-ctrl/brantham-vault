@@ -33,3 +33,7 @@ Any async Python code accessing PostgreSQL concurrently (asyncio.gather, multipl
 
 ## Origin
 Discovered fixing [[brantham/bugs/2026-03-05-asyncpg-another-operation]].
+
+## Related
+- [[_system/MOC-patterns]]
+- [[brantham/bugs/2026-03-05-asyncpg-another-operation]]

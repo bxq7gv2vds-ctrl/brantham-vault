@@ -80,3 +80,6 @@ Format:
 | ajilink-ihdf-lamian-latian | LAMIAN LATIAN | 1.0M | cession | Ajilink IHDF |
 
 Statut: dossiers crees, enrichissement partiel (5/10 SIREN trouves), repreneurs identifies (24 total)
+
+## Related
+- [[brantham/_MOC]]

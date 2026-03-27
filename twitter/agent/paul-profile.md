@@ -60,3 +60,6 @@ updated: 2026-03-26
 ---
 
 *Ce profil evolue. Chaque interaction avec Paul = nouveau signal a integrer.*
+
+## Related
+- [[_system/MOC-master]]

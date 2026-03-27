@@ -44,3 +44,6 @@ updated: 2026-03-26
 - "Thread:" en premiere ligne — engagement en baisse sur les threads
 - "I've been thinking about..." — generic
 - Listes numerotees sans hook — scroll past
+
+## Related
+- [[_system/MOC-master]]

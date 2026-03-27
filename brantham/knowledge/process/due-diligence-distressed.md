@@ -562,3 +562,6 @@ Grille de notation rapide pour comparer les opportunites :
 - [[fiscalite-restructuration]] — DD fiscale et deficits reportables
 - [[rang-des-creances]] — Privileges et rang des creanciers
 - [[quick-scan-diagnostic]] — Framework de triage rapide
+
+## Related
+- [[brantham/_MOC]]

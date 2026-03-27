@@ -36,3 +36,6 @@ Sauvegardez-le. Partagez-le a un dirigeant qui en a besoin.
 ## Commentaire a poster (lien)
 
 Pour aller plus loin, notre glossaire complet des procedures collectives : brantham.fr/glossaire
+
+## Related
+- [[brantham/_MOC]]

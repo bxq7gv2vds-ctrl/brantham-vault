@@ -139,3 +139,17 @@ Constat : SERP dominee par des institutions (Bpifrance, CCI, Banque de France) e
 Le site est techniquement bien construit. Le contenu est excellent (exhaustif, structure, schema markup). Le probleme est 100% lie a l'age du domaine (7 jours) et l'absence totale d'autorite. Google n'a meme pas encore indexe le site.
 
 Priorite absolue : Google Search Console + backlinks + patience.
+
+## Related
+- [[website/_MOC]]
+- [[reports/2026-03-18-daily]]
+- [[website/research/2026-03-18-keyword-research-distressed-ma]]
+- [[website/research/2026-03-18-indexation-ranking-audit]]
+- [[website/strategies/2026-03-18-fast-ranking-strategy]]
+- [[website/sessions/2026-03-18]]
+- [[brantham/patterns/backtest-hierarchical-calibration]]
+- [[brantham/decisions/2026-03-18-backtest-v5-calibrated]]
+- [[brantham/sessions/2026-03-18]]
+- [[founder/decisions/2026-03-18-weather-alpha-dashboard-design-system]]
+- [[founder/decisions/2026-03-18-mirofish-distilled-architecture]]
+- [[founder/sessions/2026-03-18-weather-alpha-dashboard-redesign]]

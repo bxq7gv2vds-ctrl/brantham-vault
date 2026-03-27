@@ -245,3 +245,6 @@ Les sites industriels sont souvent classes ICPE. C'est le **risque n.1** du sect
 - [[droit-social-restructuration]] — Reprise des equipes et PSE
 - [[quick-scan-diagnostic]] — Diagnostic flash industriel
 - [[financial-modeling-distressed]] — Modelisation carnet de commandes
+
+## Related
+- [[brantham/_MOC]]

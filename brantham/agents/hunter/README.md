@@ -38,3 +38,6 @@ Chasseur d'acquereurs Brantham Partners. Identifie qui a un interet strategique 
 ## Voir aussi
 - [[IDENTITY]] — Instructions operationnelles completes
 - [[INDEX]] — Historique des listes produites
+
+## Related
+- [[brantham/_MOC]]

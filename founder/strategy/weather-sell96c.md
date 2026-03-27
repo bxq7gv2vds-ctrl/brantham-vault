@@ -890,3 +890,6 @@ Le critere de Kelly dit combien miser pour maximiser la croissance du capital a 
 ## En Une Phrase
 
 **On utilise 6 modeles meteo pour identifier les contrats ou le marche surestime un evenement de temperature extreme, on les vend a 96c, et on gagne 96c quand l'evenement n'arrive pas (ce qui arrive plus souvent que le marche le pense).**
+
+## Related
+- [[_system/MOC-master]]

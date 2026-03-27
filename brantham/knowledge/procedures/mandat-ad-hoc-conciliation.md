@@ -428,3 +428,6 @@ Difficultes precoces → Mandat ad hoc (confidentiel, flexible)
 - [[restructuration-dette]] -- Restructuration de dette
 - [[due-diligence-distressed]] -- Due diligence distressed
 - [[stats-defaillances-2025]] -- Statistiques des defaillances
+
+## Related
+- [[brantham/_MOC]]

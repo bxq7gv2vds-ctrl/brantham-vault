@@ -72,3 +72,21 @@ Ne jamais presenter la procedure comme un echec. Reformuler positivement:
 - Template: `Template Teaser.pptx`
 - Output: PPTX anonymise, pret a envoyer aux repreneurs
 - Champs dynamiques: accroche, profil, atouts, contexte, recherche, contact
+
+## Related
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]
+- [[patterns/agent-orchestration]]
+- [[patterns/gemweb-rss-parsing]]
+- [[patterns/teaser-pptx-generation]]
+- [[patterns/prefect-pipeline]]
+- [[patterns/scraping-robust]]
+- [[brantham/patterns/scoring-patterns]]
+- [[brantham/patterns/acheteur-mapping]]
+- [[founder/journal/2026-03-12]]
+- [[founder/decisions/2026-03-12-unified-vault]]
+- [[website/bugs/2026-03-21-contenu-duplique-geo-secteur]]
+- [[brantham/bugs/2026-03-02-matrice-aj-secteur-taux-cession]]
+- [[brantham/bugs/2026-03-02-analyse-regionale-unique-constraint]]
+- [[brantham/bugs/2026-02-19-llm-glm47-content-null]]
+- [[brantham/bugs/2026-03-06-agent-auth-401]]

@@ -17,3 +17,9 @@ sendCommand() was async but call was not awaited.
 
 ## Fix
 Add `await` to sendCommand() calls.
+
+## Related
+- [[_system/MOC-bugs]]
+- [[brantham/_MOC]]
+- [[brantham/bugs/2026-03-06-agent-auth-401]]
+- [[brantham/bugs/2026-03-06-handoff-raw-wrapper]]

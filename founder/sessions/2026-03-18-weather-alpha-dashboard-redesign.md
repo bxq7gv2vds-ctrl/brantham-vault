@@ -84,3 +84,17 @@ Transformer le dashboard Weather Alpha (Next.js 15, Tailwind 4) d'un dashboard b
 
 ## Next steps
 - Tester avec backend API running pour valider les data flows
+
+## Related
+- [[_system/MOC-master]]
+- [[reports/2026-03-18-daily]]
+- [[website/research/2026-03-18-keyword-research-distressed-ma]]
+- [[website/research/2026-03-18-indexation-ranking-audit]]
+- [[website/audits/2026-03-18-brantham-seo-indexation-audit]]
+- [[website/strategies/2026-03-18-fast-ranking-strategy]]
+- [[website/sessions/2026-03-18]]
+- [[brantham/patterns/backtest-hierarchical-calibration]]
+- [[brantham/decisions/2026-03-18-backtest-v5-calibrated]]
+- [[brantham/sessions/2026-03-18]]
+- [[founder/decisions/2026-03-18-weather-alpha-dashboard-design-system]]
+- [[founder/decisions/2026-03-18-mirofish-distilled-architecture]]

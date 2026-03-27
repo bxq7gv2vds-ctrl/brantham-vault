@@ -48,3 +48,9 @@ T1 test joue le 23/03/2026. Resultats disponibles. Modele valide a +0.4% sur la 
 - Projections NI plus precises (erreur <5% vs <20% avant)
 - Cash flow fiable (impot + storage + MLT corriges)
 - Plan d'investissement machine cale sur le boom T5-T6
+
+## Related
+- [[_system/MOC-decisions]]
+- [[_system/MOC-master]]
+- [[brantham/sessions/2026-03-23-polytech-competition]]
+- [[founder/strategy/current-strategy]]

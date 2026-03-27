@@ -51,3 +51,9 @@ De 900K objets a ~600 (2 par deal actif).
 ## Regle
 
 Si N > 10K: ne jamais creer N objets Python. Agreger en numpy, materialiser seulement les O(deals) resultats.
+
+## Related
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]
+- [[brantham/bugs/2026-03-02-analyse-regionale-unique-constraint]]
+- [[brantham/bugs/2026-03-06-agent-auth-401]]

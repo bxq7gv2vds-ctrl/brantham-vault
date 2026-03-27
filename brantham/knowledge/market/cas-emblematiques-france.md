@@ -680,3 +680,6 @@ A partir des patterns identifies, voici les signaux d'alerte a integrer dans le 
 - [[redressement-judiciaire]] — Procedure de RJ et cessions
 - [[quick-scan-diagnostic]] — Grille de scoring et red flags
 - [[ethique-repreneur]] — Pratiques condamnables (asset stripping)
+
+## Related
+- [[brantham/_MOC]]

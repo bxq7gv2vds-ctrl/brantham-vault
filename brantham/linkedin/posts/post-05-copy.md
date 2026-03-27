@@ -31,3 +31,6 @@ Si vous etes dirigeant et que vous reconnaissez un ou plusieurs de ces signaux :
 ---
 
 #PME #signauxfaibles #entrepriseendifficulte #prevention #restructuration
+
+## Related
+- [[brantham/_MOC]]

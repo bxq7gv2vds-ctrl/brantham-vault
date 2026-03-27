@@ -177,3 +177,7 @@ Simulation avec cap 3,000 (T1-T4) puis 2,880 (T5+):
 - Export pricing local + 3 EUR
 - Competitor price convergence
 - Transition correction factors T3-T6 (MAE 2.7%)
+
+## Related
+- [[brantham/_MOC]]
+- [[founder/decisions/2026-03-23-polytech-t1-recalibration]]

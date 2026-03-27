@@ -18,3 +18,6 @@
 - La majorite des deals AJ ont des deadlines tres courtes → prioriser rapidement
 - Les deals BMA sont souvent deja expires quand decouverts → ameliorer frequence scan
 - Verifier TOUJOURS la date limite avant d'investir du temps d'analyse
+
+## Related
+- [[brantham/_MOC]]

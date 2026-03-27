@@ -22,3 +22,8 @@ Use `asyncpg.create_pool(min_size=2, max_size=8)` instead of single connection.
 Always use connection pool for async database access. Never share a single connection across gather().
 
 See [[patterns/asyncpg-connection-pool]] for the reusable pattern.
+
+## Related
+- [[_system/MOC-bugs]]
+- [[brantham/_MOC]]
+- [[patterns/asyncpg-connection-pool]]

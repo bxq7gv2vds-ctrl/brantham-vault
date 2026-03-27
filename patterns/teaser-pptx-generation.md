@@ -27,3 +27,17 @@ Generating professional PPTX documents from structured data.
 - Shape matching is position-based (fragile to template changes)
 - Use single LLM call for all fields (cheaper, more consistent)
 - Template must be maintained separately
+
+## Related
+- [[_system/MOC-patterns]]
+- [[patterns/agent-orchestration]]
+- [[patterns/gemweb-rss-parsing]]
+- [[patterns/prefect-pipeline]]
+- [[patterns/scraping-robust]]
+- [[brantham/patterns/scoring-patterns]]
+- [[brantham/patterns/teaser-patterns]]
+- [[brantham/patterns/acheteur-mapping]]
+- [[founder/journal/2026-03-12]]
+- [[founder/decisions/2026-03-12-unified-vault]]
+- [[brantham/bugs/2026-03-02-analyse-regionale-unique-constraint]]
+- [[brantham/bugs/2026-02-19-llm-glm47-content-null]]

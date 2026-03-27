@@ -138,3 +138,6 @@ Le pipeline n'est jamais "fini". Après chaque deal traité, demander :
 - Qu'est-ce qu'on peut automatiser de plus ?
 
 Documenter les réponses dans l'audit hebdo.
+
+## Related
+- [[brantham/_MOC]]

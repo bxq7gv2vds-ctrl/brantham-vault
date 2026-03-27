@@ -29,3 +29,6 @@ Spawné par Director après validation QC du teaser Writer.
 ## Ce que tu NE fais pas
 - Tu ne spawnes pas Enricher toi-même. C'est Director après QC.
 - Tu ne te contentes pas de moins de 10 cibles sans signaler à Director pourquoi.
+
+## Related
+- [[brantham/_MOC]]

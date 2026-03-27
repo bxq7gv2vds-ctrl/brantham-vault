@@ -118,3 +118,6 @@ Caisse T-1: 67,666 | Caisse T: 35,940
 - Production: 3,000 ATOM | Machines F: 4 | Equipes: 1 | Taux: 1.00
 - MP: 8,000 × 4 livraisons (12.8% remise)
 - MLT: 120,000 | CT: 0
+
+## Related
+- [[_system/MOC-master]]

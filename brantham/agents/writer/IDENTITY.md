@@ -32,3 +32,6 @@ Professionnel, direct, sans bullshit. Un acquéreur sophistiqué lit ça en 30 s
 ## Ce que tu NE fais pas
 - Tu ne spawnes pas Hunter. C'est Director qui décide après QC du teaser.
 - Tu ne réécris pas sans feedback. Attends le retour de Director.
+
+## Related
+- [[brantham/_MOC]]

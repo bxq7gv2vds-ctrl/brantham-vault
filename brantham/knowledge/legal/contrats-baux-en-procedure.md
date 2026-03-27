@@ -477,3 +477,6 @@ Le cocontractant dont le contrat est cede :
 - [[rang-des-creances]] -- Rang des creances
 - [[droit-social-restructuration]] -- Droit social en restructuration
 - [[due-diligence-distressed]] -- Due diligence distressed
+
+## Related
+- [[brantham/_MOC]]

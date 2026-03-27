@@ -40,3 +40,6 @@ La vitesse compte enormement dans ces situations. Chaque semaine perdue, c'est d
 ---
 
 #reprise #PME #liquidation #cession #mandatairejudiciaire
+
+## Related
+- [[brantham/_MOC]]

@@ -38,3 +38,19 @@ Les preferences geo des agents sont groupees en clusters uniques. Score matrix c
 ## Resultat
 
 995K agents x 100 rounds = 83.4s (0.83s/round). Target etait < 180s. **2x mieux que le target.**
+
+## Related
+- [[_system/MOC-decisions]]
+- [[_system/MOC-master]]
+- [[reports/2026-03-18-daily]]
+- [[website/research/2026-03-18-keyword-research-distressed-ma]]
+- [[website/research/2026-03-18-indexation-ranking-audit]]
+- [[website/audits/2026-03-18-brantham-seo-indexation-audit]]
+- [[website/strategies/2026-03-18-fast-ranking-strategy]]
+- [[website/sessions/2026-03-18]]
+- [[brantham/patterns/backtest-hierarchical-calibration]]
+- [[brantham/decisions/2026-03-18-backtest-v5-calibrated]]
+- [[brantham/sessions/2026-03-18]]
+- [[founder/decisions/2026-03-18-weather-alpha-dashboard-design-system]]
+- [[founder/sessions/2026-03-18-weather-alpha-dashboard-redesign]]
+- [[founder/strategy/current-strategy]]

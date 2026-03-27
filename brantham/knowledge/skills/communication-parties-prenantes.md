@@ -304,3 +304,6 @@ Les fournisseurs sont les plus nerveux : ils ont souvent des impayes et craignen
 - [[ecosysteme-restructuring]] — Identifier les interlocuteurs cles
 - [[droit-social-restructuration]] — PSE et obligations sociales
 - [[plans-de-cession]] — Contenu obligatoire de l'offre (volet emploi)
+
+## Related
+- [[brantham/_MOC]]

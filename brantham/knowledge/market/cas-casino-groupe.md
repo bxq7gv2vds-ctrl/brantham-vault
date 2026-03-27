@@ -440,3 +440,6 @@ La reprise de Casino par Kretinsky a ete qualifiee de "victoire a la Pyrrhus" pa
 - [[plans-de-cession]] — Mecanisme de cession des magasins Casino
 - [[stats-defaillances-2025]] — Contexte macro des defaillances
 - [[cas-emblematiques-france]] — Autres etudes de cas de restructurations
+
+## Related
+- [[brantham/_MOC]]

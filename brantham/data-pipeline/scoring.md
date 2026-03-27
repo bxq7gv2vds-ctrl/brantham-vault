@@ -89,3 +89,6 @@ BODACC → Ingest → SIRENE Enrichment → compute_score()
                                      score >= 75 → URGENT flag
                                      score < 50  → Archive
 ```
+
+## Related
+- [[brantham/_MOC]]

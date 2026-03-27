@@ -540,3 +540,6 @@ Le plan de cession est l'outil principal du repreneur en procedure collective. I
 - [[suretes-en-procedure-collective]] -- Suretes en procedure collective
 - [[droit-social-restructuration]] -- Droit social en restructuration
 - [[glossaire-distressed]] -- Glossaire distressed
+
+## Related
+- [[brantham/_MOC]]

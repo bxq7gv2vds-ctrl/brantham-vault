@@ -349,3 +349,11 @@ Slides: 1. Hook, 2. Mandat ad hoc, 3. Conciliation, 4. Sauvegarde, 5. Redresseme
 - Affinity (M&A Deal Sourcing Best Practices)
 - LinkedoJet (LinkedIn Outreach for M&A)
 - Dataslayer (LinkedIn Algorithm 2026)
+
+## Related
+- [[brantham/_MOC]]
+- [[website/patterns/seo-subagent-audit-fix]]
+- [[website/bugs/2026-03-15-audit-seo-technique]]
+- [[website/sessions/2026-03-15]]
+- [[website/sessions/2026-03-15-audit-maillage-interne]]
+- [[founder/sessions/2026-03-15-polytech-strategist]]

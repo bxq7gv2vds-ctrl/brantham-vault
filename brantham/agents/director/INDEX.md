@@ -29,3 +29,6 @@ _(aucun audit realise a ce jour — premier audit prevu semaine du 2026-03-09)_
 - [[IDENTITY]] — Instructions operationnelles completes
 - [[../_shared/BRAIN]] — Etat global du systeme
 - [[../_shared/PIPELINE]] — Pipeline complet
+
+## Related
+- [[brantham/_MOC]]

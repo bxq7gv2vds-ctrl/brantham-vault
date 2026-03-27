@@ -29,3 +29,6 @@ il est important de noter, dans un monde en constante evolution, plongeons dans 
 - Chaque paragraphe = exactement 3 phrases
 - Enumeration parfaitement parallele (toujours la meme construction)
 - Absence totale de fragments, d'hesitations, d'imperfections
+
+## Related
+- [[_system/MOC-master]]

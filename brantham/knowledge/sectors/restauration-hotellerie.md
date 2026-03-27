@@ -255,3 +255,6 @@ Le fonds de commerce en CHR comprend :
 - [[droit-social-restructuration]] — Convention collective CHR et reprise
 - [[quick-scan-diagnostic]] — Diagnostic flash avant DD
 - [[structuration-offres-reprise]] — Structurer une offre multi-sites
+
+## Related
+- [[brantham/_MOC]]

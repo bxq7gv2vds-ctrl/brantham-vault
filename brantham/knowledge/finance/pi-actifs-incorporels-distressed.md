@@ -403,3 +403,6 @@ Souvent 30 a 70% de la valeur totale de l'entreprise en going concern.
 - [[fiscalite-restructuration]] — CIR, CII et traitement fiscal des actifs incorporels
 - [[nullites-periode-suspecte]] — Risques de nullite sur cessions PI en periode suspecte
 - [[structuration-offres-reprise]] — Integrer la PI dans le perimetre de l'offre
+
+## Related
+- [[brantham/_MOC]]

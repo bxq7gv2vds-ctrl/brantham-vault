@@ -408,3 +408,6 @@ La France est **le pays le plus touche en volume absolu** en Europe. Cela s'expl
 - [[cas-casino-groupe]] — Cas Casino, effondrement d'un empire pyramidal
 - [[ecosysteme-restructuring]] — Acteurs de l'ecosysteme restructuring
 - [[quick-scan-diagnostic]] — Diagnostic flash pour evaluer les opportunites
+
+## Related
+- [[brantham/_MOC]]

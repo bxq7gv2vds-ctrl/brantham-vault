@@ -562,3 +562,6 @@ Banqueroute (L654-1+)                    -> 5 ans prison + 75K EUR -> prescripti
 - [[due-diligence-distressed]] -- Due diligence distressed
 - [[rang-des-creances]] -- Rang des creances
 - [[glossaire-distressed]] -- Glossaire distressed
+
+## Related
+- [[brantham/_MOC]]

@@ -756,3 +756,6 @@ Dans le scoring global d'un deal Brantham, la composante "risque fournisseur / a
 - [[turnaround-operationnel]] — Stabilisation du BFR et cash conservation
 - [[stats-defaillances-2025]] — Statistiques de defaillances et sinistralite
 - [[glossaire-distressed]] — Terminologie M&A distressed
+
+## Related
+- [[brantham/_MOC]]

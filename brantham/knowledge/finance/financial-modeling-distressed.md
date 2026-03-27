@@ -1211,3 +1211,6 @@ Etape 5 : Execution
 - [[turnaround-operationnel]] — Business plan de retournement et KPIs
 - [[structuration-offres-reprise]] — Determination du prix dans l'offre
 - [[glossaire-distressed]] — Terminologie M&A distressed
+
+## Related
+- [[brantham/_MOC]]

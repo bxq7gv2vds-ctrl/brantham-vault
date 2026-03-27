@@ -198,3 +198,6 @@ P1: 57,433 | P2: +40,760 = 98,193 | P3: +29,322 = 127,515 | P4: -10,578 = 116,93
 4. **Paul F1 never went negative** — better pricing + lower inventory
 5. **Export adds ~15-20% to total volume from P4+** — not modeled, adds upside
 6. **BOLT cannibalization identical pattern in both universes** — structural, not player-dependent
+
+## Related
+- [[_system/MOC-master]]

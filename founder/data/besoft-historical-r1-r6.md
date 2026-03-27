@@ -236,3 +236,6 @@ Building Gross = 432,000, Net = 375,300
 Machinery Gross = 324,000, Net = 153,900
 At T0: 1D (108K) + 4F (4×54K=216K) = 324K gross. Net at T0 was 162K.
 Quarterly: 162K - 153.9K = 8,100. That's 324K/40 = 8,100 ✓
+
+## Related
+- [[_system/MOC-master]]

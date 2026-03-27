@@ -26,3 +26,6 @@ discovered: 2026-03-26
 ## Tweets reference (26/03)
 - "CLAUDE INSTANCES CAN NOW TALK TO EACH OTHER LIKE COWORKERS" — 406 likes, 80K views
 - "BROWSER USE CLI 2.0 IS LIVE NOW" — 118 likes, 51K views
+
+## Related
+- [[_system/MOC-master]]

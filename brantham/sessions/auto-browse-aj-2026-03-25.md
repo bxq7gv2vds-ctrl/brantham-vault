@@ -188,3 +188,6 @@ Couverture: Tours (37), Loiret (45)
 - Ouvrir les fiches detaillees des top picks pour extraire CA exact, effectif, localisation precise
 - Cross-reference avec la base BODACC pour verifier les procedures
 - Ajouter les deals interessants dans le pipeline Brantham
+
+## Related
+- [[brantham/_MOC]]

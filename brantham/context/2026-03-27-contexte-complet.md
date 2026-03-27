@@ -1553,3 +1553,7 @@ Les concurrents sans la data ne peuvent pas entrer dans ce flywheel.
 
 *Document généré le 27 mars 2026 depuis le brantham-vault (173 notes).*
 *Sections couvertes : identité, marché, procédures légales, offre, moat, pipeline, agents, scoring, matching, deals, architecture, data pipeline, BDD, dashboard, MiroFish, swarm, concurrence, SEO, LinkedIn, business model, roadmap, risques, flywheel, brand voice, métriques.*
+
+## Related
+- [[brantham/_MOC]]
+- [[founder/daily/2026-03-27-auto-brief]]

@@ -65,3 +65,6 @@ Restauration collective bio pour crèches (BREIZHOU), en redressement judiciaire
 ---
 
 **Notes Analyst :** Cette annonce n'aurait pas dû être intégrée au pipeline — la date de dépôt des offres était déjà dépassée au moment de la découverte (février 2026 vs décembre 2021). À discuter avec Scout pour améliorer le filtrage temporel.
+
+## Related
+- [[brantham/_MOC]]

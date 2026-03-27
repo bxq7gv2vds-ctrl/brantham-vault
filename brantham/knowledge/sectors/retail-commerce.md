@@ -224,3 +224,6 @@ Le bail commercial est souvent **le principal actif** d'un commerce en difficult
 - [[droit-social-restructuration]] — Reprise des salaries et PSE
 - [[pi-actifs-incorporels-distressed]] — Valorisation des marques et PI
 - [[quick-scan-diagnostic]] — Diagnostic flash avant DD
+
+## Related
+- [[brantham/_MOC]]

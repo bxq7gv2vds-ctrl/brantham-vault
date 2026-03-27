@@ -30,3 +30,7 @@ tags: [dns, email, google-workspace, dkim, mx]
 - TXT DKIM: `google._domainkey` (RSA 2048)
 - TXT DMARC: `v=DMARC1; p=none; rua=mailto:paul@branthampartners.fr`
 - TXT: google-site-verification
+
+## Related
+- [[brantham/_MOC]]
+- [[remember/2026-03-20]]

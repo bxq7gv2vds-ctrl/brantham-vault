@@ -262,3 +262,6 @@ L'acqui-hire est la forme de M&A la plus frequente pour les startups en difficul
 - [[financial-modeling-distressed]] — Modelisation SaaS distressed
 - [[quick-scan-diagnostic]] — Diagnostic flash tech
 - [[ecosysteme-restructuring]] — Fonds de retournement actifs en tech
+
+## Related
+- [[brantham/_MOC]]

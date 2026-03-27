@@ -59,3 +59,9 @@ Aucun impact mesurable: 3.2s pour 50 rounds (vs 3.0s avant). La cle:
 - `backend/ma/engine/vectorized.py` — anti-herding, memory masking, enriched reasons
 - `backend/ma/agents/rule_based.py` — conseiller conditionnel
 - `backend/ma/engine/simulation.py` — passage de agent_history a batch_decide
+
+## Related
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]
+- [[brantham/bugs/2026-03-02-analyse-regionale-unique-constraint]]
+- [[brantham/bugs/2026-03-06-agent-auth-401]]

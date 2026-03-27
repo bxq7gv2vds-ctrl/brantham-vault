@@ -253,3 +253,6 @@ La VEFA est le mode de vente dominant dans la promotion immobiliere neuve. En ca
 - [[passif-environnemental]] — Diagnostic sols et pollution
 - [[due-diligence-distressed]] — Checklist DD immobiliere
 - [[fiscalite-restructuration]] — TVA immobiliere et droits de mutation
+
+## Related
+- [[brantham/_MOC]]

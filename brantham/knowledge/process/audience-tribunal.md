@@ -420,3 +420,6 @@ Ce calendrier est indicatif. Les grandes procedures peuvent s'etaler sur plusieu
 - [[sanctions-dirigeants]] — Responsabilite des dirigeants et interdictions
 - [[droit-social-restructuration]] — Volet social et consultation du CSE
 - [[glossaire-distressed]] — Terminologie M&A distressed
+
+## Related
+- [[brantham/_MOC]]

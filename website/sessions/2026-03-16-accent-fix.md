@@ -40,3 +40,11 @@ Correction exhaustive des accents francais manquants dans 7 fichiers HTML du sit
 
 - Scan automatise Python sur les 7 fichiers : 0 issues restantes
 - Verification URLs/hrefs/ids/classes : 0 caracteres accentues introduits dans les attributs techniques
+
+## Related
+- [[website/_MOC]]
+- [[website/sessions/2026-03-16]]
+- [[website/sessions/2026-03-16-seo-audit-t01]]
+- [[brantham/bugs/2026-03-16-probability-matrix-oscillation]]
+- [[brantham/bugs/2026-03-16-ollama-m5-metal-bfloat]]
+- [[brantham/sessions/2026-03-16]]

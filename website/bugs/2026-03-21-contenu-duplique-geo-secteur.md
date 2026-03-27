@@ -22,3 +22,12 @@ status: resolved
 ## Resultat
 - Contenu unique par page : 20% → 80%
 - Zero paire de pages quasi-identiques
+
+## Related
+- [[_system/MOC-bugs]]
+- [[website/_MOC]]
+- [[remember/2026-03-21]]
+- [[website/patterns/geo-seo-audit-swarm]]
+- [[website/audits/2026-03-21-seo-geo-audit]]
+- [[website/sessions/2026-03-21]]
+- [[brantham/sessions/2026-03-21-scan]]

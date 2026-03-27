@@ -36,3 +36,6 @@ Redacteur de teasers M&A Brantham Partners. Transforme une analyse froide en doc
 ## Voir aussi
 - [[IDENTITY]] — Instructions operationnelles completes
 - [[INDEX]] — Historique des teasers produits
+
+## Related
+- [[brantham/_MOC]]

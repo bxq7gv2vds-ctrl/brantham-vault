@@ -30,3 +30,19 @@ Implementer un design system complet avec :
 - 2 nouvelles pages (Universe, Performance)
 - Sidebar restructuree (TRADE/INTEL/ANALYSIS)
 - Zero violet dans le codebase
+
+## Related
+- [[_system/MOC-decisions]]
+- [[_system/MOC-master]]
+- [[reports/2026-03-18-daily]]
+- [[website/research/2026-03-18-keyword-research-distressed-ma]]
+- [[website/research/2026-03-18-indexation-ranking-audit]]
+- [[website/audits/2026-03-18-brantham-seo-indexation-audit]]
+- [[website/strategies/2026-03-18-fast-ranking-strategy]]
+- [[website/sessions/2026-03-18]]
+- [[brantham/patterns/backtest-hierarchical-calibration]]
+- [[brantham/decisions/2026-03-18-backtest-v5-calibrated]]
+- [[brantham/sessions/2026-03-18]]
+- [[founder/decisions/2026-03-18-mirofish-distilled-architecture]]
+- [[founder/sessions/2026-03-18-weather-alpha-dashboard-redesign]]
+- [[founder/strategy/current-strategy]]

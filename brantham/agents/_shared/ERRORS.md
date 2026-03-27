@@ -59,3 +59,6 @@ python3 log_error.py --fix-id err-XXXXXXXXXX --fix-note "Ce qui a changé"
 from log_error import log_error, get_lessons_for_task
 lessons = get_lessons_for_task("scraper BMA avec LLM")
 ```
+
+## Related
+- [[brantham/_MOC]]

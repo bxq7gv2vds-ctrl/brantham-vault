@@ -711,3 +711,6 @@ Lors de l'analyse des comptes pour valoriser une cible en difficulte, les ajuste
 - [[ecosysteme-restructuring]] — Role de l'expert-comptable et du CAC
 - [[financial-modeling-distressed]] — Modelisation et projections en distressed
 - [[glossaire-distressed]] — Terminologie M&A distressed
+
+## Related
+- [[brantham/_MOC]]

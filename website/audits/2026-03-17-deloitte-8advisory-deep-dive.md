@@ -331,3 +331,16 @@ Cédric Colaert, Xavier Bailly, Xavier Mesguich, Sari Maalouf, Cédric Bodard, E
 2. **Guide repreneur** — 8 Advisory parle aux restructureurs/créanciers, pas aux repreneurs
 3. **Cas réels francais nommés** — 8 Advisory anonymise tout. Brantham peut citer avec accord.
 4. **Données locales** — baromètre défaillances par région/secteur > Turnaround Index générique
+
+## Related
+- [[website/_MOC]]
+- [[website/audits/2026-03-17-legalstart-distressed-cluster-audit]]
+- [[website/audits/2026-03-17-mega-audit-seo-concurrentiel]]
+- [[website/audits/2026-03-17-mega-audit-v2-complete]]
+- [[website/bugs/2026-03-17-robots-txt-sitemap-wrong-domain]]
+- [[website/sessions/2026-03-17-expansion-article-insights]]
+- [[website/sessions/2026-03-17]]
+- [[website/sessions/2026-03-17-geo-attribution]]
+- [[website/competitor-analysis/2026-03-17-deep-content-analysis]]
+- [[brantham/sessions/2026-03-17]]
+- [[brantham/analyses/2026-03-17-competitor-content-analysis]]

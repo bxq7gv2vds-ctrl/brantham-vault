@@ -33,3 +33,6 @@ api/oasis_ma/
 
 ## GGUF Model Path
 `/Users/paul/.ollama/models/blobs/sha256-2bada8a7450677000f678be90653b85d364de7db25eb5ea54136ada5f3933730`
+
+## Related
+- [[brantham/_MOC]]

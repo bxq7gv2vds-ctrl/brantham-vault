@@ -804,3 +804,6 @@ En procedure collective, le licenciement d'un salarie protege (elu CSE, delegue 
 - [[sanctions-dirigeants]] -- Sanctions et responsabilite des dirigeants
 - [[integration-post-acquisition]] -- Integration post-acquisition
 - [[post-closing-execution]] -- Execution post-closing
+
+## Related
+- [[brantham/_MOC]]

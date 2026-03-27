@@ -24,3 +24,6 @@ discovered: 2026-03-26
 
 ## Tweet reference (26/03)
 "Claude Cowork is blowing my mind. But it's only as good as the context it can gather. The race is on to capture every piece of context in the organization." — 1.1K likes, 91K views
+
+## Related
+- [[_system/MOC-master]]

@@ -112,3 +112,6 @@ type: session
 - Capacites stock-projection: [3000, 3900, 3900, 4800, 4720, 4700, 4700]
 - Scenario cards: affichent production, machines, BOLT info
 - T3 annonces: storage costs T3+ (1000 + 1%/2%/4% tiers), journal ralentissement
+
+## Related
+- [[brantham/_MOC]]

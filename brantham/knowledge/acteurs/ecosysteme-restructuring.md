@@ -563,3 +563,6 @@ Brantham Partners se positionne comme **intermediaire specialise** entre:
 3. **Se faire connaitre des fonds de retournement** (Perceva, Verdoso, Alandia) comme source de deal flow qualifie
 4. **Monitorer les TCS les plus actifs** (Paris, Nanterre, Bobigny, Lyon) via BODACC et contacts directs
 5. **Developper un reseau d'avocats** partenaires (Franklin, Simon Associes) pour les aspects juridiques des deals
+
+## Related
+- [[brantham/_MOC]]

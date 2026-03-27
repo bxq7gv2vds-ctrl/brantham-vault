@@ -40,3 +40,8 @@ status: resolved
 - Signaux SEO coherents (plus de canonical+noindex contradictoires)
 - Hierarchie headings correcte (accessibilite + SEO)
 - Sitemap reflete les priorities reelles du site
+
+## Related
+- [[_system/MOC-bugs]]
+- [[website/_MOC]]
+- [[website/bugs/2026-03-19-seo-meta-titles-descriptions-fix]]

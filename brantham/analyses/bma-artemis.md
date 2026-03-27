@@ -73,3 +73,6 @@ Restaurant traditionnel sous franchise HIPPOPOTAMUS situé à Coudekerque-Branch
 - **Si pas de réponse AJ sous 48h** : Abandonner (pas assez de temps pour monter le dossier)
 
 **Note :** Nécessite une décision rapide de Paul/Brantham — ce type d'opportunité à court délai demande une capacité de réaction immédiate.
+
+## Related
+- [[brantham/_MOC]]

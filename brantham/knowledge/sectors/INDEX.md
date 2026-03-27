@@ -34,3 +34,6 @@ Chaque fiche contient : panorama, specificites sectorielles, risques cles, valor
 - Les petits dossiers (<100k CA) sont rarement interessants pour Brantham
 - Secteur vehicules loisirs = niche prometteuse (vanlife, camping-cars +10%/an)
 - Verifier toujours la date limite avant d'investir du temps
+
+## Related
+- [[brantham/_MOC]]

@@ -33,3 +33,6 @@ Elles ne sont pas mortes. Elles ont besoin d'aide.
 ---
 
 #PME #restructuration #entreprise #France #faillite
+
+## Related
+- [[brantham/_MOC]]

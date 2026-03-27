@@ -25,3 +25,6 @@ discovered: 2026-03-26
 
 ## Tweet reference (26/03)
 "Anthropic qui envoie un banger de plus. Ca ship a une vitesse folle. Auto-fix cloud sur Claude Code." — QT @noahzweben
+
+## Related
+- [[_system/MOC-master]]

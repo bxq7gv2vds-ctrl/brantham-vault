@@ -11,3 +11,6 @@ Restaurant sous enseigne nationale de grill, CA <1M€, situé sur axe stratégi
 Ce type d'opportunité nécessite une capacité de décision rapide. Si vous êtes en position de monter une offre dans ce délai, teaser complet et coordonnées disponibles sur demande.
 
 Brantham Partners
+
+## Related
+- [[brantham/_MOC]]

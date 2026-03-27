@@ -623,3 +623,6 @@ Ce template est a generer pour chaque deal qui arrive au stade **"cession valide
 - [[structuration-offres-reprise]] -- Redaction de l'offre
 - [[valorisation-distressed]] -- Valorisation des cibles
 - [[restructuration-dette]] -- Restructuration de dette et financement
+
+## Related
+- [[brantham/_MOC]]

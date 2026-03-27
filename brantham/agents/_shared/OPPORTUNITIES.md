@@ -205,3 +205,6 @@ _Veille du 2026-02-19 - 7 nouvelles opportunités (2 faux positifs supprimés : 
 - **Teaser** : ~/.openclaw/agents/_shared/teasers/bma-multi-loisirs-distribution-mld-teaser.md
 - **Statut** : teaser_redige
 - **Notes** : Recommandation : INTÉRESSANTE — Secteur porteur (vanlife), délai confortable. À approfondir rapidement. **Teaser rédigé le 19/02/2026.**
+
+## Related
+- [[brantham/_MOC]]

@@ -20,3 +20,8 @@ Missing division in the SQL calculation.
 
 ## Prevention
 Always validate analytical columns with sanity checks (rates should be 0-1, counts should be integers).
+
+## Related
+- [[_system/MOC-bugs]]
+- [[brantham/_MOC]]
+- [[brantham/bugs/2026-03-02-analyse-regionale-unique-constraint]]

@@ -26,3 +26,17 @@ ETL pipelines, data enrichment, batch processing.
 - brew postgres@16 auto-restarts via launchd -- must kill before operations
 - Materialized views need CONCURRENTLY for production refreshes
 - Always use idempotent operations (INSERT ON CONFLICT)
+
+## Related
+- [[_system/MOC-patterns]]
+- [[patterns/agent-orchestration]]
+- [[patterns/gemweb-rss-parsing]]
+- [[patterns/teaser-pptx-generation]]
+- [[patterns/scraping-robust]]
+- [[brantham/patterns/scoring-patterns]]
+- [[brantham/patterns/teaser-patterns]]
+- [[brantham/patterns/acheteur-mapping]]
+- [[founder/journal/2026-03-12]]
+- [[founder/decisions/2026-03-12-unified-vault]]
+- [[brantham/bugs/2026-02-19-pipeline-cron-delivery]]
+- [[brantham/bugs/2026-03-05-asyncpg-another-operation]]

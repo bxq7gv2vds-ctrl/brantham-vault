@@ -522,3 +522,6 @@ Situations ou le retournement est quasi-impossible — orienter vers la cession 
 - CIP National — Conference des Juges-Commissaires
 - CIRI — Comite Interministeriel de Restructuration Industrielle (>400 salaries)
 - CDE — Comite Departemental d'Examen des difficultes (PME)
+
+## Related
+- [[brantham/_MOC]]

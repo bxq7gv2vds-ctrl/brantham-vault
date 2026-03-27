@@ -28,3 +28,17 @@ Build a unified Obsidian vault at ~/vault/ with structured directories, template
 - Claude Code reads/writes natively
 - Obsidian graph view shows connections
 - Can add vector DB later as overlay
+
+## Related
+- [[_system/MOC-decisions]]
+- [[_system/MOC-master]]
+- [[patterns/agent-orchestration]]
+- [[patterns/gemweb-rss-parsing]]
+- [[patterns/teaser-pptx-generation]]
+- [[patterns/prefect-pipeline]]
+- [[patterns/scraping-robust]]
+- [[brantham/patterns/scoring-patterns]]
+- [[brantham/patterns/teaser-patterns]]
+- [[brantham/patterns/acheteur-mapping]]
+- [[founder/journal/2026-03-12]]
+- [[founder/strategy/current-strategy]]

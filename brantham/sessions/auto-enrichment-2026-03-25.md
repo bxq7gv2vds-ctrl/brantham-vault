@@ -52,3 +52,6 @@
 - 10x deals/{slug}/enrichment.json
 - 10x deals/{slug}/acheteurs.json
 - vault/brantham/pipeline/QUEUE.md (mis a jour)
+
+## Related
+- [[brantham/_MOC]]
