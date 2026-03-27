@@ -32,12 +32,12 @@ updated: 2026-03-27
 
 | Fichier | Agent | Schedule | Mission |
 |---------|-------|----------|---------|
-| [[01-sourcing]] | Sourcing | 07h/12h/19h30 | Scrape AJ + BODACC, score, met à jour OPPORTUNITIES.md |
-| [[02-pipeline-check]] | Pipeline Check | 09h/17h | Surveille deadlines, alertes rouges/oranges |
-| [[03-deal-analysis]] | Deal Analysis | 10h/15h | Analyse financière + juridique sur infos publiques |
-| [[04-buyer-hunt]] | Buyer Hunt | 11h/14h | Sourcing 15-25 acheteurs qualifiés par deal |
-| [[05-morning-brief]] | Morning Brief | 07h30 | Brief actionnable Paul + Soren |
-| [[07-contact-enricher]] | Contact Enricher | 16h | Enrichissement emails + LinkedIn décideurs |
+| [[01-sourcing]] | Sourcing | 07h / 12h / 19h30 | Scrape AJ + BODACC, score, met à jour OPPORTUNITIES.md |
+| [[05-morning-brief]] | Morning Brief | 07h15 | Brief actionnable Paul + Soren |
+| [[02-pipeline-check]] | Pipeline Check | 08h / 17h | Surveille deadlines, alertes rouges/oranges |
+| [[03-deal-analysis]] | Deal Analysis | 08h30 / 15h | Analyse financière + juridique sur infos publiques |
+| [[04-buyer-hunt]] | Buyer Hunt | 09h / 14h | Sourcing 15-25 acheteurs qualifiés par deal |
+| [[07-contact-enricher]] | Contact Enricher | 09h30 / 16h | Enrichissement emails + LinkedIn décideurs |
 
 ## État partagé (lire/écrire)
 
