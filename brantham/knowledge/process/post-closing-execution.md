@@ -68,7 +68,7 @@ Le jugement arretant le plan de cession (art. L642-1 et suivants C. com.) produi
 
 - **Principe de non-transmission des dettes** : le cessionnaire n'est pas tenu au passif du debiteur. Il acquiert des actifs, pas un passif.
 - Les dettes du debiteur restent a la charge de la procedure collective (liquidation judiciaire en cours).
-- **Exceptions** : suretes speciales transferees (L642-12 al. 4), dettes environnementales (responsabilite ICPE attachee a la qualite d'exploitant), dettes sociales liees aux salaries repris (salaires courants post-transfert).
+- **Exceptions** : [[suretes-en-procedure-collective|suretes speciales]] transferees (L642-12 al. 4), dettes environnementales ([[passif-environnemental|responsabilite ICPE]] attachee a la qualite d'exploitant), dettes sociales liees aux salaries repris (salaires courants post-transfert).
 
 ---
 

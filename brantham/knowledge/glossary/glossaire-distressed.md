@@ -115,7 +115,7 @@ Glossaire exhaustif couvrant le vocabulaire specialise du M&A d'entreprises en d
 | **Memorandum d'information (info memo)** | Document detaille sur l'entreprise (historique, finances, operations, marche, perspectives). Communique apres signature d'un NDA. | Usage professionnel |
 | **NDA (Non-Disclosure Agreement)** | Accord de confidentialite signe par les candidats repreneurs avant l'acces aux informations detaillees et a la data room. | Contractuel |
 | **Data room** | Espace physique ou virtuel contenant les documents de due diligence (comptes, contrats, baux, contentieux, PI, RH, environnement). | Usage professionnel |
-| **Due diligence (DD)** | Audit prealable de l'entreprise cible. En distressed : delai court (2-8 semaines), information souvent incomplete, focus sur les risques critiques. | Usage professionnel |
+| **[[due-diligence-distressed|Due diligence (DD)]]** | Audit prealable de l'entreprise cible. En distressed : delai court (2-8 semaines), information souvent incomplete, focus sur les risques critiques. | Usage professionnel |
 | **LOI (Letter of Intent)** | Lettre d'intention. En distressed, souvent remplacee par l'offre de reprise directement deposee au tribunal ou a l'AJ. | Contractuel |
 | **SPA (Share Purchase Agreement)** | Contrat de cession d'actions. Utilise en cession amiable (conciliation, pre-pack). Rare en cession judiciaire (pas de cession de parts mais d'actifs). | Contractuel |
 | **APA (Asset Purchase Agreement)** | Contrat de cession d'actifs. Plus courant en distressed. En cession judiciaire, le jugement tient lieu de contrat. | L642-1 et s. C.com |
