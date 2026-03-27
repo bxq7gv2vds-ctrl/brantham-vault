@@ -214,6 +214,46 @@ SOREN — Aujourd'hui :
 
 ---
 
+## Étape FINALE — Écrire le fichier output (OBLIGATOIRE)
+
+```bash
+OUTPUT_DIR=/Users/paul/vault/brantham/cowork-outputs
+TIMESTAMP=$(date +%Y-%m-%d-%H%M)
+OUTPUT_FILE=$OUTPUT_DIR/morning-brief-$TIMESTAMP.json
+
+python3 -c "
+import json
+output = {
+  'agent': 'morning-brief',
+  'run_id': 'morning-brief-$TIMESTAMP',
+  'timestamp': '$(date -u +%Y-%m-%dT%H:%M:%SZ)',
+  'status': 'success',
+  'summary': 'Brief [DATE] — [N] deals actifs, [N] alertes rouges',
+  'data': {
+    'date': '$(date +%Y-%m-%d)',
+    'pipeline_summary': {
+      'deals_actifs': 0,
+      'teasers_prets': 0,
+      'acheteurs_identifies': 0,
+      'prets_outreach': 0
+    },
+    'alertes_rouges': 0,
+    'new_detections_overnight': 0,
+    'paul_actions': ['', '', ''],
+    'soren_actions': ['', '', ''],
+    'brief_path': '/Users/paul/vault/founder/daily/$(date +%Y-%m-%d).md'
+  },
+  'actions_taken': ['Brief généré et sauvegardé dans vault/founder/daily/'],
+  'pending_for_human': [],
+  'triggered_next': [],
+  'errors': []
+}
+print(json.dumps(output, indent=2, ensure_ascii=False))
+" > \$OUTPUT_FILE
+
+echo "Output écrit : \$OUTPUT_FILE"
+```
+
 ## Règles absolues
 
 - **7 minutes max** : le brief doit se lire en 7 minutes
