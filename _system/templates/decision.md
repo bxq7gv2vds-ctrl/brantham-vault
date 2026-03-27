@@ -28,3 +28,10 @@ What this enables or blocks.
 - 30d: [pending]
 - 60d: [pending]
 - 90d: [pending]
+
+## Related
+- [[_system/MOC-decisions]]
+- [[project/_MOC]] <!-- remplacer project par brantham/website -->
+- [[founder/assumptions/assumption-name]] <!-- assumptions liees -->
+- [[founder/strategy/current-strategy]] <!-- si impacte la strategie -->
+- [[brantham/sessions/YYYY-MM-DD]] <!-- session ou la decision a ete prise -->

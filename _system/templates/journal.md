@@ -19,3 +19,8 @@ tags: []
 
 ## Tomorrow
 -
+
+## Related
+- [[founder/daily/YYYY-MM-DD]] <!-- plan du jour -->
+- [[founder/decisions/YYYY-MM-DD-decision-name]] <!-- decisions du jour -->
+- [[founder/assumptions/assumption-name]] <!-- assumptions revisitees -->

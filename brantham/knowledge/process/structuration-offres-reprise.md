@@ -278,4 +278,17 @@ En LJ sans concurrence, le prix peut etre tres bas. En RJ avec concurrence, le p
 
 **Textes de reference** : Articles L642-1 a L642-17 et R642-1 a R642-21 du Code de commerce.
 
-**Voir aussi** : [[encheres-surencheres]], [[audience-tribunal]], [[due-diligence-distressed]]
+---
+
+## Voir aussi
+
+- [[encheres-surencheres]] — Regime des encheres et surencheres en procedure
+- [[audience-tribunal]] — Deroulement de l'audience de cession
+- [[due-diligence-distressed]] — DD prealable a la structuration de l'offre
+- [[plans-de-cession]] — Cadre legal L642-1 et suivants
+- [[valorisation-distressed]] — Determination du prix et methodes de valorisation
+- [[post-closing-execution]] — Execution du plan apres jugement
+- [[negociation-crise]] — Strategies de negociation avec les organes de la procedure
+- [[droit-social-restructuration]] — Volet social de l'offre et transfert des salaries
+- [[contrats-baux-en-procedure]] — Contrats et baux a reprendre dans l'offre
+- [[glossaire-distressed]] — Terminologie M&A distressed

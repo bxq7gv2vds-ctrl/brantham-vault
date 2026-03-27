@@ -28,3 +28,9 @@ How to validate. Timeline.
 
 ## Last Reviewed
 [date] — [notes]
+
+## Related
+- [[_system/MOC-assumptions]]
+- [[founder/decisions/YYYY-MM-DD-decision-name]] <!-- decisions basees sur cette assumption -->
+- [[founder/strategy/current-strategy]] <!-- si impacte la strategie -->
+- [[founder/customers/YYYY-MM-DD-customer-name]] <!-- retours clients lies -->
