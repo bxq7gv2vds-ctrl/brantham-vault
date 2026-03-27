@@ -22,7 +22,7 @@ _Mis a jour : 2026-03-09_
 - [[OPPORTUNITIES]] — Liste des opportunites detectees par Scout
 - [[PIPELINE]] — Pipeline complet des deals
 - [[SOUL]] — Directives de personnalite et valeurs Brantham
-- Agents : [[../analyst/README|Analyst]] | [[../scout/README|Scout]] | [[../director/README|Director]] | [[../writer/README|Writer]] | [[../hunter/README|Hunter]] | [[../enricher/README|Enricher]]
+- Agents : [[brantham/agents/analyst/README|Analyst]] | [[brantham/agents/scout/README|Scout]] | [[brantham/agents/director/README|Director]] | [[brantham/agents/writer/README|Writer]] | [[brantham/agents/hunter/README|Hunter]] | [[brantham/agents/enricher/README|Enricher]]
 - Templates : [[deals/TEMPLATE|Deal]] | [[analyses/TEMPLATE|Analyse]]
 
 ---
