@@ -428,3 +428,15 @@ La reprise de Casino par Kretinsky a ete qualifiee de "victoire a la Pyrrhus" pa
 
 *Fiche creee le 2026-03-27. Derniere mise a jour : 2026-03-27.*
 *Cas de reference Brantham pour : structure pyramidale, sauvegarde acceleree, cession d'actifs, changement de controle, dilution massive.*
+
+## Voir aussi
+
+- [[sauvegarde-acceleree-sfa]] — Procedure de sauvegarde acceleree utilisee par Casino
+- [[cas-orpea-emeis]] — Autre mega-restructuration avec cram-down en France
+- [[retail-commerce]] — Playbook sectoriel distribution/commerce
+- [[restructuration-dette]] — Conversion dette-equity et abandon de creances
+- [[rang-des-creances]] — Hierarchie des creanciers (TSSDI, chirographaires)
+- [[concurrence-distressed]] — Controle des concentrations lors des cessions
+- [[plans-de-cession]] — Mecanisme de cession des magasins Casino
+- [[stats-defaillances-2025]] — Contexte macro des defaillances
+- [[cas-emblematiques-france]] — Autres etudes de cas de restructurations
