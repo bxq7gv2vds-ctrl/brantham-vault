@@ -103,11 +103,12 @@ Pour chaque deal, vérifier que le statut dans OPPORTUNITIES.md correspond aux f
 # Un deal "analysé" DOIT avoir analyse.md
 ls /Users/paul/Downloads/brantham-pipeline/deals/[slug]/analyse.md 2>/dev/null || echo "MANQUANT"
 
-# Un deal "teaser_redige" DOIT avoir teaser.md
-ls /Users/paul/Downloads/brantham-pipeline/deals/[slug]/teaser.md 2>/dev/null || echo "MANQUANT"
-
 # Un deal "acheteurs_identifies" DOIT avoir acheteurs.json
 ls /Users/paul/Downloads/brantham-pipeline/deals/[slug]/acheteurs.json 2>/dev/null || echo "MANQUANT"
+
+# Un deal "contacts_enrichis" DOIT avoir contacts.json + outreach-brief.md
+ls /Users/paul/Downloads/brantham-pipeline/deals/[slug]/contacts.json 2>/dev/null || echo "MANQUANT"
+ls /Users/paul/Downloads/brantham-pipeline/deals/[slug]/outreach-brief.md 2>/dev/null || echo "MANQUANT"
 ```
 
 Si incohérence détectée (statut dit X mais fichier manquant) → signaler dans le rapport.
