@@ -104,7 +104,7 @@ Le ralentissement de la progression est net : +1,7% au T4 2025 vs +10% au T4 202
 
 | Secteur | Defaillances (12 mois cumules) | Part | Evolution vs 2019 |
 |---|---|---|---|
-| **Construction / BTP** | **14 672** | **21%** | Hausse significative mais deceleration (-3,2% annuel, -8,1% au T4) |
+| **[[btp-construction|Construction / BTP]]** | **14 672** | **21%** | Hausse significative mais deceleration (-3,2% annuel, -8,1% au T4) |
 | **Commerce / Reparation auto** | **13 724** | **20%** | Commerce gros +76%, detail habillement en crise |
 | **Hebergement / Restauration** | **9 250** | **13%** | +187% vs S1 2019 |
 | **Services aux entreprises** | **8 442** | **12%** | +791 defaillances/12 mois au T3 |

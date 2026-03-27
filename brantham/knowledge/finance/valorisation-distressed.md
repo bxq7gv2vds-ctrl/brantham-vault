@@ -564,3 +564,18 @@ Chaque mois de procedure consume du cash, erode la clientele, demotive les equip
 - [ ] Dettes hors bilan verifiees
 - [ ] Retention clients estimee avec methode
 - [ ] Total cost of acquisition (prix + BFR + restructuration + capex) calcule
+
+---
+
+## Voir aussi
+
+- [[financial-modeling-distressed]] — DCF ajuste, waterfall analysis, bridge equity-to-EV
+- [[due-diligence-distressed]] — Checklist DD financiere, operationnelle et juridique
+- [[restructuration-dette]] — Techniques de restructuration et financement en crise
+- [[plans-de-cession]] — Cadre legal de la cession d'entreprise en procedure
+- [[structuration-offres-reprise]] — Redaction et structuration de l'offre de reprise
+- [[comptabilite-crise]] — Continuite d'exploitation et comptes en procedure
+- [[fiscalite-restructuration]] — Report de deficits, abandons de creances, TVA
+- [[pi-actifs-incorporels-distressed]] — Valorisation des actifs incorporels
+- [[rang-des-creances]] — Ordre de priorite des creanciers
+- [[glossaire-distressed]] — Terminologie M&A distressed
