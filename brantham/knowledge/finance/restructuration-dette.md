@@ -435,7 +435,7 @@ c) **Debt-to-equity swap partiel** : une partie de la dette mezzanine est conver
 d) **Cram-down / wipe-out** : les creanciers seniors prennent le controle de l'equity. Le sponsor et les mezzaneurs sont essuyes.
    - Typique si leverage >8-10x, l'entreprise ne vaut pas plus que la dette senior
 
-e) **Cession a un tiers** : l'entreprise est vendue (souvent en pre-pack via L611-7 ou en plan de cession L642-1+) a un repreneur industriel ou un autre sponsor.
+e) **Cession a un tiers** : l'entreprise est vendue (souvent en pre-pack via L611-7 ou en [[plans-de-cession|plan de cession]] L642-1+) a un repreneur industriel ou un autre sponsor.
    - Dernier recours si aucun accord n'est possible entre sponsor et creanciers
 
 ---

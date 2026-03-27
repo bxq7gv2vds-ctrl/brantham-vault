@@ -98,7 +98,7 @@ Les sites industriels sont souvent classes ICPE. C'est le **risque n.1** du sect
 | Type | Regime en procedure collective |
 |---|---|
 | Machines en propriete | Actif du debiteur, cessible |
-| Machines en credit-bail | Le credit-bailleur peut revendiquer (L624-10). Le bail peut etre continue ou resilie. |
+| Machines en credit-bail | Le credit-bailleur peut revendiquer (L624-10). Le [[contrats-baux-en-procedure|bail peut etre continue ou resilie]]. |
 | Machines en location | Le bailleur peut revendiquer. Pas de propriete pour le debiteur. |
 | Machines en reserve de propriete | Le vendeur peut revendiquer si clause valable et bien identifiable |
 
