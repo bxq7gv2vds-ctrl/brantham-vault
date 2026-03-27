@@ -359,7 +359,7 @@ La restructuration de Casino en 2023-2024 intervient alors que les holdings Rall
 
 ### Lecons juridiques
 
-8. **La sauvegarde acceleree est adaptee aux grands groupes** : procedure rapide (quelques mois vs annees pour une sauvegarde classique), preservant l'activite operationnelle
+8. **La [[sauvegarde-acceleree-sfa|sauvegarde acceleree]] est adaptee aux grands groupes** : procedure rapide (quelques mois vs annees pour une sauvegarde classique), preservant l'activite operationnelle
 9. **Les classes de parties affectees permettent une negociation structuree** : chaque classe vote, permettant d'isoler les opposants
 10. **Le CSEC peut faire appel mais a peu de chances de bloquer** : le droit des procedures collectives prime sur le droit social dans ces situations
 
