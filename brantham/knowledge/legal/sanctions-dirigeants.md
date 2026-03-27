@@ -33,7 +33,7 @@ updated: 2026-03-27
 # Sanctions et Responsabilite des Dirigeants d'Entreprises en Difficulte
 
 > Titre V, Livre VI du Code de Commerce (articles L651-1 a L654-20, L621-2).
-> Fiche de reference exhaustive pour la due diligence M&A distressed -- Brantham Partners.
+> Fiche de reference exhaustive pour la [[due-diligence-distressed|due diligence]] M&A distressed -- Brantham Partners.
 
 ---
 
@@ -66,11 +66,11 @@ Interdiction de gerer (L653-8)      -> Interdiction modulable max 15 ans
 
 **Article L651-2 du Code de Commerce** (modifie par la loi n 2016-1691 du 9 decembre 2016, dite "Sapin II") :
 
-*Lorsque la liquidation judiciaire d'une personne morale fait apparaitre une insuffisance d'actif, le tribunal peut, en cas de faute de gestion ayant contribue a cette insuffisance d'actif, decider que le montant de cette insuffisance d'actif sera supporte, en tout ou en partie, par tous les dirigeants de droit ou de fait, ou par certains d'entre eux, ayant contribue a la faute de gestion. En cas de pluralite de dirigeants, le tribunal peut, par decision motivee, les declarer solidairement responsables. Toutefois, en cas de simple negligence du dirigeant de droit ou de fait dans la gestion de la personne morale, sa responsabilite au titre de l'insuffisance d'actif ne peut etre engagee.*
+*Lorsque la [[liquidation-judiciaire|liquidation judiciaire]] d'une personne morale fait apparaitre une insuffisance d'actif, le tribunal peut, en cas de faute de gestion ayant contribue a cette insuffisance d'actif, decider que le montant de cette insuffisance d'actif sera supporte, en tout ou en partie, par tous les dirigeants de droit ou de fait, ou par certains d'entre eux, ayant contribue a la faute de gestion. En cas de pluralite de dirigeants, le tribunal peut, par decision motivee, les declarer solidairement responsables. Toutefois, en cas de simple negligence du dirigeant de droit ou de fait dans la gestion de la personne morale, sa responsabilite au titre de l'insuffisance d'actif ne peut etre engagee.*
 
 ### 2.2 Champ d'application
 
-- **Procedure requise** : liquidation judiciaire uniquement (pas RJ, pas sauvegarde)
+- **Procedure requise** : liquidation judiciaire uniquement (pas RJ, pas [[sauvegarde|sauvegarde]])
 - **Entites concernees** : personnes morales de droit prive exclusivement
 - **Dirigeants vises** : dirigeants de **droit** (gerant, president, DG, administrateurs, membres du directoire) et dirigeants de **fait** (toute personne exercant de facto des fonctions de direction)
 - **Representants permanents** de personnes morales dirigeantes
@@ -83,7 +83,7 @@ Quatre conditions doivent etre reunies :
 
 #### 1. Ouverture d'une liquidation judiciaire
 
-L'action est subordonnee a l'existence d'une procedure de liquidation judiciaire. Elle ne peut etre exercee ni en sauvegarde, ni en redressement judiciaire (sauf conversion en LJ).
+L'action est subordonnee a l'existence d'une procedure de liquidation judiciaire. Elle ne peut etre exercee ni en sauvegarde, ni en [[redressement-judiciaire|redressement judiciaire]] (sauf conversion en LJ).
 
 #### 2. Constatation d'une insuffisance d'actif
 
@@ -273,7 +273,7 @@ En plus de tous les cas ou la faillite personnelle est encourue, le tribunal peu
 
 | N | Cas | Detail |
 |---|-----|--------|
-| 1 | **Omission de declaration de cessation des paiements** | Non-declaration dans les 45 jours, sauf si demande d'ouverture d'une conciliation dans ce delai (L631-4) |
+| 1 | **Omission de declaration de cessation des paiements** | Non-declaration dans les 45 jours, sauf si demande d'ouverture d'une [[mandat-ad-hoc-conciliation|conciliation]] dans ce delai (L631-4) |
 | 2 | **Non-remise sciemment des renseignements** | Refus ou omission de fournir au mandataire judiciaire les informations demandees dans le mois suivant l'ouverture |
 | 3 | **Manquement a l'obligation d'information** | Non-respect de l'obligation d'information sur les instances en cours (L622-22) |
 
@@ -497,7 +497,7 @@ Une personne morale est **fictive** lorsqu'elle n'est qu'une **facade** destinee
 L'extension cree une **procedure unique** avec un patrimoine unique :
 - Consolidation de l'actif et du passif de toutes les entites
 - Un seul representant des creanciers
-- Un seul plan de cession ou de liquidation
+- Un seul [[plans-de-cession|plan de cession]] ou de liquidation
 - Les creanciers de l'entite etendue deviennent creanciers de la procedure unique
 
 **Consequence patrimoniale majeure** : le patrimoine de la personne visee par l'extension est **absorbe** dans la masse commune. C'est la sanction la plus lourde en termes patrimoniaux, car elle peut engloutir la totalite des actifs personnels d'un dirigeant ou d'une autre societe.
@@ -598,7 +598,7 @@ Les sanctions frappant les dirigeants sortants ont un **impact direct** sur la r
 |--------|----------|--------|
 | **Extension tardive** | Confusion de patrimoines decouverte apres la cession | Elargissement du perimetre, actifs supplementaires dans la masse |
 | **Actifs recouvres sur les dirigeants** | Action L651-2 aboutissant a des recuperations | Actifs non integres dans le plan de cession initial |
-| **Actions en nullite croisees** | Actes du dirigeant annules en periode suspecte | Biens reintegres dans l'actif, modifiant la consistance de la masse |
+| **Actions en nullite croisees** | Actes du dirigeant annules en [[nullites-periode-suspecte|periode suspecte]] | Biens reintegres dans l'actif, modifiant la consistance de la masse |
 | **Passif cache** | Augmentation frauduleuse du passif revelee post-cession | Risque pour le repreneur si le plan de cession couvre ces dettes |
 | **Dirigeant ineligible** | Le repreneur pressenti est un ancien dirigeant sanctionne | Offre irrecevable (L642-3) |
 
@@ -756,6 +756,17 @@ SANCTIONS DES DIRIGEANTS — CODE DE COMMERCE, TITRE V, LIVRE VI
 
 - [[legal/nullites-periode-suspecte]] -- Nullites de la periode suspecte (L632-1, L632-2) : les memes fautes de gestion qui fondent la banqueroute ou la faillite personnelle se recoupent souvent avec les actes annulables en periode suspecte
 - [[legal/plans-de-cession]] -- Plans de cession (L642-1+) : exclusion des dirigeants sortants et de leurs proches (L642-3)
-- [[legal/rang-des-creances]] -- Rang des creances : les sommes recuperees sur L651-2 profitent a l'ensemble des creanciers
+- [[legal/rang-des-creances]] -- [[rang-des-creances|Rang des creances]] : les sommes recuperees sur L651-2 profitent a l'ensemble des creanciers
 - [[finance/restructuration-dette]] -- Cautionnements personnels des dirigeants : interaction avec les sanctions
 - [[process/due-diligence-distressed]] -- Checklist DD integrant les verifications sur les dirigeants
+
+## Voir aussi
+
+- [[liquidation-judiciaire]] -- Liquidation judiciaire
+- [[redressement-judiciaire]] -- Redressement judiciaire
+- [[nullites-periode-suspecte]] -- Nullites de la periode suspecte
+- [[responsabilite-tiers]] -- Responsabilite des tiers
+- [[plans-de-cession]] -- Plans de cession judiciaire
+- [[rang-des-creances]] -- Rang des creances
+- [[due-diligence-distressed]] -- Due diligence distressed
+- [[glossaire-distressed]] -- Glossaire distressed

@@ -18,7 +18,7 @@ sources:
 
 # Sort des contrats en cours et baux commerciaux en procedures collectives
 
-Fiche de reference pour l'activite de reprise M&A distressed. Couvre sauvegarde, redressement judiciaire et liquidation judiciaire.
+Fiche de reference pour l'activite de reprise M&A distressed. Couvre [[sauvegarde|sauvegarde]], [[redressement-judiciaire|redressement judiciaire]] et [[liquidation-judiciaire|liquidation judiciaire]].
 
 ---
 
@@ -112,7 +112,7 @@ Sont **reputees non ecrites** (L622-13, II) :
 Les contrats conclus en consideration de la personne du debiteur (contrats intuitu personae) beneficient d'un **regime derogatoire partiel** :
 
 - Ils sont soumis au regime general de L622-13 (continuation/resiliation).
-- MAIS le cocontractant peut **refuser la cession** du contrat dans le cadre d'un plan de cession (L642-7, al. 4), car le contrat a ete conclu en consideration de la personne du debiteur initial.
+- MAIS le cocontractant peut **refuser la cession** du contrat dans le cadre d'un [[plans-de-cession|plan de cession]] (L642-7, al. 4), car le contrat a ete conclu en consideration de la personne du debiteur initial.
 - Exemples : contrats de mandat, certaines concessions, contrats d'agent commercial, contrats de distribution selective.
 - Le caractere intuitu personae s'apprecie souverainement par les juges du fond.
 - **Piege repreneur** : un contrat qualifie d'intuitu personae peut ne pas etre repris avec le fonds de commerce. Verifier systematiquement.
@@ -125,7 +125,7 @@ Les contrats de travail beneficient d'un **regime special ultra-protecteur** :
 - Ce transfert est **d'ordre public** : ni le cedant, ni le cessionnaire, ni le salarie ne peuvent y renoncer.
 - Le repreneur reprend les contrats dans leur integralite : anciennete, remuneration, qualification, avantages acquis.
 - **En plan de cession** (L642-5) : Le tribunal fixe le nombre de salaries repris. Les contrats non repris sont licencies par le liquidateur.
-- **Licenciements** : Les licenciements pour motif economique dans le cadre de la procedure sont prononces par l'administrateur/liquidateur, pas par le repreneur. L'AGS (Assurance Garantie des Salaires) avance les creances salariales.
+- **Licenciements** : Les licenciements pour motif economique dans le cadre de la procedure sont prononces par l'administrateur/liquidateur, pas par le repreneur. [[rang-des-creances|L'AGS]] (Assurance Garantie des Salaires) avance les creances salariales.
 - **Point cle repreneur** : Le cout social est un element central de l'offre de reprise. Le tribunal est tres sensible au maintien de l'emploi.
 
 ### 2.3 Contrats d'assurance
@@ -462,7 +462,18 @@ Le cocontractant dont le contrat est cede :
 - [ ] Contrats de fourniture : fournisseurs cles identifies, conditions commerciales verifiees
 - [ ] Contrats d'assurance : couvertures en cours, primes a jour
 - [ ] Licences et contrats IT : inventaire complet, transferabilite verifiee
-- [ ] Contrats bancaires : prets, lignes de credit, garanties, sort des suretes
+- [ ] Contrats bancaires : prets, lignes de credit, garanties, sort des [[suretes-en-procedure-collective|suretes]]
 - [ ] Contact direct avec bailleur : soutien obtenu, negociation loyer engagee
 - [ ] Contrats onereux identifies : argumentaire pour exclusion du plan de cession prepare
 - [ ] Budget integration : couts de continuation de chaque contrat chiffres dans le BP
+
+## Voir aussi
+
+- [[liquidation-judiciaire]] -- Liquidation judiciaire
+- [[redressement-judiciaire]] -- Redressement judiciaire
+- [[sauvegarde]] -- Sauvegarde
+- [[plans-de-cession]] -- Plans de cession judiciaire
+- [[plans-de-continuation]] -- Plans de continuation
+- [[rang-des-creances]] -- Rang des creances
+- [[droit-social-restructuration]] -- Droit social en restructuration
+- [[due-diligence-distressed]] -- Due diligence distressed

@@ -374,8 +374,8 @@ La France est **le pays le plus touche en volume absolu** en Europe. Cela s'expl
 | Entreprise | Secteur | Procedure | CA / Employes | Notes |
 |---|---|---|---|---|
 | **Auchan** | Distribution | Restructuration | ~30 Mds EUR CA, ~54 000 sal. | Pertes 1,22 Md EUR 2024. Plan economies 350M, -2 389 postes. |
-| **Casino** | Distribution | Sauvegarde acceleree | ~8 Mds EUR CA | 17 classes de parties affectees. 16/17 ont vote le plan. Reprise Teract/Auchan/Intermarche. |
-| **Orpea** | Sante/EHPAD | Sauvegarde acceleree | -- | Cram-down sur actionnaires et chirographaires dissidents. Dilution massive. |
+| **[[cas-casino-groupe|Casino]]** | Distribution | [[sauvegarde-acceleree-sfa|Sauvegarde acceleree]] | ~8 Mds EUR CA | 17 classes de parties affectees. 16/17 ont vote le plan. Reprise Teract/Auchan/Intermarche. |
+| **[[cas-orpea-emeis|Orpea]]** | Sante/EHPAD | [[sauvegarde-acceleree-sfa|Sauvegarde acceleree]] | -- | Cram-down sur actionnaires et chirographaires dissidents. Dilution massive. |
 | **Brandt** | Electromenager | LJ | ~300M EUR CA | Fin de l'electromenager francais. |
 | **IKKS** | Habillement | LJ (dec 2025) | ~250M EUR CA, ~1 500 sal. | Crise du retail mode. |
 | **Casa** | Decoration | LJ | ~200 magasins | Concurrence e-commerce + baisse pouvoir achat. |

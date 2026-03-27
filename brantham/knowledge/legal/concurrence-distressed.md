@@ -33,7 +33,7 @@ Constitue une concentration (L430-1 C.com et art. 3 Reglement CE 139/2004) :
 - La creation d'une entreprise commune de plein exercice
 
 En distressed, les operations les plus frequentes :
-- Reprise d'une entreprise en RJ/LJ par un concurrent (plan de cession = concentration si seuils atteints)
+- Reprise d'une entreprise en [[redressement-judiciaire|RJ]]/[[liquidation-judiciaire|LJ]] par un concurrent ([[plans-de-cession|plan de cession]] = concentration si seuils atteints)
 - Rachat d'actifs significatifs constituant une branche d'activite autonome
 - Prise de controle via conversion de dette en capital (debt-to-equity)
 
@@ -130,7 +130,7 @@ L'AdlC a mis en place une procedure simplifiee pour les operations ne soulevant 
 **Solutions pratiques** :
 - Pre-notification des que l'offre est deposee (idealement avant)
 - Demande de traitement accelere aupres de l'AdlC (couramment acceptee en distressed)
-- Clause suspensive dans l'offre de reprise conditionnant la realisation a l'autorisation
+- Clause suspensive dans l'[[structuration-offres-reprise|offre de reprise]] conditionnant la realisation a l'autorisation
 - Nomination d'un mandataire independant (hold separate) pour gerer la cible en attendant l'autorisation
 
 ---
@@ -143,7 +143,7 @@ La failing firm defense (FFD) est une exception au standard d'analyse concurrent
 
 **Origine jurisprudentielle UE** : CJCE, 31 mars 1998, *Kali und Salz* (aff. C-68/94 et C-30/95). Confirmee et precisee par la Commission dans ses Lignes directrices sur l'appreciation des concentrations horizontales (2004/C 31/03, para. 89-91).
 
-**Origine FR** : l'AdlC reprend les criteres de la Commission europeenne. Pas de jurisprudence specifique abondante, mais application dans plusieurs decisions (Casino, Primus/Condat, etc.).
+**Origine FR** : l'AdlC reprend les criteres de la Commission europeenne. Pas de jurisprudence specifique abondante, mais application dans plusieurs decisions ([[cas-casino-groupe|Casino]], Primus/Condat, etc.).
 
 ### 4.2 Trois conditions cumulatives
 
@@ -215,7 +215,7 @@ Les memes principes s'appliquent a la cession d'une division ou branche d'activi
 
 | Decision | Annee | Secteur | Contexte | Resultat |
 |---|---|---|---|---|
-| **Casino / Intermarche / Auchan** | 2024 | Distribution alimentaire | Casino en procedure de conciliation puis sauvegarde acceleree | Autorisee sous conditions (cessions de magasins). FFD pas formellement invoquee mais situation de difficulte prise en compte dans l'analyse. 98 magasins cedes en remede. |
+| **Casino / Intermarche / Auchan** | 2024 | Distribution alimentaire | Casino en procedure de [[mandat-ad-hoc-conciliation|conciliation]] puis [[sauvegarde-acceleree-sfa|sauvegarde acceleree]] | Autorisee sous conditions (cessions de magasins). FFD pas formellement invoquee mais situation de difficulte prise en compte dans l'analyse. 98 magasins cedes en remede. |
 | **Cofigeo / William Saurin / Panzani** | 2018 | Agroalimentaire | William Saurin en RJ | Autorisee sous conditions |
 | **Vivescia / Grands Moulins de Strasbourg** | 2014 | Meunerie | Cible en difficulte | Autorisee sous engagements |
 
@@ -303,7 +303,7 @@ J+5 a J+30 : Phase I (25 jours ouvrables)
 J+30        : Decision Phase I
               (autorisation simple, sous engagements, ou Phase II)
 
-J+15 a J+25: Audience du tribunal (plan de cession)
+J+15 a J+25: [[audience-tribunal|Audience]] du tribunal (plan de cession)
               - Si autorisation AdlC obtenue : pas de probleme
               - Si Phase I en cours : clause suspensive
               - Si Phase II ouverte : nomination mandataire hold-separate
@@ -368,3 +368,13 @@ Scenario : repreneur industriel (CA 200M EUR) souhaite acquerir une PME en RJ (C
 - AdlC, decision 24-DCC-66 du 27 mars 2024 (Casino/Intermarche/Auchan)
 - Commission, M.6360, Nynas/Shell/Harburg Refinery, 2 sept. 2013
 - Commission, M.2314, BASF/Eurodiol/Pantochim, 11 juil. 2001
+
+## Voir aussi
+
+- [[plans-de-cession]] -- Plans de cession judiciaire
+- [[redressement-judiciaire]] -- Redressement judiciaire
+- [[liquidation-judiciaire]] -- Liquidation judiciaire
+- [[sauvegarde-acceleree-sfa]] -- Sauvegarde acceleree
+- [[cas-casino-groupe]] -- Cas Casino Groupe
+- [[due-diligence-distressed]] -- Due diligence distressed
+- [[structuration-offres-reprise]] -- Structuration des offres de reprise

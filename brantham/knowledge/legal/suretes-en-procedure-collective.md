@@ -23,7 +23,7 @@ sources:
 
 # Droit des Suretes en Procedure Collective
 
-Le sort des suretes en procedure collective est au coeur de l'equilibre entre protection des creanciers garantis et sauvetage de l'entreprise. La reforme de 2021 (ordonnance n° 2021-1192) a profondement remodele le droit des suretes reelles, avec des consequences directes sur les procedures collectives. Cette fiche offre une analyse exhaustive de chaque type de surete et de son sort en sauvegarde, redressement et liquidation judiciaire.
+Le sort des suretes en procedure collective est au coeur de l'equilibre entre protection des creanciers garantis et sauvetage de l'entreprise. La reforme de 2021 (ordonnance n° 2021-1192) a profondement remodele le droit des suretes reelles, avec des consequences directes sur les procedures collectives. Cette fiche offre une analyse exhaustive de chaque type de surete et de son sort en [[sauvegarde|sauvegarde]], redressement et [[liquidation-judiciaire|liquidation judiciaire]].
 
 ---
 
@@ -88,7 +88,7 @@ Memes regles que la sauvegarde (art. L631-14 : renvoi aux dispositions de la sau
 - Le prix est distribue selon l'ordre des suretes inscrites
 - L'hypotheque confere un droit de preference sur le prix
 
-**Plan de cession (art. L642-12 C. com.)** :
+**[[plans-de-cession|Plan de cession]] (art. L642-12 C. com.)** :
 
 Article L642-12 al. 1 : "Le jugement qui arrete le plan en rend les dispositions opposables a tous. Lorsque la cession porte sur des biens greves d'un privilege special, d'un nantissement ou d'une hypotheque, le tribunal affecte a chacun de ces biens une quote-part du prix de cession determinee au vu de l'inventaire et de la prisee des actifs."
 
@@ -137,7 +137,7 @@ Le nantissement du fonds de commerce porte sur les elements incorporels du fonds
 - Arret des poursuites : le creancier nanti ne peut pas faire proceder a la vente forcee du fonds
 - Gel des inscriptions (art. L622-28) : pas de nouvelle inscription apres ouverture
 - Declaration de creance obligatoire avec mention de la surete
-- Le plan de continuation impose des delais de paiement au creancier nanti
+- Le [[plans-de-continuation|plan de continuation]] impose des delais de paiement au creancier nanti
 
 **LJ — Vente du fonds isolement** :
 - Le fonds est vendu (de gre a gre ou aux encheres) par le liquidateur
@@ -249,7 +249,7 @@ L'ordonnance 2021-1192 a assoupli la fiducie-surete :
 
 ### 4.5 Risque de requalification
 
-- Si la fiducie est constituee pendant la periode suspecte (art. L632-1, L632-2) : elle peut etre annulee comme acte a titre gratuit ou acte suspect
+- Si la fiducie est constituee pendant la [[nullites-periode-suspecte|periode suspecte]] (art. L632-1, L632-2) : elle peut etre annulee comme acte a titre gratuit ou acte suspect
 - Si la fiducie est frauduleuse (actio pauliana) : nullite
 - En pratique : la fiducie constituee bien avant la cessation de paiements est solide
 
@@ -319,7 +319,7 @@ Le credit-bail (art. L313-7+ CMF) n'est pas juridiquement une surete mais un con
 
 ### 6.2 Sort du contrat en procedure (art. L622-13 C. com.)
 
-**Principe** : le contrat de credit-bail est un contrat en cours. L'ouverture de la procedure ne peut pas, a elle seule, entrainer sa resiliation (art. L622-13, I).
+**Principe** : le contrat de credit-bail est un contrat en cours. L'ouverture de la procedure ne peut pas, a elle seule, entrainer sa resiliation (art. [[contrats-baux-en-procedure|L622-13]], I).
 
 **Pouvoirs de l'administrateur** :
 - L'administrateur peut **exiger la continuation** du contrat (art. L622-13, II) : il doit alors payer les loyers echus apres le jugement d'ouverture (creances posterieures privilegiees, art. L622-17)
@@ -555,7 +555,7 @@ En plan de cession, le repreneur fait face aux creanciers titulaires de suretes.
 - Fiducie-surete (bien hors patrimoine)
 - Reserve de propriete (bien pas dans le patrimoine du debiteur)
 - Credit-bail (propriete du credit-bailleur) — mais le contrat est cede forcement
-- Obligations de police administrative (ICPE, environnement)
+- Obligations de police administrative ([[passif-environnemental|ICPE]], environnement)
 
 ### 12.4 Checklist suretes pour le repreneur (DD)
 
@@ -571,3 +571,15 @@ En plan de cession, le repreneur fait face aux creanciers titulaires de suretes.
 - [ ] Analyser les declarations de creances pour identifier les creanciers garantis et leur rang
 - [ ] Estimer la quote-part du prix de cession affectee a chaque bien greve
 - [ ] Verifier la validite formelle des suretes (risque de nullite = argument de negociation)
+
+## Voir aussi
+
+- [[liquidation-judiciaire]] -- Liquidation judiciaire
+- [[redressement-judiciaire]] -- Redressement judiciaire
+- [[sauvegarde]] -- Sauvegarde
+- [[plans-de-cession]] -- Plans de cession judiciaire
+- [[rang-des-creances]] -- Rang des creances
+- [[contrats-baux-en-procedure]] -- Sort des contrats et baux
+- [[nullites-periode-suspecte]] -- Nullites de la periode suspecte
+- [[passif-environnemental]] -- Passif environnemental
+- [[due-diligence-distressed]] -- Due diligence distressed

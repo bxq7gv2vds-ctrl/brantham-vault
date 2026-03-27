@@ -355,3 +355,16 @@ A integrer dans le business plan de reprise.
 - BASIAS/SIS : https://www.georisques.gouv.fr/
 - CNAJMJ — Regime d'assurance des mandataires de justice
 - AMRAE — Association pour le Management des Risques et des Assurances de l'Entreprise
+
+---
+
+## Voir aussi
+
+- [[due-diligence-distressed]] — Checklist assurances dans la phase DD
+- [[valorisation-distressed]] — Integration du cout des assurances dans la valorisation
+- [[structuration-offres-reprise]] — Prevoir les mecanismes de couverture dans l'offre
+- [[passif-environnemental]] — Risque environnemental et assurance PLL
+- [[post-closing-execution]] — Souscription des polices post-cession
+- [[sanctions-dirigeants]] — Responsabilite des dirigeants et D&O
+- [[plans-de-cession]] — Purge du passif et alternatives a la GAP
+- [[ecosysteme-restructuring]] — Courtiers W&I et assureurs specialises

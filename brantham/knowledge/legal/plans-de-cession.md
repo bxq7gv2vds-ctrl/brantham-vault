@@ -44,11 +44,11 @@ Le plan de cession peut etre **total** (ensemble de l'entreprise) ou **partiel**
 
 ### 2.1 En redressement judiciaire (RJ)
 
-Le plan de cession est envisage quand le **plan de continuation** (redressement par le debiteur lui-meme) apparait impossible ou non credible. L'administrateur judiciaire prepare un bilan economique et social et, si le redressement par continuation n'est pas viable, sollicite des offres de reprise.
+Le plan de cession est envisage quand le **[[plans-de-continuation|plan de continuation]]** (redressement par le debiteur lui-meme) apparait impossible ou non credible. L'administrateur judiciaire prepare un bilan economique et social et, si le redressement par continuation n'est pas viable, sollicite des offres de reprise.
 
 **Base legale** : L631-22 renvoie aux articles L642-1 et suivants.
 
-Le tribunal peut arreter un plan de cession des lors qu'au moins une offre serieuse existe. En l'absence de toute offre, le tribunal ne peut pas imposer de cession et doit soit arreter un plan de continuation, soit convertir en liquidation judiciaire.
+Le tribunal peut arreter un plan de cession des lors qu'au moins une offre serieuse existe. En l'absence de toute offre, le tribunal ne peut pas imposer de cession et doit soit arreter un plan de continuation, soit convertir en [[liquidation-judiciaire|liquidation judiciaire]].
 
 ### 2.2 En liquidation judiciaire (LJ)
 
@@ -60,7 +60,7 @@ Le plan de cession est possible meme directement en liquidation judiciaire, et c
 
 ### 2.3 Cession en sauvegarde
 
-En principe, la sauvegarde ne permet pas de plan de cession (la sauvegarde vise le maintien de l'entreprise entre les mains du debiteur). Toutefois, en cas de conversion de la sauvegarde en RJ ou LJ, le plan de cession redevient possible.
+En principe, la [[sauvegarde|sauvegarde]] ne permet pas de plan de cession (la sauvegarde vise le maintien de l'entreprise entre les mains du debiteur). Toutefois, en cas de conversion de la sauvegarde en RJ ou LJ, le plan de cession redevient possible.
 
 **Exception** : l'article L626-1 al. 2 permet une cession partielle dans le cadre d'un plan de sauvegarde, mais uniquement a titre accessoire et pour des branches non essentielles.
 
@@ -74,19 +74,19 @@ L'offre doit etre **ecrite** et contenir les elements suivants :
 
 | Element | Detail |
 |---------|--------|
-| **Perimetre** | Designation precise des biens, droits et contrats inclus dans l'offre (actifs corporels, incorporels, contrats de travail, baux, contrats fournisseurs) |
+| **Perimetre** | Designation precise des biens, droits et contrats inclus dans l'offre (actifs corporels, incorporels, [[droit-social-restructuration|contrats de travail]], baux, contrats fournisseurs) |
 | **Prix de cession** | Montant offert, modalites de reglement (comptant ou echelonne), qualite des apporteurs de capitaux et, le cas echeant, de leurs garants |
 | **Financement** | Previsions d'activite et de financement. Si recours a l'emprunt : conditions, notamment duree |
 | **Date de realisation** | Calendrier precis de la prise de possession |
 | **Emploi** | Niveau et perspectives d'emploi justifies par l'activite consideree. Categories professionnelles, nombre de postes maintenus, postes supprimes |
-| **Garanties d'execution** | Suretes souscrites pour assurer l'execution de l'offre (caution bancaire, garantie a premiere demande, cheque de banque) |
+| **Garanties d'execution** | [[suretes-en-procedure-collective|Suretes]] souscrites pour assurer l'execution de l'offre (caution bancaire, garantie a premiere demande, cheque de banque) |
 | **Previsions de cession d'actifs** | Actifs que le repreneur prevoit de ceder dans les 2 ans suivant la reprise |
 | **Duree des engagements** | Duree de chacun des engagements pris par l'auteur de l'offre |
 | **Projet industriel/commercial** | Business plan chiffre sur 2-3 ans demontrant la viabilite du projet |
 
 ### 3.2 Elements complementaires
 
-- **Modalites environnementales** : financement des obligations liees aux articles L516-1 et L516-2 du Code de l'environnement (sites pollues, ICPE)
+- **Modalites environnementales** : financement des obligations liees aux articles L516-1 et L516-2 du Code de l'environnement ([[passif-environnemental|sites pollues]], ICPE)
 - **Qualification professionnelle** : obligatoire si le debiteur exerce une profession liberale reglementee
 - **Ventilation du prix** : par categorie d'actifs si pertinent
 
@@ -102,7 +102,7 @@ L'offre doit etre **ecrite** et contenir les elements suivants :
 ### 3.4 Caractere juridique de l'offre
 
 - **Irrevocabilite** : l'offre lie son auteur des sa reception par l'administrateur/liquidateur, jusqu'au jugement arretant le plan
-- **Intangibilite** : modifications possibles uniquement dans un sens plus favorable, au plus tard **2 jours ouvrables avant l'audience**. Toute modification apres est irrecevable
+- **Intangibilite** : modifications possibles uniquement dans un sens plus favorable, au plus tard **2 jours ouvrables avant l'[[audience-tribunal|audience]]**. Toute modification apres est irrecevable
 - **Caractere forfaitaire** : le repreneur s'engage sur un ensemble global (actifs + droits + emplois + obligations)
 - **Conditions suspensives** : autorisees (autorisation administrative, non-concurrence, etc.) mais leur multiplication affaiblit le serieux percu de l'offre
 
@@ -237,7 +237,7 @@ Le tribunal retient l'offre qui assure le mieux, dans les meilleures conditions 
 
 ### 6.2 Difference RJ vs LJ
 
-| | Redressement judiciaire | Liquidation judiciaire |
+| | [[redressement-judiciaire|Redressement judiciaire]] | Liquidation judiciaire |
 |---|---|---|
 | **Critere dominant** | Emploi + perennite | Desinteressement creanciers (prix) |
 | **Le plus offrant gagne ?** | Non necessairement | Plus souvent, mais pas systematiquement |
@@ -297,7 +297,7 @@ A ne pas confondre avec la cession d'actifs isoles en LJ (L642-18 et suivants), 
 ### 8.3 Sort des suretes
 
 - Les suretes reelles se reportent sur le prix de cession (et non sur les actifs entre les mains du cessionnaire)
-- Les creanciers beneficiant de suretes speciales sont payes par preference sur le prix de cession, dans l'ordre de leurs rangs
+- Les [[rang-des-creances|creanciers beneficiant de suretes speciales sont payes par preference sur le prix de cession, dans l'ordre de leurs rang]]s
 - Le cessionnaire ne supporte pas le poids des suretes anterieures une fois le prix paye
 
 ### 8.4 Non-liberation des cautions
@@ -386,7 +386,7 @@ Les contrats non designes dans le jugement sont **resilies de plein droit**. Le 
 
 ### 11.1 Cession forcee du bail
 
-Dans le cadre d'un plan de cession, le bail commercial est cede au repreneur par decision du tribunal. C'est une **cession judiciaire forcee** qui deroge au droit commun des baux.
+Dans le cadre d'un plan de cession, le [[contrats-baux-en-procedure|bail commercial]] est cede au repreneur par decision du tribunal. C'est une **cession judiciaire forcee** qui deroge au droit commun des baux.
 
 ### 11.2 Clauses rendues inopposables
 
@@ -507,7 +507,7 @@ Un candidat peut ameliorer son offre **jusqu'a 2 jours ouvrables avant l'audienc
 
 ### 15.2 Apres le jugement
 
-**La surenchere est IMPOSSIBLE apres le jugement arretant le plan de cession.** Le processus est clos. Aucun tiers ne peut venir proposer un prix superieur une fois le tribunal prononce.
+**La [[encheres-surencheres|surenchere]] est IMPOSSIBLE apres le jugement arretant le plan de cession.** Le processus est clos. Aucun tiers ne peut venir proposer un prix superieur une fois le tribunal prononce.
 
 **Exception specifique** : lorsque la cession inclut un fonds de commerce, la surenchere du 6e est exclue (L642-7). Le regime de droit commun de la surenchere en matiere de vente de fonds de commerce ne s'applique pas.
 
@@ -704,3 +704,16 @@ Suivi execution par liquidateur
   - Reporting cessionnaire
   - Inexecution → resolution possible
 ```
+
+## Voir aussi
+
+- [[redressement-judiciaire]] -- Redressement judiciaire
+- [[liquidation-judiciaire]] -- Liquidation judiciaire
+- [[plans-de-continuation]] -- Plans de continuation
+- [[contrats-baux-en-procedure]] -- Sort des contrats et baux
+- [[droit-social-restructuration]] -- Droit social en restructuration
+- [[rang-des-creances]] -- Rang des creances
+- [[suretes-en-procedure-collective]] -- Suretes en procedure collective
+- [[audience-tribunal]] -- Audience au tribunal
+- [[due-diligence-distressed]] -- Due diligence distressed
+- [[passif-environnemental]] -- Passif environnemental
