@@ -30,6 +30,7 @@ Single source of truth for all Brantham Partners knowledge.
 | [[founder/todo]] | TODO persistant (P0/P1/P2/Inbox) |
 | [[founder/daily]] | Plans du jour + KPIs |
 | [[remember]] | Session remembers (ce qui a ete fait/installe/configure) |
+| [[_system/wikilinks-convention]] | Convention wikilinks Obsidian (regles de linking) |
 
 ## Brantham Sub-Systems
 

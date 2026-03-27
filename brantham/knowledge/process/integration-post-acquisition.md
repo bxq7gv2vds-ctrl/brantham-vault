@@ -51,7 +51,7 @@ L'integration d'une entreprise reprise en procedure collective differe radicalem
 
 ### 1.2 Contraintes specifiques
 
-- **Cadre judiciaire** : le repreneur est lie par les engagements de son offre (emploi, activite, investissements) sous peine de resolution du plan.
+- **Cadre judiciaire** : le repreneur est lie par les engagements de son offre (emploi, activite, investissements) sous peine de [[post-closing-execution|resolution du plan]].
 - **Surveillance** : le liquidateur/commissaire a l'execution du plan surveille le respect des engagements.
 - **BFR negatif** : l'entreprise est en general videe de sa tresorerie, les stocks sont bas, les clients ont annule des commandes, les fournisseurs exigent du comptant.
 - **Perte de savoir-faire** : les salaries cles ont parfois quitte l'entreprise pendant la procedure.
@@ -59,7 +59,7 @@ L'integration d'une entreprise reprise en procedure collective differe radicalem
 
 ### 1.3 Avantages du distressed
 
-- **Achat libre de dettes** : pas de passif repris (hors suretes speciales L642-12).
+- **Achat libre de dettes** : pas de passif repris (hors [[suretes-en-procedure-collective|suretes speciales]] L642-12).
 - **Prix bas** : decote importante par rapport a la valeur a la casse.
 - **Base de restructuration** : possibilite de repartir sur des bases saines (nouveau bail, nouvelle organisation, equipe choisie).
 - **Motivation** : les salaries repris sont souvent reconnaissants et prets a s'investir si le repreneur communique bien.
