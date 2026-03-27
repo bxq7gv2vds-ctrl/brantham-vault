@@ -112,7 +112,7 @@ Le BATNA (Best Alternative To a Negotiated Agreement) est critique en distressed
 
 ### Conversion en equity
 - Outil puissant mais rare en PME : les creanciers deviennent actionnaires
-- Depuis la reforme 2021 (transposition directive EU) : les classes de parties affectees permettent d'imposer une conversion a certaines conditions (cross-class cram-down)
+- Depuis la reforme 2021 (transposition [[droit-europeen-insolvabilite|directive EU]]) : les classes de parties affectees permettent d'imposer une conversion a certaines conditions (cross-class cram-down)
 - Utile avec les banques qui ont deja une exposition importante et prefere un upside equity qu'une perte seche
 
 ### Tactiques de negociation avec les creanciers

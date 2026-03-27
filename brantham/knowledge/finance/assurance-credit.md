@@ -391,14 +391,14 @@ En tant que repreneur potentiel, les signaux d'assurance-credit sont des indicat
 
 ### 6.1 Ouverture de procedure et contrat d'assurance-credit
 
-**Sauvegarde / Redressement judiciaire** :
+**[[sauvegarde|Sauvegarde]] / [[redressement-judiciaire|Redressement judiciaire]]** :
 - Le contrat d'assurance-credit n'est pas automatiquement resilie par l'ouverture de la procedure
 - Mais l'assureur peut invoquer les clauses de resiliation prevues au contrat
 - En pratique, l'assureur gele systematiquement les couvertures sur l'entreprise en procedure
 - Les couvertures sur l'entreprise en tant que debiteur sont retirees immediatement par tous les assureurs
 - Impact : les fournisseurs de l'entreprise perdent leur couverture -> passage au comptant ou cessation des approvisionnements
 
-**Liquidation judiciaire** :
+**[[liquidation-judiciaire|Liquidation judiciaire]]** :
 - Le contrat est generalement resilie de plein droit (clauses contractuelles)
 - Le liquidateur peut tenter de le maintenir s'il poursuit l'activite temporairement (art. L.641-10 C.com)
 - En pratique, aucun assureur ne maintient de couverture en LJ
