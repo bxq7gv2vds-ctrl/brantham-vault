@@ -395,3 +395,16 @@ La France est **le pays le plus touche en volume absolu** en Europe. Cela s'expl
 ---
 
 *Fiche compilee a partir de sources publiques (Altares, Banque de France, EY, Allianz Trade, Coface, BPCE, IFRAP, CPME, DAF-mag, LegiFiscal). Mars 2026.*
+
+## Voir aussi
+
+- [[retail-commerce]] — Playbook sectoriel commerce (20% des defaillances)
+- [[btp-construction]] — Playbook sectoriel BTP (21% des defaillances)
+- [[restauration-hotellerie]] — Playbook sectoriel CHR (13% des defaillances)
+- [[industrie-manufacturiere]] — Playbook sectoriel industrie
+- [[tech-startups]] — Playbook sectoriel tech et startups
+- [[cas-emblematiques-france]] — Etudes de cas des defaillances majeures
+- [[cas-orpea-emeis]] — Cas Orpea/Emeis, plus grande restructuration francaise
+- [[cas-casino-groupe]] — Cas Casino, effondrement d'un empire pyramidal
+- [[ecosysteme-restructuring]] — Acteurs de l'ecosysteme restructuring
+- [[quick-scan-diagnostic]] — Diagnostic flash pour evaluer les opportunites
