@@ -83,6 +83,8 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 
 - [[brantham/knowledge/finance/valorisation-distressed]] — Valorisation distressed exhaustif: 4 methodes, EBITDA normalise, 13-week CF, BP retournement, multiples sectoriels, scoring deals
 - [[brantham/knowledge/finance/restructuration-dette]] — Restructuration de dette et financement en crise: standstill/waiver/A&E/DES/haircut/buyback/NPL, new money L611-11/bridge/DIP/BPI/affacturage/sale-leaseback, LBO distressed, cash management 13WCF, BP retournement, 6 suretes, application Brantham
+- [[brantham/knowledge/finance/fiscalite-restructuration]] — Fiscalite restructuration et procedures collectives: report deficits (209-I, 220 quinquies), changement controle/agrement, abandons creances (commercial/financier), TVA en procedure, plus-values (238 quindecies, 151 septies), regime faveur fusions (210 A), integration fiscale (223 A+), CIR/CII, asset deal vs share deal, checklist fiscale repreneur
+- [[brantham/knowledge/finance/comptabilite-crise]] — Comptabilite entreprises en difficulte: continuite exploitation (PCG/IAS 1), NEP 570, rapport CAC, procedure alerte (L234-1), comptes en procedure, provisions/depreciation (IAS 36/37), ecritures LJ, PCG vs IFRS distressed, engagements hors-bilan, role CAC/EC, red flags comptables, ajustements valorisation
 
 ## Knowledge Base — Acteurs
 
