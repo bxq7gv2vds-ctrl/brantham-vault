@@ -181,7 +181,7 @@ Les fournisseurs sont les plus nerveux : ils ont souvent des impayes et craignen
 
 ## 7. Communication institutionnelle
 
-### Tribunal de commerce
+### [[audience-tribunal|Tribunal de commerce]]
 - Communiquer via le dossier formel (offre, memoires, pieces justificatives)
 - Credibilite = dossier complet, coherent, realiste
 - Presenter en audience avec assurance mais humilite

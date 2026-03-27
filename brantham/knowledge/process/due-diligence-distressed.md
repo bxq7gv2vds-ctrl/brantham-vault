@@ -48,8 +48,8 @@ Guide operationnel pour la due diligence dans le contexte des reprises d'entrepr
 
 | M&A classique | Distressed M&A |
 |---|---|
-| Valorisation par multiples, DCF | Valeur de liquidation, actif net reel |
-| EBITDA normalise | **Cash burn rate** et tresorerie 13 semaines |
+| [[valorisation-distressed|Valorisation]] par multiples, DCF | Valeur de liquidation, actif net reel |
+| EBITDA normalise | **Cash burn rate** et tresorerie [[financial-modeling-distressed|13 semaines]] |
 | Synergies et croissance | **Survie operationnelle** et retournement |
 | GAP + earn-out | Pas de garanties, prix ferme |
 | DD 8-12 semaines | DD 2-4 semaines max |
@@ -66,7 +66,7 @@ Guide operationnel pour la due diligence dans le contexte des reprises d'entrepr
 
 #### Tresorerie et Cash Flow (PRIORITE N.1)
 
-- [ ] **13-Week Cash Flow (TWCF)** : construire un previsionnel de tresorerie semaine par semaine sur 13 semaines. C'est l'outil #1 en distressed.
+- [ ] **[[financial-modeling-distressed|13-Week Cash Flow (TWCF)]]** : construire un previsionnel de tresorerie semaine par semaine sur 13 semaines. C'est l'outil #1 en distressed.
   - Recettes : encaissements clients realistes (pas le CA facture)
   - Depenses : charges fixes incompressibles, fournisseurs critiques, salaires, charges sociales
   - Besoin de financement du retournement (le repreneur finance tout)
