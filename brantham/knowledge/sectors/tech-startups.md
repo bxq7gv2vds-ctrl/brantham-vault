@@ -250,3 +250,15 @@ L'acqui-hire est la forme de M&A la plus frequente pour les startups en difficul
 ---
 
 *Fiche compilee a partir de sources publiques (ScaleX Invest, BdF, FrenchWeb, Actify, Caption Market) et experience terrain. Usage interne Brantham Partners.*
+
+## Voir aussi
+
+- [[pi-actifs-incorporels-distressed]] — Valorisation brevets, code source, donnees
+- [[stats-defaillances-2025]] — Contexte macro (+40% defaillances tech)
+- [[valorisation-distressed]] — Multiples ARR et methodes distressed
+- [[due-diligence-distressed]] — Checklist DD tech (code, PI, RGPD)
+- [[liquidation-judiciaire]] — LJ directe (70% des startups en difficulte)
+- [[plans-de-cession]] — Cession de fonds de commerce tech
+- [[financial-modeling-distressed]] — Modelisation SaaS distressed
+- [[quick-scan-diagnostic]] — Diagnostic flash tech
+- [[ecosysteme-restructuring]] — Fonds de retournement actifs en tech
