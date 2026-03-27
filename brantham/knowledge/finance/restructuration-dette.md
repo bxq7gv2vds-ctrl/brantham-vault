@@ -108,7 +108,7 @@ Ce document couvre l'ensemble des techniques de restructuration financiere utili
 **Processus en France** :
 1. Diagnostic financier independant (IBR - Independent Business Review) commande par les banques
 2. Business plan a 5 ans avec scenarios base/downside
-3. 13-week cash flow pour valider la liquidite court terme
+3. [[financial-modeling-distressed|13-week cash flow]] pour valider la liquidite court terme
 4. Negociation du term sheet amende
 5. Redaction des documents definitifs par les conseils juridiques
 6. Signature et mise en oeuvre

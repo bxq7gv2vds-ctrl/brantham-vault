@@ -241,3 +241,15 @@ La VEFA est le mode de vente dominant dans la promotion immobiliere neuve. En ca
 ---
 
 *Fiche compilee a partir de sources publiques (DVF, notaires, Altares, diagnostiqueurs) et experience terrain. Usage interne Brantham Partners.*
+
+## Voir aussi
+
+- [[btp-construction]] — Playbook sectoriel BTP (promoteurs et constructeurs)
+- [[stats-defaillances-2025]] — Contexte macro (+29% defaillances immobilier)
+- [[suretes-en-procedure-collective]] — Hypotheques et privileges en procedure
+- [[rang-des-creances]] — Ordre de priorite des creanciers hypothecaires
+- [[nullites-periode-suspecte]] — Nullites des hypotheques en periode suspecte
+- [[valorisation-distressed]] — Methodes de valorisation immobiliere distressed
+- [[passif-environnemental]] — Diagnostic sols et pollution
+- [[due-diligence-distressed]] — Checklist DD immobiliere
+- [[fiscalite-restructuration]] — TVA immobiliere et droits de mutation

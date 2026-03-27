@@ -63,7 +63,7 @@ sources:
 
 ### ICPE (Installations Classees pour la Protection de l'Environnement)
 
-Les sites industriels sont souvent classes ICPE. C'est le **risque n.1** du secteur.
+Les sites industriels sont souvent classes ICPE. C'est le **risque n.1** du secteur (voir [[passif-environnemental]]).
 
 | Regime | Seuil | Obligation |
 |---|---|---|
