@@ -75,6 +75,8 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 - [[brantham/knowledge/process/structuration-offres-reprise]] — Structuration offres de reprise (L642-2): 9 mentions obligatoires, strategie redaction, prix vs emploi, garanties, checklist pre-depot, erreurs courantes
 - [[brantham/knowledge/process/encheres-surencheres]] — Encheres et surencheres: regime encheres LJ, surenchere 10%/10j, differences RJ vs LJ, strategies d'offres, jurisprudence, plateformes veille
 - [[brantham/knowledge/process/audience-tribunal]] — Audience de cession tribunal: deroulement, roles (AJ/MJ/procureur/CSE), presentation orale, criteres L642-5, voies de recours, conseils praticiens
+- [[brantham/knowledge/process/post-closing-execution]] — Post-closing et execution du plan de cession: effets jugement, purge suretes, transfert contrats/salaries, paiement prix, commissaire execution, modification plan, inexecution/resolution, substitution repreneur, risques post-closing, checklist J+1 a J+90
+- [[brantham/knowledge/process/integration-post-acquisition]] — Integration post-acquisition distressed: specificites vs M&A classique, plan 100 jours (4 phases), stabilisation tresorerie/fournisseurs/clients, volet RH/CSE, quick wins, erreurs classiques, KPIs suivi, cas pratiques, template plan integration Brantham
 
 ## Knowledge Base — Finance
 

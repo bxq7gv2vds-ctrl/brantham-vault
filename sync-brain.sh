@@ -31,6 +31,12 @@ fswatch -0 \
     MSG="vault: sync ${COUNT} file(s) — ${TIMESTAMP}"
 
     if git commit -m "$MSG" --no-gpg-sign 2>&1; then
+        # Pull remote changes first to avoid rejection
+        git pull --rebase origin main 2>&1 || {
+            echo "[${TIMESTAMP}] ERROR: pull --rebase failed, aborting rebase"
+            git rebase --abort 2>/dev/null
+            continue
+        }
         if git push origin main 2>&1; then
             echo "[${TIMESTAMP}] Pushed ${COUNT} file(s)"
         else
