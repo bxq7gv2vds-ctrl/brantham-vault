@@ -370,7 +370,7 @@ La restructuration de Casino en 2023-2024 intervient alors que les holdings Rall
 ### Veille et scoring
 
 - **Pattern "holding pyramidale"** : scorer automatiquement les entreprises controlees via des cascades de holdings comme a risque eleve
-- **Indicateur avance** : la decote des obligations sur le marche secondaire precede souvent de 12-18 mois la procedure formelle
+- **Indicateur avance** : la decote des obligations sur le [[restructuration-dette|marche secondaire]] precede souvent de 12-18 mois la procedure formelle
 - **Cessions en cascade** : quand un grand groupe cede des actifs pour desendetter, les filiales cedees sont des opportunites pour des repreneurs PME
 
 ### Positionnement Brantham

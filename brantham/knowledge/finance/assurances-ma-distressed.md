@@ -321,7 +321,7 @@ Obligatoire avant toute reprise de site industriel :
 - [ ] Estimer le cout des assurances post-reprise
 
 **Phase offre** :
-- [ ] Integrer le cout des assurances dans la valorisation
+- [ ] Integrer le cout des assurances dans la [[valorisation-distressed|valorisation]]
 - [ ] Prevoir un mecanisme de couverture du passif cache (escrow, retention, W&I si applicable)
 - [ ] Budgeter la D&O pour les nouveaux dirigeants
 
