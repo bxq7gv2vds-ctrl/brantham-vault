@@ -214,6 +214,44 @@ ACTION REQUISE (si GO) :
 
 ---
 
+## Étape FINALE — Écrire le fichier output (OBLIGATOIRE)
+
+**Cette étape ne peut pas être sautée. Sans ce fichier, le run n'est pas comptabilisé.**
+
+```bash
+OUTPUT_DIR=/Users/paul/vault/brantham/cowork-outputs
+TIMESTAMP=$(date +%Y-%m-%d-%H%M)
+OUTPUT_FILE=$OUTPUT_DIR/sourcing-$TIMESTAMP.json
+
+python3 -c "
+import json, sys
+output = {
+  'agent': 'sourcing',
+  'run_id': 'sourcing-$TIMESTAMP',
+  'timestamp': '$(date -u +%Y-%m-%dT%H:%M:%SZ)',
+  'status': 'success',
+  'summary': '[N] sites scrapés, [N] GO, [N] WATCH',
+  'data': {
+    'sites_scraped': 0,
+    'new_opportunities': 0,
+    'go': [],
+    'watch': [],
+    'pass': 0,
+    'urgent_alerts': []
+  },
+  'actions_taken': [],
+  'pending_for_human': [],
+  'triggered_next': ['deal-analysis si deals GO'],
+  'errors': []
+}
+print(json.dumps(output, indent=2, ensure_ascii=False))
+" > \$OUTPUT_FILE
+
+echo "Output écrit : \$OUTPUT_FILE"
+```
+
+Remplir le JSON avec les vraies données du run (deals GO/WATCH/PASS réels, alertes réelles).
+
 ## Ce que tu NE fais PAS
 
 - Tu n'analyses pas les deals (c'est Analyst / Deal Analysis)
