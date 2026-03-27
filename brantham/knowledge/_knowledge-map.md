@@ -101,10 +101,10 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 
 ## Stats
 
-- **Couvert**: 30 sujets (3 procedures + valorisation + contrats/baux + ecosysteme acteurs + rang creances/privileges/AGS/new money/declaration passif/classes parties affectees + restructuration dette complète: standstill/waiver/A&E/DES/haircut/buyback/NPL + financement crise: new money/bridge/DIP/BPI/affacturage/sale-leaseback + LBO distressed + garanties/suretes + 13WCF + BP retournement)
+- **Couvert**: 36 sujets (5 procedures + mandat ad hoc/conciliation/pre-pack + plans de cession + nullites periode suspecte + due diligence distressed + valorisation + contrats/baux + ecosysteme acteurs + rang creances/privileges/AGS/new money/declaration passif/classes parties affectees + restructuration dette complete + financement crise + LBO distressed + garanties/suretes + 13WCF + BP retournement + glossaire)
 - **Partiel**: 2 fiches
-- **A faire**: ~13 sujets
-- **Priorite suivante**: Mandat ad hoc, Conciliation, Plans de cession, Due diligence distressed, Banques cellules restructuring
+- **A faire**: ~9 sujets
+- **Priorite suivante**: Sanctions dirigeants (insuffisance d'actif/faillite personnelle/banqueroute), Sauvegarde acceleree (SA/SFA), LJ simplifiee, Plans de continuation, Structuration offres de reprise
 
 ## Historique d'apprentissage
 
@@ -117,3 +117,8 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | 2026-03-26 | creation | Ecosysteme restructuring France (AJ, MJ, TCS, CIRI/CRP/CODEFI, mediateurs, fonds distressed, avocats, ARE, managers transition) |
 | 2026-03-26 | creation | Rang des creances (exhaustif: 15 rangs L643-8, super-privilege salaries, AGS plafonds/mecanisme, new money L611-11, post-money L622-17/L626-10, Tresor/URSSAF, hypotheques/nantissements, chirographaires, declaration/verification passif, classes parties affectees, cram-down, application repreneur) |
 | 2026-03-26 | creation | Restructuration de dette et financement en crise (exhaustif: 7 techniques restructuration dette, 6 outils financement crise, LBO distressed complet, cash management 13WCF, BP retournement, 6 types de suretes, application Brantham scoring/red flags/schema acquisition) |
+| 2026-03-26 | creation | Mandat ad hoc et conciliation (L611-3 a L611-15, pre-pack cession L611-7, privilege new money, stats CNAJMJ 2025) |
+| 2026-03-26 | creation | Nullites de la periode suspecte (L632-1/L632-2, nullites de droit vs facultatives, prescription, responsabilite dirigeants, application DD) |
+| 2026-03-26 | creation | Plans de cession judiciaire (L642-1+, redaction offre, criteres tribunal, audience, execution, baux, contrats, surenchere) |
+| 2026-03-26 | creation | Due diligence distressed (guide operationnel: contraintes temps, data room limitee, checklist par domaine, red flags, scoring) |
+| 2026-03-27 | sync | Knowledge map synchronisee — 4 fichiers crees le 26/03 reportes dans le map |
