@@ -12,11 +12,11 @@
 
 ## Liens directs
 
-- [[../../analyses/bma-multi-loisirs-distribution-mld]]
-- [[../../analyses/bma-artemis]]
-- [[../../analyses/aj2m-gab-france-retail-scotch-soda]]
-- [[../../analyses/aj2m-d-l-commerce-appel-d-offres]]
-- [[../../analyses/aj2m-restauration-collective-100-bio-durable]]
+- [[brantham/analyses/bma-multi-loisirs-distribution-mld]]
+- [[brantham/analyses/bma-artemis]]
+- [[brantham/analyses/aj2m-gab-france-retail-scotch-soda]]
+- [[brantham/analyses/aj2m-d-l-commerce-appel-d-offres]]
+- [[brantham/analyses/aj2m-restauration-collective-100-bio-durable]]
 
 ## Statistiques
 
@@ -27,9 +27,10 @@
 
 ## Voir aussi
 
-- [[README]] — Role et responsabilites Analyst
-- [[IDENTITY]] — Instructions operationnelles
-- [[../_shared/BRAIN]] — Etat global du systeme
+- [[brantham/agents/analyst/README]] — Role et responsabilites Analyst
+- [[brantham/agents/analyst/IDENTITY]] — Instructions operationnelles
+- [[brantham/agents/_shared/BRAIN]] — Etat global du systeme
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/agents/_shared/PIPELINE]]

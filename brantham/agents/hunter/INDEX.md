@@ -8,11 +8,11 @@
 
 ## Lien direct
 
-- [[../../deals/active/alphosa-buyers]] _(si existe)_
+- [[brantham/deals/active/alphosa-buyers]]
 
 ## Deal en cours
 
-- [[../../deals/active/bma-multi-loisirs-distribution-mld]] — en attente lancement Hunter (priorite haute)
+- [[brantham/deals/active/mld-multi-loisirs-distribution]] — pret pour HUNTER — priorite haute
 
 ## Statistiques
 
@@ -22,9 +22,10 @@
 
 ## Voir aussi
 
-- [[README]] — Role et responsabilites Hunter
-- [[IDENTITY]] — Instructions operationnelles
-- [[../_shared/BRAIN]] — Etat global du systeme
+- [[brantham/agents/hunter/README]] — Role et responsabilites Hunter
+- [[brantham/agents/hunter/IDENTITY]] — Instructions operationnelles
+- [[brantham/agents/_shared/BRAIN]] — Etat global du systeme
 
 ## Related
 - [[brantham/_MOC]]
+- [[brantham/agents/_shared/PIPELINE]]
