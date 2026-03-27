@@ -12,15 +12,19 @@ updated: 2026-03-27
 
 ```
 07h00  → 01-sourcing.md          (scan AJ + BODACC matin)
-07h30  → 05-morning-brief.md     (agrège tout, plan du jour Paul + Soren)
-09h00  → 02-pipeline-check.md    (surveillance deadlines, alertes)
-10h00  → 03-deal-analysis.md     (analyse deals detecte → analysé)
-11h00  → 04-buyer-hunt.md        (sourcing acheteurs analysé → acheteurs_identifiés)
+07h15  → 05-morning-brief.md     (brief Paul + Soren — plan du jour)
+08h00  → 02-pipeline-check.md    (alertes deadlines, état pipeline)
+08h30  → 03-deal-analysis.md     (analyse deals detecte → analysé)
+09h00  → 04-buyer-hunt.md        (sourcing acheteurs → acheteurs_identifiés)
+09h30  → 07-contact-enricher.md  (enrichissement contacts → prêt outreach)
+
 12h00  → 01-sourcing.md          (scan midi)
-14h00  → 04-buyer-hunt.md        (2ème run buyer hunt)
-15h00  → 03-deal-analysis.md     (2ème run analyse)
-16h00  → 07-contact-enricher.md  (enrichissement contacts → prêt outreach)
-17h00  → 02-pipeline-check.md    (bilan soir)
+
+14h00  → 04-buyer-hunt.md        (2ème run si nouveaux deals analysés)
+15h00  → 03-deal-analysis.md     (2ème run si nouveaux deals détectés)
+16h00  → 07-contact-enricher.md  (2ème run si nouveaux acheteurs)
+17h00  → 02-pipeline-check.md    (bilan fin de journée)
+
 19h30  → 01-sourcing.md          (scan soir)
 ```
 
