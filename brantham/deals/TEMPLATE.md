@@ -52,9 +52,9 @@ Raison (1-2 phrases) :
 
 ## Artefacts
 
-- Analyse : `[[../analyses/[slug]]]`
-- Teaser : `[[../teasers/TEASER_[slug]]]`
-- Acquereurs : `[[../acheteurs/BUYERS_[slug]]]`
+- Analyse : `[[brantham/analyses/[slug]]]`
+- Teaser : `[[brantham/teasers/[slug]-teaser]]`
+- Acquereurs : `[[brantham/deals/active/[slug]-buyers]]`
 
 ---
 
