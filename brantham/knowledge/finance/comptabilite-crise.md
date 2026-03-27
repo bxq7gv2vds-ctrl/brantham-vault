@@ -697,3 +697,17 @@ Lors de l'analyse des comptes pour valoriser une cible en difficulte, les ajuste
 | Nullites periode suspecte | Art. L632-1, L632-2 C. com. | Code de commerce |
 | Expert-comptable deontologie | Art. 155 code deontologie OEC | Decret 2012-432 |
 | CAC faits delictueux | Art. L820-7 C. com. | Code de commerce |
+
+---
+
+## Voir aussi
+
+- [[valorisation-distressed]] — Valeur liquidative vs going concern dans la valorisation
+- [[due-diligence-distressed]] — Fiabilite des comptes et DD financiere
+- [[fiscalite-restructuration]] — Traitement fiscal des provisions et depreciations
+- [[liquidation-judiciaire]] — Comptes de liquidation et cloture
+- [[redressement-judiciaire]] — Comptes en periode d'observation
+- [[nullites-periode-suspecte]] — Ecritures comptables de la periode suspecte
+- [[ecosysteme-restructuring]] — Role de l'expert-comptable et du CAC
+- [[financial-modeling-distressed]] — Modelisation et projections en distressed
+- [[glossaire-distressed]] — Terminologie M&A distressed

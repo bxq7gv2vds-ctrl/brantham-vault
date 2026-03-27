@@ -1089,3 +1089,18 @@ Un reporting hebdomadaire de 2 pages max est envoye au comite de pilotage :
 | TWCF | Thirteen-Week Cash Flow |
 | Waiver | Renonciation du creancier a invoquer un event of default |
 | Waterfall | Cascade de distribution du prix entre creanciers par rang |
+
+---
+
+## Voir aussi
+
+- [[valorisation-distressed]] — Methodes de valorisation et decotes par procedure
+- [[mandat-ad-hoc-conciliation]] — Procedures amiables et privilege new money
+- [[rang-des-creances]] — Ordre de priorite et suretes en procedure
+- [[financial-modeling-distressed]] — Waterfall analysis et recovery rates
+- [[plans-de-cession]] — Cadre legal de la cession d'entreprise
+- [[fiscalite-restructuration]] — Traitement fiscal des abandons de creances et conversions
+- [[suretes-en-procedure-collective]] — Nantissements, hypotheques et gages
+- [[banques-cellules-restructuring]] — Acteurs bancaires du restructuring
+- [[turnaround-operationnel]] — Plan de retournement et cash management
+- [[glossaire-distressed]] — Terminologie M&A distressed

@@ -566,3 +566,17 @@ Si l'entreprise est deficitaire, le CIR constitue une creance sur l'Etat (imputa
 | Rescrit general | L80 B LPF | BOI-SJ-RES-10-20-10 |
 | Rescrit fusions | L80 B-9 LPF | BOI-SJ-RES-10-20-20-100 |
 | TF / CFE | 1380+, 1447+ | BOI-IF-TFB, BOI-IF-CFE |
+
+---
+
+## Voir aussi
+
+- [[restructuration-dette]] — Techniques de restructuration de dette et abandons de creances
+- [[plans-de-cession]] — Cadre legal et fiscalite des cessions judiciaires
+- [[plans-de-continuation]] — Traitement fiscal des plans de continuation
+- [[valorisation-distressed]] — Impact fiscal sur la valorisation
+- [[comptabilite-crise]] — Ecritures comptables et continuite d'exploitation
+- [[due-diligence-distressed]] — DD fiscale en procedure collective
+- [[sauvegarde]] — Procedures de sauvegarde et plans d'apurement
+- [[redressement-judiciaire]] — Deficits et changement de controle en RJ
+- [[glossaire-distressed]] — Terminologie M&A distressed
