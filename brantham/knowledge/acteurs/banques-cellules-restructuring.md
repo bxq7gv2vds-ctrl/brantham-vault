@@ -107,7 +107,7 @@ Direction des Engagements
 ### Contentieux (souvent rattache ou distinct)
 
 - Prend le relais quand la banque decide d'aller au conflit judiciaire
-- Gestion des procedures collectives (sauvegarde, RJ, LJ) cote creancier
+- Gestion des procedures collectives ([[sauvegarde]], [[redressement-judiciaire|RJ]], [[liquidation-judiciaire|LJ]]) cote creancier
 - Exercice des voies d'execution (saisies, realisations de suretes)
 - Selon les banques, le contentieux est **integre** aux Affaires Speciales ou constitue un **service distinct** avec des liens plus ou moins etroits
 

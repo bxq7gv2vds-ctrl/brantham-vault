@@ -49,7 +49,7 @@ Le pool de repreneurs potentiels est restreint : la plupart des acheteurs classi
 Evaluer chaque actif individuellement a sa valeur de realisation en cas de vente forcee, puis soustraire les dettes. C'est le plancher de valorisation : ce que l'entreprise vaut si on la demantele.
 
 ### Quand l'utiliser
-- Liquidation judiciaire sans repreneur
+- [[liquidation-judiciaire|Liquidation judiciaire]] sans repreneur
 - Entreprise dont l'activite est definitivement arretee
 - Benchmark minimum pour toute offre de reprise
 
@@ -91,9 +91,9 @@ Les couts de liquidation incluent : honoraires du liquidateur (bareme legal), fr
 Projeter les cash flows futurs de l'entreprise en supposant qu'elle est reprise et restructuree, puis les actualiser a un taux refletant le risque eleve.
 
 ### Quand l'utiliser
-- Redressement judiciaire avec plan de continuation ou de cession
+- [[redressement-judiciaire|Redressement judiciaire]] avec [[plans-de-continuation|plan de continuation]] ou de cession
 - Entreprise dont le core business est viable mais mal gere ou surendette
-- Quand le repreneur a un plan de retournement credible
+- Quand le repreneur a un plan de [[turnaround-operationnel|retournement]] credible
 
 ### Ajustements specifiques au distressed
 

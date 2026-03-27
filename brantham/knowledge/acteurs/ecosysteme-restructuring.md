@@ -86,6 +86,19 @@ Il y a environ **170 administrateurs judiciaires** exercant dans **75 etudes** e
 4. **Timing**: contacter des l'ouverture de la procedure (publication BODACC). La periode d'observation dure 6-18 mois en RJ
 5. **Ne pas appeler a froid** sans dossier: preparer un dossier de presentation du repreneur (CV, references, capacites financieres)
 
+## Voir aussi
+
+- [[mandat-ad-hoc-conciliation]] — Procedures amiables en amont des procedures collectives
+- [[redressement-judiciaire]] — Procedure de redressement et role de l'AJ
+- [[liquidation-judiciaire]] — Procedure de liquidation et role du MJ/liquidateur
+- [[sauvegarde]] — Procedure preventive sous controle du tribunal
+- [[plans-de-cession]] — Mecanisme de cession ordonnee par le tribunal
+- [[negociation-crise]] — Techniques de negociation avec les acteurs de l'ecosysteme
+- [[banques-cellules-restructuring]] — Cellules restructuring des banques francaises
+- [[audience-tribunal]] — Deroulement de l'audience devant le tribunal
+- [[turnaround-operationnel]] — Role des managers de transition en retournement
+- [[glossaire-distressed]] — Definitions des termes techniques
+
 ### Ce qu'un AJ cherche chez un repreneur
 
 - **Solidite financiere**: preuve de fonds, garanties bancaires, equity disponible
