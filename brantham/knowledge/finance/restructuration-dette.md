@@ -50,7 +50,7 @@ Ce document couvre l'ensemble des techniques de restructuration financiere utili
 **Definition** : Accord temporaire par lequel les creanciers suspendent l'exercice de leurs droits (exigibilite, poursuites, acceleration) pour donner au debiteur un delai de respiration ("breathing space").
 
 **Cadre juridique francais** :
-- En **mandat ad hoc** (L611-3) et **conciliation** (L611-4+) : le standstill est demande systematiquement par le mandataire/conciliateur des l'ouverture. C'est une pratique de marche, pas une obligation legale.
+- En **[[mandat-ad-hoc-conciliation|mandat ad hoc]]** (L611-3) et **[[mandat-ad-hoc-conciliation|conciliation]]** (L611-4+) : le standstill est demande systematiquement par le mandataire/conciliateur des l'ouverture. C'est une pratique de marche, pas une obligation legale.
 - Depuis l'ordonnance du 15 septembre 2021 (transposition Directive UE 2019/1023), le tribunal peut imposer un **moratoire force** aux creanciers qui refusent le standstill, y compris sur des creances non encore echues, pour la duree de la conciliation (max 5 mois).
 - En procedure collective, l'**arret des poursuites individuelles** (L622-21) produit un effet standstill automatique et generalise.
 
@@ -158,7 +158,7 @@ Ce document couvre l'ensemble des techniques de restructuration financiere utili
 
 **Cadre juridique** :
 - En amiable (mandat ad hoc, conciliation) : l'abandon de creance est **purement consensuel** et s'inscrit dans l'accord negocie
-- En procedure collective : l'abandon peut etre impose dans le cadre d'un plan de sauvegarde/redressement vote par les classes de parties affectees, y compris par cram-down
+- En procedure collective : l'abandon peut etre impose dans le cadre d'un plan de [[sauvegarde]]/[[redressement-judiciaire|redressement]] vote par les classes de parties affectees, y compris par cram-down
 - Art. L626-30-2 al. 5 : le tribunal peut imposer le plan a une classe dissidente si les conditions du "best interest test" et du "relative priority test" sont remplies
 
 **Ampleur typique** :

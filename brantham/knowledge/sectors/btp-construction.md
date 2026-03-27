@@ -224,3 +224,15 @@ La loi du 31 decembre 1975 protege les sous-traitants BTP :
 ---
 
 *Fiche compilee a partir de sources publiques, donnees sectorielles FFB/Altares et experience terrain. Usage interne Brantham Partners.*
+
+## Voir aussi
+
+- [[stats-defaillances-2025]] — Chiffres macro (BTP = 21% des defaillances, 1er secteur)
+- [[immobilier]] — Playbook sectoriel immobilier (promoteurs)
+- [[passif-environnemental]] — Risque amiante, pollution sols sur chantiers
+- [[suretes-en-procedure-collective]] — Garanties et cautions de marches
+- [[valorisation-distressed]] — Methodes de valorisation BTP
+- [[due-diligence-distressed]] — Checklist DD industrielle
+- [[plans-de-cession]] — Cession de marches publics (L642-7)
+- [[droit-social-restructuration]] — Reprise des equipes BTP
+- [[quick-scan-diagnostic]] — Diagnostic flash avant DD
