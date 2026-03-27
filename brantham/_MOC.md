@@ -58,11 +58,13 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 - [[brantham/knowledge/procedures/redressement-judiciaire]] — Redressement judiciaire
 - [[brantham/knowledge/procedures/liquidation-judiciaire]] — Liquidation judiciaire
 - [[brantham/knowledge/procedures/sauvegarde-acceleree-sfa]] — Sauvegarde acceleree et SFA (classes de parties affectees, cram-down cross-class, reforme 2021)
+- [[brantham/knowledge/procedures/lj-simplifiee]] — Liquidation judiciaire simplifiee (L644-1+): seuils, obligatoire/facultatif, delais 6 mois/1 an, impact repreneur
 
 ## Knowledge Base — Legal
 
 - [[brantham/knowledge/legal/plans-de-cession]] — Plans de cession judiciaire (L642-1+) : offre, criteres, procedure, effets, execution
 - [[brantham/knowledge/legal/nullites-periode-suspecte]] — Nullites periode suspecte (L632-1/L632-2), responsabilite dirigeants (L651-2, L653-1+, L654-1+), checklist due diligence repreneur
+- [[brantham/knowledge/legal/plans-de-continuation]] — Plans de continuation (sauvegarde L626-1+ / redressement L631-19+): elaboration, classes de parties affectees, vote, execution, resolution, impact repreneur
 - [[brantham/patterns/acheteur-mapping]]
 
 ## Knowledge Base — Process
