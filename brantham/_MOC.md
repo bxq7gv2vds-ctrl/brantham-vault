@@ -65,6 +65,7 @@ Success fees sur cessions realisees. Commission sur mise en relation vendeur/rep
 - [[brantham/knowledge/legal/plans-de-cession]] — Plans de cession judiciaire (L642-1+) : offre, criteres, procedure, effets, execution
 - [[brantham/knowledge/legal/nullites-periode-suspecte]] — Nullites periode suspecte (L632-1/L632-2), responsabilite dirigeants (L651-2, L653-1+, L654-1+), checklist due diligence repreneur
 - [[brantham/knowledge/legal/plans-de-continuation]] — Plans de continuation (sauvegarde L626-1+ / redressement L631-19+): elaboration, classes de parties affectees, vote, execution, resolution, impact repreneur
+- [[brantham/knowledge/legal/sanctions-dirigeants]] — Sanctions et responsabilite des dirigeants (L651-2 insuffisance actif, L653-1+ faillite personnelle, L653-8 interdiction gerer, L654-1+ banqueroute, L621-2 extension procedure): conditions, peines, prescription, jurisprudence, checklist DD repreneur
 - [[brantham/patterns/acheteur-mapping]]
 
 ## Knowledge Base — Process
