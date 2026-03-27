@@ -63,7 +63,7 @@ Le bail commercial est souvent **le principal actif** d'un commerce en difficult
 
 | Situation | Regime applicable |
 |---|---|
-| **Ouverture RJ/Sauvegarde** | Bail continue (L622-13). Loyers post-jugement = creance privilegiee (art. 40). |
+| **Ouverture [[redressement-judiciaire|RJ]]/[[sauvegarde|Sauvegarde]]** | Bail continue (L622-13). Loyers post-jugement = [[rang-des-creances|creance privilegiee]] (art. 40). |
 | **Option AJ** | AJ peut continuer ou resilier le bail. Bailleur peut demander resiliation si loyers impayes > 3 mois. |
 | **Cession dans plan de cession** | **L642-7** : le tribunal ordonne la cession du bail. Les clauses d'agrement, de preference et de solidarite sont **reputees non ecrites**. |
 | **LJ** | Liquidateur peut ceder le droit au bail isolement ou avec le fonds. Clauses d'agrement du bailleur **s'appliquent** (sauf plan de cession). |
