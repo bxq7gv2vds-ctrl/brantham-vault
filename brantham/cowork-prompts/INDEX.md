@@ -6,40 +6,31 @@ updated: 2026-03-27
 
 # Brantham — Cowork Prompts Index
 
-7 agents Cowork + 1 script email pour automatiser toute la chaîne de deals. Copier-coller chaque prompt directement dans Cowork.
+6 agents Cowork, chacun envoie un email après son run. Une seule fois par jour.
 
 ## Schedule quotidien
 
 ```
-07h00  → 01-sourcing.md          (scan AJ + BODACC matin)
-07h15  → 05-morning-brief.md     (brief Paul + Soren — plan du jour)
-08h00  → 02-pipeline-check.md    (alertes deadlines, état pipeline)
-08h30  → 03-deal-analysis.md     (analyse deals detecte → analysé)
-09h00  → 04-buyer-hunt.md        (sourcing acheteurs → acheteurs_identifiés)
-09h30  → 07-contact-enricher.md  (enrichissement contacts → prêt outreach)
-10h00  → 08-send-brief.md        (email résumé → Paul reçoit tout + emails outreach prêts)
-
-12h00  → 01-sourcing.md          (scan midi)
-
-14h00  → 04-buyer-hunt.md        (2ème run si nouveaux deals analysés)
-15h00  → 03-deal-analysis.md     (2ème run si nouveaux deals détectés)
-16h00  → 07-contact-enricher.md  (2ème run si nouveaux acheteurs)
-17h00  → 02-pipeline-check.md    (bilan fin de journée)
-
-19h30  → 01-sourcing.md          (scan soir)
+07h00  → 01-sourcing.md          → email "[Brantham] Sourcing 07h00 — X GO détectés"
+07h15  → 05-morning-brief.md     → email "[Brantham] Morning Brief 07h15 — X alertes rouges"
+08h00  → 02-pipeline-check.md    → email "[Brantham] Pipeline Check 08h00 — score X/100"
+08h30  → 03-deal-analysis.md     → email "[Brantham] Deal Analysis 08h30 — [slug] score X/100"
+09h00  → 04-buyer-hunt.md        → email "[Brantham] Buyer Hunt 09h00 — X acheteurs qualifiés"
+09h30  → 07-contact-enricher.md  → email "[Brantham] Contact Enricher 09h30 — X contacts prêts"
 ```
+
+Chaque email contient : ce que l'agent vient de faire + l'état complet du pipeline + les emails outreach prêts.
 
 ## Agents
 
 | Fichier | Agent | Schedule | Mission |
 |---------|-------|----------|---------|
-| [[01-sourcing]] | Sourcing | 07h / 12h / 19h30 | Scrape AJ + BODACC, score, met à jour OPPORTUNITIES.md |
+| [[01-sourcing]] | Sourcing | 07h00 | Scrape AJ + BODACC, score, met à jour OPPORTUNITIES.md |
 | [[05-morning-brief]] | Morning Brief | 07h15 | Brief actionnable Paul + Soren |
-| [[02-pipeline-check]] | Pipeline Check | 08h / 17h | Surveille deadlines, alertes rouges/oranges |
-| [[03-deal-analysis]] | Deal Analysis | 08h30 / 15h | Analyse financière + juridique sur infos publiques |
-| [[04-buyer-hunt]] | Buyer Hunt | 09h / 14h | Sourcing 15-25 acheteurs qualifiés par deal |
-| [[07-contact-enricher]] | Contact Enricher | 09h30 / 16h | Enrichissement emails + LinkedIn décideurs |
-| [[08-send-brief]] | Send Brief | 10h | Email HTML résumé → deals GO + emails outreach prêts + actions |
+| [[02-pipeline-check]] | Pipeline Check | 08h00 | Surveille deadlines, alertes rouges/oranges |
+| [[03-deal-analysis]] | Deal Analysis | 08h30 | Analyse financière + juridique sur infos publiques |
+| [[04-buyer-hunt]] | Buyer Hunt | 09h00 | Sourcing 15-25 acheteurs qualifiés par deal |
+| [[07-contact-enricher]] | Contact Enricher | 09h30 | Enrichissement emails + LinkedIn décideurs |
 
 ## Agréger tous les outputs
 
