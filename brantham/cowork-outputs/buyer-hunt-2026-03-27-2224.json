@@ -1,0 +1,119 @@
+{
+  "agent": "buyer-hunt",
+  "run_id": "buyer-hunt-2026-03-27-2224",
+  "timestamp": "2026-03-27T21:24:41Z",
+  "status": "success",
+  "summary": "gauzy — 20 acheteurs qualifiés identifiés sur 20 candidats analysés (CA ≥ 5× cible 65M€). TOP 5 : Harman International (12/12), Jolt Capital (12/12), Valeo SA (12/12), ACTIA Group (11/12), Aptiv (11/12).",
+  "data": {
+    "slug": "gauzy",
+    "deal_ref": "BP-2026-007",
+    "ca_cible": 65000000,
+    "naf": "2932Z / 2670Z / 2312Z",
+    "secteur": "ADAS / Vision embarquée véhicules industriels / Smart glass",
+    "deadline_offres": "2026-04-03T12:00:00",
+    "ticket_acquisition_estime": "20-34M€",
+    "total_identified": 20,
+    "total_qualified": 20,
+    "top_buyers": [
+      {
+        "rang": 1,
+        "nom": "Harman International (Samsung)",
+        "type": "strategique",
+        "score": 12,
+        "ca_multiple": 130,
+        "contact": "Christian Sobottka — christian.sobottka@harman.com",
+        "raison": "Acquéreur ZF ADAS (€1.5Bn, déc 2025) — Vision Systems/Safety Tech complètent exactement sa nouvelle plateforme ADAS commercial vehicles"
+      },
+      {
+        "rang": 2,
+        "nom": "Jolt Capital",
+        "type": "financier",
+        "score": 12,
+        "ca_multiple": 32,
+        "contact": "Patrick Koller (ex-CEO FORVIA) — patrick.koller@jolt-capital.com",
+        "raison": "Fund V €600M freshly closed + Patrick Koller recruté fév 2026 pour auto industrial deeptech — timing et thèse parfaitement alignés"
+      },
+      {
+        "rang": 3,
+        "nom": "Valeo SA",
+        "type": "strategique",
+        "score": 12,
+        "ca_multiple": 330,
+        "contact": "Christophe Périllat (CEO) — christophe.perillat@valeo.com",
+        "raison": "Leader ADAS France, division BRAIN outperform 2024 — Vision Systems complète son offre caméras véhicules lourds absente du portfolio"
+      },
+      {
+        "rang": 4,
+        "nom": "ACTIA Group",
+        "type": "strategique",
+        "score": 11,
+        "ca_multiple": 8,
+        "contact": "Walid Rouis (DG) — walid.rouis@actia.com",
+        "raison": "ETI française électronique embarquée véhicules commerciaux (mêmes OEM-clients), objectif 800M€ 2027, acquis Steel Electronique en 2024"
+      },
+      {
+        "rang": 5,
+        "nom": "Aptiv Holdings France",
+        "type": "strategique",
+        "score": 11,
+        "ca_multiple": 215,
+        "contact": "Hugh Hardiman (Président France) — hugh.hardiman@aptiv.com",
+        "raison": "Gen 6 ADAS platform CV OEM — Vision Systems apporte certifications E-Mark européennes clés en main pour déploiement commercial Europe"
+      }
+    ],
+    "acheteurs_path": "/Users/paul/Downloads/brantham-pipeline/deals/gauzy/acheteurs.json",
+    "kb_notes_path": "/Users/paul/Desktop/brantham-partners/memory-vault/agents/_shared/notes/acheteurs/",
+    "methodologie": "WebSearch multi-requêtes (API Annuaire Entreprises + Pappers bloqués en sandbox). Sources : communiqués presse, Societe.com, LinkedIn, sites officiels. 20 candidats qualifiés CA ≥ 5× cible ou AUM fonds adapté."
+  },
+  "actions_taken": [
+    "Lecture BRAIN.md + OPPORTUNITIES.md — deal gauzy identifié (score 68/100, deadline 03/04)",
+    "Lecture analyse deal /deals/gauzy/analyse.md",
+    "Recherche 20+ candidats via WebSearch (Tier 1 auto, fonds deeptech PE, acteurs smart glass)",
+    "Qualification financière (CA ≥ 5×, capitaux propres, BODACC, acquisitions passées)",
+    "Scoring priorité 12 pts sur 20 acheteurs",
+    "Écriture acheteurs.json (20 acheteurs, 36Ko) → /deals/gauzy/acheteurs.json",
+    "Copie → memory-vault/agents/_shared/acheteurs/gauzy-acheteurs.json",
+    "15 fiches KB créées → memory-vault/agents/_shared/notes/acheteurs/",
+    "BRAIN.md mis à jour (statut hunter → idle, Gauzy → ACHETEURS_IDENTIFIES)",
+    "OPPORTUNITIES.md mis à jour (statut gauzy → acheteurs_identifies)",
+    "Dashboard localhost:3000 inaccessible (sandbox réseau isolé)"
+  ],
+  "pending_for_human": [
+    {
+      "who": "Paul",
+      "action": "Lancer outreach sur TOP 5 — Priorité absolue : Patrick Koller (Jolt Capital) + Walid Rouis (ACTIA Group) + Christian Sobottka (Harman). Deadline offres BCM : 03/04/2026 12h00 = 7 jours.",
+      "urgency": "rouge",
+      "deadline": "2026-03-30"
+    },
+    {
+      "who": "Paul",
+      "action": "Valider l'approche Contact Enricher pour vérifier emails TOP 5 et trouver les numéros directs",
+      "urgency": "orange",
+      "deadline": "2026-03-29"
+    },
+    {
+      "who": "Paul",
+      "action": "Décider si offre globale (3 entités) ou partielle (Vision Systems seul, ou Gauzy SAS seul pour Saint-Gobain/AGC)",
+      "urgency": "orange",
+      "deadline": "2026-03-31"
+    }
+  ],
+  "triggered_next": [
+    "contact-enricher"
+  ],
+  "errors": [
+    "API Annuaire Entreprises (api.gouv.fr) bloquée en sandbox réseau — contournée via WebSearch",
+    "Pappers.fr bloqué en sandbox réseau — données financières issues de Societe.com/Manageo/WebSearch",
+    "Dashboard localhost:3000 inaccessible depuis le sandbox VM (attendu)"
+  ],
+  "qualite": {
+    "total_acheteurs": 20,
+    "score_moyen": 10.4,
+    "score_max": 12,
+    "score_min": 8,
+    "acheteurs_score_ge_10": 12,
+    "fiches_kb_creees": 15,
+    "email_verified": 0,
+    "emails_guesses": 17
+  }
+}
