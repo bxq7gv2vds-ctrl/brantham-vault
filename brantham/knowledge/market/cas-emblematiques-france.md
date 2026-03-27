@@ -78,7 +78,7 @@ Camaieu etait une reference du pret-a-porter feminin accessible en France, avec 
 
 - Fermeture de plus de 800 magasins dans le monde pendant le confinement
 - Perte de **95% du CA** entre mars et avril 2020 (manque a gagner de **162 M EUR**)
-- **26 mai 2020** : Placement en **redressement judiciaire** par le tribunal de commerce de Lille
+- **26 mai 2020** : Placement en **[[redressement-judiciaire|redressement judiciaire]]** par le tribunal de commerce de Lille
 - Date de cessation des paiements : mars 2020
 
 **Aout 2020 : Reprise par FIB (Financiere Immobiliere Bordelaise)**
@@ -96,12 +96,12 @@ Camaieu etait une reference du pret-a-porter feminin accessible en France, avec 
 - Modele centre-commercial en declin structurel
 - Concurrence croissante du fast-fashion (Shein, Primark) et du e-commerce
 
-**Juin 2022** : Placement sous **mandat ad hoc**
+**Juin 2022** : Placement sous **[[mandat-ad-hoc-conciliation|mandat ad hoc]]**
 **Juillet 2022** : Conversion en **redressement judiciaire**
 - Dette accumulee : ~230 M EUR
 - Besoin de financement : ~90 M EUR pour continuer
 
-**28 septembre 2022 : LIQUIDATION JUDICIAIRE**
+**28 septembre 2022 : [[liquidation-judiciaire|LIQUIDATION JUDICIAIRE]]**
 - Le tribunal de commerce de Lille prononce la liquidation
 - **Aucun repreneur credible** ne s'est presente pour l'ensemble
 - **2 600 emplois supprimes**

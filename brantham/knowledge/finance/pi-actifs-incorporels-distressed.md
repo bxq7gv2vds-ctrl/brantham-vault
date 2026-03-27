@@ -140,7 +140,7 @@ Recherche de transactions comparables (cessions de marques dans le meme secteur)
 
 La cession de droits de propriete intellectuelle en procedure collective obeit a des regles specifiques.
 
-**En plan de cession (L642-1 et suivants C.com)** :
+**En [[plans-de-cession|plan de cession]] (L642-1 et suivants C.com)** :
 - Les droits de PI font partie du perimetre de cession s'ils sont necessaires a l'activite
 - Le tribunal arrete le plan de cession incluant les actifs de PI
 - Le transfert des marques et brevets doit etre inscrit a l'INPI pour etre opposable aux tiers
@@ -180,7 +180,7 @@ Les brevets europeens delivres par l'OEB sont en realite un faisceau de brevets 
 
 Le contrat de franchise est conclu intuitu personae : il est consenti en consideration de la personne du franchise. En cas de procedure collective du franchise :
 
-**L622-13 C.com** : l'AJ peut decider de la continuation des contrats en cours, y compris les contrats de franchise. Le franchiseur ne peut pas resilier du seul fait de l'ouverture de la procedure (L622-13 al. 2 : interdiction des clauses de resiliation automatique).
+**L622-13 C.com** : l'AJ peut decider de la continuation des [[contrats-baux-en-procedure|contrats en cours]], y compris les contrats de franchise. Le franchiseur ne peut pas resilier du seul fait de l'ouverture de la procedure (L622-13 al. 2 : interdiction des clauses de resiliation automatique).
 
 **Mais** : la cession du contrat de franchise dans le cadre d'un plan de cession est soumise a l'accord du franchiseur si le contrat comporte une clause d'agrement (ou si la cession implique un changement de franchise).
 
