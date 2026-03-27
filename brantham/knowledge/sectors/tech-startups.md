@@ -192,7 +192,7 @@ L'acqui-hire est la forme de M&A la plus frequente pour les startups en difficul
 | **Ynsect** | 2025 | Agritech | RJ puis LJ | Liquidation | 1,5 Md EUR de valorisation en 2022, burn insoutenable |
 | **Carmat** | 2026 | Medtech | LJ | Liquidation | Coeur artificiel, R&D sans marche suffisant |
 | **Lynx** | 2026 | VR/XR | LJ | Liquidation | Realite mixte, marche trop etroit |
-| **Sigfox** | 2022 | IoT | RJ | Reprise UnaBiz | Licorne devaluee, PI = actif principal |
+| **Sigfox** | 2022 | IoT | [[redressement-judiciaire|RJ]] | Reprise UnaBiz | Licorne devaluee, PI = actif principal |
 | **Devialet** | 2024 | Audio tech | RJ | Restructuration | Produit premium, pivot B2B necessaire |
 | **Swile** (restructuration) | 2024 | Fintech | Restructuration | Pivot | Pas de procedure collective mais 30% licenciements |
 
