@@ -110,7 +110,7 @@ Glossaire exhaustif couvrant le vocabulaire specialise du M&A d'entreprises en d
 
 | Terme | Definition | Reference legale |
 |---|---|---|
-| **Offre de reprise** | Document formel soumis au tribunal contenant : identite du repreneur, perimetre (actifs, contrats, salaries), prix, projet industriel, garanties financieres, calendrier. | L642-2 C.com |
+| **[[structuration-offres-reprise|Offre de reprise]]** | Document formel soumis au tribunal contenant : identite du repreneur, perimetre (actifs, contrats, salaries), prix, projet industriel, garanties financieres, calendrier. | L642-2 C.com |
 | **Teaser** | Document anonyme presentant l'entreprise a ceder (activite, CA, effectif, localisation). Premier contact avec les repreneurs potentiels. Ne revele pas le nom de l'entreprise. | Usage professionnel |
 | **Memorandum d'information (info memo)** | Document detaille sur l'entreprise (historique, finances, operations, marche, perspectives). Communique apres signature d'un NDA. | Usage professionnel |
 | **NDA (Non-Disclosure Agreement)** | Accord de confidentialite signe par les candidats repreneurs avant l'acces aux informations detaillees et a la data room. | Contractuel |

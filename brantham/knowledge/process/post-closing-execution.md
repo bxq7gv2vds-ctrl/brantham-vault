@@ -104,7 +104,7 @@ Le jugement arretant le plan de cession (art. L642-1 et suivants C. com.) produi
 
 ### 3.1 Transfert automatique (art. L1224-1 Code du travail)
 
-- Lors d'une cession d'entreprise, tous les contrats de travail en cours au jour de la modification **subsistent entre le nouvel employeur et le personnel**.
+- Lors d'une cession d'entreprise, tous les [[droit-social-restructuration|contrats de travail]] en cours au jour de la modification **subsistent entre le nouvel employeur et le personnel**.
 - Tous les types de contrats sont concernes : CDI, CDD, apprentissage, contrats aides. Meme les contrats suspendus (maladie, conge maternite) se transferent automatiquement.
 - L'anciennete des salaries est preservee integralement, tout comme les avantages acquis (conges payes, primes, clauses particulieres).
 
