@@ -27,7 +27,7 @@ updated: 2026-03-27
 
 ### 1.1 Presentation generale
 
-La **sauvegarde acceleree** (SA) est une procedure collective du Livre VI du Code de commerce (articles L.628-1 a L.628-8) permettant a une entreprise en difficulte d'imposer judiciairement a ses creanciers un plan de restructuration pre-negocie en conciliation. Elle constitue la transposition francaise du mecanisme anglo-saxon de **prepackaged bankruptcy** (pre-pack).
+La **sauvegarde acceleree** (SA) est une procedure collective du Livre VI du Code de commerce (articles L.628-1 a L.628-8) permettant a une entreprise en difficulte d'imposer judiciairement a ses creanciers un plan de restructuration pre-negocie en [[mandat-ad-hoc-conciliation|conciliation]]. Elle constitue la transposition francaise du mecanisme anglo-saxon de **prepackaged bankruptcy** (pre-pack).
 
 La procedure repose sur un principe fondamental : le debiteur prepare un plan de restructuration dans le cadre amiable de la conciliation, puis bascule en procedure collective pour le faire adopter a la majorite qualifiee et l'imposer aux creanciers recalcitrants qui bloquaient l'accord unanime requis en conciliation.
 
@@ -36,11 +36,11 @@ La procedure repose sur un principe fondamental : le debiteur prepare un plan de
 - **Loi n 2010-1249 du 22 octobre 2010** (loi de regulation bancaire et financiere) : creation de la **sauvegarde financiere acceleree** (SFA), limitee aux seuls creanciers financiers (articles L.628-9 et L.628-10 anciens).
 - **Ordonnance n 2014-326 du 12 mars 2014** : creation de la **sauvegarde acceleree** (SA) comme procedure generalisee, coexistant avec la SFA.
 - **Ordonnance n 2020-596 du 20 mai 2020** (mesures Covid) : ouverture de la SA a toutes les entreprises, suppression des seuils de taille.
-- **Ordonnance n 2021-1193 du 15 septembre 2021** (transposition de la directive UE 2019/1023) : refonte majeure, fusion de la SA et de la SFA en une procedure unique, introduction des classes de parties affectees et du cram-down cross-class. Entree en vigueur le **1er octobre 2021**.
+- **Ordonnance n 2021-1193 du 15 septembre 2021** (transposition de la [[droit-europeen-insolvabilite|directive UE 2019/1023]]) : refonte majeure, fusion de la SA et de la SFA en une procedure unique, introduction des classes de parties affectees et du cram-down cross-class. Entree en vigueur le **1er octobre 2021**.
 
 ### 1.3 Nature juridique
 
-La SA est une **procedure collective semi-collective** : ses effets ne s'appliquent qu'aux parties directement affectees par le plan, et non a l'ensemble des creanciers du debiteur. C'est une passerelle entre la conciliation (amiable) et la sauvegarde classique (collective integrale).
+La SA est une **procedure collective semi-collective** : ses effets ne s'appliquent qu'aux parties directement affectees par le plan, et non a l'ensemble des creanciers du debiteur. C'est une passerelle entre la conciliation (amiable) et la [[sauvegarde|sauvegarde classique]] (collective integrale).
 
 ### 1.4 Textes applicables
 
@@ -74,7 +74,7 @@ Contrairement a la sauvegarde classique qui exige l'absence de cessation des pai
 
 Depuis la reforme de 2021, **aucun seuil de taille** (effectifs, CA, bilan) n'est requis pour ouvrir une SA. Toute entreprise peut en beneficier. Toutefois, en pratique, la procedure reste reservee aux entreprises de taille significative, les couts et la complexite etant disproportionnes pour les TPE/PME.
 
-Note : des seuils subsistent pour la **constitution obligatoire** des classes de parties affectees dans les autres procedures (sauvegarde classique, redressement judiciaire) : soit plus de 250 salaries ET CA > 20 M EUR, soit CA > 40 M EUR. Mais en SA, la constitution de classes est **toujours obligatoire**, quelle que soit la taille.
+Note : des seuils subsistent pour la **constitution obligatoire** des classes de parties affectees dans les autres procedures (sauvegarde classique, [[redressement-judiciaire|redressement judiciaire]]) : soit plus de 250 salaries ET CA > 20 M EUR, soit CA > 40 M EUR. Mais en SA, la constitution de classes est **toujours obligatoire**, quelle que soit la taille.
 
 ### 2.6 Demandeur exclusif
 
@@ -103,7 +103,7 @@ Le conciliateur de la conciliation prealable peut etre designe comme administrat
 
 La duree de la periode d'observation est fixee a **2 mois** a compter du jugement d'ouverture (article L.628-8 alinea 1). Elle est prorogeable de **2 mois supplementaires** maximum, soit un total de **4 mois maximum**.
 
-A l'expiration de ce delai, si le plan n'est pas arrete, le tribunal met fin a la procedure. Il n'y a **pas de conversion possible** en redressement judiciaire ou liquidation judiciaire (contrairement a la sauvegarde classique).
+A l'expiration de ce delai, si le plan n'est pas arrete, le tribunal met fin a la procedure. Il n'y a **pas de conversion possible** en redressement judiciaire ou [[liquidation-judiciaire|liquidation judiciaire]] (contrairement a la sauvegarde classique).
 
 ### 3.3 Effets limites aux parties affectees
 
@@ -158,7 +158,7 @@ Sont des **parties affectees** les creanciers dont les droits (creances ou inter
 
 L'administrateur judiciaire repartit les parties affectees en classes representant une communaute d'interet economique suffisante, selon des criteres objectifs verifiables. La repartition tient compte :
 - De la nature des creances (garanties, chirographaires, subordonnees)
-- De l'existence de suretes reelles ou personnelles
+- De l'existence de [[suretes-en-procedure-collective|suretes reelles]] ou personnelles
 - Du rang de priorite en cas de liquidation
 - Des accords de subordination preexistants
 
@@ -226,7 +226,7 @@ Les protections individuelles sont :
 
 ### 5.4 Jurisprudence inaugurale
 
-**Orpea/Emeis (TC Nanterre, 24 juillet 2023)** : premiere application majeure du cram-down cross-class en France. Restructuration de 9,7 milliards EUR de dette financiere. Sur les classes votantes, 6 ont approuve le plan a la majorite des 2/3, 3 autres l'ont approuve a plus de 50% mais sans atteindre les 2/3, et la classe des porteurs d'OCEANE a vote contre (49,2% pour, 50,8% contre). Le tribunal a arrete le plan par voie d'application forcee interclasses, verifiant le respect de toutes les conditions de l'article L.626-32. Decision historique validant le mecanisme.
+**[[cas-orpea-emeis|Orpea]]/Emeis (TC Nanterre, 24 juillet 2023)** : premiere application majeure du cram-down cross-class en France. Restructuration de 9,7 milliards EUR de dette financiere. Sur les classes votantes, 6 ont approuve le plan a la majorite des 2/3, 3 autres l'ont approuve a plus de 50% mais sans atteindre les 2/3, et la classe des porteurs d'OCEANE a vote contre (49,2% pour, 50,8% contre). Le tribunal a arrete le plan par voie d'application forcee interclasses, verifiant le respect de toutes les conditions de l'article L.626-32. Decision historique validant le mecanisme.
 
 ---
 
@@ -339,7 +339,7 @@ La SA est devenue le vehicule privilegie des restructurations financieres d'enve
 
 **Eurotunnel (TC Paris, 2 aout 2006 et 15 janvier 2007)** : premiere application majeure de la sauvegarde a un groupe d'envergure. Precurseur de la SFA. Le tribunal a valide une restructuration complexe impliquant des creanciers transfrontaliers, posant les bases du "prepack a la francaise".
 
-**Technicolor (TC Paris, 28 juillet 2020)** : plan de SFA arrete pour une restructuration de la dette financiere. Premiere utilisation significative de la SFA dans sa version pre-2021, demontrant l'efficacite de la procedure pour les groupes cotes avec dette obligataire importante.
+**Technicolor (TC Paris, 28 juillet 2020)** : plan de SFA arrete pour une [[restructuration-dette|restructuration de la dette]] financiere. Premiere utilisation significative de la SFA dans sa version pre-2021, demontrant l'efficacite de la procedure pour les groupes cotes avec dette obligataire importante.
 
 **CGG (TC Paris, 2017 ; CA Paris, 18 mai 2018)** : plan de sauvegarde arrete malgre l'opposition des porteurs d'OCEANE. La Cour d'appel de Paris a confirme le jugement, validant le traitement differencie des classes de creanciers et la legitimite de la conversion de dette en capital.
 
@@ -349,7 +349,7 @@ La SA est devenue le vehicule privilegie des restructurations financieres d'enve
 
 **Orpea / Emeis (TC specialise Nanterre, 24 juillet 2023)** : decision majeure et premiere application judiciaire du **cram-down cross-class** en France. Restructuration de 9,7 milliards EUR de dette financiere. Le plan a ete arrete par application forcee interclasses malgre le vote negatif de la classe des porteurs d'OCEANE (50,8% contre). Le tribunal a verifie chaque condition de l'article L.626-32, incluant le test du meilleur interet et la regle de priorite absolue. Decision confirmee comme reference jurisprudentielle pour l'interpretation du nouveau mecanisme.
 
-**Casino / Groupe Casino (TC Paris, 25 octobre 2023 ouverture ; 26 fevrier 2024 arrete)** : restructuration massive du groupe de distribution. 17 classes de parties affectees constituees, dont 16 ont approuve le plan a la majorite des 2/3. Le tribunal a arrete le plan, confirmant la flexibilite du nouveau systeme de classes et la possibilite de traiter differemment les entites d'un meme groupe.
+**[[cas-casino-groupe|Casino]] / Groupe Casino (TC Paris, 25 octobre 2023 ouverture ; 26 fevrier 2024 arrete)** : restructuration massive du groupe de distribution. 17 classes de parties affectees constituees, dont 16 ont approuve le plan a la majorite des 2/3. Le tribunal a arrete le plan, confirmant la flexibilite du nouveau systeme de classes et la possibilite de traiter differemment les entites d'un meme groupe.
 
 ### 9.3 Enseignements jurisprudentiels
 
@@ -381,7 +381,7 @@ Pour Brantham Partners, qui cible les PME en difficulte (RJ, LJ, sauvegarde clas
 Le repreneur peut injecter du capital dans le cadre du plan de SA, en echange :
 - D'une prise de participation significative (dilution des anciens actionnaires)
 - De conditions favorables (decote, warrants, earn-out)
-- Du privilege de new money (article L.611-11)
+- Du [[rang-des-creances|privilege de new money]] (article L.611-11)
 
 **b) Rachat de creances decotees :**
 Pendant la conciliation ou la SA, les creances sont souvent echangees avec decote sur le marche secondaire. Le repreneur peut :
@@ -395,7 +395,7 @@ Le plan de SA peut inclure une cession partielle d'actifs ou une restructuration
 ### 10.3 Points de vigilance pour le conseil M&A
 
 - **Timing serre** : 4 mois maximum, toute intervention doit etre preparee en amont (pendant la conciliation)
-- **Due diligence limitee** : les informations peuvent etre restreintes ; s'appuyer sur les comptes certifies et le rapport de l'administrateur
+- **[[due-diligence-distressed|Due diligence]] limitee** : les informations peuvent etre restreintes ; s'appuyer sur les comptes certifies et le rapport de l'administrateur
 - **Pas de conversion** : si le plan echoue, la procedure s'arrete sans RJ/LJ automatique ; le debiteur peut ensuite deposer le bilan separement
 - **Conflit d'interets** : si le repreneur est aussi creancier, attention au vote en classe et au respect du test du meilleur interet
 - **Application forcee** : le cram-down peut imposer le plan meme contre la volonte du repreneur si celui-ci est dans une classe dissidente
@@ -404,7 +404,7 @@ Le plan de SA peut inclure une cession partielle d'actifs ou une restructuration
 
 | Situation | Procedure probable | Role Brantham |
 |---|---|---|
-| PME, CA < 10 M EUR, cessation paiements | RJ / LJ | Repreneur (plan de cession L.642-1+) |
+| PME, CA < 10 M EUR, cessation paiements | RJ / LJ | Repreneur ([[plans-de-cession|plan de cession]] L.642-1+) |
 | PME, CA < 10 M EUR, pas de cessation | Sauvegarde classique / conciliation | Conseil, investisseur |
 | ETI, CA > 20 M EUR, dette financiere | SA (possible option SFA) | Investisseur new money, rachat creances |
 | Groupe cote, dette obligataire | SA + cram-down | Acquisition filiales, dette secondaire |
@@ -452,3 +452,15 @@ Le plan de SA peut inclure une cession partielle d'actifs ou une restructuration
 - **Decret n 2021-1218** du 23 septembre 2021 (application)
 - **Ordonnance n 2014-326** du 12 mars 2014 (creation SA)
 - **Loi n 2010-1249** du 22 octobre 2010 (creation SFA)
+
+## Voir aussi
+
+- [[sauvegarde]] -- Sauvegarde classique
+- [[mandat-ad-hoc-conciliation]] -- Mandat ad hoc et conciliation
+- [[redressement-judiciaire]] -- Redressement judiciaire
+- [[liquidation-judiciaire]] -- Liquidation judiciaire
+- [[rang-des-creances]] -- Rang des creances et privilege new money
+- [[cas-orpea-emeis]] -- Cas Orpea / Emeis
+- [[cas-casino-groupe]] -- Cas Casino Groupe
+- [[droit-europeen-insolvabilite]] -- Droit europeen de l'insolvabilite
+- [[restructuration-dette]] -- Restructuration de dette

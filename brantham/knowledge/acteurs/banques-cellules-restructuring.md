@@ -123,7 +123,7 @@ Direction des Engagements
 | **Covenant breach** | Rupture de ratio financier (leverage, DSCR, gearing) |
 | **Degradation de cotation BdF** | Passage en cote 5-, 6 ou inferieur (ancienne echelle : 5, 6, 7) |
 | **Incident de paiement BdF** | Incidents declares > 10% des achats TTC sur 6 mois, ou > 45.000 EUR |
-| **Procedure amiable** | Ouverture d'un mandat ad hoc ou d'une conciliation |
+| **Procedure amiable** | Ouverture d'un [[mandat-ad-hoc-conciliation|mandat ad hoc ou d'une conciliation]] |
 | **Procedure collective** | Ouverture sauvegarde, RJ ou LJ |
 | **Demande de restructuration** | L'entreprise demande un moratoire, un reechelonnement, ou un abandon |
 | **Alerte sectorielle** | Le secteur est juge a risque par la direction des risques |
@@ -248,7 +248,7 @@ Le passage de Stage 1 a Stage 2 multiplie la provision par **5 a 10x** (le perim
 | **Waiver** | Renonciation temporaire a l'exercice d'un droit (ex: covenant breach) | Breach technique, restructuration en cours |
 | **Reechelonnement** | Allongement de la duree du pret, reduction des echeances | Difficulte temporaire de tresorerie |
 | **Refinancement** | Nouveau pret pour rembourser l'ancien | Entreprise viable mais structure de dette inadaptee |
-| **Conversion dette/capital** | Transformation de creance en capital (debt-to-equity swap) | Restructuration profonde, bilan a assainir |
+| **Conversion dette/capital** | Transformation de creance en capital ([[restructuration-dette|debt-to-equity swap]]) | Restructuration profonde, bilan a assainir |
 | **Abandon partiel de creance** | Renonciation a une partie de la creance | Plan de continuation, conciliation, plan de cession |
 | **Abandon total de creance** | Renonciation a la totalite | Creance juge irrecuperable, compromis dans un plan |
 | **Cession de creance** | Vente de la creance a un tiers (fonds, servicer) | Banque veut sortir du dossier, nettoyage de bilan |

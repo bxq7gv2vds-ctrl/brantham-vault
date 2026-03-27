@@ -18,7 +18,7 @@ updated: 2026-03-27
 
 ## 1. Definition et fondements legaux
 
-La liquidation judiciaire simplifiee (LJS) est une variante acceleree de la liquidation judiciaire classique, prevue aux **articles L. 644-1 a L. 644-6 du Code de commerce**. Introduite par la loi de sauvegarde des entreprises du 26 juillet 2005, elle vise a traiter plus rapidement la liquidation des petites entreprises ne disposant pas d'actifs complexes.
+La liquidation judiciaire simplifiee (LJS) est une variante acceleree de la [[liquidation-judiciaire|liquidation judiciaire classique]], prevue aux **articles L. 644-1 a L. 644-6 du Code de commerce**. Introduite par la loi de sauvegarde des entreprises du 26 juillet 2005, elle vise a traiter plus rapidement la liquidation des petites entreprises ne disposant pas d'actifs complexes.
 
 **Article L. 644-1** : "La procedure de liquidation judiciaire simplifiee est soumise aux regles de la liquidation judiciaire, sous reserve des dispositions du present chapitre."
 
@@ -40,7 +40,7 @@ La LJS constitue donc un regime derogatoire : les regles de la LJ classique s'ap
 ### Conditions communes (identiques a la LJ classique)
 
 - **Etat de cessation des paiements** : le debiteur ne peut faire face a son passif exigible avec son actif disponible (L. 631-1)
-- **Impossibilite manifeste de redressement** : le retablissement de l'entreprise est exclu
+- **Impossibilite manifeste de [[redressement-judiciaire|redressement]]** : le retablissement de l'entreprise est exclu
 
 ### Conditions specifiques a la LJS
 
@@ -98,14 +98,14 @@ Si les conditions ne sont finalement pas remplies (decouverte d'un bien immobili
 ### Verification simplifiee des creances (art. L. 644-3)
 
 En LJS, le liquidateur ne verifie que :
-- Les **creances salariales** (verification integrale)
+- Les **[[rang-des-creances|creances salariales]]** (verification integrale)
 - Les creances **susceptibles de venir en rang utile dans les repartitions**
 
 Les creances chirographaires qui ne seront pas desinteressees ne font pas l'objet d'une verification systematique. Cela reduit considerablement le temps et le cout de la procedure.
 
 ### Cession des biens (art. L. 644-2)
 
-Par derogation a l'article L. 641-2, le liquidateur procede a la vente des biens mobiliers **de gre a gre ou aux encheres publiques** dans un delai de **4 mois** suivant la decision ordonnant la procedure simplifiee. Cette vente s'effectue sans autorisation prealable du juge-commissaire pour les biens de faible valeur.
+Par derogation a l'article L. 641-2, le liquidateur procede a la vente des biens mobiliers **de gre a gre ou aux [[encheres-surencheres|encheres]] publiques** dans un delai de **4 mois** suivant la decision ordonnant la procedure simplifiee. Cette vente s'effectue sans autorisation prealable du juge-commissaire pour les biens de faible valeur.
 
 ### Repartition (art. L. 644-4)
 
@@ -146,7 +146,7 @@ La cloture intervient pour l'un des motifs suivants :
 La LJS reduit considerablement le temps disponible pour un repreneur :
 - **4 mois** pour la cession des biens : un repreneur interesse doit se manifester tres rapidement
 - **6 mois a 1 an** pour la cloture : la fenetre d'opportunite est courte
-- Pas de plan de cession formalise comme en LJ classique — les actifs sont vendus par le liquidateur
+- Pas de [[plans-de-cession|plan de cession]] formalise comme en LJ classique — les actifs sont vendus par le liquidateur
 
 ### Moins de visibilite
 
@@ -162,8 +162,8 @@ La LJS reduit considerablement le temps disponible pour un repreneur :
 
 ### Risques specifiques
 
-- **Risque de ne pas pouvoir faire de due diligence suffisante** dans les delais
-- **Absence de jugement de cession** : pas de purge des suretes par le plan de cession (contrairement a la LJ classique avec plan de cession au sens des art. L. 642-1 et s.)
+- **Risque de ne pas pouvoir faire de [[due-diligence-distressed|due diligence]] suffisante** dans les delais
+- **Absence de jugement de cession** : pas de purge des [[suretes-en-procedure-collective|suretes]] par le plan de cession (contrairement a la LJ classique avec plan de cession au sens des art. L. 642-1 et s.)
 - **Reprise de contrats limitee** : le liquidateur ne peut pas imposer la reprise de contrats specifiques comme dans un plan de cession
 
 ### Strategie recommandee pour Brantham
@@ -173,3 +173,11 @@ La LJS reduit considerablement le temps disponible pour un repreneur :
 3. **Offre d'achat d'actifs** : privilegier le rachat d'actifs isoles (fonds de commerce, materiel, stocks, clientele)
 4. **Due diligence acceleree** : preparer en amont les check-lists et les criteres go/no-go
 5. **Pas de plan de cession a deposer** : la negociation est directe avec le liquidateur, sous controle du juge-commissaire
+
+## Voir aussi
+
+- [[liquidation-judiciaire]] -- Liquidation judiciaire classique
+- [[plans-de-cession]] -- Plans de cession judiciaire
+- [[rang-des-creances]] -- Rang des creances
+- [[due-diligence-distressed]] -- Due diligence distressed
+- [[encheres-surencheres]] -- Encheres et surencheres

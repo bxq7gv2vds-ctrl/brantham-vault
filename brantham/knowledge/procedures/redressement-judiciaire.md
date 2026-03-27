@@ -20,7 +20,7 @@ updated: 2026-03-27
 
 ## 1. Definition et fondement legal
 
-Le redressement judiciaire est regi par les articles **L631-1 a L631-22** du Code de commerce (Livre VI, Titre III). Il s'intercale entre la sauvegarde (preventive) et la liquidation judiciaire (definitive) : l'entreprise est en CDP mais un redressement reste envisageable.
+Le redressement judiciaire est regi par les articles **L631-1 a L631-22** du Code de commerce (Livre VI, Titre III). Il s'intercale entre la [[sauvegarde|sauvegarde]] (preventive) et la [[liquidation-judiciaire|liquidation judiciaire]] (definitive) : l'entreprise est en CDP mais un redressement reste envisageable.
 
 **Article L631-1 al. 1** : *"Il est institue une procedure de redressement judiciaire ouverte a tout debiteur mentionne a l'article L631-2 qui, dans l'impossibilite de faire face au passif exigible avec son actif disponible, est en cessation des paiements."*
 
@@ -67,13 +67,13 @@ Condition necessaire et suffisante (pas besoin de demontrer que le redressement 
 
 **Article L631-8** : le tribunal fixe la date de CDP dans le jugement. A defaut, c'est la date du jugement. Elle ne peut etre reportee a plus de **18 mois** avant la date du jugement d'ouverture.
 
-Cette date est fondamentale : elle determine la **periode suspecte** pendant laquelle certains actes sont nuls de plein droit (art. L632-1) ou annulables (art. L632-2).
+Cette date est fondamentale : elle determine la **[[nullites-periode-suspecte|periode suspecte]]** pendant laquelle certains actes sont nuls de plein droit (art. L632-1) ou annulables (art. L632-2).
 
 ### 2.3 Obligation de declaration
 
-**Article L631-4** : le debiteur doit demander l'ouverture d'un RJ ou d'une LJ dans les **45 jours** de la CDP, sauf s'il a demande l'ouverture d'une conciliation dans ce delai.
+**Article L631-4** : le debiteur doit demander l'ouverture d'un RJ ou d'une LJ dans les **45 jours** de la CDP, sauf s'il a demande l'ouverture d'une [[mandat-ad-hoc-conciliation|conciliation]] dans ce delai.
 
-En pratique, les dirigeants declarent souvent tardivement, ce qui aggrave la situation et expose a des sanctions (interdiction de gerer, action en comblement de passif).
+En pratique, les dirigeants declarent souvent tardivement, ce qui aggrave la situation et expose a des [[sanctions-dirigeants|sanctions]] (interdiction de gerer, action en comblement de passif).
 
 ### 2.4 Personnes habilitees a saisir le tribunal
 
@@ -118,7 +118,7 @@ En pratique, la plupart des periodes d'observation durent 6 a 12 mois.
 
 La periode d'observation sert a :
 1. Realiser un **bilan economique et social** de l'entreprise (art. L623-1)
-2. Evaluer les possibilites de **redressement** (plan de continuation ou plan de cession)
+2. Evaluer les possibilites de **redressement** ([[plans-de-continuation|plan de continuation]] ou [[plans-de-cession|plan de cession]])
 3. Preparer un **plan** soumis au tribunal
 4. Maintenir l'activite le temps de l'analyse
 
@@ -175,7 +175,7 @@ Trois niveaux possibles :
 
 ### 4.3 Bail commercial
 
-**Article L622-14** : le bail commercial se poursuit de plein droit. Particularites :
+**Article L622-14** : le [[contrats-baux-en-procedure|bail commercial]] se poursuit de plein droit. Particularites :
 - Le bailleur ne peut ni resilier ni refuser le renouvellement pour defaut de paiement des loyers anterieurs
 - Les loyers posterieurs sont des creances privilegiees (payes a echance)
 - L'administrateur peut renoncer au bail (resiliation a son initiative)
@@ -185,9 +185,9 @@ Trois niveaux possibles :
 ### 4.4 Contrats de travail
 
 Les contrats de travail se poursuivent de plein droit (art. L1224-1 C. travail). Pendant la periode d'observation :
-- Pas de licenciement sauf pour motif economique si **urgent, inevitable et indispensable** (art. L631-17)
+- Pas de [[droit-social-restructuration|licenciement]] sauf pour motif economique si **urgent, inevitable et indispensable** (art. L631-17)
 - Le juge-commissaire autorise les licenciements
-- L'AGS avance les creances salariales si l'entreprise ne peut pas payer
+- [[rang-des-creances|L'AGS]] avance les creances salariales si l'entreprise ne peut pas payer
 
 ### 4.5 Contrats de credit et soutien bancaire
 
@@ -223,7 +223,7 @@ Le plan de continuation comprend (art. L626-2 et s.) :
 
 #### 5.1.3 Classes de parties affectees (reforme 2021)
 
-**Articles L626-29 a L626-34** (applicables au RJ via L631-19) : pour les entreprises depassant certains seuils, les creanciers sont repartis en **classes de parties affectees** qui votent sur le plan.
+**Articles L626-29 a L626-34** (applicables au RJ via L631-19) : pour les entreprises depassant certains seuils, les creanciers sont repartis en **[[sauvegarde-acceleree-sfa|classes de parties affectees]]** qui votent sur le plan.
 
 **Seuils d'application** (art. R626-52) :
 - Au moins 250 salaries ET CA net > 20 M EUR
@@ -489,7 +489,7 @@ Le RJ est le **deuxieme terrain de chasse** de Brantham Partners, apres la LJ. I
 | **Entreprise en activite** | Clients, fournisseurs, salaries encore la. Going concern. |
 | **Plus de temps** | 6-18 mois de periode d'observation vs 2-6 semaines en LJ |
 | **Meilleure information** | Bilan eco/social, rapport administrateur, comptes recents |
-| **Due diligence** | Acces au data room, visite des locaux, rencontre equipe |
+| **[[due-diligence-distressed|Due diligence]]** | Acces au data room, visite des locaux, rencontre equipe |
 | **Negociation** | Echanges avec l'administrateur, ajustement de l'offre |
 | **Actifs en meilleur etat** | Maintenance continue, salaries en poste |
 
@@ -532,3 +532,16 @@ Le RJ est le **deuxieme terrain de chasse** de Brantham Partners, apres la LJ. I
 4. **Administrateur** : peut etre un facilitateur (donne acces, repond aux questions) ou un frein (opaque, prefere un autre candidat). Adapter l'approche.
 5. **Information** : en RJ, l'information est plus accessible qu'en LJ. Demander systematiquement le bilan economique et social, les comptes, le rapport de l'administrateur.
 6. **Timeline** : surveiller la fin de la periode d'observation. Si le plan n'est pas adopte, conversion en LJ probable → opportunite de cession a prix brade.
+
+## Voir aussi
+
+- [[liquidation-judiciaire]] -- Liquidation judiciaire
+- [[sauvegarde]] -- Sauvegarde
+- [[plans-de-cession]] -- Plans de cession judiciaire
+- [[plans-de-continuation]] -- Plans de continuation
+- [[rang-des-creances]] -- Rang des creances
+- [[sanctions-dirigeants]] -- Sanctions et responsabilite des dirigeants
+- [[nullites-periode-suspecte]] -- Nullites de la periode suspecte
+- [[contrats-baux-en-procedure]] -- Sort des contrats et baux
+- [[droit-social-restructuration]] -- Droit social en restructuration
+- [[due-diligence-distressed]] -- Due diligence distressed
