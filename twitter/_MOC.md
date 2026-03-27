@@ -46,3 +46,4 @@ Paul (Claude Code) <--claude-peers--> Twitter Agent (Cowork)
 - Few-shot des top comptes pour cloner les patterns
 - Learning loop : chaque edit/rejet de Paul = signal
 - Phase observation 3 jours avant de poster
+## Related

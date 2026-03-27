@@ -169,3 +169,4 @@ Project location: `/Users/paul/zura-inspired/`
 - [[website/patterns/seo-subagent-audit-fix]]
 - [[website/patterns/geo-seo-audit-swarm]]
 - [[website/bugs/2026-03-21-contenu-duplique-geo-secteur]]
+## Related
