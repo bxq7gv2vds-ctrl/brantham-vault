@@ -36,8 +36,8 @@ Glossaire exhaustif couvrant le vocabulaire specialise du M&A d'entreprises en d
 | **[[liquidation-judiciaire|Liquidation judiciaire (LJ)]]** | Procedure pour les entreprises en cessation de paiements dont le redressement est manifestement impossible. Arret de l'activite (sauf maintien temporaire) et realisation des actifs. | L640-1 et s. C.com |
 | **[[lj-simplifiee|LJ simplifiee]]** | Procedure de LJ acceleree pour les petites entreprises (CA < 750 KEUR, effectif < 5, actif < 50 KEUR). Delai de cloture : 6 mois a 1 an. | L644-1 et s. C.com |
 | **Conversion** | Passage d'une procedure a une autre. RJ peut etre converti en LJ si le redressement est manifestement impossible. Sauvegarde peut etre convertie en RJ. | L631-15, L622-10 C.com |
-| **Plan de continuation** | Plan adopte en RJ ou sauvegarde permettant au debiteur de poursuivre l'activite en remboursant les creanciers selon un echeancier (10 ans max, 15 ans si agriculteur). | L626-1 et s. C.com |
-| **Plan de cession** | Decision du tribunal ordonnant la cession de tout ou partie de l'entreprise a un repreneur. Le repreneur ne reprend pas le passif anterieur (sauf exceptions). | L642-1 et s. C.com |
+| **[[plans-de-continuation|Plan de continuation]]** | Plan adopte en RJ ou sauvegarde permettant au debiteur de poursuivre l'activite en remboursant les creanciers selon un echeancier (10 ans max, 15 ans si agriculteur). | L626-1 et s. C.com |
+| **[[plans-de-cession|Plan de cession]]** | Decision du tribunal ordonnant la cession de tout ou partie de l'entreprise a un repreneur. Le repreneur ne reprend pas le passif anterieur (sauf exceptions). | L642-1 et s. C.com |
 | **Pre-pack cession** | Cession preparee en amont (conciliation/mandat ad hoc) puis executee immediatement a l'ouverture d'un RJ/LJ. Permet une cession rapide avec continuite d'exploitation. | L611-7 al. 5 C.com |
 | **Cession de gre a gre** | En LJ, cession d'actifs isoles (pas une unite de production) autorisee par le juge-commissaire. Pas d'appel d'offres obligatoire. | L642-18 et s. C.com |
 | **Cession d'unite de production** | Cession d'un ensemble coherent d'actifs (materiels, contrats, salaries) formant une branche d'activite autonome. Possible en LJ sur autorisation du juge-commissaire. | L642-18 al. 4 C.com |
@@ -141,7 +141,7 @@ Glossaire exhaustif couvrant le vocabulaire specialise du M&A d'entreprises en d
 
 | Terme | Definition | Reference legale |
 |---|---|---|
-| **Nullites de droit** | Actes passes pendant la periode suspecte qui sont automatiquement annulables (liberalites, paiements anticipes, suretes pour dettes anterieures, etc.). Le juge n'a pas de pouvoir d'appreciation. | L632-1 C.com |
+| **[[nullites-periode-suspecte|Nullites de droit]]** | Actes passes pendant la periode suspecte qui sont automatiquement annulables (liberalites, paiements anticipes, suretes pour dettes anterieures, etc.). Le juge n'a pas de pouvoir d'appreciation. | L632-1 C.com |
 | **Nullites facultatives** | Actes passes pendant la periode suspecte que le tribunal peut annuler s'il estime qu'ils ont ete realises en connaissance de la cessation de paiements par le cocontractant. | L632-2 C.com |
 | **Action en comblement de passif** | Action en responsabilite pour insuffisance d'actif contre les dirigeants de droit ou de fait dont la faute de gestion a contribue a l'insuffisance d'actif. | L651-2 C.com |
 | **Banqueroute** | Delit penal puni de 5 ans d'emprisonnement et 75 000 EUR d'amende. Concerne le detournement d'actifs, la tenue de comptabilite fictive, etc. | L654-1 et s. C.com |

@@ -44,7 +44,7 @@ Le jugement arretant le plan de cession (art. L642-1 et suivants C. com.) produi
 
 **Principe fondamental** : le cessionnaire acquiert les actifs libres de toute charge.
 
-- Le paiement du prix de cession fait obstacle a l'exercice, a l'encontre du cessionnaire, des droits des creanciers inscrits sur les biens cedes.
+- Le paiement du prix de cession fait obstacle a l'exercice, a l'encontre du cessionnaire, des droits des creanciers inscrits sur les biens cedes (voir [[rang-des-creances]] et [[suretes-en-procedure-collective]]).
 - La purge des biens transmis de leurs inscriptions est entrainee par le **paiement integral** du prix de cession.
 - Les suretes reelles (hypotheques, nantissements, gages, privileges speciaux) sont purgees par le paiement du prix.
 
@@ -399,11 +399,16 @@ La resolution du plan peut etre prononcee pour :
 
 ## Voir aussi
 
-- [[due-diligence-distressed]] -- Due diligence pre-offre
-- [[structuration-offres-reprise]] -- Redaction de l'offre
-- [[audience-tribunal]] -- Audience de cession
-- [[integration-post-acquisition]] -- Integration post-acquisition
-- [[encheres-surencheres]] -- Encheres et surencheres
+- [[due-diligence-distressed]] — Due diligence pre-offre
+- [[structuration-offres-reprise]] — Redaction de l'offre de reprise
+- [[audience-tribunal]] — Audience de cession au tribunal
+- [[integration-post-acquisition]] — Plan 100 jours post-acquisition
+- [[encheres-surencheres]] — Encheres et surencheres en procedure
+- [[plans-de-cession]] — Cadre legal du plan de cession
+- [[rang-des-creances]] — Purge des suretes et ordre des creanciers
+- [[passif-environnemental]] — Obligations environnementales du repreneur
+- [[droit-social-restructuration]] — Transfert des salaries et obligations sociales
+- [[turnaround-operationnel]] — Retournement operationnel post-reprise
 
 ## Related
 - [[brantham/_MOC]]
