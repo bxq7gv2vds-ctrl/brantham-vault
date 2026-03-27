@@ -27,10 +27,10 @@ sources:
 La valorisation d'une entreprise en difficulte differe fondamentalement de la valorisation classique pour cinq raisons structurelles :
 
 **1. Incertitude sur la continuite d'exploitation**
-Le presuppose de base de toute methode de valorisation standard (DCF, multiples) est que l'entreprise continue d'operer indefiniment. En distressed, cette hypothese est remise en cause. L'entreprise peut disparaitre a tout moment, ce qui rend les projections financieres intrinsequement fragiles.
+Le presuppose de base de toute methode de valorisation standard (DCF, multiples) est que l'entreprise continue d'operer indefiniment. En distressed, cette hypothese est remise en cause (cf. [[comptabilite-crise|continuite d'exploitation]]). L'entreprise peut disparaitre a tout moment, ce qui rend les projections financieres intrinsequement fragiles.
 
 **2. Asymetrie d'information**
-Le vendeur (souvent sous pression du tribunal, des creanciers, ou de l'administrateur judiciaire) detient des informations que le repreneur ne peut pas verifier dans les delais imposes. Les comptes sont souvent degrades, les reportings incomplets, les provisions sous-estimees. Le risque de "cadavre dans le placard" (dette cachee, litige non provisionne, contrat toxique) est eleve.
+Le vendeur (souvent sous pression du tribunal, des creanciers, ou de l'administrateur judiciaire) detient des informations que le repreneur ne peut pas verifier dans les delais imposes. Les comptes sont souvent degrades, les reportings incomplets, les provisions sous-estimees. Le risque de "cadavre dans le placard" (dette cachee, litige non provisionne, contrat toxique) est eleve. La [[due-diligence-distressed]] doit etre priorisee sur les sujets critiques.
 
 **3. Urgence temporelle**
 Les procedures collectives imposent des delais stricts. En LJ, le tribunal fixe une date limite pour les offres. En RJ, l'administrateur a une periode d'observation limitee (6 mois renouvelable une fois, max 18 mois). Cette pression temporelle reduit le pouvoir de negociation de l'acquereur mais aussi la qualite de la due diligence.

@@ -25,8 +25,8 @@ L'administrateur judiciaire est un professionnel liberal, officier ministeriel, 
 - Superviser la gestion courante pendant la periode d'observation
 - Servir d'intermediaire entre le tribunal, le dirigeant, les salaries et les repreneurs potentiels
 
-En procedure de sauvegarde: mission de surveillance uniquement.
-En redressement judiciaire: mission d'assistance (co-signature) ou d'administration (direction complete).
+En procedure de [[sauvegarde]] : mission de surveillance uniquement.
+En [[redressement-judiciaire]] : mission d'assistance (co-signature) ou d'administration (direction complete).
 
 Il y a environ **170 administrateurs judiciaires** exercant dans **75 etudes** en France (source CNAJMJ 2024).
 
