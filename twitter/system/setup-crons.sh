@@ -23,8 +23,8 @@ NEW_JOBS=$(cat <<EOF
 # Generate drafts: 07:30 (before first scrape window)
 30 7 * * * cd $SYSTEM_DIR && $PYTHON main.py draft >> $LOG_DIR/drafter.log 2>&1
 
-# Post approved tweets every 30 min during active hours
-*/30 8-23 * * * cd $SYSTEM_DIR && $PYTHON main.py post >> $LOG_DIR/poster.log 2>&1
+# Note: posting uses clix schedule (native Twitter scheduling), no cron needed for posting
+# Just run "python main.py post" after approving drafts in the morning
 
 # Track metrics: 22:00 daily
 0 22 * * * cd $SYSTEM_DIR && $PYTHON main.py track >> $LOG_DIR/tracker.log 2>&1

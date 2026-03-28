@@ -18,7 +18,8 @@ def get_profile_tweets(handle: str, n: int = 20) -> list[dict]:
         print("[tracker] TWITTER_HANDLE not set in .env")
         return []
 
-    cmd = [CLIX, "profile", handle, "--json", "-n", str(n)]
+    # syntax: clix user <handle> tweets <handle> --json -n N
+    cmd = [CLIX, "user", handle, "tweets", handle, "--json", "-n", str(n)]
     result = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
     if result.returncode != 0:
         print(f"[tracker] clix error: {result.stderr[:200]}")

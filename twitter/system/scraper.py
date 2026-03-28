@@ -54,7 +54,8 @@ def scrape_search(keyword: str, n: int = 20) -> list[dict]:
 
 def scrape_account(handle: str, n: int = 5) -> list[dict]:
     print(f"[scraper] Account: @{handle}")
-    return run_clix(["profile", handle, "--json", "-n", str(n)])
+    # syntax: clix user <handle> tweets <handle> --json -n N
+    return run_clix(["user", handle, "tweets", handle, "--json", "-n", str(n)])
 
 
 def classify_tweet(tweet: dict) -> dict:
