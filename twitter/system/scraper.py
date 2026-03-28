@@ -47,6 +47,11 @@ def scrape_feed(n: int = 80) -> list[dict]:
     return run_clix(["feed", "--json", "-n", str(n)])
 
 
+def scrape_bookmarks(n: int = 30) -> list[dict]:
+    print(f"[scraper] Fetching bookmarks ({n})...")
+    return run_clix(["bookmarks", "--json", "-n", str(n)])
+
+
 def scrape_search(keyword: str, n: int = 20) -> list[dict]:
     print(f"[scraper] Searching: {keyword}")
     return run_clix(["search", keyword, "--json", "-n", str(n)])
@@ -150,23 +155,34 @@ def write_digest(tweets: list[dict], date: str):
     print(f"[scraper] Digest written → {path}")
 
 
-def run():
+def run(full: bool = True):
+    """
+    full=True  → scrape everything (no filter), larger volume
+    full=False → niche-only quick scrape
+    """
     init_db()
     date = datetime.now().strftime("%Y-%m-%d")
     all_tweets = []
 
-    # 1. Main feed
-    feed = scrape_feed(80)
+    # 1. Main feed — full TL
+    feed_count = 200 if full else 80
+    feed = scrape_feed(feed_count)
     all_tweets.extend(feed)
 
-    # 2. Search keywords (sample 3 random to avoid rate limits)
-    for kw in SEARCH_KEYWORDS[:3]:
-        results = scrape_search(kw, 15)
+    # 2. Bookmarks
+    bookmarks = scrape_bookmarks(30)
+    all_tweets.extend(bookmarks)
+
+    # 3. Search keywords
+    kw_limit = len(SEARCH_KEYWORDS) if full else 3
+    for kw in SEARCH_KEYWORDS[:kw_limit]:
+        results = scrape_search(kw, 20)
         all_tweets.extend(results)
 
-    # 3. Trending accounts (sample 5)
-    for handle in NICHE_ACCOUNTS[:5]:
-        acct = scrape_account(handle, 3)
+    # 4. Key accounts
+    acct_limit = len(NICHE_ACCOUNTS) if full else 5
+    for handle in NICHE_ACCOUNTS[:acct_limit]:
+        acct = scrape_account(handle, 5)
         all_tweets.extend(acct)
 
     # Deduplicate by id
@@ -179,20 +195,21 @@ def run():
 
     print(f"[scraper] {len(unique)} unique tweets collected")
 
-    # Classify + store niche-relevant ones
-    relevant = []
+    # Classify + store ALL (no niche filter when full=True)
+    stored = 0
     for t in unique:
         t = classify_tweet(t)
-        if is_niche_relevant(t):
+        if full or is_niche_relevant(t):
             upsert_feed_tweet(t)
-            relevant.append(t)
+            stored += 1
 
-    print(f"[scraper] {len(relevant)} niche-relevant tweets stored")
+    print(f"[scraper] {stored} tweets stored in DB")
 
-    # Write digest
+    # Write digest (top by engagement)
+    relevant = [t for t in unique if not t.get("is_retweet")]
     write_digest(relevant, date)
 
-    return relevant
+    return unique
 
 
 if __name__ == "__main__":

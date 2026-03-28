@@ -12,6 +12,7 @@ Usage:
   python main.py track --add         — manually add a tweet + metrics
   python main.py analyze             — update patterns from DB
   python main.py run                 — full pipeline: scrape + draft + post
+  python main.py style               — analyze feed for winning patterns
   python main.py status              — show today's status summary
 """
 import sys
@@ -51,6 +52,11 @@ def cmd_track(add_manual: bool = False):
 
 def cmd_analyze():
     from analyst import run
+    run()
+
+
+def cmd_style():
+    from style_analyzer import run
     run()
 
 
@@ -115,13 +121,15 @@ def cmd_status():
 
 
 def cmd_run(dry: bool = False):
-    """Full pipeline: scrape → draft → post."""
+    """Full pipeline: scrape → style analysis → draft → post."""
     print("=== Running full pipeline ===\n")
-    print("1/3 Scraping...")
+    print("1/4 Scraping full TL...")
     cmd_scrape()
-    print("\n2/3 Generating drafts...")
+    print("\n2/4 Analyzing feed patterns...")
+    cmd_style()
+    print("\n3/4 Generating drafts...")
     cmd_draft()
-    print("\n3/3 Posting approved tweets...")
+    print("\n4/4 Posting approved tweets...")
     cmd_post(dry=dry)
     print("\n=== Done ===")
 
@@ -150,6 +158,8 @@ def main():
         cmd_track(add_manual="--add" in args)
     elif command == "analyze":
         cmd_analyze()
+    elif command == "style":
+        cmd_style()
     elif command == "review":
         cmd_review(date)
     elif command == "status":

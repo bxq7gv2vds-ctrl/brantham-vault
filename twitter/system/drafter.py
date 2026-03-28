@@ -1,138 +1,158 @@
 """
-Drafter Agent — generates 7 tweet drafts per day via Claude API.
+Drafter Agent — generates 7 tweet drafts per day via claude CLI.
+Uses local claude auth (subscription), no API key needed.
 Drafts are spread across the day with recommended posting times.
 """
 import json
+import subprocess
 from datetime import datetime
 from pathlib import Path
 
-import anthropic
-
 from config import (
-    ANTHROPIC_API_KEY, CLAUDE_MODEL,
     VOICE_CARD, BLACKLIST, HOOKS_PATTERNS, TOPICS_RANKING,
-    DRAFTS, DRAFTS_PER_DAY
+    PATTERNS_JSON, DRAFTS, DRAFTS_PER_DAY
 )
 from db import init_db, save_draft, get_top_feed_tweets, get_all_drafts
 
 
-# Posting schedule throughout the day
 POSTING_SCHEDULE = [
-    ("08:30", "matin — audience pro FR se reveille"),
-    ("10:30", "matin — peak attention travail"),
-    ("12:30", "midi — pause dejeuner scroll"),
-    ("15:00", "apres-midi — creux productif"),
-    ("18:30", "fin de journee — debrief"),
-    ("20:30", "soiree — prime time global"),
+    ("08:30", "matin — audience pro FR se réveille"),
+    ("10:30", "matin — peak attention"),
+    ("12:30", "midi — pause déjeuner scroll"),
+    ("15:00", "après-midi — creux productif"),
+    ("18:30", "fin de journée"),
+    ("20:30", "soirée — prime time global"),
     ("22:30", "late night — builder community"),
 ]
 
 DRAFT_TYPES = [
-    ("hot_take", "Hot take / opinion tranchee — pas de hedge, affirme direct"),
-    ("breaking_react", "Reaction a une news du feed — etre le premier, angle inattendu"),
-    ("builder_log", "Builder log avec chiffres concrets — ce que tu build"),
-    ("reply_thread", "Reply strategique sous un tweet viral du feed — ajouter une info, pas juste 'good take'"),
-    ("hot_take", "Second hot take — sujet different du premier"),
-    ("builder_log", "Observation technique — un truc que tu as realise en buildant"),
-    ("humor", "Humor sec sur la vie de dev/builder — relatable, pas force"),
+    ("hot_take", "Hot take / opinion tranchée — pas de hedge, affirme direct"),
+    ("breaking_react", "Réaction à la news la plus virale du feed — angle inattendu, sois le premier"),
+    ("builder_log", "Builder log avec chiffres concrets de Paul"),
+    ("reply_thread", "Reply stratégique sous le tweet viral le plus répondable du feed — ajoute une info réelle"),
+    ("hot_take", "Second hot take — sujet différent, ton plus provocateur"),
+    ("builder_log", "Observation technique — truc appris en buildant ce mois-ci"),
+    ("humor", "Humour sec — vie de dev/builder, 3h du mat, localhost qui crash, sessions marathon"),
 ]
 
 
 def read_file(path: Path) -> str:
-    if path.exists():
-        return path.read_text(encoding="utf-8")
+    return path.read_text(encoding="utf-8") if path.exists() else ""
+
+
+def call_claude(prompt: str, model: str = "sonnet") -> str:
+    """Call claude CLI in non-interactive mode — uses subscription auth."""
+    result = subprocess.run(
+        ["claude", "-p", "--output-format", "text", "--model", model],
+        input=prompt,
+        capture_output=True,
+        text=True,
+        timeout=180,
+    )
+    if result.returncode != 0:
+        print(f"[drafter] claude error: {result.stderr[:300]}")
+        return ""
+    return result.stdout.strip()
+
+
+def load_style_patterns() -> str:
+    """Load the latest style analysis if available."""
+    if PATTERNS_JSON.exists():
+        try:
+            data = json.loads(PATTERNS_JSON.read_text(encoding="utf-8"))
+            # Format key insights compactly
+            lines = ["## PATTERNS GAGNANTS (issus de l'analyse du feed)"]
+
+            if voice := data.get("ideal_voice"):
+                lines.append(f"Voix idéale: {voice.get('tone','')}. {voice.get('what_makes_follow_worthy','')}")
+
+            if styles := data.get("winning_styles", [])[:4]:
+                lines.append("\nStyles qui performent:")
+                for s in styles:
+                    lines.append(f"- [{s.get('estimated_engagement','?')}] {s.get('name','')}: {s.get('template','')}")
+
+            if hooks := data.get("top_hooks", [])[:6]:
+                lines.append("\nTop hooks:")
+                for h in hooks:
+                    lines.append(f"- \"{h.get('hook','')}\" ({h.get('engagement','?')} likes)")
+
+            if anti := data.get("anti_patterns", []):
+                lines.append(f"\nÀ éviter: {', '.join(anti[:4])}")
+
+            return "\n".join(lines)
+        except (json.JSONDecodeError, KeyError):
+            pass
     return ""
 
 
-def build_system_prompt() -> str:
+def build_prompt(feed_highlights: list[dict], date: str) -> str:
     voice = read_file(VOICE_CARD)
     blacklist = read_file(BLACKLIST)
-    hooks = read_file(HOOKS_PATTERNS)
-    topics = read_file(TOPICS_RANKING)
+    style_patterns = load_style_patterns()
 
-    return f"""Tu es l'agent Twitter de Paul Roulleau. Tu dois generer des tweets qui sonnent EXACTEMENT comme lui.
+    # Format feed highlights
+    feed_text = ""
+    for i, t in enumerate(feed_highlights[:20], 1):
+        views = t.get("views", 0)
+        feed_text += (
+            f"{i}. @{t.get('author_handle')} | "
+            f"{t.get('likes',0)}L {t.get('retweets',0)}RT {t.get('bookmarks',0)}BM {views:,}v\n"
+            f"   \"{t.get('text','')[:240]}\"\n"
+            f"   tweet_url: {t.get('tweet_url','')}\n\n"
+        )
+
+    schedule_text = "\n".join([f"- {t}: {d}" for t, d in POSTING_SCHEDULE])
+    types_text = "\n".join([f"Draft {i+1} ({tp}): {desc}" for i, (tp, desc) in enumerate(DRAFT_TYPES)])
+
+    return f"""Tu génères des tweets pour Paul Roulleau. Réponds UNIQUEMENT en JSON valide (pas de markdown, pas d'explication).
 
 ## QUI EST PAUL
 {voice}
 
-## PATTERNS DE HOOKS QUI MARCHENT
-{hooks}
-
-## TOPICS ET LEUR ENGAGEMENT
-{topics}
-
-## BLACKLIST ABSOLUE — JAMAIS UTILISER CES MOTS
+## BLACKLIST ABSOLUE (ne jamais utiliser ces mots/patterns)
 {blacklist}
 
-## REGLES DE GENERATION
-1. Chaque tweet doit passer le test : "Est-ce qu'un pote de Paul dirait 'ouais c'est du Paul ca' ?"
-2. Phrases courtes. Fragments autorises. Pas de ponctuation systematique.
-3. Franglais naturel — pas force, juste quand ca vient naturellement.
-4. Zero emoji sauf usage ironique RARE.
-5. Varier la longueur des phrases (burstiness anti-AI).
-6. Pas de transition lisse entre idees — sauter directement au point.
-7. Les chiffres doivent etre SPECIFIQUES et VRAIS (issus du feed ou du contexte de Paul).
-8. Pour les replies : ajouter une INFO ou un CONTREPOINT, jamais "good take" ou "exactly".
+{style_patterns}
 
-## FORMAT DE SORTIE
-Tu generes exactement un JSON valide avec ce schema :
-{{
-  "drafts": [
-    {{
-      "content": "texte du tweet",
-      "format": "single|reply|thread_opener",
-      "topic": "llm_models|ai_agents|builders|automation|hot_take|humor|breaking_news",
-      "hook_type": "prediction|builder_flex|breaking_news|hot_take|humor|question|statement",
-      "recommended_time": "HH:MM",
-      "context": "en 1 ligne : pourquoi ce tweet maintenant, quelle inspiration du feed"
-    }}
-  ]
-}}
-
-Genere exactement {DRAFTS_PER_DAY} drafts. Pas plus, pas moins. JSON pur, sans markdown."""
-
-
-def build_user_prompt(feed_highlights: list[dict], date: str) -> str:
-    # Format top tweets from feed as context
-    feed_text = ""
-    for i, t in enumerate(feed_highlights[:15], 1):
-        eng = t.get("engagement", {}) if isinstance(t.get("engagement"), dict) else {
-            "likes": t.get("likes", 0),
-            "retweets": t.get("retweets", 0),
-            "bookmarks": t.get("bookmarks", 0),
-            "views": t.get("views", 0),
-        }
-        feed_text += (
-            f"{i}. @{t.get('author_handle')} [{t.get('topic','?')}/{t.get('hook_type','?')}]\n"
-            f"   \"{t.get('text','')[:200]}\"\n"
-            f"   {eng.get('likes',0)}L · {eng.get('retweets',0)}RT · {eng.get('bookmarks',0)}BM · {eng.get('views',0):,}v\n\n"
-        )
-
-    schedule_text = "\n".join([f"- {time}: {desc}" for time, desc in POSTING_SCHEDULE])
-    types_text = "\n".join([f"- Draft {i+1} ({t[0]}): {t[1]}" for i, t in enumerate(DRAFT_TYPES)])
-
-    return f"""Date : {date}
-
-## FEED DU JOUR — Top tweets niche (inspiration pour les reactions et le contexte)
+## FEED DU JOUR — Top tweets {date} (pour contexte et réactions)
 {feed_text}
 
 ## PROGRAMME DE PUBLICATION
 {schedule_text}
 
-## TYPES DE DRAFTS A GENERER (dans cet ordre)
+## TYPES DE DRAFTS À GÉNÉRER (dans l'ordre)
 {types_text}
 
-Genere les {DRAFTS_PER_DAY} drafts. Utilise le feed pour :
-- Les reactions / breaking news : cite ou reagis a un tweet specifique du feed
-- Le contexte du marche AI today
-- Les chiffres et faits recents
+## CHIFFRES RÉELS DE PAUL À UTILISER
+- 3,918 procédures judiciaires scrapées PAR JOUR
+- 6 agents AI autonomes, 0 intervention humaine
+- 184,218 procédures BODACC dans la DB
+- Cox C-index = 0.84 (scoring prédictif)
+- Claude Code 10h/jour, sessions 5-11h
+- Stack: Python, FastAPI, Next.js 15, Playwright, PostgreSQL
+- EDHEC BBA, fondateur Brantham Partners
+- Build en solo
 
-Pour les builder logs : utilise les chiffres REELS de Paul (3900 procedures/jour, 6 agents, 184K procedures scrapees, Cox C-index 0.84, Claude Code 10h/jour).
-"""
+## FORMAT DE SORTIE STRICT
+JSON pur, pas de code block, pas de texte avant/après:
+{{
+  "drafts": [
+    {{
+      "content": "texte exact du tweet",
+      "format": "single|reply|thread_opener",
+      "topic": "llm_models|ai_agents|builders|automation|hot_take|humor|breaking_news",
+      "hook_type": "prediction|builder_flex|breaking_news|hot_take|humor|question|statement",
+      "recommended_time": "HH:MM",
+      "context": "1 ligne: pourquoi ce tweet maintenant",
+      "reply_to_url": "URL du tweet si c'est une reply, sinon null"
+    }}
+  ]
+}}
+
+Génère exactement {DRAFTS_PER_DAY} drafts. Test chaque draft: "Un pote de Paul lirait ça et dirait 'ouais c'est du Paul ca' ?" Si non, recommence."""
 
 
 def write_draft_queue(drafts: list[dict], date: str):
-    """Write human-readable approval queue to vault."""
     lines = [
         f"---",
         f"type: drafts",
@@ -142,16 +162,18 @@ def write_draft_queue(drafts: list[dict], date: str):
         f"",
         f"# Drafts {date} — En attente de review",
         f"",
-        f"> **Instructions** : Change `[PENDING]` en `[A]` (approve), `[R]` (reject), ou edite le contenu.",
-        f"> Ensuite lance : `python main.py post --date {date}`",
+        f"> Change `[PENDING]` → `[A]` (approve) ou `[R]` (reject).",
+        f"> Édite le texte entre ``` si tu veux modifier.",
+        f"> Ensuite: `python main.py post`",
         f"",
     ]
 
     for i, d in enumerate(drafts, 1):
+        reply_note = f" | REPLY → {d.get('reply_to_url','')}" if d.get("reply_to_url") else ""
         lines += [
             f"---",
             f"",
-            f"## Draft {i} — {d.get('recommended_time', '?')} — {d.get('topic','?')} / {d.get('hook_type','?')}",
+            f"## Draft {i} — {d.get('recommended_time','?')} — {d.get('topic','?')}/{d.get('hook_type','?')}{reply_note}",
             f"",
             f"**Status:** [PENDING]",
             f"**Context:** {d.get('context','')}",
@@ -164,7 +186,7 @@ def write_draft_queue(drafts: list[dict], date: str):
 
     path = DRAFTS / f"{date}.md"
     path.write_text("\n".join(lines), encoding="utf-8")
-    print(f"[drafter] Draft queue written → {path}")
+    print(f"[drafter] Draft queue → {path}")
 
 
 def run(date: str = None):
@@ -172,44 +194,42 @@ def run(date: str = None):
     if not date:
         date = datetime.now().strftime("%Y-%m-%d")
 
-    # Check if drafts already exist for today
     existing = get_all_drafts(date)
     if existing:
-        print(f"[drafter] {len(existing)} drafts already exist for {date}, skipping generation")
+        print(f"[drafter] {len(existing)} drafts already exist for {date}")
         return existing
 
-    # Get feed highlights from DB
-    feed_highlights = get_top_feed_tweets(limit=20, min_likes=30)
-    print(f"[drafter] Using {len(feed_highlights)} feed highlights as context")
+    feed_highlights = get_top_feed_tweets(limit=20, min_likes=50)
+    print(f"[drafter] Feed context: {len(feed_highlights)} top tweets")
 
-    # Build prompts
-    system = build_system_prompt()
-    user = build_user_prompt(feed_highlights, date)
+    prompt = build_prompt(feed_highlights, date)
 
-    # Call Claude API
-    print(f"[drafter] Calling Claude {CLAUDE_MODEL}...")
-    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
-    message = client.messages.create(
-        model=CLAUDE_MODEL,
-        max_tokens=4096,
-        system=system,
-        messages=[{"role": "user", "content": user}],
-    )
+    print(f"[drafter] Calling claude CLI...")
+    response = call_claude(prompt)
 
-    response_text = message.content[0].text.strip()
-
-    # Parse JSON response
-    try:
-        data = json.loads(response_text)
-        raw_drafts = data.get("drafts", [])
-    except json.JSONDecodeError as e:
-        print(f"[drafter] JSON parse error: {e}")
-        print(f"[drafter] Raw response (first 500 chars): {response_text[:500]}")
+    if not response:
+        print("[drafter] No response from claude CLI")
         return []
+
+    # Parse JSON
+    raw_drafts = []
+    try:
+        data = json.loads(response)
+        raw_drafts = data.get("drafts", [])
+    except json.JSONDecodeError:
+        # Try to extract JSON
+        start = response.find("{")
+        end = response.rfind("}") + 1
+        if start >= 0 and end > start:
+            try:
+                data = json.loads(response[start:end])
+                raw_drafts = data.get("drafts", [])
+            except json.JSONDecodeError:
+                print(f"[drafter] JSON parse error. Raw: {response[:400]}")
+                return []
 
     print(f"[drafter] {len(raw_drafts)} drafts generated")
 
-    # Save to DB
     saved = []
     for d in raw_drafts:
         draft_id = save_draft(
@@ -224,10 +244,8 @@ def run(date: str = None):
         d["id"] = draft_id
         saved.append(d)
 
-    # Write human-readable queue to vault
     write_draft_queue(saved, date)
-
-    print(f"[drafter] Done. Review at: vault/twitter/agent/drafts/{date}.md")
+    print(f"[drafter] Done. Review: vault/twitter/agent/drafts/{date}.md")
     return saved
 
 

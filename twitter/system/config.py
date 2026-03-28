@@ -1,8 +1,5 @@
 import os
 from pathlib import Path
-from dotenv import load_dotenv
-
-load_dotenv()
 
 # Paths
 VAULT = Path("/Users/paul/vault/twitter")
@@ -25,13 +22,9 @@ TOPICS_RANKING = AGENT / "niche" / "topics-ranking.md"
 HOOKS_PATTERNS = PATTERNS_DIR / "hooks-that-work.md"
 
 # clix binary
-CLIX = os.getenv("CLIX_PATH", "clix")
+CLIX = "clix"
 
-# Claude
-ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
-CLAUDE_MODEL = "claude-sonnet-4-6"
-
-# Twitter handle (Paul's account)
+# Twitter handle (Paul's account — set in env or hardcode here)
 TWITTER_HANDLE = os.getenv("TWITTER_HANDLE", "")
 
 # Drafts per day target
