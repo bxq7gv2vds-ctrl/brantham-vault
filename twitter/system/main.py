@@ -87,6 +87,11 @@ def cmd_replies(date: str = None):
     print(f"[replies] {len(replies)} reply drafts generated")
 
 
+def cmd_mass(handle: str = None):
+    from mass_collector import run
+    run(paul_handle=handle)
+
+
 def cmd_week1():
     """Week 1 full data collection + model init."""
     print("=== WEEK 1 — Full Data Harvest ===\n")
@@ -204,6 +209,12 @@ def main():
         cmd_post(date, dry="--dry" in args)
     elif command == "track":
         cmd_track(add_manual="--add" in args)
+    elif command == "mass":
+        handle = None
+        for i, a in enumerate(args):
+            if a == "--handle" and i + 1 < len(args):
+                handle = args[i + 1]
+        cmd_mass(handle)
     elif command == "collect":
         cmd_collect(quick="--quick" in args)
     elif command == "embed":
