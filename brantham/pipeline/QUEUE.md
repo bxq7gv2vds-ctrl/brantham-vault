@@ -40,3 +40,23 @@
 - [[brantham/_MOC]]
 - [[brantham/pipeline/BOARD]]
 - [[brantham/sessions/auto-enrichment-2026-03-28]]
+
+---
+
+## Ajout automatique — 2026-03-28
+
+Nouvelles opportunites ajoutees au pipeline (toutes en procedure de cession, CA 3-10M€) :
+
+| Slug | Nom | Secteur | Localisation | Deadline | SIREN | Statut |
+|------|-----|---------|-------------|----------|-------|--------|
+| ajup-transports-ballet | TRANSPORTS BALLET | Transport routier | 70 Haute-Saône | 07/02/2025 | 442534640 | Enrichi |
+| ajup-adiamas | ADIAMAS | Fabrication acier inox | 63 Puy-de-Dôme | 27/10/2025 | 305823403 | Enrichi |
+| ajup-gba-enseigne-3-bois | GBA ENSEIGNE 3 BOIS | Granulés bois | 03 Allier | 05/01/2026 | N/A | Analyse basique |
+| ajup-aciers-coste | ACIERS COSTE | Laminage acier | 63 Puy-de-Dôme | 18/03/2026 | 745880369 | Enrichi |
+| ajup-ppa | PPA | Imprimerie édition | 93 Seine-Saint-Denis | 30/03/2026 | 491115499 | Enrichi + Repreneurs |
+| ajup-mgl-enseigne-lolly-s | MGL Lolly's | Distribution confiserie | 75 Paris | 20/04/2026 | N/A | Analyse basique |
+| ajup-tubindus | TUBINDUS | Tubes industriels | 39 Jura | 20/04/2026 | 909130379 | Enrichi |
+| p2g-organisme-de-formations-aux-m-tiers-du-num-rique | Formation numérique | Formation pro | 75 Paris | 19/09/2025 | N/A | Analyse basique + Repreneurs |
+| trajectoire-parfumerie-sous-traitance-industrielle | Parfumerie ST | Parfumerie | 45 Loiret | 25/02/2026 | N/A | Analyse basique |
+| trajectoire-2025-05-2562pc | Stockage industriel | Commerce équip. | 37 Indre-et-Loire | 07/01/2026 | N/A | Analyse basique |
+
