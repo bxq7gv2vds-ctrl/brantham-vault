@@ -1,92 +1,50 @@
-# Session auto-enrichment — 2026-03-28
+# Session Auto-Enrichment — 2026-03-28
 
-**Heure**: 10:45 CET
-**Budget utilise**: ~$0.47/$0.50
+**Date** : 2026-03-28 22:53 CET  
+**Type** : Pipeline automatique — scrape + enrichissement + matching  
 
 ---
 
 ## Resultats
 
-### 1. Scrape AJ
-- Fichier precedent: 2026-03-28 04:18 (6.5h — depasse seuil 3h)
-- Nouveau scrape: 462 opportunites
-- 359 expirees supprimees
-- 25 sites OK, 6 vides, 0 erreurs
+| Metrique | Valeur |
+|----------|--------|
+| Fichier aj_annonces.json | 463 opportunites (scraper relance en background) |
+| Opportunites eligibles identifiees | 73 (CA > 3M€, sans dossier existant) |
+| Top 10 selectionnes | 10 |
+| Dossiers crees | 10 |
+| Enrichissement Pappers reussi | 5/10 |
+| Enrichissement Pappers echec (nom anonyme) | 5/10 |
+| Repreneurs identifies | 3 deals (rate limit API govt 429) |
 
-### 2. Opportunites identifiees
-- Eligible (CA > 500K, sans dossier existant): 17
-- Top 10 selectionnees pour enrichissement
+## Deals traites
 
-### 3. Dossiers crees (10/10)
+1. **ajup-transports-ballet** — TRANSPORTS BALLET | SIREN 442534640 | Transport routier 70 | 5 repreneurs
+2. **ajup-adiamas** — ADIAMAS | SIREN 305823403 | Fabrication acier inox 63
+3. **ajup-gba-enseigne-3-bois** — GBA ENSEIGNE 3 BOIS | Granulés bois 03 | Pappers non trouve
+4. **ajup-aciers-coste** — ACIERS COSTE | SIREN 745880369 | Laminage acier 63 | Deadline: 18/03/2026
+5. **ajup-ppa** — PPA | SIREN 491115499 | Imprimerie 93 | Deadline: 30/03/2026 | 1 repreneur
+6. **ajup-mgl-enseigne-lolly-s** — MGL Lolly's | Distribution confiserie Paris | Pappers non trouve
+7. **ajup-tubindus** — TUBINDUS | SIREN 909130379 | Tubes industriels 39 | Deadline: 20/04/2026
+8. **p2g-organisme-de-formations-aux-m-tiers-du-num-rique** — Formation numérique Paris | 5 repreneurs
+9. **trajectoire-parfumerie-sous-traitance-industrielle** — Parfumerie ST | Loiret 45
+10. **trajectoire-2025-05-2562pc** — Stockage industriel | Indre-et-Loire 37
 
-| Slug | Societe | CA | SIREN | NAF |
-|------|---------|-----|-------|-----|
-| ajup-polytechnyl | POLYTECHNYL | >10M | 815232848 | 20.16Z |
-| ajup-solarwatt-france | SOLARWATT FRANCE | >10M | 493420434 | 46.52Z |
-| ajup-sogran | SOGRAN | >10M | 330714007 | 49.41A |
-| ajup-saint-loc | SAINTELOC | >10M | 480532746 | 45.11Z |
-| ajup-garage-des-stuarts | GARAGE DES STUARTS | >10M | 493719231 | 45.11Z |
-| ajilink-grandest-fonderie-de-niederbronn | FONDERIE DE NIEDERBRONN | >10M | 499026169 | 24.51Z |
-| bma-societe-d-application-des-silicones-alimentaires | SASA | >10M | N/A | N/A |
-| p2g-groupe-sp-cialis-dans-la-valorisation-des-projets-d-effi | Groupe CEE | >10M | N/A | N/A |
-| aj-specialises-aed | AED | 1.22M | 909690927 | 45.20B |
-| meynet-sa-ugi-pain | SA UGI-PAIN | 1.02M | 304690910 | 10.71A |
+## Alertes
 
-### 4. Enrichissement Pappers
-- Enrichis avec SIREN: 8/10
-- Sans SIREN (noms trop generiques): 2 (SASA, Groupe CEE)
-- Fichiers generes: enrichment.json + analyse.md par dossier
+- ACIERS COSTE (ajup-aciers-coste) : deadline 18/03/2026 DÉPASSÉE — verifier statut
+- PPA (ajup-ppa) : deadline 30/03/2026 dans 2 jours — URGENT
+- API gouvernement rate-limited (429) pour 7/10 deals — repreneurs incomplets
 
-### 5. Matching repreneurs
-- FastAPI (localhost:8000): DOWN — endpoint matching indisponible
-- API gouvernement (fallback): 429 sur premiers appels, partiel ensuite
-- Repreneurs identifies: 2/10 avec resultats (AED: 5, UGI-PAIN: 5)
-- Reste: acheteurs.json crees avec 0 ou peu de resultats
+## Actions suivantes
 
-### 6. Pipeline mis a jour
-- vault/brantham/pipeline/QUEUE.md: update avec 10 nouvelles opportunites
-
-## Erreurs / Points d'attention
-
-- FastAPI down: relancer avec `cd /Users/paul/Desktop/brantham-partners/api && source .venv/bin/activate && uvicorn main:app`
-- API gouv rate-limit: espacer les requetes (2s min)
-- 2 societes sans SIREN: enrichissement manuel requis
+- Acceder dataroom PPA avant 30/03/2026
+- Relancer matching repreneurs (espacer les requetes)
+- Enrichir les 5 deals sans SIREN via recherche manuelle
 
 ## Related
 
-[[brantham/_MOC]] | [[brantham/pipeline/QUEUE]]
-- Deep enrichment termine a 10:50
+- [[brantham/_MOC]]
+- [[brantham/pipeline/QUEUE]]
+- Deep enrichment termine a 22:57
 ---
-
-## Cycle 13:29
-
-- **Scrape AJ** : lancement...
-  - OK : 463 opportunites scrapees
-
-## Cycle 16:29
-
-- **Scrape AJ** : lancement...
-  - OK : 463 opportunites scrapees
-
-## Cycle 16:50
-
-- **Scrape AJ** : lance a 16:50 — 463 opportunites (25 OK, 6 vides, 0 erreurs)
-- **Nouvelles opportunites qualifiees** : 0 (tous les deals CA>500K ou score>60 ont deja un dossier)
-- **FastAPI** : DOWN (matching repreneurs indisponible)
-- **QUEUE.md** : pas de mise a jour necessaire (pipeline inchange)
-- **Action** : aucune creation de dossier — todos de session couverts
-
-- Deep enrichment termine a 16:53
----
-
-## Cycle 19:29
-
-- **Scrape AJ** : lancement...
-  - OK : 463 opportunites scrapees
-
-## Cycle 22:30
-
-- **Scrape AJ** : lancement...
-  - OK : 463 opportunites scrapees
-
-## Deep Enrichment 22:53
