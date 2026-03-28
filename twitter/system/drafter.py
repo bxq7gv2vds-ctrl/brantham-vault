@@ -123,15 +123,19 @@ def build_prompt(feed_highlights: list[dict], date: str) -> str:
 ## TYPES DE DRAFTS À GÉNÉRER (dans l'ordre)
 {types_text}
 
-## CHIFFRES RÉELS DE PAUL À UTILISER
-- 3,918 procédures judiciaires scrapées PAR JOUR
-- 6 agents AI autonomes, 0 intervention humaine
-- 184,218 procédures BODACC dans la DB
-- Cox C-index = 0.84 (scoring prédictif)
-- Claude Code 10h/jour, sessions 5-11h
+## CONTEXTE DE PAUL (pour l'authenticité, pas pour promouvoir quoi que ce soit)
+- Utilise Claude Code 10h/jour, sessions marathon 5-11h
+- Build des agents AI autonomes en solo
 - Stack: Python, FastAPI, Next.js 15, Playwright, PostgreSQL
-- EDHEC BBA, fondateur Brantham Partners
-- Build en solo
+- EDHEC BBA, 24 ans, Paris
+- Power user AI — il teste tout avant les autres
+- Claude > GPT pour le code, conviction forte depuis 6 mois
+
+## IMPORTANT — SUJETS INTERDITS DANS LES DRAFTS
+- Toute référence à Brantham Partners
+- M&A, redressement judiciaire, procédures collectives, BODACC
+- Clients, deals, consulting
+Ce compte est personnel. On parle d'AI, de tech, de builder culture. C'est tout.
 
 ## FORMAT DE SORTIE STRICT
 JSON pur, pas de code block, pas de texte avant/après:
