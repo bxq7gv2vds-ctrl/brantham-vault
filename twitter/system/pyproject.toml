@@ -1,0 +1,16 @@
+[project]
+name = "twitter-agent"
+version = "0.1.0"
+description = "Twitter growth agent — scraper, analyst, drafter, tracker"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=0.84.0",
+    "python-dotenv>=1.0.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+dev-dependencies = []
