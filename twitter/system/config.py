@@ -1,35 +1,41 @@
 import os
 from pathlib import Path
 
-# Paths
-VAULT = Path("/Users/paul/vault/twitter")
-AGENT = VAULT / "agent"
-DIGESTS = VAULT / "digests"
-DRAFTS = AGENT / "drafts"
-METRICS = AGENT / "metrics"
-PATTERNS_DIR = AGENT / "patterns"
-KG = Path("/Users/paul/vault/twitter/knowledge-graph")
+# ============================================================
+# Twitter Agent — paths OUTSIDE the Brantham vault
+# Knowledge graph and agent data live in /Users/paul/twitter-agent/
+# ============================================================
+
+BASE = Path("/Users/paul/twitter-agent")
+
+DIGESTS = BASE / "digests"
+DRAFTS = BASE / "drafts"
+METRICS = BASE / "metrics"
+PATTERNS_DIR = BASE / "patterns"
+ACCOUNTS_DIR = BASE / "accounts"
+KG = BASE / "knowledge-graph"
 
 # Knowledge graph files
 DB_PATH = KG / "tweets.db"
 PATTERNS_JSON = KG / "patterns.json"
 TOPICS_JSON = KG / "topics.json"
 
-# Agent config files
-VOICE_CARD = AGENT / "voice-card.md"
-BLACKLIST = AGENT / "blacklist.md"
-TOPICS_RANKING = AGENT / "niche" / "topics-ranking.md"
-HOOKS_PATTERNS = PATTERNS_DIR / "hooks-that-work.md"
+# Agent config files (voice card etc. stay in vault/twitter/agent/ — that's fine)
+AGENT_VAULT = Path("/Users/paul/vault/twitter/agent")
+VOICE_CARD = AGENT_VAULT / "voice-card.md"
+BLACKLIST = AGENT_VAULT / "blacklist.md"
+TOPICS_RANKING = AGENT_VAULT / "niche" / "topics-ranking.md"
+HOOKS_PATTERNS = AGENT_VAULT / "patterns" / "hooks-that-work.md"
 
 # clix binary
 CLIX = "clix"
 
-# Twitter handle (Paul's account — set in env or hardcode here)
+# Twitter handle
 TWITTER_HANDLE = os.getenv("TWITTER_HANDLE", "")
 
-# Drafts per day target
+# Drafts per day
 DRAFTS_PER_DAY = 7
 
 # Ensure dirs exist
-for d in [DIGESTS, DRAFTS, METRICS, KG]:
+for d in [DIGESTS, DRAFTS, METRICS, PATTERNS_DIR, ACCOUNTS_DIR, KG]:
     d.mkdir(parents=True, exist_ok=True)
