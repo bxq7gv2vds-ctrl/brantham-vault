@@ -11,7 +11,13 @@ Usage:
   python main.py track               — sync metrics from profile
   python main.py track --add         — manually add a tweet + metrics
   python main.py analyze             — update patterns from DB
-  python main.py run                 — full pipeline: scrape + draft + post
+  python main.py collect             — WEEK 1: deep scrape all niche accounts (10K+ tweets)
+  python main.py embed               — embed all tweets (semantic similarity)
+  python main.py embed --stats       — embedding coverage
+  python main.py train               — train engagement predictor model
+  python main.py replies             — find reply opportunities + generate replies
+  python main.py run                 — full daily pipeline: scrape + style + draft + replies + post
+  python main.py week1               — WEEK 1: collect + embed + style + train
   python main.py style               — analyze feed for winning patterns
   python main.py status              — show today's status summary
 """
@@ -53,6 +59,46 @@ def cmd_track(add_manual: bool = False):
 def cmd_analyze():
     from analyst import run
     run()
+
+
+def cmd_collect(quick: bool = False):
+    from data_collector import run
+    run(quick=quick)
+
+
+def cmd_embed():
+    from embedder import embed_all, get_embedding_stats
+    stats = get_embedding_stats()
+    print(f"[embed] {stats['embedded']:,} embedded, {stats['pending']:,} pending")
+    embed_all()
+
+
+def cmd_train():
+    from engagement_model import train, get_model_status
+    print(f"[train] Current model: {get_model_status()}")
+    metrics = train()
+    if "error" not in metrics:
+        print(f"[train] Done — {metrics['n_samples']} samples, R²={metrics['r2_cv']:.3f}")
+
+
+def cmd_replies(date: str = None):
+    from reply_finder import find_and_generate_replies
+    replies = find_and_generate_replies(date=date)
+    print(f"[replies] {len(replies)} reply drafts generated")
+
+
+def cmd_week1():
+    """Week 1 full data collection + model init."""
+    print("=== WEEK 1 — Full Data Harvest ===\n")
+    print("1/4 Deep collecting all niche accounts...")
+    cmd_collect()
+    print("\n2/4 Embedding tweets...")
+    cmd_embed()
+    print("\n3/4 Analyzing styles...")
+    cmd_style()
+    print("\n4/4 Training engagement model...")
+    cmd_train()
+    print("\n=== Week 1 setup complete ===")
 
 
 def cmd_style():
@@ -121,15 +167,17 @@ def cmd_status():
 
 
 def cmd_run(dry: bool = False):
-    """Full pipeline: scrape → style analysis → draft → post."""
-    print("=== Running full pipeline ===\n")
-    print("1/4 Scraping full TL...")
+    """Full daily pipeline: scrape → style → draft → replies → post."""
+    print("=== Daily pipeline ===\n")
+    print("1/5 Scraping full TL...")
     cmd_scrape()
-    print("\n2/4 Analyzing feed patterns...")
+    print("\n2/5 Analyzing feed patterns...")
     cmd_style()
-    print("\n3/4 Generating drafts...")
+    print("\n3/5 Generating original drafts...")
     cmd_draft()
-    print("\n4/4 Posting approved tweets...")
+    print("\n4/5 Finding reply opportunities...")
+    cmd_replies()
+    print("\n5/5 Posting approved tweets...")
     cmd_post(dry=dry)
     print("\n=== Done ===")
 
@@ -156,6 +204,21 @@ def main():
         cmd_post(date, dry="--dry" in args)
     elif command == "track":
         cmd_track(add_manual="--add" in args)
+    elif command == "collect":
+        cmd_collect(quick="--quick" in args)
+    elif command == "embed":
+        if "--stats" in args:
+            from embedder import get_embedding_stats
+            s = get_embedding_stats()
+            print(f"Embedded: {s['embedded']:,} / {s['total']:,} ({s['pending']:,} pending)")
+        else:
+            cmd_embed()
+    elif command == "train":
+        cmd_train()
+    elif command == "replies":
+        cmd_replies(date)
+    elif command == "week1":
+        cmd_week1()
     elif command == "analyze":
         cmd_analyze()
     elif command == "style":

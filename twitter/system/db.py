@@ -83,6 +83,7 @@ def init_db():
             last_updated TEXT DEFAULT (datetime('now'))
         );
 
+        -- embedding column (added by embedder if not present)
         CREATE INDEX IF NOT EXISTS idx_feed_collected ON feed_tweets(collected_at);
         CREATE INDEX IF NOT EXISTS idx_feed_engagement ON feed_tweets(likes DESC);
         CREATE INDEX IF NOT EXISTS idx_drafts_date ON drafts(date);
