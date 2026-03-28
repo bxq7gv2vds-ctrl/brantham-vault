@@ -477,9 +477,11 @@ def _load_style_dna() -> str:
         if not dna_dir.exists():
             return ""
 
-        lines = ["## STYLE DNA (comptes qui ont explosé — inspire le HOW, pas le WHAT)\n"]
-        for handle in ["levelsio", "swyx", "Frenchiee", "melvynx"]:
-            path = dna_dir / f"{handle.lower()}.json"
+        lines = ["## STYLE DNA REPLIES (inspire le HOW, pas le WHAT)\n"]
+        for handle in ["steipete", "levelsio", "poetengineer__", "Hesamation"]:
+            path = dna_dir / f"{handle.lower()}_deep.json"
+            if not path.exists():
+                path = dna_dir / f"{handle.lower()}.json"
             if not path.exists():
                 continue
             d = json.loads(path.read_text())

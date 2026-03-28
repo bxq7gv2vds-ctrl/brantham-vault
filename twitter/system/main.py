@@ -12,6 +12,9 @@ Usage:
   python main.py track --add         — manually add a tweet + metrics
   python main.py analyze             — update patterns from DB
   python main.py collect             — WEEK 1: deep scrape all niche accounts (10K+ tweets)
+  python main.py mass                — mass windowed scrape all accounts (30 months)
+  python main.py mass --replies      — scrape replies only from DNA accounts (reply_guy learning)
+  python main.py mass --account X   — single account
   python main.py embed               — embed all tweets (semantic similarity)
   python main.py embed --stats       — embedding coverage
   python main.py train               — train engagement predictor model
@@ -21,7 +24,10 @@ Usage:
   python main.py reply-guy --live    — bird search only, skip DB
   python main.py reply-guy --track   — update metrics for posted replies
   python main.py reply-guy --patterns— show what strategies are working
-  python main.py run                 — full daily pipeline: scrape + style + draft + replies + post
+  python main.py telegram            — push today's drafts + replies to Telegram
+  python main.py telegram --replies  — only reply drafts
+  python main.py telegram --originals— only original drafts
+  python main.py run                 — full daily pipeline: scrape + style + draft + replies + telegram + post
   python main.py week1               — WEEK 1: collect + embed + style + train
   python main.py style               — analyze feed for winning patterns
   python main.py status              — show today's status summary
@@ -102,9 +108,12 @@ def cmd_reply_guy(n: int = 10, live_only: bool = False,
         print(f"[reply-guy] {len(replies)} reply drafts ready")
 
 
-def cmd_mass(handle: str = None):
-    from mass_collector import run
-    run(paul_handle=handle)
+def cmd_mass(handle: str = None, replies_only: bool = False, account: str = None):
+    from mass_collector import run, run_reply_dna
+    if replies_only:
+        run_reply_dna(single_account=account)
+    else:
+        run(paul_handle=handle)
 
 
 def cmd_week1():
@@ -193,18 +202,32 @@ def cmd_status():
     print()
 
 
+def cmd_telegram(date: str = None, only_replies: bool = False, only_originals: bool = False):
+    from telegram_sender import run
+    run(date=date, only_replies=only_replies, only_originals=only_originals)
+
+
 def cmd_run(dry: bool = False):
-    """Full daily pipeline: scrape → style → draft → reply-guy → post."""
-    print("=== Daily pipeline ===\n")
-    print("1/5 Scraping full TL...")
+    """Full daily pipeline: scrape → bird enrich → draft (15) → reply-guy (20) → telegram → post."""
+    print("=== Daily pipeline — VOLUME MODE ===\n")
+    print("1/6 Scraping full TL (for-you + following)...")
     cmd_scrape()
-    print("\n2/5 Analyzing feed patterns...")
-    cmd_style()
-    print("\n3/5 Generating original drafts...")
+    print("\n2/6 Bird enrichment (live AI tweets)...")
+    try:
+        from bird_enricher import enrich
+        enrich()
+    except Exception as e:
+        print(f"  [warn] bird enrich: {e}")
+    print("\n3/6 Generating 15 original drafts...")
     cmd_draft()
-    print("\n4/5 Hunting reply opportunities (reply-guy)...")
-    cmd_reply_guy(n=10)
-    print("\n5/5 Posting approved tweets...")
+    print("\n4/6 Hunting 20 reply opportunities...")
+    cmd_reply_guy(n=20)
+    print("\n5/6 Pushing drafts to Telegram...")
+    try:
+        cmd_telegram()
+    except Exception as e:
+        print(f"  [warn] telegram: {e}")
+    print("\n6/6 Posting approved tweets...")
     cmd_post(dry=dry)
     print("\n=== Done ===")
 
@@ -233,10 +256,13 @@ def main():
         cmd_track(add_manual="--add" in args)
     elif command == "mass":
         handle = None
+        account = None
         for i, a in enumerate(args):
             if a == "--handle" and i + 1 < len(args):
                 handle = args[i + 1]
-        cmd_mass(handle)
+            if a == "--account" and i + 1 < len(args):
+                account = args[i + 1]
+        cmd_mass(handle, replies_only="--replies" in args, account=account)
     elif command == "collect":
         cmd_collect(quick="--quick" in args)
     elif command == "embed":
@@ -273,6 +299,12 @@ def main():
         cmd_review(date)
     elif command == "status":
         cmd_status()
+    elif command == "telegram":
+        cmd_telegram(
+            date=date,
+            only_replies="--replies" in args,
+            only_originals="--originals" in args,
+        )
     elif command == "run":
         cmd_run(dry="--dry" in args)
     else:

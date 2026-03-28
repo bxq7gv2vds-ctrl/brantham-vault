@@ -36,7 +36,7 @@ CLIX = "clix"
 TWITTER_HANDLE = os.getenv("TWITTER_HANDLE", "")
 
 # Drafts per day
-DRAFTS_PER_DAY = 7
+DRAFTS_PER_DAY = 15
 
 # Ensure dirs exist
 for d in [DIGESTS, DRAFTS, METRICS, PATTERNS_DIR, ACCOUNTS_DIR, LEARNING_DIR, KG]:

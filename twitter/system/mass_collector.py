@@ -8,6 +8,7 @@ Usage:
   python mass_collector.py --handle paulhandle — also fetch full following list first
   python mass_collector.py --account levelsio  — single account
 """
+import os
 import subprocess
 import json
 import time
@@ -32,7 +33,7 @@ SEED_ACCOUNTS = [
     "noahzweben", "lydiahallie", "poetengineer__",
     "WatcherGuru", "DeItaone",
     # Tier 2-FR
-    "Frenchiee", "melvynx", "0xmaxou", "BrivaelFr", "thismacapital",
+    "Frenchiee", "Frenchie_", "melvynx", "0xmaxou", "BrivaelFr", "thismacapital",
     # Tier 3
     "arafatkatze", "zostaff", "sawyerhood", "plbiojout",
     # Extra high-value found in feed
@@ -42,6 +43,15 @@ SEED_ACCOUNTS = [
     # From 0xMikeTheIntern's following — AI/ML/builders
     "NousResearch", "ylecun", "OpenAI", "TheRundownAI", "SemiAnalysis_",
     "ericliujt", "shafu0x", "SpencerHakimian",
+]
+
+# Accounts we specifically want replies from (for reply_guy learning)
+REPLY_DNA_ACCOUNTS = [
+    "steipete", "levelsio", "swyx", "gregisenberg",
+    "poetengineer__", "Hesamation", "buccocapital",
+    "Frenchie_", "Frenchiee", "BrivaelFr", "melvynx",
+    "vivoplt", "CantEverDie", "bcherny", "lydiahallie",
+    "noahzweben", "alexalbert__",
 ]
 
 KEYWORDS = [
@@ -136,6 +146,86 @@ def scrape_account_windowed(handle: str, months_back: int = 30, progress: dict =
     return stored
 
 
+def _load_bird_auth() -> dict:
+    """Load AUTH_TOKEN + CT0 from clix auth file."""
+    auth_path = Path.home() / ".config" / "clix" / "auth.json"
+    if not auth_path.exists():
+        return {}
+    try:
+        data = json.loads(auth_path.read_text())
+        acc = data.get("accounts", {}).get("default", {})
+        return {
+            "AUTH_TOKEN": acc.get("auth_token", ""),
+            "CT0": acc.get("ct0", ""),
+        }
+    except Exception:
+        return {}
+
+
+def _normalize_bird_tweet(t: dict) -> dict:
+    """Convert bird JSON format to clix/upsert_feed_tweet format."""
+    author = t.get("author") or {}
+    text = t.get("text", "")
+    is_rt = text.startswith("RT @")
+    tweet_id = t.get("id", "")
+    handle = author.get("username", "")
+    return {
+        "id": tweet_id,
+        "text": text,
+        "author_handle": handle,
+        "author_name": author.get("name", ""),
+        "author_verified": False,
+        "created_at": t.get("createdAt", ""),
+        "is_retweet": is_rt,
+        "language": "en",
+        "tweet_url": f"https://x.com/{handle}/status/{tweet_id}" if tweet_id else "",
+        "engagement": {
+            "likes": t.get("likeCount", 0),
+            "retweets": t.get("retweetCount", 0),
+            "replies": t.get("replyCount", 0),
+            "quotes": t.get("quoteCount", 0),
+            "bookmarks": t.get("bookmarkCount", 0),
+            "views": t.get("viewCount", 0),
+        },
+    }
+
+
+def scrape_account_via_bird(handle: str, n: int = 300) -> int:
+    """Scrape recent tweets+replies via bird user-tweets (avoids clix rate limits)."""
+    env = dict(os.environ)
+    auth = _load_bird_auth()
+    env.update(auth)
+
+    result = subprocess.run(
+        ["bird", "user-tweets", f"@{handle}", "-n", str(n), "--json"],
+        capture_output=True, text=True, timeout=90, env=env,
+    )
+    if result.returncode != 0:
+        print(f"  [bird error] @{handle}: {result.stderr[:200]}")
+        return 0
+
+    # bird outputs JSON array (possibly with info lines mixed in — find the array)
+    raw = result.stdout
+    start = raw.find("[")
+    end = raw.rfind("]") + 1
+    if start < 0 or end <= start:
+        return 0
+    try:
+        tweets = json.loads(raw[start:end])
+    except json.JSONDecodeError:
+        return 0
+
+    stored = 0
+    for t in tweets:
+        normalized = _normalize_bird_tweet(t)
+        if normalized.get("is_retweet"):
+            continue
+        normalized = classify_tweet(normalized)
+        upsert_feed_tweet(normalized)
+        stored += 1
+    return stored
+
+
 def scrape_keywords_windowed(months_back: int = 12, progress: dict = None) -> int:
     """Scrape all keywords across time windows."""
     windows = generate_monthly_windows(months_back)
@@ -203,6 +293,33 @@ def write_progress_md(progress: dict):
     path.write_text("\n".join(lines), encoding="utf-8")
 
 
+def run_reply_dna(single_account: str = None):
+    """Scrape recent tweets+replies via bird user-tweets for reply_guy DNA learning."""
+    init_db()
+    progress = load_progress()
+    accounts = [single_account] if single_account else REPLY_DNA_ACCOUNTS
+
+    print(f"[mass] Reply DNA scraping via bird — {len(accounts)} accounts × 200 tweets")
+    total = 0
+    for i, handle in enumerate(accounts, 1):
+        progress_key = f"{handle}__bird"
+        if progress.get("account_windows_done", {}).get(progress_key):
+            print(f"  [{i}/{len(accounts)}] @{handle} — already scraped via bird")
+            continue
+        print(f"  [{i}/{len(accounts)}] @{handle} — scraping 200 recent tweets+replies...")
+        n = scrape_account_via_bird(handle, n=200)
+        if n > 0:
+            progress.setdefault("account_windows_done", {})[progress_key] = ["done"]
+            progress["total_stored"] = progress.get("total_stored", 0) + n
+            save_progress(progress)
+        total += n
+        print(f"    → {n} tweets stored")
+        time.sleep(5 if n > 0 else 30)  # longer pause if rate limited
+
+    print(f"\n[mass] Reply DNA done. {total:,} tweets/replies collected.")
+    print_stats()
+
+
 def run(paul_handle: str = None, single_account: str = None):
     init_db()
     progress = load_progress()
@@ -256,9 +373,13 @@ def run(paul_handle: str = None, single_account: str = None):
 if __name__ == "__main__":
     handle = None
     account = None
+    replies_only = "--replies" in sys.argv
     for i, a in enumerate(sys.argv[1:], 1):
         if a == "--handle" and i < len(sys.argv) - 1:
             handle = sys.argv[i + 1]
         if a == "--account" and i < len(sys.argv) - 1:
             account = sys.argv[i + 1]
-    run(paul_handle=handle, single_account=account)
+    if replies_only:
+        run_reply_dna(single_account=account)
+    else:
+        run(paul_handle=handle, single_account=account)

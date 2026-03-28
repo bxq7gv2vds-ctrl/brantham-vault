@@ -16,23 +16,54 @@ from db import init_db, save_draft, get_top_feed_tweets, get_all_drafts
 
 
 POSTING_SCHEDULE = [
+    ("07:00", "early — audience US west coast + builders qui dorment pas"),
     ("08:30", "matin — audience pro FR se réveille"),
-    ("10:30", "matin — peak attention"),
-    ("12:30", "midi — pause déjeuner scroll"),
-    ("15:00", "après-midi — creux productif"),
-    ("18:30", "fin de journée"),
-    ("20:30", "soirée — prime time global"),
-    ("22:30", "late night — builder community"),
+    ("09:30", "matin — peak FR attention"),
+    ("10:30", "matin — peak global attention"),
+    ("11:30", "avant-midi — scroll de procrastination"),
+    ("12:30", "midi — pause déjeuner"),
+    ("13:30", "reprise post-déj"),
+    ("14:30", "creux productif — bon pour les threads"),
+    ("15:30", "après-midi — audience US east coast se réveille"),
+    ("16:30", "fin d'après-midi"),
+    ("17:30", "commute — mobile scroll peak"),
+    ("18:30", "fin de journée — prime time FR"),
+    ("19:30", "soirée — engagement maximal"),
+    ("20:30", "prime time global"),
+    ("22:30", "late night — builder community US"),
 ]
 
 DRAFT_TYPES = [
-    ("hot_take", "Hot take / opinion tranchée — pas de hedge, affirme direct"),
-    ("breaking_react", "Réaction à la news la plus virale du feed — angle inattendu, sois le premier"),
-    ("builder_log", "Builder log avec chiffres concrets de Paul"),
-    ("reply_thread", "Reply stratégique sous le tweet viral le plus répondable du feed — ajoute une info réelle"),
-    ("hot_take", "Second hot take — sujet différent, ton plus provocateur"),
-    ("builder_log", "Observation technique — truc appris en buildant ce mois-ci"),
-    ("humor", "Humour sec — vie de dev/builder, 3h du mat, localhost qui crash, sessions marathon"),
+    # poetengineer__ style — builder data avec chiffres
+    ("builder_log",    "Builder log précis: quelque chose que Paul a build/observé avec des CHIFFRES exacts. '254 sessions, 3 agents, 40h de code'. Concret et vrai."),
+    # Hesamation style — shock hook + observation AI
+    ("shock_obs",      "Hook choc sur une observation AI que personne n'a encore verbalisée. Commence par WAIT / 'you wake up' / '> scenario'. Setup + reveal."),
+    # Hot take direct
+    ("hot_take",       "Opinion tranchée sur l'AI/dev — aucun hedge, affirme direct. Formule: '[sujet] is [jugement]. Here's why.' Max 2 phrases."),
+    # Breaking react
+    ("breaking_react", "Réaction à la news AI la plus virale du feed — angle inattendu, sous-entendu que les autres ratent"),
+    # Builder log 2
+    ("builder_log",    "Observation technique concrète: ce que Paul a appris en buildant. Pattern, bug, découverte. Avec code/chiffres si possible."),
+    # Frenchie_ style — pour l'audience FR
+    ("fr_content",     "Tweet EN FRANÇAIS uniquement. Opener: 'L'état de [sujet] en France :' ou 'Ce que personne dit sur [sujet] :' suivi d'un constat choc."),
+    # Question engageante
+    ("question",       "Question courte qui force une réponse binaire ou un avis dans la niche AI/builder. Doit créer du débat."),
+    # Hot take 2
+    ("hot_take",       "Second hot take — sujet différent du draft 3. Ton plus provocateur. Contre-pied d'une croyance commune dans la niche."),
+    # poetengineer__ style 2
+    ("builder_log",    "Micro-observation du quotidien builder: une chose précise remarquée aujourd'hui en buildant avec Claude. Court et factuel."),
+    # Hesamation style 2
+    ("shock_obs",      "Second tweet narratif Hesamation-style: setup en bullet points '>' ou '—' qui décrit un scenario builder/AI relatable. Punchline finale."),
+    # Humor
+    ("humor",          "Humour sec — vie de dev: localhost qui crash, context window plein, 3h du mat, token limit. Une situation absurde mais vraie."),
+    # Prediction
+    ("prediction",     "Prédiction concrète sur AI/dev avec timeline précise. 'In 6 months...' ou 'By end of 2026...'. Doit être audacieux mais défendable."),
+    # Authority challenge
+    ("hot_take",       "Démonte une croyance mainstream sur l'AI. 'Everyone says X. They're wrong.' Avec une vraie contre-argument."),
+    # Thread opener
+    ("thread_opener",  "Premier tweet d'un thread: hook qui force à cliquer 'show more'. Format: titre accrocheur + 'Thread:' ou numérotation."),
+    # Late night builder
+    ("builder_log",    "Tweet late-night authentique — ce que Paul est en train de builder maintenant, heure tardive. Crédible et spécifique."),
 ]
 
 
@@ -84,6 +115,45 @@ def load_style_patterns() -> str:
     return ""
 
 
+def load_style_dna() -> str:
+    """Load style DNA from reference accounts — injected into every draft prompt."""
+    try:
+        import json
+        dna_dir = Path("/Users/paul/twitter-agent/knowledge-graph/reply_dna")
+        lines = ["## STYLE DNA — Comptes de référence (inspire le HOW, pas le WHAT)\n"]
+
+        refs = {
+            "poetengineer__": "BASE quotidien — builder data avec chiffres, concret, authentique",
+            "Hesamation":     "VIRAL — shock hook + narrative setup, observation AI tranchante",
+            "steipete":       "REPLIES — one-liner direct, 56c avg, aucun fluff",
+            "Frenchie_":      "FR CONTENT — opener 'L'état de X :' + constat choc",
+        }
+        for handle, role in refs.items():
+            path = dna_dir / f"{handle.lower()}_deep.json"
+            if not path.exists():
+                path = dna_dir / f"{handle.lower()}.json"
+            if not path.exists():
+                continue
+            d = json.loads(path.read_text())
+            if d.get("error"):
+                continue
+            avg_l = d.get("avg_length_top") or d.get("avg_reply_length", "?")
+            top_fmt = list((d.get("top_formats") or {}).keys())[:2] or d.get("winning_structures", [])[:2]
+            lines.append(f"@{handle} [{role}]")
+            lines.append(f"  Longueur: {avg_l}c | Formats: {'/'.join(top_fmt)}")
+            # Best tweet examples
+            best = d.get("best_tweets") or d.get("exemplars") or []
+            for ex in best[:2]:
+                text = (ex.get("text") or ex.get("text", ""))[:140].replace("\n", " ")
+                likes = ex.get("likes", 0)
+                lines.append(f'  [{likes}L] "{text}"')
+            lines.append("")
+
+        return "\n".join(lines)
+    except Exception:
+        return ""
+
+
 def load_ml_context(date: str) -> str:
     """Load ML intelligence context from orchestrator (topic model, FAISS, fingerprints)."""
     try:
@@ -98,6 +168,7 @@ def build_prompt(feed_highlights: list[dict], date: str) -> str:
     blacklist = read_file(BLACKLIST)
     style_patterns = load_style_patterns()
     ml_context = load_ml_context(date)
+    style_dna = load_style_dna()
 
     # Format feed highlights
     feed_text = ""
@@ -120,6 +191,8 @@ def build_prompt(feed_highlights: list[dict], date: str) -> str:
 
 ## BLACKLIST ABSOLUE (ne jamais utiliser ces mots/patterns)
 {blacklist}
+
+{style_dna}
 
 {style_patterns}
 
