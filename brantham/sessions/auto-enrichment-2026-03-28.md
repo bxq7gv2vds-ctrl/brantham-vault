@@ -68,4 +68,11 @@
 - **Scrape AJ** : lancement...
   - OK : 463 opportunites scrapees
 
-## Deep Enrichment 16:50
+## Cycle 16:50
+
+- **Scrape AJ** : lance a 16:50 — 463 opportunites (25 OK, 6 vides, 0 erreurs)
+- **Nouvelles opportunites qualifiees** : 0 (tous les deals CA>500K ou score>60 ont deja un dossier)
+- **FastAPI** : DOWN (matching repreneurs indisponible)
+- **QUEUE.md** : pas de mise a jour necessaire (pipeline inchange)
+- **Action** : aucune creation de dossier — todos de session couverts
+
