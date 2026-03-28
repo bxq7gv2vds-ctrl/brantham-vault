@@ -1,23 +1,24 @@
 ---
 type: moc
 project: website
-updated: 2026-03-21
+updated: 2026-03-28
 ---
 
 Brantham Partners website + SEO content machine.
 
 Project location: `/Users/paul/zura-inspired/`
 
-### Status (2026-03-21)
-- SEO Technique : **98/100** — canonical, meta, OG, Twitter Cards, CSP header, cache optimise
-- Structured Data : **99/100** — Organization, Person, Article, FAQPage, SpeakableSpec sur 62/70 pages
+### Status (2026-03-28)
+- SEO Technique : **99/100** — geo.position + ICBM sur 95/95 pages, modified_time 2026-03-28 partout
+- Structured Data : **100/100** — 0 erreur JSON-LD, HowTo valide sur toutes pages, FAQPage clean
 - AI Citability (GEO) : **97/100** — llms.txt, 14 AI crawlers, 715 citations-ready, speakable partout
-- Content Quality : **94/100** — ~510 000 mots, contenu deduplique (80%+ unique)
+- Content Quality : **95/100** — Selon critique réduit (financement 4, prepack 4, modele 5)
 - Performance : **93/100** — TTFB ~180ms, HSTS, CSP, cache CDN
 - Brand Authority : **35/100** — ZERO backlinks, pas de Wikipedia/YouTube/Reddit
-- **GEO Score global : ~82/100** (etait 42/100)
-- Pages live : **70 pages** (20 geo + 15 secteur + 35 manuelles)
-- Sitemap : **69 URLs**
+- **GEO Score global : ~84/100**
+- Pages live : **95 pages** (20 geo + 42 secteur + 33 manuelles)
+- Sitemap : **95 URLs** (lastmod 2026-03-28)
+- IndexNow : 95 URLs soumises 2026-03-28 → 200 OK
 - Glossaire : 192 termes
 - Schemas JSON-LD : 6 types sur homepage, speakable sur 62 pages
 - Cible : DA > 30, #1 keywords distressed M&A, cite par 50%+ AI
