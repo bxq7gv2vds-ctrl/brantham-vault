@@ -129,8 +129,8 @@ def _is_reply(text: str) -> bool:
     )
 
 
-def get_reply_tweets(handle: str, min_likes: int = 0) -> list[dict]:
-    """Get reply tweets from DB for an account."""
+def get_all_tweets(handle: str, min_likes: int = 0) -> list[dict]:
+    """Get all non-RT tweets from DB for an account."""
     conn = get_conn()
     rows = conn.execute("""
         SELECT text, likes, retweets, bookmarks, views, engagement_rate,
@@ -142,9 +142,15 @@ def get_reply_tweets(handle: str, min_likes: int = 0) -> list[dict]:
         ORDER BY likes DESC
     """, (handle, min_likes)).fetchall()
     conn.close()
-    tweets = [dict(r) for r in rows]
-    # Filter to replies only
-    return [t for t in tweets if _is_reply(t.get("text", ""))]
+    return [dict(r) for r in rows]
+
+
+def get_reply_tweets(handle: str, min_likes: int = 0) -> list[dict]:
+    """Get reply tweets from DB for an account (falls back to all if not enough)."""
+    all_tweets = get_all_tweets(handle, min_likes)
+    replies = [t for t in all_tweets if _is_reply(t.get("text", ""))]
+    # If < 10 replies detected, use all tweets for style analysis
+    return replies if len(replies) >= 10 else all_tweets
 
 
 def _extract_opening(text: str) -> str:
