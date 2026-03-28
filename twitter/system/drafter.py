@@ -60,7 +60,6 @@ def load_style_patterns() -> str:
     if PATTERNS_JSON.exists():
         try:
             data = json.loads(PATTERNS_JSON.read_text(encoding="utf-8"))
-            # Format key insights compactly
             lines = ["## PATTERNS GAGNANTS (issus de l'analyse du feed)"]
 
             if voice := data.get("ideal_voice"):
@@ -85,10 +84,20 @@ def load_style_patterns() -> str:
     return ""
 
 
+def load_ml_context(date: str) -> str:
+    """Load ML intelligence context from orchestrator (topic model, FAISS, fingerprints)."""
+    try:
+        from orchestrator import build_context_for_prompt
+        return build_context_for_prompt(date)
+    except Exception as e:
+        return f"[ML context unavailable: {e}]"
+
+
 def build_prompt(feed_highlights: list[dict], date: str) -> str:
     voice = read_file(VOICE_CARD)
     blacklist = read_file(BLACKLIST)
     style_patterns = load_style_patterns()
+    ml_context = load_ml_context(date)
 
     # Format feed highlights
     feed_text = ""
@@ -113,6 +122,9 @@ def build_prompt(feed_highlights: list[dict], date: str) -> str:
 {blacklist}
 
 {style_patterns}
+
+## INTELLIGENCE ML — Tendances, topics, tweets similaires haute-performance
+{ml_context}
 
 ## FEED DU JOUR — Top tweets {date} (pour contexte et réactions)
 {feed_text}

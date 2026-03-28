@@ -74,11 +74,8 @@ def cmd_embed():
 
 
 def cmd_train():
-    from engagement_model import train, get_model_status
-    print(f"[train] Current model: {get_model_status()}")
-    metrics = train()
-    if "error" not in metrics:
-        print(f"[train] Done — {metrics['n_samples']} samples, R²={metrics['r2_cv']:.3f}")
+    from orchestrator import train_all
+    train_all()
 
 
 def cmd_replies(date: str = None):
@@ -167,7 +164,14 @@ def cmd_status():
     draft_path = DRAFTS / f"{date}.md"
     print(f"  Drafts: {'✓' if draft_path.exists() else '✗'} {draft_path}")
 
-    print(f"\nTwitter handle: {TWITTER_HANDLE or '(not set in .env)'}")
+    # ML system status
+    try:
+        from orchestrator import get_full_status
+        print(get_full_status())
+    except Exception:
+        pass
+
+    print(f"Twitter handle: {TWITTER_HANDLE or '(not set in .env)'}")
     print()
 
 
