@@ -1,0 +1,1999 @@
+{
+  "nodes": [
+    {
+      "id": "e4d39028",
+      "type": "text",
+      "text": "Linear Algebra",
+      "x": -1401,
+      "y": 3755,
+      "width": 160,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "4714274b",
+      "type": "text",
+      "text": "Calculus",
+      "x": -804,
+      "y": 3755,
+      "width": 160,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "b20a67d9",
+      "type": "text",
+      "text": "Probability Theory",
+      "x": -386,
+      "y": 3755,
+      "width": 160,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "a4bf3766",
+      "type": "text",
+      "text": "Statistics",
+      "x": 166,
+      "y": 3755,
+      "width": 160,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "6a011378",
+      "type": "text",
+      "text": "Information Theory",
+      "x": 669,
+      "y": 3755,
+      "width": 160,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "0c2db230",
+      "type": "text",
+      "text": "Discrete Math",
+      "x": 1208,
+      "y": 3755,
+      "width": 160,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "2c0f7657",
+      "type": "text",
+      "text": "Matrix Ops",
+      "x": -1669,
+      "y": 3335,
+      "width": 160,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "cd44842b",
+      "type": "text",
+      "text": "Partial Derivatives",
+      "x": -1346,
+      "y": 3335,
+      "width": 160,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "282bd8cc",
+      "type": "text",
+      "text": "Chain Rule",
+      "x": -944,
+      "y": 3335,
+      "width": 160,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "5ddf6d1b",
+      "type": "text",
+      "text": "Bayes Theorem",
+      "x": -460,
+      "y": 3335,
+      "width": 160,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "15d10deb",
+      "type": "text",
+      "text": "Expectation",
+      "x": -111,
+      "y": 3335,
+      "width": 160,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "64c4fa83",
+      "type": "text",
+      "text": "Variance",
+      "x": 362,
+      "y": 3335,
+      "width": 160,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "119f4d46",
+      "type": "text",
+      "text": "Cross-Entropy",
+      "x": 706,
+      "y": 3335,
+      "width": 160,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "eb3f9a50",
+      "type": "text",
+      "text": "Gradient",
+      "x": 1084,
+      "y": 3335,
+      "width": 160,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "9408c6da",
+      "type": "text",
+      "text": "Eigendecomposition",
+      "x": 1588,
+      "y": 3335,
+      "width": 160,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "c237529b",
+      "type": "text",
+      "text": "**Gradient Descent**",
+      "x": -2321,
+      "y": 2910,
+      "width": 200,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "4a728861",
+      "type": "text",
+      "text": "Loss Functions",
+      "x": -1683,
+      "y": 2915,
+      "width": 160,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "7eb8cd7c",
+      "type": "text",
+      "text": "Overfitting",
+      "x": -1159,
+      "y": 2915,
+      "width": 160,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "d5ff3c90",
+      "type": "text",
+      "text": "Regularization L1/L2",
+      "x": -610,
+      "y": 2915,
+      "width": 160,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "6dbac160",
+      "type": "text",
+      "text": "Bias-Variance",
+      "x": -27,
+      "y": 2915,
+      "width": 160,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "2b2b5315",
+      "type": "text",
+      "text": "Supervised Learning",
+      "x": 519,
+      "y": 2915,
+      "width": 160,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "d23cea67",
+      "type": "text",
+      "text": "Unsupervised Learning",
+      "x": 1005,
+      "y": 2915,
+      "width": 160,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "5f7b0d5f",
+      "type": "text",
+      "text": "Maximum Likelihood",
+      "x": 1582,
+      "y": 2915,
+      "width": 160,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "c67ddb33",
+      "type": "text",
+      "text": "Optimization",
+      "x": 2082,
+      "y": 2915,
+      "width": 160,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "20e788c9",
+      "type": "text",
+      "text": "Perceptron",
+      "x": -3046,
+      "y": 2495,
+      "width": 160,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "5dcbd813",
+      "type": "text",
+      "text": "Activation Functions",
+      "x": -2230,
+      "y": 2495,
+      "width": 160,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "dd6324d4",
+      "type": "text",
+      "text": "Forward Pass",
+      "x": -1537,
+      "y": 2495,
+      "width": 160,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "f6fab1ff",
+      "type": "text",
+      "text": "**Backpropagation**",
+      "x": -819,
+      "y": 2490,
+      "width": 200,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "2a6569ae",
+      "type": "text",
+      "text": "Weight Initialization",
+      "x": -125,
+      "y": 2495,
+      "width": 160,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "18a6c8cc",
+      "type": "text",
+      "text": "Mini-batch SGD",
+      "x": 705,
+      "y": 2495,
+      "width": 160,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "48ad3a8c",
+      "type": "text",
+      "text": "Momentum",
+      "x": 1363,
+      "y": 2495,
+      "width": 160,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "d660c87a",
+      "type": "text",
+      "text": "Adam Optimizer",
+      "x": 2053,
+      "y": 2495,
+      "width": 160,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "d1685075",
+      "type": "text",
+      "text": "Learning Rate Sched",
+      "x": 2841,
+      "y": 2495,
+      "width": 160,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "30549473",
+      "type": "text",
+      "text": "MLP",
+      "x": -3469,
+      "y": 2075,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "4106155d",
+      "type": "text",
+      "text": "Dropout",
+      "x": -2900,
+      "y": 2075,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "75d26a85",
+      "type": "text",
+      "text": "Batch Normalization",
+      "x": -2307,
+      "y": 2075,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "5b4b4e1c",
+      "type": "text",
+      "text": "Layer Normalization",
+      "x": -1686,
+      "y": 2075,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "4e6a03bc",
+      "type": "text",
+      "text": "Residual Connections",
+      "x": -1026,
+      "y": 2075,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "d0628592",
+      "type": "text",
+      "text": "Embedding Layer",
+      "x": -439,
+      "y": 2075,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "1b61a003",
+      "type": "text",
+      "text": "Conv Layer",
+      "x": 216,
+      "y": 2075,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "c0f4b8eb",
+      "type": "text",
+      "text": "Pooling",
+      "x": 902,
+      "y": 2075,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "fa667ea3",
+      "type": "text",
+      "text": "RNN Cell",
+      "x": 1461,
+      "y": 2075,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "35109b19",
+      "type": "text",
+      "text": "LSTM Cell",
+      "x": 2117,
+      "y": 2075,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "df4a8254",
+      "type": "text",
+      "text": "GRU Cell",
+      "x": 2696,
+      "y": 2075,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "059e2c39",
+      "type": "text",
+      "text": "Softmax",
+      "x": 3389,
+      "y": 2075,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "21c7dbda",
+      "type": "text",
+      "text": "CNN",
+      "x": -3566,
+      "y": 1655,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "8b485f24",
+      "type": "text",
+      "text": "ResNet",
+      "x": -2707,
+      "y": 1655,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "5bbd9479",
+      "type": "text",
+      "text": "VGG / AlexNet",
+      "x": -1940,
+      "y": 1655,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "cab623f0",
+      "type": "text",
+      "text": "RNN",
+      "x": -1262,
+      "y": 1655,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "b8229448",
+      "type": "text",
+      "text": "LSTM Network",
+      "x": -431,
+      "y": 1655,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "9ee1f8e6",
+      "type": "text",
+      "text": "Seq2Seq",
+      "x": 294,
+      "y": 1655,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "62995435",
+      "type": "text",
+      "text": "Encoder-Decoder",
+      "x": 1045,
+      "y": 1655,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "9ea6f4a9",
+      "type": "text",
+      "text": "Word2Vec",
+      "x": 1798,
+      "y": 1655,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "c7cff4e8",
+      "type": "text",
+      "text": "Autoencoder",
+      "x": 2543,
+      "y": 1655,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "ba87bc9e",
+      "type": "text",
+      "text": "Siamese Network",
+      "x": 3313,
+      "y": 1655,
+      "width": 160,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "9a1463e9",
+      "type": "text",
+      "text": "**Attention Mechanism**",
+      "x": -2988,
+      "y": 1230,
+      "width": 200,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "2029ffcb",
+      "type": "text",
+      "text": "Self-Attention",
+      "x": -2315,
+      "y": 1235,
+      "width": 160,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "755634f5",
+      "type": "text",
+      "text": "Multi-Head Attention",
+      "x": -1688,
+      "y": 1235,
+      "width": 160,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "d5246cea",
+      "type": "text",
+      "text": "Positional Encoding",
+      "x": -1057,
+      "y": 1235,
+      "width": 160,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "5a52c2da",
+      "type": "text",
+      "text": "**Transformer**",
+      "x": -455,
+      "y": 1230,
+      "width": 200,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "d7b72952",
+      "type": "text",
+      "text": "BERT",
+      "x": 240,
+      "y": 1235,
+      "width": 160,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "7dbd0db6",
+      "type": "text",
+      "text": "GPT",
+      "x": 905,
+      "y": 1235,
+      "width": 160,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "2c6af2c5",
+      "type": "text",
+      "text": "T5",
+      "x": 1512,
+      "y": 1235,
+      "width": 160,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "be4e89bd",
+      "type": "text",
+      "text": "ViT",
+      "x": 2227,
+      "y": 1235,
+      "width": 160,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "03ca64ea",
+      "type": "text",
+      "text": "DALL-E 1",
+      "x": 2882,
+      "y": 1235,
+      "width": 160,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "eb59fc78",
+      "type": "text",
+      "text": "GAN",
+      "x": -2311,
+      "y": 815,
+      "width": 160,
+      "height": 50,
+      "color": "2"
+    },
+    {
+      "id": "ee88f04e",
+      "type": "text",
+      "text": "VAE",
+      "x": -1681,
+      "y": 815,
+      "width": 160,
+      "height": 50,
+      "color": "2"
+    },
+    {
+      "id": "d79ae1bf",
+      "type": "text",
+      "text": "**Diffusion Model**",
+      "x": -1038,
+      "y": 810,
+      "width": 200,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "834ad954",
+      "type": "text",
+      "text": "Normalizing Flows",
+      "x": -377,
+      "y": 815,
+      "width": 160,
+      "height": 50,
+      "color": "2"
+    },
+    {
+      "id": "abbbb5f7",
+      "type": "text",
+      "text": "Graph Neural Network",
+      "x": 177,
+      "y": 815,
+      "width": 160,
+      "height": 50,
+      "color": "2"
+    },
+    {
+      "id": "599bee21",
+      "type": "text",
+      "text": "Contrastive Learning",
+      "x": 873,
+      "y": 815,
+      "width": 160,
+      "height": 50,
+      "color": "2"
+    },
+    {
+      "id": "3df4fa10",
+      "type": "text",
+      "text": "CLIP",
+      "x": 1455,
+      "y": 815,
+      "width": 160,
+      "height": 50,
+      "color": "2"
+    },
+    {
+      "id": "f5e741bc",
+      "type": "text",
+      "text": "StyleGAN",
+      "x": 2149,
+      "y": 815,
+      "width": 160,
+      "height": 50,
+      "color": "2"
+    },
+    {
+      "id": "f6b015c8",
+      "type": "text",
+      "text": "**RLHF**",
+      "x": -1685,
+      "y": 390,
+      "width": 200,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "323aff0f",
+      "type": "text",
+      "text": "Instruction Tuning",
+      "x": -1451,
+      "y": 395,
+      "width": 160,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "63f544dd",
+      "type": "text",
+      "text": "Few-Shot Learning",
+      "x": -1084,
+      "y": 395,
+      "width": 160,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "06b4ec27",
+      "type": "text",
+      "text": "In-Context Learning",
+      "x": -781,
+      "y": 395,
+      "width": 160,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "679f6899",
+      "type": "text",
+      "text": "**Chain of Thought**",
+      "x": -487,
+      "y": 390,
+      "width": 200,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "477ebb9d",
+      "type": "text",
+      "text": "RAG",
+      "x": -218,
+      "y": 395,
+      "width": 160,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "faa0d69f",
+      "type": "text",
+      "text": "**Mixture of Experts**",
+      "x": -2,
+      "y": 390,
+      "width": 200,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "3d377298",
+      "type": "text",
+      "text": "**Flash Attention**",
+      "x": 356,
+      "y": 390,
+      "width": 200,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "79a60e83",
+      "type": "text",
+      "text": "KV Cache",
+      "x": 649,
+      "y": 395,
+      "width": 160,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "4803758b",
+      "type": "text",
+      "text": "LoRA",
+      "x": 894,
+      "y": 395,
+      "width": 160,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "db0cb0be",
+      "type": "text",
+      "text": "PEFT",
+      "x": 1187,
+      "y": 395,
+      "width": 160,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "93eb13a4",
+      "type": "text",
+      "text": "Speculative Decoding",
+      "x": 1490,
+      "y": 395,
+      "width": 160,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "3b6d0d09",
+      "type": "text",
+      "text": "**Claude / GPT-4**",
+      "x": -1369,
+      "y": -30,
+      "width": 200,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "359093a6",
+      "type": "text",
+      "text": "Gemini",
+      "x": -1048,
+      "y": -25,
+      "width": 160,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "3eadd8c2",
+      "type": "text",
+      "text": "Multimodal LLMs",
+      "x": -690,
+      "y": -25,
+      "width": 160,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "8a93e24c",
+      "type": "text",
+      "text": "**AI Agents**",
+      "x": -250,
+      "y": -30,
+      "width": 200,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "6e42265d",
+      "type": "text",
+      "text": "Tool Use / MCP",
+      "x": 79,
+      "y": -25,
+      "width": 160,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "e91f42c3",
+      "type": "text",
+      "text": "Constitutional AI",
+      "x": 444,
+      "y": -25,
+      "width": 160,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "3238cfff",
+      "type": "text",
+      "text": "World Models",
+      "x": 810,
+      "y": -25,
+      "width": 160,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "d234613e",
+      "type": "text",
+      "text": "Reasoning Models",
+      "x": 1167,
+      "y": -25,
+      "width": 160,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "label_0",
+      "type": "text",
+      "text": "## Math Foundations",
+      "x": -4200,
+      "y": 3755,
+      "width": 280,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "label_1",
+      "type": "text",
+      "text": "## Applied Math",
+      "x": -4200,
+      "y": 3335,
+      "width": 280,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "label_2",
+      "type": "text",
+      "text": "## ML Core",
+      "x": -4200,
+      "y": 2915,
+      "width": 280,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "label_3",
+      "type": "text",
+      "text": "## Neural Net Basics",
+      "x": -4200,
+      "y": 2495,
+      "width": 280,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "label_4",
+      "type": "text",
+      "text": "## DL Building Blocks",
+      "x": -4200,
+      "y": 2075,
+      "width": 280,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "label_5",
+      "type": "text",
+      "text": "## Core Architectures",
+      "x": -4200,
+      "y": 1655,
+      "width": 280,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "label_6",
+      "type": "text",
+      "text": "## Attention & Transformers",
+      "x": -4200,
+      "y": 1235,
+      "width": 280,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "label_7",
+      "type": "text",
+      "text": "## Generative Models",
+      "x": -4200,
+      "y": 815,
+      "width": 280,
+      "height": 50,
+      "color": "2"
+    },
+    {
+      "id": "label_8",
+      "type": "text",
+      "text": "## LLMs & Fine-tuning",
+      "x": -4200,
+      "y": 395,
+      "width": 280,
+      "height": 50,
+      "color": "1"
+    },
+    {
+      "id": "label_9",
+      "type": "text",
+      "text": "## Frontier",
+      "x": -4200,
+      "y": -25,
+      "width": 280,
+      "height": 50,
+      "color": "1"
+    }
+  ],
+  "edges": [
+    {
+      "id": "841d334f",
+      "fromNode": "e4d39028",
+      "fromSide": "top",
+      "toNode": "2c0f7657",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "0c1272db",
+      "fromNode": "e4d39028",
+      "fromSide": "top",
+      "toNode": "eb3f9a50",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "5abd0691",
+      "fromNode": "e4d39028",
+      "fromSide": "top",
+      "toNode": "9408c6da",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "fdc15689",
+      "fromNode": "4714274b",
+      "fromSide": "top",
+      "toNode": "cd44842b",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "0be56ff4",
+      "fromNode": "4714274b",
+      "fromSide": "top",
+      "toNode": "282bd8cc",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "7ec82538",
+      "fromNode": "b20a67d9",
+      "fromSide": "top",
+      "toNode": "5ddf6d1b",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "c15fb957",
+      "fromNode": "b20a67d9",
+      "fromSide": "top",
+      "toNode": "15d10deb",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "7d5453de",
+      "fromNode": "b20a67d9",
+      "fromSide": "top",
+      "toNode": "64c4fa83",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "a77070c0",
+      "fromNode": "6a011378",
+      "fromSide": "top",
+      "toNode": "119f4d46",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "0a21ee93",
+      "fromNode": "a4bf3766",
+      "fromSide": "top",
+      "toNode": "5f7b0d5f",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "dc1287b2",
+      "fromNode": "a4bf3766",
+      "fromSide": "top",
+      "toNode": "64c4fa83",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "399e2c8b",
+      "fromNode": "eb3f9a50",
+      "fromSide": "top",
+      "toNode": "c237529b",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "31603aff",
+      "fromNode": "cd44842b",
+      "fromSide": "top",
+      "toNode": "c237529b",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "be43010b",
+      "fromNode": "119f4d46",
+      "fromSide": "top",
+      "toNode": "4a728861",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "0b565876",
+      "fromNode": "15d10deb",
+      "fromSide": "top",
+      "toNode": "4a728861",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "713503bd",
+      "fromNode": "5f7b0d5f",
+      "fromSide": "bottom",
+      "toNode": "4a728861",
+      "toSide": "top",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "deae742e",
+      "fromNode": "4a728861",
+      "fromSide": "bottom",
+      "toNode": "7eb8cd7c",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "1af37b4a",
+      "fromNode": "7eb8cd7c",
+      "fromSide": "bottom",
+      "toNode": "d5ff3c90",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "ee8394e3",
+      "fromNode": "7eb8cd7c",
+      "fromSide": "bottom",
+      "toNode": "6dbac160",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "ecffedd6",
+      "fromNode": "c237529b",
+      "fromSide": "bottom",
+      "toNode": "c67ddb33",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "ffd96ac7",
+      "fromNode": "c237529b",
+      "fromSide": "top",
+      "toNode": "f6fab1ff",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "f0755f82",
+      "fromNode": "282bd8cc",
+      "fromSide": "top",
+      "toNode": "f6fab1ff",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "ae27c281",
+      "fromNode": "2b2b5315",
+      "fromSide": "top",
+      "toNode": "20e788c9",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "70c04b25",
+      "fromNode": "20e788c9",
+      "fromSide": "bottom",
+      "toNode": "5dcbd813",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "598ec7f8",
+      "fromNode": "20e788c9",
+      "fromSide": "bottom",
+      "toNode": "dd6324d4",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "b468d511",
+      "fromNode": "dd6324d4",
+      "fromSide": "bottom",
+      "toNode": "f6fab1ff",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "87179694",
+      "fromNode": "c67ddb33",
+      "fromSide": "top",
+      "toNode": "18a6c8cc",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "dc57ba10",
+      "fromNode": "18a6c8cc",
+      "fromSide": "bottom",
+      "toNode": "48ad3a8c",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "5192fe8e",
+      "fromNode": "48ad3a8c",
+      "fromSide": "bottom",
+      "toNode": "d660c87a",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "d6da357b",
+      "fromNode": "d660c87a",
+      "fromSide": "bottom",
+      "toNode": "d1685075",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "1c81324e",
+      "fromNode": "f6fab1ff",
+      "fromSide": "top",
+      "toNode": "30549473",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "05b747f9",
+      "fromNode": "5dcbd813",
+      "fromSide": "top",
+      "toNode": "30549473",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "9da2dd6b",
+      "fromNode": "5dcbd813",
+      "fromSide": "top",
+      "toNode": "059e2c39",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "e33ea045",
+      "fromNode": "30549473",
+      "fromSide": "bottom",
+      "toNode": "4106155d",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "44b5cb50",
+      "fromNode": "30549473",
+      "fromSide": "bottom",
+      "toNode": "75d26a85",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "eb9f886a",
+      "fromNode": "75d26a85",
+      "fromSide": "bottom",
+      "toNode": "5b4b4e1c",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "60ab2800",
+      "fromNode": "30549473",
+      "fromSide": "bottom",
+      "toNode": "4e6a03bc",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "a26c273c",
+      "fromNode": "d5ff3c90",
+      "fromSide": "top",
+      "toNode": "4106155d",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "aebfe45b",
+      "fromNode": "2b2b5315",
+      "fromSide": "top",
+      "toNode": "d0628592",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "3b0b62ad",
+      "fromNode": "30549473",
+      "fromSide": "bottom",
+      "toNode": "1b61a003",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "67610db7",
+      "fromNode": "1b61a003",
+      "fromSide": "bottom",
+      "toNode": "c0f4b8eb",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "da655cb1",
+      "fromNode": "30549473",
+      "fromSide": "bottom",
+      "toNode": "fa667ea3",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "6466159e",
+      "fromNode": "fa667ea3",
+      "fromSide": "bottom",
+      "toNode": "35109b19",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "56c0de92",
+      "fromNode": "35109b19",
+      "fromSide": "bottom",
+      "toNode": "df4a8254",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "be5c9063",
+      "fromNode": "1b61a003",
+      "fromSide": "top",
+      "toNode": "21c7dbda",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "876dc96c",
+      "fromNode": "c0f4b8eb",
+      "fromSide": "top",
+      "toNode": "21c7dbda",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "14ca0dc4",
+      "fromNode": "4e6a03bc",
+      "fromSide": "top",
+      "toNode": "8b485f24",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "b7c4f063",
+      "fromNode": "21c7dbda",
+      "fromSide": "bottom",
+      "toNode": "8b485f24",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "cf2ac060",
+      "fromNode": "21c7dbda",
+      "fromSide": "bottom",
+      "toNode": "5bbd9479",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "51c7397a",
+      "fromNode": "fa667ea3",
+      "fromSide": "top",
+      "toNode": "cab623f0",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "8ebeff59",
+      "fromNode": "35109b19",
+      "fromSide": "top",
+      "toNode": "b8229448",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "b470e9cc",
+      "fromNode": "b8229448",
+      "fromSide": "bottom",
+      "toNode": "9ee1f8e6",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "30500515",
+      "fromNode": "9ee1f8e6",
+      "fromSide": "bottom",
+      "toNode": "62995435",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "91956639",
+      "fromNode": "d0628592",
+      "fromSide": "top",
+      "toNode": "9ea6f4a9",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "b98950db",
+      "fromNode": "30549473",
+      "fromSide": "top",
+      "toNode": "c7cff4e8",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "53422346",
+      "fromNode": "75d26a85",
+      "fromSide": "top",
+      "toNode": "8b485f24",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "8ddd6f3f",
+      "fromNode": "62995435",
+      "fromSide": "top",
+      "toNode": "9a1463e9",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "d47c5aa8",
+      "fromNode": "9a1463e9",
+      "fromSide": "bottom",
+      "toNode": "2029ffcb",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "486f2015",
+      "fromNode": "2029ffcb",
+      "fromSide": "bottom",
+      "toNode": "755634f5",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "01d993c3",
+      "fromNode": "755634f5",
+      "fromSide": "bottom",
+      "toNode": "5a52c2da",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "68284fda",
+      "fromNode": "d5246cea",
+      "fromSide": "bottom",
+      "toNode": "5a52c2da",
+      "toSide": "top",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "41e07897",
+      "fromNode": "5b4b4e1c",
+      "fromSide": "top",
+      "toNode": "5a52c2da",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "cf5468d9",
+      "fromNode": "4e6a03bc",
+      "fromSide": "top",
+      "toNode": "5a52c2da",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "e3fbd015",
+      "fromNode": "5a52c2da",
+      "fromSide": "bottom",
+      "toNode": "d7b72952",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "bfcefc14",
+      "fromNode": "5a52c2da",
+      "fromSide": "bottom",
+      "toNode": "7dbd0db6",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "2d504887",
+      "fromNode": "5a52c2da",
+      "fromSide": "bottom",
+      "toNode": "2c6af2c5",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "f82764a6",
+      "fromNode": "21c7dbda",
+      "fromSide": "top",
+      "toNode": "be4e89bd",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "5190cf8b",
+      "fromNode": "5a52c2da",
+      "fromSide": "bottom",
+      "toNode": "be4e89bd",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "0b478ff0",
+      "fromNode": "d7b72952",
+      "fromSide": "bottom",
+      "toNode": "03ca64ea",
+      "toSide": "top",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "c2ca26bc",
+      "fromNode": "5a52c2da",
+      "fromSide": "bottom",
+      "toNode": "03ca64ea",
+      "toSide": "top",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "1ea5f491",
+      "fromNode": "c7cff4e8",
+      "fromSide": "top",
+      "toNode": "ee88f04e",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "e04adc97",
+      "fromNode": "30549473",
+      "fromSide": "top",
+      "toNode": "eb59fc78",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "07347707",
+      "fromNode": "ee88f04e",
+      "fromSide": "bottom",
+      "toNode": "eb59fc78",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "9d2a0ca7",
+      "fromNode": "ee88f04e",
+      "fromSide": "bottom",
+      "toNode": "d79ae1bf",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "0c4398be",
+      "fromNode": "ee88f04e",
+      "fromSide": "bottom",
+      "toNode": "834ad954",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "3354dfc2",
+      "fromNode": "21c7dbda",
+      "fromSide": "top",
+      "toNode": "abbbb5f7",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "15132077",
+      "fromNode": "599bee21",
+      "fromSide": "bottom",
+      "toNode": "3df4fa10",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "cf6529e5",
+      "fromNode": "5a52c2da",
+      "fromSide": "top",
+      "toNode": "3df4fa10",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "43d3cdab",
+      "fromNode": "eb59fc78",
+      "fromSide": "bottom",
+      "toNode": "f5e741bc",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "dfb16331",
+      "fromNode": "d79ae1bf",
+      "fromSide": "bottom",
+      "toNode": "03ca64ea",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "ddf53605",
+      "fromNode": "7dbd0db6",
+      "fromSide": "top",
+      "toNode": "f6b015c8",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "741700db",
+      "fromNode": "d7b72952",
+      "fromSide": "top",
+      "toNode": "323aff0f",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "e07f7440",
+      "fromNode": "7dbd0db6",
+      "fromSide": "top",
+      "toNode": "63f544dd",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "a054722f",
+      "fromNode": "63f544dd",
+      "fromSide": "bottom",
+      "toNode": "06b4ec27",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "f1bb54e6",
+      "fromNode": "06b4ec27",
+      "fromSide": "bottom",
+      "toNode": "679f6899",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "e631e946",
+      "fromNode": "5a52c2da",
+      "fromSide": "top",
+      "toNode": "477ebb9d",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "8e86890b",
+      "fromNode": "5a52c2da",
+      "fromSide": "top",
+      "toNode": "faa0d69f",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "ea2eed38",
+      "fromNode": "755634f5",
+      "fromSide": "top",
+      "toNode": "3d377298",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "17775aa0",
+      "fromNode": "5a52c2da",
+      "fromSide": "top",
+      "toNode": "79a60e83",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "6c7ce325",
+      "fromNode": "d7b72952",
+      "fromSide": "top",
+      "toNode": "4803758b",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "4186e12c",
+      "fromNode": "4803758b",
+      "fromSide": "bottom",
+      "toNode": "db0cb0be",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "02579613",
+      "fromNode": "7dbd0db6",
+      "fromSide": "top",
+      "toNode": "93eb13a4",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "0b2920f5",
+      "fromNode": "f6b015c8",
+      "fromSide": "top",
+      "toNode": "3b6d0d09",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "bd5020a6",
+      "fromNode": "323aff0f",
+      "fromSide": "top",
+      "toNode": "3b6d0d09",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "722feb01",
+      "fromNode": "faa0d69f",
+      "fromSide": "top",
+      "toNode": "3b6d0d09",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "38a8f73c",
+      "fromNode": "3d377298",
+      "fromSide": "top",
+      "toNode": "3b6d0d09",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "525ecfa7",
+      "fromNode": "f6b015c8",
+      "fromSide": "top",
+      "toNode": "359093a6",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "faae89c9",
+      "fromNode": "faa0d69f",
+      "fromSide": "top",
+      "toNode": "359093a6",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "2a051a83",
+      "fromNode": "3df4fa10",
+      "fromSide": "top",
+      "toNode": "3eadd8c2",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "0f806de6",
+      "fromNode": "3b6d0d09",
+      "fromSide": "bottom",
+      "toNode": "3eadd8c2",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "be6924ee",
+      "fromNode": "477ebb9d",
+      "fromSide": "top",
+      "toNode": "8a93e24c",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "f798737d",
+      "fromNode": "679f6899",
+      "fromSide": "top",
+      "toNode": "8a93e24c",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "8ac23eb2",
+      "fromNode": "8a93e24c",
+      "fromSide": "bottom",
+      "toNode": "6e42265d",
+      "toSide": "top",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "a12d9842",
+      "fromNode": "f6b015c8",
+      "fromSide": "top",
+      "toNode": "e91f42c3",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "0e547680",
+      "fromNode": "3238cfff",
+      "fromSide": "bottom",
+      "toNode": "8a93e24c",
+      "toSide": "top",
+      "color": "3",
+      "label": ""
+    },
+    {
+      "id": "936c3842",
+      "fromNode": "679f6899",
+      "fromSide": "top",
+      "toNode": "d234613e",
+      "toSide": "bottom",
+      "color": "5",
+      "label": ""
+    },
+    {
+      "id": "38b6d75a",
+      "fromNode": "f6b015c8",
+      "fromSide": "top",
+      "toNode": "d234613e",
+      "toSide": "bottom",
+      "color": "3",
+      "label": ""
+    }
+  ]
+}

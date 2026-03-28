@@ -87,6 +87,7 @@ Modele hybride : **15-30k upfront** (1ere offre) + **15-30k** (offre finale) + *
 - [[brantham/knowledge/legal/responsabilite-tiers]] — Responsabilite tiers envers entreprise en difficulte: soutien abusif banquier (L650-1, quasi-immunite, 3 exceptions fraude/immixtion/garanties), rupture brutale credit (L313-12 CMF, preavis 60j), responsabilite CAC (L823-12, revelation, alerte L234-1+, certification erronee), responsabilite expert-comptable (obligation conseil), responsabilite AJ/MJ (faute mission, assurance RC), dirigeant fait (definition, criteres, sanctions), actions repreneur post-cession (transmises vs personnelles), valorisation actions justice, application Brantham
 - [[brantham/knowledge/legal/concurrence-distressed]] — Droit de la concurrence en M&A distressed: seuils FR (150M+50M) et UE (5Md+250M), procedure simplifiee, failing firm defense (3 conditions cumulatives CJCE Kali & Salz 1998), AdlC pratique decisionnelle, Casino/Auchan, engagements/remedes, bid rigging, calendrier type, application Brantham
 - [[brantham/patterns/acheteur-mapping]]
+- [[brantham/patterns/feynman-research-tool]] — CLI agent recherche académique (lit review, veille, pré-rédaction articles)
 
 ## Knowledge Base — Process
 

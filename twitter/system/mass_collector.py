@@ -39,6 +39,9 @@ SEED_ACCOUNTS = [
     "vivoplt", "CantEverDie", "Hesamation", "HighyieldHarry",
     "bcherny", "emollick", "sama", "paulg", "naval",
     "cdixon", "benedictevans", "stratechery",
+    # From 0xMikeTheIntern's following — AI/ML/builders
+    "NousResearch", "ylecun", "OpenAI", "TheRundownAI", "SemiAnalysis_",
+    "ericliujt", "shafu0x", "SpencerHakimian",
 ]
 
 KEYWORDS = [
@@ -49,6 +52,10 @@ KEYWORDS = [
     "autonomous agent", "multi-agent", "context window",
     "Anthropic claude", "openai gpt", "llm workflow",
     "AI startup", "build with AI",
+    # Extended AI niche keywords
+    "vibe coding", "MCP server", "Claude agent", "AI workflow",
+    "open source LLM", "fine-tuning", "RAG pipeline",
+    "AI product", "10x developer AI", "coding agent",
 ]
 
 
@@ -63,7 +70,7 @@ def generate_monthly_windows(months_back: int = 30) -> list[tuple[str, str]]:
     return windows
 
 
-def search_windowed(query: str, since: str, until: str, delay: float = 1.2) -> list[dict]:
+def search_windowed(query: str, since: str, until: str, delay: float = 3.5) -> list[dict]:
     """Search with time window, return tweets."""
     full_query = f"{query} since:{since} until:{until}"
     tweets = run_clix(["search", full_query, "--json", "-n", "50"])
@@ -114,7 +121,7 @@ def scrape_account_windowed(handle: str, months_back: int = 30, progress: dict =
         if window_key in done_windows:
             continue
 
-        tweets = search_windowed(f"from:{handle}", since, until, delay=1.0)
+        tweets = search_windowed(f"from:{handle}", since, until, delay=3.0)
         for t in tweets:
             if not t.get("is_retweet"):
                 t = classify_tweet(t)
@@ -140,7 +147,7 @@ def scrape_keywords_windowed(months_back: int = 12, progress: dict = None) -> in
             if key in (progress or {}).get("keywords_done", []):
                 continue
 
-            tweets = search_windowed(keyword, since, until, delay=0.8)
+            tweets = search_windowed(keyword, since, until, delay=2.5)
             for t in tweets:
                 if not t.get("is_retweet"):
                     t = classify_tweet(t)

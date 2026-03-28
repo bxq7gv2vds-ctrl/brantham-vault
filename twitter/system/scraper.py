@@ -42,9 +42,15 @@ def run_clix(args: list[str]) -> list[dict]:
         return []
 
 
-def scrape_feed(n: int = 80) -> list[dict]:
-    print(f"[scraper] Fetching feed ({n} tweets)...")
-    return run_clix(["feed", "--json", "-n", str(n)])
+def scrape_feed(n: int = 200, pages: int = 10) -> list[dict]:
+    """Scrape both for-you and following feeds with pagination."""
+    print(f"[scraper] Fetching for-you feed ({n}x{pages} pages)...")
+    foryou = run_clix(["feed", "--json", "-n", str(n), "-p", str(pages), "--type", "for-you", "--full-text"])
+    print(f"[scraper] Fetching following feed ({n}x{pages} pages)...")
+    following = run_clix(["feed", "--json", "-n", str(n), "-p", str(pages), "--type", "following", "--full-text"])
+    all_tweets = foryou + following
+    print(f"[scraper] Feed total: {len(all_tweets)} tweets")
+    return all_tweets
 
 
 def scrape_bookmarks(n: int = 30) -> list[dict]:

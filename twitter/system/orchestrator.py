@@ -13,6 +13,7 @@ Also runs the unified training pipeline: embed → topic → fingerprint → neu
 """
 import json
 import sqlite3
+import subprocess
 from pathlib import Path
 from datetime import datetime, timedelta
 
@@ -98,6 +99,12 @@ def build_context(date: str = None, top_n_similar: int = 8) -> dict:
     except Exception as e:
         ctx["model_status"]["engagement_net"] = f"error: {e}"
 
+    # 8. Web intelligence via Exa (Agent-Reach)
+    ctx["web_trends"] = _search_exa_trends(ctx.get("trending_topics", []))
+
+    # 9. Live Twitter intelligence via bird (Agent-Reach)
+    ctx["live_tweets"] = _get_live_tweets(ctx.get("trending_topics", []))
+
     return ctx
 
 
@@ -170,6 +177,25 @@ def build_context_for_prompt(date: str = None) -> str:
     # Model status
     status = ctx.get("model_status", {})
     lines.append("MODEL STATUS: " + " | ".join(f"{k}={v}" for k, v in status.items()))
+
+    # Web trends
+    web = ctx.get("web_trends", [])
+    if web:
+        lines.append("")
+        lines.append("WEB TRENDS (Exa search):")
+        for w in web[:4]:
+            lines.append(f"  • [{w.get('published','')[:10]}] {w.get('title','')} — {w.get('url','')[:60]}")
+
+    # Live tweets
+    live = ctx.get("live_tweets", [])
+    if live:
+        lines.append("")
+        lines.append("LIVE TWEETS (bird, last 48h):")
+        for t in live[:5]:
+            lines.append(
+                f"  [{t.get('likes',0)}L @{t.get('author_handle','')}] "
+                f"{t.get('text','')[:90].replace(chr(10),' ')}..."
+            )
 
     return "\n".join(lines)
 
@@ -254,6 +280,71 @@ def train_all(force: bool = False) -> dict:
 
 
 # ─── Helpers ─────────────────────────────────────────────────────────────────
+
+def _get_live_tweets(topics: list[dict], n: int = 8) -> list[dict]:
+    """Get live high-engagement tweets on trending topics via bird."""
+    try:
+        from bird_enricher import get_latest_on_topic
+        # Build query from top AI-relevant topics
+        # Build a clean AI-focused query combining topic signals
+        ai_keywords = []
+        for t in topics:
+            for kw in t.get("keywords", []):
+                if kw in {"claude", "llm", "agent", "agents", "code", "builder", "ship", "build"}:
+                    ai_keywords.append(kw)
+        if ai_keywords:
+            query = " ".join(dict.fromkeys(ai_keywords)[:3]) + " shipped"
+        else:
+            query = "Claude Code shipped builder"
+        return get_latest_on_topic(query, n=n)
+    except Exception:
+        return []
+
+
+def _search_exa_trends(topics: list[dict], n: int = 5) -> list[dict]:
+    """
+    Use Exa (via mcporter) to find trending web content on detected topics.
+    Returns list of {title, url, published} dicts.
+    """
+    if not topics:
+        query = "AI agents autonomous workflow Claude LLM 2026"
+    else:
+        kw = " ".join(
+            kw for t in topics[:3]
+            for kw in t.get("keywords", [])[:2]
+            if kw not in {"claude", "https", "http"}
+        )
+        query = f"{kw} AI builders 2026" if kw else "AI agents autonomous 2026"
+
+    try:
+        result = subprocess.run(
+            ["mcporter", "call", "exa.web_search_exa",
+             f"query={query}", f"numResults={n}"],
+            capture_output=True, text=True, timeout=15,
+        )
+        if result.returncode != 0 or not result.stdout:
+            return []
+
+        # Parse mcporter's text output — each result has Title:/URL:/Published: lines
+        articles = []
+        current = {}
+        for line in result.stdout.splitlines():
+            line = line.strip()
+            if line.startswith("Title:"):
+                if current.get("title"):
+                    articles.append(current)
+                current = {"title": line[6:].strip()}
+            elif line.startswith("URL:"):
+                current["url"] = line[4:].strip()
+            elif line.startswith("Published:"):
+                current["published"] = line[10:].strip()
+        if current.get("title"):
+            articles.append(current)
+
+        return articles[:n]
+    except Exception:
+        return []
+
 
 def _get_recent_posted_texts(days: int = 14) -> list[str]:
     """Get texts of recently posted tweets."""

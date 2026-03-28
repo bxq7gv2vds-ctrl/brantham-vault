@@ -15,7 +15,12 @@ Usage:
   python main.py embed               — embed all tweets (semantic similarity)
   python main.py embed --stats       — embedding coverage
   python main.py train               — train engagement predictor model
-  python main.py replies             — find reply opportunities + generate replies
+  python main.py replies             — find reply opportunities + generate replies (basic)
+  python main.py reply-guy           — smart reply system (live bird + scoring + learning)
+  python main.py reply-guy --n 15    — generate N reply drafts
+  python main.py reply-guy --live    — bird search only, skip DB
+  python main.py reply-guy --track   — update metrics for posted replies
+  python main.py reply-guy --patterns— show what strategies are working
   python main.py run                 — full daily pipeline: scrape + style + draft + replies + post
   python main.py week1               — WEEK 1: collect + embed + style + train
   python main.py style               — analyze feed for winning patterns
@@ -82,6 +87,19 @@ def cmd_replies(date: str = None):
     from reply_finder import find_and_generate_replies
     replies = find_and_generate_replies(date=date)
     print(f"[replies] {len(replies)} reply drafts generated")
+
+
+def cmd_reply_guy(n: int = 10, live_only: bool = False,
+                  do_track: bool = False, do_patterns: bool = False,
+                  date: str = None):
+    from reply_guy import run, track_reply_metrics, show_patterns
+    if do_patterns:
+        show_patterns()
+    elif do_track:
+        track_reply_metrics()
+    else:
+        replies = run(n=n, live_only=live_only, date=date)
+        print(f"[reply-guy] {len(replies)} reply drafts ready")
 
 
 def cmd_mass(handle: str = None):
@@ -176,7 +194,7 @@ def cmd_status():
 
 
 def cmd_run(dry: bool = False):
-    """Full daily pipeline: scrape → style → draft → replies → post."""
+    """Full daily pipeline: scrape → style → draft → reply-guy → post."""
     print("=== Daily pipeline ===\n")
     print("1/5 Scraping full TL...")
     cmd_scrape()
@@ -184,8 +202,8 @@ def cmd_run(dry: bool = False):
     cmd_style()
     print("\n3/5 Generating original drafts...")
     cmd_draft()
-    print("\n4/5 Finding reply opportunities...")
-    cmd_replies()
+    print("\n4/5 Hunting reply opportunities (reply-guy)...")
+    cmd_reply_guy(n=10)
     print("\n5/5 Posting approved tweets...")
     cmd_post(dry=dry)
     print("\n=== Done ===")
@@ -232,6 +250,19 @@ def main():
         cmd_train()
     elif command == "replies":
         cmd_replies(date)
+    elif command == "reply-guy":
+        n = 10
+        for i, a in enumerate(args):
+            if a == "--n" and i + 1 < len(args):
+                try: n = int(args[i + 1])
+                except ValueError: pass
+        cmd_reply_guy(
+            n=n,
+            live_only="--live" in args,
+            do_track="--track" in args,
+            do_patterns="--patterns" in args,
+            date=date,
+        )
     elif command == "week1":
         cmd_week1()
     elif command == "analyze":
