@@ -54,7 +54,7 @@ def call_claude(prompt: str) -> str:
         input=prompt,
         capture_output=True,
         text=True,
-        timeout=180,
+        timeout=300,
     )
     if result.returncode != 0:
         print(f"[style_analyzer] claude error: {result.stderr[:300]}")
@@ -65,27 +65,26 @@ def call_claude(prompt: str) -> str:
 def format_tweets_for_analysis(tweets: list[dict]) -> str:
     lines = []
     for i, t in enumerate(tweets, 1):
+        # Compact format to reduce token count
+        text = (t.get("text") or "")[:200].replace("\n", " ")
         lines.append(
-            f"{i}. @{t.get('author_handle')} | "
-            f"{t.get('likes',0)}L {t.get('retweets',0)}RT {t.get('bookmarks',0)}BM "
-            f"{t.get('views',0):,}v | "
-            f"{t.get('topic','?')}/{t.get('hook_type','?')}\n"
-            f"   \"{t.get('text','')[:280]}\""
+            f"{i}. @{t.get('author_handle')} [{t.get('likes',0)}L/{t.get('bookmarks',0)}BM/{t.get('views',0):,}v] "
+            f"[{t.get('topic','?')}/{t.get('hook_type','?')}]: \"{text}\""
         )
-    return "\n\n".join(lines)
+    return "\n".join(lines)
 
 
 def analyze_style() -> dict:
     """Main analysis: ask Claude to identify winning patterns."""
-    top = get_top_performers(60)
-    diverse = get_style_diversity(40)
+    top = get_top_performers(30)
+    diverse = get_style_diversity(20)
 
     if not top:
         print("[style_analyzer] Not enough data yet. Run scraper first.")
         return {}
 
     top_text = format_tweets_for_analysis(top)
-    diverse_text = format_tweets_for_analysis(diverse[:20])
+    diverse_text = format_tweets_for_analysis(diverse[:15])
 
     prompt = f"""Tu es un expert en croissance Twitter/X. Analyse ces tweets du feed d'un builder AI/tech français.
 
