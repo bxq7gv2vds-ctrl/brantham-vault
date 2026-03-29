@@ -60,3 +60,19 @@ Nouvelles opportunites ajoutees au pipeline (toutes en procedure de cession, CA 
 | trajectoire-parfumerie-sous-traitance-industrielle | Parfumerie ST | Parfumerie | 45 Loiret | 25/02/2026 | N/A | Analyse basique |
 | trajectoire-2025-05-2562pc | Stockage industriel | Commerce équip. | 37 Indre-et-Loire | 07/01/2026 | N/A | Analyse basique |
 
+
+
+## Ajouts auto 2026-03-29
+
+| # | Nom | CA | Effectif | Procedure | Source | Slug |
+|---|-----|----|----------|-----------|--------|------|
+| 1 | SICA ALPES FRUITS CONDITIONNEMENT | De 1 à 3 | De 10 à 50 | cession | Ajilink Provence | ajilink-provence-sica-alpes-fruits-condi |
+| 2 | Restauration rapide de cuisine indienne  | De 1 à 3 | De 10 à 50 | cession | Ajilink IHDF | ajilink-ihdf-restauration-rapide-de-cuis |
+| 3 | PHARMACIE DE COUDEKERQUE | De 1 à 3 | Moins de 10 | cession | Ajilink IHDF | ajilink-ihdf-pharmacie-de-coudekerque |
+| 4 | GARAGE | De 1 à 3 | De 10 à 50 | cession | Ajilink IHDF | ajilink-ihdf-garage |
+| 5 | CANAL | De 1 à 3 | De 50 à 250 | cession | Ajilink IHDF | ajilink-ihdf-canal |
+| 6 | TEREA FLANDRES | De 1 à 3 | De 10 à 50 | cession | Ajilink IHDF | ajilink-ihdf-terea-flandres |
+| 7 | PLUME CANE | De 1 à 3 | De 10 à 50 | cession | Ajilink IHDF | ajilink-ihdf-plume-cane |
+| 8 | ZEGERS-TPS-SCMB | De 1 à 3 | De 10 à 50 | cession | Ajilink IHDF | ajilink-ihdf-zegers-tps-scmb |
+| 9 | ESPACE CUISINES ET BAINS MORÉ | De 1 à 3 | Moins de 10 | cession | Ajilink Sud-Ouest | ajilink-sudouest-espace-cuisines-et-bain |
+| 10 | UNA DU FUMELOIS | De 1 à 3 | De 10 à 50 | cession | Ajilink Sud-Ouest | ajilink-sudouest-una-du-fumelois |
