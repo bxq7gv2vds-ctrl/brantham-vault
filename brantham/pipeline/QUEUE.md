@@ -76,3 +76,23 @@ Nouvelles opportunites ajoutees au pipeline (toutes en procedure de cession, CA 
 | 8 | ZEGERS-TPS-SCMB | De 1 à 3 | De 10 à 50 | cession | Ajilink IHDF | ajilink-ihdf-zegers-tps-scmb |
 | 9 | ESPACE CUISINES ET BAINS MORÉ | De 1 à 3 | Moins de 10 | cession | Ajilink Sud-Ouest | ajilink-sudouest-espace-cuisines-et-bain |
 | 10 | UNA DU FUMELOIS | De 1 à 3 | De 10 à 50 | cession | Ajilink Sud-Ouest | ajilink-sudouest-una-du-fumelois |
+
+---
+## Session 2026-03-29 — Auto-enrichment
+
+10 nouvelles opportunites ajoutees (CA 1-3M, procedure cession):
+
+| Slug | Nom | SIREN | NAF | CA | Effectif |
+|------|-----|-------|-----|-----|----------|
+| ajire-arka-sentinelle-prevention | ARKA SENTINELLE PREVENTION | 803415934 | 80.10Z | 2.9M€ | 50-250 |
+| ajup-chepooka | CHEPOOKA | 795138742 | 56.10A | 906K€ | 10-50 |
+| ajup-meubles-combelle | MEUBLES COMBELLE | 891535924 | 16.29Z | 1.2M€ | 10-50 |
+| ajup-smart-and-blue | SMART AND BLUE | 814127148 | 71.12B | 1.3M€ | 10-50 |
+| ajup-kazi-tani | KAZI TANI | 317664191 | 46.69B | 2.0M€ | 10-50 |
+| ajup-mecanic-worker | MECANIC WORKER | 886550193 | 46.69B | 2.9M€ | 10-50 |
+| ajup-a-b-loisirs | A-B LOISIRS | 380370395 | 55.1D | n/c | 10-50 |
+| ajire-men-ar-gall | MEN AR GALL | 408535995 | 70.22Z | 1.5M€ | 10-50 |
+| ajire-getex | GETEX | 353801541 | 55.1A | n/c | 10-50 |
+| p2g-1797-cfa-expertise-handicap | CABINET DE CONSEIL CFA | n/a | n/c | n/c | 10-50 |
+
+Statut: enrichment.json + analyse.md + acheteurs.json (5 repreneurs chacun) crees.
