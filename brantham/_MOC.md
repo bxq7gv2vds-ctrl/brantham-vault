@@ -180,3 +180,4 @@ Modele hybride : **15-30k upfront** (1ere offre) + **15-30k** (offre finale) + *
 
 **0 EUR** — pre-revenue. Fee structure definie : 15-30k upfront x2 + variable. Objectif premier revenu : fin mai 2026.
 ## Related
+## Related

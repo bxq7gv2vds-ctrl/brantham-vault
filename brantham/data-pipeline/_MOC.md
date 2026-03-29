@@ -73,3 +73,4 @@ Tous les scripts sont dans `/Users/paul/Desktop/brantham-partners/`.
 - [[brantham/data-pipeline/scoring]] -- Systeme de scoring detaille
 - [[brantham/architecture]] -- Architecture globale
 ## Related
+## Related
