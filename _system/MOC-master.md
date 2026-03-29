@@ -13,7 +13,8 @@ Single source of truth for all Brantham Partners knowledge.
 |---------|--------|----------|-----|
 | **Brantham Partners** | Active (pre-revenue) | Multiple repos | [[brantham/_MOC]] |
 | **Website / SEO Machine** | Active (16 pages live, SEO 93/100, AI 4.2/5, glossaire 142 termes) | `/Users/paul/zura-inspired/` | [[website/_MOC]] |
-| **Polytech Strategist** | Competition ready (23-25 Mars 2026) | `/Users/paul/polytech-strategist/` | [[founder/data/]] |
+| **Polymarket Hedge Engine** | Backtest complet (Sharpe 19.6, +7099 USDC/28j) | `/Users/paul/polymarket-hedge/` | [[founder/sessions/2026-03-30-polymarket-backtest]] |
+| **Polytech Strategist** | Competition terminée (Mars 2026) | `/Users/paul/polytech-strategist/` | [[founder/data/]] |
 | **Twitter Growth Agent** | Setup (prompt pret) | Cowork + vault/twitter/ | [[twitter/_MOC]] |
 | **Soren Mendy** | — | `vault/soren-mendy/` | [[soren-mendy/_MOC]] |
 

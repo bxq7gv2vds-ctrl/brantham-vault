@@ -18,6 +18,14 @@ Reusable technical patterns. Check here before solving a problem.
 | Teaser PPTX Generation  | [[patterns/teaser-pptx-generation]]  | content  |
 | Gemweb RSS Parsing      | [[patterns/gemweb-rss-parsing]]      | scraping |
 
+## Polymarket-Specific
+
+| Pattern | Category | File |
+|---------|----------|------|
+| NWP EMOS Calibration | trading/weather | [[patterns/polymarket-nwp-emos-calibration]] |
+| Intraday Architecture | trading/infra | [[patterns/polymarket-intraday-architecture]] |
+| Bracket Arb (Temperature) | trading/arb | [[patterns/polymarket-bracket-arb]] |
+
 ## Website-Specific
 
 | Pattern | Category | File |
