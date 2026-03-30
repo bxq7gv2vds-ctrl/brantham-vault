@@ -180,14 +180,14 @@ tags:
 
 ### 13. Club Daumesnil
 
-| Champ | Valeur |
-|-------|--------|
-| **Procédure** | Cession |
-| **CA estimé** | N/D |
-| **Secteur** | ESN / services numériques |
-| **AJ** | 2M&Associés |
-| **Type offre** | Plan de cession |
-| **Fichier vault** | [[club-daumesnil]] |
+| Champ             | Valeur                    |
+| ----------------- | ------------------------- |
+| **Procédure**     | Cession                   |
+| **CA estimé**     | N/D                       |
+| **Secteur**       | ESN / services numériques |
+| **AJ**            | 2M&Associés               |
+| **Type offre**    | Plan de cession           |
+| **Fichier vault** | [[club-daumesnil]]        |
 
 ---
 
