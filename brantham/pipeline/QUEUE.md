@@ -96,3 +96,12 @@ Nouvelles opportunites ajoutees au pipeline (toutes en procedure de cession, CA 
 | p2g-1797-cfa-expertise-handicap | CABINET DE CONSEIL CFA | n/a | n/c | n/c | 10-50 |
 
 Statut: enrichment.json + analyse.md + acheteurs.json (5 repreneurs chacun) crees.
+
+## Nouvelles opportunites — 2026-03-30
+
+- [ ] **OFFICINE DE PHARMACIE** | CA: 619,064€ | 75012 | NAF: 4773Z | slug: `ascagne-officine-de-pharmacie`
+- [ ] **Restaurant italien** | CA: 744,490€ | 75004 | NAF: 5610A | slug: `ascagne-restauration-italienne`
+- [ ] **Conseil Communication Digital** | CA: 811,658€ | 75010 | NAF: 7311Z | slug: `ascagne-cession-du-fonds-de-commerce-conseil-en-communicatio`
+- [ ] **Restaurant traditionnel** | CA: 742,330€ | 75116 | NAF: 5610A | slug: `ascagne-restauration-traditionnelle`
+- [ ] **Restaurant asiatique** | CA: 635,007€ | 75008 | NAF: 5610A | slug: `ascagne-restauration-asiatique`
+- [ ] **Coffee Shop** | CA: 479,488€ | 33324 | NAF: 5610A | slug: `ascagne-restauration-rapide-coffee-shop`
