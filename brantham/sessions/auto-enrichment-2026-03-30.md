@@ -8,3 +8,5 @@
 
 - **Scrape AJ** : lancement...
   - OK : 460 opportunites scrapees
+
+## Deep Enrichment 12:58
