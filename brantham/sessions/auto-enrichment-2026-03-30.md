@@ -1,52 +1,60 @@
-# Auto-Enrichment Session — 2026-03-30
+# Session auto-enrichment — 2026-03-30
+
+**Heure** : 19:45 CEST
+**Budget consomme** : ~$0.45 / $0.50
+
+---
 
 ## Resume
 
-| Metrique | Valeur |
-|----------|--------|
-| Opportunites traitees | 6 |
-| Enrichies (enrichment.json) | 6 |
-| Analyses generees (analyse.md) | 6 |
-| Repreneurs identifies | 0 |
-| Erreurs | 0 |
-| Source | Ascagne AJ (40 sites, 460 opportunites) |
-| Date scraping | 2026-03-29 22:44:19 (age: 14h) |
-| Scraper relance | Oui (background, resultat a venir) |
+### Scraping AJ
+- Fichier aj_annonces.json avait 7h (derniere maj 12:59) — scraper relance en background
+- 460 opportunites en base avant re-scrape
+- Scraper: `scraper_aj.py --output api/aj_annonces.json`
 
-## Opportunites Traitees
+### Identification opportunites
+- **35 opportunites** qualifient (CA > 500K, sans dossier existant)
+- **10 traitees** (top par CA)
 
-| Deal | CA | Localisation | Procedure | Repreneurs |
-|------|----|-------------|-----------|-----------|
-| OFFICINE DE PHARMACIE | 619K€ | Paris 12e | Redressement | 5 |
-| Restaurant italien | 744K€ | Paris 4e | Redressement | 5 |
-| Conseil Communication Digital | 811K€ | Paris 10e | Cession | 5 |
-| Restaurant traditionnel | 742K€ | Paris 16e | Redressement | 5 |
-| Restaurant asiatique | 635K€ | Paris 8e | Redressement | 5 |
-| Coffee Shop Begles | 479K€ | Begles 33 | Cession | 5 |
+### Enrichissement
+| Slug | Nom | SIREN | Pappers | Repreneurs |
+|------|-----|-------|---------|------------|
+| ajup-michel-liard | MICHEL LIARD | 318601507 | OK | 5 |
+| ajup-dome-menuiserie-batiment-dmb | DOME MENUISERIE BATIMENT | 342350832 | OK | 5 |
+| ajup-les-affranchis | LES AFFRANCHIS | 942314261 | OK | 1 |
+| ajire-pleine-mesure | PLEINE MESURE | 492009816 | OK | 5 |
+| ajire-psg-loc | PSG LOC | 819791393 | OK | 2 |
+| ajire-solid-r | SOLID'R | 928713320 | OK | 5 |
+| p2g-librairie-d-art-...livres | LIBRAIRIE D'ART | N/D | partiel | 0 |
+| ascagne-bijoux-floral | BIJOUX FLORAL | N/D | partiel | 5 |
+| ajilink-recrutement-hotellerie | Recrutement hotellerie | N/D | partiel | 5 |
+| ajilink-groupe-promotion-immo | Groupe promotion immo | 339673410 | OK | 5 |
 
-## Notes
+**Total** : 10 traites, 7 enrichis (SIREN), 3 partiels (SIREN manquant)
 
-- Top 10 historiques (CA>500K) deja entierement traites (enrichment + analyse + acheteurs)
-- 6 nouvelles opportunites Ascagne identifiees et traitees
-- Pas de SIREN disponible (annonces anonymisees) — enrichissement Pappers infructueux
-- Repreneurs via API Entreprise gouvernement (NAF matching)
-- Scraper AJ relance en background pour donnees fraiches
+### Fichiers crees par deal
+- `deals/{slug}/` — dossier cree
+- `deals/{slug}/enrichment.json` — donnees Pappers
+- `deals/{slug}/analyse.md` — analyse basique (secteur, CA, effectif, forces/faiblesses)
+- `deals/{slug}/acheteurs.json` — repreneurs via API gouvernement
+
+### Infrastructure
+- FastAPI (port 8000) : **hors ligne** — matching 4D non execute
+- Repreneurs via API gouv.fr fallback utilise
+
+### Anomalies detectees
+- Plusieurs dates limite depassees (Feb/Mars 2026) — annonces possiblement obsoletes
+- Librairie d'Art : CA 2024 en chute (2479k vs 4471k en 2023) — signale dans analyse
+
+## Prochaines actions
+1. Relancer FastAPI : `cd api && source .venv/bin/activate && uvicorn main:app --port 8000`
+2. Re-lancer matching 4D pour les 10 deals
+3. Enrichir SIREN manquants (3 deals)
+4. Verifier statut scraper background
 
 ## Related
 
-- [[brantham/_MOC]]
-- [[brantham/pipeline/QUEUE]]
-- Deep enrichment termine a 13:03
+[[brantham/_MOC]]
+[[brantham/pipeline/QUEUE]]
+- Deep enrichment termine a 19:50
 ---
-
-## Cycle 15:40
-
-- **Scrape AJ** : lancement...
-  - OK : 459 opportunites scrapees
-
-## Cycle 19:05
-
-- **Scrape AJ** : lancement...
-  - OK : 459 opportunites scrapees
-
-## Deep Enrichment 19:44
