@@ -64,6 +64,11 @@ Modele hybride : **15-30k upfront** (1ere offre) + **15-30k** (offre finale) + *
 - [[brantham/patterns/teaser-patterns]]
 - [[brantham/patterns/teaser-onepager-html-pdf]] — One-pager HTML/PDF aligne sur DA site web
 - [[brantham/patterns/scoring-patterns]]
+- [[brantham/patterns/tui-sourcing-repreneur]] — TUI terminal sourcing + enrichissement contacts dirigeants
+
+## Sessions récentes
+
+- [[brantham/sessions/2026-03-30-bp-tui-sourcing]] — TUI sourcing repreneur + pipeline contacts multi-sources
 
 ## Knowledge Base — Procedures
 
