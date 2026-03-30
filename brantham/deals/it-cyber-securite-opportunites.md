@@ -102,14 +102,14 @@ tags:
 
 ### 7. Développement logiciel mobilité connectée
 
-| Champ | Valeur |
-|-------|--------|
-| **Procédure** | Cession (RJ) |
-| **CA estimé** | N/D |
-| **Secteur** | Software automotive / mobilité connectée |
-| **AJ** | 2M&Associés |
-| **Type offre** | Cession de contrôle / prise de participation / cession d'actifs |
-| **Fichier vault** | [[developpement-logiciel-pour-la-mobilite-]] |
+| Champ             | Valeur                                                          |
+| ----------------- | --------------------------------------------------------------- |
+| **Procédure**     | Cession (RJ)                                                    |
+| **CA estimé**     | N/D                                                             |
+| **Secteur**       | Software automotive / mobilité connectée                        |
+| **AJ**            | 2M&Associés                                                     |
+| **Type offre**    | Cession de contrôle / prise de participation / cession d'actifs |
+| **Fichier vault** | [[developpement-logiciel-pour-la-mobilite-]]                    |
 
 ---
 
