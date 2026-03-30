@@ -36,3 +36,5 @@
 
 - [[brantham/_MOC]]
 - [[brantham/pipeline/QUEUE]]
+- Deep enrichment termine a 13:03
+---
