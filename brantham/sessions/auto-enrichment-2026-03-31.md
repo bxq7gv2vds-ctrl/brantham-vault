@@ -19,3 +19,5 @@
   - OK : 459 opportunites scrapees
 
 ## Deep Enrichment 21:58
+- Deep enrichment termine a 22:03
+---
