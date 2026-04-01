@@ -12,3 +12,7 @@
 ## Deep Enrichment 08:13
 - Deep enrichment termine a 08:18
 ---
+
+## Cycle 10:55
+
+- **Scrape AJ** : lancement...
