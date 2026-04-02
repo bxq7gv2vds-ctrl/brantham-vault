@@ -30,3 +30,19 @@
 - Relancer FastAPI pour matching 4D
 - Re-lancer scraper et comparer nouvelles annonces
 - Enrichir SIREN manquants manuellement (librairie, bijoux, recrutement)
+
+
+## Session 2026-04-02
+
+| Slug | Nom | Secteur | CA | Effectif | Region | Statut | Date |
+|------|-----|---------|-----|----------|--------|--------|------|
+| ajilink-grandest-debos-style | DEBOS'STYLE | Carrosserie | De 1 à 3 | <10 | Alsace | nouveau | 2026-04-02 |
+| ajup-i-artisan | I ARTISAN | Artisanat | <1M | 10-50 | IDF | nouveau | 2026-04-02 |
+| ajilink-ihdf-recherche-d-veloppement-et-analyse-de-produits- | R&D Pharma Cannabis | Pharma/R&D | <1M | <10 | IDF | nouveau | 2026-04-02 |
+| ajilink-ihdf-fabrication-de-conserves-et-de-produits-locaux | Fabrication conserves | Agroalim | <1M | <10 | IDF | nouveau | 2026-04-02 |
+| p2g-le-coin-gourmand-boulangerie-patisserie-974 | LE COIN GOURMAND | Boulangerie | <1M | <10 | La Reunion | nouveau | 2026-04-02 |
+| ajilink-ihdf-fetish | FETISH | Retail | <1M | <10 | IDF | nouveau | 2026-04-02 |
+| ajilink-ihdf-production-de-confitures-traditionnelle-cr-mes- | Confitures traditionnelles | Agroalim | <1M | <10 | IDF | nouveau | 2026-04-02 |
+| ajilink-ihdf-production-de-produits-d-picerie-fine | Epicerie fine | Agroalim | <1M | <10 | IDF | nouveau | 2026-04-02 |
+| ajilink-ihdf-dda-mpc | DDA-MPC | NC | <1M | <10 | IDF | nouveau | 2026-04-02 |
+| ajilink-provence-cap-alliance | CAP ALLIANCE | Services | <1M | <10 | PACA | nouveau | 2026-04-02 |
