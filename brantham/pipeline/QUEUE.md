@@ -46,3 +46,19 @@
 | ajilink-ihdf-production-de-produits-d-picerie-fine | Epicerie fine | Agroalim | <1M | <10 | IDF | nouveau | 2026-04-02 |
 | ajilink-ihdf-dda-mpc | DDA-MPC | NC | <1M | <10 | IDF | nouveau | 2026-04-02 |
 | ajilink-provence-cap-alliance | CAP ALLIANCE | Services | <1M | <10 | PACA | nouveau | 2026-04-02 |
+
+
+## Session 2026-04-03 — Auto-enrichment
+
+| Slug | Nom | CA | Enrichment | Analyse |
+|------|-----|-----|------------|---------|
+| ascagne-boulangerie-situee-a-paris-13e | BOULANGERIE SITUEE A PARIS 13e | 400 604 € | oui | oui |
+| meynet-vaise-sports-monts-d-or | VAISE SPORTS MONTS D'OR | 315 720€ | oui | oui |
+| ascagne-ventes-d-articles-de-pu-riculture | Ventes d’articles de puériculture | 238.572 € | oui | oui |
+| ascagne-coiffeur-barbier | Coiffeur barbier | 175.603 € | oui | oui |
+| ascagne-boutique-atelier-de-bijoux-et-accessoires- | BOUTIQUE-ATELIER DE BIJOUX ET ACCESSOIRE | 61.200 € | oui | oui |
+| aja-tous-les-secteursautres-secteursactivit-s-cult | Tous les secteursAutres secteursActivité |  | oui | oui |
+| aj2m-d-veloppement-et-commercialisation-de-solutio | Développement et commercialisation de so |  | oui | oui |
+| aj2m-activite-distribution-alimentaire-dediee-a-la | ACTIVITE : DISTRIBUTION ALIMENTAIRE DEDI |  | oui | oui |
+| aj2m-activite-fabrication-de-peintures-et-produits | ACTIVITE : FABRICATION DE PEINTURES ET P |  | oui | oui |
+| aj2m-activite-travaux-de-ma-onnerie-generale-et-gr | ACTIVITE : TRAVAUX DE MAÇONNERIE GENERAL |  | oui | oui |
