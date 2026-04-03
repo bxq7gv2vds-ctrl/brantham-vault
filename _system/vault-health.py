@@ -188,21 +188,61 @@ def check_orphan_mentions():
 # ─── Check 4: Knowledge Map Whitespots ────────────────────────────────────────
 
 def check_knowledge_whitespots():
-    """Subdirs in knowledge/ with very few files (potential whitespots)."""
+    """Subdirs in knowledge/ with very few files + writing vault stale items."""
     issues = []
-    knowledge_dir = VAULT_ROOT / "brantham/knowledge"
-    if not knowledge_dir.exists():
-        return issues
 
-    for subdir in sorted(knowledge_dir.iterdir()):
-        if not subdir.is_dir() or subdir.name in ("raw", "concepts"):
-            continue
-        md_files = list(subdir.glob("*.md"))
-        if len(md_files) <= 1:
-            issues.append({
-                "dir": subdir.relative_to(VAULT_ROOT),
-                "count": len(md_files),
-            })
+    # Brantham knowledge whitespots
+    knowledge_dir = VAULT_ROOT / "brantham/knowledge"
+    if knowledge_dir.exists():
+        for subdir in sorted(knowledge_dir.iterdir()):
+            if not subdir.is_dir() or subdir.name in ("raw", "concepts"):
+                continue
+            md_files = list(subdir.glob("*.md"))
+            if len(md_files) <= 1:
+                issues.append({
+                    "dir": subdir.relative_to(VAULT_ROOT),
+                    "count": len(md_files),
+                    "type": "knowledge-whitespot",
+                })
+
+    # Writing vault: abandoned seeds (status=fresh, >30 days old)
+    seeds_dir = VAULT_ROOT / "writing/seeds"
+    if seeds_dir.exists():
+        for f in seeds_dir.glob("*.md"):
+            content = read_file(f)
+            fm, _ = parse_frontmatter(content)
+            if fm.get("status") in ("fresh", "researching"):
+                date_str = fm.get("date", "")
+                try:
+                    seed_date = date.fromisoformat(str(date_str))
+                    age = (TODAY - seed_date).days
+                    if age > 30:
+                        issues.append({
+                            "dir": f.relative_to(VAULT_ROOT),
+                            "count": age,
+                            "type": "abandoned-seed",
+                        })
+                except (ValueError, TypeError):
+                    pass
+
+    # Writing vault: stuck drafts (>30 days no edit)
+    drafts_dir = VAULT_ROOT / "writing/drafts"
+    if drafts_dir.exists():
+        for f in drafts_dir.glob("*.md"):
+            content = read_file(f)
+            fm, _ = parse_frontmatter(content)
+            date_str = fm.get("date_last_edited", fm.get("date_started", ""))
+            try:
+                draft_date = date.fromisoformat(str(date_str))
+                age = (TODAY - draft_date).days
+                if age > 30:
+                    issues.append({
+                        "dir": f.relative_to(VAULT_ROOT),
+                        "count": age,
+                        "type": "stuck-draft",
+                    })
+            except (ValueError, TypeError):
+                pass
 
     return issues
 
@@ -281,11 +321,16 @@ def generate_report(results):
             lines.append(f"- `[[{item['term']}]]` ({item['count']}x) — dans {examples_str}")
         lines.append("")
 
-    # Whitespots
+    # Whitespots + writing alerts
     if results["whitespots"]:
-        lines += [f"## Knowledge Whitespots", f""]
+        lines += [f"## Whitespots & Writing Alerts", f""]
         for item in results["whitespots"]:
-            lines.append(f"- `{item['dir']}` — seulement {item['count']} fichier(s)")
+            if item["type"] == "knowledge-whitespot":
+                lines.append(f"- [knowledge] `{item['dir']}` — seulement {item['count']} fichier(s)")
+            elif item["type"] == "abandoned-seed":
+                lines.append(f"- [seed abandonné] `{item['dir']}` — {item['count']} jours sans activité → développer ou archiver")
+            elif item["type"] == "stuck-draft":
+                lines.append(f"- [draft bloqué] `{item['dir']}` — {item['count']} jours sans édition → débloquer ou abandonner")
         lines.append("")
 
     # Missing related

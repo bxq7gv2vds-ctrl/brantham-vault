@@ -13,6 +13,7 @@ VAULT_ROOT = Path("/Users/paul/vault")
 
 # File patterns and their linking rules
 LINKING_RULES = {
+    # ── Brantham / Founder ───────────────────────────────────────────────────
     "decision": {
         "backlinks": ["[[_system/MOC-decisions]]", "[[brantham/_MOC]]"],
         "optional": ["[[_system/MOC-assumptions]]", "[[founder/strategy/current-strategy]]"],
@@ -33,6 +34,31 @@ LINKING_RULES = {
         "backlinks": ["[[_system/MOC-assumptions]]", "[[brantham/_MOC]]"],
         "optional": ["[[_system/MOC-decisions]]", "[[founder/strategy/"],
     },
+    # ── Writing vault ────────────────────────────────────────────────────────
+    "seed": {
+        "backlinks": ["[[writing/_MOC]]", "[[writing/_system/MOC-writing-seeds]]"],
+        "optional": ["[[writing/concepts/", "[[writing/raw/"],
+    },
+    "draft": {
+        "backlinks": ["[[writing/_MOC]]"],
+        "optional": ["[[writing/seeds/", "[[writing/themes/", "[[writing/concepts/"],
+    },
+    "published": {
+        "backlinks": ["[[writing/_MOC]]"],
+        "optional": ["[[writing/drafts/", "[[writing/themes/", "[[writing/seeds/"],
+    },
+    "theme": {
+        "backlinks": ["[[writing/_MOC]]", "[[_system/MOC-master]]"],
+        "optional": ["[[writing/published/", "[[writing/concepts/"],
+    },
+    "writing-concept": {
+        "backlinks": ["[[writing/_MOC]]", "[[_system/MOC-master]]"],
+        "optional": ["[[writing/raw/", "[[writing/published/"],
+    },
+    "raw-source": {
+        "backlinks": ["[[writing/_MOC]]"],
+        "optional": ["[[writing/concepts/"],
+    },
 }
 
 def detect_file_type(file_path):
@@ -40,30 +66,42 @@ def detect_file_type(file_path):
     path = file_path.relative_to(VAULT_ROOT)
     path_str = str(path)
 
-    # Pattern matching
+    # Check frontmatter first (most reliable)
+    try:
+        with open(file_path, "r") as f:
+            content = f.read()
+            if content.startswith("---"):
+                match = re.search(r'type:\s*([\w-]+)', content)
+                if match:
+                    return match.group(1)
+    except:
+        pass
+
+    # Path-based fallback
     if "decisions" in path_str:
         return "decision"
     elif "bugs" in path_str:
         return "bug"
-    elif "patterns" in path_str:
+    elif "patterns" in path_str and "writing" not in path_str:
         return "pattern"
     elif "sessions" in path_str:
         return "session"
     elif "assumptions" in path_str:
         return "assumption"
+    elif "writing/seeds" in path_str:
+        return "seed"
+    elif "writing/drafts" in path_str:
+        return "draft"
+    elif "writing/published" in path_str:
+        return "published"
+    elif "writing/themes" in path_str:
+        return "theme"
+    elif "writing/concepts" in path_str:
+        return "writing-concept"
+    elif "writing/raw" in path_str:
+        return "raw-source"
     elif "_MOC" in path_str:
         return "moc"
-
-    # Check frontmatter
-    try:
-        with open(file_path, "r") as f:
-            content = f.read()
-            if content.startswith("---"):
-                match = re.search(r'type:\s*(\w+)', content)
-                if match:
-                    return match.group(1)
-    except:
-        pass
 
     return "unknown"
 
