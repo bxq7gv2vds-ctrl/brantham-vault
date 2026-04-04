@@ -1,6 +1,24 @@
 # QUEUE — Opportunites en attente de traitement
 
-> Mise a jour : 2026-03-30 (auto-enrichment session)
+> Mise a jour : 2026-04-04 (auto-enrichment session)
+
+## TOP 10 nouvelles opportunites traitees (2026-04-04)
+
+| Slug | Nom | CA | Source | SIREN | Statut |
+|------|-----|-----|--------|-------|--------|
+| ajire-ecole-de-conduite-prezeau | ECOLE DE CONDUITE PREZEAU | 85M est. | Ajire | 339957037 | enrichi |
+| trajectoire-cyfac-meral | CYFAC & MERAL Cycles | N/A | Trajectoire | N/D | enrichi partiel |
+| ajilink-sudouest-sas-mgmv | SAS MGMV (FRENCH DISORDER) | N/A | Ajilink SO | 989826672 | enrichi |
+| ajilink-sudouest-h-a-location | H&A LOCATION (barriques) | N/A | Ajilink SO | N/D | enrichi partiel |
+| ajup-sas-abeil | SAS ABEIL (literie) | N/A | AJ UP | 533134698 | enrichi |
+| aj-specialises-2133 | Entreprise sante DOM/TOM | 5.76M | AJ Specialises | N/D | anon |
+| aj-specialises-2092 | Infrastructures portuaires | 5.3M | AJ Specialises | N/D | anon |
+| aj-specialises-2230 | Charcuterie industrielle Var | 3.6M | AJ Specialises | N/D | anon |
+| aj-specialises-2144 | Reseau pharmaceutique | 2.36M | AJ Specialises | N/D | anon |
+| aj-specialises-2091 | Mobilier Agencement CHR | ~3M | AJ Specialises | N/D | anon |
+
+---
+
 
 ## TOP 10 nouvelles opportunites traitees (2026-03-30)
 
