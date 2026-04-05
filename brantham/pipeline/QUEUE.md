@@ -80,3 +80,24 @@
 | aj2m-activite-distribution-alimentaire-dediee-a-la | ACTIVITE : DISTRIBUTION ALIMENTAIRE DEDI |  | oui | oui |
 | aj2m-activite-fabrication-de-peintures-et-produits | ACTIVITE : FABRICATION DE PEINTURES ET P |  | oui | oui |
 | aj2m-activite-travaux-de-ma-onnerie-generale-et-gr | ACTIVITE : TRAVAUX DE MAÇONNERIE GENERAL |  | oui | oui |
+
+---
+
+## Session auto-enrichment — 2026-04-05
+
+10 nouvelles opportunites ajoutees (sans dossier existant, meilleur signal disponible) :
+
+| # | Nom | Source | Secteur | CA | Slug |
+|---|-----|--------|---------|-----|------|
+| 1 | IPSOMEDIC | AJ Specialises | Pharmacie / R&D | n/d | aj-specialises-ipsomedic |
+| 2 | BS OUTDOOR | AJ Specialises | Fabrication equipement | 2,1 M€ | aj-specialises-bs-outdoor |
+| 3 | PROFAST | AJ Specialises | Transport messagerie | 1,1 M€ | aj-specialises-profast |
+| 4 | Negoce semi-remorque | Meynet | Transport | n/d | meynet-cession-d-une-activit-de-n-goce-de-semi-remorque |
+| 5 | EPIFURIEU | AJ Specialises | Boulangerie | 733 K€ | aj-specialises-epifurieu |
+| 6 | Chantier naval Bormes | AJ Specialises | Construction navale | 1,3 M€ | aj-specialises-1937-chantier-naval-a-bormes-les-mimosas |
+| 7 | 7 TECH | AJ Specialises | Machines speciales | n/d | aj-specialises-7-tech |
+| 8 | Minuteurs EDDO | AJ Specialises | IoT / electronique | n/d | aj-specialises-concepteur-et-fabricant-de-minuteurs-de-douch |
+| 9 | Connectique | AJ Specialises | Composants electroniques | n/d | aj-specialises-vente-d-entreprise-de-connectique |
+| 10 | BLUE & PASTEL | FHBX | Biotechnologie pigments | n/d | fhbx-blue-pastel-le-reve-bleu |
+
+Dossiers crees : deals/{slug}/enrichment.json + analyse.md + acheteurs.json (API gouv hors ligne - 0 repreneurs trouves)
