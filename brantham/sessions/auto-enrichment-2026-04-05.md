@@ -79,3 +79,4 @@ projet: brantham
 ## Cycle 20:33
 
 - **Scrape AJ** : lancement...
+  - OK : 457 opportunites scrapees
