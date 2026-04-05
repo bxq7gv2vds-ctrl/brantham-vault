@@ -68,3 +68,5 @@ projet: brantham
   - OK : 457 opportunites scrapees
 
 ## Deep Enrichment 14:49
+- Deep enrichment termine a 14:53
+---
