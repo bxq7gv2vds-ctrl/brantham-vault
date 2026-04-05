@@ -66,3 +66,5 @@ projet: brantham
 
 - **Scrape AJ** : lancement...
   - OK : 457 opportunites scrapees
+
+## Deep Enrichment 14:49
