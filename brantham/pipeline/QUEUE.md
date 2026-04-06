@@ -1,6 +1,6 @@
 # QUEUE — Opportunites en attente de traitement
 
-> Mise a jour : 2026-04-04 (auto-enrichment session)
+> Mise a jour : 2026-04-06 (auto-enrichment session)
 
 ## TOP 10 nouvelles opportunites traitees (2026-04-04)
 
