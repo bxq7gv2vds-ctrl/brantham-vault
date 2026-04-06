@@ -154,6 +154,26 @@ Carte des connaissances de l'agent expert. Statut: couvert / partiel / a faire.
 | 2026-03-27 | creation | PI et actifs incorporels distressed (marques royalty relief, brevets, franchise intuitu personae, logiciel/SaaS, noms domaine, RGPD, CIR) |
 | 2026-03-27 | rewrite | Glossaire distressed M&A (200+ termes en 6 categories vs 64 lignes precedemment) |
 | 2026-03-27 | **MAJ** | **53/53 sujets couverts + glossaire etendu** |
+| 2026-04-06 | creation | 9 case studies individuels dans case-studies/ (Camaieu, Go Sport, Aigle Azur, La Halle, Conforama, Courtepaille, Orchestra, Scopelec, San Marina) |
+| 2026-04-06 | creation | Concept article patterns-defaillance-france.md (synthese 5 patterns, grille scoring, stats 11 cas) |
+| 2026-04-06 | creation | INDEX.md master (70 articles, toutes categories) |
+| 2026-04-06 | **MAJ** | **70 articles — case-studies/ complet, concepts/ initialise, INDEX.md cree** |
+
+## 7. Etudes de Cas (Case Studies)
+
+| Sujet | Statut | Fichier vault | Niveau |
+|---|---|---|---|
+| Camaieu (LBO toxique, double procedure) | couvert | `case-studies/camaieu.md` | avance |
+| Go Sport (cession Intersport) | couvert | `case-studies/go-sport.md` | intermediaire |
+| Aigle Azur (liquidation directe aerien) | couvert | `case-studies/aigle-azur.md` | intermediaire |
+| La Halle / Vivarte (LBO + cession Beaumanoir) | couvert | `case-studies/la-halle-vivarte.md` | avance |
+| Conforama (Steinhoff + cession BUT) | couvert | `case-studies/conforama.md` | avance |
+| Courtepaille (cession Buffalo Grill) | couvert | `case-studies/courtepaille.md` | intermediaire |
+| Orchestra-Premaman (cession fondateur) | couvert | `case-studies/orchestra-premaman.md` | avance |
+| Scopelec (SCOP + dependance Orange) | couvert | `case-studies/scopelec.md` | avance |
+| San Marina (liquidation sans repreneur) | couvert | `case-studies/san-marina.md` | intermediaire |
+| Casino / Rallye (SFA + Kretinsky) | couvert | `market/cas-casino-groupe.md` | avance |
+| Orpea / Emeis (SFA + CDC) | couvert | `market/cas-orpea-emeis.md` | avance |
 
 ## Related
 - [[brantham/_MOC]]
