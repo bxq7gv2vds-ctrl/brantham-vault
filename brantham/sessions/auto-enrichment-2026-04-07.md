@@ -72,3 +72,7 @@ tags: [auto-enrichment, pipeline, scraping]
 ## Deep Enrichment 19:14
 - Deep enrichment termine a 19:17
 ---
+
+## Cycle 20:36
+
+- **Scrape AJ** : lancement...
