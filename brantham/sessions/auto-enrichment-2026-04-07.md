@@ -67,3 +67,4 @@ tags: [auto-enrichment, pipeline, scraping]
 ## Cycle 16:51
 
 - **Scrape AJ** : lancement...
+  - OK : 461 opportunites scrapees
