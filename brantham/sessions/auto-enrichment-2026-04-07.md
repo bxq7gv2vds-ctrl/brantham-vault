@@ -70,3 +70,5 @@ tags: [auto-enrichment, pipeline, scraping]
   - OK : 461 opportunites scrapees
 
 ## Deep Enrichment 19:14
+- Deep enrichment termine a 19:17
+---
