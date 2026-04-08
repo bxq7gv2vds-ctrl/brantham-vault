@@ -55,3 +55,7 @@ tags: [auto-enrichment, pipeline, deals]
 
 - **Scrape AJ** : lancement...
   - OK : 180 opportunites scrapees
+
+## Cycle 20:23
+
+- **Scrape AJ** : lancement...
