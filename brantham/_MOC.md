@@ -181,8 +181,29 @@ Modele hybride : **15-30k upfront** (1ere offre) + **15-30k** (offre finale) + *
 
 ---
 
+## Pappers Intelligence Hub
+
+**[[brantham/pappers/_MOC]]** — Cartographie complete des entreprises francaises via Pappers MCP.
+
+| Donnee | Source | Template |
+|--------|--------|----------|
+| Fiches entreprises | `/entreprise` | [[_system/templates/entreprise-pappers]] |
+| Dirigeants & mandats | `/entreprise` | [[_system/templates/dirigeant-pappers]] |
+| Beneficiaires effectifs | `/entreprise` | [[_system/templates/beneficiaire-pappers]] |
+| Comptes annuels | `/entreprise/comptes` | [[_system/templates/financial-snapshot-pappers]] |
+| Procedures collectives | `/recherche-publications` | [[_system/templates/procedure-collective-pappers]] |
+| Cartographie groupes | `/entreprise/cartographie` | [[_system/templates/cartographie-pappers]] |
+| Analyses sectorielles | `/recherche` | [[_system/templates/secteur-pappers]] |
+
+**Scripts**: `vault/brantham/pappers/scripts/` — fetch, search, enrich deals, monitor BODACC, analyse secteur, cartographie groupe.
+
+---
+
 ## Revenue
 
 **0 EUR** — pre-revenue. Fee structure definie : 15-30k upfront x2 + variable. Objectif premier revenu : fin mai 2026.
+
 ## Related
-## Related
+
+- [[_system/MOC-master]]
+- [[brantham/pappers/_MOC]]
