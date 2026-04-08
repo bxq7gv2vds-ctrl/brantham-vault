@@ -50,3 +50,7 @@ tags: [auto-enrichment, pipeline, deals]
 [[brantham/pipeline/QUEUE]]
 - Deep enrichment termine a 11:58
 ---
+
+## Cycle 13:47
+
+- **Scrape AJ** : lancement...
