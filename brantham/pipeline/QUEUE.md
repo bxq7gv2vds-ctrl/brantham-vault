@@ -101,3 +101,20 @@
 | 10 | BLUE & PASTEL | FHBX | Biotechnologie pigments | n/d | fhbx-blue-pastel-le-reve-bleu |
 
 Dossiers crees : deals/{slug}/enrichment.json + analyse.md + acheteurs.json (API gouv hors ligne - 0 repreneurs trouves)
+
+---
+
+## Auto-enrichment 2026-04-08 — Nouvelles opportunites
+
+| Entreprise | AJ | CA (~M€) | Secteur | Slug |
+|---|---|---|---|---|
+| OOGARDEN | Meynet | 54 | Commerce de detail | meynet-oogarden |
+| DAUPHITRANS | Meynet | 9.2 | Transport | meynet-dauphitrans |
+| IMEX 360 | Meynet | 5.6 | Commerce de gros | meynet-imex-360 |
+| D.UNIFLEXO | Meynet | 5.6 | Industrie | meynet-d-uniflexo |
+| RENNARD | Meynet | 4.2 | Industrie | meynet-rennard |
+| REGIS VAUTE | Meynet | 3.9 | Agriculture | meynet-regis-vaute |
+| EVOLUTION | Meynet | 3.3 | BTP | meynet-evolution |
+| GOUDET FERRIER | Meynet | 2.9 | Commerce de gros | meynet-goudet-ferrier |
+| Papier & Electricite | Abitol | 151 | Industrie papetiere | abitol-rousselet-papier-et-electricite |
+
