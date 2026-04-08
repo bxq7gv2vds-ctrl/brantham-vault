@@ -29,6 +29,13 @@ type: reference
 | **pattern** | `[[_system/MOC-patterns]]`<br>`[[project/_MOC]]` | Links to bugs it resolves, decisions |
 | **session** | `[[project/_MOC]]` | Links to decisions/bugs/patterns made same day |
 | **assumption** | `[[_system/MOC-assumptions]]`<br>`[[project/_MOC]]` | Links to decisions validating/invalidating it |
+| **entreprise** | `[[brantham/pappers/_MOC]]`<br>`[[brantham/_MOC]]` | Links to secteur, dirigeants, procedures, financials |
+| **dirigeant** | `[[brantham/pappers/_MOC]]` | Links to entreprises (mandats), other dirigeants (reseau) |
+| **beneficiaire** | `[[brantham/pappers/_MOC]]` | Links to entreprises (participations) |
+| **secteur** | `[[brantham/pappers/_MOC]]` | Links to entreprises, playbook sectoriel |
+| **procedure_collective** | `[[brantham/pappers/_MOC]]` | Links to entreprise, secteur, deal pipeline |
+| **financial_snapshot** | `[[brantham/pappers/_MOC]]` | Links to entreprise |
+| **cartographie** | `[[brantham/pappers/_MOC]]` | Links to entreprise tete, filiales, dirigeants communs |
 
 ### 3. Cross-day linking (temporal)
 
