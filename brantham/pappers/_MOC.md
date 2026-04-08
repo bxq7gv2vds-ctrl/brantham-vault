@@ -28,8 +28,8 @@ pappers/
 
 | Metrique | Valeur | Maj |
 |----------|--------|-----|
-| Entreprises cartographiees | 0 | 2026-04-08 |
-| Dirigeants profiled | 0 | 2026-04-08 |
+| Entreprises cartographiees | 1 | 2026-04-08 |
+| Dirigeants profiled | 2 | 2026-04-08 |
 | Secteurs analyses | 0 | 2026-04-08 |
 | Procedures suivies | 0 | 2026-04-08 |
 | Groupes cartographies | 0 | 2026-04-08 |
