@@ -42,6 +42,7 @@ Single source of truth for all Brantham Partners knowledge.
 | Agent Network | [[brantham/agents/_MOC]] |
 | Dashboard | [[brantham/dashboard/_MOC]] |
 | Architecture | [[brantham/architecture]] |
+| **Pappers Intelligence** | **[[brantham/pappers/_MOC]]** |
 
 ## Quick Stats (2026-03-15)
 
