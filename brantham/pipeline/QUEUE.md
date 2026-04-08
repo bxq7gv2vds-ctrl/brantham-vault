@@ -118,3 +118,12 @@ Dossiers crees : deals/{slug}/enrichment.json + analyse.md + acheteurs.json (API
 | GOUDET FERRIER | Meynet | 2.9 | Commerce de gros | meynet-goudet-ferrier |
 | Papier & Electricite | Abitol | 151 | Industrie papetiere | abitol-rousselet-papier-et-electricite |
 
+
+## Nouvelles opportunites — 2026-04-09
+
+| Slug | Nom | CA | Secteur | Deadline | SIREN |
+|------|-----|----|---------|-----------|----|
+| trajectoire-g2-meca-concept | G2 MECA CONCEPT | 1,9M EUR | Mecanique industrielle | 2026-05-06 | 450210570 |
+| ajilink-ihdf-la-cantine-creteil | LA CANTINE CRETEIL | 1-3M EUR | Restauration | 2026-05-04 | 850682410 |
+| meynet-programmation-conseil-et-autres-activites-informatiqu | IT Conseil Montfavet | 2,9M EUR | Informatique | 2026-05-20 | N/A |
+
