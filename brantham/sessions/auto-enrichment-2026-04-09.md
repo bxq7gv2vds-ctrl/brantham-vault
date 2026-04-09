@@ -76,3 +76,7 @@ Sortie: /Users/paul/Desktop/brantham-partners/api/aj_annonces.json
 ## Deep Enrichment 08:22
 - Deep enrichment termine a 09:06
 ---
+
+## Cycle 10:20
+
+- **Scrape AJ** : lancement...
