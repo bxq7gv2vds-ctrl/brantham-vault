@@ -1,6 +1,23 @@
 # QUEUE — Opportunites en attente de traitement
 
-> Mise a jour : 2026-04-06 (auto-enrichment session)
+> Mise a jour : 2026-04-09 (auto-enrichment session)
+
+## TOP 10 nouvelles opportunites traitees (2026-04-09)
+
+| Slug | Nom | CA | AJ | SIREN | Deadline | Statut |
+|------|-----|----|----|-------|----------|--------|
+| abitol-rousselet-papier-et-lectricit | Papier & electricite biomasse | 151,3 M€ | Abitol & Rousselet | N/D | **2026-04-13 URGENT** | enrichi |
+| maydaymag-gestion-externalis... | Gestion barriques viticoles | 50 M€+ | Maydaymag | N/D | N/A | enrichi |
+| maydaymag-livraison-de-colis | Livraison de colis IDF | 50 M€+ | Maydaymag | 538114794 | N/A | enrichi |
+| maydaymag-production-papeti... | Production papetiere biomasse | 50 M€+ | Maydaymag | N/D | N/A | enrichi |
+| maydaymag-metavisio | METAVISIO electronique | 50 M€+ | Maydaymag | 793834888 | N/A | enrichi |
+| abitol-rousselet-produits-lectroniques | Reconditionnement electronique | 46,4 M€ | Abitol & Rousselet | N/D | 2026-02-27 | enrichi |
+| meynet-industrie-12518 | Industrie emballage bois | 20 M€ | Meynet | N/D | 2022-02-14 | enrichi |
+| ajilink-ihdf-atelier-de-l-eyrieux... | ATELIER DE L'EYRIEUX (luxe) | 9 M€ | Ajilink IHDF | 897537569 | **2026-04-10 URGENT** | enrichi |
+| meynet-cession-...logistique-agent | Logistique CHR | 6 M€ | Meynet | N/D | 2025-09-19 | enrichi |
+| meynet-batiroc-protect | BATIROC PROTECT BTP | 5,9 M€ | Meynet | 838183754 | 2024-01-19 | enrichi |
+
+---
 
 ## TOP 10 nouvelles opportunites traitees (2026-04-04)
 
