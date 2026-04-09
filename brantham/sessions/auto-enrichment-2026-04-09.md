@@ -66,3 +66,4 @@ Sortie: /Users/paul/Desktop/brantham-partners/api/aj_annonces.json
 ## Cycle 02:50
 
 - **Scrape AJ** : lancement...
+  - OK : 462 opportunites scrapees
