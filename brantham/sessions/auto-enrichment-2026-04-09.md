@@ -62,3 +62,7 @@ Sortie: /Users/paul/Desktop/brantham-partners/api/aj_annonces.json
 - [[brantham/pipeline/QUEUE]]
 - Deep enrichment termine a 01:20
 ---
+
+## Cycle 02:50
+
+- **Scrape AJ** : lancement...
