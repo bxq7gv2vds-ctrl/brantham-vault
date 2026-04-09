@@ -72,3 +72,5 @@ Sortie: /Users/paul/Desktop/brantham-partners/api/aj_annonces.json
 
 - **Scrape AJ** : lancement...
   - OK : 462 opportunites scrapees
+
+## Deep Enrichment 08:22
