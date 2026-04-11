@@ -113,26 +113,73 @@ Optimal : **50+ bets simultanés** (sur plusieurs villes/dates) pour maximiser P
 
 ---
 
+## Implémentation dans run_bracket_scalper.py (2026-04-11)
+
+Signal `CONVEX_YES` implémenté dans `scripts/run_bracket_scalper.py` :
+
+```python
+# Dict ville → WR empirique (backtest 2026-03-05 to 2026-04-05)
+CONVEX_CITIES_WR = {
+    "tokyo":       0.096,   # n=3695 (+8.6%)  ***
+    "paris":       0.086,   # n=4736 (+7.6%)  ***
+    "milan":       0.080,   # n=2789 (+7.0%)  **
+    "london":      0.067,   # n=5230 (+5.7%)  **
+    "shanghai":    0.068,   # n=~1500 (+4.8%) *
+    "tel aviv":    0.065,   # n=~800  (+4.5%) *
+    "mexico city": 0.107,   # n=422   (+9.7%) * petit n → Kelly conservatif
+}
+
+# Villes exclues (edge nul ou négatif) :
+CONVEX_EXCLUDED = frozenset({
+    "new york", "new york city", "nyc", "dallas", "miami", "atlanta",
+    "austin", "houston", "seattle", "los angeles", "san francisco",
+    "denver", "boston", "phoenix", "chicago",
+    "singapore", "lucknow"
+})
+
+# Condition d'entrée CONVEX_YES :
+# 1. city in CONVEX_CITIES_WR
+# 2. 0.002 <= yes_price < 0.02  (fourchette 0.2%-2%)
+# 3. ttr_hours >= 8.0
+# 4. city not in CONVEX_EXCLUDED
+# (Pas besoin de NWP — edge purement statistique)
+
+# Sizing :
+# kelly_f = (WR_city - yes_price) / (1 - yes_price) × 0.25
+# size = min(kelly_f × bankroll, max_convex_size)  # capped at $250
+```
+
+**Résultats live (2026-04-11, bankroll $10K) :**
+- 42 CONVEX_YES générés en un seul scan
+- Villes actives : Tokyo, Paris, Milan, Shanghai, London, Mexico City, Tel Aviv
+- Tailles typiques : $157 (Tel Aviv) → $250 (Mexico City, cap atteint)
+- LONGSHOT_YES correctement filtré : 0 ville US dans les 11 signaux
+
+**Priorité dans la pile de signaux :**
+`CONFIRMED > CERT_NO > SPEEDA > COLDMATH > CONVEX_YES > LONGSHOT_YES > PROB`
+
+---
+
 ## Règles opérationnelles
 
 ```python
-# Villes ciblées (edge >5%) :
-CONVEX_CITIES = ["tokyo", "paris", "milan", "london"]
+# Villes ciblées avec WR confirmé (edge >5%) :
+CONVEX_CITIES = ["tokyo", "paris", "milan", "london", "shanghai", "tel aviv", "mexico city"]
 
 # Villes exclues (edge quasi-nul ou négatif) :
 EXCLUDED_CITIES = ["new york", "dallas", "miami", "los angeles",
-                   "houston", "atlanta", "denver"]
+                   "houston", "atlanta", "denver", "singapore", "lucknow"]
 
 # Condition d'entrée :
-# 1. market_price < 2%
-# 2. NWP P(YES) > market_price + 10 points (edge minimum)
-# 3. Ville dans CONVEX_CITIES
-# 4. TTR dans 40-8h (fenêtre collapse entropique)
+# 1. market_price ∈ [0.2%, 2%)  (zone longshot ultra-cheap)
+# 2. Ville dans CONVEX_CITIES
+# 3. TTR >= 8h (éviter expiration imminente)
+# (NWP optionnel — stratégie purement statistique)
 
 # Sizing :
 # bet_size = Kelly_f* × 0.25 × bankroll
-# = (WR - price) / (1 - price) × 0.25 × bankroll
-# Pour Tokyo à 1% avec WR=9.55% → $216
+# = (WR_city - price) / (1 - price) × 0.25 × bankroll
+# Pour Tokyo à 1% avec WR=9.6% → $211 ; plafonné à $250
 
 # Objectif : diversifier sur 5+ villes/dates indépendantes par cycle
 ```
