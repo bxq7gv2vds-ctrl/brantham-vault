@@ -144,3 +144,17 @@ Dossiers crees : deals/{slug}/enrichment.json + analyse.md + acheteurs.json (API
 | ajilink-ihdf-la-cantine-creteil | LA CANTINE CRETEIL | 1-3M EUR | Restauration | 2026-05-04 | 850682410 |
 | meynet-programmation-conseil-et-autres-activites-informatiqu | IT Conseil Montfavet | 2,9M EUR | Informatique | 2026-05-20 | N/A |
 
+## Nouvelles opportunites — 2026-04-11
+
+| Slug | Nom | CA | Localisation | Procedure | Limite |
+|------|-----|----|-------------|-----------|--------|
+| saj-recherche-repreneurs-le-marche-des-saisons-a-p | RECHERCHE REPRENEURS - LE MARCHÉ DES SAI | 989 246€ au 31/10/2024Résultat | PORNIC (44)Personnel : 5 salariésChiffre |  |  |
+| saj-recherche-repreneurs-restaurant-a-la-baule-44 | RECHERCHE REPRENEURS - RESTAURANT A LA B | 864 949€ au 31/12/2024Résultat | LA BAULE (44)Personnel : 4 salariésChiff |  |  |
+| meynet-commerce-de-detail-12888 | Commerce de détail #12888 | 6.870.276,00 € | Date limite de dépôt des offres : |  | 2022-10-17 |
+| meynet-m-g-b-a | M.G.B.A. | 2.555.000,00 € | 38890 Salagnon |  | 2022-11-14 |
+| aj-specialises-recherche-de-repreneurs-dans-le-cad | Recherche de repreneurs dans le cadre d’ | 2 193 000.00 |  |  |  |
+| aj-specialises-viand-oc | VIAND OC | 1 996 851.00 |  |  |  |
+| meynet-industrie-14207 | Industrie #14207 | 1 213 808,69 | 74300 CLUSES |  | 2026-02-04 |
+| meynet-sp-lyon-7 | SP LYON 7 | 872 322,96 € | 69007 LYON |  | 2025-08-27 |
+| ajilink-cap-alliance | CAP ALLIANCE | 805 835.82 € | SISTERON Type de cession envisagée : Maj |  |  |
+| meynet-sp-vileurbanne | SP VILEURBANNE | 567.480,45 € | 69100 VILLEURBANNE |  | 2025-08-27 |
