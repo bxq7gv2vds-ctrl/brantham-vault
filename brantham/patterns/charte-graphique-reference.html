@@ -1,0 +1,1078 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Brantham Partners — Charte Graphique</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500;600&family=Instrument+Serif&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy-deep: #001438;
+    --navy: #001F54;
+    --navy-card: #001A3D;
+    --cream: #FAFAF8;
+    --white: #FFFFFF;
+    --off: #F5F4F2;
+    --ink: #0F0F0E;
+    --t2: #4A4A47;
+    --t3: #6A6A66;
+    --t4: #767672;
+    --accent: #5B9BD5;
+    --stone: #E5E4E0;
+    --line-dark: #0A1E3D;
+    --red: #C8251A;
+    --font-display: 'Instrument Serif', Georgia, 'Times New Roman', serif;
+    --font-body: 'DM Sans', Inter, Helvetica, sans-serif;
+    --font-mono: 'DM Mono', 'JetBrains Mono', monospace;
+    --card-radius: 10px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: var(--font-body);
+    background: var(--cream);
+    color: var(--ink);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ── HERO COVER ── */
+  .hero {
+    background: var(--navy-deep);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 80px 120px;
+    position: relative;
+  }
+  .hero-eyebrow {
+    font-family: var(--font-mono);
+    font-weight: 500;
+    font-size: 11px;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+  .hero-eyebrow::before {
+    content: '';
+    width: 32px;
+    height: 1px;
+    background: var(--accent);
+  }
+  .hero h1 {
+    font-family: var(--font-display);
+    font-weight: 400;
+    font-size: 72px;
+    color: var(--white);
+    line-height: 1.05;
+    margin-bottom: 24px;
+    max-width: 600px;
+  }
+  .hero-sub {
+    font-family: var(--font-body);
+    font-weight: 300;
+    font-size: 20px;
+    color: var(--t3);
+    line-height: 1.6;
+    max-width: 520px;
+    margin-bottom: 80px;
+  }
+  .hero-kpi-bar {
+    border-top: 1px solid var(--line-dark);
+    padding-top: 32px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 40px;
+    max-width: 800px;
+  }
+  .hero-kpi-value {
+    font-family: var(--font-mono);
+    font-weight: 500;
+    font-size: 28px;
+    color: var(--white);
+    margin-bottom: 6px;
+  }
+  .hero-kpi-label {
+    font-family: var(--font-body);
+    font-size: 9px;
+    color: var(--t4);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+  }
+  .hero-contact {
+    position: absolute;
+    bottom: 40px;
+    right: 80px;
+    font-family: var(--font-mono);
+    font-size: 10px;
+    color: var(--t4);
+  }
+
+  /* ── SECTIONS ── */
+  section {
+    padding: 100px 120px;
+  }
+  section.dark {
+    background: var(--navy-deep);
+    color: var(--white);
+  }
+  section.cream {
+    background: var(--cream);
+    color: var(--ink);
+  }
+
+  .section-eyebrow {
+    font-family: var(--font-mono);
+    font-weight: 500;
+    font-size: 11px;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .section-eyebrow::before {
+    content: '';
+    width: 32px;
+    height: 1px;
+    background: var(--accent);
+  }
+  .section-title {
+    font-family: var(--font-display);
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 1.15;
+    margin-bottom: 8px;
+  }
+  .section-subtitle {
+    font-family: var(--font-body);
+    font-weight: 300;
+    font-size: 16px;
+    color: var(--t3);
+    line-height: 1.6;
+    margin-bottom: 56px;
+    max-width: 600px;
+  }
+
+  /* ── PALETTE ── */
+  .palette-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 16px;
+    margin-bottom: 24px;
+  }
+  .swatch {
+    border-radius: var(--card-radius);
+    overflow: hidden;
+  }
+  .swatch-color {
+    height: 80px;
+    border-radius: var(--card-radius) var(--card-radius) 0 0;
+  }
+  .swatch-info {
+    padding: 12px 14px;
+    background: var(--white);
+    border: 1px solid var(--stone);
+    border-top: none;
+    border-radius: 0 0 var(--card-radius) var(--card-radius);
+  }
+  .swatch-name {
+    font-family: var(--font-mono);
+    font-weight: 500;
+    font-size: 11px;
+    color: var(--ink);
+    margin-bottom: 2px;
+  }
+  .swatch-hex {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    color: var(--t3);
+  }
+
+  /* ── TYPOGRAPHY ── */
+  .type-specimen {
+    margin-bottom: 48px;
+    padding-bottom: 48px;
+    border-bottom: 1px solid var(--stone);
+  }
+  .type-specimen:last-child { border-bottom: none; }
+  .type-meta {
+    display: flex;
+    gap: 24px;
+    margin-bottom: 16px;
+  }
+  .type-meta span {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+  }
+  .type-display {
+    font-family: var(--font-display);
+    font-weight: 400;
+    font-size: 54px;
+    color: var(--ink);
+    line-height: 1.1;
+  }
+  .type-body-light {
+    font-family: var(--font-body);
+    font-weight: 300;
+    font-size: 18px;
+    color: var(--t2);
+    line-height: 1.6;
+    max-width: 560px;
+  }
+  .type-body {
+    font-family: var(--font-body);
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--t2);
+    line-height: 1.7;
+    max-width: 560px;
+  }
+  .type-mono {
+    font-family: var(--font-mono);
+    font-weight: 500;
+    font-size: 42px;
+    color: var(--navy);
+  }
+  .type-eyebrow-demo {
+    font-family: var(--font-mono);
+    font-weight: 500;
+    font-size: 11px;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+  }
+
+  /* ── CARDS LIGHT ── */
+  .cards-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+  }
+  .card-light {
+    background: var(--white);
+    border: 1px solid var(--stone);
+    border-radius: var(--card-radius);
+    padding: 28px;
+  }
+  .card-light .card-value {
+    font-family: var(--font-mono);
+    font-weight: 500;
+    font-size: 40px;
+    color: var(--navy);
+    margin-bottom: 12px;
+    line-height: 1;
+  }
+  .card-light .card-label {
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: 13px;
+    color: var(--ink);
+    margin-bottom: 4px;
+  }
+  .card-light .card-sublabel {
+    font-family: var(--font-body);
+    font-weight: 400;
+    font-size: 11px;
+    color: var(--t3);
+  }
+
+  /* ── CARDS DARK ── */
+  .cards-grid-dark {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+  .card-dark {
+    background: var(--navy-card);
+    border-radius: var(--card-radius);
+    padding: 28px;
+  }
+  .card-dark .card-title {
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--white);
+    margin-bottom: 10px;
+  }
+  .card-dark .card-desc {
+    font-family: var(--font-body);
+    font-weight: 400;
+    font-size: 12px;
+    color: var(--t3);
+    line-height: 1.6;
+    margin-bottom: 20px;
+    max-width: 400px;
+  }
+  .card-dark .card-metric-line {
+    width: 40px;
+    height: 1px;
+    background: var(--accent);
+    margin-bottom: 10px;
+    opacity: 0.5;
+  }
+  .card-dark .card-metric {
+    font-family: var(--font-mono);
+    font-weight: 400;
+    font-size: 11px;
+    color: var(--accent);
+  }
+
+  /* ── SERVICES GRID ── */
+  .services-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px 48px;
+    margin-bottom: 56px;
+  }
+  .service-num {
+    font-family: var(--font-mono);
+    font-weight: 500;
+    font-size: 11px;
+    color: var(--accent);
+    margin-bottom: 6px;
+  }
+  .service-title {
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--ink);
+    margin-bottom: 6px;
+  }
+  .service-desc {
+    font-family: var(--font-body);
+    font-weight: 400;
+    font-size: 12px;
+    color: var(--t3);
+    line-height: 1.55;
+  }
+
+  /* ── PIPELINE BAR ── */
+  .pipeline-bar {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-top: 40px;
+    border-top: 1px solid var(--stone);
+  }
+  .pipeline-step {
+    background: var(--navy);
+    color: var(--white);
+    font-family: var(--font-mono);
+    font-weight: 500;
+    font-size: 9px;
+    padding: 8px 20px;
+    border-radius: 6px;
+    letter-spacing: 0.05em;
+  }
+  .pipeline-chevron {
+    font-family: var(--font-mono);
+    font-size: 14px;
+    color: var(--t4);
+  }
+
+  /* ── CONTACT ── */
+  .contact-section {
+    background: var(--navy-deep);
+    min-height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 100px 120px;
+  }
+  .contact-section .section-eyebrow {
+    justify-content: center;
+  }
+  .contact-section .section-eyebrow::before { display: none; }
+  .contact-section .section-title {
+    color: var(--white);
+    margin-bottom: 12px;
+    max-width: 700px;
+  }
+  .contact-section .section-subtitle {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+  }
+  .contact-divider {
+    width: 80px;
+    height: 1px;
+    background: var(--line-dark);
+    margin-bottom: 32px;
+  }
+  .contact-name {
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: 18px;
+    color: var(--white);
+    margin-bottom: 4px;
+  }
+  .contact-role {
+    font-family: var(--font-body);
+    font-weight: 400;
+    font-size: 13px;
+    color: var(--t3);
+    margin-bottom: 20px;
+  }
+  .contact-link {
+    font-family: var(--font-mono);
+    font-weight: 400;
+    font-size: 13px;
+    color: var(--accent);
+    display: block;
+    margin-bottom: 6px;
+    text-decoration: none;
+  }
+
+  /* ── TABLE ── */
+  .spec-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 56px;
+  }
+  .spec-table th {
+    font-family: var(--font-mono);
+    font-weight: 500;
+    font-size: 10px;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    text-align: left;
+    padding: 12px 16px;
+    background: var(--off);
+    border-bottom: 1px solid var(--stone);
+  }
+  .spec-table td {
+    font-family: var(--font-body);
+    font-weight: 400;
+    font-size: 13px;
+    color: var(--t2);
+    padding: 14px 16px;
+    border-bottom: 1px solid var(--stone);
+  }
+  .spec-table td:first-child {
+    font-family: var(--font-mono);
+    font-weight: 500;
+    font-size: 12px;
+    color: var(--ink);
+  }
+  .spec-table td code {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--navy);
+    background: var(--off);
+    padding: 2px 6px;
+    border-radius: 4px;
+  }
+
+  /* ── HEADER BAR DEMO ── */
+  .header-demo {
+    background: var(--navy-deep);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 32px;
+    border-radius: var(--card-radius);
+    margin-bottom: 56px;
+  }
+  .header-demo-left {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  .header-demo-logo {
+    font-family: var(--font-display);
+    font-size: 22px;
+    color: var(--white);
+    width: 36px;
+    height: 36px;
+    border: 1.5px solid rgba(255,255,255,0.2);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .header-demo-name {
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--white);
+  }
+  .header-demo-center {
+    font-family: var(--font-body);
+    font-weight: 300;
+    font-size: 13px;
+    color: rgba(255,255,255,0.6);
+  }
+  .header-demo-right {
+    font-family: var(--font-mono);
+    font-size: 9px;
+    color: var(--t3);
+    text-align: right;
+  }
+
+  /* ── INTERDITS ── */
+  .interdit-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+  .interdit-item {
+    background: var(--white);
+    border: 1px solid var(--stone);
+    border-radius: var(--card-radius);
+    padding: 20px 24px;
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+  }
+  .interdit-x {
+    font-family: var(--font-mono);
+    font-weight: 500;
+    font-size: 14px;
+    color: var(--red);
+    flex-shrink: 0;
+    width: 24px;
+    height: 24px;
+    border: 1.5px solid var(--red);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+  }
+  .interdit-text {
+    font-family: var(--font-body);
+    font-weight: 400;
+    font-size: 13px;
+    color: var(--t2);
+    line-height: 1.5;
+  }
+
+  /* ── SLIDE NUMBER ── */
+  .slide-num {
+    position: absolute;
+    top: 40px;
+    right: 80px;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--t4);
+  }
+  section { position: relative; }
+</style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- SLIDE 1 — HERO COVER -->
+<!-- ════════════════════════════════════════════ -->
+<div class="hero">
+  <div class="hero-eyebrow">CHARTE GRAPHIQUE</div>
+  <h1>Brantham Partners</h1>
+  <p class="hero-sub">
+    Direction artistique unifiee.<br>
+    Reference pour tous les supports : pitch deck, teaser, data room, lettres, rapports.
+  </p>
+  <div class="hero-kpi-bar">
+    <div>
+      <div class="hero-kpi-value">12</div>
+      <div class="hero-kpi-label">Tokens couleur</div>
+    </div>
+    <div>
+      <div class="hero-kpi-value">3</div>
+      <div class="hero-kpi-label">Familles typo</div>
+    </div>
+    <div>
+      <div class="hero-kpi-value">16:9</div>
+      <div class="hero-kpi-label">Format slides</div>
+    </div>
+    <div>
+      <div class="hero-kpi-value">0</div>
+      <div class="hero-kpi-label">Emojis autorises</div>
+    </div>
+  </div>
+  <div class="hero-contact">contact@branthampartners.fr</div>
+</div>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- SECTION — PALETTE -->
+<!-- ════════════════════════════════════════════ -->
+<section class="cream">
+  <span class="slide-num">02</span>
+  <div class="section-eyebrow">Palette</div>
+  <div class="section-title">Couleurs</div>
+  <div class="section-subtitle">12 tokens. Aucune autre couleur autorisee.</div>
+
+  <div class="palette-grid">
+    <div class="swatch">
+      <div class="swatch-color" style="background: #001438;"></div>
+      <div class="swatch-info">
+        <div class="swatch-name">navy-deep</div>
+        <div class="swatch-hex">#001438</div>
+      </div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background: #001F54;"></div>
+      <div class="swatch-info">
+        <div class="swatch-name">navy</div>
+        <div class="swatch-hex">#001F54</div>
+      </div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background: #001A3D;"></div>
+      <div class="swatch-info">
+        <div class="swatch-name">navy-card</div>
+        <div class="swatch-hex">#001A3D</div>
+      </div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background: #FAFAF8; border: 1px solid #E5E4E0;"></div>
+      <div class="swatch-info">
+        <div class="swatch-name">cream</div>
+        <div class="swatch-hex">#FAFAF8</div>
+      </div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background: #FFFFFF; border: 1px solid #E5E4E0;"></div>
+      <div class="swatch-info">
+        <div class="swatch-name">white</div>
+        <div class="swatch-hex">#FFFFFF</div>
+      </div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background: #F5F4F2; border: 1px solid #E5E4E0;"></div>
+      <div class="swatch-info">
+        <div class="swatch-name">off</div>
+        <div class="swatch-hex">#F5F4F2</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="palette-grid">
+    <div class="swatch">
+      <div class="swatch-color" style="background: #0F0F0E;"></div>
+      <div class="swatch-info">
+        <div class="swatch-name">ink</div>
+        <div class="swatch-hex">#0F0F0E</div>
+      </div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background: #4A4A47;"></div>
+      <div class="swatch-info">
+        <div class="swatch-name">t2</div>
+        <div class="swatch-hex">#4A4A47</div>
+      </div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background: #6A6A66;"></div>
+      <div class="swatch-info">
+        <div class="swatch-name">t3</div>
+        <div class="swatch-hex">#6A6A66</div>
+      </div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background: #5B9BD5;"></div>
+      <div class="swatch-info">
+        <div class="swatch-name">accent</div>
+        <div class="swatch-hex">#5B9BD5</div>
+      </div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background: #E5E4E0; border: 1px solid #ccc;"></div>
+      <div class="swatch-info">
+        <div class="swatch-name">stone</div>
+        <div class="swatch-hex">#E5E4E0</div>
+      </div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background: #C8251A;"></div>
+      <div class="swatch-info">
+        <div class="swatch-name">red</div>
+        <div class="swatch-hex">#C8251A</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- SECTION — TYPOGRAPHIE -->
+<!-- ════════════════════════════════════════════ -->
+<section class="cream" style="border-top: 1px solid var(--stone);">
+  <span class="slide-num">03</span>
+  <div class="section-eyebrow">Typographie</div>
+  <div class="section-title">Trois familles, zero decoration</div>
+  <div class="section-subtitle">Instrument Serif pour les titres, DM Sans pour le corps, DM Mono pour les donnees.</div>
+
+  <div class="type-specimen">
+    <div class="type-meta">
+      <span>Instrument Serif</span>
+      <span>Regular 400</span>
+      <span>44 — 54pt</span>
+    </div>
+    <div class="type-display">
+      L'asymetrie d'information<br>comme avantage competitif
+    </div>
+  </div>
+
+  <div class="type-specimen">
+    <div class="type-meta">
+      <span>DM Sans</span>
+      <span>Light 300</span>
+      <span>15 — 18pt</span>
+    </div>
+    <div class="type-body-light">
+      Boutique de conseil specialisee dans l'acquisition d'entreprises en procedure collective. Six competences integrees, un seul interlocuteur.
+    </div>
+  </div>
+
+  <div class="type-specimen">
+    <div class="type-meta">
+      <span>DM Sans</span>
+      <span>Regular 400</span>
+      <span>11 — 13pt</span>
+    </div>
+    <div class="type-body">
+      Cox Proportional Hazards calibre sur l'integralite des procedures francaises. Prediction de cession a 3, 6, 9 et 12 mois. Modele NAF Ring sur 172 000 codes. Seuils d'action automatiques bases sur le scoring 9 dimensions.
+    </div>
+  </div>
+
+  <div class="type-specimen">
+    <div class="type-meta">
+      <span>DM Mono</span>
+      <span>Medium 500</span>
+      <span>36 — 48pt</span>
+    </div>
+    <div class="type-mono">184 000+</div>
+  </div>
+
+  <div class="type-specimen">
+    <div class="type-meta">
+      <span>DM Mono</span>
+      <span>Medium 500</span>
+      <span>9pt Majuscules</span>
+    </div>
+    <div class="type-eyebrow-demo">M&A DISTRESSED  &middot;  FRANCE</div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- SECTION — ECHELLE TYPO (TABLE) -->
+<!-- ════════════════════════════════════════════ -->
+<section class="cream" style="border-top: 1px solid var(--stone);">
+  <span class="slide-num">04</span>
+  <div class="section-eyebrow">Specifications</div>
+  <div class="section-title">Echelle typographique</div>
+  <div class="section-subtitle">Chaque role a une police, un poids et une taille. Rien d'autre.</div>
+
+  <table class="spec-table">
+    <thead>
+      <tr>
+        <th>Role</th>
+        <th>Police</th>
+        <th>Poids</th>
+        <th>Taille</th>
+        <th>Couleur</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Titre principal</td>
+        <td>Instrument Serif</td>
+        <td>Regular 400</td>
+        <td>44 — 54pt</td>
+        <td><code>white</code> / <code>ink</code></td>
+      </tr>
+      <tr>
+        <td>Titre secondaire</td>
+        <td>Instrument Serif</td>
+        <td>Regular 400</td>
+        <td>32 — 36pt</td>
+        <td><code>white</code> / <code>ink</code></td>
+      </tr>
+      <tr>
+        <td>Sous-titre</td>
+        <td>DM Sans</td>
+        <td>Light 300</td>
+        <td>15 — 18pt</td>
+        <td><code>t3</code></td>
+      </tr>
+      <tr>
+        <td>Corps</td>
+        <td>DM Sans</td>
+        <td>Regular 400</td>
+        <td>11 — 13pt</td>
+        <td><code>t2</code> / <code>t3</code></td>
+      </tr>
+      <tr>
+        <td>Corps emphase</td>
+        <td>DM Sans</td>
+        <td>Semi-bold 600</td>
+        <td>11 — 13pt</td>
+        <td><code>ink</code> / <code>white</code></td>
+      </tr>
+      <tr>
+        <td>Chiffre hero</td>
+        <td>DM Mono</td>
+        <td>Medium 500</td>
+        <td>36 — 48pt</td>
+        <td><code>white</code> / <code>navy</code></td>
+      </tr>
+      <tr>
+        <td>Chiffre secondaire</td>
+        <td>DM Mono</td>
+        <td>Medium 500</td>
+        <td>24 — 28pt</td>
+        <td><code>navy</code> / <code>white</code></td>
+      </tr>
+      <tr>
+        <td>Metrique / KPI</td>
+        <td>DM Mono</td>
+        <td>Regular 400</td>
+        <td>10 — 11pt</td>
+        <td><code>accent</code></td>
+      </tr>
+      <tr>
+        <td>Eyebrow</td>
+        <td>DM Mono</td>
+        <td>Medium 500</td>
+        <td>9pt</td>
+        <td><code>accent</code> MAJUSCULES</td>
+      </tr>
+      <tr>
+        <td>Label discret</td>
+        <td>DM Sans</td>
+        <td>Regular 400</td>
+        <td>9pt</td>
+        <td><code>t4</code></td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- SECTION — COMPOSANTS FOND CLAIR -->
+<!-- ════════════════════════════════════════════ -->
+<section class="cream" style="border-top: 1px solid var(--stone);">
+  <span class="slide-num">05</span>
+  <div class="section-eyebrow">Composants</div>
+  <div class="section-title">Cartes sur fond clair</div>
+  <div class="section-subtitle">Fond blanc, border stone, coins arrondis 10px, padding 28pt.</div>
+
+  <div class="cards-grid">
+    <div class="card-light">
+      <div class="card-value">70K</div>
+      <div class="card-label">Defaillances par an</div>
+      <div class="card-sublabel">+17% sur 12 mois</div>
+    </div>
+    <div class="card-light">
+      <div class="card-value">12K+</div>
+      <div class="card-label">Cessions par an</div>
+      <div class="card-sublabel">Totales ou partielles</div>
+    </div>
+    <div class="card-light">
+      <div class="card-value">250K</div>
+      <div class="card-label">Emplois concernes</div>
+      <div class="card-sublabel">Impact economique et social</div>
+    </div>
+    <div class="card-light">
+      <div class="card-value">1,2Md</div>
+      <div class="card-label">Marche adressable</div>
+      <div class="card-sublabel">Honoraires annuels (EUR)</div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- SECTION — COMPOSANTS FOND SOMBRE -->
+<!-- ════════════════════════════════════════════ -->
+<section class="dark">
+  <span class="slide-num" style="color: var(--t3);">06</span>
+  <div class="section-eyebrow">Composants</div>
+  <div class="section-title" style="color: var(--white);">Cartes sur fond sombre</div>
+  <div class="section-subtitle">Fond navy-card, pas de border, coins arrondis, profondeur par la couleur.</div>
+
+  <div class="cards-grid-dark">
+    <div class="card-dark">
+      <div class="card-title">Modeles predictifs</div>
+      <div class="card-desc">Cox Proportional Hazards calibre sur l'integralite des procedures francaises. Prediction de cession a 3, 6, 9 et 12 mois.</div>
+      <div class="card-metric-line"></div>
+      <div class="card-metric">C-index 0.84 — 165K+ lignes de validation</div>
+    </div>
+    <div class="card-dark">
+      <div class="card-title">Scoring 9 dimensions</div>
+      <div class="card-desc">Taille, secteur, procedure, fraicheur, localisation, effectif, solvabilite, mandataire, actifs. Seuils automatiques.</div>
+      <div class="card-metric-line"></div>
+      <div class="card-metric">75+ Urgent   60+ Lancement   50+ Veille</div>
+    </div>
+    <div class="card-dark">
+      <div class="card-title">Matching acquereur 4D</div>
+      <div class="card-desc">Capacite financiere, fit strategique, track record, capacite operationnelle. Modele NAF Ring sur 172K codes.</div>
+      <div class="card-metric-line"></div>
+      <div class="card-metric">4 axes x 172 000 codes NAF</div>
+    </div>
+    <div class="card-dark">
+      <div class="card-title">Pipeline autonome</div>
+      <div class="card-desc">Collecte BODACC, enrichissement SIRENE, geocodage, scoring, construction dossier. Zero intervention humaine.</div>
+      <div class="card-metric-line"></div>
+      <div class="card-metric">9 etapes — execution quotidienne 07h00</div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- SECTION — GRILLE SERVICES -->
+<!-- ════════════════════════════════════════════ -->
+<section class="cream">
+  <span class="slide-num">07</span>
+  <div class="section-eyebrow">Composants</div>
+  <div class="section-title">Grille de services</div>
+  <div class="section-subtitle">Pas de cartes. Numeros, titres, descriptions. Alignement sur la grille.</div>
+
+  <div class="services-grid">
+    <div>
+      <div class="service-num">01</div>
+      <div class="service-title">Sourcing proprietaire</div>
+      <div class="service-desc">Monitoring BODACC continu. Detection temps reel sur tout le territoire.</div>
+    </div>
+    <div>
+      <div class="service-num">02</div>
+      <div class="service-title">Scoring et qualification</div>
+      <div class="service-desc">Algorithme 9 dimensions. Notation, classement et priorisation automatiques.</div>
+    </div>
+    <div>
+      <div class="service-num">03</div>
+      <div class="service-title">Due diligence acceleree</div>
+      <div class="service-desc">Analyse M&A complete en 48 heures. Ratios, contexte, diagnostic.</div>
+    </div>
+    <div>
+      <div class="service-num">04</div>
+      <div class="service-title">Valorisation distressed</div>
+      <div class="service-desc">Decote actifs nets, DCF ajuste, comparables. Modeles adaptes au judiciaire.</div>
+    </div>
+    <div>
+      <div class="service-num">05</div>
+      <div class="service-title">Mapping acquereurs</div>
+      <div class="service-desc">10-20 repreneurs par dossier. Profilage financier, strategique, operationnel.</div>
+    </div>
+    <div>
+      <div class="service-num">06</div>
+      <div class="service-title">Execution en audience</div>
+      <div class="service-desc">Accompagnement tribunal, plan de cession, pilotage post-acquisition.</div>
+    </div>
+  </div>
+
+  <div class="pipeline-bar">
+    <div class="pipeline-step">SCOUT</div>
+    <div class="pipeline-chevron">&gt;</div>
+    <div class="pipeline-step">DIRECTOR</div>
+    <div class="pipeline-chevron">&gt;</div>
+    <div class="pipeline-step">ANALYST</div>
+    <div class="pipeline-chevron">&gt;</div>
+    <div class="pipeline-step">WRITER</div>
+    <div class="pipeline-chevron">&gt;</div>
+    <div class="pipeline-step">HUNTER</div>
+    <div class="pipeline-chevron">&gt;</div>
+    <div class="pipeline-step">ENRICHER</div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- SECTION — HEADER BAR -->
+<!-- ════════════════════════════════════════════ -->
+<section class="cream" style="border-top: 1px solid var(--stone);">
+  <span class="slide-num">08</span>
+  <div class="section-eyebrow">Composants</div>
+  <div class="section-title">En-tete document</div>
+  <div class="section-subtitle">Header navy pour les one-pagers, rapports et data rooms.</div>
+
+  <div class="header-demo">
+    <div class="header-demo-left">
+      <div class="header-demo-logo">B</div>
+      <div class="header-demo-name">Brantham Partners</div>
+    </div>
+    <div class="header-demo-center">Memorandum de presentation — ARTEMIS</div>
+    <div class="header-demo-right">
+      CONFIDENTIEL<br>
+      REF-2207 &middot; 19.02.2026
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- SECTION — INTERDITS -->
+<!-- ════════════════════════════════════════════ -->
+<section class="cream" style="border-top: 1px solid var(--stone);">
+  <span class="slide-num">09</span>
+  <div class="section-eyebrow">Contraintes</div>
+  <div class="section-title">Interdits absolus</div>
+  <div class="section-subtitle">Ce qui n'apparait jamais sur un support Brantham.</div>
+
+  <div class="interdit-grid">
+    <div class="interdit-item">
+      <div class="interdit-x">x</div>
+      <div class="interdit-text">Emojis, pictogrammes, clipart, icones</div>
+    </div>
+    <div class="interdit-item">
+      <div class="interdit-x">x</div>
+      <div class="interdit-text">Violet, orange, vert vif, jaune, couleurs hors palette</div>
+    </div>
+    <div class="interdit-item">
+      <div class="interdit-x">x</div>
+      <div class="interdit-text">Gradients, ombres portees, glow, reflets</div>
+    </div>
+    <div class="interdit-item">
+      <div class="interdit-x">x</div>
+      <div class="interdit-text">Stock photos, images de fond, illustrations</div>
+    </div>
+    <div class="interdit-item">
+      <div class="interdit-x">x</div>
+      <div class="interdit-text">Bullet points ronds noirs (utiliser 01, 02...)</div>
+    </div>
+    <div class="interdit-item">
+      <div class="interdit-x">x</div>
+      <div class="interdit-text">Texte inferieur a 8pt, blocs de plus de 40 mots</div>
+    </div>
+    <div class="interdit-item">
+      <div class="interdit-x">x</div>
+      <div class="interdit-text">Plus de 3 niveaux de hierarchie typographique</div>
+    </div>
+    <div class="interdit-item">
+      <div class="interdit-x">x</div>
+      <div class="interdit-text">Borders visibles sur fond sombre</div>
+    </div>
+    <div class="interdit-item">
+      <div class="interdit-x">x</div>
+      <div class="interdit-text">Contenu centre (sauf slide contact)</div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- SECTION — CONTACT -->
+<!-- ════════════════════════════════════════════ -->
+<div class="contact-section">
+  <div class="section-eyebrow">Prochaine etape</div>
+  <div class="section-title">Identifions votre prochaine acquisition</div>
+  <div class="section-subtitle">Discutons de la facon dont notre intelligence peut accelerer votre prochain deal.</div>
+  <div class="contact-divider"></div>
+  <div class="contact-name">Paul Roulleau</div>
+  <div class="contact-role">Fondateur</div>
+  <a class="contact-link" href="mailto:paul.roulleau@branthampartners.fr">paul.roulleau@branthampartners.fr</a>
+  <a class="contact-link" href="https://branthampartners.fr">branthampartners.fr</a>
+</div>
+
+</body>
+</html>

@@ -25,6 +25,9 @@ Reusable technical patterns. Check here before solving a problem.
 | NWP EMOS Calibration | trading/weather | [[patterns/polymarket-nwp-emos-calibration]] |
 | Intraday Architecture | trading/infra | [[patterns/polymarket-intraday-architecture]] |
 | Bracket Arb (Temperature) | trading/arb | [[patterns/polymarket-bracket-arb]] |
+| COLDMATH_NO = −EV (analyse) | trading/math | [[patterns/polymarket-coldmath-no-ev-analysis]] |
+| Oracle Confirmed Backtest | trading/oracle | [[patterns/polymarket-oracle-confirmed-backtest]] |
+| **Processus de prix — Analyse mathématique profonde** | **trading/quant** | **[[patterns/polymarket-price-process-deep-analysis]]** |
 
 ## Website-Specific
 
