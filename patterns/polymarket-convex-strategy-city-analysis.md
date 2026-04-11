@@ -1,17 +1,17 @@
 ---
-name: Polymarket — Stratégie convexe par ville (Tokyo/Paris vs NYC)
-description: Analyse Kelly + Monte Carlo de la stratégie buy YES cheap (<2%) par ville — Tokyo edge +8.5% vs NYC +0.9%
+name: Polymarket — Stratégie convexe par ville (variance optimizer v2)
+description: Analyse Sharpe+Monte Carlo sur 37 villes, 486K obs. Portefeuille optimal 22 villes. Mexico City 18.6%, Taipei 16.8%, Madrid 16.2%, Tokyo 14.2%.
 type: pattern
 project: polymarket-hedge
-tags: [polymarket, convex, kelly, monte-carlo, tokyo, paris, fat-tails, longshot]
+tags: [polymarket, convex, kelly, monte-carlo, sharpe, variance-optimizer, longshot]
 date: 2026-04-11
 scripts:
+  - scripts/variance_optimizer.py
   - scripts/city_convex_strategy.py
 outputs:
-  - analysis/J_city_calibration.png
-  - analysis/K_kelly_analysis.png
-  - analysis/L_monte_carlo.png
-  - analysis/M_optimal_portfolio.png
+  - analysis/T_sharpe_ranking.png
+  - analysis/T_portfolio_frontier.png
+  - analysis/T1_variance_*.png
 ---
 
 # Polymarket — Stratégie convexe par ville
