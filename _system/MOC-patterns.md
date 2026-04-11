@@ -48,6 +48,7 @@ Reusable technical patterns. Check here before solving a problem.
 | Backtest Hierarchical Calibration | calibration | [[brantham/patterns/backtest-hierarchical-calibration]] |
 | Agent Decision Quality | quality | [[brantham/patterns/agent-decision-quality]] |
 | Teaser One-Pager HTML/PDF | content | [[brantham/patterns/teaser-onepager-html-pdf]] |
+| **Charte Graphique** | **design** | **[[brantham/patterns/charte-graphique]]** |
 | TUI Sourcing Repreneur | sourcing | [[brantham/patterns/tui-sourcing-repreneur]] |
 | Feynman Research Tool | research | [[brantham/patterns/feynman-research-tool]] |
 | **Pappers Intelligence Hub** | **intel/corporate** | **[[patterns/pappers-intelligence-hub]]** |
