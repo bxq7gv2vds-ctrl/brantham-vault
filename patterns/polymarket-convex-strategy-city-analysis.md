@@ -160,28 +160,75 @@ CONVEX_EXCLUDED = frozenset({
 
 ---
 
-## Règles opérationnelles
+## Variance Optimizer — Résultats complets (2026-04-11)
+
+**Script** : `scripts/variance_optimizer.py` — 486K obs, 37 villes, bins fins [0.2%–3.0%]
+
+### Classement Sharpe/100 (top 22 villes rentables)
+
+| Ville | Px optimal | WR | Sharpe/100 | Std/100 | P(+) |
+|-------|-----------|-----|-----------|---------|------|
+| ★★★★ Mexico City | 0.20% | 18.6% | 4.74 | $29K | 100% |
+| ★★★★ Taipei | 1.80% | 16.8% | 4.01 | $3.1K | 100% |
+| ★★★★ Madrid | 1.80% | 16.2% | 3.90 | $3.1K | 100% |
+| ★★★★ Tokyo | 1.80% | 14.2% | 3.56 | $2.9K | 100% |
+| ★★★ Hong Kong | 2.25% | 13.9% | 3.36 | $2.3K | 100% |
+| ★★★ Milan | 1.80% | 12.8% | 3.29 | $2.8K | 100% |
+| ★★★ Austin | 1.00% | 11.2% | 3.23 | $4.7K | 100% |
+| ★★★ Beijing | 1.80% | 12.3% | 3.19 | $2.7K | 100% |
+| ★★★ Paris | 0.60% | 10.2% | 3.17 | $7.5K | 100% |
+| ★★★ Tel Aviv | 1.80% | 11.5% | 3.04 | $2.6K | 100% |
+| ★★ Wuhan | 1.00% | 9.8% | 2.96 | $4.5K | 100% |
+| ★★ Warsaw | 1.80% | 10.7% | 2.88 | $2.6K | 100% |
+| ★★ Shanghai | 0.60% | 8.7% | 2.87 | $7.0K | 100% |
+| ★★ London | 1.00% | 9.0% | 2.79 | $4.3K | 100% |
+| ★ Buenos Aires | 2.25% | 10.6% | 2.72 | $2.0K | 100% |
+| ★ Atlanta | 2.25% | 10.4% | 2.66 | $2.0K | 100% |
+| ★ Chengdu | 2.25% | 10.1% | 2.60 | $2.0K | 100% |
+| ★ Wellington | 1.40% | 8.7% | 2.60 | $3.0K | 100% |
+| ★ São Paulo | 2.25% | 9.2% | 2.41 | $1.9K | 100% |
+| ★ Toronto | 0.60% | 6.2% | 2.33 | $6.0K | 100% |
+| ★ Seoul | 1.40% | 7.6% | 2.33 | $2.8K | 100% |
+| ★ Munich | 2.25% | 8.6% | 2.27 | $1.9K | 99% |
+
+**Portefeuille optimal** : 9 villes (Sharpe > 3.0) — Mexico City, Taipei, Madrid, Tokyo, Hong Kong, Milan, Austin, Beijing, Paris
+
+**Villes SKIP** (EV ≤ 0) : Houston, Los Angeles
+
+**Villes exclues** (Sharpe < 1.5) : Dallas (0.24), Singapore (0.83), Lucknow (0.65), Moscow (1.26)
+
+### Erreurs de calibration initiale corrigées
+
+| Ville | WR initial | WR corrigé | Bucket optimal | Cause |
+|-------|-----------|-----------|---------------|-------|
+| Tokyo | 9.6% | **14.2%** | 1.80% (vs global <2%) | mauvais bucket |
+| Paris | 8.6% | **10.2%** | 0.60% | mauvais bucket |
+| Milan | 8.0% | **12.8%** | 1.80% | mauvais bucket |
+| Austin | exclu | **11.2%** (Sharpe=3.23) | 1.00% | exclusion erronée |
+| Atlanta | exclu | 10.4% (Sharpe=2.66) | 2.25% | exclusion à vérifier |
+| Taipei | absent | **16.8%** (Sharpe=4.01) | 1.80% | ville non incluse |
+| Madrid | absent | **16.2%** (Sharpe=3.90) | 1.80% | ville non incluse |
+| Hong Kong | absent | 13.9% (Sharpe=3.36) | 2.25% | ville non incluse |
+
+### Règles opérationnelles (v2 — post variance_optimizer)
 
 ```python
-# Villes ciblées avec WR confirmé (edge >5%) :
-CONVEX_CITIES = ["tokyo", "paris", "milan", "london", "shanghai", "tel aviv", "mexico city"]
-
-# Villes exclues (edge quasi-nul ou négatif) :
-EXCLUDED_CITIES = ["new york", "dallas", "miami", "los angeles",
-                   "houston", "atlanta", "denver", "singapore", "lucknow"]
+# 22 villes ciblées — voir CONVEX_CITIES_WR dans run_bracket_scalper.py
+# Format: WR @ Sharpe-optimal bucket | max_convex_size=$15 (liquidity cap)
 
 # Condition d'entrée :
-# 1. market_price ∈ [0.2%, 2%)  (zone longshot ultra-cheap)
-# 2. Ville dans CONVEX_CITIES
-# 3. TTR >= 8h (éviter expiration imminente)
-# (NWP optionnel — stratégie purement statistique)
+# 1. market_price ∈ [0.2%, 2.5%)
+# 2. Ville dans CONVEX_CITIES_WR (22 villes)
+# 3. TTR >= 8h
+# 4. Ville NOT in CONVEX_EXCLUDED
 
 # Sizing :
-# bet_size = Kelly_f* × 0.25 × bankroll
-# = (WR_city - price) / (1 - price) × 0.25 × bankroll
-# Pour Tokyo à 1% avec WR=9.6% → $211 ; plafonné à $250
+# kelly_f = (WR_city - price) / (1 - price) × 0.25
+# size = min(kelly_f × bankroll, 15.0)  # cap ordre book réaliste
 
-# Objectif : diversifier sur 5+ villes/dates indépendantes par cycle
+# Déploiement typique : 40-70 signaux × $15 = $600-$1,050/scan
+# EV par bet : +200-570% sur ask réel ($6-$11 fill)
+# Diversification : 22 villes × prix indépendants = corrélation minimale
 ```
 
 ---
