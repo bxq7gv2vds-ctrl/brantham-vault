@@ -28,6 +28,7 @@ Reusable technical patterns. Check here before solving a problem.
 | COLDMATH_NO = −EV (analyse) | trading/math | [[patterns/polymarket-coldmath-no-ev-analysis]] |
 | Oracle Confirmed Backtest | trading/oracle | [[patterns/polymarket-oracle-confirmed-backtest]] |
 | **Processus de prix — Analyse mathématique profonde** | **trading/quant** | **[[patterns/polymarket-price-process-deep-analysis]]** |
+| **Stratégie convexe par ville (Tokyo/Paris)** | **trading/convex** | **[[patterns/polymarket-convex-strategy-city-analysis]]** |
 
 ## Website-Specific
 
