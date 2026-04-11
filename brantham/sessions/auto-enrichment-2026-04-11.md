@@ -56,3 +56,7 @@
   - OK : 463 opportunites scrapees
 
 ## Deep Enrichment 19:35
+
+## Cycle 20:26
+
+- **Scrape AJ** : lancement...
