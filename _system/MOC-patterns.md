@@ -29,6 +29,7 @@ Reusable technical patterns. Check here before solving a problem.
 | Oracle Confirmed Backtest | trading/oracle | [[patterns/polymarket-oracle-confirmed-backtest]] |
 | **Processus de prix — Analyse mathématique profonde** | **trading/quant** | **[[patterns/polymarket-price-process-deep-analysis]]** |
 | **Stratégie convexe par ville (Tokyo/Paris)** | **trading/convex** | **[[patterns/polymarket-convex-strategy-city-analysis]]** |
+| **CONVEX_YES Breakdown Complet** | **trading/convex** | **[[patterns/polymarket-convex-yes-complete-breakdown]]** |
 
 ## Website-Specific
 
