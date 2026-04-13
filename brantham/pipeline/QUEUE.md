@@ -158,3 +158,21 @@ Dossiers crees : deals/{slug}/enrichment.json + analyse.md + acheteurs.json (API
 | meynet-sp-lyon-7 | SP LYON 7 | 872 322,96 € | 69007 LYON |  | 2025-08-27 |
 | ajilink-cap-alliance | CAP ALLIANCE | 805 835.82 € | SISTERON Type de cession envisagée : Maj |  |  |
 | meynet-sp-vileurbanne | SP VILEURBANNE | 567.480,45 € | 69100 VILLEURBANNE |  | 2025-08-27 |
+
+
+## Nouvelles opportunités — 2026-04-13
+
+| # | Nom | AJ | CA | Type | Localisation | Slug |
+|---|-----|----|----|------|-------------|------|
+| 1 | ACTIVITE : TRANSPORT SPECIALISE DANS L’A | 2M&Associés | ? | cession |  | `aj2m-activite-transport-specialise-dans-` |
+| 2 | Société de fabrication et distribution d | 2M&Associés | ? | cession |  | `aj2m-soci-t-de-fabrication-et-distributi` |
+| 3 | Fonds de Commerce | Trajectoire | ? | cession |  | `trajectoire-fonds-de-commerce` |
+| 4 | Solutions industrielles pour le réemploi | BCM | ? | cession |  | `bcm-solutions-industrielles-pour-le-r-em` |
+| 5 | SELECTION VIANDE DISTRIBUTION | 2M&Associés | ? | redressement |  | `aj2m-selection-viande-distribution` |
+| 6 | BEC FIN - Fabrication de conserves et de | Ajilink IHDF | Moins de 1 | cession |  | `ajilink-ihdf-bec-fin-fabrication-de-cons` |
+| 7 | RS PARTICIPATION | AJ UP | Moins de 1 | cession |  | `ajup-rs-participation` |
+| 8 | PHARMACIE COLBERT | Ajilink Provence | ? | cession |  | `ajilink-provence-pharmacie-colbert` |
+| 9 | Activité : FABRICATION ET VENTE DE REMOR | 2M&Associés | ? | cession |  | `aj2m-activit-fabrication-et-vente-de-rem` |
+| 10 | Commercialisation et distribution d’équi | 2M&Associés | ? | cession |  | `aj2m-commercialisation-et-distribution-d` |
+
+*Ajouté automatiquement le 2026-04-13 — enrichissement partiel (scraper uniquement)*
