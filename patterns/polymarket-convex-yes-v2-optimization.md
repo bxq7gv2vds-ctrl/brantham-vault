@@ -106,6 +106,27 @@ convex_size = min(kelly_f * cfg.bankroll, cfg.max_convex_size)  # cap $15
 3. **Positions pre-cap** (pré 2026-04-12) causaient de grosses pertes — $15 Kelly cap résout ça
 4. **WR live = backtest** à ±1% → modèle non-overfitté sur les 62 trades du 13/04
 
+## v3 — Deep Analysis (2026-04-13, deep_city_analysis.py)
+
+Analyse sur dataset complet 2025-01→2026-04 (17500 obs, 37 villes). Résultats v3 :
+
+| Tier | Villes | WR range | S/100 range |
+|------|--------|----------|-------------|
+| S | HK, Tokyo, Beijing, Chengdu, Madrid, Mexico City, Milan, **Moscow**, Taipei, Paris | 9.8–17.7% | 3.0–4.5 |
+| A | Warsaw, Tel Aviv, Munich, Buenos Aires, London, Wellington, **Wuhan**, Shanghai, São Paulo, **Seoul** | 5.7–9.3% | 2.0–2.9 |
+| B | **Istanbul** (NEW), Toronto, Seattle | 4.1–4.8% | 1.6–1.9 |
+| ✗ | Atlanta, Chicago, Dallas, Denver, Miami, etc. | 0–2.8% | <1.2 |
+
+**Corrections majeures** :
+- Moscow : exclus (S=1.26) → **Tier S** (WR=11.1%, S=3.25) — erreur dataset précédent
+- Wuhan : exclus (WR=3.3%) → **Tier A** (WR=6.8%, S=2.35)
+- Seoul : exclus (WR=3.4%) → **Tier A** (WR=5.7%, S=2.02)
+- Istanbul : **NEW** Tier B (WR=4.8%, S=1.88, N=62)
+- WR global : 7.04% → **8.52%** (+1.5 pp)
+
+**Prix buckets** (Sharpe très stable 2.23–2.58 sur toute la plage) :
+→ Garder 0.2–2.5% complet confirmé, EV/trade $+54–$+300 selon le bucket
+
 ## Related
 
 - [[_system/MOC-patterns]]
