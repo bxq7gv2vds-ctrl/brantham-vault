@@ -1,18 +1,19 @@
 ---
 type: moc
 project: twitter
-updated: 2026-03-26
+updated: 2026-04-13
 ---
 
-# Twitter Growth Agent — Map of Content
+# Twitter Content Engine — Map of Content
 
 ## Mission
-Agent autonome (Claude Cowork) qui fait percer le compte Twitter de Paul dans la niche AI/agents/LLM/automation/self-improvement. Browse Twitter via Playwright (computer use), apprend qui est Paul, produit du contenu indistinguable d'un humain.
+Infrastructure autonome qui apprend en continu pour construire le personal brand de Paul Roulleau sur CT FR.
+Angle unique : **Le Réaliste IA** — builder avec données terrain réelles (3 918 PME scrapées, agents en prod, deals réels).
 
 ## Statut
-- **Phase** : setup (prompt pret, lancement imminent)
-- **Compte Twitter** : a configurer
-- **Mode** : Claude Cowork + Playwright (browser natif, zero API)
+- **Phase** : production — infrastructure complète déployée
+- **Objectif** : 50 tweets/jour (4 originaux + 46 replies/QTs)
+- **Apprentissage** : boucle persona continue (feed → vault → persona → génération → feedback)
 
 ## Agent Config
 - [[twitter/agent/COWORK-PROMPT]] — Prompt principal (instructions completes)
