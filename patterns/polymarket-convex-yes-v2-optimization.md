@@ -127,6 +127,24 @@ Analyse sur dataset complet 2025-01→2026-04 (17500 obs, 37 villes). Résultats
 **Prix buckets** (Sharpe très stable 2.23–2.58 sur toute la plage) :
 → Garder 0.2–2.5% complet confirmé, EV/trade $+54–$+300 selon le bucket
 
+## Live Tracking (2026-04-13 soir)
+
+Infrastructure complète mise en place pour suivre v2a en live :
+
+- **Dashboard web terminal** : `http://localhost:8765` — prix live + MTM toutes les 10s
+- **Bot Telegram** : commandes `/open /pnl /status /today` + push OPEN/WIN/LOSS
+- **Filtrage strict CONVEX_YES** : SPEEDA/LONGSHOT/COLDMATH désactivés dans le scalper + filtrés dans le tracking
+- **BANKROLL = $100** isolé du compte réel pour tracker la rentabilité v2a pure
+- **Sizing live** : $2.5/trade (progressif, pas de prise de risque initiale)
+
+**État initial (2026-04-13 15:00 UTC)** :
+- 106 positions CONVEX_YES ouvertes, 0 settled
+- Prochaine expiration : **14/04 12:00 UTC**
+- Expo totale : ~$265 (106 × $2.5)
+
+Voir [[patterns/polymarket-tracking-infrastructure]] pour les détails techniques
+(Gamma API, regex event slugs, format Telegram HTML).
+
 ## Related
 
 - [[_system/MOC-patterns]]
@@ -135,3 +153,5 @@ Analyse sur dataset complet 2025-01→2026-04 (17500 obs, 37 villes). Résultats
 - [[patterns/polymarket-oracle-confirmed-backtest]]
 - [[patterns/polymarket-coldmath-no-ev-analysis]]
 - [[patterns/polymarket-price-process-deep-analysis]]
+- [[patterns/polymarket-tracking-infrastructure]]
+- [[founder/sessions/2026-04-13-polymarket-tracking-infra]]
