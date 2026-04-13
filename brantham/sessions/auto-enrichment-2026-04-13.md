@@ -30,3 +30,4 @@ FONDERIE DE BRETAGNE, STAR SERVICE HEALTHCARE, TOUTADOM, DURAK COMPAGNIE, 4 SAIS
 ## Cycle 23:16
 
 - **Scrape AJ** : lancement...
+  - OK : 464 opportunites scrapees
