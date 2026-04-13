@@ -1,21 +1,44 @@
-# Session : {{date}} — {{projet}}
+---
+name: Session Template
+type: session
+date: YYYY-MM-DD
+project: brantham
+duration: "2h"
+---
 
-**Durée :** {{durée}}
-**Objectif :** {{objectif}}
+# Session — [Date] — [Project]
 
-## Accompli
-- [ ] ...
+**Date**: YYYY-MM-DD  
+**Duration**: 2h  
+**Focus**: [What did we work on?]
 
-## Décisions prises
-→ [[../decisions/]]
+## What We Did
 
-## Bugs rencontrés / résolus
-→ [[../bugs/]]
+- [Action 1]
+- [Action 2]
 
-## Patterns identifiés
-→ [[../../patterns/]]
+## Decisions Made
 
-## Blocages / prochaines étapes
-- ...
+- [[founder/decisions/YYYY-MM-DD-TITLE]]
 
-## Notes libres
+## Bugs Fixed
+
+- [[brantham/bugs/YYYY-MM-DD-TITLE]]
+
+## Patterns Created
+
+- [[brantham/patterns/TITLE]]
+
+## Key Learnings
+
+[Interesting discoveries? Market signals? Technical insights?]
+
+## Next Steps
+
+- [ ] [TODO 1]
+- [ ] [TODO 2]
+
+## Related
+
+- [[brantham/_MOC]]
+- [[founder/daily/YYYY-MM-DD-auto-brief|Daily Plan — [Date]]]

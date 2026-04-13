@@ -1,25 +1,34 @@
-# Client : {{nom}}
+---
+type: customer
+name:
+company:
+role:
+date:
+channel:  # call | email | meeting | linkedin
+project:
+tags: []
+---
 
-**Date premier contact :** {{date}}
-**Projet :** {{projet}}
-**Statut :** Prospect | Actif | Churned
+# [Name] — [Date]
 
-## Profil
-- Rôle : ...
-- Entreprise : ...
-- Taille : ...
+## Context
+How the conversation happened.
 
-## Problème principal
-...
+## Verbatim Quotes
+> "[exact quote]"
 
-## Ce qu'ils cherchent
-...
+## Key Insights
+-
 
-## Interactions
-| Date | Type | Résumé |
-|------|------|--------|
+## Action Items
+-
 
-## Insights produit
-Points de douleur et feedback utiles au produit.
+## Signals
+- Pain level (1-5):
+- Willingness to pay (1-5):
+- Urgency (1-5):
 
-## Prochaine action
+## Related
+- [[founder/assumptions/assumption-name]] <!-- assumptions validees/invalidees par ce retour -->
+- [[brantham/deals/active/deal-slug]] <!-- deal concerne -->
+- [[founder/decisions/YYYY-MM-DD-decision-name]] <!-- decisions influencees -->

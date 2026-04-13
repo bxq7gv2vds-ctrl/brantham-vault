@@ -1,0 +1,316 @@
+#!/usr/bin/env python3
+"""
+Twitter Agent — CLI Orchestrator
+Usage:
+  python main.py scrape              — scrape feed + keywords + accounts
+  python main.py draft               — generate today's drafts via Claude
+  python main.py draft --date DATE   — generate drafts for specific date
+  python main.py review              — show pending drafts (read-only)
+  python main.py post                — post approved drafts that are due now
+  python main.py post --dry          — dry run (no actual posting)
+  python main.py track               — sync metrics from profile
+  python main.py track --add         — manually add a tweet + metrics
+  python main.py analyze             — update patterns from DB
+  python main.py collect             — WEEK 1: deep scrape all niche accounts (10K+ tweets)
+  python main.py mass                — mass windowed scrape all accounts (30 months)
+  python main.py mass --replies      — scrape replies only from DNA accounts (reply_guy learning)
+  python main.py mass --account X   — single account
+  python main.py embed               — embed all tweets (semantic similarity)
+  python main.py embed --stats       — embedding coverage
+  python main.py train               — train engagement predictor model
+  python main.py replies             — find reply opportunities + generate replies (basic)
+  python main.py reply-guy           — smart reply system (live bird + scoring + learning)
+  python main.py reply-guy --n 15    — generate N reply drafts
+  python main.py reply-guy --live    — bird search only, skip DB
+  python main.py reply-guy --track   — update metrics for posted replies
+  python main.py reply-guy --patterns— show what strategies are working
+  python main.py telegram            — push today's drafts + replies to Telegram
+  python main.py telegram --replies  — only reply drafts
+  python main.py telegram --originals— only original drafts
+  python main.py run                 — full daily pipeline: scrape + style + draft + replies + telegram + post
+  python main.py week1               — WEEK 1: collect + embed + style + train
+  python main.py style               — analyze feed for winning patterns
+  python main.py status              — show today's status summary
+"""
+import sys
+from datetime import datetime
+from pathlib import Path
+
+# Add system dir to path
+sys.path.insert(0, str(Path(__file__).parent))
+
+from config import DRAFTS, METRICS, TWITTER_HANDLE
+from db import init_db, get_all_drafts, get_recent_posted_stats
+
+
+def cmd_scrape():
+    from scraper import run
+    run()
+
+
+def cmd_draft(date: str = None):
+    from drafter import run
+    run(date)
+
+
+def cmd_post(date: str = None, dry: bool = False):
+    from poster import run, run_scheduled
+    run(date, dry_run=dry)
+    run_scheduled(date)
+
+
+def cmd_track(add_manual: bool = False):
+    from tracker import run, add_tweet_manually
+    if add_manual:
+        add_tweet_manually()
+    else:
+        run()
+
+
+def cmd_analyze():
+    from analyst import run
+    run()
+
+
+def cmd_collect(quick: bool = False):
+    from data_collector import run
+    run(quick=quick)
+
+
+def cmd_embed():
+    from embedder import embed_all, get_embedding_stats
+    stats = get_embedding_stats()
+    print(f"[embed] {stats['embedded']:,} embedded, {stats['pending']:,} pending")
+    embed_all()
+
+
+def cmd_train():
+    from orchestrator import train_all
+    train_all()
+
+
+def cmd_replies(date: str = None):
+    from reply_finder import find_and_generate_replies
+    replies = find_and_generate_replies(date=date)
+    print(f"[replies] {len(replies)} reply drafts generated")
+
+
+def cmd_reply_guy(n: int = 10, live_only: bool = False,
+                  do_track: bool = False, do_patterns: bool = False,
+                  date: str = None):
+    from reply_guy import run, track_reply_metrics, show_patterns
+    if do_patterns:
+        show_patterns()
+    elif do_track:
+        track_reply_metrics()
+    else:
+        replies = run(n=n, live_only=live_only, date=date)
+        print(f"[reply-guy] {len(replies)} reply drafts ready")
+
+
+def cmd_mass(handle: str = None, replies_only: bool = False, account: str = None):
+    from mass_collector import run, run_reply_dna
+    if replies_only:
+        run_reply_dna(single_account=account)
+    else:
+        run(paul_handle=handle)
+
+
+def cmd_week1():
+    """Week 1 full data collection + model init."""
+    print("=== WEEK 1 — Full Data Harvest ===\n")
+    print("1/4 Deep collecting all niche accounts...")
+    cmd_collect()
+    print("\n2/4 Embedding tweets...")
+    cmd_embed()
+    print("\n3/4 Analyzing styles...")
+    cmd_style()
+    print("\n4/4 Training engagement model...")
+    cmd_train()
+    print("\n=== Week 1 setup complete ===")
+
+
+def cmd_style():
+    from style_analyzer import run
+    run()
+
+
+def cmd_review(date: str = None):
+    if not date:
+        date = datetime.now().strftime("%Y-%m-%d")
+    path = DRAFTS / f"{date}.md"
+    if not path.exists():
+        print(f"No drafts found for {date}. Run: python main.py draft")
+        return
+    print(path.read_text(encoding="utf-8"))
+
+
+def cmd_status():
+    date = datetime.now().strftime("%Y-%m-%d")
+    print(f"\n=== Twitter Agent Status — {date} ===\n")
+
+    # Drafts status
+    drafts = get_all_drafts(date)
+    if drafts:
+        status_counts = {}
+        for d in drafts:
+            s = d["status"]
+            status_counts[s] = status_counts.get(s, 0) + 1
+
+        print(f"Drafts today: {len(drafts)} total")
+        for s, n in status_counts.items():
+            print(f"  [{s}] {n}")
+
+        print("\nDraft schedule:")
+        for i, d in enumerate(drafts, 1):
+            status_icon = {
+                "pending": "⏳",
+                "approved_scheduled": "✅",
+                "posted": "🐦",
+                "rejected": "❌",
+                "dry_run": "🧪",
+            }.get(d["status"], "?")
+            content_preview = (d.get("content") or "")[:60]
+            print(f"  {status_icon} {d.get('recommended_time','?')} — Draft {i}: {content_preview}...")
+    else:
+        print("No drafts for today. Run: python main.py draft")
+
+    # Recent stats
+    stats = get_recent_posted_stats()
+    if stats.get("total", 0) > 0:
+        print(f"\nLast 30 days:")
+        print(f"  Tweets posted: {stats['total']}")
+        print(f"  Avg likes: {stats['avg_likes']:.1f}")
+        print(f"  Avg eng rate: {stats['avg_eng_rate']:.2f}%")
+        print(f"  Best tweet: {stats['max_likes']} likes")
+
+    # Files
+    digest_path = Path("/Users/paul/vault/twitter/digests") / f"{date}.md"
+    print(f"\nFiles:")
+    print(f"  Digest: {'✓' if digest_path.exists() else '✗'} {digest_path}")
+    draft_path = DRAFTS / f"{date}.md"
+    print(f"  Drafts: {'✓' if draft_path.exists() else '✗'} {draft_path}")
+
+    # ML system status
+    try:
+        from orchestrator import get_full_status
+        print(get_full_status())
+    except Exception:
+        pass
+
+    print(f"Twitter handle: {TWITTER_HANDLE or '(not set in .env)'}")
+    print()
+
+
+def cmd_telegram(date: str = None, only_replies: bool = False, only_originals: bool = False):
+    from telegram_sender import run
+    run(date=date, only_replies=only_replies, only_originals=only_originals)
+
+
+def cmd_run(dry: bool = False):
+    """Full daily pipeline: scrape → bird enrich → draft (15) → reply-guy (20) → telegram → post."""
+    print("=== Daily pipeline — VOLUME MODE ===\n")
+    print("1/6 Scraping full TL (for-you + following)...")
+    cmd_scrape()
+    print("\n2/6 Bird enrichment (live AI tweets)...")
+    try:
+        from bird_enricher import enrich
+        enrich()
+    except Exception as e:
+        print(f"  [warn] bird enrich: {e}")
+    print("\n3/6 Generating 15 original drafts...")
+    cmd_draft()
+    print("\n4/6 Hunting 20 reply opportunities...")
+    cmd_reply_guy(n=20)
+    print("\n5/6 Pushing drafts to Telegram...")
+    try:
+        cmd_telegram()
+    except Exception as e:
+        print(f"  [warn] telegram: {e}")
+    print("\n6/6 Posting approved tweets...")
+    cmd_post(dry=dry)
+    print("\n=== Done ===")
+
+
+def main():
+    args = sys.argv[1:]
+    if not args:
+        print(__doc__)
+        return
+
+    command = args[0]
+    date = None
+    for i, a in enumerate(args):
+        if a == "--date" and i + 1 < len(args):
+            date = args[i + 1]
+
+    init_db()
+
+    if command == "scrape":
+        cmd_scrape()
+    elif command == "draft":
+        cmd_draft(date)
+    elif command == "post":
+        cmd_post(date, dry="--dry" in args)
+    elif command == "track":
+        cmd_track(add_manual="--add" in args)
+    elif command == "mass":
+        handle = None
+        account = None
+        for i, a in enumerate(args):
+            if a == "--handle" and i + 1 < len(args):
+                handle = args[i + 1]
+            if a == "--account" and i + 1 < len(args):
+                account = args[i + 1]
+        cmd_mass(handle, replies_only="--replies" in args, account=account)
+    elif command == "collect":
+        cmd_collect(quick="--quick" in args)
+    elif command == "embed":
+        if "--stats" in args:
+            from embedder import get_embedding_stats
+            s = get_embedding_stats()
+            print(f"Embedded: {s['embedded']:,} / {s['total']:,} ({s['pending']:,} pending)")
+        else:
+            cmd_embed()
+    elif command == "train":
+        cmd_train()
+    elif command == "replies":
+        cmd_replies(date)
+    elif command == "reply-guy":
+        n = 10
+        for i, a in enumerate(args):
+            if a == "--n" and i + 1 < len(args):
+                try: n = int(args[i + 1])
+                except ValueError: pass
+        cmd_reply_guy(
+            n=n,
+            live_only="--live" in args,
+            do_track="--track" in args,
+            do_patterns="--patterns" in args,
+            date=date,
+        )
+    elif command == "week1":
+        cmd_week1()
+    elif command == "analyze":
+        cmd_analyze()
+    elif command == "style":
+        cmd_style()
+    elif command == "review":
+        cmd_review(date)
+    elif command == "status":
+        cmd_status()
+    elif command == "telegram":
+        cmd_telegram(
+            date=date,
+            only_replies="--replies" in args,
+            only_originals="--originals" in args,
+        )
+    elif command == "run":
+        cmd_run(dry="--dry" in args)
+    else:
+        print(f"Unknown command: {command}")
+        print(__doc__)
+
+
+if __name__ == "__main__":
+    main()

@@ -1,17 +1,43 @@
-# Hypothèse : {{titre}}
+---
+name: Assumption Template
+type: assumption
+date: YYYY-MM-DD
+status: untested  # untested | validated | invalidated
+confidence: medium
+---
 
-**Date :** {{date}}
-**Projet :** {{projet}}
-**Statut :** Non validée | Validée | Invalidée
+# [Assumption Title]
 
-## Hypothèse
-Énoncé clair de l'hypothèse.
+**Created**: YYYY-MM-DD  
+**Status**: Untested  
+**Confidence**: Medium  
+**Domain**: [Market | Product | Tech | Finance]
 
-## Pourquoi c'est important
-Quel impact si cette hypothèse est fausse ?
+## The Assumption
 
-## Comment la valider
-Expérience / métrique / signal à observer.
+[What are we assuming to be true?]
 
-## Résultat
-*(à remplir après validation)*
+## Why We Believe It
+
+[Evidence or reasoning behind this assumption]
+
+## How to Validate
+
+[What would prove/disprove this assumption?]
+
+## Impact if Wrong
+
+[What happens if this assumption is false?]
+
+## Validation Results
+
+[Track: tests run, data collected, outcome]
+
+- **Test 1**: [Result]
+- **Test 2**: [Result]
+
+## Related
+
+- [[_system/MOC-assumptions]]
+- [[brantham/_MOC]]
+- [[founder/decisions/YYYY-MM-DD-TITLE|Decision Based on This Assumption]]

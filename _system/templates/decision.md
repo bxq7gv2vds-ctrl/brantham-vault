@@ -1,25 +1,41 @@
-# Décision : {{titre}}
+---
+name: Decision Template
+type: decision
+date: YYYY-MM-DD
+status: pending  # pending | approved | archived
+tags: [brantham, finance]  # Custom tags
+---
 
-**Date :** {{date}}
-**Projet :** {{projet}}
-**Statut :** En vigueur
+# [Decision Title]
 
-## Contexte
-Quel problème ou situation a amené cette décision ?
+**Date**: YYYY-MM-DD  
+**Status**: Pending approval  
+**Decision Maker**: [Name]  
+**Impacted by**: [[_system/MOC-assumptions]] (assumptions underlying this)
 
-## Options considérées
-1. ...
-2. ...
+## Context
 
-## Décision retenue
-...
+[What triggered this decision? What problem are we solving?]
 
-## Justification
-Pourquoi cette option ?
+## Options Considered
 
-## Conséquences
-- Positives : ...
-- Négatives / compromis : ...
+1. **Option A**: [description + trade-offs]
+2. **Option B**: [description + trade-offs]
+3. **Option C**: [description + trade-offs]
 
-## Révision prévue
-{{date_revision}}
+## Decision
+
+✅ **Chosen**: Option X  
+**Reasoning**: [Why this option? What criteria drove the choice?]
+
+## Action Items
+
+- [ ] [Action 1] by [date]
+- [ ] [Action 2] by [date]
+
+## Related
+
+- [[_system/MOC-decisions]]
+- [[brantham/_MOC]]
+- [[founder/strategy/current-strategy]]
+- [[_system/MOC-assumptions|Related Assumptions]]

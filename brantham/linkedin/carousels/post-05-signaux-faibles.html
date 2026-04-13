@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --ink: #0F0F0E;
+    --ink3: #4A4A47;
+    --ink4: #8A8A86;
+    --ink5: #B8B8B4;
+    --white: #FAFAF8;
+    --off: #F4F3F0;
+    --stone: #E5E4E0;
+    --indigo: #5E54F0;
+    --red: #C8251A;
+    --green: #1A7A3A;
+  }
+
+  .slide {
+    width: 1080px;
+    height: 1350px;
+    background: var(--white);
+    font-family: 'DM Sans', sans-serif;
+    color: var(--ink);
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+    page-break-after: always;
+    margin-bottom: 40px;
+  }
+
+  .slide-inner {
+    padding: 80px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .eyebrow {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink4);
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .eyebrow .dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--indigo);
+  }
+
+  .slide-number {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    color: var(--ink5);
+    position: absolute;
+    top: 80px;
+    right: 80px;
+  }
+
+  h1 {
+    font-size: 46px;
+    font-weight: 400;
+    letter-spacing: -0.04em;
+    line-height: 1.05;
+    margin-bottom: 32px;
+  }
+
+  h1 .serif {
+    font-family: 'Instrument Serif', serif;
+    font-style: italic;
+  }
+
+  h2 {
+    font-size: 34px;
+    font-weight: 400;
+    letter-spacing: -0.03em;
+    line-height: 1.1;
+    margin-bottom: 28px;
+  }
+
+  h2 .serif {
+    font-family: 'Instrument Serif', serif;
+    font-style: italic;
+  }
+
+  .subtitle {
+    font-size: 20px;
+    font-weight: 300;
+    color: var(--ink3);
+    line-height: 1.6;
+    max-width: 700px;
+  }
+
+  .big-number {
+    font-size: 120px;
+    font-weight: 300;
+    letter-spacing: -0.05em;
+    line-height: 1;
+    margin-bottom: 16px;
+  }
+
+  .signal-num {
+    font-family: 'DM Mono', monospace;
+    font-size: 64px;
+    font-weight: 300;
+    color: var(--red);
+    line-height: 1;
+    margin-bottom: 24px;
+  }
+
+  .signal-title {
+    font-size: 32px;
+    font-weight: 400;
+    letter-spacing: -0.02em;
+    margin-bottom: 16px;
+    line-height: 1.1;
+  }
+
+  .signal-title .serif {
+    font-family: 'Instrument Serif', serif;
+    font-style: italic;
+  }
+
+  .description {
+    font-size: 18px;
+    font-weight: 300;
+    color: var(--ink3);
+    line-height: 1.7;
+    max-width: 720px;
+  }
+
+  .tag {
+    display: inline-flex;
+    align-items: center;
+    padding: 8px 18px;
+    border-radius: 40px;
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    border: 1px solid;
+  }
+
+  .tag-red {
+    color: var(--red);
+    border-color: rgba(200, 37, 26, 0.2);
+    background: rgba(200, 37, 26, 0.04);
+  }
+
+  .tag-ink {
+    color: var(--ink3);
+    border-color: rgba(15, 15, 14, 0.1);
+    background: rgba(15, 15, 14, 0.03);
+  }
+
+  .tags { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 32px; }
+
+  .spacer { flex: 1; }
+
+  .accent-line {
+    width: 48px;
+    height: 2px;
+    background: var(--ink);
+    margin-bottom: 32px;
+  }
+
+  .accent-line-red {
+    width: 48px;
+    height: 2px;
+    background: var(--red);
+    margin-bottom: 32px;
+  }
+
+  .footer-bar {
+    padding: 28px 80px;
+    border-top: 1px solid rgba(15, 15, 14, 0.06);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .logo-mark {
+    width: 28px;
+    height: 28px;
+    background: var(--ink);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .logo-text {
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: -0.01em;
+  }
+
+  .footer-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink5);
+  }
+
+  .bg-off { background: var(--off); }
+
+  .quote {
+    font-family: 'Instrument Serif', serif;
+    font-style: italic;
+    font-size: 26px;
+    line-height: 1.3;
+    color: var(--ink);
+    border-left: 2px solid var(--red);
+    padding-left: 28px;
+    margin: 24px 0;
+  }
+
+  .warning-box {
+    background: rgba(200, 37, 26, 0.04);
+    border: 1px solid rgba(200, 37, 26, 0.12);
+    border-radius: 16px;
+    padding: 32px;
+    margin-top: 32px;
+  }
+
+  .warning-box .label {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--red);
+    margin-bottom: 12px;
+  }
+
+  .warning-box .text {
+    font-size: 16px;
+    font-weight: 300;
+    color: var(--ink3);
+    line-height: 1.6;
+  }
+
+  .checklist {
+    list-style: none;
+    margin-top: 16px;
+  }
+
+  .checklist li {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    padding: 20px 0;
+    border-bottom: 1px solid rgba(15, 15, 14, 0.06);
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1.5;
+  }
+
+  .checklist li:last-child { border-bottom: none; }
+
+  .check-num {
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    color: var(--red);
+    min-width: 24px;
+    padding-top: 4px;
+  }
+</style>
+</head>
+<body style="background: #e0e0e0; padding: 40px; display: flex; flex-direction: column; align-items: center;">
+
+<!-- SLIDE 1 — COVER -->
+<div class="slide">
+  <div class="slide-inner">
+    <div class="eyebrow"><span class="dot" style="background:var(--red)"></span> Signaux faibles</div>
+    <div class="spacer"></div>
+    <h1>5 signaux qu'une PME<br>va en difficulte.<br><span class="serif">Avant que ce soit<br>trop tard.</span></h1>
+    <div style="height: 32px"></div>
+    <div class="subtitle">
+      Les entreprises ne s'effondrent pas du jour au lendemain.<br>
+      Il y a toujours des signes avant-coureurs.<br>
+      Voici les 5 plus frequents.
+    </div>
+    <div class="spacer"></div>
+    <div class="tags">
+      <span class="tag tag-red">Prevention</span>
+      <span class="tag tag-ink">PME France</span>
+    </div>
+  </div>
+  <div class="footer-bar">
+    <div class="logo">
+      <div class="logo-mark">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M2 11L7 3L12 11" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 8H10" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </div>
+      <span class="logo-text">Brantham Partners</span>
+    </div>
+    <span class="footer-label">Swipe &rarr;</span>
+  </div>
+</div>
+
+<!-- SLIDE 2 — SIGNAL 1 -->
+<div class="slide bg-off">
+  <div class="slide-inner">
+    <div class="slide-number">01 / 06</div>
+    <div class="eyebrow"><span class="dot" style="background:var(--red)"></span> Signal n.1</div>
+    <div style="height: 40px"></div>
+    <div class="signal-num">01</div>
+    <div class="signal-title">Les delais fournisseurs<br><span class="serif">s'allongent</span></div>
+    <div class="accent-line-red"></div>
+    <div class="description">
+      Quand une PME commence a payer ses fournisseurs a 60, puis 90, puis 120 jours, c'est rarement un choix strategique. C'est un signe que la tresorerie est sous tension.
+    </div>
+    <div class="warning-box">
+      <div class="label">A surveiller</div>
+      <div class="text">Si vos fournisseurs commencent a demander des paiements anticipes ou des garanties, la confiance est en train de se degrader.</div>
+    </div>
+    <div class="spacer"></div>
+  </div>
+  <div class="footer-bar">
+    <div class="logo">
+      <div class="logo-mark">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M2 11L7 3L12 11" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 8H10" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </div>
+      <span class="logo-text">Brantham Partners</span>
+    </div>
+    <span class="footer-label">Swipe &rarr;</span>
+  </div>
+</div>
+
+<!-- SLIDE 3 — SIGNAL 2 -->
+<div class="slide">
+  <div class="slide-inner">
+    <div class="slide-number">02 / 06</div>
+    <div class="eyebrow"><span class="dot" style="background:var(--red)"></span> Signal n.2</div>
+    <div style="height: 40px"></div>
+    <div class="signal-num">02</div>
+    <div class="signal-title">Le dirigeant <span class="serif">s'isole</span></div>
+    <div class="accent-line-red"></div>
+    <div class="description">
+      Il ne vient plus aux reunions interprofessionnelles. Il ne repond plus aux appels de son expert-comptable. Il evite les conversations difficiles avec ses associes.
+    </div>
+    <div class="warning-box">
+      <div class="label">A surveiller</div>
+      <div class="text">L'isolement du dirigeant est le signal le plus sous-estime. Quand il se coupe de son reseau, les problemes s'accelerent sans que personne ne puisse intervenir.</div>
+    </div>
+    <div class="spacer"></div>
+  </div>
+  <div class="footer-bar">
+    <div class="logo">
+      <div class="logo-mark">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M2 11L7 3L12 11" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 8H10" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </div>
+      <span class="logo-text">Brantham Partners</span>
+    </div>
+    <span class="footer-label">Swipe &rarr;</span>
+  </div>
+</div>
+
+<!-- SLIDE 4 — SIGNAL 3 -->
+<div class="slide bg-off">
+  <div class="slide-inner">
+    <div class="slide-number">03 / 06</div>
+    <div class="eyebrow"><span class="dot" style="background:var(--red)"></span> Signal n.3</div>
+    <div style="height: 40px"></div>
+    <div class="signal-num">03</div>
+    <div class="signal-title">Les <span class="serif">meilleurs</span><br>partent en premier</div>
+    <div class="accent-line-red"></div>
+    <div class="description">
+      Les salaries les plus competents ont des options. Quand ils commencent a partir, c'est qu'ils sentent que quelque chose ne va pas. Et leur depart accelere la spirale.
+    </div>
+    <div class="warning-box">
+      <div class="label">A surveiller</div>
+      <div class="text">Un turnover inhabituel dans les postes cles (direction commerciale, DAF, production) est souvent le premier domino.</div>
+    </div>
+    <div class="spacer"></div>
+  </div>
+  <div class="footer-bar">
+    <div class="logo">
+      <div class="logo-mark">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M2 11L7 3L12 11" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 8H10" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </div>
+      <span class="logo-text">Brantham Partners</span>
+    </div>
+    <span class="footer-label">Swipe &rarr;</span>
+  </div>
+</div>
+
+<!-- SLIDE 5 — SIGNAL 4 -->
+<div class="slide">
+  <div class="slide-inner">
+    <div class="slide-number">04 / 06</div>
+    <div class="eyebrow"><span class="dot" style="background:var(--red)"></span> Signal n.4</div>
+    <div style="height: 40px"></div>
+    <div class="signal-num">04</div>
+    <div class="signal-title">Le BFR <span class="serif">explose</span><br>silencieusement</div>
+    <div class="accent-line-red"></div>
+    <div class="description">
+      Le chiffre d'affaires tient. Mais le besoin en fonds de roulement augmente plus vite que la croissance. Les stocks s'accumulent. Les creances clients s'allongent. La tresorerie fond.
+    </div>
+    <div class="warning-box">
+      <div class="label">A surveiller</div>
+      <div class="text">Un CA en hausse ne veut pas dire que l'entreprise va bien. Regardez le ratio BFR/CA. S'il derive de plus de 10 points en 12 mois, il y a un probleme.</div>
+    </div>
+    <div class="spacer"></div>
+  </div>
+  <div class="footer-bar">
+    <div class="logo">
+      <div class="logo-mark">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M2 11L7 3L12 11" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 8H10" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </div>
+      <span class="logo-text">Brantham Partners</span>
+    </div>
+    <span class="footer-label">Swipe &rarr;</span>
+  </div>
+</div>
+
+<!-- SLIDE 6 — SIGNAL 5 -->
+<div class="slide bg-off">
+  <div class="slide-inner">
+    <div class="slide-number">05 / 06</div>
+    <div class="eyebrow"><span class="dot" style="background:var(--red)"></span> Signal n.5</div>
+    <div style="height: 40px"></div>
+    <div class="signal-num">05</div>
+    <div class="signal-title">La banque <span class="serif">se crispe</span></div>
+    <div class="accent-line-red"></div>
+    <div class="description">
+      Reduction de la ligne de credit. Demande de garanties supplementaires. Appels plus frequents du charge d'affaires. La banque a des indicateurs que vous n'avez pas.
+    </div>
+    <div class="warning-box">
+      <div class="label">A surveiller</div>
+      <div class="text">Si votre banque refuse un renouvellement de facilite de caisse ou demande une caution personnelle, c'est qu'elle a deja change de posture.</div>
+    </div>
+    <div class="spacer"></div>
+  </div>
+  <div class="footer-bar">
+    <div class="logo">
+      <div class="logo-mark">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M2 11L7 3L12 11" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 8H10" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </div>
+      <span class="logo-text">Brantham Partners</span>
+    </div>
+    <span class="footer-label">Swipe &rarr;</span>
+  </div>
+</div>
+
+<!-- SLIDE 7 — RECAP + CTA -->
+<div class="slide" style="background: var(--ink); color: var(--white);">
+  <div class="slide-inner">
+    <div class="slide-number" style="color: rgba(250,250,248,0.3)">06 / 06</div>
+    <div class="eyebrow" style="color: rgba(250,250,248,0.4)"><span class="dot" style="background: rgba(250,250,248,0.4)"></span> Recapitulatif</div>
+    <div style="height: 32px"></div>
+    <h2 style="color: var(--white); margin-bottom: 40px;">Les 5 signaux <span class="serif">a surveiller</span></h2>
+
+    <ul class="checklist">
+      <li>
+        <span class="check-num">01</span>
+        <span>Les delais fournisseurs s'allongent</span>
+      </li>
+      <li>
+        <span class="check-num">02</span>
+        <span>Le dirigeant s'isole</span>
+      </li>
+      <li>
+        <span class="check-num">03</span>
+        <span>Les meilleurs salaries partent</span>
+      </li>
+      <li>
+        <span class="check-num">04</span>
+        <span>Le BFR explose silencieusement</span>
+      </li>
+      <li>
+        <span class="check-num">05</span>
+        <span>La banque se crispe</span>
+      </li>
+    </ul>
+
+    <div class="spacer"></div>
+
+    <div style="text-align:center; padding: 48px 0;">
+      <p style="font-size: 20px; font-weight: 300; color: rgba(250,250,248,0.6); margin-bottom: 16px;">Vous reconnaissez un ou plusieurs de ces signaux ?</p>
+      <p style="font-size: 24px; font-weight: 400;">Agir tot change tout.</p>
+      <p style="font-family:'DM Mono',monospace; font-size: 12px; letter-spacing: 0.08em; color: rgba(250,250,248,0.3); margin-top: 24px;">BRANTHAM.FR</p>
+    </div>
+  </div>
+  <div class="footer-bar" style="border-top-color: rgba(250,250,248,0.08);">
+    <div class="logo">
+      <div class="logo-mark" style="background: rgba(250,250,248,0.1);">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M2 11L7 3L12 11" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 8H10" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </div>
+      <span class="logo-text" style="color: var(--white);">Brantham Partners</span>
+    </div>
+    <span class="footer-label" style="color: rgba(250,250,248,0.3);">Sauvegardez ce post</span>
+  </div>
+</div>
+
+</body>
+</html>

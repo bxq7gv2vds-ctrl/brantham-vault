@@ -1,24 +1,28 @@
-# Bug : {{titre}}
+---
+type: bug-fix
+project:
+date:
+component:
+severity: medium  # low | medium | high | critical
+tags: []
+---
 
-**Date :** {{date}}
-**Projet :** {{projet}}
-**Sévérité :** Critique | Haute | Moyenne | Basse
+# [Bug Description]
 
-## Symptôme
-Ce qui était observé.
+## Symptom
+What was observed.
 
-## Cause racine
-Ce qui causait le bug.
+## Root Cause
+Why it happened.
 
-## Solution
-Ce qui a été fait pour corriger.
+## Fix
+What was changed and where.
 
-```
-// code pertinent si applicable
-```
+## Prevention
+How to avoid this in the future.
 
-## Tests ajoutés
-Comment éviter la régression ?
-
-## Tags
-#bug #{{projet}}
+## Related
+- [[_system/MOC-bugs]]
+- [[project/_MOC]] <!-- remplacer project par brantham/website -->
+- [[brantham/sessions/YYYY-MM-DD]] <!-- session ou le bug a ete fixe -->
+- [[brantham/patterns/pattern-name]] <!-- si un pattern en decoule -->

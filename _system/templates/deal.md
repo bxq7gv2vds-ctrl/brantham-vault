@@ -1,22 +1,46 @@
-# Deal : {{nom}}
+---
+type: deal
+slug:
+entreprise:
+siren:
+procedure: # liquidation | redressement | sauvegarde
+source_aj:
+secteur:
+ca_estime:
+localisation:
+date_decouverte:
+deadline:
+statut: nouveau  # nouveau | en_analyse | analyse | teaser_redige | acheteurs_identifies | contacts_enrichis | en_approche | clos
+score_qualification:
+estimation_ve_min:
+estimation_ve_max:
+tags: []
+---
 
-**Date :** {{date}}
-**Projet :** {{projet}}
-**Valeur :** {{valeur}}
-**Statut :** Découverte | Proposition | Négociation | Gagné | Perdu
+# [Entreprise] — [Slug]
 
-## Contact
-- Nom : ...
-- Entreprise : ...
+## Profil
+- Activite:
+- Effectif:
+- Localisation:
+- CA:
 
-## Besoin identifié
-...
+## Procedure
+- Type:
+- Tribunal:
+- Date ouverture:
+- AJ:
+- MJ:
+- Deadline:
 
-## Proposition de valeur
-...
+## Analyse
+[[analyses/slug]]
 
-## Historique
-| Date | Action | Résultat |
-|------|--------|---------|
+## Teaser
+[[teasers/slug]]
 
-## Prochaine étape
+## Acheteurs
+[[acheteurs/slug]]
+
+## Notes
+-

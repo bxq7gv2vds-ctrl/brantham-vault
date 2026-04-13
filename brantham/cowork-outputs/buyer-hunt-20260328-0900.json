@@ -1,0 +1,75 @@
+{
+  "agent": "buyer-hunt",
+  "run_id": "buyer-hunt-20260328-0900",
+  "timestamp": "2026-03-28T09:00:00+01:00",
+  "status": "no_eligible_deal",
+  "summary": "Aucun deal éligible — aucun acheteur identifié ce run",
+  "data": {
+    "slug": null,
+    "total_identified": 0,
+    "total_qualified": 0,
+    "top_buyers": [],
+    "acheteurs_path": null,
+    "eligibility_check": {
+      "criteria": "statut = analysé AND score >= 60",
+      "deals_reviewed": [
+        {
+          "slug": "fuaj",
+          "statut": "analysé",
+          "score": 47,
+          "eligible": false,
+          "reason": "Score 47/100 < seuil 60"
+        },
+        {
+          "slug": "sainteloc",
+          "statut": "analysé",
+          "score": 58,
+          "eligible": false,
+          "reason": "Score 58/100 < seuil 60 (GO conditionnel non confirmé)"
+        },
+        {
+          "slug": "gauzy",
+          "statut": "acheteurs_identifies",
+          "score": 68,
+          "eligible": false,
+          "reason": "Statut déjà acheteurs_identifies — buyer hunt déjà fait (2026-03-27)"
+        },
+        {
+          "slug": "nacon",
+          "statut": "acheteurs_identifies",
+          "score": 88,
+          "eligible": false,
+          "reason": "Statut déjà acheteurs_identifies — buyer hunt déjà fait (2026-03-27)"
+        }
+      ]
+    }
+  },
+  "actions_taken": [
+    "Lecture BRAIN.md et OPPORTUNITIES.md",
+    "Vérification éligibilité des 4 deals actifs avec score",
+    "Mise à jour BRAIN.md (statut Hunter + dernières actions)",
+    "Écriture fichier output"
+  ],
+  "pending_for_human": [
+    {
+      "who": "Paul",
+      "action": "SAINTELOC deadline 30/03 — décision GO/PASS URGENTE : si contact motorsport/groupe auto disponible, activer Hunter en mode forcé (score 58 proche du seuil). Sinon : PASS immédiat.",
+      "urgency": "rouge",
+      "deadline": "2026-03-30T16:00:00+01:00"
+    },
+    {
+      "who": "Paul",
+      "action": "Lancer outreach TOP 5 Gauzy (Harman, Jolt Capital, Valeo, ACTIA, Aptiv) — deadline 03/04",
+      "urgency": "rouge",
+      "deadline": "2026-04-03T12:00:00+01:00"
+    },
+    {
+      "who": "Paul",
+      "action": "Lancer outreach TOP 5 NACON (Tencent, Bandai Namco, Take-Two, Fellowship/PLAION, Ubisoft) + contacter FHBX pour data room",
+      "urgency": "rouge",
+      "deadline": null
+    }
+  ],
+  "triggered_next": [],
+  "errors": []
+}

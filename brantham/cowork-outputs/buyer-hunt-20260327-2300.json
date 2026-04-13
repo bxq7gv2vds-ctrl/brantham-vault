@@ -1,0 +1,109 @@
+{
+  "agent": "buyer-hunt",
+  "run_id": "buyer-hunt-20260327-2300",
+  "timestamp": "2026-03-27T23:00:00Z",
+  "status": "success",
+  "summary": "nacon — 19 acheteurs qualifiés sur 20 candidats identifiés (1 repreneur partiel hors seuil)",
+  "data": {
+    "slug": "nacon",
+    "deal_name": "NACON S.A.",
+    "ca_cible": 167900000,
+    "naf": "5821Z",
+    "secteur": "Édition & développement jeux vidéo / Accessoires gaming",
+    "total_identified": 20,
+    "total_qualified": 19,
+    "top_buyers": [
+      {
+        "rang": 1,
+        "nom": "Tencent Holdings",
+        "type": "strategique",
+        "score": 12,
+        "ca_multiple": 476,
+        "contact": "Mark Maslowicz (VP Partnerships EU)"
+      },
+      {
+        "rang": 2,
+        "nom": "Bandai Namco Holdings",
+        "type": "strategique",
+        "score": 12,
+        "ca_multiple": 48,
+        "contact": "Arnaud Muller (CEO Bandai Namco Europe)"
+      },
+      {
+        "rang": 3,
+        "nom": "Take-Two Interactive",
+        "type": "strategique",
+        "score": 12,
+        "ca_multiple": 36,
+        "contact": "Strauss Zelnick (CEO)"
+      },
+      {
+        "rang": 4,
+        "nom": "Fellowship Entertainment / PLAION",
+        "type": "strategique",
+        "score": 11,
+        "ca_multiple": 10,
+        "contact": "Lars Wingefors (Executive Chair, focus M&A 2026)"
+      },
+      {
+        "rang": 5,
+        "nom": "Ubisoft Entertainment SA",
+        "type": "strategique",
+        "score": 11,
+        "ca_multiple": 11,
+        "contact": "Yves Guillemot (PDG)"
+      }
+    ],
+    "acheteurs_path": "/Users/paul/Downloads/brantham-pipeline/deals/nacon/acheteurs.json",
+    "shared_path": "/Users/paul/Desktop/brantham-partners/memory-vault/agents/_shared/acheteurs/nacon-acheteurs.json",
+    "kb_notes_path": "/Users/paul/Desktop/brantham-partners/memory-vault/agents/_shared/notes/acheteurs/",
+    "kb_notes_created": 15,
+    "dashboard_notified": false,
+    "dashboard_status": "offline (server inaccessible au moment du run)"
+  },
+  "actions_taken": [
+    "Lecture BRAIN.md + OPPORTUNITIES.md → deal NACON identifié (score 88/100, statut analysé, seul deal éligible)",
+    "Lecture analyse NACON (CA 167.9M€, NAF 5821Z, secteur jeux vidéo/gaming hardware)",
+    "Consultation base KB acheteurs existants → 15 fiches Gauzy (secteur auto/ADAS) — non applicables",
+    "WebSearch × 8 requêtes : acheteurs gaming, financiers PE, données CA, décideurs",
+    "Identification 20 candidats acheteurs, scoring 5 critères × 4pts (12pts max)",
+    "19 candidats qualifiés CA ≥ 5× cible (839M€ minimum), 1 repreneur partiel hors seuil (PulluP)",
+    "Écriture acheteurs.json — /deals/nacon/acheteurs.json",
+    "Copie → shared/acheteurs/nacon-acheteurs.json",
+    "15 fiches KB créées dans /notes/acheteurs/",
+    "Dashboard notifié (échec — serveur offline)",
+    "OPPORTUNITIES.md : statut nacon → acheteurs_identifies",
+    "BRAIN.md : pipeline nacon → ACHETEURS_IDENTIFIES, Hunter → idle, Décisions → mis à jour"
+  ],
+  "pending_for_human": [
+    {
+      "who": "Paul",
+      "action": "Lancer outreach sur TOP 5 acheteurs — priorité absolue : (1) Fellowship/PLAION (Lars Wingefors, focus M&A) → email en anglais ; (2) Tencent EU (Mark Maslowicz) ; (3) Bandai Namco Europe (Arnaud Muller) ; (4) Take-Two (Strauss Zelnick) ; (5) Ubisoft (Yves Guillemot — angle patrimonial/national)",
+      "urgency": "rouge",
+      "deadline": "J+7 (avant 03/04/2026)"
+    },
+    {
+      "who": "Paul",
+      "action": "Contacter FHBX (Me Bourbouloux) pour accès data room NACON — pré-requis pour due diligence",
+      "urgency": "rouge",
+      "deadline": "J+3 (avant 30/03/2026)"
+    },
+    {
+      "who": "Contact Enricher",
+      "action": "Vérifier et enrichir emails des 5 premiers acheteurs + trouver contact M&A direct",
+      "urgency": "orange",
+      "deadline": null
+    }
+  ],
+  "triggered_next": ["contact-enricher"],
+  "methodology_notes": [
+    "Seuil CA ≥ 5× appliqué : CA cible 167.9M€ → seuil 839.5M€",
+    "Pour les fonds PE : AUM utilisé comme proxy de capacité financière",
+    "1 acheteur inclus hors seuil (PulluP Entertainment, CA 2.3×) en repreneur partiel studios individuels uniquement",
+    "Score qualification PE : basé sur solidité du fonds et track record, pas sur CA",
+    "BODACC vérifié via WebSearch pour les principales entreprises — aucune en procédure collective détectée"
+  ],
+  "errors": [
+    "Dashboard inaccessible (server.js offline) — fichier acheteurs.json disponible localement, notifications différées au prochain démarrage du serveur"
+  ]
+}

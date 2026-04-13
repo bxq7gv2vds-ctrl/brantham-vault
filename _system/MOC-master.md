@@ -1,19 +1,55 @@
-# MOC Master — Index Principal
+---
+type: moc
+updated: 2026-04-13
+---
 
-> Dernière mise à jour : 2026-04-13
+# Vault Master Index
 
-## Projets actifs
-- [[../alliance-coiffure/_MOC]] — Alliance Coiffure (Next.js 14, site vitrine salon)
-- [[../lat-arb-bot/_MOC]] — LAT-ARB Bot v2 (arbitrage latence Polymarket)
+Single source of truth for all Brantham Partners knowledge.
 
-## Founder
-- [[../founder/strategy/]] — Vision & stratégie
-- [[../founder/assumptions/]] — Hypothèses marché/produit
-- [[../founder/journal/]] — Journal fondateur
-- [[../founder/customers/]] — Fiches clients
+## Projects
 
-## Index transversaux
-- [[MOC-decisions]] — Décisions
-- [[MOC-assumptions]] — Hypothèses
-- [[MOC-patterns]] — Patterns
-- [[MOC-bugs]] — Bugs résolus
+| Project | Status | Location | MOC |
+|---------|--------|----------|-----|
+| **Brantham Partners** | Active (pre-revenue) | Multiple repos | [[brantham/_MOC]] |
+| **Website / SEO Machine** | Active (16 pages live, SEO 93/100, AI 4.2/5, glossaire 142 termes) | `/Users/paul/zura-inspired/` | [[website/_MOC]] |
+| **Writing** | Active | `/Users/paul/writing-vault/` | vault Obsidian séparé |
+| **Polymarket Hedge Engine** | Backtest complet (Sharpe 19.6, +7099 USDC/28j) | `/Users/paul/polymarket-hedge/` | [[founder/sessions/2026-03-30-polymarket-backtest]] |
+| **Polytech Strategist** | Competition terminée (Mars 2026) | `/Users/paul/polytech-strategist/` | [[founder/data/]] |
+| **Twitter Growth Agent** | Setup (prompt pret) | Cowork + vault/twitter/ | [[twitter/_MOC]] |
+| **Soren Mendy** | — | `vault/soren-mendy/` | [[soren-mendy/_MOC]] |
+| **Alliance Coiffure** | Active | `vault/Saas 1/` | [[alliance-coiffure/_MOC]] |
+| **LAT-ARB Bot v2** | Active | `vault/Downloads/lat_arb_bot/` | [[lat-arb-bot/_MOC]] |
+
+## Cross-Project
+
+| Section | Purpose |
+|---------|---------|
+| [[_system/MOC-decisions]] | All strategic decisions |
+| [[_system/MOC-assumptions]] | Hypotheses to validate |
+| [[_system/MOC-patterns]] | Reusable technical patterns |
+| [[_system/MOC-bugs]] | Resolved bugs (never re-debug) |
+| [[founder/strategy/current-strategy]] | Strategic framework |
+| [[founder/journal]] | Founder journal |
+| [[founder/todo]] | TODO persistant (P0/P1/P2/Inbox) |
+| [[founder/daily]] | Plans du jour + KPIs |
+| [[remember]] | Session remembers (ce qui a ete fait/installe/configure) |
+| [[_system/wikilinks-convention]] | Convention wikilinks Obsidian (regles de linking) |
+
+## Brantham Sub-Systems
+
+| System | MOC |
+|--------|-----|
+| Data Pipeline | [[brantham/data-pipeline/_MOC]] |
+| Agent Network | [[brantham/agents/_MOC]] |
+| Dashboard | [[brantham/dashboard/_MOC]] |
+| Architecture | [[brantham/architecture]] |
+| **Pappers Intelligence** | **[[brantham/pappers/_MOC]]** |
+
+## Quick Stats (2026-03-15)
+
+- Deals in pipeline: 1 (MLD — teaser_redige, deadline 17/03)
+- Deals archived: 600+
+- Revenue: 0 EUR
+- Website pages: 19 indexables (glossaire 192 termes, barometre, pillar, article, accueil, 4 services, 4 guides, insights, legal x4, avertissement)
+- DB: 1.8M BODACC, 184K procedures, 43+ tables

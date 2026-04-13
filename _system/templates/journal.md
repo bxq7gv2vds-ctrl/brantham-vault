@@ -1,19 +1,26 @@
-# Journal : {{date}}
+---
+type: journal
+date:
+energy: 3  # 1-5
+cognitive_load: 3  # 1-5
+tags: []
+---
 
-## Humeur / énergie
-⚡ Haute | 🔋 Moyenne | 🪫 Basse
+# Journal — [date]
 
-## Focus du jour
-...
+## What happened today
 
-## Ce qui a bien marché
-...
+## What I'm thinking about
 
-## Ce qui a bloqué
-...
+## Signals
+- Market:
+- Product:
+- Personal:
 
-## Insight / apprentissage
-...
+## Tomorrow
+-
 
-## Demain
-...
+## Related
+- [[founder/daily/YYYY-MM-DD]] <!-- plan du jour -->
+- [[founder/decisions/YYYY-MM-DD-decision-name]] <!-- decisions du jour -->
+- [[founder/assumptions/assumption-name]] <!-- assumptions revisitees -->

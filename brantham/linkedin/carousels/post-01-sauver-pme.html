@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --ink: #0F0F0E;
+    --ink3: #4A4A47;
+    --ink4: #8A8A86;
+    --ink5: #B8B8B4;
+    --white: #FAFAF8;
+    --off: #F4F3F0;
+    --stone: #E5E4E0;
+    --indigo: #5E54F0;
+    --red: #C8251A;
+    --green: #1A7A3A;
+    --blue: #1A4FBF;
+  }
+
+  .slide {
+    width: 1080px;
+    height: 1350px;
+    background: var(--white);
+    font-family: 'DM Sans', sans-serif;
+    color: var(--ink);
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+    page-break-after: always;
+    margin-bottom: 40px;
+  }
+
+  .slide-inner {
+    padding: 80px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .eyebrow {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink4);
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .eyebrow .dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--indigo);
+  }
+
+  .slide-number {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    color: var(--ink5);
+    position: absolute;
+    top: 80px;
+    right: 80px;
+  }
+
+  h1 {
+    font-size: 46px;
+    font-weight: 400;
+    letter-spacing: -0.04em;
+    line-height: 1.05;
+    margin-bottom: 32px;
+  }
+
+  h1 .serif {
+    font-family: 'Instrument Serif', serif;
+    font-style: italic;
+  }
+
+  h2 {
+    font-size: 34px;
+    font-weight: 400;
+    letter-spacing: -0.03em;
+    line-height: 1.1;
+    margin-bottom: 28px;
+  }
+
+  h2 .serif {
+    font-family: 'Instrument Serif', serif;
+    font-style: italic;
+  }
+
+  .subtitle {
+    font-size: 20px;
+    font-weight: 300;
+    color: var(--ink3);
+    line-height: 1.6;
+    max-width: 700px;
+  }
+
+  .big-number {
+    font-size: 72px;
+    font-weight: 300;
+    letter-spacing: -0.05em;
+    line-height: 1;
+    color: var(--ink);
+    margin-bottom: 16px;
+  }
+
+  .big-number .unit {
+    font-size: 36px;
+    color: var(--ink4);
+    font-weight: 300;
+  }
+
+  .procedure-name {
+    font-size: 36px;
+    font-weight: 400;
+    letter-spacing: -0.02em;
+    margin-bottom: 16px;
+  }
+
+  .procedure-name .serif {
+    font-family: 'Instrument Serif', serif;
+    font-style: italic;
+  }
+
+  .description {
+    font-size: 18px;
+    font-weight: 300;
+    color: var(--ink3);
+    line-height: 1.7;
+    max-width: 720px;
+  }
+
+  .tag {
+    display: inline-flex;
+    align-items: center;
+    padding: 8px 18px;
+    border-radius: 40px;
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    border: 1px solid;
+    gap: 6px;
+  }
+
+  .tag-green {
+    color: var(--green);
+    border-color: rgba(26, 122, 58, 0.2);
+    background: rgba(26, 122, 58, 0.04);
+  }
+
+  .tag-red {
+    color: var(--red);
+    border-color: rgba(200, 37, 26, 0.2);
+    background: rgba(200, 37, 26, 0.04);
+  }
+
+  .tag-indigo {
+    color: var(--indigo);
+    border-color: rgba(94, 84, 240, 0.2);
+    background: rgba(94, 84, 240, 0.04);
+  }
+
+  .tag-ink {
+    color: var(--ink3);
+    border-color: rgba(15, 15, 14, 0.1);
+    background: rgba(15, 15, 14, 0.03);
+  }
+
+  .tags {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 32px;
+  }
+
+  .divider {
+    width: 100%;
+    height: 1px;
+    background: rgba(15, 15, 14, 0.08);
+    margin: 32px 0;
+  }
+
+  .spacer { flex: 1; }
+
+  .footer-bar {
+    padding: 28px 80px;
+    border-top: 1px solid rgba(15, 15, 14, 0.06);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .logo-mark {
+    width: 28px;
+    height: 28px;
+    background: var(--ink);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .logo-text {
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: -0.01em;
+  }
+
+  .footer-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink5);
+  }
+
+  .accent-line {
+    width: 48px;
+    height: 2px;
+    background: var(--ink);
+    margin-bottom: 32px;
+  }
+
+  .step-grid {
+    display: grid;
+    grid-template-columns: 48px 1fr;
+    gap: 0 24px;
+    margin-top: 16px;
+  }
+
+  .step-num {
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    color: var(--ink4);
+    padding-top: 4px;
+  }
+
+  .step-content {
+    padding-bottom: 28px;
+    border-bottom: 1px solid rgba(15, 15, 14, 0.06);
+    margin-bottom: 28px;
+  }
+
+  .step-content:last-child {
+    border-bottom: none;
+  }
+
+  .step-title {
+    font-size: 17px;
+    font-weight: 500;
+    margin-bottom: 6px;
+  }
+
+  .step-desc {
+    font-size: 15px;
+    font-weight: 300;
+    color: var(--ink3);
+    line-height: 1.6;
+  }
+
+  .card {
+    background: var(--white);
+    border: 1px solid rgba(15, 15, 14, 0.08);
+    border-radius: 16px;
+    padding: 32px;
+    margin-bottom: 16px;
+  }
+
+  .card-dark {
+    background: var(--ink);
+    color: var(--white);
+    border: none;
+    border-radius: 16px;
+    padding: 40px;
+  }
+
+  .card-dark .description { color: rgba(250, 250, 248, 0.6); }
+  .card-dark .eyebrow { color: rgba(250, 250, 248, 0.4); }
+  .card-dark .dot { background: rgba(250, 250, 248, 0.4); }
+
+  .timeline-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 2px solid var(--indigo);
+    margin-top: 6px;
+  }
+
+  .timeline-line {
+    width: 2px;
+    background: rgba(15, 15, 14, 0.08);
+    flex: 1;
+    margin: 4px auto;
+    min-height: 40px;
+  }
+
+  .bg-off { background: var(--off); }
+
+  .quote {
+    font-family: 'Instrument Serif', serif;
+    font-style: italic;
+    font-size: 26px;
+    line-height: 1.3;
+    color: var(--ink);
+    border-left: 2px solid var(--ink);
+    padding-left: 28px;
+    margin: 24px 0;
+  }
+
+  .stat-row {
+    display: flex;
+    gap: 24px;
+    margin-top: 20px;
+  }
+
+  .stat-item {
+    flex: 1;
+  }
+
+  .stat-value {
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: -0.03em;
+    margin-bottom: 4px;
+  }
+
+  .stat-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink4);
+  }
+
+  .cta-box {
+    background: var(--ink);
+    color: var(--white);
+    border-radius: 16px;
+    padding: 48px;
+    text-align: center;
+    margin-top: auto;
+  }
+
+  .cta-box h2 { color: var(--white); margin-bottom: 16px; }
+  .cta-box .subtitle { color: rgba(250, 250, 248, 0.6); margin: 0 auto 32px; }
+
+  .btn-pill {
+    display: inline-flex;
+    align-items: center;
+    padding: 14px 32px;
+    border-radius: 40px;
+    font-size: 14px;
+    font-weight: 500;
+    gap: 8px;
+  }
+
+  .btn-white {
+    background: var(--white);
+    color: var(--ink);
+  }
+</style>
+</head>
+<body style="background: #e0e0e0; padding: 40px; display: flex; flex-direction: column; align-items: center;">
+
+<!-- SLIDE 1 — COVER -->
+<div class="slide">
+  <div class="slide-inner">
+    <div class="eyebrow"><span class="dot"></span> Guide pratique</div>
+    <div class="spacer"></div>
+    <h1>Votre PME est<br>en difficulte.<br><span class="serif">5 procedures</span><br>peuvent la sauver.</h1>
+    <div style="height: 32px"></div>
+    <div class="subtitle">
+      Chaque annee, des milliers d'entreprises viables ferment<br>
+      faute de connaitre leurs options. Voici les 5 mecanismes<br>
+      qui existent pour eviter le pire.
+    </div>
+    <div class="spacer"></div>
+    <div class="tags">
+      <span class="tag tag-ink">Restructuration</span>
+      <span class="tag tag-ink">PME France</span>
+      <span class="tag tag-ink">2026</span>
+    </div>
+  </div>
+  <div class="footer-bar">
+    <div class="logo">
+      <div class="logo-mark">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M2 11L7 3L12 11" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 8H10" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </div>
+      <span class="logo-text">Brantham Partners</span>
+    </div>
+    <span class="footer-label">Swipe &rarr;</span>
+  </div>
+</div>
+
+<!-- SLIDE 2 — LE PROBLEME -->
+<div class="slide bg-off">
+  <div class="slide-inner">
+    <div class="slide-number">01 / 07</div>
+    <div class="eyebrow"><span class="dot"></span> Le constat</div>
+    <div style="height: 40px"></div>
+    <div class="big-number">57 000</div>
+    <h2>entreprises en procedure<br>collective en <span class="serif">2025</span></h2>
+    <div class="divider"></div>
+    <div class="stat-row">
+      <div class="stat-item">
+        <div class="stat-value">1 <span style="font-size:16px;color:var(--ink4)">sur</span> 2</div>
+        <div class="stat-label">Etait viable</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-value" style="color:var(--red)">72%</div>
+        <div class="stat-label">N'ont pas ete accompagnees</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-value">8 <span style="font-size:16px;color:var(--ink4)">sem.</span></div>
+        <div class="stat-label">Delai moyen avant fermeture</div>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <div class="quote">Le probleme n'est pas que ces entreprises sont condamnees. C'est qu'elles ne connaissent pas leurs options.</div>
+  </div>
+  <div class="footer-bar">
+    <div class="logo">
+      <div class="logo-mark">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M2 11L7 3L12 11" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 8H10" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </div>
+      <span class="logo-text">Brantham Partners</span>
+    </div>
+    <span class="footer-label">Swipe &rarr;</span>
+  </div>
+</div>
+
+<!-- SLIDE 3 — MANDAT AD HOC -->
+<div class="slide">
+  <div class="slide-inner">
+    <div class="slide-number">02 / 07</div>
+    <div class="eyebrow"><span class="dot"></span> Procedure n.1</div>
+    <div style="height: 32px"></div>
+    <div class="tags"><span class="tag tag-green">Confidentiel</span><span class="tag tag-green">Preventif</span></div>
+    <h2>Le mandat<br><span class="serif">ad hoc</span></h2>
+    <div class="accent-line"></div>
+    <div class="description" style="margin-bottom:40px">
+      Le dirigeant demande au tribunal de nommer un mandataire pour negocier avec ses creanciers. Personne n'est au courant. Aucune publicite.
+    </div>
+    <div class="step-grid">
+      <div class="step-num">01</div>
+      <div class="step-content">
+        <div class="step-title">Quand l'utiliser</div>
+        <div class="step-desc">Tensions de tresorerie, difficultes avec un creancier majeur, besoin de restructurer une dette</div>
+      </div>
+      <div class="step-num">02</div>
+      <div class="step-content">
+        <div class="step-title">Avantage cle</div>
+        <div class="step-desc">100% confidentiel. Ni les salaries, ni les fournisseurs, ni les clients ne savent</div>
+      </div>
+      <div class="step-num">03</div>
+      <div class="step-content">
+        <div class="step-title">Duree</div>
+        <div class="step-desc">3 a 6 mois en moyenne. Renouvelable. Pas de limite legale</div>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bar">
+    <div class="logo">
+      <div class="logo-mark">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M2 11L7 3L12 11" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 8H10" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </div>
+      <span class="logo-text">Brantham Partners</span>
+    </div>
+    <span class="footer-label">Swipe &rarr;</span>
+  </div>
+</div>
+
+<!-- SLIDE 4 — CONCILIATION -->
+<div class="slide bg-off">
+  <div class="slide-inner">
+    <div class="slide-number">03 / 07</div>
+    <div class="eyebrow"><span class="dot"></span> Procedure n.2</div>
+    <div style="height: 32px"></div>
+    <div class="tags"><span class="tag tag-green">Confidentiel</span><span class="tag tag-indigo">Negociation</span></div>
+    <h2>La<br><span class="serif">conciliation</span></h2>
+    <div class="accent-line"></div>
+    <div class="description" style="margin-bottom:40px">
+      Un conciliateur negocie un accord global avec les creanciers. Si l'accord est homologue par le tribunal, il s'impose a tous.
+    </div>
+    <div class="step-grid">
+      <div class="step-num">01</div>
+      <div class="step-content">
+        <div class="step-title">Quand l'utiliser</div>
+        <div class="step-desc">Difficultes avancees mais pas encore en cessation de paiements (ou moins de 45 jours)</div>
+      </div>
+      <div class="step-num">02</div>
+      <div class="step-content">
+        <div class="step-title">Avantage cle</div>
+        <div class="step-desc">Force un accord sur tous les creanciers. Gel des poursuites possible</div>
+      </div>
+      <div class="step-num">03</div>
+      <div class="step-content">
+        <div class="step-title">Duree</div>
+        <div class="step-desc">4 mois maximum, renouvelable une fois (5 mois)</div>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bar">
+    <div class="logo">
+      <div class="logo-mark">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M2 11L7 3L12 11" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 8H10" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </div>
+      <span class="logo-text">Brantham Partners</span>
+    </div>
+    <span class="footer-label">Swipe &rarr;</span>
+  </div>
+</div>
+
+<!-- SLIDE 5 — SAUVEGARDE -->
+<div class="slide">
+  <div class="slide-inner">
+    <div class="slide-number">04 / 07</div>
+    <div class="eyebrow"><span class="dot"></span> Procedure n.3</div>
+    <div style="height: 32px"></div>
+    <div class="tags"><span class="tag tag-indigo">Judiciaire</span><span class="tag tag-ink">Proactif</span></div>
+    <h2>La procedure de<br><span class="serif">sauvegarde</span></h2>
+    <div class="accent-line"></div>
+    <div class="description" style="margin-bottom:40px">
+      Le dirigeant anticipe. Il demande la protection du tribunal AVANT la cessation de paiements. Il garde le controle de son entreprise.
+    </div>
+    <div class="step-grid">
+      <div class="step-num">01</div>
+      <div class="step-content">
+        <div class="step-title">Quand l'utiliser</div>
+        <div class="step-desc">L'entreprise n'est pas encore en cessation de paiements mais les difficultes sont insurmontables seul</div>
+      </div>
+      <div class="step-num">02</div>
+      <div class="step-content">
+        <div class="step-title">Avantage cle</div>
+        <div class="step-desc">Le dirigeant reste aux commandes. Les dettes sont gelees. Plan de remboursement sur 10 ans possible</div>
+      </div>
+      <div class="step-num">03</div>
+      <div class="step-content">
+        <div class="step-title">Signal fort</div>
+        <div class="step-desc">Montre aux partenaires que le dirigeant est proactif, pas en fuite</div>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bar">
+    <div class="logo">
+      <div class="logo-mark">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M2 11L7 3L12 11" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 8H10" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </div>
+      <span class="logo-text">Brantham Partners</span>
+    </div>
+    <span class="footer-label">Swipe &rarr;</span>
+  </div>
+</div>
+
+<!-- SLIDE 6 — REDRESSEMENT JUDICIAIRE -->
+<div class="slide bg-off">
+  <div class="slide-inner">
+    <div class="slide-number">05 / 07</div>
+    <div class="eyebrow"><span class="dot"></span> Procedure n.4</div>
+    <div style="height: 32px"></div>
+    <div class="tags"><span class="tag tag-indigo">Judiciaire</span><span class="tag tag-red">Cessation de paiements</span></div>
+    <h2>Le redressement<br><span class="serif">judiciaire</span></h2>
+    <div class="accent-line"></div>
+    <div class="description" style="margin-bottom:40px">
+      L'entreprise ne peut plus payer ses dettes. Le tribunal intervient pour tenter de la sauver : soit par un plan de continuation, soit par une cession a un repreneur.
+    </div>
+    <div class="step-grid">
+      <div class="step-num">01</div>
+      <div class="step-content">
+        <div class="step-title">Quand ca arrive</div>
+        <div class="step-desc">Cessation de paiements declaree. Le dirigeant a 45 jours pour saisir le tribunal</div>
+      </div>
+      <div class="step-num">02</div>
+      <div class="step-content">
+        <div class="step-title">Deux issues possibles</div>
+        <div class="step-desc">Plan de continuation (l'entreprise se restructure) ou plan de cession (un repreneur reprend l'activite)</div>
+      </div>
+      <div class="step-num">03</div>
+      <div class="step-content">
+        <div class="step-title">Enjeu</div>
+        <div class="step-desc">Le temps joue contre vous. La periode d'observation est limitee a 18 mois maximum</div>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bar">
+    <div class="logo">
+      <div class="logo-mark">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M2 11L7 3L12 11" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 8H10" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </div>
+      <span class="logo-text">Brantham Partners</span>
+    </div>
+    <span class="footer-label">Swipe &rarr;</span>
+  </div>
+</div>
+
+<!-- SLIDE 7 — LIQUIDATION JUDICIAIRE -->
+<div class="slide">
+  <div class="slide-inner">
+    <div class="slide-number">06 / 07</div>
+    <div class="eyebrow"><span class="dot"></span> Procedure n.5</div>
+    <div style="height: 32px"></div>
+    <div class="tags"><span class="tag tag-red">Dernier recours</span></div>
+    <h2>La liquidation<br><span class="serif">judiciaire</span></h2>
+    <div class="accent-line"></div>
+    <div class="description" style="margin-bottom:40px">
+      L'entreprise est en cessation de paiements et le redressement est manifestement impossible. Mais meme la, une cession d'activite reste possible.
+    </div>
+    <div class="step-grid">
+      <div class="step-num">01</div>
+      <div class="step-content">
+        <div class="step-title">Ce n'est pas toujours la fin</div>
+        <div class="step-desc">Un repreneur peut racheter l'activite, le fonds de commerce, les actifs. Les emplois peuvent etre preserves</div>
+      </div>
+      <div class="step-num">02</div>
+      <div class="step-content">
+        <div class="step-title">Le role du mandataire</div>
+        <div class="step-desc">Il cherche des repreneurs, recoit les offres, les presente au tribunal. C'est la que Brantham intervient</div>
+      </div>
+      <div class="step-num">03</div>
+      <div class="step-content">
+        <div class="step-title">Delai</div>
+        <div class="step-desc">Les offres doivent etre deposees rapidement. Souvent 2 a 4 semaines. La vitesse est critique</div>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bar">
+    <div class="logo">
+      <div class="logo-mark">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M2 11L7 3L12 11" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 8H10" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </div>
+      <span class="logo-text">Brantham Partners</span>
+    </div>
+    <span class="footer-label">Swipe &rarr;</span>
+  </div>
+</div>
+
+<!-- SLIDE 8 — RECAP + CTA -->
+<div class="slide" style="background: var(--ink); color: var(--white);">
+  <div class="slide-inner">
+    <div class="slide-number" style="color: rgba(250,250,248,0.3)">07 / 07</div>
+    <div class="eyebrow" style="color: rgba(250,250,248,0.4)"><span class="dot" style="background: rgba(250,250,248,0.4)"></span> Recapitulatif</div>
+    <div style="height: 32px"></div>
+    <h2 style="color: var(--white); font-size: 36px; margin-bottom: 48px;">5 outils. <span class="serif">Un seul objectif :</span><br>sauver l'entreprise.</h2>
+
+    <div style="display:flex; flex-direction:column; gap: 16px; margin-bottom: 48px;">
+      <div style="display:flex; align-items:center; gap:20px; padding: 20px 0; border-bottom: 1px solid rgba(250,250,248,0.08);">
+        <span style="font-family:'DM Mono',monospace; font-size:11px; color:rgba(250,250,248,0.3); width:24px;">01</span>
+        <span style="font-size:18px; font-weight:400;">Mandat ad hoc</span>
+        <span style="flex:1"></span>
+        <span style="font-size:13px; color:rgba(250,250,248,0.4)">Confidentiel</span>
+      </div>
+      <div style="display:flex; align-items:center; gap:20px; padding: 20px 0; border-bottom: 1px solid rgba(250,250,248,0.08);">
+        <span style="font-family:'DM Mono',monospace; font-size:11px; color:rgba(250,250,248,0.3); width:24px;">02</span>
+        <span style="font-size:18px; font-weight:400;">Conciliation</span>
+        <span style="flex:1"></span>
+        <span style="font-size:13px; color:rgba(250,250,248,0.4)">Negociation forcee</span>
+      </div>
+      <div style="display:flex; align-items:center; gap:20px; padding: 20px 0; border-bottom: 1px solid rgba(250,250,248,0.08);">
+        <span style="font-family:'DM Mono',monospace; font-size:11px; color:rgba(250,250,248,0.3); width:24px;">03</span>
+        <span style="font-size:18px; font-weight:400;">Sauvegarde</span>
+        <span style="flex:1"></span>
+        <span style="font-size:13px; color:rgba(250,250,248,0.4)">Protection proactive</span>
+      </div>
+      <div style="display:flex; align-items:center; gap:20px; padding: 20px 0; border-bottom: 1px solid rgba(250,250,248,0.08);">
+        <span style="font-family:'DM Mono',monospace; font-size:11px; color:rgba(250,250,248,0.3); width:24px;">04</span>
+        <span style="font-size:18px; font-weight:400;">Redressement judiciaire</span>
+        <span style="flex:1"></span>
+        <span style="font-size:13px; color:rgba(250,250,248,0.4)">Restructuration ou cession</span>
+      </div>
+      <div style="display:flex; align-items:center; gap:20px; padding: 20px 0;">
+        <span style="font-family:'DM Mono',monospace; font-size:11px; color:rgba(250,250,248,0.3); width:24px;">05</span>
+        <span style="font-size:18px; font-weight:400;">Liquidation judiciaire</span>
+        <span style="flex:1"></span>
+        <span style="font-size:13px; color:rgba(250,250,248,0.4)">Cession encore possible</span>
+      </div>
+    </div>
+
+    <div class="spacer"></div>
+
+    <div style="text-align:center; padding: 48px 0;">
+      <p style="font-size: 20px; font-weight: 300; color: rgba(250,250,248,0.6); margin-bottom: 16px;">Votre entreprise traverse une periode difficile ?</p>
+      <p style="font-size: 24px; font-weight: 400;">Parlons-en. En toute confidentialite.</p>
+      <p style="font-family:'DM Mono',monospace; font-size: 12px; letter-spacing: 0.08em; color: rgba(250,250,248,0.3); margin-top: 24px;">BRANTHAM.FR</p>
+    </div>
+  </div>
+  <div class="footer-bar" style="border-top-color: rgba(250,250,248,0.08);">
+    <div class="logo">
+      <div class="logo-mark" style="background: rgba(250,250,248,0.1);">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M2 11L7 3L12 11" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 8H10" stroke="#FAFAF8" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </div>
+      <span class="logo-text" style="color: var(--white);">Brantham Partners</span>
+    </div>
+    <span class="footer-label" style="color: rgba(250,250,248,0.3);">Sauvegardez ce post</span>
+  </div>
+</div>
+
+</body>
+</html>

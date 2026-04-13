@@ -1,26 +1,45 @@
-# Pattern : {{titre}}
+---
+name: Pattern Template
+type: pattern
+date: YYYY-MM-DD
+project: brantham
+reusable: true
+---
 
-**Date :** {{date}}
-**Contexte :** {{projet}} | Cross-projet
+# [Pattern Name]
 
-## Problème
-Quelle situation récurrente ce pattern adresse ?
+**Date Discovered**: YYYY-MM-DD  
+**Maturity**: Experimental | Proven | Production-ready  
+**Reuse Count**: 0  
 
-## Solution
-Description du pattern.
+## Description
 
+[What is this pattern? When to use it?]
+
+## Problem It Solves
+
+[What class of problems does this pattern address?]
+
+## Implementation
+
+[Code example / pseudocode]
+
+```python
+def pattern_example():
+    pass
 ```
-// exemple de code si applicable
-```
 
-## Quand l'utiliser
-Conditions d'application.
+## Trade-offs
 
-## Quand ne pas l'utiliser
-Contre-indications.
+- ✅ Advantages
+- ⚠️ Limitations
 
-## Exemples d'usage
-- {{projet}} : ...
+## Lessons Learned
 
-## Tags
-#pattern #{{domaine}}
+[What did we learn? Gotchas?]
+
+## Related
+
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]
+- [[brantham/bugs/YYYY-MM-DD-ORIGIN|Bug that Originated This Pattern]]
