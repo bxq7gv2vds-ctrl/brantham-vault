@@ -1,5 +1,24 @@
 # QUEUE — Opportunites en attente de traitement
 
+> Mise à jour : 2026-04-13 (auto-enrichment session)
+
+## TOP 10 nouvelles opportunités traitées (2026-04-13)
+
+| Slug | Nom | CA | AJ | Procédure | Statut |
+|------|-----|----|----|-----------|--------|
+| ajilink-ihdf-4-saisons-production-de-confitures-traditionnel | 4 SAISONS - Confitures | <1M | Ajilink IHDF | cession | enrichi |
+| ajilink-ihdf-savor-creation-production-de-produits-d-picerie | SAVOR CREATION - Épicerie fine | <1M | Ajilink IHDF | cession | enrichi |
+| ajilink-grandest-durak-compagnie | DURAK COMPAGNIE - Restaurant/Salon thé | <1M | Ajilink Grand Est | cession | enrichi |
+| aj2m-recherche-de-repreneurs-en-plan-de-cession-partielle | Fonds commerce restauration Ecully | NC | 2M&Associés | cession | enrichi |
+| aj2m-toutadom | TOUTADOM | NC | 2M&Associés | cession | enrichi |
+| aj2m-star-service-healthcare | STAR SERVICE HEALTHCARE | NC | 2M&Associés | cession | enrichi |
+| aj2m-fonderie-de-bretagne | FONDERIE DE BRETAGNE | NC | 2M&Associés | cession | enrichi |
+| aj2m-recherche-de-repreneurs-en-plan-de-cession-prepack-cess | Curage & hydrodémolition (prepack) | NC | 2M&Associés | cession | enrichi |
+| aj2m-recherche-de-repreneurs-en-conciliation-prepack-cession | Curage & hydrodémolition (conciliation) | NC | 2M&Associés | cession | enrichi |
+| aj2m-activite-travaux-de-maconnerie-generale-et-gros-peuvre- | Maçonnerie générale & gros-oeuvre | NC | 2M&Associés | cession | enrichi |
+
+---
+
 > Mise a jour : 2026-04-09 (auto-enrichment session)
 
 ## TOP 10 nouvelles opportunites traitees (2026-04-09)
