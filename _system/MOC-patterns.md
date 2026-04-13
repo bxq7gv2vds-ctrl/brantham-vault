@@ -31,6 +31,7 @@ Reusable technical patterns. Check here before solving a problem.
 | **Stratégie convexe par ville (Tokyo/Paris)** | **trading/convex** | **[[patterns/polymarket-convex-strategy-city-analysis]]** |
 | **CONVEX_YES Breakdown Complet** | **trading/convex** | **[[patterns/polymarket-convex-yes-complete-breakdown]]** |
 | **CONVEX_YES v2a Optimization** | **trading/convex** | **[[patterns/polymarket-convex-yes-v2-optimization]]** |
+| **Tracking Infrastructure (Dashboard + Telegram)** | **trading/infra** | **[[patterns/polymarket-tracking-infrastructure]]** |
 
 ## Website-Specific
 
