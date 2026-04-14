@@ -70,7 +70,7 @@ date_doc: 2026-04-14
 
 | Poste | Montant | Commentaire |
 |---|---:|---|
-| Prix d'offre versé | **(300)** | Virement au Tribunal via l'AJ |
+| Prix d'offre versé | **(200)** | Virement au Tribunal via l'AJ — règle 12 % CA |
 | Apurement fournisseurs critiques | (50) | Autodesk, OPQIBI, Qualitel, assurances RC Pro |
 | Cautions nouveau bail / GAPD | (40) | ~1 an loyer Gennevilliers |
 | Primes de rétention (équipe clé) | (40) | S3, S7, NMA, BJA — 4 × 10 k€ |
