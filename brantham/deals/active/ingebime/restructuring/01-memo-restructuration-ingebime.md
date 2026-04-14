@@ -359,20 +359,30 @@ Même dans le scénario le plus dégradé (A), NewCo ne brûle pas massivement d
 - **Pas de reprise de titres** : cession d'actifs exclusivement
 - **Pas de reprise de passif antérieur** : mention expresse
 
-### 8.2 Prix d'offre — fourchette et justification
+### 8.2 Prix d'offre — règle cardinale distressed
 
-**Plancher technique** : **255 000 €**
-- Valeur actifs corporels prisés : 64 000 €
-- Valeur actifs incorporels (licences, logiciels) : 26 000 €
-- Dépôts et cautions récupérables : 70 000 €
-- Superprivilège AGS à couvrir a minima : **228 000 €** *(ceci fixe le prix plancher acceptable par le Tribunal)*
+**Règle Brantham (non négociable) : le prix d'offre d'une reprise en RJ ne dépasse jamais 12 % du CA de référence.**
 
-**Fourchette cible** : **280 000 € – 340 000 €**
-- Prime pour le fonds commercial (clientèle + qualifications + backlog 797 k€)
-- Marge de compétitivité vs offres concurrentes potentielles
-- Signal « sérieux » au Tribunal
+Au-delà, la VAN devient défavorable, l'exposition repreneur explose, et l'expérience montre que les offres qui paient plus cher que 12 % du CA finissent presque toujours en nouvelle procédure collective sous 24 mois — le surprix grignote le BFR de redémarrage, qui est le vrai facteur critique.
 
-**Plafond stratégique** : **400 000 €** (au-delà, la VAN de la reprise décroît significativement même dans le scénario B)
+#### Plafonds calculés selon le CA de référence
+
+| CA de référence | Base | 12 % = plafond |
+|---|---:|---:|
+| CA 2024 (dernier exercice clôturé « normal ») | 2 763 k€ | **332 k€** |
+| CA run-rate NewCo scénario B (base prudente) | 1 300 k€ | **156 k€** |
+| CA 2025 (exercice en RJ, effondré) | 1 141 k€ | **137 k€** |
+| **Moyenne pondérée retenue** (50 % CA 2024 + 50 % run-rate B) | 2 032 k€ | **244 k€** |
+
+#### Fourchette d'offre finale
+
+- **Plancher défensif** : **140 k€** (12 % × CA 2025) — offre minimale recevable signalant que le repreneur a internalisé la situation actuelle
+- **Cible recommandée** : **180–220 k€** (fourchette centrale, autour de 12 % × CA moyen pondéré)
+- **Plafond absolu** : **240 k€** — ne jamais dépasser
+
+**Note sur le superprivilège AGS (228 k€)** : dans cette configuration, la règle des 12 % **ne permet pas** de couvrir intégralement le superprivilège AGS par le seul prix d'offre. C'est acceptable et normal : le Tribunal privilégie **le critère emploi** (reprise intégrale des 10 postes) sur le critère strict de couverture du passif privilégié. Les montants non couverts par l'offre sont portés par l'AGS au titre de la subrogation légale — c'est précisément son rôle.
+
+**Signal envoyé au Tribunal** : « Nous prenons un risque opérationnel en préservant 100 % de l'emploi et en injectant 420 k€ de BFR dans la continuité d'exploitation ; le prix d'offre est calibré pour que NewCo reste viable — un prix plus élevé mettrait en danger la pérennité que nous promettons. »
 
 ### 8.3 Projet industriel présenté au Tribunal
 
