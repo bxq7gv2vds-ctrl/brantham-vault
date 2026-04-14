@@ -234,15 +234,15 @@ date_doc: 2026-04-14
 | **B (base)** | **568** | **2 272** | **3 124** | **3 976** |
 | C (haut) | 945 | 3 780 | 5 198 | 6 615 |
 
-### ROI sur ticket entrée 800 k€
+### ROI sur ticket entrée 700 k€ (prix offre 200 k€ + BFR 500 k€)
 
 | Scénario | Exit moy an 3 | Cash cumul an 1-3 | **Total retour** | **Multiple cash** |
 |---|---:|---:|---:|---:|
-| A (bas) | 88 | (125) | (37) | **0,0×** — **sauvetage** |
-| **B (base)** | **3 124** | **1 337** | **4 461** | **5,6×** |
-| C (haut) | 5 198 | 2 061 | 7 259 | **9,1×** |
+| A (bas) | 88 | (125) | (37) | **0,0×** — sauvetage |
+| **B (base)** | **3 124** | **1 337** | **4 461** | **6,4×** |
+| C (haut) | 5 198 | 2 061 | 7 259 | **10,4×** |
 
-**→ Scénario B = multiple 5,6× en 3 ans. Scénario C = 9,1×. Ces chiffres sont compatibles avec les exits distressed M&A observés sur les reprises de BET déficitaires en IdF.**
+**→ La règle des 12 % ne dégrade pas le deal — elle l'améliore : ticket réduit de 800 à 700 k€, multiples cash passés de 5,6× à 6,4× (scénario B) et 9,1× à 10,4× (scénario C). Moins on paie à l'entrée, plus l'économie reste dans NewCo pour alimenter la relance.**
 
 ---
 
