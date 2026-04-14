@@ -506,7 +506,7 @@ Le Tribunal arrête l'offre qui, au regard de l'ensemble des critères, est **la
 
 4. **Discipline financière = retour à la rentabilité** : la défaillance est managériale (distribution de dividendes en perte, flotte luxueuse, sureffectif, sous-traitance excessive, arrêt URSSAF comme financement gris). Un repreneur sérieux remet la boîte à l'équilibre en 6 mois.
 
-5. **Prix d'entrée faible vs valeur d'usage** : 280–340 k€ + BFR 420 k€ = ticket ~700 k€ pour une entreprise qui peut dégager **300–650 k€ d'EBE année 1** selon scénario.
+5. **Prix d'entrée faible vs valeur d'usage** : 180–220 k€ d'offre (règle 12 % CA) + BFR 420 k€ = ticket ~600 k€ pour une entreprise qui peut dégager **300–650 k€ d'EBE année 1** selon scénario.
 
 6. **ROI projeté** :
    - Scénario BAS : break-even an 1, rentable an 2+
