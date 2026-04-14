@@ -47,15 +47,26 @@ date_doc: 2026-04-14
 
 ## 2. Cash waterfall de la reprise
 
-### Ticket d'entrée
+### Ticket d'entrée — règle 12 % du CA
 
-| Poste | Montant | Timing |
+**Règle Brantham : prix d'offre RJ ≤ 12 % du CA de référence.**
+
+| CA de référence | 12 % = plafond |
+|---|---:|
+| CA 2024 (dernier exercice clôturé) 2 763 k€ | **332** |
+| CA moyen pondéré (2 032 k€) | **244** |
+| CA run-rate NewCo B (1 300 k€) | **156** |
+| CA 2025 RJ (1 141 k€) | **137** |
+
+**Positionnement retenu** :
+
+| Niveau | Montant | Commentaire |
 |---|---:|---|
-| **Prix d'offre plancher** | 255 | J0 (jugement arrêté) |
-| **Prix d'offre recommandé** | **300** | J0 |
-| **Prix d'offre plafond stratégique** | 350 | J0 |
+| Plancher défensif | **140** | 12 % × CA 2025, offre minimale recevable |
+| **Cible recommandée** | **200** | Fourchette centrale, autour de 12 % × CA moyen pondéré |
+| Plafond absolu | **240** | Ne jamais dépasser |
 
-### BFR post-closing (scénario central 300 k€ d'offre)
+### BFR post-closing (scénario central 200 k€ d'offre)
 
 | Poste | Montant | Commentaire |
 |---|---:|---|
