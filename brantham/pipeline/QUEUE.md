@@ -195,3 +195,10 @@ Dossiers crees : deals/{slug}/enrichment.json + analyse.md + acheteurs.json (API
 | 10 | Commercialisation et distribution d’équi | 2M&Associés | ? | cession |  | `aj2m-commercialisation-et-distribution-d` |
 
 *Ajouté automatiquement le 2026-04-13 — enrichissement partiel (scraper uniquement)*
+
+## Ajouté le 2026-04-14 (session auto-enrichment)
+
+| Slug | Nom | CA | Source | Procédure | Statut |
+|------|-----|----|--------|-----------|--------|
+| ajilink-provence-pharmacie-jean-jaures | Pharmacie Jean Jaurès (Toulon) | 1-3 M€ | Ajilink Provence | Cession | QUEUE |
+
