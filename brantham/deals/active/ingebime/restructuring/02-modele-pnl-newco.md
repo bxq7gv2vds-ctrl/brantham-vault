@@ -96,12 +96,12 @@ date_doc: 2026-04-14
 
 | | Sc. A (bas) | Sc. B (base) | Sc. C (haut) |
 |---|---:|---:|---:|
-| Prix d'offre | (300) | (300) | (300) |
+| Prix d'offre (règle 12 %) | (200) | (200) | (200) |
 | BFR complet | (500) | (500) | (500) |
 | Encaissements CA | +630 | +910 | +1 190 |
-| **Trésorerie nette fin année 1** | **(170)** | **+110** | **+390** |
+| **Trésorerie nette fin année 1** | **(70)** | **+210** | **+490** |
 
-**→ Scénario A demande une ligne de crédit bancaire 200 k€ en sécurité (Dailly / factor). Scénarios B et C sont auto-financés.**
+**→ Scénario A demande une ligne de crédit bancaire 100 k€ en sécurité (Dailly / factor). Scénarios B et C sont auto-financés et génèrent du cash dès année 1.**
 
 ---
 
