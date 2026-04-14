@@ -12,17 +12,14 @@ tags: [polymarket, tracking, v2a]
 
 | Période | Trades | Wins | WR | P&L |
 |---------|--------|------|-----|------|
-| Today   | 106 | 3 | 2.8% | +$1216.33 |
-| Total   | 106 | 3 | 2.8% | +$1216.33 |
+| Today   | 0 | 0 | — | +$0.00 |
+| Total   | 0 | 0 | — | +$0.00 |
 
-**Capital** : $1316.33 (base $100)
-**Open positions** : 82
+**Capital** : $100.00 (base $100)
+**Open positions** : 0
 
 ## Top winners today
 
-- **Madrid** -999-16C @ 0.35% → +$711.79
-- **Tel Aviv** 22-23C @ 0.55% → +$452.05
-- **London** 13-14C @ 0.80% → +$310.00
 
 ## Related
 
