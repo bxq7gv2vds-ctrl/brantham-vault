@@ -1,6 +1,15 @@
 # LinkedIn Content — Brantham Partners
 
-**Strategie:** `vault/brantham/strategy/2026-03-15-linkedin-personal-brand.md`
+**Strategie v1 (mars 2026):** `vault/brantham/strategy/2026-03-15-linkedin-personal-brand.md`
+**Strategie v2 (avril 2026, active):** [[linkedin-factory/framework/weekly-framework]] — framework inbound-native 7 jours, pivot vers conversion DMs qualifiés (objectif : submerger de demandes entrantes)
+
+**Fabrique de contenu:** `vault/brantham/linkedin-factory/` (symlink vers `writing-vault/linkedin/`)
+- [[linkedin-factory/framework/weekly-framework]] — plan 7 jours
+- [[linkedin-factory/formats/all-templates]] — 8 templates (capacity update, deal showcase, framework, refusal, horror story, signal faible, case study, post-mortem)
+- [[linkedin-factory/newsletter/weekly-barometre-template]] — Baromètre Brantham hebdo
+- [[linkedin-factory/_MOC]] — MOC complet
+
+**Archive v1 (ci-dessous):** les 8 posts produits en mars, gardés comme référence de ton initial. Remplacés par le framework v2 à partir d'avril.
 
 ---
 
