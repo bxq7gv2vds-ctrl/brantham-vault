@@ -81,7 +81,7 @@ date_doc: 2026-04-14
 | Changement expert-comptable + migration | (10) | |
 | Dette CP/RTT à honorer (10 salariés) | (65) | Stock au 31/03/2026 × charges |
 | Fonds de roulement (2 mois charges) | (140) | Salaires + charges externes |
-| **SOUS-TOTAL SORTIES** | **(800)** | |
+| **SOUS-TOTAL SORTIES** | **(700)** | |
 
 ### Entrées année 1
 
