@@ -274,7 +274,7 @@ Même dans le scénario le plus dégradé (A), NewCo ne brûle pas massivement d
 
 | Poste | Montant |
 |---|---:|
-| **Prix d'offre** | 250–350 k€ |
+| **Prix d'offre** (règle 12 % CA — cible centrale) | **180–220 k€** |
 | Salaires mois 1 (chargés) | 56 k€ |
 | Dette CP/RTT à honorer (salariés repris) | 65 k€ |
 | Apurement fournisseurs critiques (Autodesk, OPQIBI, Qualitel) | 50 k€ |
@@ -284,7 +284,9 @@ Même dans le scénario le plus dégradé (A), NewCo ne brûle pas massivement d
 | Assurances souscrites pour l'année | 25 k€ |
 | Frais d'avocats / AJ / conseil | 30 k€ |
 | **TOTAL BFR DÉMARRAGE** | **~420 k€** |
-| **TICKET TOTAL MOBILISÉ** | **670–770 k€** |
+| **TICKET TOTAL MOBILISÉ** | **600–640 k€** |
+
+**Impact règle 12 %** : ticket total réduit de 670–770 k€ à **600–640 k€**, soit ~130 k€ économisés sur le prix d'offre et réinjectables en BFR ou en primes de rétention si besoin.
 
 **Sources de cash post-closing** : facturation backlog (797 k€ à facturer, dont ~400 k€ encaissables sous 6 mois).
 
