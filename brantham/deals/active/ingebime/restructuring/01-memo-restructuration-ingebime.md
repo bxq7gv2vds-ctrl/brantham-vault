@@ -29,7 +29,7 @@ INGEBIME est un **bureau d'études techniques pluridisciplinaire** (Fluides / É
 - **Filiale Côte d'Ivoire** (39 k€ de titres) → exclue par défaut
 
 **Proposition de valeur de l'offre :**
-- Prix symbolique **250–350 k€** (couvre superprivilège AGS + valeur actifs)
+- Prix d'offre **plafonné à 12 % du CA de référence** — règle cardinale distressed M&A France
 - **Reprise intégrale des 10 postes** — coût social zéro (AGS a déjà absorbé la restructuration 2024–2025)
 - **Plan 100 jours** avec pilotage commercial agressif sur le backlog + nouvelles prises
 - **EBE année 1** projeté entre **+50 k€ et +250 k€** (vs −463 k€ en 2024, −1 156 k€ en 2025)
