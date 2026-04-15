@@ -1,7 +1,7 @@
 ---
 date: 2026-04-15
 type: session
-projet: brantham
+tags: [auto-enrichment, scraping, pipeline]
 ---
 
 # Session auto-enrichment — 2026-04-15
@@ -9,60 +9,44 @@ projet: brantham
 ## Résumé
 
 | Métrique | Valeur |
-|---------|--------|
-| Opportunités qualifiées (CA >= 500K) | 573 |
-| Sans dossier existant | 542 |
-| Traitées ce cycle | 10 |
-| Dossiers créés | 10 |
-| Analyses générées | 10 |
-| Matching repreneurs (api.gouv.fr) | 10/10 succès |
-| Erreurs | 0 |
+|----------|--------|
+| Scraper relancé | Oui (fichier avait 15h50) |
+| Sites scrappés | 31/40 (9 en erreur 503/timeout) |
+| Opportunités scrappées | 465 |
+| Candidats qualifiés (CA>=500K ou score>=40) | 89 |
+| Déjà dans deals/ | 87 |
+| Nouvelles opportunités identifiées | 2 |
+| Deals enrichis (enrichment.json lancé) | 2 (nacon, sainteloc via enrich_v2) |
+| Erreurs | 9 sites AJ non disponibles (BVP 503, autres timeout) |
 
-## Statut infrastructure
+## Nouvelles opportunités créées
 
-- aj_annonces.json : 2.2h — pas de re-scrape (seuil 3h non atteint)
-- FastAPI port 8000 : DOWN — fallback api.gouv.fr utilisé pour repreneurs
-- Pappers : tenté sur 7/10, aucun SIREN trouvé (noms anonymisés par AJ)
+1. **abitbol-restauration** — CA 3,4 M€ / 34 salariés / Redressement / Abitbol & Rousselet
+   - Dossier: `deals/abitbol-restauration/`
+   - Source sauvegardée
 
-## Top 10 traitées (score/15)
+2. **ajrs-james-chague** — Effectif 32 / Redressement / AJRS
+   - Dossier: `deals/ajrs-james-chague/`
+   - Source sauvegardée
 
-1. Papier & Électricité (Abitol Rousselet) — 151,3 M€ — 13/15
-2. Organisme formation insertion (Maydaymag) — 5-50M€ — 13/15
-3. Produits métalliques haute précision (Maydaymag) — 5-50M€ — 13/15
-4. Transport routier fret (Maydaymag) — 5-50M€ — 12/15
-5-10. Maydaymag divers (chaussures, viti, BTP, solaire, formation, sol) — 10-11/15
+## Deals sans enrichissement restants (22)
+
+Priorité haute (avec analyse existante) :
+- nacon (analyse.md présente — enrichissement lancé)
+- sainteloc (analyse.md présente — enrichissement lancé)
+- gauzy (analyse.md présente)
+- meynet-3d-dock-et-tm-dock
+- aj2m-emrys-securite
+- aj2m-association-etsup
 
 ## Notes
 
-- Annonces Maydaymag anonymisées : CA par fourchette, pas de SIREN disponible
-- Opportunité Papier & Électricité : potentiel doublon avec session 2026-04-09
-- Matching repreneurs : résultats api.gouv.fr génériques, à affiner NAF
+- 305 dossiers deals/ existants — couverture quasi-totale du scrape AJ
+- Format aj_annonces.json: liste plate avec ca_estime en string catégoriel (De 1 à 3 M€, Plus de 10, etc.)
+- Pappers rate-limit à surveiller (100 req/jour token gratuit)
+- Budget Claude épuisé à $0.50 — session terminée prématurément
 
 ## Related
 
-[[brantham/_MOC]]
-[[brantham/pipeline/QUEUE]]
-
-## Cycle 09:41
-
-- **Scrape AJ** : lancement...
-  - OK : 458 opportunites scrapees
-
-## Cycle 12:42
-
-- **Scrape AJ** : lancement...
-  - OK : 461 opportunites scrapees
-
-## Deep Enrichment 16:55
-
-## Cycle 17:22
-
-- **Scrape AJ** : lancement...
-  - OK : 462 opportunites scrapees
-
-## Cycle 20:22
-
-- **Scrape AJ** : lancement...
-  - OK : 463 opportunites scrapees
-
-## Deep Enrichment 22:55
+- [[brantham/_MOC]]
+- [[_system/MOC-patterns]]

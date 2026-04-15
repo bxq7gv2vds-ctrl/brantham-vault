@@ -237,3 +237,15 @@ Dossiers crees : deals/{slug}/enrichment.json + analyse.md + acheteurs.json (API
 | 9 | bcm-groupe-gauzy-gauzy-safety-tech-vision-systems-sp-cialis- | Groupe Gauzy / Safety Tech / Vision Systems | tech optique vision | redressement | Oui |
 | 10 | aj2m-transport-et-accompagnement-de-personnes-a-mobilite-red | Transport PMR | transport PMR | redressement | Oui |
 
+
+---
+## Ajout 2026-04-15 (auto-enrichment)
+
+### Nouvelles opportunités
+
+| Slug | Entreprise | CA | Effectif | Type | AJ | Score |
+|------|-----------|-----|---------|------|----|-------|
+| abitbol-restauration | Restauration | 3,4 M€ | 34 | Redressement | Abitbol & Rousselet | 120 |
+| ajrs-james-chague | JAMES CHAGUE | - | 32 | Redressement | AJRS | 30 |
+
+Scrape: 465 opportunités / 31 sites / 2026-04-15 22:55
