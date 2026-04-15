@@ -54,3 +54,4 @@ Priorité haute (avec analyse existante) :
 ## Cycle 23:22
 
 - **Scrape AJ** : lancement...
+  - OK : 465 opportunites scrapees
