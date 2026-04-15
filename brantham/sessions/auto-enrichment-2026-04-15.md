@@ -54,3 +54,7 @@ projet: brantham
   - OK : 461 opportunites scrapees
 
 ## Deep Enrichment 16:55
+
+## Cycle 17:22
+
+- **Scrape AJ** : lancement...
