@@ -202,3 +202,19 @@ Dossiers crees : deals/{slug}/enrichment.json + analyse.md + acheteurs.json (API
 |------|-----|----|--------|-----------|--------|
 | ajilink-provence-pharmacie-jean-jaures | Pharmacie Jean Jaurès (Toulon) | 1-3 M€ | Ajilink Provence | Cession | QUEUE |
 
+
+## Ajouts auto-enrichment — 2026-04-15
+
+| Rang | Slug | Description | Secteur | Procédure | Enrichi |
+|------|------|-------------|---------|-----------|---------|
+| 1 | aj-specialises-domaine-vignelaure-appellation-coteaux-d-aix- | Domaine VIGNELAURE AOP Coteaux Aix | viticulture | redressement | Oui |
+| 2 | aj2m-conception-commercialisation-et-maintenance-de-logiciel | Agence digitale / logiciels | edition logiciels | cession | Oui |
+| 3 | aj-specialises-recherche-repreneur-d-une-pharmacie-rurale-la | Pharmacie rurale Lambesc (13410) | pharmacie | redressement | Oui |
+| 4 | fhbx-maison-maugy | MAISON MAUGY - ossature bois | construction bois | cession | Oui |
+| 5 | aj-specialises-entreprise-sp-cialis-e-dans-l-import-export-d | Import-export sidérurgie/ferraille (06) | import export | cession | Oui |
+| 6 | ajrs-les-invites-au-festin-association | LES INVITES AU FESTIN - 39 sal. DL 30/04 | restauration sociale | redressement | Oui |
+| 7 | aj2m-fabrication-aluminium-fourniture-et-pose-de-menuiseries | Fabrication/pose menuiseries aluminium | menuiserie aluminium | redressement | Oui |
+| 8 | aj2m-cr-ation-et-publication-de-magazine-papier-ou-num-rique | Magazine papier/numérique | media magazine | redressement | Oui |
+| 9 | bcm-groupe-gauzy-gauzy-safety-tech-vision-systems-sp-cialis- | Groupe Gauzy / Safety Tech / Vision Systems | tech optique vision | redressement | Oui |
+| 10 | aj2m-transport-et-accompagnement-de-personnes-a-mobilite-red | Transport PMR | transport PMR | redressement | Oui |
+
