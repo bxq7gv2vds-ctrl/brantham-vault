@@ -155,11 +155,9 @@ Modele hybride : **15-30k upfront** (1ere offre) + **15-30k** (offre finale) + *
 ## Strategy
 
 - [[brantham/strategy/2026-03-15-linkedin-personal-brand]] — Strategie LinkedIn v1 (mars, archive)
-- [[brantham/linkedin-factory/framework/weekly-framework]] — **Strategie LinkedIn v2 ACTIVE** (avril, inbound-native, 7 jours, DMs qualifies comme North Star)
-- [[brantham/linkedin-factory/framework/pillar-content-pack]] — Pillar IA x M&A (6 posts + 3 carrousels prioritaires)
-- [[brantham/linkedin-factory/formats/all-templates]] — 8 templates signature (capacity update, deal showcase, framework, refusal, horror story, signal faible, case study, post-mortem)
-- [[brantham/linkedin-factory/newsletter/weekly-barometre-template]] — Newsletter hebdo Barometre Brantham
+- [[brantham/linkedin-factory/formats/5-formats-internationaux]] — **Strategie LinkedIn v2 ACTIVE** (avril 2026) : 5 formats importes (Inde, US, Allemagne, Scandinavie) pour devenir la reference distressed M&A FR
 - [[brantham/linkedin-factory/_MOC]] — MOC complet fabrique LinkedIn
+- [[brantham/linkedin-factory/sessions/2026-04-15-linkedin-rebuild]] — Session log du pivot strategique
 - [[brantham/linkedin/INDEX]] — Archive posts mars 2026 + pointeur vers fabrique v2
 - [[brantham/strategy/mirofish-vision]] — Vision MiroFish: simulateur de monde M&A distressed (agents autonomes, echelle massive)
 - [[brantham/strategy/mirofish-roadmap]] — Roadmap technique MiroFish (v0.1 → v2.0)
