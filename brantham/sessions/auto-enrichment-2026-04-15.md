@@ -9,3 +9,4 @@
 ## Cycle 03:41
 
 - **Scrape AJ** : lancement...
+  - OK : 458 opportunites scrapees
