@@ -1,5 +1,24 @@
 # QUEUE — Opportunites en attente de traitement
 
+> Mise à jour : 2026-04-15 (auto-enrichment session)
+
+## TOP 10 nouvelles opportunités traitées (2026-04-15)
+
+| Slug | Nom | CA | AJ | Localisation | Score | Statut |
+|------|-----|----|----|-------------|-------|--------|
+| abitolrousselet-papier-et-electricite | Papier & Électricité | 151,3 M€ | Abitol Rousselet | - | 13/15 | enrichi |
+| maydaymag-distribution-de-chaussures-et-daccessoires-de-mode-moyen-haut-de-gamme | Distribution chaussures mode | 5-50 M€ | Maydaymag | Île-de-France | 11/15 | enrichi |
+| maydaymag-vente-de-produits-de-revetement-du-sol | Revêtement de sol | 5-50 M€ | Maydaymag | Île-de-France | 11/15 | enrichi |
+| maydaymag-cooperative-viticole-specialisee-dans-la-production-de-vins-aop-banyul | Coopérative viticole Banyuls/Collioure | 5-50 M€ | Maydaymag | Occitanie | 11/15 | enrichi |
+| maydaymag-transports-routiers-de-fret-interurbains | Transport routier fret | 5-50 M€ | Maydaymag | Pays de la Loire | 12/15 | enrichi |
+| maydaymag-organisme-de-formation-a-destination-de-linsertion-jeunes-adultes | Organisme formation insertion | 5-50 M€ | Maydaymag | Grand Est | 13/15 | enrichi |
+| maydaymag-pose-raccordement-et-reparation-de-canalisations | Pose/réparation canalisations | 5-50 M€ | Maydaymag | Hauts-de-France | 10/15 | enrichi |
+| maydaymag-societe-specialisee-dans-la-conception-et-linstallation-de-centrales-p | Centrales photovoltaïques BtoB | 5-50 M€ | Maydaymag | Île-de-France | 10/15 | enrichi |
+| maydaymag-acteur-industriel-integre-specialisee-dans-la-conception-et-fabricatio | Produits métalliques haute précision | 5-50 M€ | Maydaymag | Auvergne-RA | 13/15 | enrichi |
+| maydaymag-etablissement-denseignement-superieur-en-alternance-dedie-aux-metiers- | École sup. alternance digital | 5-50 M€ | Maydaymag | Île-de-France | 10/15 | enrichi |
+
+---
+
 > Mise à jour : 2026-04-13 (auto-enrichment session)
 
 ## TOP 10 nouvelles opportunités traitées (2026-04-13)
