@@ -43,3 +43,4 @@ Les 15 meilleures opportunités (score ≥ 60 ou CA ≥ 500K€) disposent toute
 ## Cycle 23:41
 
 - **Scrape AJ** : lancement...
+  - OK : 469 opportunites scrapees
