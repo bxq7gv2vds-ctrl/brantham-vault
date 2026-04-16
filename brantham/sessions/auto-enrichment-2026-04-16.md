@@ -39,3 +39,7 @@ Les 15 meilleures opportunités (score ≥ 60 ou CA ≥ 500K€) disposent toute
 
 - [[brantham/_MOC]]
 - [[brantham/pipeline/QUEUE]]
+
+## Cycle 23:41
+
+- **Scrape AJ** : lancement...
