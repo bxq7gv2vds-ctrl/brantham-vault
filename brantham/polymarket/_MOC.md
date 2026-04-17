@@ -47,6 +47,7 @@ Construire un système de trading **100% data-driven** sur Polymarket avec :
 - [[sessions/2026-04-17-phase1-risk-orderbook|Session 2026-04-17 #4: CLOB orderbook + risk manager + ERA5]]
 - [[sessions/2026-04-17-phase2-completion|Session 2026-04-17 #5: Phase 2 completion — CONFIRMED + paper shadow + XGBoost (25/25 tasks)]]
 - [[sessions/2026-04-17-city-focused-analysis|Session 2026-04-17 #6: City-focused analysis — $728k/an paper, Mexico City Kelly 0.82]]
+- [[sessions/2026-04-17-deep-learning-foundation|Session 2026-04-17 #7: Deep Learning foundation — DRN + Transformer + PPO + LLM + AIFS]]
 
 ## Métriques actuelles (2026-04-17)
 
