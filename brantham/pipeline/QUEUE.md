@@ -253,3 +253,16 @@ Scrape: 465 opportunités / 31 sites / 2026-04-15 22:55
 ## Ajouts 2026-04-17 (auto-enrichment)
 - ajire-bp-metal — BP METAL — CA 3-10M€ — cession — NOUVEAU
 - ajilink-sudouest-societe-d-inspection-et-de-controle-d-occit — SICO — CA 1-3M€ — cession — NOUVEAU
+
+## Ajout 2026-04-17 — Auto-enrichment
+
+- **Optique Gouyon** | CA: 149.411 € | cession | Meynet | slug: 
+- **Production et distribution de bois énergie (à prox** | CA: 2 654 269 € | redressement | AJRS | slug: 
+- **FALT** | CA: Moins de 1 | cession | Ajilink Provence | slug: 
+- **Recherche repreneurs** | CA:  | cession | 2M&Associés | slug: 
+- **RESTAURANT DU MIDI – TYPE SALADE/BAR A SOPHIA-ANTI** | CA:  | cession | AJ Spécialisés | slug: 
+- **Groupe IT2C ; C2I Conseils ; INNOCLEAN** | CA:  | cession | Meynet | slug: 
+- **BALTYSS** | CA:  | cession | Meynet | slug: 
+- **IN-CARNATION (Y/PROJECT)** | CA:  | cession | 2M&Associés | slug: 
+- **PALACE PRESSE** | CA:  | cession | 2M&Associés | slug: 
+- **FLYVIEW PARIS** | CA:  | cession | 2M&Associés | slug: 
