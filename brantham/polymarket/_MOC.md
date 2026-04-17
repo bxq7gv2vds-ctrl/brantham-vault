@@ -29,6 +29,7 @@ Construire un système de trading **100% data-driven** sur Polymarket avec :
 - [[architecture|Architecture hedge fund grade (4 couches)]]
 - [[data-sources|Data sources inventory — best-in-class par région]]
 - [[quick-start|Quick-Start Guide opérationnel ← LIRE EN PRIORITÉ]]
+- [[deep-learning-roadmap|Deep Learning Roadmap — 7 couches SOTA]]
 
 ### Roadmap & Decisions
 - [[roadmap|Roadmap phased 4 semaines]]
