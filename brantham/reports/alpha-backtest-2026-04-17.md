@@ -9,15 +9,15 @@
 
 ## Sum-to-1 arbitrage (7 derniers jours de price_bars)
 
-- Opportunities détectées: 21,390
-- Groups uniques: 377
-- Profit moyen: 22.22%
-- Profit max: 232.00%
-- PnL espéré total (notional $50/arb): $237,600.33
+- Opportunities détectées: 20,233
+- Groups uniques: 375
+- Profit moyen: 21.67%
+- Profit max: 165.95%
+- PnL espéré total (notional $50/arb): $219,264.33
 
 ---
 # Alpha Engine — Filter + Kelly (bankroll $1,000)
-_Generated 2026-04-17 12:25 UTC_
+_Generated 2026-04-17 14:12 UTC_
 
 ## Configuration
 ```json
