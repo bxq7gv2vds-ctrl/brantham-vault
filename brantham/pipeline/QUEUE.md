@@ -249,3 +249,7 @@ Dossiers crees : deals/{slug}/enrichment.json + analyse.md + acheteurs.json (API
 | ajrs-james-chague | JAMES CHAGUE | - | 32 | Redressement | AJRS | 30 |
 
 Scrape: 465 opportunités / 31 sites / 2026-04-15 22:55
+
+## Ajouts 2026-04-17 (auto-enrichment)
+- ajire-bp-metal — BP METAL — CA 3-10M€ — cession — NOUVEAU
+- ajilink-sudouest-societe-d-inspection-et-de-controle-d-occit — SICO — CA 1-3M€ — cession — NOUVEAU
