@@ -61,22 +61,26 @@ Construire un système de trading **100% data-driven** sur Polymarket avec :
 
 ## État actuel & prochaines étapes
 
-✅ **Fait aujourd'hui (session 2026-04-17)** :
-- Diagnostic complet des edges (PROB_NO/COLDMATH_NO/EXACT_BIN_YES rentables, PROB_YES/SPEEDA_EARLY toxiques)
-- EdgeFilter v1 : pocket registry + Kelly sizing
-- Backtest engine unifié : walk-forward + MC + attribution
-- Architecture hedge fund grade définie
-- Module `alpha/` créé avec data_hub + nwp_sources
+✅ **25/25 tasks complétées en 5 sessions (2026-04-17, ~6h)** :
+- Diagnostic complet + EdgeFilter v1 (session 1)
+- Data Hub + Model Hub (EMOS + BMA) + Signal Generator (session 2)
+- Live Runner end-to-end (session 3)
+- CLOB orderbook + Risk Manager + ERA5 (session 4)
+- CONFIRMED oracle + Paper Shadow + XGBoost (session 5)
 
-⏳ **À faire (priorisé par impact)** :
-1. Finir `nwp_sources.py` (HRRR + ICON-EU direct intégration)
-2. Construire EMOS + BMA modules
-3. Orderbook WebSocket CLOB live
-4. Backfill ERA5 5 ans pour training ML
-5. XGBoost post-processing
-6. Unified signal generator (model vs market)
-7. Risk manager correlation-adjusted
-8. Paper shadow mode 30-jour validation
+**Architecture 4 couches opérationnelle** :
+1. Data Hub (NWP multi-source + METAR + orderbook + ERA5)
+2. Model Hub (EMOS + BMA + XGBoost)
+3. Alpha Layers (CONFIRMED + MODEL_VS_MARKET + Sum-arb + EdgeFilter)
+4. Risk + Execution (correlation Kelly + kill switch + paper shadow)
+
+⏳ **Bloquants utilisateur pour go-live** :
+1. Copernicus CDS account + ~/.cdsapirc
+2. Run `backfill_era5.py --years 5` (1-3h)
+3. Run `train_xgboost_post.py` (après ERA5)
+4. Setup cron launchd (health/NWP/METAR/live runner/reconcile)
+5. Polymarket wallet funded + private key
+6. 30 jours paper shadow avant real money
 
 ## Related
 
