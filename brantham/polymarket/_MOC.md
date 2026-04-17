@@ -28,9 +28,7 @@ Construire un système de trading **100% data-driven** sur Polymarket avec :
 ### Architecture & Design
 - [[architecture|Architecture hedge fund grade (4 couches)]]
 - [[data-sources|Data sources inventory — best-in-class par région]]
-- [[model-design|Design modèle ML (EMOS + BMA + ML post-proc)]]
-- [[execution-design|Infrastructure execution (CLOB WebSocket + order manager)]]
-- [[risk-management|Risk & portfolio management]]
+- [[quick-start|Quick-Start Guide opérationnel ← LIRE EN PRIORITÉ]]
 
 ### Roadmap & Decisions
 - [[roadmap|Roadmap phased 4 semaines]]
