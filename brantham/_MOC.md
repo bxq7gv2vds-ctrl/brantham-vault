@@ -37,6 +37,10 @@ Modele hybride : **15-30k upfront** (1ere offre) + **15-30k** (offre finale) + *
 - [[brantham/context/roles-et-responsabilites]] — Qui fait quoi
 - [[brantham/COWORK-PROMPT]] — Prompt pour agents Cowork
 
+## Polymarket Hedge Fund (side project trading)
+
+- [[brantham/polymarket/_MOC|Polymarket Hub]] — Architecture hedge fund grade + findings + roadmap
+
 ---
 
 ## Project Locations
