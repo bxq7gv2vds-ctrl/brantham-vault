@@ -47,6 +47,7 @@ Construire un système de trading **100% data-driven** sur Polymarket avec :
 - [[sessions/2026-04-17-phase1-live-runner|Session 2026-04-17 #3: live runner end-to-end (19 signaux émis)]]
 - [[sessions/2026-04-17-phase1-risk-orderbook|Session 2026-04-17 #4: CLOB orderbook + risk manager + ERA5]]
 - [[sessions/2026-04-17-phase2-completion|Session 2026-04-17 #5: Phase 2 completion — CONFIRMED + paper shadow + XGBoost (25/25 tasks)]]
+- [[sessions/2026-04-17-city-focused-analysis|Session 2026-04-17 #6: City-focused analysis — $728k/an paper, Mexico City Kelly 0.82]]
 
 ## Métriques actuelles (2026-04-17)
 
