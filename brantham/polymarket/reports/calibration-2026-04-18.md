@@ -1,6 +1,6 @@
 # Calibration report — 2026-04-18
 
-Scope: all signals with outcomes
+Scope: last 14 days
 
 ## Global metrics
 
