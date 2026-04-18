@@ -12,15 +12,18 @@ Paul est allé dormir en disant « upgrade le modèle, sois ultra minutieux ». 
 
 ## TL;DR
 
-- **11 commits** sur main, tous testés avant commit.
-- **Paper shadow vient de produire ses premiers 199 outcomes** : WR 84.4 %, P&L +$882.
-- **Bug CONFIRMED_YES détecté par le feedback loop** (WR 0 % sur 10 signaux) et fixé.
+- **15 commits** sur main, tous testés avant commit.
+- **Paper shadow vient de produire ses premiers 217 outcomes** : WR 83.9 %, P&L +$915.
+- **Bug CONFIRMED_YES détecté par le feedback loop** (ECE 1.0, WR 0 %/14) et fixé.
 - **XGBoost post-proc** passe de **2 régions (CN + JP_KR)** à **10 régions** trained.
 - **BMA training** passe de 440 samples/5 sources à 17 974 samples/8 sources.
-- **DRN baseline tourne** : val CRPS 0.90 °C (~20 % gain vs baseline ens-mean RMSE 1.12 °C).
-- **sum_arb backtest fix** : time sync propre + partition-completeness filter.
-- **3 nouveaux launchd jobs** : BMA daily, XGB weekly, reconcile-obs daily.
-- `use_xgb_post=False` par défaut — zero regression risk tant que Paul n'active pas le flag.
+- **DRN baseline tourne** : val CRPS 0.84 °C (~25 % gain vs baseline ens-mean RMSE 1.12 °C), wire derrière flag.
+- **Ensemble stacking BMA+XGB+DRN** : mixture Gaussian avec weights trained sur validation CRPS.
+- **Calibration report** : ECE + Brier + log loss per alpha_type, daily cron.
+- **Drift monitor + kill switch** : alpha_states table, persist_signal check, auto-DISABLE sur drift > 8pts ou ECE > 0.20.
+- **6 nouveaux launchd jobs** : BMA daily, XGB weekly, reconcile-obs, calibration, drift-monitor, ensemble weekly.
+- **5 flags feature dans `forecast()`** : use_cache, use_xgb_post, use_drn, use_ensemble — tous défaut False pour zero regression.
+- **5 bugs cascade** découverts et fixés : seed_stations positional args, metar_archive prune unscoped, pandas datetime64[us], training obs-lag missing, stations.elevation_m contains country codes.
 
 ## Commits (ordre chronologique)
 
@@ -35,6 +38,10 @@ Paul est allé dormir en disant « upgrade le modèle, sois ultra minutieux ». 
 9. `23cbb5c` ops launchd reconcile-obs cron 09:20
 10. `f6ccd70` **fix sum_arb backtest** — time sync + complete-partition filter
 11. `3c01a82` **feat DRN baseline trained** — val CRPS 0.90 °C
+12. `4951ea9` **fix+feat** cascade de 4 bugs dans feature pipeline + wire DRN end-to-end
+13. `0f9cc2b` **feat calibration report** — reliability diagram + ECE + Brier + log_loss
+14. `634d108` **feat drift monitor + kill switch** — alpha_states table, auto-DISABLE persist_signal
+15. `dba3177` **feat ensemble stacking** — BMA + XGBoost + DRN via Gaussian mixture + weekly retrain cron
 
 ## Par tâche
 
