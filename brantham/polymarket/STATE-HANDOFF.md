@@ -27,6 +27,14 @@ priority: critical
 incomplet → perdait 100 %. Fix committed (1822e6c). Voir
 [[sessions/2026-04-18-overnight-model-upgrades|session overnight 2026-04-18]].
 
+**Ensemble stacking dispo (BMA + XGBoost + DRN)** : flag `--use-ensemble` dans run_alpha_live.
+Baseline tourne inchangé par défaut — zero regression risk.
+
+**Safety nets** :
+- `alpha_states` table + `persist_signal()` kill switch : `drift_monitor.py` disable auto si drift >8pts ou ECE >0.20.
+- `calibration_report.py` daily : Brier / ECE / log loss par alpha_type, markdown vers vault/reports/.
+- `reconcile_from_obs.py` settle paper shadow sans dépendre de market_resolutions.
+
 ## Architecture état actuel
 
 ```
