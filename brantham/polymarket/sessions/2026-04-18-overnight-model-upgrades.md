@@ -291,6 +291,39 @@ A/B 2026-04-22 (μ / σ) :
 
 σ hérite de l'incertitude honnête de DRN sans que la μ se retrouve tirée vers ses valeurs plus bruyantes. C'est exactement ce qu'on veut d'un ensemble proprement pondéré.
 
+### 16. Plumbing CLI flags run_alpha_live (commit ab82633)
+
+`SignalGenConfig` expose maintenant `use_xgb_post` / `use_drn` / `use_ensemble`, propagés dans `generate_signal → forecast`. Le live runner expose les 3 flags CLI :
+
+```bash
+uv run scripts/run_alpha_live.py --once --use-ensemble
+```
+
+Switching le paper shadow vers ensemble est maintenant un flag. On peut faire tourner A/B via 2 launchd jobs distincts (baseline + ensemble-shadow) partageant `signal_log` avec un tag distinct via metadata.
+
+## Comment activer au réveil
+
+**Baseline actuel (inchangé)** :
+```bash
+uv run scripts/run_alpha_live.py --once
+```
+
+**Test ensemble 1 scan** :
+```bash
+uv run scripts/run_alpha_live.py --once --use-ensemble
+```
+
+**Rebuild pipeline complet** (après quelques jours d'outcomes) :
+```bash
+uv run scripts/reconcile_from_obs.py
+uv run scripts/calibration_report.py --lookback-days 7
+uv run scripts/drift_monitor.py
+uv run scripts/train_bma.py --days 30
+uv run scripts/train_ensemble_weights.py --window-days 30
+```
+
+Ou attendre les crons, tous schedulés 09:15 → 09:30 UTC.
+
 ## État du système au coucher (2026-04-18 ~15:00)
 
 ### Launchd actifs (9 jobs)
