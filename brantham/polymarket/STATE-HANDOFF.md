@@ -14,13 +14,18 @@ priority: critical
 ## TL;DR système actuel
 
 **Status** : Pipeline hedge fund grade opérationnel en paper shadow autonome.
-- 7 sessions de dev le 2026-04-17 (~8h marathon)
-- ~6,000 lignes Python + ~5,000 lignes markdown vault
-- 5 commits git sur main
-- 5 launchd jobs autonomous
+- 7 sessions de dev le 2026-04-17 + session overnight 2026-04-18 (~12h cumulées)
+- ~6 500+ lignes Python + ~5 500 lignes markdown vault
+- 14 commits git sur main (après overnight upgrades)
+- **9 launchd jobs autonomes** (après ajout bma-train, xgb-retrain, reconcile-obs)
+- **Paper shadow vient de produire 199 premiers outcomes** : WR 84.4 % (+$882 paper)
 - Pas encore de capital réel déployé
 
-**Next milestone** : Paper shadow 7-30 jours validation avant real money.
+**Next milestone** : A/B test `use_xgb_post=True` sur 7j de paper shadow, puis real money $500.
+
+**Dernier bug attrapé** : CONFIRMED_YES utilisait prev_day comme proxy pour target_date UTC
+incomplet → perdait 100 %. Fix committed (1822e6c). Voir
+[[sessions/2026-04-18-overnight-model-upgrades|session overnight 2026-04-18]].
 
 ## Architecture état actuel
 
