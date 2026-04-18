@@ -23,12 +23,17 @@ Construire un système de trading **100% data-driven** sur Polymarket avec :
 
 **Target P&L** : $200-400k/an avec capital scaling $1k → $50k
 
+## ⚡ Point d'entrée nouvelle session
+
+1. **[[STATE-HANDOFF|🎯 STATE-HANDOFF]]** — état complet système (LIRE EN PREMIER)
+2. **[[TODO-pending|📋 TODO Pending]]** — tâches restantes priorisées
+3. **[[quick-start|Quick-start]]** — commandes opérationnelles
+
 ## Contenu
 
 ### Architecture & Design
 - [[architecture|Architecture hedge fund grade (4 couches)]]
 - [[data-sources|Data sources inventory — best-in-class par région]]
-- [[quick-start|Quick-Start Guide opérationnel ← LIRE EN PRIORITÉ]]
 - [[deep-learning-roadmap|Deep Learning Roadmap — 7 couches SOTA]]
 - [[execution-playbook|Execution Playbook — 16 dimensions d'optimisation]]
 
