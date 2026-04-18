@@ -12,11 +12,13 @@ Paul est allé dormir en disant « upgrade le modèle, sois ultra minutieux ». 
 
 ## TL;DR
 
-- **8 commits** sur main, tous testés avant commit.
+- **11 commits** sur main, tous testés avant commit.
 - **Paper shadow vient de produire ses premiers 199 outcomes** : WR 84.4 %, P&L +$882.
 - **Bug CONFIRMED_YES détecté par le feedback loop** (WR 0 % sur 10 signaux) et fixé.
 - **XGBoost post-proc** passe de **2 régions (CN + JP_KR)** à **10 régions** trained.
 - **BMA training** passe de 440 samples/5 sources à 17 974 samples/8 sources.
+- **DRN baseline tourne** : val CRPS 0.90 °C (~20 % gain vs baseline ens-mean RMSE 1.12 °C).
+- **sum_arb backtest fix** : time sync propre + partition-completeness filter.
 - **3 nouveaux launchd jobs** : BMA daily, XGB weekly, reconcile-obs daily.
 - `use_xgb_post=False` par défaut — zero regression risk tant que Paul n'active pas le flag.
 
@@ -31,6 +33,8 @@ Paul est allé dormir en disant « upgrade le modèle, sois ultra minutieux ». 
 7. `5b51a59` **feat reconcile_from_obs** — signal_outcomes enfin populé
 8. `1822e6c` **fix CONFIRMED prev_day fallback** (bug détecté par le reconcile)
 9. `23cbb5c` ops launchd reconcile-obs cron 09:20
+10. `f6ccd70` **fix sum_arb backtest** — time sync + complete-partition filter
+11. `3c01a82` **feat DRN baseline trained** — val CRPS 0.90 °C
 
 ## Par tâche
 
