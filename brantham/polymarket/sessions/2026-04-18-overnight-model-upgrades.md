@@ -191,6 +191,31 @@ Les deux mentent sur leur « certitude ».
 
 Cron quotidien 09:20, entre `alpha-reconcile` (09:15, legacy path) et `alpha-bma-train` (09:30). Log dans `logs/alpha-reconcile-obs.log`.
 
+### 10. Sum_arb backtest fix (commit f6ccd70)
+
+Deux bugs composés qui expliquaient les P&L « gonflés » notés dans STATE-HANDOFF :
+
+- `ffill(limit=30)` sur buckets minute-1 : un token quoté il y a 25 min était sommé avec un token quoté maintenant → sum_yes dérivait grotesquement même quand les prix réels étaient synchrones.
+- La plupart des bracket groups dans `all_markets.db` ne portent que les bins milieu « between X-Y°F » sans les tails « below L » / « above H » → leurs prix ne peuvent structurellement pas sommer à 1 → chaque snapshot ressemblait à un arb 30-80 %.
+
+Fix :
+- Sync grid `sync_window_s` (default 120 s). Un bucket ne compte que si chaque token a une observation réelle ET `max_raw_ts − min_raw_ts ≤ max_staleness_s` (default 300 s). Fini le ffill.
+- Filtre `min_partition_sum=0.80` rejette les groups dont le max observé de sum_yes n'approche jamais 1 — signal structurel que les tails manquent.
+
+Caveat : la source canonique d'arb live reste `scan_current_arbs` (Gamma API) où les tails sont exposées. Le backtest est maintenant juste sur la dimension prix/sync mais borné par les groups historiques qui ont accidentellement shippé une partition complète.
+
+### 11. DRN baseline trained (commit 3c01a82)
+
+Enfin débloqué grâce au backfill ARCHIVE (ERA5-derived, pas besoin de compte Copernicus).
+
+- `train_drn.py --obs-source ARCHIVE` : 4 424 samples (3 539 train / 885 val chronologique), 16 features.
+- **val CRPS 0.90 °C** vs baseline ens-mean RMSE 1.12 °C → ~20 % gain proper-score avant toute optimisation.
+- 48 epochs, early stop `patience=10`.
+- **Pin CPU + `torch.set_num_threads(1)`** par défaut : torch 2.11 segfaulte sous MPS et sous multi-thread BLAS dans la boucle CRPS gaussian loss. Le flag `--device mps` reste disponible si upstream fixe.
+- Sauvegardé dans `models/drn.pt` + `models/drn_features.npz` (mean/std + colonnes features pour inférence).
+
+Prochain step : wire `predict(model, features)` derrière un flag `use_drn` dans `model_prob.forecast` pour A/B vs EMOS+BMA+XGBoost sur paper shadow.
+
 ## État du système au coucher (2026-04-18 ~15:00)
 
 ### Launchd actifs (9 jobs)
