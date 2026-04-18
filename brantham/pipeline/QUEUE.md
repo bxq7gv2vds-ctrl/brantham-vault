@@ -1,5 +1,21 @@
 # QUEUE — Opportunites en attente de traitement
 
+> Mise à jour : 2026-04-18 (auto-enrichment session)
+
+## Scan AJ du 2026-04-18
+
+| Métrique | Valeur |
+|----------|--------|
+| Opportunités scrapées | 467 (40 sites) |
+| Qualifiées (CA > 500K ou score > 60) | 14 |
+| Nouvelles opportunités sans dossier | 0 |
+| Dossiers avec enrichment | 298 |
+| Dossiers sans acheteurs (à traiter) | 84 |
+
+**Status** : Toutes les opportunités qualifiées du scan ont déjà un dossier et enrichment.json. 84 dossiers enrichis manquent encore d'acheteurs.json — à traiter lors du prochain cycle deep enrichment.
+
+---
+
 > Mise à jour : 2026-04-15 (auto-enrichment session)
 
 ## TOP 10 nouvelles opportunités traitées (2026-04-15)
