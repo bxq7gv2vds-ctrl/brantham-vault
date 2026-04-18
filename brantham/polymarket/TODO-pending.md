@@ -3,12 +3,20 @@ name: TODO Pending — Prochaines étapes Polymarket Hedge Fund
 description: Liste exhaustive des tâches restantes, priorisées par ROI × feasibility
 type: todo
 created: 2026-04-18
+updated: 2026-04-18
 tags: [polymarket, todo, backlog]
 ---
 
 # TODO Pending — Priorité
 
 **Lire [[STATE-HANDOFF]] d'abord** pour comprendre l'état complet.
+
+> **2026-04-18 overnight (voir [[sessions/2026-04-18-overnight-model-upgrades]])**
+> — Complétés : fix OPEN_METEO freshness, BMA training réel (cron daily),
+> XGBoost post-proc bootstrap (10 régions), wire `use_xgb_post` flag,
+> write-through cache, backfill Open-Meteo Archive (100 k obs)
+> + historical NWP (18 k forecasts), reconcile_from_obs autonome
+> (199 settled, WR 84.4 %), fix CONFIRMED_YES `prev_day` bug.
 
 ## 🔥 Blocage utilisateur (à faire AVANT les tâches dev)
 
