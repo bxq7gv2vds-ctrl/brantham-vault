@@ -223,6 +223,74 @@ Enfin débloqué grâce au backfill ARCHIVE (ERA5-derived, pas besoin de compte 
 
 Prochain step : wire `predict(model, features)` derrière un flag `use_drn` dans `model_prob.forecast` pour A/B vs EMOS+BMA+XGBoost sur paper shadow.
 
+### 12. Unbreak feature pipeline + wire DRN (commit 4951ea9)
+
+Wiring DRN a exposé **4 bugs en cascade** qui empoisonnaient aussi le XGBoost post-proc silencieusement :
+
+- **Station positional arg bug** : `seed_stations.py` passait country en position 7 (= elevation_m dans la @dataclass). Chaque row stocké avait `stations.elevation_m = "US"`, `"FR"`, etc. La coercion numérique retournait NaN → fillna(100.0) → std=0 → le normalizer DRN divisait par 1e-6 → valeurs d'inférence en millions.
+- **metar_archive.prune_older_than unscoped** : la cron METAR 2h faisait `DELETE FROM obs_temperature WHERE obs_ts < cutoff` sans filter par source. Chaque cycle effaçait les backfills ARCHIVE + WU_HISTORICAL, laissant seulement la fenêtre METAR rolling 30j.
+- **pandas datetime64[us] surprise** : `assemble_training_data` calculait `horizon_h = astype("int64") / 1e9`. Sur cette stack pandas émet `datetime64[us]`, donc astype retourne des microseconds. Training rows avec horizon_h ≈ -491 000 h. Switched to `.map(lambda t: t.timestamp())`.
+- **Training-time obs-lag manquant** : `build_features` fallback `t_yesterday = ens_mean` parce que `assemble_training_data` ne joignait pas sur (icao, target_date - 1). Ajouté le merge — t_yday_minus_ens retrouve sa variance.
+
+Post-fix :
+- DRN val CRPS **0.84 °C** (3 features degenerate auto-dropped : t_today_minus_ens, elevation, horizon_h)
+- `_apply_drn` dans model_prob.py, flag `use_drn=False` par défaut
+- σ modélisé proprement (~2.5-3 °C vs BMA 1.05 °C — bien plus réaliste)
+
+A/B sanity 2026-04-22 : ZBAA base 28.10 → drn 26.82 σ=3.12, RJTT base 22.70 → drn 22.08 σ=2.67, LFPG base 18.20 → drn 19.13 σ=2.45.
+
+### 13. Calibration report (commit 0f9cc2b)
+
+`scripts/calibration_report.py` : joint `signal_log` × `signal_outcomes`, bucket les est_prob, compute :
+- Reliability diagram (bucket → realized WR)
+- Brier score (perfect=0)
+- ECE (Expected Calibration Error)
+- Log loss (heavy penalty for confident-wrong)
+
+Per alpha_type + global, flags `ECE > alert_threshold`.
+
+**Premier run sur 217 settled signals expose le bug CONFIRMED_YES mathématiquement** :
+| alpha_type | n | wr_real | wr_exp | brier | log_loss | **ece** |
+|---|---|---|---|---|---|---|
+| CONFIRMED_NO | 14 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 |
+| CONFIRMED_YES | 14 | 0.00 | 1.00 | 1.00 | 13.82 | **1.00** ⚠️ |
+| MODEL_VS_MARKET | 189 | 0.889 | 0.870 | 0.016 | 0.073 | 0.027 |
+
+MODEL_VS_MARKET très bien calibré (ECE 0.027, drift -1.9pts). Le cron 09:25 génère un rapport quotidien dans `vault/brantham/polymarket/reports/calibration-YYYY-MM-DD.md`.
+
+### 14. Drift monitor + kill switch (commit 634d108)
+
+Runtime safety net : même si l'oracle est fixé (commit 1822e6c), une nouvelle régression future doit être **stoppée automatiquement** avant que des positions ne brûlent.
+
+- Nouvelle table `alpha_states(alpha_type PK, status, reason, n_obs, wr_realized, wr_expected, updated_ts)`
+- `data_hub.is_alpha_enabled()` + `set_alpha_state()` helpers
+- `persist_signal()` retourne `False` et skip l'insert quand `status='DISABLED'`
+- `scripts/drift_monitor.py` (cron 09:23) évalue sliding 7 jours :
+  - DISABLED si `drift_pts ≥ 8` OU `ECE ≥ 0.20`
+  - Skip tant que N < 20 (nouveaux alphas pas étranglés prématurément)
+- Dry-run reproduit : avec --min-n 10, DRIFT_MONITOR aurait DISABLED CONFIRMED_YES quasi-instantanément (drift +100pts, ECE 1.0).
+
+### 15. Ensemble stacking (commit dba3177)
+
+Meta-model qui blend BMA + XGBoost-corrected + DRN via **Gaussian mixture moment-matching** (la même technique que BMA utilise déjà across NWP sources).
+
+- `model_prob._apply_ensemble()` + flag `use_ensemble=True`
+- `model_prob._mixture_gaussian()` helper (safe sur composants vides)
+- `ensemble_weights` table (predictor PK, weight, val_crps, n_samples, updated_ts)
+- `scripts/train_ensemble_weights.py` : replay 30j, score CRPS gaussian, `weight ∝ 1/max(0.5, CRPS)`. Weekly cron Monday 04:30.
+
+Premier run (200 samples) :
+- BMA CRPS 0.48, weight 41.5 %
+- XGB CRPS 0.40, weight 41.5 % (floor saturé avec BMA)
+- DRN CRPS 1.22, weight 17 %
+
+A/B 2026-04-22 (μ / σ) :
+- ZBAA : base 28.10 / 1.05 → ens 28.12 / 1.73
+- RJTT : base 22.70 / 1.05 → ens 22.40 / 1.48
+- LFPG : base 18.20 / 1.05 → ens 18.37 / 1.43
+
+σ hérite de l'incertitude honnête de DRN sans que la μ se retrouve tirée vers ses valeurs plus bruyantes. C'est exactement ce qu'on veut d'un ensemble proprement pondéré.
+
 ## État du système au coucher (2026-04-18 ~15:00)
 
 ### Launchd actifs (9 jobs)
