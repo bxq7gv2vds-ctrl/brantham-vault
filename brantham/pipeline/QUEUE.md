@@ -282,3 +282,19 @@ Scrape: 465 opportunités / 31 sites / 2026-04-15 22:55
 - **IN-CARNATION (Y/PROJECT)** | CA:  | cession | 2M&Associés | slug: 
 - **PALACE PRESSE** | CA:  | cession | 2M&Associés | slug: 
 - **FLYVIEW PARIS** | CA:  | cession | 2M&Associés | slug: 
+
+
+## Nouvelles opportunités — 2026-04-19
+
+| # | Nom | CA | Type | Source | Slug |
+|---|-----|----|----- |--------|------|
+| 1 | SOCIETE EXPLOITANT UN MAGASIN DE JOUETS | 1215.0K€ | cession | Ajilink Sud-Ouest | ajilink-sudouest-societe-exploitant-un-magasin-de- |
+| 2 | RECHERCHE DE REPRENEURS EN PLAN DE CESSION |  | cession | 2M&Associés | aj2m-recherche-de-repreneurs-en-plan-de-cession |
+| 3 | RECHERCHE REPRENEURS EN PLAN DE CESSION |  | cession | 2M&Associés | aj2m-recherche-repreneurs-en-plan-de-cession |
+| 4 | RECHERCHE REPRENEURS EN CONCILIATION PREPACK CESSI |  | cession | 2M&Associés | aj2m-recherche-repreneurs-en-conciliation-prepack- |
+| 5 | ELEVAGE DE VACHES LAITIERES |  | cession | 2M&Associés | aj2m-elevage-de-vaches-laitieres |
+| 6 | CLUB DAUMESNIL |  | cession | 2M&Associés | aj2m-club-daumesnil |
+| 7 | ASSOCIATION D’AIDE A LA PERSONNE |  | cession | 2M&Associés | aj2m-association-d-aide-a-la-personne |
+| 8 | WETRADELOCAL |  | cession | 2M&Associés | aj2m-wetradelocal |
+| 9 | ACTIVITE : RESTAURANT // Appel d&rsquo;offres |  | cession | 2M&Associés | aj2m-activite-restaurant-appel-d-rsquo-offres |
+| 10 | RECHERCHE REPRENEURS PLANS DE CESSIONS PARTIELLES |  | cession | 2M&Associés | aj2m-recherche-repreneurs-plans-de-cessions-partie |
