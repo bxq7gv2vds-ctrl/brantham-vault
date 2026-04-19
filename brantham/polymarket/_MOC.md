@@ -26,8 +26,9 @@ Construire un système de trading **100% data-driven** sur Polymarket avec :
 ## ⚡ Point d'entrée nouvelle session
 
 1. **[[STATE-HANDOFF|🎯 STATE-HANDOFF]]** — état complet système (LIRE EN PREMIER)
-2. **[[TODO-pending|📋 TODO Pending]]** — tâches restantes priorisées
-3. **[[quick-start|Quick-start]]** — commandes opérationnelles
+2. **[[audit-hedge-fund-grade|📊 Audit hedge fund grade]]** — gap analysis 10 dimensions, score 56/100
+3. **[[TODO-pending|📋 TODO Pending]]** — tâches restantes priorisées (par ROI × bloquants)
+4. **[[quick-start|Quick-start]]** — commandes opérationnelles
 
 ## Contenu
 
