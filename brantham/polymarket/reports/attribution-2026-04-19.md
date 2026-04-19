@@ -1,62 +1,61 @@
 ---
 name: P&L Attribution
 description: Breakdown by alpha x city x hour x dow on settled paper outcomes
-generated: 2026-04-19T16:51:57.964111+00:00
+generated: 2026-04-19T17:48:30.161855+00:00
 type: report
 ---
 
 # Attribution Breakdown
 
-**Overall:** N=217 WR=83.9% P&L=$+915.14
+**Overall:** N=992 WR=82.1% P&L=$+13299.23
 
 ## Top by (alpha × city) — by P&L (N ≥ 10)
 
 | Alpha | City | N | WR (95 % CI) | P&L |
 |-------|------|---|--------------|-----|
-| MODEL_VS_MARKET | austin | 36 | 97.2% [85.8, 99.5] | $+226.47 |
-| MODEL_VS_MARKET | atlanta | 16 | 100.0% [80.6, 100.0] | $+208.72 |
-| MODEL_VS_MARKET | chicago | 11 | 100.0% [74.1, 100.0] | $+170.40 |
-| MODEL_VS_MARKET | dallas | 27 | 74.1% [55.3, 86.8] | $+104.41 |
-| MODEL_VS_MARKET | kuala lumpur | 33 | 100.0% [89.6, 100.0] | $+88.66 |
-| MODEL_VS_MARKET | paris | 19 | 100.0% [83.2, 100.0] | $+31.73 |
-| CONFIRMED_NO | denver | 14 | 100.0% [78.5, 100.0] | $+28.16 |
-| MODEL_VS_MARKET | tel aviv | 10 | 100.0% [72.2, 100.0] | $+8.58 |
-| CONFIRMED_YES | miami | 14 | 0.0% [0.0, 21.5] | $-186.78 |
+| MODEL_VS_MARKET | austin | 82 | 93.9% [86.5, 97.4] | $+12740.12 |
+| MODEL_VS_MARKET | atlanta | 71 | 100.0% [94.9, 100.0] | $+530.47 |
+| MODEL_VS_MARKET | beijing | 52 | 98.1% [89.9, 99.7] | $+396.99 |
+| MODEL_VS_MARKET | houston | 61 | 98.4% [91.3, 99.7] | $+237.13 |
+| MODEL_VS_MARKET | san francisco | 48 | 100.0% [92.6, 100.0] | $+181.69 |
+| MODEL_VS_MARKET | shenzhen | 56 | 96.4% [87.9, 99.0] | $+163.64 |
+| MODEL_VS_MARKET | dallas | 77 | 76.6% [66.0, 84.7] | $+143.28 |
+| MODEL_VS_MARKET | denver | 57 | 100.0% [93.7, 100.0] | $+127.32 |
 
 ## Bottom by (alpha × city) — P&L (N ≥ 10)
 
 | Alpha | City | N | WR (95 % CI) | P&L |
 |-------|------|---|--------------|-----|
-| MODEL_VS_MARKET | austin | 36 | 97.2% [85.8, 99.5] | $+226.47 |
-| MODEL_VS_MARKET | atlanta | 16 | 100.0% [80.6, 100.0] | $+208.72 |
-| MODEL_VS_MARKET | chicago | 11 | 100.0% [74.1, 100.0] | $+170.40 |
-| MODEL_VS_MARKET | dallas | 27 | 74.1% [55.3, 86.8] | $+104.41 |
-| MODEL_VS_MARKET | kuala lumpur | 33 | 100.0% [89.6, 100.0] | $+88.66 |
-| MODEL_VS_MARKET | paris | 19 | 100.0% [83.2, 100.0] | $+31.73 |
-| CONFIRMED_NO | denver | 14 | 100.0% [78.5, 100.0] | $+28.16 |
-| MODEL_VS_MARKET | tel aviv | 10 | 100.0% [72.2, 100.0] | $+8.58 |
-| CONFIRMED_YES | miami | 14 | 0.0% [0.0, 21.5] | $-186.78 |
+| MODEL_VS_MARKET | hong kong | 22 | 100.0% [85.1, 100.0] | $+22.72 |
+| MODEL_VS_MARKET | tel aviv | 19 | 100.0% [83.2, 100.0] | $+15.84 |
+| CONFIRMED_NO | miami | 10 | 100.0% [72.2, 100.0] | $+10.30 |
+| MODEL_VS_MARKET | miami | 33 | 97.0% [84.7, 99.5] | $-4.35 |
+| CONFIRMED_YES | new york city | 13 | 0.0% [0.0, 22.8] | $-204.96 |
+| CONFIRMED_YES | miami | 18 | 0.0% [0.0, 17.6] | $-238.92 |
+| MODEL_VS_MARKET | chicago | 41 | 34.1% [21.6, 49.5] | $-275.15 |
+| MODEL_VS_MARKET | tokyo | 83 | 0.0% [0.0, 4.4] | $-979.01 |
 
 ## Insufficient data (N < 10) — suppressed from ranking
 
-- 11 (alpha × city) buckets with fewer than 10 outcomes; do not draw conclusions yet.
+- 9 (alpha × city) buckets with fewer than 10 outcomes; do not draw conclusions yet.
+
+## Candidates to retire (N≥30, WR<50%)
+
+- `MODEL_VS_MARKET` × **chicago** : N=41, WR=34.1%, P&L=$-275.15
+- `MODEL_VS_MARKET` × **tokyo** : N=83, WR=0.0%, P&L=$-979.01
 
 ## By (alpha × hour UTC)
 
 | Alpha | Hour | N | WR | P&L |
 |-------|------|---|-----|-----|
-| MODEL_VS_MARKET | 14h | 14 | 71.4% | $+395.07 |
-| MODEL_VS_MARKET | 21h | 26 | 92.3% | $+179.73 |
-| MODEL_VS_MARKET | 23h | 49 | 95.9% | $+168.22 |
-| MODEL_VS_MARKET | 00h | 20 | 100.0% | $+132.51 |
-| MODEL_VS_MARKET | 01h | 14 | 100.0% | $+91.59 |
-| MODEL_VS_MARKET | 22h | 23 | 100.0% | $+87.48 |
-| CONFIRMED_NO | 00h | 9 | 100.0% | $+18.80 |
-| MODEL_VS_MARKET | 19h | 16 | 81.2% | $+13.80 |
-| CONFIRMED_NO | 01h | 5 | 100.0% | $+9.36 |
-| MODEL_VS_MARKET | 20h | 27 | 63.0% | $+5.36 |
-| CONFIRMED_YES | 01h | 5 | 0.0% | $-61.99 |
-| CONFIRMED_YES | 00h | 9 | 0.0% | $-124.79 |
+| MODEL_VS_MARKET | 20h | 158 | 80.4% | $+3946.78 |
+| MODEL_VS_MARKET | 21h | 145 | 82.8% | $+3320.43 |
+| MODEL_VS_MARKET | 19h | 91 | 80.2% | $+2252.91 |
+| MODEL_VS_MARKET | 22h | 145 | 89.7% | $+1682.81 |
+| MODEL_VS_MARKET | 23h | 169 | 91.7% | $+1381.52 |
+| MODEL_VS_MARKET | 14h | 34 | 79.4% | $+417.14 |
+| MODEL_VS_MARKET | 00h | 54 | 83.3% | $+375.84 |
+| MODEL_VS_MARKET | 03h | 9 | 88.9% | $+262.19 |
 
 ## Related
 - [[_MOC|Polymarket Hub]]
