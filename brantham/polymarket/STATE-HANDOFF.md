@@ -17,7 +17,19 @@ tags: [polymarket, handoff, state, continuity]
 
 **Dernière session** : feature engineering massif (diurnal / synoptic / soil moisture) + MLflow + MC VaR + Pangu scaffold en attente du fichier ONNX.
 
-**Initiative courante** : [[g1-g2-qualification-kit|G1→G2 Qualification Kit]] — 16 livrables structurés en 5 packages pour passer le signal de "research" à "paper shadow ready" avec validation statistique hedge-fund-grade. Voir [[g1-g2-todo-tracker|todo tracker]] pour l'état d'avancement.
+**Initiative courante** : [[g1-g2-qualification-kit|G1→G2 Qualification Kit]] — **16 livrables LIVRÉS 2026-04-20** en 3 sprints (~6h Claude autonome). Premier G1 scorecard : **7 PASS / 3 FAIL / 3 N/A**. Verdict G1 : FAIL. Détails : [[sessions/2026-04-20-g1-g2-kit-build|session log]].
+
+**3 FAIL à résoudre** :
+1. `economic_thesis_validated` — attend user review + sentinel `THESIS VALIDATED`
+2. `capacity_at_5pct_loss_usd` — critère structurellement impossible avec TC réaliste, à redefine
+3. `factor_max_exposure_frac` — 100% cluster "unknown", root cause : signal_log.reason manque city
+
+**3 N/A à monitorer** :
+- `alpha_decay_half_life_days` — TTR uniforme < 72h, critère N/A pour short-TTR markets Polymarket
+- `tc_model_calibrated` — 1 fill, débloque post-G3
+- `correlation_drift_ks_p` — pas de labels city
+
+**Launchd total** : 36 actifs (+ gate_scorecard daily 08:00 nouveau)
 
 **Score audit** : **~82/100** vs "hedge fund grade" générique, **~30/100** vs "énorme hedge fund" (Jane Street weather). Gap principal = **data privée + real money + équipe**, pas l'architecture.
 
