@@ -20,14 +20,14 @@ Tracker d'exécution détaillée des 16 livrables du [[g1-g2-qualification-kit]]
 - `blocked` — attente externe (user, API, data)
 - `skipped` — déscopé avec raison
 
-## Sprint 1 — Research Governance (4h)
+## Sprint 1 — Research Governance (4h) — DONE 2026-04-20
 
 | ID | Livrable | Path | Status | Check |
 |---|---|---|---|---|
 | B1 | Economic thesis draft | `vault/brantham/polymarket/economic-thesis.md` | `done` (DRAFT) → blocked (user review) | `grep -q "THESIS VALIDATED" vault/brantham/polymarket/economic-thesis.md` |
-| B4 | Research log + wrapper | `research/hypotheses.jsonl` + `scripts/log_hypothesis.py` | `pending` | `test -f /Users/paul/polymarket-hedge/scripts/log_hypothesis.py && uv run scripts/log_hypothesis.py --list \| head -1` |
-| B2 | Failure modes catalog | `vault/brantham/polymarket/failure-modes.md` | `done` (DRAFT) | `wc -l vault/brantham/polymarket/failure-modes.md` |
-| B3 | Strategy lifecycle | `vault/brantham/polymarket/strategy-lifecycle.md` | `done` (DRAFT) | `wc -l vault/brantham/polymarket/strategy-lifecycle.md` |
+| B4 | Research log + wrapper | `research/hypotheses.jsonl` + `scripts/log_hypothesis.py` | `done` (12 pre-logged) | `uv run scripts/log_hypothesis.py stats` |
+| B2 | Failure modes catalog | `vault/brantham/polymarket/failure-modes.md` | `done` (12 modes) | `wc -l vault/brantham/polymarket/failure-modes.md` |
+| B3 | Strategy lifecycle | `vault/brantham/polymarket/strategy-lifecycle.md` | `done` (sentinel OK) | `grep -q "LIFECYCLE READY" vault/brantham/polymarket/strategy-lifecycle.md` |
 
 ## Sprint 2 — Validation Core & Robustness (10h)
 
