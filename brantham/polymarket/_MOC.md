@@ -40,6 +40,7 @@ Construire un système de trading **100% data-driven** sur Polymarket avec :
 - [[economic-thesis|Economic thesis — DRAFT needs user review]]
 - [[failure-modes|Failure modes catalog]]
 - [[strategy-lifecycle|Strategy lifecycle — sunset criteria]]
+- [[feature-rejection-log|Feature rejection log — validation empirique 2026-04-20]]
 
 ## Contenu
 
