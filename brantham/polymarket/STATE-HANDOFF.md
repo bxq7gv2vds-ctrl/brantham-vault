@@ -1,423 +1,249 @@
 ---
 name: State Handoff — Polymarket Hedge Fund
-description: Document de transmission complet pour prochaine session — tout ce qu'il faut savoir pour reprendre sans perte de contexte
+description: Document de transmission complet — tout ce qu'il faut savoir pour reprendre la prochaine session sans perte de contexte
 type: handoff
-created: 2026-04-18
-tags: [polymarket, handoff, state, continuity]
+updated: 2026-04-20
 priority: critical
+tags: [polymarket, handoff, state, continuity]
 ---
 
 # 📋 State Handoff — Polymarket Hedge Fund
 
-**À LIRE EN PRIORITÉ dans toute nouvelle session** — ce doc + [[_MOC]] = state complet.
+**À LIRE EN PRIORITÉ dans toute nouvelle session.** Ce doc est à jour au 2026-04-20 après 3 sessions de refonte massive.
 
-## TL;DR système actuel
+## TL;DR
 
-**Status** : Pipeline hedge fund grade opérationnel en paper shadow autonome.
-- 7 sessions de dev le 2026-04-17 + session overnight 2026-04-18 (~12h cumulées)
-- ~6 500+ lignes Python + ~5 500 lignes markdown vault
-- 14 commits git sur main (après overnight upgrades)
-- **9 launchd jobs autonomes** (après ajout bma-train, xgb-retrain, reconcile-obs)
-- **Paper shadow vient de produire 199 premiers outcomes** : WR 84.4 % (+$882 paper)
-- Pas encore de capital réel déployé
+**Status** : Pipeline alpha hedge-fund-grade avec 35 launchd jobs autonomes, 12 sources NWP (dont GraphCast/AIFS/NBM/UKMO/CMA), 37 features engineered, 46 per-station XGB, 11 per-city calibrators, 4 regime HMM, tail filter critique.
 
-**Next milestone** : A/B test `use_xgb_post=True` sur 7j de paper shadow, puis real money $500.
+**Dernière session** : feature engineering massif (diurnal / synoptic / soil moisture) + MLflow + MC VaR + Pangu scaffold en attente du fichier ONNX.
 
-**Dernier bug attrapé** : CONFIRMED_YES utilisait prev_day comme proxy pour target_date UTC
-incomplet → perdait 100 %. Fix committed (1822e6c). Voir
-[[sessions/2026-04-18-overnight-model-upgrades|session overnight 2026-04-18]].
+**Score audit** : **~82/100** vs "hedge fund grade" générique, **~30/100** vs "énorme hedge fund" (Jane Street weather). Gap principal = **data privée + real money + équipe**, pas l'architecture.
 
-**Ensemble stacking dispo (BMA + XGBoost + DRN)** : flag `--use-ensemble` dans run_alpha_live.
-Baseline tourne inchangé par défaut — zero regression risk.
+**Bloquants user** :
+1. ⏳ **Pangu-Weather ONNX** — user s'est engagé à fournir le fichier → drop à `models/pangu_24h.onnx`
+2. 🔴 **ERA5 via Copernicus** (account + `~/.cdsapirc`)
+3. 🔴 **Polymarket wallet** + `POLY_PRIVATE_KEY` + `uv add py-clob-client`
+4. 🟡 **Avocat crypto FR** avant $10k real
 
-**Safety nets** :
-- `alpha_states` table + `persist_signal()` kill switch : `drift_monitor.py` disable auto si drift >8pts ou ECE >0.20.
-- `calibration_report.py` daily : Brier / ECE / log loss par alpha_type, markdown vers vault/reports/.
-- `reconcile_from_obs.py` settle paper shadow sans dépendre de market_resolutions.
+## Architecture en place
 
-## Architecture état actuel
-
+### Pipeline de décision d'un signal (ordre d'application)
 ```
-Layer 1 DATA HUB        → ✅ 3,919 NWP forecasts, 1,465 METAR obs, 46 stations
-Layer 2 MODEL HUB       → ✅ EMOS + BMA (passthrough), DRN/Transformer scaffolds
-Layer 3 ALPHA LAYERS    → ✅ CONFIRMED + MODEL_VS_MARKET + sum_arb + city_strategies
-Layer 4 RISK            → ✅ Kelly correlation + kill switch + per-city caps
-Layer 5 EXECUTION       → ✅ latency profiler + order_manager + slippage + dashboard
-Layer 6 VALIDATION      → ✅ paper_shadow + reconcile + drift monitor
-Layer 7 MONITORING      → ✅ Prometheus + HTML dashboard + Telegram
+1. TTR + volume + freshness gates
+2. NWP forecast(icao, target_date) via forecast_cache 6h
+3. EMOS per-station (506 buckets, CRPS médian 0.35°C)
+4. BMA per-station (12 sources weighted, 152k samples training)
+5. XGBoost station (46 models) OU region (10 models)
+6. DRN ensemble (weight 0 tant que pas ERA5 — polluait)
+7. Regime selector V1 (12 buckets) OU V2 (XGB continuous)
+8. Ensemble mixture moment-matched → (μ, σ)
+9. Tail filter (rejette YES "Above N" si > climo+2σ) ← 95/95 historic losses blocked
+10. Isotonic calibration per-city (11 villes) → fallback global
+11. Volatility filter city > zone > hard cap
+12. Regime HMM Kelly multiplier (CALM ×1.0, TRANSITION ×0.8, STORMY ×0.4)
+13. City config DISABLED/SHADOW/ENABLED + per-city Kelly fraction
 ```
 
-## Modules livrés
+### Modules alpha livrés (`src/pmhedge/alpha/`)
+| Module | Rôle |
+|---|---|
+| `data_hub.py` | schema + connect + alpha_states kill-switch |
+| `nwp_sources.py` | 12 sources (GraphCast/AIFS/NBM/UKMO/CMA/GEFS/ICON/ECMWF/JMA/HRRR/AROME/ICON_EU) |
+| `emos.py` | Gneiting 2005 per-station × month |
+| `bma.py` | Bayesian model averaging per station |
+| `xgboost_post.py` | résiduel regional + per-station + feature extended flag |
+| `feature_engineering.py` | 37 features (climato + lag + UHI + cross-station + **diurnal** + **synoptic** + **soil**) |
+| `diurnal_features.py` | t_prev_{06,12,15,18}z + slopes + range + t_so_far |
+| `synoptic_features.py` | ONI/NAO/AO/PNA teleconnections |
+| `soil_moisture.py` | sm_0_7cm + sm_7_28cm + aridity_z |
+| `calibration.py` | isotonic K-fold OOS global + per-city |
+| `volatility_filter.py` | sigma threshold per (alpha, zone OR city) |
+| `tail_filter.py` | reject YES tail bets > climo+2σ |
+| `regime_hmm.py` | Gaussian HMM 3 states (CALM/TRANSITION/STORMY) |
+| `regime_selector.py` + `regime_selector_v2.py` | ensemble weights par régime |
+| `quantile_model.py` | LightGBM-style XGBoost quantile regression (DISABLED par défaut, hurt Brier) |
+| `conformal.py` | split conformal shifts (marche avec quantile seulement) |
+| `champion_challenger.py` | registry promote if better |
+| `pair_arb.py` | cross-station stat-arb (5 signals so far) |
+| `convex_arb.py` | same-station bracket non-monotonicities (opt-in) |
+| `orderbook_imbalance.py` | microstructure (opt-in, books thin) |
+| `kalshi_client.py` | cross-venue framework (bloqué user auth) |
+| `risk_manager.py` | Kelly + circuit breaker hysteresis + cooldown |
+| `city_config.py` | per-city status/kelly/size_cap |
+| `audit.py` | audit_log + tax_lots FIFO |
+| `model_registry.py` | model_runs table + mirror MLflow |
+| `mlflow_logger.py` | wrapper graceful fallback |
+| `gmm_forecast.py` | 2-component Gaussian mixture (dormant) |
+| `pangu_forecaster.py` | **scaffold en attente du fichier ONNX user** |
 
-### `src/pmhedge/alpha/` (18 modules)
-- `data_hub.py` — schema DB unifié + writers/readers
-- `nwp_sources.py` — multi-source (GEFS+ICON+ECMWF+HRRR+ICON-EU+AIFS)
-- `metar_archive.py` — 30-day rolling archive
-- `orderbook.py` — Polymarket CLOB WebSocket + REST
-- `polymarket_client.py` — Gamma API parser
-- `freshness.py` — health monitor + kill switch
-- `emos.py` — Gneiting 2005 calibration
-- `bma.py` — Bayesian Model Averaging
-- `model_prob.py` — pipeline EMOS+BMA → P(T_max)
-- `signal_generator.py` — MODEL_VS_MARKET alpha
-- `confirmed_oracle.py` — CONFIRMED_YES/NO alpha
-- `sum_arb.py` — sum-to-1 scanner
-- `risk_manager.py` — correlation Kelly + caps
-- `paper_shadow.py` — validation mode
-- `city_strategies.py` — 10 profils (Mexico City Kelly 0.82)
-- `edge_filter.py` — pocket registry (via src/pmhedge/strategy/)
-- `metrics.py` — Sharpe/Sortino/Calmar/VaR
-- `backtest.py` — unified engine + walk-forward
-- `report.py` — markdown reports
-- `xgboost_post.py` — XGBoost skeleton
-
-### `src/pmhedge/deep_learning/` (4 modules)
-- `drn.py` — Distributional Regression Network (PyTorch MPS)
-- `transformer.py` — Temporal transformer (27K params)
-- `ppo_execution.py` — PPO RL agent scaffold
-- `llm_reasoning.py` — Claude API rare-event detection
-
-### `src/pmhedge/execution/` (5 modules)
-- `latency.py` — profiler P50/P95/P99 persisté DB
-- `slippage.py` — EMA per-market learner
-- `order_manager.py` — post-only + cancel-replace
-- `metrics.py` — Prometheus exporter :9090
-- `dashboard.py` — FastAPI + SSE HTML :8080
-
-### Scripts opérationnels (~15)
-Dans `/Users/paul/polymarket-hedge/scripts/` :
-- `seed_stations.py` — 46 stations seeded
-- `ingest_nwp_daily.py` — cron 4x/jour ingestion
-- `archive_metar.py` — cron 2h rolling archive
-- `populate_market_resolutions.py` — 1,886 resolutions backfilled
-- `health_check.py` — 15min cron + Telegram
-- `run_alpha_live.py` — **main orchestrator continuous (KeepAlive)**
-- `backfill_era5.py` — ERA5 download (bloqué user)
-- `alpha_backtest.py` — unified backtest CLI
-- `reconcile_and_report.py` — daily 09:15 cron
-- `train_xgboost_post.py` — XGBoost training (bloqué ERA5)
-- `train_drn.py` — DRN training (bloqué ERA5)
-- `city_focused_backtest.py` — Top 10 villes projection
-- `debug_unknown_pocket.py`, `backtest_edge_filter*.py`
-
-### Launchd jobs autonomes (5 actifs)
-
+### Launchd jobs (35 actifs)
 ```
-~/Library/LaunchAgents/com.paul.polymarket-alpha-*.plist
+live-runner (KeepAlive 300s) · nwp-ingest (4x/jour) · metar-archive (2h) · 
+health-check (15min) · circuit-breaker (15min) · prom-exporter (KeepAlive) ·
+db-snapshot (03:00) · audit-prune (02:30) · synoptic-fetch (02:00) ·
+soil-ingest (03:30) · calibrators-train (04:15) · city-calibrators (04:20) ·
+vol-filter (04:30) · emos-train (Mon 04:45) · regime-train (Tue 04:45) ·
+regime-v2-train (Wed 04:45) · pair-corr (Wed 05:00) · quantile-train (Thu 05:00) ·
+conformal (Thu 05:30) · station-xgb (Fri 05:15) · hmm-train (Fri 05:30) ·
+ensemble-train (Mon 04:30) · bma-train (daily 03:30) · xgb-retrain (weekly) ·
+precompute (every 6h) · reconcile-obs (09:10) · reconcile (09:15) ·
+calibration-report (09:30) · perf-metrics (09:30) · drift-monitor (10:00) ·
+city-audit (10:00) · city-kelly (10:10) · mc-var (09:50) · attribution (09:45) ·
+validator (10:30)
 ```
 
-| Job | Fréquence | Action |
+## État des données
+
+| Table | Count |
+|---|---|
+| `nwp_forecasts` | ~310 000 rows (12 sources × 46 stations × 1 an) |
+| `nwp_ensemble_blend` | ~17k rows |
+| `obs_temperature` | 510 000 rows (365j ARCHIVE + METAR + WU) |
+| `signal_log` | 1 584 |
+| `signal_outcomes` | **992 resolved** |
+| `synoptic_indices` | 915 mois × 4 = 3 660 |
+| `soil_moisture` | 60 rows (growing) |
+| `emos_params` | 506 buckets |
+| `bma_weights` | 47 stations × 12 sources |
+| `city_config` | 26 (3 DISABLED, 2 SHADOW, 21 ENABLED) |
+| `calibrators` (global) | 1 |
+| `calibrators_city` | 11 |
+| `volatility_thresholds` + `_city` | 2 + 2 |
+| `ensemble_weights_regime` | 12 × 3 |
+| `pair_correlations` (filtered meanΔ≤5°C) | 28 |
+| `alpha_states` | toutes ENABLED sauf __CIRCUIT_BREAKER__ clean |
+| `audit_log` | active avec retention 90j |
+| `model_runs` | Optuna + training runs |
+
+## Villes critiques
+
+| Status | Villes | Raison |
 |---|---|---|
-| alpha-live-runner | KeepAlive (loop 300s) | Scan + signals |
-| alpha-nwp-ingest | 4x/jour 01:30/07:30/13:30/19:30 | NWP ingestion |
-| alpha-metar-archive | Every 2h | METAR rolling |
-| alpha-health-check | Every 15min | Telegram alerts |
-| alpha-reconcile | Daily 09:15 | Paper shadow report |
+| **DISABLED** | Tokyo (83, 0% WR), Chicago (41, 34%), NYC (22, CI<30%) | losers confirmés |
+| **SHADOW** (×0.2 size) | Dallas (77, 77%), Miami (61, mixed) | marginaux |
+| **Kelly 0.50** | atlanta, austin, beijing, denver, houston, KL, lucknow, LA, paris, SF, shenzhen, tel aviv, HK, mexico city | validated winners |
+| **Kelly 0.25** (N<10) | ankara, helsinki, chongqing, taipei, seoul, madrid, moscow | exploration |
 
-Copies versionnées : `deploy/launchd-alpha/*.plist`
+## Dernières findings critiques
 
-## Git commits (5)
+### 1. Ablation révèle que quantile + conformal HURT
+- Gaussian + calibration per-city: Brier **0.0815** (best)
+- Full stack quantile+conformal: Brier 0.1010 (worse 24%)
+- **Défaut actuel** : `use_calibration=True`, `use_quantile=False`, `use_volatility_filter=True`
 
-```
-596ad78 feat(alpha): hedge fund grade architecture (18 modules)
-7535278 fix(alpha): quality gates + city_strategies integration
-8b34917 ops(launchd): alpha subsystem cron jobs (5 plists)
-e3dfcbc feat(deep-learning): DRN + Transformer + PPO + LLM + AIFS
-XXXXXXX feat(execution): latency + orders + slippage + metrics + dashboard
-```
+### 2. Tail filter bloque Tokyo/NYC pattern
+- 80 signaux Tokyo "Above 26°C" avril (climato 16°C) : 0 wins — YES tails over-estimate
+- `pmhedge.alpha.tail_filter.is_tail_bet()` rejette `YES` avec `bracket_lo > climo + 2·std`
+- Empirical 95/95 losses preempted
 
-## Databases
+### 3. DRN pollue l'ensemble tant que pas ERA5
+- Val CRPS DRN 1.22 vs BMA 0.48, XGB 0.40
+- `DRN_DISABLED_UNTIL_ERA5 = True` dans `train_ensemble_weights.py` et `train_regime_selector.py`
+- Weight = 0 dans `ensemble_weights` et `ensemble_weights_regime`
 
-| DB | Path | Rows clés |
-|---|---|---|
-| `bracket_scalper_trades.db` | /Users/paul/polymarket-hedge/ | 6,740 paper trades settled |
-| `alpha_data_hub.db` | /Users/paul/polymarket-hedge/ | 46 stations, 3,919 NWP, signal_log |
-| `pmhedge.db` | /Users/paul/polymarket-hedge/ | 1,886 market_resolutions |
-| `all_markets.db` | /Users/paul/polymarket-hedge/ | 22k markets, 702k price_bars |
-| `emos_cache.db` | /Users/paul/polymarket-hedge/ | 468 EMOS params (legacy) |
-
-## Résultats backtest paper (2026-04-17)
-
-**City-focused backtest, bankroll $10k, 10.5 jours** :
-- Total N=475 trades, P&L +$3,557 (ROI 6.34%)
-- **Annuel extrapolé : $728,438** (paper naïf)
-- **Réaliste ÷5 : $145,688/an** (1,458% ROI)
-- **Très bearish ÷10 : $72,844/an** (728% ROI)
-
-**Top 5 villes** :
-1. Denver : $238k/an (WR 99.2%, 127 trades)
-2. Mexico City : $228k/an (WR 98.3%, Kelly 0.82)
-3. Madrid : $172k/an (WR 90.9%)
-4. Miami : $46k/an (WR 100%)
-5. San Francisco : $20k/an (WR 100%)
-
-**Live scan récent** : 366 markets → 18 candidats → 10 approved → $169 exposure sur $1k bankroll.
-
-## Bloquants utilisateur (priorité ordre)
-
-### 🔴 CRITIQUE (bloque Phase ML)
-1. **Compte Copernicus CDS** — https://cds.climate.copernicus.eu/
-   - Créer compte
-   - Accepter license ERA5 hourly single levels
-   - Créer `~/.cdsapirc` :
-     ```
-     url: https://cds.climate.copernicus.eu/api
-     key: <UID>:<TOKEN>
-     ```
-
-### 🟡 POUR LIVE EXECUTION (bloque real money)
-2. **Polymarket wallet funded** — $500-1000 initial
-3. **Private key** dans `.env` :
-   ```
-   POLY_PRIVATE_KEY=0x...
-   POLY_API_KEY=... (optional for rebates)
-   ```
-4. **py-clob-client install** : `uv add py-clob-client`
-
-### 🟢 NICE-TO-HAVE
-5. **ANTHROPIC_API_KEY** env — pour LLM reasoning live
-6. **Hetzner GPU** €200/mo pour Transformer training scale
-7. **AWS us-east-1 VPS** pour latency colocation (quand >$10k capital)
-
-## Tasks pending (next session)
-
-### Phase ML (dépend ERA5)
-- [ ] `backfill_era5.py --years 5` (~1-3h download)
-- [ ] `train_drn.py` → models/drn.pt
-- [ ] `train_xgboost_post.py` → models/xgb_postproc_*.json
-- [ ] A/B test DRN vs EMOS sur paper shadow 7j
-- [ ] Swap EMOS → DRN dans `model_prob.py` (feature flag)
-- [ ] Transformer training (Mac MPS ~5-10h ou GPU cloud)
-- [ ] Meta-learning regime-aware model selector
-- [ ] MLflow experiment tracking
-- [ ] Feature store (Feast ou custom SQLite)
-- [ ] Diffusion model GenCast-style (stretch)
-
-### Phase Execution
-- [ ] **Pre-compute forecasts cron** (6h interval) — scan latency <200ms
-- [ ] **Batch inference module** (multi-market 1 call)
-- [ ] **Model inference caching TTL 1h** (SQLite hot table)
-- [ ] **Multi-RPC supervisor** Polygon (Infura + Alchemy + own)
-- [ ] **WS orderbook daemon launchd** (continuous 24/7)
-- [ ] **py-clob-client live integration** (après user auth)
-- [ ] Hardware wallet Ledger integration
-- [ ] AWS us-east-1 deployment
-- [ ] Grafana + Prometheus stack (Docker compose)
-
-### Phase Monitoring
-- [ ] Daily auto-report vers vault/brantham/polymarket/reports/YYYY-MM-DD.md
-- [ ] Weekly review script (vendredi soir)
-- [ ] Drift alert si WR drift >5pts
-- [ ] P&L candlestick historical tracking
-
-### Phase Universe expansion
-- [ ] Sport markets (NBA, soccer)
-- [ ] Crypto markets (BTC price brackets)
-- [ ] Politics markets
-- [ ] Multi-venue routing (Kalshi, Manifold)
-
-### Phase Edge discovery
-- [ ] Pangu-Weather ONNX inference local
-- [ ] GraphCast via Google
-- [ ] Foundation model Aurora (Microsoft, stretch)
-- [ ] Radar MRMS nowcast <6h
-- [ ] Cross-market pairs stat-arb NYC↔Boston
-- [ ] Orderbook imbalance microstructure alpha
+### 4. Chicago drop 100% → 34% sur N=11 → N=41
+- Overfit small-sample classique
+- Per-city calibrator absorbed: Brier 0.51 → 0.05 après fit
 
 ## Commandes essentielles
 
-### Status quotidien
+### Sanity checks reprise session
 ```bash
-# Santé du système
-uv run scripts/health_check.py
+cd /Users/paul/polymarket-hedge
 
-# Vérifier launchd
-launchctl list | grep polymarket-alpha
+# 1. Launchd OK ? (35 jobs attendus)
+launchctl list | grep polymarket-alpha | wc -l
 
-# Dashboard live
-uv run python -m pmhedge.execution.dashboard  # http://localhost:8080
+# 2. Validator 8/8 ?
+KMP_DUPLICATE_LIB_OK=TRUE uv run scripts/validate_strategy.py --skip-pytest
 
-# Metrics Prometheus
-uv run python -m pmhedge.execution.metrics  # http://localhost:9090/metrics
+# 3. Data freshness
+sqlite3 alpha_data_hub.db "SELECT source, status, datetime(last_success,'unixepoch','localtime') FROM data_freshness;"
 
-# Reconcile + daily report
-uv run scripts/reconcile_and_report.py --alert
+# 4. Circuit breaker
+sqlite3 alpha_data_hub.db "SELECT alpha_type, status, reason FROM alpha_states;"
+
+# 5. Outcomes recent count
+sqlite3 alpha_data_hub.db "SELECT date(emit_ts,'unixepoch') AS d, COUNT(*) FROM signal_log GROUP BY d ORDER BY d DESC LIMIT 5;"
+
+# 6. Logs live runner
+tail -30 /Users/paul/polymarket-hedge/logs/alpha-live.log
+
+# 7. Test live scan
+KMP_DUPLICATE_LIB_OK=TRUE uv run scripts/run_alpha_live.py --once --no-telegram --min-edge 0.05 --bankroll 1000
 ```
 
-### Query DB
+### Entraînement complet (après changement de features)
 ```bash
-# Signaux émis aujourd'hui
-sqlite3 /Users/paul/polymarket-hedge/alpha_data_hub.db "
-SELECT alpha_type, side, entry_price, est_prob, edge, size_usdc
-FROM signal_log WHERE emit_ts >= strftime('%s','now','start of day')
-ORDER BY emit_ts DESC LIMIT 20;"
-
-# NWP freshness
-sqlite3 /Users/paul/polymarket-hedge/alpha_data_hub.db "
-SELECT source, status, datetime(last_success,'unixepoch') FROM data_freshness;"
-
-# Top cities all-time P&L
-sqlite3 /Users/paul/polymarket-hedge/bracket_scalper_trades.db "
-SELECT city, COUNT(*) n, ROUND(SUM(pnl),2) pnl
-FROM scalper_signals WHERE resolved=1 GROUP BY city ORDER BY pnl DESC LIMIT 10;"
-
-# Latency stats live
-uv run python -c "from pmhedge.execution.latency import report_markdown; print(report_markdown())"
+# Dans l'ordre :
+KMP_DUPLICATE_LIB_OK=TRUE uv run scripts/train_emos_per_station.py
+KMP_DUPLICATE_LIB_OK=TRUE uv run scripts/train_bma.py --days 365
+KMP_DUPLICATE_LIB_OK=TRUE uv run scripts/train_xgb_per_station.py
+KMP_DUPLICATE_LIB_OK=TRUE uv run scripts/train_xgboost_post.py --obs-source ARCHIVE
+KMP_DUPLICATE_LIB_OK=TRUE uv run scripts/train_calibrators.py
+KMP_DUPLICATE_LIB_OK=TRUE uv run scripts/train_city_calibrators.py
+KMP_DUPLICATE_LIB_OK=TRUE uv run scripts/train_regime_hmm.py
+uv run scripts/audit_per_city.py --apply --quiet
+uv run scripts/compute_city_kelly.py
 ```
 
-### Backtest
+### Ablation study
 ```bash
-uv run scripts/alpha_backtest.py --bankroll 10000
-uv run scripts/city_focused_backtest.py --bankroll 10000
+# Global (N=400 outcomes sampled)
+KMP_DUPLICATE_LIB_OK=TRUE uv run scripts/ablation_study.py --max-rows 400
+# Per-city
+KMP_DUPLICATE_LIB_OK=TRUE uv run scripts/ablation_study.py --per-city --window 30
 ```
 
-### Scan manuel
-```bash
-uv run scripts/run_alpha_live.py --once --no-telegram --min-edge 0.04 --bankroll 1000
-```
+## Ce qui attend
 
-## Structure vault (cross-linked wikilinks)
+### 🎯 Priorité immédiate prochaine session
+1. **Drop Pangu ONNX** à `models/pangu_24h.onnx` → 5 min wire via scaffold en place
+2. Re-run ablation post-Pangu pour voir +15% CRPS attendu
+3. Backfill Pangu sur 1 an pour enrichir BMA weights
 
-```
-vault/brantham/polymarket/
-├── _MOC.md                    (INDEX principal)
-├── STATE-HANDOFF.md           (ce doc — PRIORITÉ)
-├── architecture.md            (4 couches classique)
-├── deep-learning-roadmap.md   (7 couches SOTA)
-├── execution-playbook.md      (16 dimensions opti)
-├── quick-start.md             (commandes pratiques)
-├── data-sources.md            (inventaire par région)
-├── findings.md                (diagnostics edges)
-├── decisions.md               (15 décisions archi)
-├── questions.md               (93 questions framework)
-├── roadmap.md                 (phases 0-5 classique)
-├── sessions/
-│   ├── 2026-04-17-diagnostic-and-alpha-engine.md    (#1)
-│   ├── 2026-04-17-phase1-data-foundation.md         (#2)
-│   ├── 2026-04-17-phase1-live-runner.md             (#3)
-│   ├── 2026-04-17-phase1-risk-orderbook.md          (#4)
-│   ├── 2026-04-17-phase2-completion.md              (#5)
-│   ├── 2026-04-17-city-focused-analysis.md          (#6)
-│   └── 2026-04-17-deep-learning-foundation.md       (#7)
-├── reports/
-│   ├── city-focused-projection-2026-04-17.md
-│   ├── alpha-backtest-2026-04-17.md
-│   ├── alpha-backtest-2026-04-17.trades.csv
-│   └── paper-2026-04-17.md
-├── backtest-results/ (future)
-└── data-sources/ (future)
-```
+### Non attaqués (faisables solo)
+- **Transformer temporel MPS** (5-10h training sur 1 an)
+- **Aurora Microsoft ONNX** (1 jour integration)
+- **Walk-forward strict** (déjà covered par signal_outcomes par construction)
+- **CI/CD GitHub Actions** (3h)
+- **Postgres migration** (SQLite ~30 MB OK pour l'instant)
+- **Docker compose full** (4h)
 
-## Commandes prochaine session (priorité)
+### Bloqués attente temps réel
+- **Sharpe live crédible** : besoin de 20+ jours distincts de P&L (actuellement 2 jours)
+- **VaR Monte Carlo** : idem, dormant jusqu'à N≥5 days distincts
+- **Champion/Challenger shadow 10%** : attendre que challenger soit enregistré
 
-Quand tu reprends, check cet ordre :
+### Bloqués user
+- ERA5 Copernicus → débloque DRN SOTA + vraie ground truth
+- Wallet Polymarket + `py-clob-client` → real money 
+- Avocat crypto FR → compliance > $10k
+- Pangu ONNX file (user a promis)
 
-```bash
-# 1. Status launchd
-launchctl list | grep polymarket-alpha
+### Hors scope solo
+- Mesonet US dense ($500/mo Synoptic)
+- GOES-18 / Himawari / Meteosat direct (500 GB+)
+- MRMS radar NEXRAD
+- Colocation AWS us-east-1 ($200/mo)
+- GPU Hetzner GEX44 (€200/mo)
+- Private feeds Vaisala ($50k/an)
+- Équipe 5-20 quants PhD
 
-# 2. Logs récents
-tail -50 /Users/paul/polymarket-hedge/logs/alpha-live.log
-tail -20 /Users/paul/polymarket-hedge/logs/alpha-health.log
+## Sessions associées
 
-# 3. Count signals last 24h
-sqlite3 /Users/paul/polymarket-hedge/alpha_data_hub.db \
-  "SELECT COUNT(*) FROM signal_log WHERE emit_ts >= strftime('%s','now') - 86400;"
-
-# 4. Latency observée
-uv run python -c "from pmhedge.execution.latency import report_markdown; print(report_markdown())"
-
-# 5. Paper shadow resolved count
-sqlite3 /Users/paul/polymarket-hedge/alpha_data_hub.db \
-  "SELECT COUNT(*) FROM signal_outcomes;" 2>/dev/null || echo "0 resolved yet"
-```
-
-## Contexte business
-
-- **Projet parent** : Brantham Partners (M&A distressed PME France)
-- **Polymarket = side project trading** — objectif capital personnel
-- **Paul Roulleau** : tech/product, 1 personne sur ce projet
-- **Location** : `/Users/paul/polymarket-hedge/`
-- **Email** : paul.roulleau@branthampartners.fr
-- **Jurisdiction** : France (Polymarket bloqué US, OK EU avec compliance)
-- **Tolérance risque** : small start $500-1k → scale si valide
-
-## Métriques success
-
-### Paper shadow phase (maintenant → +30j)
-- [ ] Drift < 5 pts (realized WR vs expected)
-- [ ] Signaux émis régulièrement (>5/jour)
-- [ ] Health check 100% OK
-- [ ] Sum-arb detecté (si actif après CLOB WS daemon)
-
-### Live small phase (mois 2-3)
-- [ ] $500 real capital deployed
-- [ ] 7j first trades OK (no systemic bugs)
-- [ ] Slippage < 200bps mediane
-- [ ] Daily P&L positive >50% des jours
-
-### Scale phase (mois 4+)
-- [ ] $10k bankroll
-- [ ] $75-150k/an run-rate (réaliste)
-- [ ] ML stack (DRN) beats EMOS baseline
-
-## Si quelque chose casse
-
-### Live runner crash
-```bash
-launchctl unload ~/Library/LaunchAgents/com.paul.polymarket-alpha-live-runner.plist
-launchctl load ~/Library/LaunchAgents/com.paul.polymarket-alpha-live-runner.plist
-tail -100 /Users/paul/polymarket-hedge/logs/alpha-live.log
-```
-
-### NWP source DOWN
-- Open-Meteo down → scan continues avec cached data
-- METAR down → t_max_prev_utc_day unavailable → CONFIRMED skip
-- AIFS down → fallback sur autres sources dans ensemble
-
-### Signal aberrant
-- max_edge cap = 0.40 déjà actif
-- min_ensemble_members = 20 actif
-- Edit `src/pmhedge/alpha/signal_generator.py` `SignalGenConfig` pour ajuster
-
-### DB lock/corruption
-- `alpha_data_hub.db` : WAL mode, automatic recovery
-- Backup quotidien recommandé : `cp alpha_data_hub.db backups/$(date +%F).db`
-
-## Contacts + liens externes
-
-- Polymarket docs : https://docs.polymarket.com/
-- Open-Meteo API : https://open-meteo.com/en/docs
-- Copernicus CDS : https://cds.climate.copernicus.eu/
-- NOAA NOMADS : https://nomads.ncep.noaa.gov/
-- Telegram bot : check `.env` `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID`
-
-## Instructions pour prochaine session Claude
-
-**Au démarrage** :
-1. Lire ce doc STATE-HANDOFF.md en premier
-2. Lire [[_MOC|Polymarket Hub MOC]]
-3. Check launchd status + logs récents
-4. Demander user : as-tu fait ERA5 setup ? as-tu des questions ?
-
-**Priorités immédiates** :
-1. Vérifier que le système tourne (launchd + logs)
-2. Compter les signaux 24h (si <10, debug)
-3. Check paper shadow resolved count (devrait augmenter)
-4. Si rien cassé → continuer roadmap ML (Phase 2)
-
-**Ne PAS** :
-- Refaire le diagnostic (déjà fait dans findings.md)
-- Recréer les modules alpha/ (déjà livrés)
-- Demander à l'utilisateur des infos déjà dans ce doc
+- [[sessions/2026-04-19-hedge-fund-grade-upgrades|Session 1 — architecture hedge fund]]
+- [[sessions/2026-04-19-critical-review-and-fixes|Session 2 — critical review 52/100 → 65/100]]
+- [[sessions/2026-04-19-per-city-optimization|Session 3 — diagnostic Tokyo/Chicago per-ville]]
+- [[sessions/2026-04-19-backfill-scale-up|Session 4 — backfill 1 an + 46 per-station XGB]]
+- [[sessions/2026-04-19-ml-sota-integration|Session 5 — GraphCast/AIFS/NBM/UKMO/CMA via Open-Meteo]]
+- [[sessions/2026-04-19-overnight-model-upgrades|Session overnight]]
 
 ## Related
 
-- [[_MOC|Polymarket Hub (index)]]
-- [[architecture|Architecture classique]]
-- [[deep-learning-roadmap|Deep Learning Roadmap]]
-- [[execution-playbook|Execution Playbook]]
-- [[quick-start|Quick-start opérationnel]]
-- [[findings|Findings diagnostic]]
+- [[_MOC|Polymarket Hub MOC]]
+- [[audit-hedge-fund-grade|Audit détaillé gaps]]
+- [[architecture|Architecture classique 4 couches]]
+- [[deep-learning-roadmap|Deep Learning roadmap]]
+- [[TODO-pending|TODO priorisé]]
 - [[decisions|Décisions archi]]
-- [[roadmap|Roadmap phases]]
