@@ -26,9 +26,20 @@ Construire un système de trading **100% data-driven** sur Polymarket avec :
 ## ⚡ Point d'entrée nouvelle session
 
 1. **[[STATE-HANDOFF|🎯 STATE-HANDOFF]]** — état complet système (LIRE EN PREMIER)
-2. **[[audit-hedge-fund-grade|📊 Audit hedge fund grade]]** — gap analysis 10 dimensions, score 56/100
-3. **[[TODO-pending|📋 TODO Pending]]** — tâches restantes priorisées (par ROI × bloquants)
-4. **[[quick-start|Quick-start]]** — commandes opérationnelles
+2. **[[g1-g2-qualification-kit|G1→G2 Qualification Kit]]** — framework actuel de qualification (initiative en cours)
+3. **[[g1-g2-todo-tracker|G1→G2 Todo Tracker]]** — état d'exécution des 16 livrables
+4. **[[audit-hedge-fund-grade|📊 Audit hedge fund grade]]** — gap analysis 10 dimensions, score 56/100
+5. **[[TODO-pending|📋 TODO Pending]]** — tâches restantes priorisées
+6. **[[quick-start|Quick-start]]** — commandes opérationnelles
+
+## Qualification Kit G1→G2 (initiative courante)
+
+- [[g1-g2-qualification-kit|Framework master — 16 livrables, 5 packages]]
+- [[g1-g2-todo-tracker|Execution tracker]]
+- [[gate-scorecard-spec|Gate scorecard — spec critères quantitatifs]]
+- [[economic-thesis|Economic thesis — DRAFT needs user review]]
+- [[failure-modes|Failure modes catalog]]
+- [[strategy-lifecycle|Strategy lifecycle — sunset criteria]]
 
 ## Contenu
 
