@@ -298,3 +298,8 @@ Scrape: 465 opportunités / 31 sites / 2026-04-15 22:55
 | 8 | WETRADELOCAL |  | cession | 2M&Associés | aj2m-wetradelocal |
 | 9 | ACTIVITE : RESTAURANT // Appel d&rsquo;offres |  | cession | 2M&Associés | aj2m-activite-restaurant-appel-d-rsquo-offres |
 | 10 | RECHERCHE REPRENEURS PLANS DE CESSIONS PARTIELLES |  | cession | 2M&Associés | aj2m-recherche-repreneurs-plans-de-cessions-partie |
+
+## 2026-04-20 — Bois énergie IDF (AJRS #7708)
+- CA : 3.2M EUR | 17 salariés | Sauvegarde | Limite : 2026-05-11
+- Slug : ajrs-production-et-distribution-de-bois-nergie-en-ile-de-fra
+- Statut : NOUVEAU — enrichment partiel, SIREN à confirmer
