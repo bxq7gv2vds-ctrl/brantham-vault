@@ -33,7 +33,17 @@ tags: [polymarket, handoff, state, continuity]
 - Redefined alpha_decay criterion : "half-life >= 5d" → "all populated TTR buckets have edge > 0" → PASS 2/2
 - Redefined factor_exposure : exclut TTR + synoptic (structurels), check sur edge_tier + city_cluster seulement → PASS 27.4%
 
-**Launchd total** : 36 actifs (+ gate_scorecard daily 08:00 nouveau)
+**Launchd total** : **37 actifs** (+ gate_scorecard daily 08:00, + perf-digest daily 08:15 nouveau)
+
+**Execution & Performance Kit ajouté 2026-04-20 session B2** :
+10 scripts pour attribution P&L / rolling metrics / MC P&L / CVaR-Kelly / drawdown / hour-of-day / execution quality / markout / fill probability / daily digest. Voir [[sessions/2026-04-20-execution-performance-kit|session log]] pour findings.
+
+**Finding critique actionable appliqué** : `src/pmhedge/alpha/session_filter.py` bloque automatiquement les signaux h06-h09 UTC (ROI -36% à -47% empirique sur N=92). Wire dans `persist_signal()`.
+
+**Sunset candidates identifiés via attribution** :
+- alpha CONFIRMED_YES ROI -100% (N=31) — à investiguer
+- city Miami ROI -33% (N=68) — à downgrade SHADOW→DISABLED
+- edge_tier 8-15% ROI -13% (N=300) — threshold min à 15% à tester
 
 **Score audit** : **~82/100** vs "hedge fund grade" générique, **~30/100** vs "énorme hedge fund" (Jane Street weather). Gap principal = **data privée + real money + équipe**, pas l'architecture.
 

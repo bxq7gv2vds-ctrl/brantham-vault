@@ -42,6 +42,13 @@ Construire un système de trading **100% data-driven** sur Polymarket avec :
 - [[strategy-lifecycle|Strategy lifecycle — sunset criteria]]
 - [[feature-rejection-log|Feature rejection log — validation empirique 2026-04-20]]
 
+## Execution & Performance Kit (2026-04-20)
+
+- [[sessions/2026-04-20-execution-performance-kit|Session log complet]]
+- Scripts : attribution / rolling / MC / CVaR-Kelly / drawdown / hourly / exec quality / markout / fill prob / digest
+- Session filter : `src/pmhedge/alpha/session_filter.py` — bloque h06-h09 UTC empiriquement unprofitable
+- Launchd : `com.paul.polymarket-alpha-perf-digest` daily 08:15 avec Telegram
+
 ## Contenu
 
 ### Architecture & Design
