@@ -49,6 +49,14 @@ Construire un système de trading **100% data-driven** sur Polymarket avec :
 - Session filter : `src/pmhedge/alpha/session_filter.py` — bloque h06-h09 UTC empiriquement unprofitable
 - Launchd : `com.paul.polymarket-alpha-perf-digest` daily 08:15 avec Telegram
 
+## Hedge Fund Rigor Upgrade (2026-04-20)
+
+- [[hedge-fund-rigor-upgrade|Methodology upgrade complet]]
+- Scripts : tc_aware_attribution / diebold_mariano_test / var_es_kupiec / correlation_kelly / stationarity_tests / bonferroni_fdr_calibrators
+- TC-aware sunset : CONFIRMED_YES, Miami, edge_tier_8_15 (CI95 post-TC < 0)
+- Portfolio Kelly : -35% vs naive (cross-correlation adjusted)
+- Stationarity : autocorrelation detected → HAC correction requise
+
 ## Contenu
 
 ### Architecture & Design
