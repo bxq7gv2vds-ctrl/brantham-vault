@@ -303,3 +303,19 @@ Scrape: 465 opportunités / 31 sites / 2026-04-15 22:55
 - CA : 3.2M EUR | 17 salariés | Sauvegarde | Limite : 2026-05-11
 - Slug : ajrs-production-et-distribution-de-bois-nergie-en-ile-de-fra
 - Statut : NOUVEAU — enrichment partiel, SIREN à confirmer
+
+---
+
+> Mise à jour : 2026-04-20 (auto-enrichment session)
+
+## Scan AJ du 2026-04-20
+
+| Métrique | Valeur |
+|----------|--------|
+| Opportunités scrapées | 468 (31 sites actifs) |
+| Nouvelles sans dossier | 240 |
+| Traitées (top 10) | 10 |
+| Enrichies Pappers | 10/10 |
+| Repreneurs via API gouv | 0 (retours vides) |
+
+Note: API FastAPI (port 8000) hors ligne ce cycle — matching 4D non disponible.

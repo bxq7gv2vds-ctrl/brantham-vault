@@ -1,60 +1,42 @@
-# Session auto-enrichment — 2026-04-20
-
-**Heure** : 15h34 CEST  
-**Budget utilisé** : ~$0.47 / $0.50  
-
----
+# Session Auto-Enrichment — 2026-04-20
 
 ## Résumé d'exécution
 
-### 1. Scrape AJ
-- Fichier aj_annonces.json avait 7h08min (> seuil 3h)
-- Scraper relancé : 465 opportunités à jour (359 expirées supprimées)
-- Sites : 24 OK / 6 vides / 1 erreur
+| Étape | Résultat |
+|-------|---------|
+| Scrape AJ | OK — 468 opportunités (31 sites, 359 expirées supprimées) |
+| Opportunités sans dossier | 240 identifiées |
+| Top 10 sélectionnées | Critère : CA > 500K ou score > 60 |
+| Dossiers créés | 10/10 |
+| Enrichissement Pappers | 10/10 (par nom, SIRENs récupérés) |
+| Repreneurs (API gouv) | 0 résultats (requêtes retournées vides) |
+| API FastAPI locale | Hors ligne (port 8000) |
 
-### 2. Identification opportunités
-- 17 opportunités CA > 500K dans aj_annonces.json
-- 16/17 ont déjà un dossier deals/
-- 1 nouvelle opportunité identifiée sans dossier
+## Opportunités traitées
 
-### 3. Enrichissement traité
+1. ajup-recherche-partenaires... | CA De 3 à 10M | sauvegarde | SIREN N/A
+2. bma-f-e | CA < 1M | cession | SIREN 802246355
+3. fhbx-chared-nabil | BTP Vendargues | cession | SIREN 407552371
+4. fhbx-bioche-marie | Agriculture Chambois | cession | SIREN 345148746
+5. fhbx-industrial-cutting-sasu | BTP Saint-Maurice | cession | SIREN 900281627
+6. fhbx-novacor-sas | Médical Chatou | cession | SIREN 326421468
+7. fhbx-laroumet-sas | BTP Langogne | cession | SIREN 776108193
+8. fhbx-blocbuster-la-defense-sasu | Courbevoie | cession | SIREN 910037027
+9. fhbx-cabdist-sarl | Commerce Prades | cession | SIREN 882204431
+10. fhbx-ab-restauration | Restauration Montpellier | cession | SIREN 980618201
 
-| Deal | CA | Statut |
-|------|----|--------|
-| ajrs-production-et-distribution-de-bois-nergie-en-ile-de-fra | 3.2M EUR | Créé |
+## Fichiers générés par dossier
+- `enrichment.json` — données Pappers + meta
+- `acheteurs.json` — liste repreneurs (vide ce cycle)
+- `analyse.md` — analyse basique forces/faiblesses
 
-**Actions réalisées** :
-- Dossier créé dans deals/
-- enrichment.json généré (Pappers — candidat SEVEA 514990779, inactif, SIREN non confirmé)
-- acheteurs.json : 5 repreneurs identifiés via api.gouv.fr (secteur bois énergie 46.73A)
-- analyse.md générée (forces, faiblesses, recommandations)
-
-**Erreurs** :
-- API FastAPI localhost:8000 non disponible (matching-repreneurs endpoint inaccessible)
-- SIREN exact non identifié (annonce AJRS #7708 sans SIREN)
-
-### 4. Pipeline QUEUE.md
-- Mis à jour avec la nouvelle opportunité
-
-### 5. Deals sans enrichment.json
-- 20+ deals identifiés sans enrichment — à traiter lors d'une prochaine session (Pappers rate limit ~100/j)
-
----
+## Actions recommandées
+- Relancer l'API FastAPI pour le matching 4D
+- Les 10 dossiers ont des SIRENs — enrichissement financier possible au prochain cycle
+- 230 opportunités sans dossier restantes à traiter
 
 ## Related
-
-- [[brantham/_MOC]]
-- [[brantham/pipeline/QUEUE]]
-
-
-## Cycle 15:42
-
-- **Scrape AJ** : lancement...
-  - OK : 466 opportunites scrapees
-
-## Cycle 20:46
-
-- **Scrape AJ** : lancement...
-  - OK : 468 opportunites scrapees
-
-## Deep Enrichment 23:41
+[[brantham/_MOC]]
+[[brantham/pipeline/QUEUE]]
+- Deep enrichment termine a 23:45
+---
