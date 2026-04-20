@@ -29,16 +29,16 @@ Tracker d'exécution détaillée des 16 livrables du [[g1-g2-qualification-kit]]
 | B2 | Failure modes catalog | `vault/brantham/polymarket/failure-modes.md` | `done` (12 modes) | `wc -l vault/brantham/polymarket/failure-modes.md` |
 | B3 | Strategy lifecycle | `vault/brantham/polymarket/strategy-lifecycle.md` | `done` (sentinel OK) | `grep -q "LIFECYCLE READY" vault/brantham/polymarket/strategy-lifecycle.md` |
 
-## Sprint 2 — Validation Core & Robustness (10h)
+## Sprint 2 — Validation Core & Robustness (10h) — DONE 2026-04-20
 
-| ID | Livrable | Path | Status | Dépend | Check |
-|---|---|---|---|---|---|
-| A1 | Deflated Sharpe Ratio | `scripts/deflated_sharpe.py` | `pending` | B4 | `KMP_DUPLICATE_LIB_OK=TRUE uv run scripts/deflated_sharpe.py --dry-run` |
-| A4 | Purged K-fold evaluator | `scripts/purged_kfold_eval.py` | `pending` | — | `uv run scripts/purged_kfold_eval.py --help` |
-| C4 | SHAP feature stability | `scripts/shap_stability.py` | `pending` | — | `uv run scripts/shap_stability.py --station KLAX --dry-run` |
-| C5 | Alpha decay by TTR | `scripts/alpha_decay.py` | `pending` | — | `uv run scripts/alpha_decay.py --dry-run` |
-| C6 | Leakage audit | `scripts/leakage_audit.py` | `pending` | — | `uv run scripts/leakage_audit.py` |
-| C10 | NWP disagreement feature | `src/pmhedge/alpha/feature_engineering.py` extend | `pending` | — | `grep -q "nwp_disagreement_pct" src/pmhedge/alpha/feature_engineering.py` |
+| ID | Livrable | Path | Status | Test result |
+|---|---|---|---|---|
+| A1 | Deflated Sharpe Ratio | `scripts/deflated_sharpe.py` | `done` | per-trade SR 3.43, prob_real 1.000 PASS |
+| A4 | Purged K-fold evaluator | `scripts/purged_kfold_eval.py` | `done` | MVM overfit 1.17 PASS (embargo 6h) |
+| C4 | SHAP feature stability | `scripts/shap_stability.py` | `done` | KLAX tau 1.000 PASS |
+| C5 | Alpha decay by TTR | `scripts/alpha_decay.py` | `done` | NOT_APPLICABLE (TTR uniform < 72h) |
+| C6 | Leakage audit | `scripts/leakage_audit.py` | `done` | 0 HARD, 1 SOFT, 2 CROSS PASS |
+| C10 | NWP disagreement feature | `src/pmhedge/alpha/feature_engineering.py` + `xgboost_post.py` | `done` | 3 features wired, test KLAX/VHHH OK |
 
 ## Sprint 3 — Execution & Risk & Monitoring (7h)
 
