@@ -201,6 +201,13 @@ KMP_DUPLICATE_LIB_OK=TRUE uv run scripts/ablation_study.py --per-city --window 3
 ## Ce qui attend
 
 ### 🎯 Priorité immédiate prochaine session
+**Option A (recommandée)** — Exécuter le [[g1-g2-qualification-kit|G1→G2 Kit]] :
+- Sprint 1 (4h) — Research governance : thesis draft + research log + failure modes + lifecycle
+- Sprint 2 (10h) — Validation core : DSR + PBO + SHAP stability + alpha decay + leakage audit + NWP disagreement
+- Sprint 3 (7h) — Execution & monitoring : TC model + capacity curve + factor exposure + regime hazard + gate scorecard + launchd
+- Reprendre via `vault/brantham/polymarket/g1-g2-todo-tracker.md` et Quick progress check
+
+**Option B** (si Pangu arrive) :
 1. **Drop Pangu ONNX** à `models/pangu_24h.onnx` → 5 min wire via scaffold en place
 2. Re-run ablation post-Pangu pour voir +15% CRPS attendu
 3. Backfill Pangu sur 1 an pour enrichir BMA weights
