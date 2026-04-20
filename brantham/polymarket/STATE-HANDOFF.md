@@ -11,6 +11,15 @@ tags: [polymarket, handoff, state, continuity]
 
 **À LIRE EN PRIORITÉ dans toute nouvelle session.** Ce doc est à jour au 2026-04-20 après 3 sessions de refonte massive.
 
+## ⚠️ LIRE EN PRIORITÉ (session 15j en cours)
+
+1. **[[MODEL-STATE-COMPLETE|MODEL-STATE-COMPLETE.md]]** — zéro-omission snapshot models (NEW 2026-04-20)
+2. **[[CONTINUATION-PROMPT|CONTINUATION-PROMPT.md]]** — prompt à coller pour reprendre (NEW 2026-04-20)
+3. **[[weather-domination-strategy|weather-domination-strategy.md]]** — décision 100% weather only
+4. Ce doc (STATE-HANDOFF) pour le reste
+
+**Paper session #1 RUNNING** : started 2026-04-20 13:42 UTC, target end 2026-05-05, bankroll $1,000.
+
 ## TL;DR
 
 **Status** : Pipeline alpha hedge-fund-grade avec 35 launchd jobs autonomes, 12 sources NWP (dont GraphCast/AIFS/NBM/UKMO/CMA), 37 features engineered, 46 per-station XGB, 11 per-city calibrators, 4 regime HMM, tail filter critique.
