@@ -12,16 +12,27 @@ Knowledge hub pour la construction d'un système trading hedge-fund grade sur Po
 **DB locale** : `bracket_scalper_trades.db`, `all_markets.db`, `pmhedge.db`, `alpha_data_hub.db` (new)
 **Module principal** : `src/pmhedge/alpha/` (architecture unifiée)
 
-## Objectif
+## Objectif — Weather Domination
 
-Construire un système de trading **100% data-driven** sur Polymarket avec :
-- Data multi-source best-in-class par région (HRRR US, AROME FR, ICON-EU, etc.)
-- Modèle ML calibré SOTA (EMOS + BMA + XGBoost + DRN)
-- Exécution CLOB direct avec rebate capture
-- Risk management hedge-fund grade (Kelly correlation-adjusted, kill switch)
-- Backtest walk-forward rigoureux avec Monte Carlo + attribution
+**Décision stratégique 2026-04-20** : **100% weather Polymarket**. Pas de crypto/sports/politics.
 
-**Target P&L** : $200-400k/an avec capital scaling $1k → $50k
+Construire **LE meilleur hedge fund weather sur Polymarket**, en acceptant la capacity cap naturelle. Voir [[weather-domination-strategy]] pour la philosophie complète.
+
+Stack validé :
+- Data multi-source best-in-class (12 NWP sources, 46 stations)
+- Modèle ML calibré SOTA (EMOS + BMA + XGBoost + HMM regime)
+- Exécution CLOB direct avec rebate capture (post-wallet)
+- Risk management hedge-fund grade (Kelly correlation-adjusted + DD bands)
+- Self-optimizing (bandit allocator + decay monitor)
+
+**Capacity naturelle** : $50-100k bankroll max sur weather Polymarket seul.
+
+**Scale via** (tout garde le weather edge comme base) :
+1. Market-making thin weather markets → +10× capacity
+2. Cross-venue Kalshi weather → +50% capacity
+3. LP weather-focused → AUM $500k-5M
+4. Weather API SaaS → $50-500k/an MRR
+5. ERCOT / CME weather futures (weather-adjacent) → carrier potential
 
 ## ⚡ Point d'entrée nouvelle session
 
@@ -31,6 +42,13 @@ Construire un système de trading **100% data-driven** sur Polymarket avec :
 4. **[[audit-hedge-fund-grade|📊 Audit hedge fund grade]]** — gap analysis 10 dimensions, score 56/100
 5. **[[TODO-pending|📋 TODO Pending]]** — tâches restantes priorisées
 6. **[[quick-start|Quick-start]]** — commandes opérationnelles
+
+## Weather Domination Strategy (décision 2026-04-20)
+
+- [[weather-domination-strategy|Strategy doc complet — pourquoi 100% weather]]
+- **Pas de crypto / sports / politics** (zero edge ailleurs)
+- **Focus** : dominer la niche, pas diluer
+- **Scale** : leviers weather-centric (MM + cross-venue + LP + SaaS + ERCOT)
 
 ## Qualification Kit G1→G2 (initiative courante)
 
