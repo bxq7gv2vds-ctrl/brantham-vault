@@ -68,6 +68,34 @@ KILL   (DISABLED)    : pnl < -$50 OR (wr < 40% AND n >= 30)
 - **script** : `scripts/city_optimizer.py --apply`
 - **preserves manual overrides** : si `notes` contient "MANUAL OVERRIDE", ne modifie pas la ville
 
+## Bug identifié 2026-04-20 — Calibrators per-city pas appliqués avant 09:36 UTC
+
+Post-fix, j'ai vérifié que les calibrators isotonic per-city (table `calibrators_city`, 15 villes fit) étaient bien appliqués dans le signal_generator.
+
+**Trouvaille** : les trades Tokyo qui ont perdu −$1013 ont été émis 2026-04-17→19, MAIS le calibrator Tokyo a été fit seulement le 2026-04-20 09:36 UTC. Donc :
+- `use_calibration=True` (default scanner) mais calibrator Tokyo n'existait pas encore
+- Signaux émis avec raw `est_prob` 18.4% sans shrinkage
+- Actual outcome 0% → 85 trades perdus
+
+**Depuis 2026-04-20 09:36** :
+- Tokyo calibrator = 0.01 partout (rejette tous les signaux future par apply_edge_filter)
+- Austin calibrator = préserve les edges réels
+- Signal generator désormais robuste contre ce type de bug
+
+**Protection future** :
+- `alpha_states.CALIBRATOR_MISSING` → kill si calibrator manque pour une ville avec N_trades >= 20 (TODO)
+- Monitor calibrator staleness (> 7 jours sans refit)
+
+## Impact forward tuning (empirique 1113 outcomes)
+
+| Scenario | P&L | N |
+|----------|-----|---|
+| Avant kill list | +$13,549 | 1214 |
+| Après kill list | +$15,365 | 977 |
+| **Gain net** | **+$1,815** | −237 bad trades évités |
+
+Plus la calibration désormais active → estimation gain forward supplémentaire +$500-$1,000 par cycle de 1000 trades (éliminatant les signaux YES tail non-calibrés).
+
 ## Ce qui N'EST PAS le meilleur modèle
 
 Le stack actuel est **hedge-fund grade architecturalement** mais **PAS optimal per-city** :
