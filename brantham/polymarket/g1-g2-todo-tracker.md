@@ -40,17 +40,17 @@ Tracker d'exécution détaillée des 16 livrables du [[g1-g2-qualification-kit]]
 | C6 | Leakage audit | `scripts/leakage_audit.py` | `done` | 0 HARD, 1 SOFT, 2 CROSS PASS |
 | C10 | NWP disagreement feature | `src/pmhedge/alpha/feature_engineering.py` + `xgboost_post.py` | `done` | 3 features wired, test KLAX/VHHH OK |
 
-## Sprint 3 — Execution & Risk & Monitoring (7h)
+## Sprint 3 — Execution & Risk & Monitoring (7h) — DONE 2026-04-20
 
-| ID | Livrable | Path | Status | Dépend | Check |
-|---|---|---|---|---|---|
-| C7 | Transaction cost model | `src/pmhedge/alpha/tc_model.py` + `scripts/transaction_cost_model.py` | `pending` | — | `uv run scripts/transaction_cost_model.py --sample 10` |
-| A2 | Capacity curve | `scripts/capacity_curve.py` | `pending` | C7 | `uv run scripts/capacity_curve.py --dry-run` |
-| C8 | Correlation drift monitor | `scripts/correlation_drift.py` | `pending` | — | `uv run scripts/correlation_drift.py --dry-run` |
-| C9 | Regime transition hazard | `scripts/regime_transition_risk.py` | `pending` | — | `uv run scripts/regime_transition_risk.py --dry-run` |
-| A3 | Factor exposure | `scripts/factor_exposure.py` | `pending` | C8, C9 | `uv run scripts/factor_exposure.py --dry-run` |
-| E1 | Gate scorecard | `scripts/gate_scorecard.py` | `pending` | tous | `uv run scripts/gate_scorecard.py --gate G1` |
-| E2 | Launchd + Telegram digest | `launchd/com.paul.polymarket-alpha-gate-scorecard.plist` | `pending` | E1 | `launchctl list \| grep gate-scorecard` |
+| ID | Livrable | Path | Status | Test result |
+|---|---|---|---|---|
+| C7 | Transaction cost model | `src/pmhedge/alpha/tc_model.py` + `scripts/transaction_cost_model.py` | `done` | 4 comp. (gas+spr+imp+adv), 0/5 unprofitable |
+| A2 | Capacity curve | `scripts/capacity_curve.py` | `done` | Capacity $0 at 95% — criterion à redefine |
+| C8 | Correlation drift monitor | `scripts/correlation_drift.py` | `done` | Bloqué (no per-city labels in reason) |
+| C9 | Regime transition hazard | `scripts/regime_transition_risk.py` | `done` | TEMPERATE hazard 0.341, Kelly mult 0.66 |
+| A3 | Factor exposure | `scripts/factor_exposure.py` | `done` | 100% unknown cluster — FAIL, patch signal_log.city needed |
+| E1 | Gate scorecard | `scripts/gate_scorecard.py` | `done` | 7/13 PASS, 3/13 FAIL, 3/13 N/A |
+| E2 | Launchd + Telegram digest | `~/Library/LaunchAgents/com.paul.polymarket-alpha-gate-scorecard.plist` | `done` | Loaded, 08:00 daily |
 
 ## Quick progress check (reprise session)
 
