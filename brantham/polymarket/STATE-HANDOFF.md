@@ -17,13 +17,16 @@ tags: [polymarket, handoff, state, continuity]
 
 **Dernière session** : feature engineering massif (diurnal / synoptic / soil moisture) + MLflow + MC VaR + Pangu scaffold en attente du fichier ONNX.
 
+**Initiative courante** : [[g1-g2-qualification-kit|G1→G2 Qualification Kit]] — 16 livrables structurés en 5 packages pour passer le signal de "research" à "paper shadow ready" avec validation statistique hedge-fund-grade. Voir [[g1-g2-todo-tracker|todo tracker]] pour l'état d'avancement.
+
 **Score audit** : **~82/100** vs "hedge fund grade" générique, **~30/100** vs "énorme hedge fund" (Jane Street weather). Gap principal = **data privée + real money + équipe**, pas l'architecture.
 
 **Bloquants user** :
 1. ⏳ **Pangu-Weather ONNX** — user s'est engagé à fournir le fichier → drop à `models/pangu_24h.onnx`
-2. 🔴 **ERA5 via Copernicus** (account + `~/.cdsapirc`)
-3. 🔴 **Polymarket wallet** + `POLY_PRIVATE_KEY` + `uv add py-clob-client`
-4. 🟡 **Avocat crypto FR** avant $10k real
+2. ⏳ **Review [[economic-thesis]]** — thesis doc DRAFT, ajouter sentinel `THESIS VALIDATED` pour débloquer G1 exit
+3. 🔴 **ERA5 via Copernicus** (account + `~/.cdsapirc`)
+4. 🔴 **Polymarket wallet** + `POLY_PRIVATE_KEY` + `uv add py-clob-client`
+5. 🟡 **Avocat crypto FR** avant $10k real
 
 ## Architecture en place
 
