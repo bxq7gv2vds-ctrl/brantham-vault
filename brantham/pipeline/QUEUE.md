@@ -1,5 +1,22 @@
 # QUEUE — Opportunites en attente de traitement
 
+> Mise à jour : 2026-04-21 (auto-enrichment session)
+
+## Scan AJ du 2026-04-21
+
+| Métrique | Valeur |
+|----------|--------|
+| Opportunités scrapées | 466 (40 sites) |
+| Qualifiées (CA > 500K ou score > 60) | 15 |
+| Nouvelles opportunités sans dossier | 0 |
+| Deals traités ce cycle | 2 (analyse + acheteurs) |
+
+**Deals complétés** :
+- `abitbol-restauration` (CA 3.4M, 34 sal.) — analyse.md + acheteurs.json générés
+- `abitbol-restaurant` (CA 1.2M, 18 sal.) — acheteurs.json généré
+
+---
+
 > Mise à jour : 2026-04-18 (auto-enrichment session)
 
 ## Scan AJ du 2026-04-18
