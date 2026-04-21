@@ -9,8 +9,36 @@ status: active
 Knowledge hub pour la construction d'un système trading hedge-fund grade sur Polymarket (weather markets puis expansion).
 
 **Projet code** : `/Users/paul/polymarket-hedge/`
-**DB locale** : `bracket_scalper_trades.db`, `all_markets.db`, `pmhedge.db`, `alpha_data_hub.db` (new)
-**Module principal** : `src/pmhedge/alpha/` (architecture unifiée)
+**DB principale** : `alpha_data_hub.db` (source of truth). Legacy: `bracket_scalper_trades.db`, `all_markets.db`, `pmhedge.db`.
+**Module principal** : `src/pmhedge/alpha/` (67 modules, architecture unifiée)
+**Research pipeline** : `research/pole_stats/` + `research/pole_analysis/` — 2-pole methodology
+**Architecture doc** : [[ARCHITECTURE]] — vision ultra-claire du stack complet
+
+## Research Pipeline (2-pole methodology) — NEW 2026-04-21
+
+**Pôle STATS** (automated stats brutes) :
+- `01_city_discovery.py` → 38 villes, $288M volume historique
+- `02_city_trajectories.py` → directions, autocorrelation, runs, regimes, mean reversion
+- `03_city_forecast_skill.py` → skill scores 12 NWP per-city (TODO)
+- `04_city_market_microstructure.py` → spreads, brackets density (TODO)
+- `05_city_outcome_distributions.py` → actual vs predicted (TODO)
+
+**Pôle ANALYSIS** (interpretation + actions) :
+- `01_priority_actions.py` → 14 actions identifiées (P0/P1/P2)
+- `02_cross_city_correlation.py` → regime clustering (TODO)
+- `03_hedge_detection.py` → spread divergence (TODO)
+- `04_model_recommendations.py` → per-city hyperparam tuning (TODO)
+
+**Outputs** :
+- `research/data/*.json` — canonical machine-readable
+- `research/outputs/*.md` — human-readable reports
+
+**Trouvailles clés** :
+- London $65.3M volume UNTAPPED → ENABLED 2026-04-21
+- 9 villes high-volume activées (London, Shanghai, Toronto, Sao Paulo, Madrid, Munich, etc.)
+- Shanghai ACF lag-7 = 0.92 → persistance massive (edge continuation)
+- Hong Kong 11 days up-run max → heatwaves trend
+- Kuala Lumpur half-life 1.5d → climat tight, markets efficient
 
 ## Objectif — Weather Domination
 
