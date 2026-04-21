@@ -2,14 +2,53 @@
 name: State Handoff — Polymarket Hedge Fund
 description: Document de transmission complet — tout ce qu'il faut savoir pour reprendre la prochaine session sans perte de contexte
 type: handoff
-updated: 2026-04-20
+updated: 2026-04-21
 priority: critical
 tags: [polymarket, handoff, state, continuity]
 ---
 
-# 📋 State Handoff — Polymarket Hedge Fund
+# State Handoff — Polymarket Hedge Fund
 
-**À LIRE EN PRIORITÉ dans toute nouvelle session.** Ce doc est à jour au 2026-04-20 après 3 sessions de refonte massive.
+**À LIRE EN PRIORITÉ dans toute nouvelle session.** Ce doc est à jour au 2026-04-21 après research pipeline + cleanup massif.
+
+## ⚡ CHANGEMENTS 2026-04-21 (lire en premier)
+
+### Exec pipeline
+- `bucket_router.py` + `live_executor.py` branchés dans `persist_signal`. **1704 trades générés**, **+$19,599 P&L réalisé**, WR 83.6%.
+- Tier S (MODEL YES <0.15) = 80% du P&L. Tier A workhorse = volume.
+
+### Per-city kill/boost
+- **4 DISABLED** : Tokyo, Chicago, Miami, NYC
+- **36 ENABLED** dont **10 activées 2026-04-21** : London ($65M volume untapped!), Shanghai, Toronto, Sao Paulo, Madrid, Munich, Amsterdam, Moscow, Istanbul, Busan
+- Cron daily `city_optimizer` + `ttr_denylist`
+
+### Research pipeline 2-pôles (NEW)
+- `research/pole_stats/` + `research/pole_analysis/` + `research/data/` + `research/outputs/`
+- Pôle STATS : 01_city_discovery (38 villes) + 02_city_trajectories (46 villes) DONE
+- Pôle ANALYSIS : 01_priority_actions (14 actions) DONE
+- 02-07 stats + 02-04 analysis pending
+
+### Pangu local + ECMWF OpenData
+- **Pangu ONNX download EN COURS** (premier corrompu, retry curl --retry 10)
+- **ECMWF OpenData GRATUIT** confirmé (HRES + 51-ensemble) — pas besoin $50k/an
+- Modules : `pangu_runner.py`, `era5_ingest.py`, scripts setup + run_pangu_cycle
+
+### Cleanup infra
+- `pangu_forecaster.py` supprimé (scaffold orphelin)
+- `polymarket-dashboard` launchd disabled
+- 5 scripts legacy → `scripts/legacy/`
+- **54 launchd actifs**, **67 modules alpha**, **9 modules execution**
+- Doc canonique : [[ARCHITECTURE]]
+
+### Calibration bug fix
+- `use_calibration=True` + `use_volatility_filter=True` par défaut (était False → calibrators ignorés)
+
+### À lire dans nouvelle session (ordre)
+1. **[[ARCHITECTURE]]** — vision stack complète
+2. **[[CONTINUATION-PROMPT]]** — prompt exact + commandes
+3. **[[TODO-pending]]** — punch list P0-P6
+4. **[[MODEL-STATE-COMPLETE]]** — snapshot models
+5. **[[city-optimization]]** — kill/boost per-city
 
 ## ⚠️ LIRE EN PRIORITÉ (session 15j en cours)
 
