@@ -39,3 +39,5 @@ BUFFALO GRILL (318906443), HIPPOPOTAMUS (322566043), 3 BRASSEURS (509530770), EC
 
 - **Scrape AJ** : lancement...
   - OK : 467 opportunites scrapees
+
+## Deep Enrichment 14:05
