@@ -53,3 +53,4 @@ Chaque dossier contient : `enrichment.json` (Pappers) + `analyse.md` + `acheteur
 ## Cycle 21:03
 
 - **Scrape AJ** : lancement...
+  - OK : 468 opportunites scrapees
