@@ -1,5 +1,30 @@
 # QUEUE — Opportunites en attente de traitement
 
+> Mise à jour : 2026-04-21 14h (auto-enrichment session DB)
+
+## Session DB du 2026-04-21
+
+| Métrique | Valeur |
+|----------|--------|
+| Source données | PostgreSQL (89K+ procédures scorées) |
+| Scraper AJ | 0 résultats (26 erreurs réseau) |
+| Procédures score >= 60 | 30+ identifiées |
+| Nouvelles opportunités sans dossier | 10 traitées |
+
+**Deals créés ce cycle** :
+1. `brandt-france` — BRANDT FRANCE, score 84, CA 291M€, Industrie 500-999 sal.
+2. `idkids` — IDKIDS, score 82, CA 724M€, Services 10-19 sal.
+3. `star-s-service` — STAR'S SERVICE, score 82, CA 119M€, Transport 2000-4999 sal.
+4. `api-tech` — API TECH, score 82, CA 67M€, Industrie 250-499 sal.
+5. `clinique-du-rond-point-des-champs-elysees` — Clinique CElysées, score 82, CA 10.5M€, Santé
+6. `ftl-inter` — FTL INTER, score 81, CA 141M€, Transport
+7. `ste-d-application-des-silicones-alimentaires` — score 81, CA 43M€, Industrie
+8. `colisee-group` — COLISEE GROUP, score 80, CA 1.58Md€, Finance
+9. `transports-bonnard` — score 80, CA 24M€, Transport
+10. `essor-ingenierie` — score 80, CA 23M€, Services
+
+---
+
 > Mise à jour : 2026-04-21 (auto-enrichment session)
 
 ## Scan AJ du 2026-04-21

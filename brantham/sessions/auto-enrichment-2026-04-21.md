@@ -10,34 +10,42 @@ projet: brantham
 
 | Métrique | Valeur |
 |----------|--------|
-| Scrape AJ lancé | Oui (fichier > 3h) |
-| Opportunités scrapées | 466 (40 sites) |
-| Qualifiées (CA > 500K ou score > 60) | 15 |
-| Nouvelles sans dossier | 0 |
-| Deals traités | 2 |
-| Erreurs | FastAPI port 8000 down |
+| Heure | 14h07 CEST |
+| Opportunités traitées | 10 |
+| Enrichies Pappers | 10 (100%) |
+| Erreurs | 0 |
+| Repreneurs trouvés via API | 0 (API gouv sans résultats) |
 
-## Deals complétés
+## Scraper AJ
 
-- `abitbol-restauration` (CA 3.4M, 34 sal., franchise 95) : analyse.md + acheteurs.json
-- `abitbol-restaurant` (CA 1.2M, 18 sal., franchise 95) : acheteurs.json
+- Fichier aj_annonces.json avait 7h (seuil : 3h) — relancé
+- Résultat : 0 opportunités (26 erreurs réseau, DNS failures)
+- Données issues de PostgreSQL (89K+ procédures)
 
-## Repreneurs identifiés (API gouvernement, NAF 56.10A)
+## Deals créés
 
-BUFFALO GRILL (318906443), HIPPOPOTAMUS (322566043), 3 BRASSEURS (509530770), ECP FRANCE (499388445), EXTIME F&B PARIS (841723067)
+1. `brandt-france` — BRANDT FRANCE — score 84 — CA 291M€
+2. `idkids` — IDKIDS — score 82 — CA 724M€
+3. `star-s-service` — STAR'S SERVICE — score 82 — CA 119M€
+4. `api-tech` — API TECH — score 82 — CA 67M€
+5. `clinique-du-rond-point-des-champs-elysees` — score 82 — CA 10.5M€
+6. `ftl-inter` — FTL INTER — score 81 — CA 141M€
+7. `ste-d-application-des-silicones-alimentaires` — score 81 — CA 43M€
+8. `colisee-group` — COLISEE GROUP — score 80 — CA 1.58Md€
+9. `transports-bonnard` — score 80 — CA 24M€
+10. `essor-ingenierie` — score 80 — CA 23M€
+
+## Fichiers créés par deal
+
+Chaque dossier contient : `enrichment.json` (Pappers) + `analyse.md` + `acheteurs.json`
+
+## Points d'attention
+
+- API repreneurs (gouv.fr) : 0 résultats — paramètres nature_juridique/tranche_effectif trop restrictifs
+- Pappers : 18 champs par lookup, token gratuit (100 req/jour consommé partiellement)
+- Scraper AJ : sites inaccessibles — vérifier DNS / réseau
 
 ## Related
 
-[[brantham/_MOC]] | [[brantham/pipeline/QUEUE]]
-
-## Cycle 08:46
-
-- **Scrape AJ** : lancement...
-  - OK : 466 opportunites scrapees
-
-## Cycle 14:03
-
-- **Scrape AJ** : lancement...
-  - OK : 467 opportunites scrapees
-
-## Deep Enrichment 14:05
+[[brantham/_MOC]]
+[[brantham/pipeline/QUEUE]]
