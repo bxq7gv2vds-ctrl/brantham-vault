@@ -1,263 +1,336 @@
 ---
-name: Architecture Polymarket Hedge Fund Grade
-description: Architecture système complète en 4 couches (data/model/alpha/execution) pour trading Polymarket hedge-fund style
+name: Polymarket Hedge Fund — Architecture Map
+description: Vision ultra-claire du stack après cleanup 2026-04-21. Modules, scripts, launchd, DBs, vault docs avec responsabilité de chacun. Point d'entrée pour toute nouvelle session.
 type: architecture
+project: brantham/polymarket
 created: 2026-04-17
-tags: [polymarket, architecture, hedge-fund]
+updated: 2026-04-21
+tags: [polymarket, architecture, infra, cleanup]
+priority: critical
 ---
 
-# Architecture Polymarket Hedge Fund Grade
+# Polymarket Hedge Fund — Architecture Map
 
-## Principe directeur
+**Entrée rapide** : toute nouvelle session lit ce doc + [[MODEL-STATE-COMPLETE]] + [[CONTINUATION-PROMPT]].
 
-**4 couches orthogonales, chacune utilisant les meilleurs outils disponibles (gratuits) sur sa spécialité.**
-
-Cohérence du système > sophistication de chaque couche. On vise **simplicité opérationnelle + rigueur ML + execution latency faible**.
-
-## Vue d'ensemble
+## 1. FLUX DE DONNÉES (signal → trade)
 
 ```
-┌──────────────────────────────────────────────────────────────┐
-│ LAYER 1 : DATA HUB                                           │
-│   NWP multi-source (HRRR, ECMWF-IFS, ICON-EU, GFS, GEFS)    │
-│   Obs (METAR, Mesonet, PWS, radar, satellite)                │
-│   Reanalysis ERA5 (training)                                 │
-│   Polymarket CLOB L2 orderbook                               │
-└──────────────────┬───────────────────────────────────────────┘
-                   │
-┌──────────────────▼───────────────────────────────────────────┐
-│ LAYER 2 : MODEL HUB                                          │
-│   EMOS par (station × mois)                                  │
-│   BMA (Bayesian Model Averaging) entre NWP sources           │
-│   XGBoost post-proc (features riches)                        │
-│   DRN neural ensemble (SOTA 2023)                            │
-│   Kalman filter online (intra-day bias)                      │
-│   → Output: distribution calibrée P(T_max)                   │
-└──────────────────┬───────────────────────────────────────────┘
-                   │
-┌──────────────────▼───────────────────────────────────────────┐
-│ LAYER 3 : ALPHA LAYERS (orthogonaux)                         │
-│   1. Model vs market (edge principal 3-7%)                   │
-│   2. Sum-to-1 arbitrage (math, near-zero risk)               │
-│   3. CONFIRMED oracle (T_max connu avant settlement)         │
-│   4. Orderbook microstructure (imbalance, staleness)         │
-│   5. Cross-market pairs (corrélations villes)                │
-│   6. Nowcast 0-6h (radar + HRRR + obs)                       │
-└──────────────────┬───────────────────────────────────────────┘
-                   │
-┌──────────────────▼───────────────────────────────────────────┐
-│ LAYER 4 : EXECUTION + RISK                                   │
-│   Polymarket CLOB WebSocket (real-time L2 book)              │
-│   Order manager (limit-first, rebate capture)                │
-│   Kelly correlation-adjusted sizing                          │
-│   Kill switch (per-day, per-signal, drawdown)                │
-│   Slippage auto-calibration live                             │
-└──────────────────────────────────────────────────────────────┘
+┌─────────────────┐   ┌──────────────────┐   ┌──────────────────┐
+│  12 NWP sources │   │   METAR + ERA5   │   │  Polymarket API  │
+│  (Open-Meteo +  │   │   observations   │   │  (Gamma / CLOB)  │
+│   Pangu local)  │   │                  │   │                  │
+└────────┬────────┘   └────────┬─────────┘   └────────┬─────────┘
+         │                     │                      │
+         ▼                     ▼                      ▼
+   ┌──────────────────────────────────────────────────────────┐
+   │             alpha_data_hub.db  (source of truth)         │
+   │  nwp_forecasts · obs_temperature · stations · calibrators│
+   └──────────────────────────┬───────────────────────────────┘
+                              │
+         ┌────────────────────┴────────────────────┐
+         ▼                                         ▼
+   ┌──────────────┐                        ┌──────────────┐
+   │ Training jobs│                        │ Live scanner │
+   │  (launchd)   │                        │   300s loop  │
+   └──────┬───────┘                        └──────┬───────┘
+          │                                       │
+          ▼                                       ▼
+   EMOS · BMA · XGB · HMM · Calibrators     signal_generator
+                                                  │
+                                                  ▼
+                          ┌─────────────────────────────┐
+                          │  Filters (séquentiels):     │
+                          │  1. city_config (DISABLED?) │
+                          │  2. alpha_states (kill?)    │
+                          │  3. ttr_filter (denylist?)  │
+                          │  4. session_filter          │
+                          │  5. tail_filter             │
+                          │  6. volatility_filter       │
+                          │  7. calibration per-city    │
+                          │  8. risk_manager (Kelly)    │
+                          └─────────────┬───────────────┘
+                                        │
+                                        ▼
+                                  persist_signal
+                                        │
+                                ┌───────┴───────┐
+                                ▼               ▼
+                          signal_log       execute_signal
+                                                │
+                                                ▼
+                          bucket_router (S/A/C tier assignment)
+                                                │
+                                                ▼
+                                           trade_log
+                                                │
+                                     (reconcile cron 09:20)
+                                                │
+                                                ▼
+                                        signal_outcomes
+                                                │
+                                                ▼
+                                    trade CLOSED + pnl_usdc
 ```
 
-## Layer 1 : Data Hub
+## 2. MODULES CORE (`src/pmhedge/alpha/` — 68 fichiers)
 
-### Sources best-in-class par région
+### Pipeline principal (ordre d'exécution)
+| Module | Rôle |
+|--------|------|
+| `data_hub.py` | DB schema + connexions + alpha_states kill-switch |
+| `nwp_sources.py` | 12 sources NWP (GFS/GEFS/ICON/ECMWF/AIFS/HRRR/JMA/UKMO/CMA/GRAPHCAST/AROME) |
+| `pangu_runner.py` | **[NEW]** Pangu-Weather local inference (M5 CoreML) |
+| `era5_ingest.py` | **[NEW]** ERA5 via CDS API pour Pangu input |
+| `ecmwf_client.py` | Stub ECMWF payant (optionnel, inutile car OpenData gratuit dispo) |
+| `mesonet_client.py` | Stub Mesonet Synoptic (free tier dispo) |
+| `forecast_cache.py` | Cache 6h pour éviter re-fetch |
+| `feature_engineering.py` | 37 features (climato, lag, UHI, cross-station) |
+| `diurnal_features.py` | t_prev_{06,12,15,18}z + slopes |
+| `synoptic_features.py` | ONI / NAO / AO / PNA |
+| `soil_moisture.py` | sm_0_7cm + aridity_z |
+| `emos.py` | Gneiting 2005 per-station × month |
+| `bma.py` | Bayesian model averaging (12 sources → weights) |
+| `xgboost_post.py` | Residual correction regional + per-station |
+| `regime_hmm.py` | 3-state HMM (CALM/TRANSITION/STORMY) |
+| `regime_selector_v2.py` | XGB continuous regime inference |
+| `gmm_forecast.py` | Mixture model fallback |
+| `calibration.py` | Isotonic K-fold global + per-city |
+| `tail_filter.py` | Reject YES tail > climo+2σ |
+| `volatility_filter.py` | σ threshold per (alpha, zone/city) |
+| `ttr_filter.py` | **[NEW]** Deny-list per (city, TTR-bucket) |
+| `session_filter.py` | Block h06-09 UTC loss hours |
+| `bucket_router.py` | **[NEW]** Tier S/A/C/KILL + Kelly multiplier |
+| `risk_manager.py` | Kelly sizing + portfolio factor + circuit breaker |
+| `city_config.py` | Per-city DISABLED/ENABLED + Kelly override |
+| `signal_generator.py` | **Orchestre tout ci-dessus + persist_signal** |
+| `live_executor.py` | **[NEW]** Bridge signal → trade_log (paper fill avec slippage EMA) |
 
-**USA** :
-- **HRRR** (NOAA) — 3km, 1h updates, 18h forecast → meilleur nowcast US
-- **RAP** (NOAA) — 13km, 6h forecast → backup
-- **GFS** (NOAA) — 13km, 384h → long-range
-- **GEFS** (NOAA) — 31 membres, ensemble pour incertitude
-- **METAR ASOS** — aviationweather.gov, 1h updates
-- **Mesonet** (synopticdata.com) — stations denses
-- **NEXRAD Level-II** via AWS S3 — radar raw
-- **MRMS** via AWS — composite radar + QPE
-- **GOES-16/17/18** via AWS — satellite IR
+### Alpha types
+| Module | Alpha type |
+|--------|------------|
+| `signal_generator.py` | MODEL_VS_MARKET (principal, Tier S/A) |
+| `confirmed_oracle.py` | CONFIRMED_NO (oracle, CONFIRMED_YES KILLED) |
+| `pair_arb.py` | PAIR_ARB (rare) |
+| `sum_arb.py` | SUM_ARB (rare) |
+| `convex_arb.py` | CONVEX_ARB (dormant) |
+| `orderbook_imbalance.py` | OB_IMBALANCE (dormant) |
+| `market_making.py` | Market maker (dormant) |
 
-**Europe** :
-- **ECMWF-IFS** 9km — meilleur global NWP (Open Data)
-- **ICON-EU** 6.5km (DWD) — Europe-spécialisé
-- **AROME** 1.3km (Météo-France) — France haute-res
-- **UKV** 1.5km (MetOffice) — UK
-- **METAR** + **OGIMET** (historique)
-- **EUMETNET OPERA** — radar composite
-- **Meteosat MSG** — satellite
+### Risk / Capital
+| Module | Rôle |
+|--------|------|
+| `compound_engine.py` | Dynamic bankroll $1k → $100k |
+| `concurrent_positions.py` | Cap 50 positions simultanées |
+| `vol_targeting.py` | Vol targeting opt-in |
+| `conformal.py` | Conformal prediction intervals |
+| `var_cvar.py` | Value-at-Risk + CVaR-Kelly |
 
-**Asie** :
-- **ECMWF** + **ICON-EU**
-- **JMA MSM** 5km — Japon
-- **KMA LDAPS** 1.5km — Corée
-- **CMA GRAPES** — Chine
-- **Himawari** — satellite Asie-Pacifique
+### Meta-learning / observabilité
+| Module | Rôle |
+|--------|------|
+| `bandit_allocator.py` | Thompson sampling entre alphas |
+| `champion_challenger.py` | A/B test modèles |
+| `model_registry.py` | Versioning modèles |
+| `mlflow_logger.py` | MLflow tracking |
+| `freshness.py` | Data staleness detection |
 
-**Global** :
-- **ERA5** (Copernicus) — reanalysis 40+ ans, training ML
-- **MERRA-2** (NASA) — backup reanalysis
-- **ISD** (NOAA) — integrated surface database historique
+### Dormant / scaffolds
+| Module | Status |
+|--------|--------|
+| `kalshi_client.py` | Cross-venue arb (dormant) |
+| `goes_satellite.py` | GOES-18 nowcast (dormant) |
+| `llm_features.py` | Claude API features (opt-in) |
+| `monsoon_features.py` | Monsoon-aware (opt-in) |
+| `altitude_features.py` | Topographie (opt-in) |
 
-### Coût : $0
+## 3. MODULES EXECUTION (`src/pmhedge/execution/` — 9 fichiers)
 
-Toutes les sources sont gratuites (Copernicus/NASA/NOAA/DWD/Météo-France en open data). Le coût réel est dans le stockage (~100 Go) et l'ingestion CPU (minimal).
+| Module | Rôle |
+|--------|------|
+| `order_manager.py` | CLOB order lifecycle (stub py-clob-client, prêt live) |
+| `optimal_execution.py` | TWAP / VWAP |
+| `slippage.py` | Slippage EMA per market/size |
+| `latency.py` | Latency tracking |
+| `market_maker.py` | **[NEW scaffold]** Maker rebate mode |
+| `mev_protection.py` | MEV protection Polygon |
+| `rpc_supervisor.py` | RPC health |
+| `dashboard.py` | FastAPI dashboard backend (legacy, port 8080) |
+| `metrics.py` | Prometheus metrics |
 
-### Schema DB unifié
+## 4. SCRIPTS (`scripts/` — 150 actifs + legacy/)
 
-Tables (voir `alpha/data_hub.py`) :
-- `stations` — registry ICAO + lat/lon + timezone + climato
-- `nwp_forecasts` — per-source ensemble forecasts
-- `nwp_ensemble_blend` — pre-computed stats par station × date
-- `obs_temperature` — observations METAR/Mesonet
-- `orderbook_snapshots` — Polymarket CLOB L2 (best bid/ask + depth)
-- `calibrated_probs` — output modèle
-- `signal_log` — tous les signaux émis
-- `trade_log` — trades exécutés avec slippage + fees
-- `model_performance` — tracking RMSE/CRPS par modèle
-- `data_freshness` — monitoring des sources
+### Scripts essentiels (entrypoints canoniques)
+| Script | Rôle |
+|--------|------|
+| `run_alpha_live.py` | **Scanner live loop 300s** (launchd PID persistant) |
+| `run_pangu_cycle.py` | **[NEW]** Pangu forecast cycle (ingest ERA5 + inference) |
+| `setup_pangu.py` | **[NEW]** Setup Pangu stack (download + verify) |
+| `alpha_tui.py` | **[NEW] TUI Rich — canonical dashboard** |
+| `alpha_dashboard.py` | Web dashboard (port 8090, launchd KeepAlive) |
+| `trade_status.py` | CLI snapshot rapide |
+| `city_optimizer.py` | **[NEW]** Tuning per-city auto |
+| `city_deep_dive.py` | **[NEW]** Rapport markdown par ville |
+| `reconcile_from_obs.py` | Réconciliation signaux ↔ observations + close trades |
 
-## Layer 2 : Model Hub
+### Scripts training (tous dans launchd)
+`train_bma.py`, `train_emos_per_station.py`, `train_calibrators.py`, `train_city_calibrators.py`, `train_drn.py`, `train_ensemble_weights.py`, `train_model.py`, `train_quantile_regressors.py`, `train_regime_hmm.py`, `train_pangu_city.py` (scaffold)
 
-### Stack ML par complexité croissante
+### Legacy archivé (`scripts/legacy/`)
+`analyze_coldmath.py`, `run_bracket_scalper.py`, `dashboard.py`, `dashboard_tui.py`, `dashboard_quant.py`
 
-1. **EMOS** (Gneiting 2005) — Ensemble Model Output Statistics
-   - Calibre (a + b·ensemble_mean, c + d·ensemble_std) par station × mois
-   - Robuste, rapide, interprétable
-   - Baseline indispensable
+## 5. LAUNCHD JOBS (54 actifs après cleanup)
 
-2. **BMA** — Bayesian Model Averaging
-   - Weights entre NWP sources (GFS, ECMWF, ICON, HRRR) mis à jour online via rolling CRPS
-   - Exploite complémentarité des sources
+### Par catégorie
 
-3. **XGBoost post-processing**
-   - Features : ensemble mean, spread, obs lags (1h, 3h, 24h), radar echo, hour-of-day, day-of-year, station climatology
-   - Target : T_max actual (from ERA5 / METAR)
-   - Un modèle par région pour éviter curse of dimensionality
+**Live (1)** : `live-runner` (loop 300s)
 
-4. **DRN** (Distributional Regression Network, Rasp & Lerch 2018)
-   - Neural net qui output (μ, σ) de distribution
-   - Beat EMOS de 5-15% en CRPS
-   - SOTA 2020+ pour ensemble post-processing
+**Data ingest (5)** : `nwp-ingest`, `metar-archive`, `soil-ingest`, `synoptic-fetch`, `event-alerts`
 
-5. **Analog regression** pour events rares
-   - k-NN sur patterns synoptiques (heat wave, cold snap)
-   - Utile quand NWP fail (régimes extrêmes)
+**Training (11)** : `bma-train`, `emos-train`, `ensemble-train`, `hmm-train`, `regime-v2-train`, `station-xgb`, `xgb-retrain`, `calibration`, `calibrators-train`, `city-calibrators`, `quantile-train`, `conformal`
 
-6. **Kalman online**
-   - Update intra-day du bias station (t_current vs prédit)
-   - Bouge la distribution au fil de la journée
+**Tuning quotidien (6)** : `city-optimizer` (09:30), `ttr-denylist` (09:45), `city-kelly`, `bandit-allocator`, `vol-filter`, `city-audit`
 
-### Output final
+**Reconcile / Settle (7)** : `reconcile` (generic), `reconcile-obs` (09:20 + close trades), `auto-settle`, `daily-pnl`, `daily-summary`, `perf-digest` (08:15), `perf-metrics`
 
-Pour chaque (station, target_date, horizon) :
-- `P(T_max ≥ threshold)` calibré
-- `P(T_max ∈ [a, b])` pour bins
-- Mean + variance + quantiles
-- Confidence score (basé sur cohérence modèles + freshness data)
+**Monitoring (9)** : `circuit-breaker`, `drift-monitor`, `decay-monitor`, `health-check`, `mc-var`, `attribution`, `gate-scorecard` (08:00), `validator`, `pair-corr`
 
-## Layer 3 : Alpha Layers
+**Oracle scans (4)** : `oracle-scan-0300/0907/1032/1617`
 
-### Les 6 alphas orthogonaux
+**Dashboards + bot (3)** : `alpha-dashboard` (port 8090), `telegram-bot`, `prom-exporter`
 
-| # | Alpha | Edge source | Risk | EV typique |
-|---|---|---|---|---|
-| 1 | Model vs market | Calibration > consensus | Model drift | 3-7% par trade |
-| 2 | Sum-to-1 arb | Math (Σ bins = 1) | Fill legging | 0.5-2% par arb |
-| 3 | CONFIRMED oracle | T_max déjà observé | Near-zero | ~100% WR rare |
-| 4 | Orderbook imbal. | Microstructure | Latency | 0.3-1% par trade |
-| 5 | Cross-market pairs | Corrélation villes | Regime change | 1-3% par pair |
-| 6 | Nowcast 0-6h | Radar+obs+HRRR | Timing | 2-5% par trade |
+**Utilities (8)** : `audit-prune`, `db-snapshot`, `caffeinate`, `paper-session`, `precompute`, `scan-freq`, `scan-night`
 
-Les alphas sont **orthogonaux** : ils exploitent des inefficiences différentes, donc peuvent être additionnés dans un portfolio (après correlation-adjustment).
+## 6. DATABASES (15 SQLite)
 
-### Signal emission
+### DBs actives (source de vérité)
+| DB | Rôle |
+|----|------|
+| **`alpha_data_hub.db`** | **PRINCIPAL** : signals, trades, outcomes, forecasts, calibrators, config |
+| `city_models.db` | XGB models per-station + climatology cache |
+| `all_markets.db` | Polymarket markets historique (slugs, metadata) |
 
-Chaque alpha émet un signal dict :
-```python
-{
-    "alpha_type": "MODEL_VS_MARKET",
-    "market_id": "...",
-    "side": "YES" | "NO",
-    "entry_price": 0.45,
-    "est_prob": 0.58,
-    "edge": 0.13,
-    "confidence": 0.85,   # 0-1 score
-    "max_size_usdc": 150,
-    "reason": "...",
-    "metadata": {...}
-}
+### DBs legacy (encore lues par des scripts archivés)
+| DB | Last modif | Status |
+|----|-----------|--------|
+| `bracket_scalper_trades.db` | 2026-04-21 | Ancien scalper — 21 refs |
+| `pmhedge.db` | 2026-04-20 | Old bracket system |
+| `oracle_data.db` | 2026-04-09 | Oracle backtest session 6 |
+| `mega_dataset.db` | 2026-04-16 | Training mega-dataset |
+| `wu_tmax_dataset.db` | 2026-04-16 | Weather Underground hist |
+| `metar_wu_validation.db` | 2026-04-16 | METAR vs WU validation |
+| `coldmath_trades.db` | 2026-04-05 | COLDMATH désactivé session 7 |
+| `emos_alpha.db` | 2026-04-20 | EMOS cache alternatif |
+| `sum_arb_trades.db` | 2026-04-07 | SUM_ARB rare |
+| `backtest_data.db` | 2026-03-30 | Ancien backtest |
+| `emos_cache.db` | 2026-04-21 | EMOS cache actif |
+
+**Cleanup futur** : archiver 8 DBs dans `backups/legacy-dbs/` après audit complet dépendances.
+
+## 7. VAULT (`/Users/paul/vault/brantham/polymarket/`)
+
+### Core docs (à lire en priorité)
+- **`ARCHITECTURE.md`** (ce doc) — vision structurelle
+- `MODEL-STATE-COMPLETE.md` — snapshot zéro-omission models
+- `CONTINUATION-PROMPT.md` — prompt à copier dans nouvelle session
+- `STATE-HANDOFF.md` — état global actualisé
+
+### Strategy & findings
+- `weather-domination-strategy.md` — décision weather only
+- `economic-thesis.md` — DRAFT (bloquant G1 user review)
+- `city-optimization.md` — kill/boost list per city
+- `deep-learning-roadmap.md`
+- `findings.md`
+
+### Per-city (31 rapports)
+- `city-reports/_SUMMARY-2026-04-21.md` — vue d'ensemble
+- `city-reports/<slug>.md` — rapport détaillé par ville (27 + 4 sessions)
+
+### Sessions (chronologique)
+- `sessions/2026-04-20-polymarket-exec-wire.md`
+- `sessions/2026-04-20-g1-g2-kit-build.md`
+- Plus anciennes
+
+### Quality / gates
+- `g1-g2-qualification-kit.md`
+- `g1-g2-todo-tracker.md`
+- `gate-scorecard-spec.md`
+- `audit-hedge-fund-grade.md`
+
+## 8. DATA FLOW RÉEL (après cleanup)
+
+### Signal émis toutes les 5 minutes
+1. Scanner fetch 348 markets Polymarket actifs
+2. Pour chaque (icao, target_date), enrich features
+3. Apply ensemble (BMA + XGB + HMM)
+4. Calibration per-city
+5. 8 filtres séquentiels (voir Flow Diagram)
+6. `persist_signal` → signal_log
+7. `execute_signal` → trade_log FILLED (slippage-adjusted)
+
+### Settlement toutes les 24h (09:20 UTC)
+1. `reconcile_from_obs.py` fetch observations (METAR + ARCHIVE)
+2. Match (icao, target_date) → compute outcome_yes
+3. INSERT INTO signal_outcomes
+4. `close_resolved_trades` → trade_log CLOSED + pnl_usdc
+
+### Monitoring quotidien
+- 08:00 `gate-scorecard` → G1 status
+- 08:15 `perf-digest` → Telegram
+- 09:00 `daily-pnl` → track_record.csv
+- 09:20 `reconcile-obs` → outcomes + close trades
+- 09:30 `city-optimizer` → DISABLED/BOOST per ville
+- 09:45 `ttr-denylist` → refit per (city, bucket)
+
+## 9. COMMANDES PRATIQUES
+
+```bash
+cd /Users/paul/polymarket-hedge
+
+# Status rapide
+uv run python scripts/trade_status.py
+
+# TUI live
+uv run python scripts/alpha_tui.py
+
+# Web dashboard
+open http://127.0.0.1:8090
+
+# Deep dive une ville
+uv run python scripts/city_deep_dive.py --city austin
+
+# Tuner per-city manuel
+uv run python scripts/city_optimizer.py --apply
+
+# Setup Pangu (après download complet)
+uv run python scripts/setup_pangu.py --verify
+
+# Run Pangu cycle (après ~/.cdsapirc setup)
+uv run python scripts/run_pangu_cycle.py --steps 3
+
+# Force scan manuel
+uv run python scripts/run_alpha_live.py --once
 ```
 
-Le risk manager décide size finale via Kelly correlation-adjusted.
+## 10. CLEANUP DONE (2026-04-21)
 
-## Layer 4 : Execution + Risk
+- ✅ Delete `pangu_forecaster.py` (scaffold orphelin)
+- ✅ Disable launchd `polymarket-dashboard` (ancien web_dashboard port 8765 en conflit)
+- ✅ Move legacy scripts vers `scripts/legacy/` (5 fichiers)
+- ✅ 54 launchd jobs actifs (était 55)
+- ✅ Documentation architecture ce doc
 
-### Execution
+## 11. CLEANUP RESTANT (à faire quand Paul valide)
 
-**Polymarket CLOB direct** (pas Gamma API) :
-- WebSocket L2 orderbook stream → latence ~50-150ms
-- REST API pour order placement
-- Maker orders priority (rebates 0.02% → gagne spread)
-- Cancel-replace adaptive si prix drift
-
-**Order manager logic** :
-1. Post limit au best bid (buy) ou best ask + 1 tick (maker)
-2. Si pas filled après 30s → cancel + replace à mid
-3. Si mid bouge >2c de signal entry → skip
-4. Log fill price + slippage vs signal
-5. Update slippage model online (exponential moving avg)
-
-**VPS** :
-- Primary : AWS us-east-1 (proche Polymarket Matic RPC via Infura)
-- Backup : Hetzner EU
-- Health check mutual, failover automatique
-
-### Risk management
-
-**Sizing** :
-- Kelly fractional (pas full — 25-40% de full Kelly)
-- **Correlation-adjusted** : si 5 signaux sur villes corrélées, scale down par √5
-- Per-alpha cap (ex : sum-arb max 2% bankroll, model-vs-market max 5%)
-- Per-trade cap (ex : 2% bankroll par signal)
-
-**Caps** :
-- Per-city daily : 20% bankroll
-- Per-day total : 10% loss → kill switch
-- Per-signal type : cap selon WR historical
-
-**Kill switch triggers** :
-- Daily loss > 10% bankroll
-- Realized WR drift > 5 points vs expected
-- Data freshness DOWN sur >1 source critique
-- Model output diverge > 3σ de baseline
-- API rejection rate > 5%
-
-**Drawdown-based scaling** :
-- DD 0-10% : full sizing
-- DD 10-15% : 0.7× sizing
-- DD 15-20% : 0.5× sizing
-- DD > 20% : pause + manual review
-
-## Monitoring
-
-**Grafana + Prometheus** (à installer) :
-- Live P&L par alpha
-- Realized vs expected WR
-- Data freshness status
-- Order fill rate
-- API latency
-- Orderbook depth
-
-**Alerts Telegram** (existant) :
-- New signal émis
-- Trade exécuté + fill price
-- Daily P&L summary (09:00 Paris)
-- Kill switch trigger
-- Data source DOWN
-
-**Reports** :
-- Daily auto-report vers `vault/brantham/polymarket/reports/YYYY-MM-DD.md`
-- Weekly performance review
-- Monthly model retrain + evaluation
+- [ ] Archive DBs legacy (8 DBs) dans `backups/legacy-dbs/` après audit dépendances
+- [ ] Re-check 100+ scripts non-listés (probablement 30-40% legacy)
+- [ ] Tests unitaires pour `bucket_router.py`, `ttr_filter.py`, `live_executor.py`
+- [ ] Consolider 2 systèmes coexistants : migrer complètement `pmhedge.db` → `alpha_data_hub.db`
 
 ## Related
 
-- [[_MOC|Polymarket Hub]]
-- [[data-sources|Data sources détaillées par région]]
-- [[model-design|Design modèle ML détaillé]]
-- [[execution-design|Infrastructure execution]]
-- [[risk-management|Risk management]]
-- [[roadmap|Roadmap phased]]
+- [[MODEL-STATE-COMPLETE]]
+- [[CONTINUATION-PROMPT]]
+- [[STATE-HANDOFF]]
+- [[city-optimization]]
+- [[_MOC]]
