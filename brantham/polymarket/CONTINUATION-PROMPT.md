@@ -1,171 +1,288 @@
 ---
-name: Continuation Prompt — prochain session Claude
-description: Prompt exact à donner au prochain Claude pour reprendre la session 15j paper + tout le système en cours. Zero perte de contexte.
+name: Continuation Prompt — prochaine session Claude
+description: Prompt exact à donner au prochain Claude pour reprendre la session 15j paper + research pipeline + tout le contexte 2026-04-21. Zero perte de contexte.
 type: handoff
 priority: critical
 created: 2026-04-20
+updated: 2026-04-21
 tags: [polymarket, handoff, prompt, continuation]
 ---
 
-# Prompt à donner au prochain Claude
-
-Copy-paste ce qui suit dans la nouvelle session.
-
----
+# Prompt à copier-coller dans la prochaine session
 
 ```
-Projet Polymarket Weather Hedge Fund — /Users/paul/polymarket-hedge/.
-Je reprends une session 15-jour paper trading qui a été lancée 2026-04-20.
+Projet : Polymarket Weather Hedge Fund — /Users/paul/polymarket-hedge/
 
-DOCS À LIRE EN PRIORITÉ (dans cet ordre, OBLIGATOIRE avant toute action) :
-1. vault/brantham/polymarket/MODEL-STATE-COMPLETE.md — zéro-omission models snapshot
-2. vault/brantham/polymarket/STATE-HANDOFF.md — état global
-3. vault/brantham/polymarket/weather-domination-strategy.md — philosophie 100% weather
-4. vault/brantham/polymarket/CONTINUATION-PROMPT.md — ce doc
-5. research/hypotheses.jsonl — 19 hypothèses loggées (DSR compte)
+Paper session #1 ACTIVE depuis 2026-04-20. Bankroll $1000 target $100k via compound.
 
-CONTEXTE EN UNE PHRASE
-Le meilleur hedge fund weather Polymarket, stack hedge-fund-grade validé
-empiriquement, paper session 15j active, compound $1k → target $100k.
-Pas de crypto / sports / politics : weather only. Décision documentée
-dans weather-domination-strategy.md.
+Lis dans cet ordre avant de répondre :
+1. /Users/paul/vault/brantham/polymarket/ARCHITECTURE.md (structure complète)
+2. /Users/paul/vault/brantham/polymarket/CONTINUATION-PROMPT.md (ce doc)
+3. /Users/paul/vault/brantham/polymarket/TODO-pending.md (punch list P0-P6)
+4. /Users/paul/vault/brantham/polymarket/MODEL-STATE-COMPLETE.md (snapshot models)
+5. /Users/paul/vault/brantham/polymarket/city-optimization.md (kill/boost par ville)
 
-ÉTAT AU 2026-04-20 END OF SESSION
-- 41 launchd jobs actifs (live runner + training + monitoring + reports)
-- 145 scripts Python
-- 61 modules alpha
-- 506 EMOS buckets, 46 XGB per-station, 15 per-city isotonic calibrators
-- 1027 MODEL_VS_MARKET outcomes settled, WR 88%, ROI +83% net post-TC
-- 19 hypothèses loggées (12 closed, 7 deferred)
-- Gate scorecard G1 : 10 PASS / 1 FAIL (thesis user) / 2 N/A
-- Paper session #1 : RUNNING, starting $1000, target end 2026-05-05
+Mémoire auto : /Users/paul/.claude/projects/-Users-paul/memory/polymarket_paper_session_1.md
 
-LAST SESSION HIGHLIGHTS (2026-04-20)
-1. Compound engine live + dynamic bankroll (src/pmhedge/alpha/compound_engine.py)
-2. Bandit Thompson sampling WIRED dans signal_generator (72% MVM / 28% CONFIRMED_NO)
-3. Kelly default raised 0.25 → 0.40 (signal_generator.SignalGenConfig)
-4. DD bands live dans risk_manager (0-3 normal / 3-5 caution / 5-8 reduced / 8-10 kill / >10 breaker)
-5. Capacity tracker daily launchd
-6. Intraday Bayesian T_max update (alpha/intraday_update.py) — module ready, NOT wired dans signal_generator yet
-7. NWS event ingest live (63 alerts ingested, launchd 30min)
-8. CONFIRMED_YES re-enabled avec guardrails same-day (logic dans confirmed_oracle.py)
-9. TUI Dashboard quant (scripts/dashboard_quant.py) — 6 panels Textual + Rich fallback
-10. Paper session 15j lancée
+Règles absolues :
+- WEATHER ONLY (pas crypto/sports/politics)
+- Kelly 0.40 default
+- FR conversation / EN code
+- KMP_DUPLICATE_LIB_OK=TRUE avant uv run
+- No emojis, no violet
+- Accents FR obligatoires (é è ê à â ô î ï û ç)
+```
 
-SCRIPTS CRITIQUES — VÉRIFIER AU DÉMARRAGE
+## État au 2026-04-21 (après context-clear prévu)
+
+### Paper session #1 — Stats live
+
+- **1704 trades** (1518 closed, 186 open)
+- **P&L réalisé : +$19,599.51**
+- **WR : 83.6%**
+- Open exposure : $1,896.50
+- Avg / trade : +$12.91
+
+**Par tier** :
+- Tier S (MODEL YES deep_OTM, Kelly ×1.5) : +$15,607 / 228 trades / WR 17.6% / avg +$68.75 → STAR, 80% du P&L
+- Tier A (MODEL NO workhorse) : +$3,847 / 1075 trades / WR 94.5% / avg +$3.94
+- Tier C (CONFIRMED_NO) : +$98 / 134 trades / WR 100%
+- Tier B (MODEL NO >0.9) : +$48 / 267 trades / WR 96.9%
+
+### 2545 signaux émis total (686 aujourd'hui 2026-04-21)
+
+### City config : 36 ENABLED, 4 DISABLED (Tokyo, Chicago, Miami, NYC)
+
+## Scanner vs launchd — ce qui tourne automatiquement
+
+**Scanner live** (`run_alpha_live.py`) : loop 300s, PID persistant via launchd `com.paul.polymarket-alpha-live-runner`
+
+**54 launchd jobs actifs** :
+- `alpha-live-runner` (loop 300s)
+- `nwp-ingest` / `metar-archive` / `soil-ingest` / `synoptic-fetch` / `event-alerts`
+- Training : `bma-train`, `emos-train`, `ensemble-train`, `hmm-train`, `regime-v2-train`, `station-xgb`, `xgb-retrain`, `calibration`, `calibrators-train`, `city-calibrators`
+- Tuning quotidien : `city-optimizer` (09:30), `ttr-denylist` (09:45), `city-kelly`, `bandit-allocator`
+- Reconcile : `reconcile-obs` (09:20, close trades auto), `auto-settle`, `daily-pnl`, `daily-summary`
+- Monitoring : `circuit-breaker`, `drift-monitor`, `gate-scorecard` (08:00), `perf-digest` (08:15)
+- Dashboard : `alpha-dashboard` (port 8090)
+
+## Changements majeurs 2026-04-20 → 2026-04-21
+
+### 2026-04-20 après-midi — Exec pipeline fix
+
+**Bug critique** : 1793 signaux émis, 0 trades (pipeline exec débranché)
+
+**Fix** :
+- `src/pmhedge/alpha/bucket_router.py` (S/A/B/C tier classification sur edge empirique)
+- `src/pmhedge/alpha/live_executor.py` (paper fill + trade_log writer)
+- Wire dans `signal_generator.persist_signal()` ligne 559
+- Hook `close_resolved_trades()` dans `scripts/reconcile_from_obs.py`
+- 1646 trades backfillés, +$19k P&L théorique matérialisé
+
+### 2026-04-20 soir — Kill list per-ville
+
+**4 villes DISABLED** : Tokyo (-$1013 / WR 0%), Chicago (-$448 / WR 28%), Miami (-$203), NYC (-$151)
+
+**8 villes BOOST Kelly ×2** : Austin, Atlanta, Dallas, Beijing, SF, Houston, Denver, LA
+
+**Scripts** :
+- `scripts/city_optimizer.py` + launchd daily 09:30
+- `scripts/city_deep_dive.py` (27 rapports dans `vault/brantham/polymarket/city-reports/`)
+
+### 2026-04-20 soir — Per-(city, TTR) denylist
+
+**11 règles** blocked : Tokyo 24-48h, Chicago 24-48h, Wellington 24-48h, Miami 6-12h, Austin 0-6h, NYC 0-6h, etc.
+
+**Modules** : `src/pmhedge/alpha/ttr_filter.py` + launchd `ttr-denylist` (09:45 UTC)
+
+### 2026-04-20 fin — Calibration bug fix
+
+**Bug** : `use_calibration=False` par défaut dans `SignalConfig`. Tokyo calibrator (dit 1% partout) jamais appliqué avant 2026-04-20 09:36 UTC = 85 trades Tokyo perdus.
+
+**Fix** : `use_calibration=True` + `use_volatility_filter=True` default dans `signal_generator.py` ligne 218-222.
+
+### 2026-04-21 matin — Cleanup + Architecture doc
+
+**Cleanup** :
+- Delete `pangu_forecaster.py` (scaffold orphelin)
+- Disable launchd `polymarket-dashboard` (ancien port 8765 en conflit)
+- Move 5 scripts legacy → `scripts/legacy/`
+- 54 launchd actifs (était 55)
+
+**Doc** : `vault/brantham/polymarket/ARCHITECTURE.md` — vision ultra-claire du stack (flow diagram + 67 modules + 54 launchd + 150 scripts + 15 DBs)
+
+### 2026-04-21 midi — Pangu + ECMWF OpenData install
+
+**Deps installées** :
+```
+uv add onnxruntime cfgrib cdsapi xarray netCDF4 ecmwf-opendata
+brew install eccodes
+```
+- `onnxruntime` : 1.24.4 avec `CoreMLExecutionProvider` (M5 Metal)
+- `ecmwf-opendata` : 0.3.26 — **GRATUIT** pour HRES + ENS 51-membres
+
+**Modules créés** :
+- `src/pmhedge/alpha/pangu_runner.py` — ONNX inference M5/CPU fallback
+- `src/pmhedge/alpha/era5_ingest.py` — CDS API fetch
+- `src/pmhedge/alpha/ecmwf_client.py` — stub payant (inutile, OpenData gratuit)
+- `src/pmhedge/alpha/mesonet_client.py` — stub (free tier prêt)
+- `src/pmhedge/execution/market_maker.py` — stub maker rebate
+
+**Scripts** :
+- `scripts/setup_pangu.py` — download + verify
+- `scripts/run_pangu_cycle.py` — fetch ERA5 + run Pangu + insert as 13e NWP source
+- `scripts/train_pangu_city.py` — stub per-city fine-tune
+
+**Pangu download** : EN COURS via curl --retry 10 en background. Premier DL 1.1GB corrompu (Protobuf parse fail), retry.
+URL : `https://get.ecmwf.int/repository/test-data/ai-models/pangu-weather/pangu_weather_24.onnx`
+Size attendue : 1,181,711,187 bytes (~1.18 GB)
+File path : `models/pangu_weather_24.onnx`
+
+### 2026-04-21 après-midi — Research Pipeline 2-pôles
+
+**Structure** : `research/pole_stats/` + `research/pole_analysis/` + `research/data/` + `research/outputs/`
+
+**Scripts créés** :
+- `research/pole_stats/01_city_discovery.py` — 38 villes, $288M volume historique
+- `research/pole_stats/02_city_trajectories.py` — 46 villes, ACF/runs/regimes/mean-reversion/diurnal
+
+**Findings critiques** :
+
+1. **London $65.3M volume UNTAPPED** → jamais configurée avant, maintenant ENABLED
+2. **9 villes activées** : London, Shanghai, Toronto, Sao Paulo, Madrid, Munich, Amsterdam, Moscow, Istanbul, Busan
+3. **Shanghai ACF lag-7 = 0.92** (persistance massive → edge continuation tradable)
+4. **Hong Kong 11j max up-run** (heatwaves persistantes)
+5. **Kuala Lumpur/Jakarta/Singapore half-life 1.5-2.2j** (climat tight, markets efficient, pas d'edge facile)
+
+**Outputs** :
+- `research/outputs/01_discovery.md` + `cities_universe.json`
+- `research/outputs/02_trajectories.md` + `city_trajectories.json`
+- `research/outputs/analysis_01_priority_actions_2026-04-21.md`
+
+## BLOQUANTS user
+
+1. **Pangu download** : en cours (135MB/1.18GB, ~15% au moment du context-clear). Check status avec `ls -lh models/pangu_weather_24.onnx`
+2. **Compte Copernicus CDS** : user doit créer compte + accepter licences ERA5
+   - URL : https://cds.climate.copernicus.eu/user/register
+   - Licences : reanalysis-era5-pressure-levels + reanalysis-era5-single-levels
+   - Après : `~/.cdsapirc` avec clé API
+3. **Debug London/Toronto/Sao Paulo 0 signaux** : le scanner voit les markets mais 0 signaux dans signal_log. Investigation en pending.
+4. **Review `economic-thesis.md`** : ajouter `THESIS VALIDATED BY PAUL ON YYYY-MM-DD` pour débloquer G1 exit
+
+## Actions P0 au reprise de session
+
+1. **Check Pangu download complet** : `ls -lh /Users/paul/polymarket-hedge/models/pangu_weather_24.onnx`
+   - Si >= 1.1GB : `uv run scripts/setup_pangu.py --verify`
+   - Si incomplet : relance `curl -L --retry 10 -C - -o ... $URL`
+2. **Check Copernicus setup** : `ls ~/.cdsapirc`
+   - Si existe : `uv run scripts/run_pangu_cycle.py --steps 3`
+   - Si absent : rappel à user
+3. **Debug London 0 signaux** : scan manuel verbose
+4. **Continuer pôle stats 03-07** et **pôle analysis 02-04**
+
+## Commandes essentielles
+
+```bash
 cd /Users/paul/polymarket-hedge
 
-# Compter launchd (attend 41)
-launchctl list | grep polymarket-alpha | wc -l
+# Status & monitoring
+uv run python scripts/trade_status.py          # snapshot CLI
+uv run python scripts/alpha_tui.py             # TUI Rich refresh 5s
+open http://127.0.0.1:8090                     # web dashboard
 
-# Paper session status
-KMP_DUPLICATE_LIB_OK=TRUE uv run scripts/paper_session_15d.py status
+# Research pipeline
+uv run python research/pole_stats/01_city_discovery.py
+uv run python research/pole_stats/02_city_trajectories.py
+uv run python research/pole_analysis/01_priority_actions.py
 
-# Compound state
-KMP_DUPLICATE_LIB_OK=TRUE uv run scripts/compound_status.py
+# City tuning
+uv run python scripts/city_optimizer.py        # dry-run
+uv run python scripts/city_optimizer.py --apply
+uv run python scripts/city_deep_dive.py --city <slug>
 
-# Gate scorecard
-KMP_DUPLICATE_LIB_OK=TRUE uv run scripts/gate_scorecard.py --gate G1
+# Pangu (après ~/.cdsapirc setup)
+uv run python scripts/setup_pangu.py --verify
+uv run python scripts/run_pangu_cycle.py --steps 3
 
-# Dashboard one-shot
-KMP_DUPLICATE_LIB_OK=TRUE uv run scripts/dashboard_quant.py --once
+# Scanner manuel
+uv run python scripts/run_alpha_live.py --once
 
-REGLES ABSOLUES
-- WEATHER ONLY. Refuser explicitement toute demande de diversification
-  vers crypto / sports / politics (décision stratégique documentée).
-- Les features H0013 (monsoon), H0014 (altitude), H0016 (nwp_disagree)
-  sont REJECTED/PARTIAL par discipline hedge-fund-grade. Ne pas les
-  réactiver sans re-validation walk-forward strict.
-- DRN restera DISABLED jusqu'à ERA5 Copernicus (user unblock).
-- Pangu ONNX scaffold existe : models/pangu_24h.onnx attendu user.
-- LLM features GRACEFUL fallback sans API key. User action : export ANTHROPIC_API_KEY.
-
-BLOQUANTS USER (à rappeler si pertinent)
-- review economic-thesis.md + sentinel THESIS VALIDATED BY PAUL ON ...
-- ANTHROPIC_API_KEY pour LLM event features (+3-5% edge)
-- Polymarket wallet + py-clob-client install pour real trading
-- Copernicus CDS account pour ERA5 / DRN
-- Pangu-Weather ONNX file drop
-
-BOUCLE FERMÉE SELF-OPTIMIZING
-- bandit_allocator daily 05:45 → weights MODEL_VS_MARKET / CONFIRMED_NO
-- decay_monitor daily 06:00 --apply → alpha_states DISABLE si t-stat dégrade
-- capacity_tracker daily → retention edge monitoring
-- city_config audit daily 10:00 --apply → auto-DISABLE post-TC CI95<0
-- compound_engine read every scan → bankroll dynamique
-- DD bands in risk_manager → auto-cut Kelly si DD rolling
-
-CHOSES QUI POURRAIENT VENIR ENSUITE
-1. Wire intraday_update.refine_intraday() dans signal_generator post-12z UTC
-   (module prêt, integration 30min)
-2. Wire event_ingest.event_feature_for_market() dans enrich_features
-   (fonction prête, integration 20min)
-3. Activer use_portfolio_kelly=True après 7j validation
-4. Re-run bandit_allocator après qq jours de nouveaux outcomes
-5. Si T=30 distinct days atteint : re-run var_es_kupiec, correlation_drift,
-   DSR daily (vs DSR per-trade)
-6. Wire concurrent_positions.record_position() dans persist_signal
-7. Activer vol_targeting en mode opt-in
-8. Market-making weather thin markets (Seoul/Moscow/Lucknow) — mais
-   seulement après $50k bankroll (pas pour $1k-100k)
-
-ARCHITECTURE FLOW (référence rapide)
-DATA (12 NWP + obs + synoptic + events) → MODEL (climato + EMOS + BMA + XGB
-+ regime HMM) → POST-PROC (isotonic + tail + vol + session + edge_band
-filters) → SIGNAL (MODEL_VS_MARKET + CONFIRMED_NO/YES) → RISK (Kelly +
-portfolio Kelly + DD bands + circuit breaker) → PERSIST (alpha_states
-+ session_filter check + audit log) → [EXEC live post-wallet]
-→ SETTLEMENT (reconcile obs) → FEEDBACK (bandit + decay + compound + DD)
-
-LANGUE
-Français conversation, anglais code. Pas d'emojis. Pas de violet.
-Accents obligatoires (é è à â ô î ï ç).
+# Reconcile + close trades
+uv run python scripts/reconcile_from_obs.py
 ```
 
----
+## Scripts importants par rôle
 
-## Notes pour le toi-futur Claude
+### Pipeline live
+- `scripts/run_alpha_live.py` — scanner principal, loop 300s
+- `src/pmhedge/alpha/signal_generator.py::persist_signal` ligne 526 — orchestre filtres + execute
+- `src/pmhedge/alpha/live_executor.py::execute_signal` — paper fill + trade_log
+- `src/pmhedge/alpha/bucket_router.py::route` — classification S/A/B/C/KILL
 
-Ne pas oublier :
+### Filtres (ordre d'application dans persist_signal)
+1. `is_alpha_enabled(alpha_type)` — kill switch global
+2. `session_filter.should_block(ts)` — h06-09 UTC block
+3. `ttr_filter.is_blocked(city, ttr_h)` — per-(city, bucket) denylist
+4. `get_config(city_slug).status == DISABLED` — city kill
+5. Risk manager Kelly/exposure
+6. `execute_signal()` → paper fill → trade_log
 
-1. **`KMP_DUPLICATE_LIB_OK=TRUE` toujours** avant `uv run` pour XGBoost + torch (OpenMP collision sur macOS ARM)
+### Settlement (cron)
+- `scripts/reconcile_from_obs.py` → signal_outcomes + close_resolved_trades (09:20 UTC)
 
-2. **Schema `alpha_states`** : primary key `alpha_type`, status ENABLED/DISABLED seulement (pas SHADOW — c'est au niveau `city_config` pour les villes).
+### Research (2-pôles)
+- `research/pole_stats/` — stats brutes auto
+- `research/pole_analysis/` — interpretation + actions
 
-3. **Compound engine table** : `compound_state` a 1 seule row (id=1) qui track starting_bankroll + current (via joins à signal_outcomes).
+## Doublons à surveiller
 
-4. **Paper session** : `paper_sessions` table, status RUNNING/COMPLETED/CANCELLED.
+- 11 DBs legacy restent (bracket_scalper_trades, pmhedge, coldmath_trades, etc.) — non archivées car refs existent. TODO : audit complet.
+- 150 scripts dans `scripts/` — 30-40% probablement legacy (voir `ARCHITECTURE.md` pour liste canonique)
 
-5. **Dashboard TUI** : deux modes — textual interactive (default) ou `--once` Rich render (safe background tmux). Keybindings q/r/1-6.
+## Principes Paul
 
-6. **Research log** : **19 hypotheses** = compteur DSR. Ne pas re-logger d'anciennes. Utiliser `scripts/log_hypothesis.py add` pour nouvelles.
+- Kelly 0.40 default (pas plus sans validation)
+- Weather only (pas d'autres marchés)
+- Paper 15j avant live money
+- Pas de fix cosmétiques — root cause
+- Tester avant de dire "done"
+- Pas d'emojis, pas de violet, accents FR
 
-7. **City config rules (2026-04-20 upgrade)** :
-   - `DISABLED` si `net_roi_ci95_upper < 0` AND N≥30 (post-TC)
-   - `ENABLED` override si `net_roi_ci95_lower > 0` AND N≥30 (stat-profitable)
-   - Austin reste ENABLED grâce à l'override (CI95_lo +4.93)
+## Memory notes
 
-8. **Session filter blocked hours** : UTC {6, 7, 8, 9}. Override via env `PMHEDGE_BLOCKED_HOURS="6,7,8,9"`.
+- Projet mémorisé : `memory/polymarket_paper_session_1.md`
+- Global MEMORY : `MEMORY.md`
+- Paper session finit 2026-05-05 (15 jours)
 
-9. **Bandit cache** : 15 min TTL dans `signal_generator._bandit_weight`. Si tu changes alpha_allocator_weights, attendre 15 min ou redémarrer live runner.
+## Quick health check à la reprise
 
-10. **Portfolio Kelly** : opt-in (default False). Flip `RiskConfig.use_portfolio_kelly=True` après validation G2 paper shadow.
+```bash
+# Scanner toujours up?
+launchctl list | grep alpha-live-runner
 
-11. **Intraday update** : NOT yet wired dans signal_generator.create_model_vs_market_signal. Le module existe mais il faut ajouter `refine_intraday()` call post-12z UTC pour override mu/sigma forecast. C'est la priorité 1 des optimisations pending.
+# Dashboard web up?
+curl -s http://127.0.0.1:8090/api/state | python3 -c "import json,sys; d=json.load(sys.stdin); print(f'P&L: \${d[\"total\"][\"pnl\"]:+,.2f}, trades: {d[\"total\"][\"trades\"]}')"
 
-## Fichiers à ne JAMAIS supprimer
+# Circuit breaker state?
+sqlite3 alpha_data_hub.db "SELECT status, reason FROM alpha_states WHERE alpha_type='__CIRCUIT_BREAKER__'"
 
-- `alpha_data_hub.db` — données de trading + outcomes + attributions + compound
-- `emos_alpha.db` — 506 EMOS buckets
-- `city_models.db` — climatologies DOY
-- `research/hypotheses.jsonl` — append-only log (DSR N_trials)
-- Tous les `models/*.json`, `models/*.pkl`, `models/*.pt`
-- Tous les launchd `.plist` dans `~/Library/LaunchAgents/com.paul.polymarket-alpha-*`
+# Trades aujourd'hui
+sqlite3 alpha_data_hub.db "SELECT COUNT(*) FROM trade_log WHERE open_ts > unixepoch('$(date -u +%Y-%m-%d)')"
+```
+
+## Pièges connus
+
+- `KMP_DUPLICATE_LIB_OK=TRUE` requis avant `uv run` sur macOS (OpenMP conflict)
+- Python 3.14 sur le venv (attention compat deps)
+- Certaines tables SQLite ont `obs_ts` pas `ts` (obs_temperature vs signal_log)
+- Signal metadata stocké en TEXT JSON, utiliser `json_extract(metadata, '$.key')`
+- `city_slug` lowercase dans nos tables, `city` capitalized dans Polymarket
 
 ## Related
 
-- [[MODEL-STATE-COMPLETE|Model state zero-omission]]
-- [[STATE-HANDOFF|State handoff]]
-- [[weather-domination-strategy]]
-- [[g1-g2-qualification-kit]]
-- [[_MOC]]
+- [[ARCHITECTURE]] — structure complète
+- [[STATE-HANDOFF]] — état global actualisé
+- [[MODEL-STATE-COMPLETE]] — snapshot models
+- [[TODO-pending]] — punch list
+- [[city-optimization]] — kill/boost per-city
+- [[_MOC]] — hub central
