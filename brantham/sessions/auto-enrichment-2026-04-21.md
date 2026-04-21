@@ -1,12 +1,31 @@
+---
+date: 2026-04-21
+type: session
+projet: brantham
+---
 
-## Cycle 02:46
+# Session auto-enrichment — 2026-04-21
 
-- **Scrape AJ** : lancement...
-  - OK : 466 opportunites scrapees
+## Résumé
 
-## Deep Enrichment 05:45
+| Métrique | Valeur |
+|----------|--------|
+| Scrape AJ lancé | Oui (fichier > 3h) |
+| Opportunités scrapées | 466 (40 sites) |
+| Qualifiées (CA > 500K ou score > 60) | 15 |
+| Nouvelles sans dossier | 0 |
+| Deals traités | 2 |
+| Erreurs | FastAPI port 8000 down |
 
-## Cycle 05:46
+## Deals complétés
 
-- **Scrape AJ** : lancement...
-  - OK : 466 opportunites scrapees
+- `abitbol-restauration` (CA 3.4M, 34 sal., franchise 95) : analyse.md + acheteurs.json
+- `abitbol-restaurant` (CA 1.2M, 18 sal., franchise 95) : acheteurs.json
+
+## Repreneurs identifiés (API gouvernement, NAF 56.10A)
+
+BUFFALO GRILL (318906443), HIPPOPOTAMUS (322566043), 3 BRASSEURS (509530770), ECP FRANCE (499388445), EXTIME F&B PARIS (841723067)
+
+## Related
+
+[[brantham/_MOC]] | [[brantham/pipeline/QUEUE]]
