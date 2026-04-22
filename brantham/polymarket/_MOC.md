@@ -117,6 +117,8 @@ Stack validé :
 - [[questions|Questions critiques + réponses]]
 
 ### Findings & Backtests
+- [[odds-trajectories-v2-findings|Odds Trajectories v2 — 6 mois on-chain (2026-04-22)]]
+- [[odds-trajectories-findings|Odds Trajectories v1 — basé sur signal_log (2026-04-22)]]
 - [[findings|Diagnostics & edges détectés]]
 - [[backtest-results/2026-04-17-baseline|Baseline backtest 2026-04-17]]
 
