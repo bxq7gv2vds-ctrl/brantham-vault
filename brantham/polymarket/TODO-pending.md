@@ -1,93 +1,93 @@
 ---
-name: Polymarket — TODO pending (2026-04-21)
-description: Punch list actualisée après research pipeline + cleanup. Actions ordonnées par priorité (P0 = immédiat, P4 = structural).
+name: Polymarket — TODO pending (2026-04-22)
+description: Punch list MAJ après session hedge-fund-grade upgrades. P&L réel $979, plafond AUM $10-20k identifié.
 type: todo
 project: brantham/polymarket
 created: 2026-04-18
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [polymarket, todo, roadmap]
 priority: critical
 ---
 
 # Polymarket — TODO pending
 
-## P0 — Immédiat (en cours / bloquant)
+## COMPLETED 2026-04-22
 
-- [ ] **Pangu ONNX re-download** — premier fichier corrompu, retry curl --retry 10 en background (~10-15 min)
-- [ ] **Vérifier Pangu ONNX load** post-download : `uv run scripts/setup_pangu.py --verify`
-- [ ] **Debug London/Toronto/Sao Paulo 0 signaux** : tracer pourquoi ces villes (ENABLED maintenant, markets actifs) ne génèrent pas de signaux dans signal_log. Tester scan manuel avec logging verbose.
+- [x] **city_slug NULL bugfix** — confirmed_oracle + pair_arb wire Signal properly
+- [x] **σ shrinkage per-city** — table + module + 46 villes + daily launchd 09:35
+- [x] **Tier S v2 hedge-fund gates** — kill above_N/narrow/short_TTR/low_edge
+- [x] **Tier S whitelist DB-backed** — auto-adaptatif + daily audit 09:40
+- [x] **Market-side dedup** — révélé 20× P&L inflation, true P&L $979
+- [x] **Slippage realistic** — price-aware fallback 1500 bps deep OTM
+- [x] **Volume metadata** — signal_log.metadata.volume_usdc + backfill
+- [x] **Capacity analysis** — plafond AUM $10-20k identifié
+- [x] **Odds trajectories backtest** — 50% convergence = efficient markets
+- [x] **Research pipeline** 7 stats + 6 analysis scripts
 
-## P1 — User action required (bloquant modèle amélioré)
+## P0 — User action required
 
 - [ ] **Compte Copernicus CDS** : register free + accepter licences ERA5
   - URL : https://cds.climate.copernicus.eu/user/register
   - Licences : reanalysis-era5-pressure-levels + reanalysis-era5-single-levels
-- [ ] **Créer `~/.cdsapirc`** avec clé API après register
-- [ ] **Validate economic-thesis** : review [[economic-thesis]] et ajouter sentinel `THESIS VALIDATED BY PAUL ON YYYY-MM-DD` pour débloquer G1 exit
+- [ ] **Créer `~/.cdsapirc`** avec clé API après register → débloque Pangu
+- [ ] **Validate economic-thesis.md** : sentinel `THESIS VALIDATED BY PAUL ON YYYY-MM-DD`
 
-## P2 — Quick wins (< 1h)
+## P1 — Investigation after scanner accumulates clean data
 
-- [ ] **Force-fit calibrators** pour Seoul, Tel Aviv, Seattle, Sao Paulo, London, Toronto, Shanghai, Buenos Aires, Shenzhen (villes ENABLED sans calibrator)
-  - Script : `scripts/train_city_calibrators.py --city=<slug>`
-- [ ] **Run Pangu cycle** après Copernicus setup : `uv run scripts/run_pangu_cycle.py --steps 3`
-- [ ] **Re-run city_deep_dive** pour les 10 villes nouvellement activées (après 7j de data accumulation)
+- [ ] **Debug London/Toronto/Sao Paulo 0 signaux** — villes ENABLED mais émission faible
+- [ ] **Re-validate Austin edge** post-dedup (n actuel = 2 unique, besoin n ≥ 15)
+- [ ] **Promote LA/NYC/Denver à graylist** via `audit_tier_s_whitelist.py` si n ≥ 15 WR ≥ 50%
 
-## P3 — Research pipeline à compléter (pôle stats)
+## P2 — Scale beyond Polymarket weather
 
-- [x] **01_city_discovery.py** — 38 villes, $288M volume (DONE)
-- [x] **02_city_trajectories.py** — ACF, runs, regimes, mean reversion (DONE, 46 villes)
-- [ ] **03_city_forecast_skill.py** — skill scores 12 NWP sources per-city (CRPS, MAE, bias)
-- [ ] **04_city_market_microstructure.py** — spreads moyens, bracket density, bid-ask, depth
-- [ ] **05_city_outcome_distributions.py** — actual vs predicted distributions per-city
-- [ ] **06_sigma_empirical.py** — σ empirique vs σ prédit par NWP (detect bias Tokyo-like)
-- [ ] **07_bracket_sweep.py** — quels brackets tradés (lower/mid/upper tail preferences market)
+- [ ] **Wire Kalshi weather** — stub `kalshi_client.py` dormant, volume 10× Polymarket
+- [ ] **Wire ECMWF OpenData** (13e NWP gratuite — HRES + ENS 51 membres)
+- [ ] **Wire Pangu BMA** (après CDS setup user)
+- [ ] **Persistence factor feature** — Shanghai ACF 0.92 momentum
 
-## P3b — Research pipeline (pôle analysis)
+## P3 — Risk management
 
-- [x] **01_priority_actions.py** — 14 actions P0/P1/P2 (DONE)
-- [ ] **02_cross_city_correlation.py** — regime clustering (villes qui bougent ensemble)
-- [ ] **03_hedge_detection.py** — (city_A, city_B) avec correlation négative → hedge pairs
-- [ ] **04_model_recommendations.py** — per-city hyperparam tuning auto (σ shrinkage, Kelly override)
-- [ ] **05_momentum_patterns.py** — identifier villes avec persistance tradable (ex: Shanghai ACF 0.92)
+- [ ] **Cluster cap dans risk_manager** — depuis correlation findings (austin↔houston ρ=0.91)
+- [ ] **Force-fit calibrators** villes ENABLED — bloqué par n_outcomes < 30
+- [ ] **Regime-aware filters** — detect saisonnalité edges (Austin printemps seul?)
 
-## P4 — Infrastructure (structural)
+## P4 — Infrastructure
 
-- [ ] **Wire ECMWF OpenData** dans `nwp_sources.py` — ajouter comme 13e source NWP (HRES + ENS gratuit)
-- [ ] **Wire Pangu dans BMA** : après run_pangu_cycle valide, ajouter 'PANGU' aux ensemble_weights
-- [ ] **Tests unitaires** : `bucket_router.py`, `ttr_filter.py`, `live_executor.py`, `city_optimizer.py`
-- [ ] **Fusion `pmhedge.db` → `alpha_data_hub.db`** — migrer les 2 systèmes coexistants
-- [ ] **Archive DBs legacy** : `bracket_scalper_trades.db`, `coldmath_trades.db`, `mega_dataset.db`, `oracle_data.db` dans `backups/legacy-dbs/`
-- [ ] **Audit 150 scripts** : probablement 30-40% legacy à archiver
+- [ ] **Tests unitaires** : bucket_router v2, ttr_filter, sigma_shrinkage, live_executor dedup
+- [ ] **Fusion pmhedge.db → alpha_data_hub.db** (2 DBs coexistantes)
+- [ ] **Archive DBs legacy** dans backups/
+- [ ] **Audit 150 scripts** — 30-40% probablement legacy
 
-## P5 — Pro-level features (budget ou stratégique)
+## P5 — Pro-level
 
-- [ ] **Mesonet Synoptic free tier** (5k req/day) — token free, wire dans `mesonet_client.py`
-- [ ] **LLM features Claude API** — wire dans `llm_features.py`, `ANTHROPIC_API_KEY` déjà en env
-- [ ] **Market-making rebate** — branch `market_maker.py` quand py-clob-client wired
+- [ ] **Mesonet Synoptic** (free tier 5k req/day) wire dans `mesonet_client.py`
+- [ ] **LLM features Claude API** — `llm_features.py`, ANTHROPIC_API_KEY en env
+- [ ] **Market-making rebate** — `market_maker.py` quand py-clob-client wired
 - [ ] **Live trading wire** — `POLY_PRIVATE_KEY` + py-clob-client dans `order_manager.py`
-- [ ] **Kalshi cross-venue** — `kalshi_client.py` dormant, activate pour capacity scaling
 
-## P6 — Out of scope sauf budget (optionnel)
+## P6 — Out of scope
 
-- [ ] ECMWF HRES payant $50k/an — **pas nécessaire** vu OpenData gratuit
-- [ ] Mesonet paid $500/mo — historique 10 ans pour training
-- [ ] Équipe quants (4-8 pers) — capacity scaling
-- [ ] Colocation NY5/LD5 — latency edge
-- [ ] Pangu per-city fine-tune (quand N_obs >= 150 par ville)
+- [ ] ECMWF HRES payant $50k/an — inutile vu OpenData gratuit
+- [ ] Mesonet paid $500/mo
+- [ ] Colocation NY5/LD5
+- [ ] Pangu per-city fine-tune (quand N_obs ≥ 150 par ville)
 
 ## Tracking
 
-| Task ID | Subject | Status |
-|---------|---------|--------|
-| 11 | Re-download Pangu ONNX | in_progress |
-| 12 | Debug London 0 signaux | pending |
-| 13 | Pôle stats 02-05 | in_progress (01, 02 done; 03-07 pending) |
-| 14 | Pôle analysis 02-04 | pending |
+| Task | Status |
+|------|--------|
+| Paper accumulate post-dedup | in_progress (started 2026-04-22) |
+| User CDS setup | pending user |
+| Austin re-validation | blocked — need 15+ unique trades |
+| Multi-venue (Kalshi) | P2 — highest ROI for scaling |
 
 ## Related
 
+- [[CONTINUATION-PROMPT]]
+- [[dedup-bug-p-and-l-inflation]]
+- [[capacity-reality-check]]
+- [[tier-s-v2-hedge-fund-gates]]
+- [[odds-trajectories-findings]]
+- [[research-findings-2026-04-21]]
 - [[ARCHITECTURE]]
-- [[MODEL-STATE-COMPLETE]]
-- [[STATE-HANDOFF]]
-- [[city-optimization]]
 - [[_MOC]]
