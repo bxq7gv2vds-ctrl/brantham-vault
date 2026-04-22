@@ -117,6 +117,7 @@ Stack validé :
 - [[questions|Questions critiques + réponses]]
 
 ### Findings & Backtests
+- [[quant-deep-dive/_MOC|Quant Deep Dive Master (38 villes × 6 mois on-chain, tests stat + ML + microstructure)]]
 - [[per-city-deep-dive/_MOC|Per-City Deep Dive (38 villes, summary cross-city)]]
 - [[odds-trajectories-v2-findings|Odds Trajectories v2 — 6 mois on-chain (2026-04-22)]]
 - [[odds-trajectories-findings|Odds Trajectories v1 — basé sur signal_log (2026-04-22)]]
