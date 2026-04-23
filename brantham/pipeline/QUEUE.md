@@ -361,3 +361,15 @@ Scrape: 465 opportunités / 31 sites / 2026-04-15 22:55
 | Repreneurs via API gouv | 0 (retours vides) |
 
 Note: API FastAPI (port 8000) hors ligne ce cycle — matching 4D non disponible.
+
+## Nouvelles opportunites — 2026-04-23
+- [ ] **Viticulture** | CA: 14M€ | Eff: 140 | Abitol & Rousselet | Score: 100 | slug: `abitol-rousselet-viticulture`
+- [ ] **Fondation d’utilité publique dédiée à l’action sociale** | CA: 50M€ | Eff: 500 | Maydaymag | Score: 100 | slug: `maydaymag-fondation-d-utilite-publique-dediee-a-l-action-sociale`
+- [ ] **Gestion externalisée, éco-responsable, de parcs de barriques pour les propriétés viticoles** | CA: 50M€ | Eff: 275 | Maydaymag | Score: 100 | slug: `maydaymag-gestion-externalisee-eco-responsable-de-parcs-de-barriques-pour-les-pr`
+- [ ] **Travaux publics et de VRD ; terrassement spécialisé, assainissement ; aménagement urbain et lotissement** | CA: 5-50M€ | Eff: 275 | Maydaymag | Score: 90 | slug: `maydaymag-travaux-publics-et-de-vrd-terrassement-specialise-assainissement-amena`
+- [ ] **Transports routiers de personnes et toutes activités annexes de voiture avec chauffeur** | CA: 5-50M€ | Eff: 275 | Maydaymag | Score: 90 | slug: `maydaymag-transports-routiers-de-personnes-et-toutes-activites-annexes-de-voitur`
+- [ ] **Groupe exploitant, sous franchise, 7 fonds de commerce de restauration** | CA: 5-50M€ | Eff: 275 | Maydaymag | Score: 90 | slug: `maydaymag-groupe-exploitant-sous-franchise-7-fonds-de-commerce-de-restauration`
+- [ ] **Distribution de chaussures et d’accessoires de mode moyen haut de gamme** | CA: 5-50M€ | Eff: 275 | Maydaymag | Score: 90 | slug: `maydaymag-distribution-de-chaussures-et-d-accessoires-de-mode-moyen-haut-de-gamm`
+- [ ] **Organisme de formation à destination de l’insertion (jeunes & adultes)** | CA: 5-50M€ | Eff: 275 | Maydaymag | Score: 90 | slug: `maydaymag-organisme-de-formation-a-destination-de-l-insertion-jeunes-adultes`
+- [ ] **Etablissement d’enseignement supérieur en alternance dédié aux métiers de la communication et du digital** | CA: 5-50M€ | Eff: 275 | Maydaymag | Score: 90 | slug: `maydaymag-etablissement-d-enseignement-superieur-en-alternance-dedie-aux-metiers`
+- [ ] **ZIEGLER FRANCE SA** | CA: 50M€ | Eff: 500 | Maydaymag | Score: 90 | slug: `maydaymag-ziegler-france-sa`
