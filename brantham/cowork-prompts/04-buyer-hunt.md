@@ -91,12 +91,13 @@ Pour chaque entreprise retournée, noter : SIREN / nom / CA si disponible / loca
 
 ## ÉTAPE 3 — Qualification financière sur Pappers
 
-Pour les 50 meilleurs candidats (CA le plus élevé), aller sur **https://www.pappers.fr/entreprise/[nom-ou-siren]** et vérifier :
+Pour les **80 meilleurs candidats** (CA le plus élevé), aller sur **https://www.pappers.fr/entreprise/[nom-ou-siren]** et vérifier :
 
 **Filtres obligatoires :**
-1. CA ≥ 5× CA de la cible
+1. CA ≥ 3× CA de la cible
 2. Entreprise active (pas en procédure collective — vérifier sur BODACC)
 3. Capitaux propres positifs
+4. Au moins 1 résultat net positif sur les 2 derniers exercices (rentable)
 
 **Score de qualification (0-4 pts) :**
 - Trésorerie nette positive → +1 pt
@@ -104,7 +105,7 @@ Pour les 50 meilleurs candidats (CA le plus élevé), aller sur **https://www.pa
 - Croissance CA sur 2 ans → +1 pt
 - Acquisitions passées connues → +1 pt
 
-Minimum requis : score ≥ 2/4.
+Minimum requis : score ≥ 2/4. Objectif : **30 à 50 acheteurs qualifiés** (au lieu de 15-25 historiquement).
 
 Pour vérifier les acquisitions passées : chercher sur Google `"[nom entreprise]" acquisition rachat 2022 2023 2024`
 
