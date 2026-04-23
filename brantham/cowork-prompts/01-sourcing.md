@@ -212,6 +212,37 @@ Ne jamais modifier le statut des opportunités déjà en pipeline.
 
 ---
 
+## ÉTAPE 7b — Notifier Telegram (par opportunite GO ou WATCH)
+
+Pour CHAQUE deal en GO ou WATCH (jamais pour PASS), envoyer une notification Telegram avec boutons inline GO/NO-GO. Paul valide depuis son tel.
+
+```bash
+SLUG=[slug]
+DATA=$(python3 -c "
+import json
+print(json.dumps({
+  'score': [SCORE],
+  'days_left': [DAYS],
+  'ca': [CA_NUM_OR_NULL],
+  'sector': '[SECTEUR]',
+  'ville': '[VILLE]',
+  'procedure': 'RJ',
+  'deadline': '[DEADLINE_YYYY-MM-DD]',
+  'aj': '[CABINET_AJ]',
+  'notes': '[1 phrase contexte]'
+}))")
+
+python3 /Users/paul/Downloads/brantham-pipeline/notify_telegram.py send \
+  --slug "$SLUG" \
+  --data "$DATA"
+```
+
+Le clic GO de Paul declenche automatiquement la suite du pipeline (deal-analysis → buyer-hunt → contact-enricher → outreach-draft) via la queue `~/.openclaw/agents/_shared/queue/`.
+
+**Si la notif Telegram echoue** : logger dans `errors` mais NE PAS bloquer le run.
+
+---
+
 ## ÉTAPE 8 — Alertes urgences
 
 Vérifier dans OPPORTUNITIES.md TOUTES les opportunités actives (statut != clos) :
