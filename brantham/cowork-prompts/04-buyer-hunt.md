@@ -311,11 +311,12 @@ echo "Output écrit : $OUTPUT_FILE"
 
 ## Règles absolues
 
-- **CA ≥ 5× minimum** : pas d'exception sauf deal micro (<500K€) où on accepte 3×
+- **CA ≥ 3× minimum** : pas d'exception sauf deal micro (<500K€) où on accepte 2×
 - **Jamais d'entreprise elle-même en difficulté** : vérifier BODACC avant de valider
 - **raison_match obligatoire** dans le JSON pour chaque acheteur
-- **15 acheteurs minimum** : si moins, élargir aux NAF adjacents et le mentionner
+- **30 acheteurs minimum, 50 cible** : si moins de 30 trouvés, élargir aux NAF adjacents (3-5 NAF supplémentaires) et le mentionner
 - **email_verified: false systématiquement** — Contact Enricher s'occupe de la vérification
+- **Rentabilité obligatoire** : au moins 1 résultat net positif sur 2 derniers exercices
 
 ## Ce que tu NE fais PAS
 
