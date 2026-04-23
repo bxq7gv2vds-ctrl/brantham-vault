@@ -45,3 +45,4 @@ type: session
 ## Cycle 21:06
 
 - **Scrape AJ** : lancement...
+  - OK : 476 opportunites scrapees
