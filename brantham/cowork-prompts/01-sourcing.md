@@ -160,7 +160,7 @@ Si nom confidentiel : secteur + ville + année.
 
 ## ÉTAPE 7 — Mettre à jour OPPORTUNITIES.md
 
-Pour chaque deal GO ou WATCH, ajouter :
+Pour chaque nouvelle opp RJ, ajouter :
 
 ```markdown
 ### [SLUG]
@@ -172,8 +172,7 @@ Pour chaque deal GO ou WATCH, ajouter :
 - **Procédure** : RJ — plan de cession
 - **Date découverte** : [DATE]
 - **Deadline offres** : [DATE] — [X] jours restants
-- **Score qualification** : [X]/12 → [GO/WATCH]
-- **Statut** : detecte
+- **Statut** : notifie
 - **Contact AJ** : [nom] — [email]
 - **Notes** : [1 phrase sur l'intérêt]
 ```
