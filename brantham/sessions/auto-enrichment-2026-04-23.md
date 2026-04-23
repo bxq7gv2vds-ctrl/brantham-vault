@@ -65,3 +65,4 @@ Aucune
 ## Cycle 18:05
 
 - **Scrape AJ** : lancement...
+  - OK : 476 opportunites scrapees
