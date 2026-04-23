@@ -40,9 +40,13 @@ Knowledge hub pour la construction d'un système trading hedge-fund grade sur Po
 - Hong Kong 11 days up-run max → heatwaves trend
 - Kuala Lumpur half-life 1.5d → climat tight, markets efficient
 
+## Sub-projects
+
+- [[crypto-deribit-arb/_MOC]] — **NEW 2026-04-23** — Crypto BTC/ETH × Deribit options arbitrage (statistical arb, portfolio of edges). R&D parallel to weather. Phase 1 validated ~30 brackets edge >2pp simultaneous.
+
 ## Objectif — Weather Domination
 
-**Décision stratégique 2026-04-20** : **100% weather Polymarket**. Pas de crypto/sports/politics.
+**Décision stratégique 2026-04-20** : **100% weather Polymarket** comme stratégie principale. Crypto arb (sub-project) ajouté 2026-04-23 comme R&D parallèle et test transferable.
 
 Construire **LE meilleur hedge fund weather sur Polymarket**, en acceptant la capacity cap naturelle. Voir [[weather-domination-strategy]] pour la philosophie complète.
 
