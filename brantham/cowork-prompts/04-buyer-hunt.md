@@ -21,13 +21,13 @@ Le repreneur type :
 - Un fonds small/mid cap (thèse retournement)
 - Un dirigeant individuel (LBO, expérience secteur)
 
-**Critère financier minimum** : CA repreneur ≥ 5× CA de la cible.
+**Critère financier minimum** : CA repreneur ≥ **3×** CA de la cible (élargi pour plus de volume — on était à 5× avant).
 
 **Matching 4D** :
-1. Secteur : même NAF ou adjacent
-2. Taille : CA ≥ 5× cible, capitaux propres positifs
-3. Géographie : présence nationale ou régionale cohérente
-4. Stratégie : croissance externe visible
+1. Secteur : même NAF + 3 à 5 NAF adjacents (élargir)
+2. Taille : CA ≥ 3× cible, capitaux propres positifs, entreprise rentable (résultat net positif sur au moins 1 des 2 derniers exercices)
+3. Géographie : France entière (pas de restriction régionale sauf actif local fort comme bail)
+4. Stratégie : croissance externe visible OU consolidateur sectoriel OU holding de diversification
 
 ---
 
