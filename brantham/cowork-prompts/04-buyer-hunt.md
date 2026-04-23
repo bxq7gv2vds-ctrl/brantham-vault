@@ -142,7 +142,7 @@ Pour l'email : utiliser le pattern `prenom.nom@domaine.fr` et marquer `verified:
 
 ---
 
-## ÉTAPE 5 — Prioriser les 15-25 meilleurs acheteurs
+## ÉTAPE 5 — Prioriser les 30-50 meilleurs acheteurs
 
 Classer par score de priorité (sur 12) :
 
