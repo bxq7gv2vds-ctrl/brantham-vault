@@ -181,16 +181,15 @@ Ne jamais modifier le statut des opportunités déjà en pipeline.
 
 ---
 
-## ÉTAPE 7b — Notifier Telegram (par opportunite GO ou WATCH)
+## ÉTAPE 7b — Notifier Telegram (UNE notif par opp RJ)
 
-Pour CHAQUE deal en GO ou WATCH (jamais pour PASS), envoyer une notification Telegram avec boutons inline GO/NO-GO. Paul valide depuis son tel.
+Pour CHAQUE nouvelle opp RJ avec plan de cession, envoyer une notification Telegram avec boutons inline GO/NO-GO. Pas de pre-filtre par algo. Paul tranche.
 
 ```bash
 SLUG=[slug]
 DATA=$(python3 -c "
 import json
 print(json.dumps({
-  'score': [SCORE],
   'days_left': [DAYS],
   'ca': [CA_NUM_OR_NULL],
   'sector': '[SECTEUR]',
@@ -198,10 +197,11 @@ print(json.dumps({
   'procedure': 'RJ',
   'deadline': '[DEADLINE_YYYY-MM-DD]',
   'aj': '[CABINET_AJ]',
+  'aj_url': '[URL_ANNONCE]',
   'notes': '[1 phrase contexte]'
 }))")
 
-python3 /Users/paul/Downloads/brantham-pipeline/notify_telegram.py send \
+python3 /Users/paul/Library/Brantham/scripts/notify_telegram.py send \
   --slug "$SLUG" \
   --data "$DATA"
 ```
