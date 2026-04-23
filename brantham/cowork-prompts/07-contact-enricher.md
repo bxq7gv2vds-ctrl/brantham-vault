@@ -152,7 +152,7 @@ Sources :
 
 ## ÉTAPE 3 — Recherche de contexte pour personnaliser l'outreach
 
-Pour les TOP 5 acheteurs, faire une recherche complémentaire :
+Pour les TOP 15 acheteurs (au lieu de 5), faire une recherche complémentaire :
 
 Google : `"[nom entreprise]" acquisition rachat 2023 2024 2025`
 Google : `"[prénom nom dirigeant]" interview stratégie croissance`
