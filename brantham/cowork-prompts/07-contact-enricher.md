@@ -209,6 +209,78 @@ Offres à déposer avant le [DATE]. Lancer l'outreach AUJOURD'HUI.
 
 ---
 
+## ÉTAPE 4b — Générer outreach-emails.json (input pour create_gmail_drafts.py)
+
+Pour chaque contact `ready: true` (email vérifié ou probable + LinkedIn trouvé), générer un email personnalisé. Lire le teaser anonyme du deal :
+
+```bash
+SLUG=[slug]
+TEASER_FILE=/Users/paul/Downloads/brantham-pipeline/deals/$SLUG/teaser.md
+DEALS_DIR=/Users/paul/Downloads/brantham-pipeline/deals/$SLUG
+```
+
+Pour chaque contact :
+- **Sujet** : court, sans clickbait. Format : `Opportunite confidentielle — [secteur] — [ville/region] — CA [X]M€`
+- **Corps HTML** : 4 paragraphes max
+  1. Accroche personnalisee (cite l'entreprise du contact + raison du match — issue de `raison_match` du buyer-hunt)
+  2. Teaser anonymise (3-4 lignes : secteur, taille, perimetre, deadline)
+  3. CTA : 15 min de call decouverte cette semaine
+  4. Signature Brantham Partners
+
+Ecrire `$DEALS_DIR/outreach-emails.json` :
+
+```json
+[
+  {
+    "rang": 1,
+    "to": "martin.dupont@entreprise.fr",
+    "to_name": "Martin Dupont",
+    "subject": "Opportunite confidentielle — BTP gros oeuvre — Normandie — CA 4M€",
+    "body_html": "<p>Bonjour Martin,</p><p>Je vous contacte car [Entreprise XYZ] est positionnee sur le gros oeuvre regional, et nous suivons une opportunite de reprise dans votre secteur qui colle avec votre profil de consolidation (rachat de [Boite 2024] que vous avez execute).</p><p><strong>Cible</strong> : PME BTP Normandie · CA 4M€ · 28 salaries · plan de cession (pas de passif). Deadline depot 17/05.</p><p>Disponible 15 min cette semaine pour un call decouverte ?</p><p>Bien cordialement,<br>Paul Roulleau<br>Brantham Partners</p>"
+  }
+]
+```
+
+**Règles** :
+- Maximum 30 emails par deal (top 30 contacts ready=true)
+- Personnalisation obligatoire : citer l'entreprise du contact + raison_match
+- Body HTML inline (pas de CSS externe)
+- Pas d'emoji, pas de pieces jointes (le teaser est dans le corps anonymise)
+
+---
+
+## ÉTAPE 4c — Générer outreach-linkedin.md (DM perso à copy-paste)
+
+Pour les **TOP 10 contacts** (linkedin actif < 30j en priorité), generer 1 DM LinkedIn par contact dans `$DEALS_DIR/outreach-linkedin.md`. Tu vas les copy-paste manuellement dans LinkedIn.
+
+```markdown
+# Outreach LinkedIn — [slug]
+_[N] DMs prets · cible 30-40 DM/jour all deals confondus_
+
+---
+
+### 1. [Prenom Nom] — [Entreprise] — [Poste]
+**Profil** : [URL LinkedIn]
+**Actif** : [il y a N jours]
+
+```
+[Texte du DM, 600 caracteres max — moins formel que l'email, mention de l'opportunite, CTA call]
+```
+
+---
+
+### 2. [Prenom Nom] — [Entreprise] — [Poste]
+...
+```
+
+**Règles DM LinkedIn** :
+- 600 caracteres max (LinkedIn coupe au-dela)
+- Pas de lien (les liens reduisent la deliverabilite des InMails)
+- Ton conversationnel, pas marketing
+- 1 question ouverte en fin
+
+---
+
 ## ÉTAPE 5 — Sauvegarder contacts.json
 
 ```bash
