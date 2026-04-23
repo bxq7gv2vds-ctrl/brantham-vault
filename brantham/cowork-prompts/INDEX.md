@@ -43,15 +43,24 @@ Volume cible : **100 mails outreach/jour + 30-40 DMs LinkedIn/jour**.
 
 ## Agents
 
-| Fichier | Agent | Schedule | Mission |
+| Fichier | Agent | Trigger | Mission |
 |---------|-------|----------|---------|
-| [[01-sourcing]] | Sourcing | 07h00 | Scrape AJ + BODACC, score, met à jour OPPORTUNITIES.md |
-| [[05-morning-brief]] | Morning Brief | 07h15 | Brief actionnable Paul + Soren |
-| [[02-pipeline-check]] | Pipeline Check | 08h00 | Surveille deadlines, alertes rouges/oranges |
-| [[03-deal-analysis]] | Deal Analysis | 08h30 | Analyse financière + juridique sur infos publiques |
-| [[04-buyer-hunt]] | Buyer Hunt | 09h00 | Sourcing 15-25 acheteurs qualifiés par deal |
-| [[07-contact-enricher]] | Contact Enricher | 09h30 | Enrichissement emails + LinkedIn décideurs |
-| [[08-send-brief]] | Send Brief | 10h00 | UN email avec tout : pipeline + outreach prêts + actions |
+| [[01-sourcing]] | Sourcing | cron 07h00 | Scrape 31 AJ + BODACC, score, **notif Telegram par opp** GO/WATCH |
+| [[05-morning-brief]] | Morning Brief | cron 07h15 | Brief actionnable Paul + Soren |
+| [[02-pipeline-check]] | Pipeline Check | cron 08h00 | Surveille deadlines, alertes rouges/oranges |
+| [[03-deal-analysis]] | Deal Analysis | event (Telegram GO) | Analyse financière + juridique sur infos publiques |
+| [[04-buyer-hunt]] | Buyer Hunt | event (post analysis) | Sourcing **30-50** acheteurs qualifiés (CA ≥3×) par deal |
+| [[07-contact-enricher]] | Contact Enricher | event (post hunt) | Enrichit **top 30**, génère outreach-emails.json + outreach-linkedin.md |
+| [[09-outreach-draft]] | Outreach Draft | event (post enricher) | Crée drafts Gmail via API + notif Telegram "drafts prets" |
+| [[08-send-brief]] | Send Brief | cron 10h00 | UN email recap : pipeline + outreach prêts + actions |
+
+## Scripts complémentaires (pas Cowork)
+
+| Script | Rôle |
+|--------|------|
+| `notify_telegram.py send` | Envoie notif opp avec boutons GO/NO-GO (appelé par sourcing) |
+| `notify_telegram.py listen` | Daemon long-polling — gère clics Telegram, écrit dans queue/ |
+| `create_gmail_drafts.py --slug X` | Crée drafts Gmail via OAuth + label `brantham/outreach/X` |
 
 ## Agréger tous les outputs
 
