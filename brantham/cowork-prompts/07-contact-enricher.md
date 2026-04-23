@@ -318,14 +318,35 @@ curl -s -X POST http://localhost:3000/api/deals/$SLUG/file \
 
 ---
 
-## ÉTAPE 7 — Mettre à jour l'état partagé
+## ÉTAPE 7 — Déclencher l'agent outreach-draft
+
+```bash
+SLUG=[slug]
+QUEUE_DIR=~/.openclaw/agents/_shared/queue
+mkdir -p $QUEUE_DIR
+TS=$(date -u +%Y%m%d-%H%M%S)
+cat > $QUEUE_DIR/outreach-$SLUG-$TS.json << EOF
+{
+  "slug": "$SLUG",
+  "n_emails": [N_EMAILS],
+  "n_linkedin": [N_LINKEDIN],
+  "triggered_at": "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+}
+EOF
+```
+
+Le fichier de queue declenchera `09-outreach-draft.md` qui appelle `create_gmail_drafts.py`.
+
+---
+
+## ÉTAPE 8 — Mettre à jour l'état partagé
 
 OPPORTUNITIES.md :
 - `statut : contacts_enrichis`
 
 BRAIN.md :
-- `[slug] → contacts_enrichis — [N] contacts prêts outreach`
-- `Décisions en attente (→ Soren) : [slug] — PRÊT POUR OUTREACH — [N] emails à envoyer — deadline [date]`
+- `[slug] → contacts_enrichis — [N] emails + [N] DMs LinkedIn prets`
+- `Décisions en attente (→ Paul) : [slug] — drafts Gmail + LinkedIn prets — deadline [date]`
 
 ---
 
