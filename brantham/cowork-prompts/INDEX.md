@@ -8,17 +8,38 @@ updated: 2026-03-27
 
 6 agents Cowork + 1 send brief. Une seule fois par jour. Un seul email à 10h00 avec tout.
 
-## Schedule quotidien
+## Schedule quotidien (avril 2026)
 
+Pipeline en 2 modes : **batch matin** (sourcing + check) puis **event-driven** (déclenché par Paul via Telegram GO).
+
+### Batch matin (cron Cowork)
 ```
-07h00  → 01-sourcing.md          (scan AJ + BODACC)
+07h00  → 01-sourcing.md          (scan 31 sites AJ + BODACC, score, notif Telegram par opp GO/WATCH)
 07h15  → 05-morning-brief.md     (brief Paul + Soren — plan du jour)
 08h00  → 02-pipeline-check.md    (alertes deadlines, état pipeline)
-08h30  → 03-deal-analysis.md     (analyse deals detecte → analysé)
-09h00  → 04-buyer-hunt.md        (sourcing acheteurs → acheteurs_identifies)
-09h30  → 07-contact-enricher.md  (enrichissement contacts → prêt outreach)
-10h00  → 08-send-brief.md        ← UN SEUL EMAIL avec tout
+10h00  → 08-send-brief.md        ← UN SEUL EMAIL recap (deals scrapes, deals en cours)
 ```
+
+### Event-driven (déclenché par clic Telegram GO ou queue)
+
+Déclenchement automatique en cascade :
+```
+notify_telegram listen
+    ↓ (Paul clique GO sur Telegram)
+~/.openclaw/agents/_shared/queue/buyer-hunt-<slug>-*.json
+    ↓
+03-deal-analysis.md   (analyse deal → analysé)
+    ↓
+04-buyer-hunt.md      (30-50 acheteurs qualifiés, CA ≥3×)
+    ↓
+07-contact-enricher.md (enrichit top 30 + génère outreach-emails.json + outreach-linkedin.md)
+    ↓
+~/.openclaw/agents/_shared/queue/outreach-<slug>-*.json
+    ↓
+09-outreach-draft.md  (crée drafts Gmail via API + notif Telegram "drafts prets")
+```
+
+Volume cible : **100 mails outreach/jour + 30-40 DMs LinkedIn/jour**.
 
 ## Agents
 
