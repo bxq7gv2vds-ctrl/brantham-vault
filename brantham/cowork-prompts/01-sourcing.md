@@ -137,11 +137,12 @@ Score sur 4 critères (max 12 pts) — la procédure n'est plus un critère car 
 - CA < 500K€ → **PASS immédiat**
 - CA ND → 1 pt par défaut (à confirmer lors de l'analyse)
 
-**Critère 2 — Délai (éliminatoire si < 10 jours)**
+**Critère 2 — Délai (aucune élimination — tout est traité, volume cible 100 mails/j)**
 - Deadline > 21j → 3 pts
 - Deadline 14-21j → 2 pts
 - Deadline 10-14j → 1 pt
-- Deadline < 10j → **PASS** (sauf deal exceptionnel → WATCH URGENT)
+- Deadline 3-10j → 1 pt + flag **WATCH URGENT** (traitement express)
+- Deadline < 3j → 0 pt + flag **WATCH URGENT** (signaler mais notifier quand meme)
 
 **Critère 3 — Secteur**
 - BTP, industrie manufacturière, transport, tech, agroalimentaire → 3 pts
@@ -154,9 +155,11 @@ Score sur 4 critères (max 12 pts) — la procédure n'est plus un critère car 
 - Quasi rien (annonce anonymisée) → 1 pt
 
 **Décision :**
-- Score ≥ 9 → **GO** (analyse immédiate)
-- Score 6-8 → **WATCH** (analyser si capacité disponible)
-- Score < 6 → **PASS** (archiver)
+- Score ≥ 7 → **GO** (notifier Telegram pour validation Paul)
+- Score 4-6 → **WATCH** (notifier Telegram, faible priorité)
+- Score < 4 → **PASS** (archiver, pas de notif)
+
+> Volume cible : ~100 mails outreach/jour. Donc seuil GO bas et batch large — Paul filtre via Telegram GO/NO-GO.
 
 ---
 
