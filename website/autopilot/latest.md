@@ -1,0 +1,1 @@
+/Users/paul/vault/website/autopilot/2026-04-23.md
