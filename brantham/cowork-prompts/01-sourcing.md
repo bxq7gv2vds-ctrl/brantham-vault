@@ -105,14 +105,9 @@ Si un site est inaccessible ou retourne une erreur → noter dans les erreurs et
 
 ---
 
-## ÉTAPE 2 — Scraper BODACC (complément)
+## ÉTAPE 2 — (BODACC retire)
 
-API BODACC — filtrer sur RJ uniquement :
-```
-https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=typeavis%3D%22RJ%22&order_by=dateparution+desc&limit=50
-```
-
-Extraire les nouvelles annonces de la journée non déjà présentes dans les sites AJ.
+> BODACC ne fournit pas systematiquement le nom de l'AJ en charge du dossier. Sans AJ, on ne peut pas remonter aux contacts ni acceder aux annonces de cession. On utilise UNIQUEMENT les 31 sites AJ.
 
 ---
 
@@ -126,40 +121,15 @@ Ne conserver que les nouvelles opportunités RJ.
 
 ---
 
-## ÉTAPE 4 — Scorer chaque nouvelle opportunité RJ
+## ÉTAPE 4 — Pas de scoring
 
-Score sur 4 critères (max 12 pts) — la procédure n'est plus un critère car on ne fait que du RJ :
+Toutes les opportunites RJ avec plan de cession sont notifiees a Paul via Telegram. **Paul filtre lui-meme avec GO / NO-GO sur le bouton inline.** Pas de pre-score, pas de seuil. La selection humaine remplace l'algorithmique.
 
-**Critère 1 — CA (éliminatoire si < 500K€)**
-- CA > 5M€ → 3 pts
-- CA 1-5M€ → 2 pts
-- CA 500K-1M€ → 1 pt
-- CA < 500K€ → **PASS immédiat**
-- CA ND → 1 pt par défaut (à confirmer lors de l'analyse)
+**Filtre dur (a appliquer — sans score) :**
+- Type de procedure = RJ avec plan de cession (les LJ, SV, cession actifs isoles → ignorer)
+- Pas de doublon dans OPPORTUNITIES.md (meme nom + meme AJ)
 
-**Critère 2 — Délai (aucune élimination — tout est traité, volume cible 100 mails/j)**
-- Deadline > 21j → 3 pts
-- Deadline 14-21j → 2 pts
-- Deadline 10-14j → 1 pt
-- Deadline 3-10j → 1 pt + flag **WATCH URGENT** (traitement express)
-- Deadline < 3j → 0 pt + flag **WATCH URGENT** (signaler mais notifier quand meme)
-
-**Critère 3 — Secteur**
-- BTP, industrie manufacturière, transport, tech, agroalimentaire → 3 pts
-- Commerce spécialisé, restauration, services B2B → 2 pts
-- Retail mass market, immobilier, agriculture → 1 pt
-
-**Critère 4 — Qualité des informations publiques disponibles**
-- CA connu + effectif + bilans Pappers accessibles → 3 pts
-- Infos partielles → 2 pts
-- Quasi rien (annonce anonymisée) → 1 pt
-
-**Décision :**
-- Score ≥ 7 → **GO** (notifier Telegram pour validation Paul)
-- Score 4-6 → **WATCH** (notifier Telegram, faible priorité)
-- Score < 4 → **PASS** (archiver, pas de notif)
-
-> Volume cible : ~100 mails outreach/jour. Donc seuil GO bas et batch large — Paul filtre via Telegram GO/NO-GO.
+Aucune opp RJ qui passe ces 2 filtres ne doit etre filtree par algo. Toutes vont a Paul.
 
 ---
 
