@@ -41,7 +41,7 @@ Prendre le deal avec deadline la plus proche.
 
 ---
 
-## ÉTAPE 1 — Pour chaque acheteur (rang 1 à 15 minimum)
+## ÉTAPE 1 — Pour chaque acheteur (rang 1 à 30 minimum)
 
 Aller chercher les infos directement. Pour chaque acheteur dans acheteurs.json :
 
