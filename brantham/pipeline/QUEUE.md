@@ -373,3 +373,16 @@ Note: API FastAPI (port 8000) hors ligne ce cycle — matching 4D non disponible
 - [ ] **Organisme de formation à destination de l’insertion (jeunes & adultes)** | CA: 5-50M€ | Eff: 275 | Maydaymag | Score: 90 | slug: `maydaymag-organisme-de-formation-a-destination-de-l-insertion-jeunes-adultes`
 - [ ] **Etablissement d’enseignement supérieur en alternance dédié aux métiers de la communication et du digital** | CA: 5-50M€ | Eff: 275 | Maydaymag | Score: 90 | slug: `maydaymag-etablissement-d-enseignement-superieur-en-alternance-dedie-aux-metiers`
 - [ ] **ZIEGLER FRANCE SA** | CA: 50M€ | Eff: 500 | Maydaymag | Score: 90 | slug: `maydaymag-ziegler-france-sa`
+
+## 2026-04-23 — Auto-enrichment
+
+- **PREPACK CESSION** | CA: Plus de 10 | Eff:  | cession | AJ: Ajilink Provence | Repreneurs: non
+  - Dossier: `deals/ajilink-provence-prepack-cession/`
+- **TRANSPAUMANCE** | CA: De 3 à 10 | Eff: De 10 à 50 | cession | AJ: AJ UP | Repreneurs: non
+  - Dossier: `deals/ajup-transpaumance/`
+- **PROCSEA FRANCE** | CA: De 1 à 3 | Eff: De 10 à 50 | cession | AJ: Ajire | Repreneurs: non
+  - Dossier: `deals/ajire-procsea-france/`
+- **ALLEMANN** | CA: De 1 à 3 | Eff: De 10 à 50 | cession | AJ: AJlink Grand Est | Repreneurs: non
+  - Dossier: `deals/ajilink-grandest-allemann/`
+- **ACTIVITE DE BOUCHERIE CHARCUTERIE TRAITEUR** | CA: 477 026 € | Eff: 0 - 5 | cession | AJ: Meynet | Repreneurs: non
+  - Dossier: `deals/meynet-activite-de-boucherie-charcuterie-traiteur/`

@@ -1,70 +1,43 @@
-# Auto-enrichissement — 2026-04-23
+---
+date: 2026-04-23
+type: session
+---
 
-**Heure** : 12:28:57
-**Budget utilise** : ~$0.45 / $0.50
+# Auto-enrichment — 2026-04-23
 
-## Resume
+## Résumé
 
-| Metrique | Valeur |
-|---------|--------|
-| Opportunites CA>500K detectees | 264 |
-| Top 10 selectionnees | 10 |
-| Dossiers crees | 10 |
-| Enrichissement Pappers | 0 (SIREN manquants — pending) |
-| Matchings repreneurs generes | 0 |
-| Erreurs | 0 |
+| Métrique | Valeur |
+|----------|--------|
+| Scrape AJ | 31 sites, 476 opportunités |
+| Opportunités traitées | 5 |
+| Enrichies (analyse.md + enrichment.json) | 5 |
+| Avec repreneurs | 0 |
+| Erreurs | 5 |
 
-## Top 10 opportunites traitees
+## Opportunités créées
 
-| # | Nom | CA | Eff. | AJ | Score |
-|---|-----|----|----|----|----|
-| 1 | Viticulture | 14M€ | 140 | Abitol & Rousselet | 100 |
-| 2 | Fondation d’utilité publique dédiée | 50M€ | 500 | Maydaymag | 100 |
-| 3 | Gestion externalisée, éco-responsab | 50M€ | 275 | Maydaymag | 100 |
-| 4 | Travaux publics et de VRD ; terrass | 5-50M€ | 275 | Maydaymag | 90 |
-| 5 | Transports routiers de personnes et | 5-50M€ | 275 | Maydaymag | 90 |
-| 6 | Groupe exploitant, sous franchise,  | 5-50M€ | 275 | Maydaymag | 90 |
-| 7 | Distribution de chaussures et d’acc | 5-50M€ | 275 | Maydaymag | 90 |
-| 8 | Organisme de formation à destinatio | 5-50M€ | 275 | Maydaymag | 90 |
-| 9 | Etablissement d’enseignement supéri | 5-50M€ | 275 | Maydaymag | 90 |
-| 10 | ZIEGLER FRANCE SA | 50M€ | 500 | Maydaymag | 90 |
+## 2026-04-23 — Auto-enrichment
 
-## Dossiers crees
-
-- deals/abitol-rousselet-viticulture
-- deals/maydaymag-fondation-d-utilite-publique-dediee-a-l-action-sociale
-- deals/maydaymag-gestion-externalisee-eco-responsable-de-parcs-de-barriques-pour-les-pr
-- deals/maydaymag-travaux-publics-et-de-vrd-terrassement-specialise-assainissement-amena
-- deals/maydaymag-transports-routiers-de-personnes-et-toutes-activites-annexes-de-voitur
-- deals/maydaymag-groupe-exploitant-sous-franchise-7-fonds-de-commerce-de-restauration
-- deals/maydaymag-distribution-de-chaussures-et-d-accessoires-de-mode-moyen-haut-de-gamm
-- deals/maydaymag-organisme-de-formation-a-destination-de-l-insertion-jeunes-adultes
-- deals/maydaymag-etablissement-d-enseignement-superieur-en-alternance-dedie-aux-metiers
-- deals/maydaymag-ziegler-france-sa
+- **PREPACK CESSION** | CA: Plus de 10 | Eff:  | cession | AJ: Ajilink Provence | Repreneurs: non
+  - Dossier: `deals/ajilink-provence-prepack-cession/`
+- **TRANSPAUMANCE** | CA: De 3 à 10 | Eff: De 10 à 50 | cession | AJ: AJ UP | Repreneurs: non
+  - Dossier: `deals/ajup-transpaumance/`
+- **PROCSEA FRANCE** | CA: De 1 à 3 | Eff: De 10 à 50 | cession | AJ: Ajire | Repreneurs: non
+  - Dossier: `deals/ajire-procsea-france/`
+- **ALLEMANN** | CA: De 1 à 3 | Eff: De 10 à 50 | cession | AJ: AJlink Grand Est | Repreneurs: non
+  - Dossier: `deals/ajilink-grandest-allemann/`
+- **ACTIVITE DE BOUCHERIE CHARCUTERIE TRAITEUR** | CA: 477 026 € | Eff: 0 - 5 | cession | AJ: Meynet | Repreneurs: non
+  - Dossier: `deals/meynet-activite-de-boucherie-charcuterie-traiteur/`
 
 ## Erreurs
 
-Aucune
-
-## Notes
-
-- aj_annonces.json age: 3.0h (seuil 3h — pas de re-scrape effectue)
-- Enrichissement Pappers non execute : SIRENs manquants dans les annonces scrapeees. Necessite lookup manuel ou enrichissement via nom.
-- Repreneurs identifies via API Entreprise (recherche.api.gouv.fr) par secteur
+- ajilink-provence-prepack-cession: repreneurs API failed (rc=56)
+- ajup-transpaumance: repreneurs API failed (rc=56)
+- ajire-procsea-france: repreneurs API failed (rc=56)
+- ajilink-grandest-allemann: repreneurs API failed (rc=56)
+- meynet-activite-de-boucherie-charcuterie-traiteur: repreneurs API failed (rc=56)
 
 ## Related
-
-[[brantham/_MOC]]
-[[brantham/pipeline/QUEUE]]
-
-## Cycle 15:05
-
-- **Scrape AJ** : lancement...
-  - OK : 476 opportunites scrapees
-
-## Cycle 18:05
-
-- **Scrape AJ** : lancement...
-  - OK : 476 opportunites scrapees
-
-## Deep Enrichment 18:29
+- [[brantham/_MOC]]
+- [[brantham/pipeline/QUEUE]]

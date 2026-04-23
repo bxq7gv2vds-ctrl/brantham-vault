@@ -51,7 +51,7 @@ Volume cible : **100 mails outreach/jour + 30-40 DMs LinkedIn/jour**.
 | [[03-deal-analysis]] | Deal Analysis | event (Telegram GO) | Analyse financière + juridique sur infos publiques |
 | [[04-buyer-hunt]] | Buyer Hunt | event (post analysis) | Sourcing **30-50** acheteurs qualifiés (CA ≥3×) par deal |
 | [[07-contact-enricher]] | Contact Enricher | event (post hunt) | Enrichit **top 30**, génère outreach-emails.json + outreach-linkedin.md |
-| [[09-outreach-draft]] | Outreach Draft | event (post enricher) | Crée drafts Gmail via API + notif Telegram "drafts prets" |
+| [[09-outreach-draft]] | Outreach Draft | event (post enricher) | Génère `outreach-drafts-<slug>.md` (copy-paste friendly) + notif Telegram |
 | [[08-send-brief]] | Send Brief | cron 10h00 | UN email recap : pipeline + outreach prêts + actions |
 
 ## Scripts complémentaires (pas Cowork)
