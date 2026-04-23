@@ -60,7 +60,6 @@ Volume cible : **100 mails outreach/jour + 30-40 DMs LinkedIn/jour**.
 |--------|------|
 | `notify_telegram.py send` | Envoie notif opp avec boutons GO/NO-GO (appelé par sourcing) |
 | `notify_telegram.py listen` | Daemon long-polling — gère clics Telegram, écrit dans queue/ |
-| `create_gmail_drafts.py --slug X` | Crée drafts Gmail via OAuth + label `brantham/outreach/X` |
 
 ## Agréger tous les outputs
 
