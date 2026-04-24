@@ -56,10 +56,21 @@ tags: [deal, actif, magic-form-levallois, mandat-signe]
 
 | Paramètre | Valeur |
 |---|---|
-| Nom | [à remplir] |
-| Société holding | [à remplir] |
-| Contact | [email, tél] |
-| Motivation | [à documenter après call J+3] |
+| Société mandante | **AUTO REVIEW** (SARL) |
+| SIREN | 513 859 140 |
+| RCS | Versailles |
+| Capital | 150 000 € |
+| Siège | 8 rue des Frères Caudron, 78140 Vélizy-Villacoublay |
+| Secteur historique | Automobile (à confirmer — garage/négoce probable) |
+| CA 2023 | 883 970 € |
+| Résultat 2023 | +165 260 € |
+| Cash disponible 2023 | 394 967 € |
+| Solvabilité pour ticket Magic Form | **OK — financement cash possible** |
+| Gérant | [à obtenir via K-bis] |
+| Contact email/tél | [à obtenir] |
+| Structure acquisition | À clarifier — reprise directe ou SPV dédiée |
+| Motivation stratégique | À clarifier — diversification vers fitness |
+| Voir fiche complète | [[brantham/deals/active/magic-form-levallois/repreneur-fiche]] |
 
 ---
 
