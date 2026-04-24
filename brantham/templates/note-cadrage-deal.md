@@ -311,13 +311,21 @@ Frais tiers à la charge du repreneur : avocat, commissaire-priseur, recolement 
 
 ---
 
-## 12. Next steps — 48h
+## 12. Next steps — 72h
 
+**Côté repreneur (J+1)**
 1. [ ] Signature électronique lettre de mission + NDA (DocuSign envoyé en parallèle)
-2. [ ] Virement upfront #1 — RIB fourni
-3. [ ] Transmission pièces KYC (K-bis holding, statuts, 3 bilans, attestation L642-3, preuves de fonds)
-4. [ ] Validation critères stratégiques (questionnaire 1 page ci-joint)
-5. [ ] Planification kick-off call 45 min avec l'équipe complète
+2. [ ] Virement upfront #1 — RIB fourni ci-joint
+3. [ ] Transmission pièces KYC (K-bis holding, statuts, 3 derniers bilans, attestation L642-3 sur l'honneur, preuves de fonds)
+4. [ ] Transmission data room si déjà en votre possession (sinon Brantham la demande à l'AJ)
+5. [ ] Confirmation disponibilité **call de point deal J+3** (90 min, présentiel ou visio)
+
+**Côté Brantham (J+1 à J+3)**
+1. [ ] Ouverture canal WhatsApp dédié
+2. [ ] Demande formelle data room à l'AJ au nom du mandataire
+3. [ ] Identification et prise de contact ancien dirigeant (entretien informel cadré L642-3)
+4. [ ] Première passe d'analyse data room dès réception
+5. [ ] Préparation support call J+3 avec points clés identifiés
 
 ---
 
