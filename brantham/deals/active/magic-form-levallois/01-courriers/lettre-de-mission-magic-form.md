@@ -66,14 +66,23 @@ réalisation.
 
                     1. Contexte
 
-[Société holding repreneur], que vous [avez fondée en AAAA / dirigez
-depuis AAAA], [description activité 3-5 lignes : secteur, positionnement,
-taille, ambitions stratégiques. À rédiger avec le repreneur].
+Vous avez bâti et dirigez depuis plus de quinze ans un groupe
+patrimonial structuré autour de plusieurs sociétés opérationnelles et
+patrimoniales basées à Vélizy-Villacoublay (AUTO REVIEW SARL, VALTAX
+CONSULTANTS SARL, CENTRE QUALITE SERVICES SAS, IMMOVEL SAS), auxquelles
+s'est ajoutée en 2021 la présidence de COURBEVOIE FORME SAS,
+exploitant une salle de sport établie à Courbevoie (92400) depuis 2012.
 
-Dans le cadre de votre stratégie de développement, vous êtes ouvert à
-des opportunités de croissance par reprise d'actifs d'entreprises en
-difficulté, notamment sur le segment du fitness et de la remise en
-forme en Île-de-France.
+Avec cinq années d'exploitation sur le segment du fitness en première
+couronne ouest parisienne, vous avez démontré votre capacité à gérer
+un actif sportif dans la durée — en particulier la relation au bail
+commercial, le pilotage des coachs indépendants, la fidélisation de
+la base d'abonnés et la maîtrise des charges fixes.
+
+Dans le cadre de votre stratégie de build-up sur ce segment, vous
+êtes ouvert à des opportunités de reprise d'actifs d'entreprises en
+difficulté permettant d'étendre votre maillage géographique sur le
+bassin ouest parisien.
 
 Brantham Partners est un cabinet de conseil en M&A spécialisé dans la
 reprise d'entreprises en difficulté en France. Nous agissons
