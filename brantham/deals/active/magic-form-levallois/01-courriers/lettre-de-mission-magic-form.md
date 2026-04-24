@@ -407,7 +407,7 @@ titre, elle est comprise dans les limites suivantes :
                 7. Équipe d'intervention
 
 Je conduirai personnellement la mission et en assumerai devant vous
-la responsabilité d'ensemble, avec mon associé [Prénom NOM SOREN].
+la responsabilité d'ensemble, avec mon associé Soren MENDY.
 
 Nous pourrons si nécessaire faire appel à des spécialistes externes
 dans les domaines du financement d'acquisition, du droit des
@@ -421,7 +421,7 @@ Paul ROULLEAU — Associé fondateur :
 domaines d'expertise chez Brantham (tech, data, analyse financière,
 structuration), opérations récentes]
 
-[Prénom NOM SOREN] — Associé fondateur :
+Soren MENDY — Associé fondateur :
 [À COMPLÉTER — format : âge, formation, parcours professionnel,
 domaines d'expertise chez Brantham (commercial, relations AJ,
 négociation, accompagnement audience)]
