@@ -233,8 +233,9 @@ Source : Pappers / Infogreffe — comptes déposés au [date].
 |---|---|---|---|
 | J+0 | Call d'introduction — confirmation verbale | Engagement verbal | — |
 | J+1 matin | **Envoi pack onboarding** : cette note + lettre de mission + NDA + RIB + ouverture canal WhatsApp dédié | — | Pack reçu |
-| J+1 soir | Demande data room à l'AJ au nom du mandataire | Signature DocuSign + virement upfront #1 + pièces KYC | Mandat actif |
-| J+2 | Relance AJ si besoin / traitement DR reçue du repreneur | Transmission DR si déjà détenue | Accès data room |
+| J+1 soir | Rédaction courrier officiel "extension NDA AJ" + envoi au repreneur pour signature | Signature DocuSign mandat + virement upfront #1 + pièces KYC + signature courrier AJ | Mandat actif |
+| J+2 | Envoi courrier à l'AJ + signature NDA Brantham auprès de l'AJ | — | Demande officielle déposée |
+| J+2 / J+3 | Relance AJ si besoin — délai AJ 24-72h pour valider l'extension | **Ne pas transmettre la DR directement** (violerait le NDA AJ) | Accès data room officialisé |
 | **J+3** | **Call de point deal** (présentiel ou visio — 90 min) : lecture des points clés DR, identification deal-breakers, cadrage de l'offre | Présence complète + décisions stratégiques | Plan d'offre v0 |
 
 ### 9.2. Phase de rédaction (S1 à S4)
@@ -317,7 +318,8 @@ Frais tiers à la charge du repreneur : avocat, commissaire-priseur, recolement 
 1. [ ] Signature électronique lettre de mission + NDA (DocuSign envoyé en parallèle)
 2. [ ] Virement upfront #1 — RIB fourni ci-joint
 3. [ ] Transmission pièces KYC (K-bis holding, statuts, 3 derniers bilans, attestation L642-3 sur l'honneur, preuves de fonds)
-4. [ ] Transmission data room si déjà en votre possession (sinon Brantham la demande à l'AJ)
+4. [ ] **Si vous avez déjà accès à la DR** : signature du courrier préparé par Brantham demandant à l'AJ l'extension de votre engagement de confidentialité à notre équipe. **Ne pas transmettre la DR directement** — violation de votre NDA avec l'AJ.
+   **Si vous n'avez pas encore la DR** : Brantham la demande à l'AJ au nom du mandataire.
 5. [ ] Confirmation disponibilité **call de point deal J+3** (90 min, présentiel ou visio)
 
 **Côté Brantham (J+1 à J+3)**
