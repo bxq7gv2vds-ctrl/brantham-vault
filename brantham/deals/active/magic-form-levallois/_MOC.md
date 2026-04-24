@@ -21,12 +21,13 @@ tags: [deal, actif, magic-form-levallois, mandat-signe]
 |---|---|
 | Statut | **Mandat signé** (engagement verbal) |
 | Date signature verbale | 2026-04-24 |
-| Date envoi pack onboarding | [à remplir — J+1] |
+| Date envoi pack onboarding | 2026-04-25 (J+1) |
 | Fees phase 1 | **7 000 € HT** (signature mandat + dépôt première offre) |
 | Fees phase 2 | **7 000 € HT** (dépôt offre finale) |
-| Success fee | [à définir — % prix cession ou forfait] |
 | Total fixe | **14 000 € HT** |
-| Deadline AJ | [à renseigner] |
+| Deadline AJ | **2026-05-21 à 12h00** (4 semaines) |
+| Audience estimée | Courant juin 2026 |
+| Entrée en jouissance | ~2026-07-01 |
 
 ---
 
