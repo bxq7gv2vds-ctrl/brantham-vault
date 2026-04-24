@@ -175,14 +175,16 @@ Source : Pappers / Infogreffe — comptes déposés au [date].
 
 ---
 
-## 7. Stratégie d'offre
+## 7. Stratégie d'offre préliminaire
+
+> Fourchettes indicatives calées sur données publiques. **Calibration finale post-DR** dans le Memo DD.
 
 ### 7.1. Prix
 
-- **Fourchette cible** : [X] k€ à [Y] k€
-- **Plafond absolu** : [Z] k€ = 12 % du CA 2024 (règle Brantham)
-- **Plancher négociation** : [W] k€ — en-dessous, l'AJ privilégiera offre concurrente
-- **Modalités** : [cash à closing / échelonné sur [N] mois avec GAPD bancaire]
+- **Fourchette indicative** : [X] k€ à [Y] k€
+- **Plafond absolu** : [Z] k€ = **12 % du CA de référence** (règle interne Brantham, crédibilité tribunal)
+- **Plancher de négociation** : [W] k€ — en-dessous, risque que l'AJ privilégie offre concurrente
+- **Modalités envisagées** : cash à closing / échelonné avec GAPD bancaire
 
 ### 7.2. Volet emploi — critère L642-5 dominant
 
