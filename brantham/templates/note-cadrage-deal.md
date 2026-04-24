@@ -225,17 +225,53 @@ Source : Pappers / Infogreffe — comptes déposés au [date].
 
 ---
 
-## 9. Plan d'attaque Brantham — rétroplanning
+## 9. Plan d'attaque Brantham — rétroplanning détaillé
+
+### 9.1. Phase d'amorce (J+0 à J+3)
+
+| Jour | Brantham | Repreneur | Livrable |
+|---|---|---|---|
+| J+0 | Call d'introduction — confirmation verbale | Engagement verbal | — |
+| J+1 matin | **Envoi pack onboarding** : cette note + lettre de mission + NDA + RIB + ouverture canal WhatsApp dédié | — | Pack reçu |
+| J+1 soir | Demande data room à l'AJ au nom du mandataire | Signature DocuSign + virement upfront #1 + pièces KYC | Mandat actif |
+| J+2 | Relance AJ si besoin / traitement DR reçue du repreneur | Transmission DR si déjà détenue | Accès data room |
+| **J+3** | **Call de point deal** (présentiel ou visio — 90 min) : lecture des points clés DR, identification deal-breakers, cadrage de l'offre | Présence complète + décisions stratégiques | Plan d'offre v0 |
+
+### 9.2. Phase de rédaction (S1 à S4)
 
 | Semaine | Brantham | Repreneur | Livrable |
 |---|---|---|---|
-| S0 (cette semaine) | Signature mandat + NDA | Virement upfront #1 + pièces KYC | Mandat signé |
-| S1 | Contact AJ + demande data room + KYC | Validation critères stratégiques | Data room ouverte |
-| S2 | Due diligence accélérée (72h) — bilans, contrats, social, contentieux | Visite site avec nous | Memo DD 10-15 pages |
-| S3 | Modélisation financière + BP 3 ans + structuration offre | Décision go/no-go offre | Draft offre v1 |
-| S4 | Revue juridique offre + attestation L642-3 + GAPD bancaire | Signature offre + mobilisation garantie | Offre finale |
-| S5 | Dépôt greffe + pré-audience | Préparation plaidoirie avec avocat | Offre déposée |
-| S6 | Audience tribunal | Présence audience | Jugement |
+| S1 | Due diligence accélérée 72h (bilans, contrats, social, contentieux) + tentative RDV ancien dirigeant | Visite site avec nous | Memo DD 10-15 pages |
+| S2 | Modélisation financière + BP 3 ans + structuration offre | Décision go/no-go offre | Draft offre v1 |
+| S3 | Revue juridique offre + attestation L642-3 + GAPD bancaire | Signature offre + mobilisation garantie | Offre finale |
+| S4 | Dépôt greffe + pré-audience | Préparation plaidoirie avec avocat | Offre déposée |
+| S5 | Audience tribunal | Présence audience | Jugement |
+
+### 9.3. Call de point J+3 — ordre du jour type
+
+1. **Lecture financière data room** (30 min) — bilans détaillés, balance fournisseurs, URSSAF, balance clients, trésorerie
+2. **Revue contrats critiques** (20 min) — baux, top 5 clients, top 5 fournisseurs, contrats de travail clés
+3. **Deal-breakers identifiés** (15 min) — points rouges qui feraient annuler l'offre
+4. **Cadrage stratégie d'offre** (15 min) — prix, emploi, garanties, engagements
+5. **Actions S1** (10 min) — visite site, entretien ancien dirigeant, validation banque pour GAPD
+
+### 9.4. Entretien ancien dirigeant — cadrage L642-3
+
+**Objectif** : comprendre l'historique, les causes réelles de la défaillance, les relations commerciales clés, les savoir-faire non formalisés.
+
+**Cadre juridique strict** — **ATTENTION** :
+- L'ancien dirigeant (de droit ou de fait) et ses parents au 2ᵉ degré (conjoint, enfants, parents, grands-parents, frères/sœurs) **ne peuvent en aucun cas reprendre, directement ou indirectement** (art. L642-3).
+- Interdiction étendue : acquisition d'actifs pendant les **5 ans suivant la cession**.
+- **Sanction** : nullité de l'acte — 3 ans de prescription.
+
+**Ce qui est permis** : entretien purement informationnel, rémunération possible d'un contrat de consulting **limité dans le temps et sans rôle de direction** après cession, réemploi d'un membre de la famille **uniquement si aucun lien avec les fonctions de direction**.
+
+**Ce qui est interdit** : prête-nom, accord tacite de rétrocession, direction de fait déguisée, promesse d'actionnariat futur.
+
+**Best practice Brantham** :
+- Mail récap du RDV envoyé au repreneur uniquement (pas à l'AJ)
+- Mention spontanée à l'AJ du fait qu'un entretien informel a eu lieu — transparence
+- Attestation L642-3 signée par le repreneur rappelant l'absence de lien
 
 ---
 
@@ -249,9 +285,12 @@ Source : Pappers / Infogreffe — comptes déposés au [date].
 
 ### 10.2. Canaux de communication
 
-- **Slack/WhatsApp dédié deal** — réponse < 2h en horaires ouvrés
-- **Point hebdo 30 min** — [jour, heure récurrente]
-- **Dashboard suivi** — accès Notion/Linear au repreneur, mise à jour temps réel
+- **WhatsApp groupe dédié** "Brantham × [Code Deal]" — ouvert dès J+1 — réponse < 2h en horaires ouvrés
+- **Slack Connect** si équipe repreneur > 2 personnes
+- **Point hebdo 30 min** récurrent — [jour, heure fixe]
+- **Call de point deal J+3** (90 min, présentiel ou visio) dès réception data room
+- **Récap email vendredi** — archive formelle de la semaine
+- **Dashboard Notion** partagé — suivi temps réel du deal (livrables, deadlines, actions)
 
 ### 10.3. Double revue obligatoire
 
