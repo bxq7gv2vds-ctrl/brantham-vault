@@ -28,11 +28,11 @@ tags: [lettre-mission, magic-form-levallois, nda, devis, deal-actif]
                                               75008 Paris
 
 
-[Monsieur / Madame Prénom NOM]
-[Président / Gérant]
-[Société holding]
-[Adresse]
-[Code postal, Ville]
+Monsieur Arnaud GUILLEM
+[Qualité — Président / Gérant selon société mandante finale]
+[Société mandante — AUTO REVIEW SARL / COURBEVOIE FORME SAS / SPV à créer]
+8 rue des Frères Caudron
+78140 Vélizy-Villacoublay
 
 
                                               Paris, le 25 avril 2026,
