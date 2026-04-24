@@ -90,10 +90,9 @@ tags: [deal, actif, magic-form-levallois, mandat-signe]
 ## Documents à produire (J+1)
 
 - [ ] Note de cadrage du deal (template `vault/brantham/templates/note-cadrage-deal.md`)
-- [ ] Lettre de mission Brantham (avec NDA intégré + devis 7k/7k)
+- [x] **Lettre de mission Brantham V1** (avec NDA intégré + devis 7k/7k) — `01-courriers/lettre-de-mission-magic-form.md`
 - [ ] Courrier repreneur → AJ (template `vault/brantham/templates/courrier-extension-nda-aj.md`)
 - [ ] Checklist KYC + questionnaire critères
-- [ ] RIB Brantham + proforma upfront #1
 
 ---
 
