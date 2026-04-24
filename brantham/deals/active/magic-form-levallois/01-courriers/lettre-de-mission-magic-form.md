@@ -523,9 +523,10 @@ BRANTHAM PARTNERS SAS
 SIREN 101 953 891
 Siège : 59 rue de Ponthieu, Bureau 326, 75008 Paris
 
-IBAN : [À RENSEIGNER]
-BIC : [À RENSEIGNER]
-Banque : [À RENSEIGNER]
+IBAN    : FR76 1732 8844 0056 1611 0782 155
+BIC     : SWNBFR22
+Banque  : SWAN SAS (en partenariat avec Pennylane)
+           95 Avenue du Président Wilson, 93100 Montreuil
 
 Pour toute question : paul.roulleau@branthampartners.fr — 07 68 36 25 63
 --------------------------------------------------------------------
