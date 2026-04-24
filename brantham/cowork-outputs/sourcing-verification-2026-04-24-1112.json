@@ -1,0 +1,69 @@
+{
+  "agent": "sourcing-verification",
+  "run_id": "sourcing-verif-2026-04-24",
+  "timestamp": "2026-04-24T11:10:00Z",
+  "status": "success",
+  "summary": "Vérification page-détail de 21 opps sur 28 notifiées. 2 faux-positifs (sauvegardes), 4 corrections chiffres majeures, 15 opps enrichies.",
+  "data": {
+    "verification_method": "WebFetch page détail individuelle avec extraction stricte (quotes textuels)",
+    "total_verified": 21,
+    "false_positives": 2,
+    "major_corrections": 4,
+    "enrichments": 15,
+    "faux_positifs": [
+      {"slug":"textile-loire-2026","name":"SAS TROUILLET CIE","notified_as":"RJ","real":"SAUVEGARDE","ca":"5.4M€","effectif":10,"ville":"Le Coteau (42)"},
+      {"slug":"transport-allier-2026","name":"TRANSPAUMANCE","notified_as":"RJ","real":"SAUVEGARDE","ca":"4.3M€","effectif":26,"ville":"Buxières-les-Mines (03)"}
+    ],
+    "major_corrections": [
+      {"slug":"industrie-vendee-2026","name":"GETEX","error":"secteur incorrect","fix":"vêtements luxe/militaire (pas 'industrie'), CA 3.3M€, 45 sal"},
+      {"slug":"logiciel-bretagne-2026","name":"PROCSEA FRANCE","error":"CA surestimé x10","fix":"CA 1-3M€ (pas 10-50M€ estimé), 10-50 sal"},
+      {"slug":"metal-finistere-2026","name":"BP METAL","error":"CA surestimé","fix":"CA 3-10M€ (pas 10-50M€), 34 sal, Landivisiau 29400"},
+      {"slug":"alimentaire-paris-2026","name":"CONDICHEF","error":"CA sous-vendu","fix":"CA 10.2M€, 87 salariés (était 'ND') - deal significatif"}
+    ],
+    "enrichments": [
+      {"slug":"electronique-jura-2026","name":"TECH POWER ELECTRONICS","add":"Aussi site Montville (76) en plus de Courlaoux"},
+      {"slug":"abattoir-rhone-2026","name":"SECAT","add":"69490 Saint-Romain-de-Popey, CA 2.3M€, 31 sal (procédure non explicite page détail)"},
+      {"slug":"maroquinerie-rennes-2026","name":"SACMANIA","add":"CA 1.9M€ (2024), 17 sal, contact s.gautier@aj-2m.com"},
+      {"slug":"silicones-nord-2026","name":"SOCIÉTÉ D'APPLICATION DES SILICONES ALIMENTAIRES","add":"Plan de cession confirmé, Le Cateau-Cambrésis (59360)"},
+      {"slug":"tech-insurance-puy-2026","name":"LES AFFRANCHIS","add":"CA 1.3M€ (2025), 6 sal, Aubière (63170), procédure non explicite"},
+      {"slug":"informatique-rennes-2026","name":"YES WE DEV","add":"RJ confirmé, CA 778K€ (petit), 12 sal - contact s.gautier@aj-2m.com"},
+      {"slug":"mecaniq-loir-2026","name":"Mécanique Générale Précision","add":"RJ confirmé, CA 1.5M€ (2025), 10 sal, Romorantin-Lanthenay (41), secteurs aéronautique/médical/nucléaire/automobile"},
+      {"slug":"btp-isere-2026","name":"S.D.E.R.","add":"CA 17.8M€ (2024), 42 sal, Saint-Martin-d'Hères (38400) - procédure ambiguë (page mentionne sauvegarde dans autre offre)"},
+      {"slug":"casque-velo-lyon-2026","name":"Fabricant casques vélo","add":"Plan de cession confirmé BCM, deadline 04/05 14h"},
+      {"slug":"it-paris-2026","name":"ITFACTO + ITFI + IT NEWS INFO","add":"GROS DEAL: CA combiné ~12M€ (ITFACTO 9M€ + IT NEWS INFO 2.9M€), 116 sal combinés, IT NEWS = Le Monde Informatique"},
+      {"slug":"viticole-banyuls-2026","name":"Coopérative viticole","add":"RJ confirmé, CA 14M€, 140 sal, 580+ coopérateurs"},
+      {"slug":"restauration-valdoise-2026","name":"Groupe restauration","add":"RJ confirmé, 7 fonds commerce franchise, CA 0.9-3.4M€/site, 18-35 sal/site, Eragny/Franconville/Enghien/Cormeilles"},
+      {"slug":"hvac-idf-2026","name":"Équipements thermiques","add":"RJ confirmé, CA 1.4M€, -452K€ perte 2025, 20 sal"},
+      {"slug":"restauration-rennes-2026","name":"CANGIA","add":"RJ confirmé, CA 580K€ (limite 500K€), 6 sal"},
+      {"slug":"creches-rennes-a-2026","name":"KANGOUROU KID'S","add":"RJ confirmé, CA 2.8M€, 15 sal"},
+      {"slug":"creches-rennes-b-2026","name":"MA CABANE EN BOIS + KID'S PARADIS","add":"RJ confirmé, CA 3.2M€, 101 sal, 11 crèches"},
+      {"slug":"electronique-jura-2026","name":"TECH POWER ELECTRONICS","add":"RJ confirmé, CA 21.9M€, 71 sal, deadline 24/04 (sans heure précise) + site Montville 76"}
+    ],
+    "not_verified": [
+      {"slug":"it-nanterre-2026","name":"SUNLOG","reason":"AJRS URL = page liste, pas de détail accessible — données initiales CA 3.35M€ à valider"},
+      {"slug":"mecaniq-essert-2026","name":"MECADEP SAS","reason":"AJRS URL liste seulement"},
+      {"slug":"chauffage-doubs-2026","name":"JAMES CHAGUE","reason":"AJRS URL liste seulement"},
+      {"slug":"fabrication-loire-2026","name":"A-B LOISIRS","reason":"Procédure non explicite page détail — CA 1.94M€, 14 sal confirmés"},
+      {"slug":"securite-alsace-2026","name":"KS SECURITE","reason":"Procédure non explicite page détail — CA 3-10M€, >250 sal, siège 67200 Strasbourg confirmés"}
+    ]
+  },
+  "actions_taken": [
+    "21 pages détail vérifiées via WebFetch",
+    "2 faux-positifs corrigés dans OPPORTUNITIES.md (TROUILLET + TRANSPAUMANCE → statut clos)",
+    "4 entrées critiques corrigées (GETEX, PROCSEA, CONDICHEF, BP METAL)",
+    "Notif correction Telegram msg_id=35",
+    "BRAIN.md mis à jour avec récap vérification"
+  ],
+  "pending_for_human": [
+    "⚠️ CONDICHEF (alimentaire-paris-2026) est BEAUCOUP plus gros que notifié : CA 10.2M€ 87 sal - deal prioritaire, deadline 27/04 12h (3j)",
+    "⚠️ ITFACTO groupe (it-paris-2026) : CA combiné 12M€ 116 sal - deal significatif, deadline 21/05",
+    "⚠️ S.D.E.R. (btp-isere-2026) procédure ambiguë - vérifier avec AJ UP si RJ ou SAUVEGARDE",
+    "3 opps AJRS non vérifiées (SUNLOG/MECADEP/JAMES CHAGUE) - AJRS ne fournit pas d'URL détail individuelle"
+  ],
+  "triggered_next": ["deal-analysis pour CONDICHEF (priorité haute si Paul GO)"],
+  "errors": [
+    "Chrome extension non connectée - impossibilité vérification visuelle par computer use",
+    "3 sites AJ (ADJE 404, BVP 404, FHBX interface vide) non scrapés initialement",
+    "AJRS (aj-rs.com) n'expose pas d'URL détail par annonce"
+  ]
+}

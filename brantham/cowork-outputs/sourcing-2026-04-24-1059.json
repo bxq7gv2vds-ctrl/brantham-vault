@@ -1,0 +1,394 @@
+{
+  "agent": "sourcing",
+  "run_id": "sourcing-2026-04-24-1059",
+  "timestamp": "2026-04-24T08:59:42Z",
+  "status": "success",
+  "summary": "28 sites scrapés (3 inaccessibles: ADJE 404, BVP 404, FHBX interface vide), 28 nouvelles opps RJ détectées et notifiées Telegram",
+  "data": {
+    "sites_scraped": 28,
+    "sites_errors": [
+      "ADJE (404)",
+      "BVP etude-bpv.fr (404)",
+      "FHBX (interface sans listings)"
+    ],
+    "new_opportunities": 28,
+    "lj_ignored": 4,
+    "urgent_alerts": [
+      {
+        "slug": "electronique-jura-2026",
+        "name": "TECH POWER ELECTRONICS",
+        "days_left": 0,
+        "ca": 21948000,
+        "alert": "ROUGE - deadline AUJOURD HUI"
+      },
+      {
+        "slug": "industrie-vendee-2026",
+        "name": "GETEX",
+        "days_left": 0,
+        "ca": null,
+        "alert": "ROUGE - deadline AUJOURD HUI"
+      },
+      {
+        "slug": "abattoir-rhone-2026",
+        "name": "SECAT",
+        "days_left": 3,
+        "ca": null,
+        "alert": "ROUGE - 3 jours"
+      },
+      {
+        "slug": "alimentaire-paris-2026",
+        "name": "CONDICHEF",
+        "days_left": 3,
+        "ca": null,
+        "alert": "ROUGE - 3 jours"
+      },
+      {
+        "slug": "logiciel-bretagne-2026",
+        "name": "PROCSEA FRANCE",
+        "days_left": 3,
+        "ca": null,
+        "alert": "ROUGE - 3 jours"
+      },
+      {
+        "slug": "hvac-idf-2026",
+        "name": "Equipements thermiques IDF",
+        "days_left": 5,
+        "ca": 1400000,
+        "alert": "ORANGE - 5 jours"
+      }
+    ],
+    "new_opportunities_list": [
+      {
+        "slug": "electronique-jura-2026",
+        "name": "TECH POWER ELECTRONICS",
+        "aj": "AJRS",
+        "ca": 21948000,
+        "effectif": 71,
+        "sector": "Electronique industrielle",
+        "ville": "Courlaoux (39)",
+        "deadline": "2026-04-24",
+        "days_left": 0
+      },
+      {
+        "slug": "abattoir-rhone-2026",
+        "name": "SECAT",
+        "aj": "AJ UP",
+        "ca": null,
+        "effectif": "10-50",
+        "sector": "Agroalimentaire / abattage",
+        "ville": "Rhone (69)",
+        "deadline": "2026-04-27",
+        "days_left": 3
+      },
+      {
+        "slug": "industrie-vendee-2026",
+        "name": "GETEX",
+        "aj": "Ajire",
+        "ca": null,
+        "effectif": "10-50",
+        "sector": "Industrie",
+        "ville": "Vendee (85)",
+        "deadline": "2026-04-24",
+        "days_left": 0
+      },
+      {
+        "slug": "alimentaire-paris-2026",
+        "name": "CONDICHEF site Clermont",
+        "aj": "2M & Associes",
+        "ca": null,
+        "effectif": "ND",
+        "sector": "Industrie alimentaire",
+        "ville": "Paris / Clermont-Ferrand",
+        "deadline": "2026-04-27",
+        "days_left": 3
+      },
+      {
+        "slug": "logiciel-bretagne-2026",
+        "name": "PROCSEA FRANCE",
+        "aj": "Ajire",
+        "ca": null,
+        "effectif": "10-50",
+        "sector": "Logiciel marketplace",
+        "ville": "Ille-et-Vilaine (35)",
+        "deadline": "2026-04-27",
+        "days_left": 3
+      },
+      {
+        "slug": "hvac-idf-2026",
+        "name": "Equipements thermiques (confidentiel)",
+        "aj": "Abitbol & Rousselet",
+        "ca": 1400000,
+        "effectif": 20,
+        "sector": "HVAC",
+        "ville": "IDF",
+        "deadline": "2026-04-29",
+        "days_left": 5
+      },
+      {
+        "slug": "maroquinerie-rennes-2026",
+        "name": "SACMANIA",
+        "aj": "2M & Associes",
+        "ca": null,
+        "effectif": "ND",
+        "sector": "Retail maroquinerie",
+        "ville": "Rennes (35)",
+        "deadline": "2026-04-30",
+        "days_left": 6
+      },
+      {
+        "slug": "silicones-nord-2026",
+        "name": "Societe silicones alimentaires",
+        "aj": "BMA",
+        "ca": null,
+        "effectif": "50-250",
+        "sector": "Agroalimentaire",
+        "ville": "Nord (59)",
+        "deadline": "2026-04-30",
+        "days_left": 6
+      },
+      {
+        "slug": "metal-finistere-2026",
+        "name": "BP METAL",
+        "aj": "Ajire",
+        "ca": null,
+        "effectif": "10-50",
+        "sector": "Structures metalliques",
+        "ville": "Finistere (29)",
+        "deadline": "2026-04-30",
+        "days_left": 6
+      },
+      {
+        "slug": "tech-insurance-puy-2026",
+        "name": "LES AFFRANCHIS",
+        "aj": "AJ UP",
+        "ca": null,
+        "effectif": "<10",
+        "sector": "Tech assurance auto",
+        "ville": "Puy-de-Dome (63)",
+        "deadline": "2026-04-30",
+        "days_left": 6
+      },
+      {
+        "slug": "it-nanterre-2026",
+        "name": "SUNLOG",
+        "aj": "AJRS",
+        "ca": 3354733,
+        "effectif": 8,
+        "sector": "Informatique",
+        "ville": "Nanterre (92)",
+        "deadline": "2026-05-06",
+        "days_left": 12
+      },
+      {
+        "slug": "informatique-rennes-2026",
+        "name": "YES WE DEV",
+        "aj": "2M & Associes",
+        "ca": null,
+        "effectif": "ND",
+        "sector": "Dev web",
+        "ville": "Rennes (35)",
+        "deadline": "2026-05-06",
+        "days_left": 12
+      },
+      {
+        "slug": "mecaniq-essert-2026",
+        "name": "MECADEP SAS",
+        "aj": "AJRS",
+        "ca": 2331895,
+        "effectif": 21,
+        "sector": "Mecanique industrielle",
+        "ville": "Essert (90)",
+        "deadline": "2026-05-08",
+        "days_left": 14
+      },
+      {
+        "slug": "mecaniq-loir-2026",
+        "name": "Mecanique Generale Precision",
+        "aj": "Trajectoire",
+        "ca": null,
+        "effectif": "ND",
+        "sector": "Mecanique precision",
+        "ville": "Loir-et-Cher (41)",
+        "deadline": "2026-05-06",
+        "days_left": 12
+      },
+      {
+        "slug": "chauffage-doubs-2026",
+        "name": "JAMES CHAGUE",
+        "aj": "AJRS",
+        "ca": 4158910,
+        "effectif": 32,
+        "sector": "Chauffage plomberie",
+        "ville": "Thise (25)",
+        "deadline": "2026-05-07",
+        "days_left": 13
+      },
+      {
+        "slug": "btp-isere-2026",
+        "name": "S.D.E.R.",
+        "aj": "AJ UP",
+        "ca": null,
+        "effectif": "10-50",
+        "sector": "BTP maconnerie",
+        "ville": "Isere (38)",
+        "deadline": "2026-05-07",
+        "days_left": 13
+      },
+      {
+        "slug": "casque-velo-lyon-2026",
+        "name": "Fabricant casques velo innovants",
+        "aj": "BCM",
+        "ca": null,
+        "effectif": "ND",
+        "sector": "Fabrication sportif",
+        "ville": "Lyon 9 (69)",
+        "deadline": "2026-05-04",
+        "days_left": 10
+      },
+      {
+        "slug": "it-paris-2026",
+        "name": "ITFACTO / ITFI / IT NEWS INFO",
+        "aj": "2M & Associes",
+        "ca": null,
+        "effectif": "ND",
+        "sector": "IT medias",
+        "ville": "Paris (75)",
+        "deadline": "2026-05-21",
+        "days_left": 27
+      },
+      {
+        "slug": "viticole-banyuls-2026",
+        "name": "Cooperative viticole Banyuls",
+        "aj": "Abitbol & Rousselet",
+        "ca": 14000000,
+        "effectif": 140,
+        "sector": "Viticulture cooperative",
+        "ville": "Banyuls-Collioure (66)",
+        "deadline": "2026-05-11",
+        "days_left": 17
+      },
+      {
+        "slug": "restauration-valdoise-2026",
+        "name": "Groupe restauration (confidentiel)",
+        "aj": "Abitbol & Rousselet",
+        "ca": 3200000,
+        "effectif": 35,
+        "sector": "Restauration",
+        "ville": "Val-d Oise (95)",
+        "deadline": "2026-05-18",
+        "days_left": 24
+      },
+      {
+        "slug": "chocolaterie-rennes-2026",
+        "name": "ATELIER BRUNO LE DERF",
+        "aj": "2M & Associes",
+        "ca": null,
+        "effectif": "ND",
+        "sector": "Chocolaterie patisserie",
+        "ville": "Rennes (35)",
+        "deadline": "2026-05-12",
+        "days_left": 18
+      },
+      {
+        "slug": "textile-loire-2026",
+        "name": "SAS TROUILLET CIE",
+        "aj": "AJ UP",
+        "ca": null,
+        "effectif": "10-50",
+        "sector": "Textile mode",
+        "ville": "Loire (42)",
+        "deadline": "2026-05-18",
+        "days_left": 24
+      },
+      {
+        "slug": "transport-allier-2026",
+        "name": "TRANSPAUMANCE",
+        "aj": "AJ UP",
+        "ca": null,
+        "effectif": "10-50",
+        "sector": "Transport routier",
+        "ville": "Allier (03)",
+        "deadline": "2026-05-29",
+        "days_left": 35
+      },
+      {
+        "slug": "fabrication-loire-2026",
+        "name": "A-B LOISIRS",
+        "aj": "AJ UP",
+        "ca": null,
+        "effectif": "10-50",
+        "sector": "Fabrication abris piscine",
+        "ville": "Loire (42)",
+        "deadline": "2026-06-01",
+        "days_left": 38
+      },
+      {
+        "slug": "securite-alsace-2026",
+        "name": "KS SECURITE",
+        "aj": "Ajilink Grand Est",
+        "ca": null,
+        "effectif": ">250",
+        "sector": "Securite surveillance",
+        "ville": "Bas-Rhin (67)",
+        "deadline": "2026-06-15",
+        "days_left": 52
+      },
+      {
+        "slug": "restauration-rennes-2026",
+        "name": "CANGIA",
+        "aj": "2M & Associes",
+        "ca": null,
+        "effectif": "ND",
+        "sector": "Restauration brasserie",
+        "ville": "Rennes (35)",
+        "deadline": "2026-05-28",
+        "days_left": 34
+      },
+      {
+        "slug": "creches-rennes-a-2026",
+        "name": "KANGOUROU KIDS",
+        "aj": "2M & Associes",
+        "ca": null,
+        "effectif": "ND",
+        "sector": "Petite enfance",
+        "ville": "Rennes (35)",
+        "deadline": "2026-05-12",
+        "days_left": 18
+      },
+      {
+        "slug": "creches-rennes-b-2026",
+        "name": "MA CABANE EN BOIS + KIDS PARADIS",
+        "aj": "2M & Associes",
+        "ca": null,
+        "effectif": "ND",
+        "sector": "Petite enfance creches",
+        "ville": "Rennes (35)",
+        "deadline": "2026-05-12",
+        "days_left": 18
+      }
+    ]
+  },
+  "actions_taken": [
+    "28 sites AJ scrapés",
+    "28 nouvelles opps ajoutées dans OPPORTUNITIES.md",
+    "28 notifs Telegram envoyées (msg_id 4-31)",
+    "BRAIN.md mis à jour",
+    "6 alertes urgences identifiées (2 ROUGE deadline aujourd hui, 3 ROUGE <7j, 1 ORANGE <14j)"
+  ],
+  "pending_for_human": [
+    "GO/NO-GO sur les 28 opps notifiées via Telegram",
+    "URGENT: electronique-jura-2026 (TECH POWER ELECTRONICS CA 22M€) — deadline AUJOURD HUI",
+    "URGENT: industrie-vendee-2026 (GETEX) — deadline AUJOURD HUI",
+    "URGENT: abattoir-rhone-2026 (SECAT) — 3 jours",
+    "URGENT: logiciel-bretagne-2026 (PROCSEA FRANCE) — 3 jours",
+    "URGENT: alimentaire-paris-2026 (CONDICHEF) — 3 jours"
+  ],
+  "triggered_next": [
+    "deal-analysis si deals GO reçus via queue"
+  ],
+  "errors": [
+    "ADJE (adje-aj.fr) — 404 Not Found",
+    "BVP (etude-bpv.fr) — 404 Not Found",
+    "FHBX (dataroom.fhbx.eu) — interface sans listings visibles (dataroom cloudlegal)"
+  ]
+}
