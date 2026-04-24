@@ -531,9 +531,9 @@ de mes sentiments les meilleurs.
 
 
 
-BRANTHAM PARTNERS                         [Société holding repreneur]
-Paul ROULLEAU                             [Prénom NOM]
-Associé fondateur                         [Qualité]
+BRANTHAM PARTNERS                         AUTO REVIEW SARL
+Paul ROULLEAU                             Arnaud GUILLEM
+Associé fondateur                         Gérant
 
 
 (signature)                               (signature + mention
