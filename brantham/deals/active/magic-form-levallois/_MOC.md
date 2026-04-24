@@ -56,20 +56,17 @@ tags: [deal, actif, magic-form-levallois, mandat-signe]
 
 | Paramètre | Valeur |
 |---|---|
-| Société mandante | **AUTO REVIEW** (SARL) |
-| SIREN | 513 859 140 |
-| RCS | Versailles |
-| Capital | 150 000 € |
-| Siège | 8 rue des Frères Caudron, 78140 Vélizy-Villacoublay |
-| Secteur historique | Automobile (à confirmer — garage/négoce probable) |
-| CA 2023 | 883 970 € |
-| Résultat 2023 | +165 260 € |
-| Cash disponible 2023 | 394 967 € |
-| Solvabilité pour ticket Magic Form | **OK — financement cash possible** |
-| Gérant | [à obtenir via K-bis] |
-| Contact email/tél | [à obtenir] |
-| Structure acquisition | À clarifier — reprise directe ou SPV dédiée |
-| Motivation stratégique | À clarifier — diversification vers fitness |
+| Dirigeant | **Arnaud GUILLEM** (51 ans, né 01/1975) |
+| Profil | Entrepreneur multi-sociétés, **exploitant salle de sport Courbevoie depuis 2021** |
+| Société mandante (à confirmer) | AUTO REVIEW / COURBEVOIE FORME / SPV dédiée |
+| Groupe patrimonial | 5 sociétés : AUTO REVIEW (holding), COURBEVOIE FORME (fitness), IMMOVEL, VALTAX, CENTRE QUALITE SERVICES |
+| AUTO REVIEW SIREN | 513 859 140 — SARL — 8 rue des Frères Caudron, 78140 Vélizy-Villacoublay |
+| COURBEVOIE FORME SIREN | 532 485 216 — SAS activités sportives — 33 rue du Moulin des Bruyères, 92400 Courbevoie |
+| CA AUTO REVIEW 2023 | 883 970 € — Résultat +165 260 € — Cash 394 967 € |
+| Thèse de reprise | **Build-up sectoriel fitness — Courbevoie + Levallois (5 km)** |
+| Solvabilité ticket | **OK cash interne, pas de dette requise** |
+| Structure acquisition recommandée | **SPV dédiée détenue par AUTO REVIEW** — à valider au call J+3 |
+| Email / tél | [à obtenir] |
 | Voir fiche complète | [[brantham/deals/active/magic-form-levallois/repreneur-fiche]] |
 
 ---
