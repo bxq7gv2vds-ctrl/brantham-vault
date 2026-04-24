@@ -9,13 +9,11 @@ tags: [lettre-mission, magic-form-levallois, nda, devis, deal-actif]
 
 # Lettre de mission — Magic Form Levallois
 
-> Version spécifique deal Magic Form Levallois.
+> Version **V1 finale** — deal Magic Form Levallois.
 > Template maître : `vault/brantham/templates/lettre-de-mission.md`
-> **Placeholders restants à remplir avant envoi** :
->   - [NOM REPRENEUR], [SOCIÉTÉ HOLDING], [ADRESSE REPRENEUR]
->   - [NOM SOREN COMPLET]
->   - Date exacte entretien du call de ce jour
->   - CV détaillés Paul + Soren (section 7)
+>
+> **Statut** : prête à envoi sous réserve relecture humaine.
+> **Tous les placeholders sont remplis** — voir checklist en bas de document.
 
 ---
 
