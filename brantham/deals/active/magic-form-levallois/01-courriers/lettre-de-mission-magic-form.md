@@ -41,7 +41,7 @@ Monsieur Arnaud GUILLEM
 Objet : Lettre de mission sur dossier Magic Form Levallois
 
 
-Cher [Prénom],
+Cher Arnaud,
 
 Je tiens tout d'abord à vous remercier très sincèrement pour la chaleur
 de votre accueil et le temps et l'attention que vous m'avez accordés
@@ -482,7 +482,7 @@ préserver le calendrier de production.
 
 Au nom de toute l'équipe Brantham Partners, je tiens à vous remercier
 vivement de la confiance que vous nous témoignez en nous confiant
-cette mission et je vous prie d'agréer, Cher [Prénom], l'expression
+cette mission et je vous prie d'agréer, Cher Arnaud, l'expression
 de mes sentiments les meilleurs.
 
 
