@@ -556,25 +556,29 @@ Pour toute question : paul.roulleau@branthampartners.fr — 07 68 36 25 63
 
 ---
 
-## Placeholders restants avant envoi (à compléter par Paul)
+## Statut des placeholders
 
-| # | Placeholder | Source |
+| # | Élément | Statut |
 |---|---|---|
-| 1 | `[Monsieur/Madame Prénom NOM]` du repreneur | Paul — notes du call |
-| 2 | `[Société holding]` | Paul |
-| 3 | `[Adresse repreneur]` | Paul |
-| 4 | Section 1 — description activité holding (3-5 lignes) | À rédiger avec le repreneur |
-| 5 | Section 7 — CV Paul ROULLEAU | Paul |
-| 6 | Section 7 — Nom complet + CV Soren | Paul |
-| 7 | Annexe — IBAN/BIC/banque Brantham | Paul |
+| 1 | Destinataire : Arnaud GUILLEM, Gérant, AUTO REVIEW SARL | ✅ |
+| 2 | Adresse : 8 rue des Frères Caudron, 78140 Vélizy-Villacoublay | ✅ |
+| 3 | Section 1 — groupe patrimonial Arnaud GUILLEM + thèse build-up | ✅ |
+| 4 | Section 7 — CV Paul ROULLEAU | ✅ (à relire par Paul) |
+| 5 | Section 7 — CV Soren MENDY | ✅ (à relire par Soren) |
+| 6 | Annexe — IBAN/BIC Brantham | ✅ |
+| 7 | Calendrier (deadline 21/05, synthèse 19/05, Bon pour accord 28/04) | ✅ |
 
-## Pré-envoi
+## Pré-envoi — checklist finale
 
-- [ ] Compléter les 7 placeholders
-- [ ] Relecture orthographique complète (accents !)
-- [ ] Conversion Markdown → Word/PDF (Pandoc ou Marp)
-- [ ] Signature électronique DocuSign (Paul + repreneur)
-- [ ] Joindre au même email : note de cadrage, courrier AJ pré-rédigé, RIB, checklist KYC
+- [ ] Relecture humaine complète (Paul + Soren)
+- [ ] Ajustement CV si besoin (Paul et Soren peuvent enrichir avec formation ou expériences antérieures)
+- [ ] Conversion Markdown → PDF papier à en-tête Brantham (Pandoc, Marp, ou Word)
+- [ ] Signature électronique DocuSign (Paul + Arnaud GUILLEM)
+- [ ] Joindre au même email d'envoi :
+  - Note de cadrage du deal
+  - Courrier AJ pré-rédigé (extension NDA)
+  - Checklist KYC repreneur
+- [ ] Email d'envoi à Arnaud GUILLEM — objet : "Brantham Partners — Lettre de mission Magic Form Levallois"
 
 ## Chiffrage cohérent avec le deal
 
