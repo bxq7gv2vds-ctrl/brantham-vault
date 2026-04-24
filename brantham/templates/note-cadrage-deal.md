@@ -159,17 +159,19 @@ Source : Pappers / Infogreffe — comptes déposés au [date].
 
 ---
 
-## 6. Risques identifiés — scoring Brantham
+## 6. Risques préliminaires identifiés (hypothèses sources publiques)
 
-| Risque | Gravité | Probabilité | Mitigation proposée |
+> Matrice initiale — à valider / requalifier dans le **Memo de Due Diligence** post-DR.
+
+| Risque préliminaire | Gravité estimée | Source du signal | À vérifier en DR |
 |---|---|---|---|
-| [Ex: URSSAF super-privilégié caché] | Haute | Moyenne | Clause de prix avec ajustement post-data room |
-| [Ex: Rupture fournisseur critique] | Haute | Haute | Visite fournisseurs top 5 avant audience |
-| [Ex: Départ salariés clés dès annonce] | Moyenne | Haute | Package de rétention sur 6 mois — budget [X] k€ |
-| [Ex: Contentieux environnemental] | [?] | [?] | Due diligence environnementale ciblée |
-| [Ex: Dépréciation stock] | Basse | Moyenne | Valorisation stock au plus bas en offre |
+| [Ex: URSSAF super-privilégié élevé] | Haute | Ratios secteur + bilan N-1 | Relevé de créances MJ |
+| [Ex: Rupture fournisseur critique] | Haute | Concentration secteur | Balance fournisseurs + ancienneté |
+| [Ex: Départ salariés clés dès annonce] | Moyenne | LinkedIn — turnover récent | Pyramide des âges + historique départs |
+| [Ex: Contentieux environnemental] | ? | Activité ICPE potentielle | Audit environnemental + prescriptions |
+| [Ex: Dépréciation stock] | Basse | Rotation stock bilan | Inventaire physique |
 
-**Go / No-go indicateurs** : points rouges qui feraient annuler l'offre finale post-data room = [lister 2-3 deal-breakers].
+**Deal-breakers à définir dès S1** : seuils au-delà desquels on recommande de ne pas déposer (ex: passif privilégié > [X] k€, perte client top 1 avant audience, contamination site non provisionnée).
 
 ---
 
