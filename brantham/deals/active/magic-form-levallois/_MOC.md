@@ -87,12 +87,22 @@ tags: [deal, actif, magic-form-levallois, mandat-signe]
 
 ---
 
-## Documents à produire (J+1)
+## Documents produits (prêts pour envoi J+1)
 
-- [ ] Note de cadrage du deal (template `vault/brantham/templates/note-cadrage-deal.md`)
-- [x] **Lettre de mission Brantham V1** (avec NDA intégré + devis 7k/7k) — `01-courriers/lettre-de-mission-magic-form.md`
-- [ ] Courrier repreneur → AJ (template `vault/brantham/templates/courrier-extension-nda-aj.md`)
-- [ ] Checklist KYC + questionnaire critères
+- [x] **Lettre de mission Brantham V1** (NDA + devis 7k/7k intégrés) — `01-courriers/lettre-de-mission-magic-form.md`
+- [x] **Note de cadrage du deal** — `01-courriers/note-cadrage-magic-form.md`
+- [x] **Courrier repreneur → AJ** (extension NDA) — `01-courriers/courrier-aj-extension-nda.md`
+- [x] **Checklist KYC + questionnaire critères** — `01-courriers/checklist-kyc-arnaud.md`
+- [x] **RIB Brantham** — `corp/legal/2026-04-24-rib-brantham-swan.pdf`
+
+### Actions restantes avant envoi
+
+- [ ] Relecture humaine des 4 documents (Paul + Soren)
+- [ ] Ajustement CV §7 LDM si besoin (formation, expérience supplémentaire)
+- [ ] Conversion Markdown → PDF avec en-tête Brantham (Pandoc, Marp, ou Word)
+- [ ] Signature DocuSign LDM + NDA (Paul + Arnaud GUILLEM)
+- [ ] Compilation email pack J+1 avec les 5 PJ
+- [ ] Envoi à Arnaud GUILLEM le 25/04/2026 matin
 
 ---
 
