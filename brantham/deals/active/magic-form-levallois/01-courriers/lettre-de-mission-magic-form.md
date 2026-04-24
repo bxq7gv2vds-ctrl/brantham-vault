@@ -29,8 +29,8 @@ tags: [lettre-mission, magic-form-levallois, nda, devis, deal-actif]
 
 
 Monsieur Arnaud GUILLEM
-[Qualité — Président / Gérant selon société mandante finale]
-[Société mandante — AUTO REVIEW SARL / COURBEVOIE FORME SAS / SPV à créer]
+Gérant
+AUTO REVIEW SARL
 8 rue des Frères Caudron
 78140 Vélizy-Villacoublay
 
@@ -54,9 +54,9 @@ par Maître Mounira BENHACINE CHAMIEH, administrateur judiciaire, en
 relation avec le cabinet O3 Partners.
 
 À l'issue de notre échange, qui a porté sur l'intérêt d'une éventuelle
-reprise de cette salle par [Société holding repreneur], vous m'avez
-donné votre accord sur un accompagnement de Brantham Partners à la
-préparation de cette éventuelle reprise.
+reprise de cette salle par AUTO REVIEW SARL, vous m'avez donné votre
+accord sur un accompagnement de Brantham Partners à la préparation de
+cette éventuelle reprise.
 
 En conséquence, ainsi que nous en sommes convenus, vous voudrez bien
 trouver ci-après décrits dans notre lettre de mission, le contexte,
