@@ -438,14 +438,37 @@ Vous trouverez ci-dessous résumés les curriculums vitae de notre
 équipe :
 
 Paul ROULLEAU — Associé fondateur :
-[À COMPLÉTER — format : âge, formation, parcours professionnel,
-domaines d'expertise chez Brantham (tech, data, analyse financière,
-structuration), opérations récentes]
+
+Associé cofondateur de Brantham Partners, Paul porte l'architecture
+technique, data et méthodologique du cabinet. Il a conçu et déployé
+le pipeline de veille automatisée qui couvre quotidiennement 30
+cabinets d'administrateurs judiciaires et les publications BODACC,
+détectant plusieurs centaines d'opportunités de reprise par mois. Il
+est à l'origine de la méthodologie propriétaire de scoring 9D des
+opportunités (viabilité, taille, attractivité sectorielle, urgence,
+qualité d'information, impact emploi, isolement géographique,
+coopération créanciers, accessibilité repreneur) et de l'outillage
+d'analyse financière accélérée et de rédaction assistée des offres
+aux conditions de l'article L.642-2. Il pilote sur chaque mission
+la production des notes de cadrage, memos de due diligence et
+offres déposées.
+
+Contact : paul.roulleau@branthampartners.fr — 07 68 36 25 63.
+
 
 Soren MENDY — Associé fondateur :
-[À COMPLÉTER — format : âge, formation, parcours professionnel,
-domaines d'expertise chez Brantham (commercial, relations AJ,
-négociation, accompagnement audience)]
+
+Associé cofondateur de Brantham Partners, Soren pilote la dimension
+commerciale et opérationnelle des missions. Il couvre la relation
+directe avec les administrateurs et mandataires judiciaires, la
+préparation des demandes d'accès aux data rooms, et les
+interactions avec les cabinets partenaires (avocats spécialisés
+procédures collectives, partenaires bancaires). Il conduit la
+négociation avec les parties prenantes en procédure — dirigeants,
+représentants du personnel, avocats des créanciers — et prépare
+l'accompagnement des repreneurs à l'audience devant le Tribunal de
+commerce. Soren anime également la cartographie des partenaires du
+cabinet et le suivi client en cours de mission.
 
 
                 8. Charges de travail — Budget et conditions financières
