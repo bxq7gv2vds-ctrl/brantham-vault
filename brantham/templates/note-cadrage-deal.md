@@ -14,6 +14,8 @@ tags: [onboarding, client, deal-cadrage, template]
 **Date** : [JJ/MM/AAAA]
 **Confidentialité** : Document couvert par l'accord de confidentialité signé le [date NDA]. Diffusion interne repreneur uniquement.
 
+> **Nature du document** : Note de cadrage **pré data room**. Toutes les données ci-dessous sont issues de **sources publiques** (BODACC, annonce AJ, Pappers, Infogreffe, presse, site web de la cible, LinkedIn). Les éléments marqués **[À CONFIRMER DR]** nécessitent l'accès à la data room de l'AJ pour validation. Ce document sera complété par un **Memo de Due Diligence** (J+21) après analyse de la data room.
+
 ---
 
 ## 1. Résumé exécutif
@@ -57,12 +59,12 @@ tags: [onboarding, client, deal-cadrage, template]
 | Audience de cession | [date] | Plaidoirie avocat + accompagnement repreneur |
 | Jugement prévisionnel | [date] | — |
 
-### 2.3. Périmètre annoncé par l'AJ
+### 2.3. Périmètre annoncé par l'AJ (source : annonce AJ publique)
 
 - **Actifs proposés à la cession** : [fonds de commerce / immobilier / matériel / stocks / marque / brevets]
-- **Contrats inclus** : [baux commerciaux (N=), contrats commerciaux clés, contrats de travail à reprendre]
-- **Exclusions** : [passif antérieur — reste dans la procédure, créances clients antérieures au jugement, contentieux en cours]
-- **Salariés à reprendre (minimum AJ)** : [N] sur [Total] — critère L642-5 dominant
+- **Contrats mentionnés** : [baux commerciaux, contrats commerciaux clés]
+- **Salariés à reprendre (minimum indicatif AJ)** : [N] sur [Total] — critère L642-5 dominant **[À CONFIRMER DR]**
+- **Exclusions de principe** : passif antérieur au jugement, créances clients antérieures, contentieux en cours — tout cela reste dans la procédure
 
 ---
 
