@@ -153,11 +153,22 @@ dans ce dossier :
     axe de différenciation crédible et monétisable rapidement
     post-reprise
 
-En conséquence, compte tenu de l'attractivité de l'emplacement, de la
-base d'abonnés en place, de la taille de ticket limitée et du
-potentiel de repositionnement de l'offre, vous avez décidé de
-candidater et m'avez donné votre accord sur l'accompagnement de
-Brantham Partners.
+En conséquence, compte tenu :
+  - De la distance de seulement 5 km entre votre site de Courbevoie
+    et Magic Form Levallois, permettant un maillage géographique
+    cohérent sur l'ouest parisien
+  - Des synergies opérationnelles, commerciales et d'achats que cette
+    reprise permet de matérialiser rapidement
+  - De votre expertise sectorielle démontrée sur l'exploitation d'une
+    salle similaire
+  - De l'attractivité de l'emplacement (zone dense, population active
+    cible) et du potentiel de repositionnement de l'offre (Pilates
+    Reformer notamment)
+  - De la taille de ticket limitée au regard de votre capacité
+    financière
+
+vous avez décidé de candidater et m'avez donné votre accord sur
+l'accompagnement de Brantham Partners.
 
 
                 2. Objectifs et principes clés de notre intervention
