@@ -152,6 +152,49 @@ Fichier de référence. Chaque ligne = une annonce vérifiée page détail.
   - Deadline : 24/04/2026 à 12h00 (passée)
   - URL : https://dataroom.ajire.fr/anonym/reprise/detail/10113610864
 
+## Actify — agrégateur CNAJMJ (complément)
+
+Annonces "Entreprise" détectées sur actify.fr (home) non présentes dans les 28 initiales :
+
+### GARAGE AUTOMOBILE — Burnhaupt-le-Haut (68520) Alsace
+- Catégorie : Entreprise (liquidation judiciaire probablement)
+- CA : 5-10 M€ | Effectif : 11-50 salariés
+- Secteur : Commerce automobile (NAF 4511Z)
+- Deadline : 05/05/2026 (heure non précisée)
+- AJ : SELARL AJAssociés — BOHLER Jocelyne — 03.89.56.22.58 — réf 30260
+- URL Actify : https://actify.fr/entreprises-liquidation-judiciaire/garage-automobile-2/
+- ⚠️ Probablement **LJ** (catégorie Actify), pas RJ — à vérifier
+
+### Chez TEIXEIRA & ALMEIDA — La Queue-en-Yvelines (78940)
+- Resto portugais, CA 0-250K€, 0-5 sal. — **trop petit**, skip
+- URL : https://actify.fr/entreprises-liquidation-judiciaire/chez-teixeira-almeida/
+- AJ : AJRS — JEANNEROT Guillaume
+- *Déjà détecté via AJRS dans la passe initiale*
+
+## Sources agrégateurs — ne pas oublier
+
+- **Actify** (actify.fr) — officiel CNAJMJ, listing exhaustif nécessite login. Aliment par les études AJ donc beaucoup de doublons avec les sites individuels.
+- **Fusacq** (fusacq.com) — 4605 opportunités ; filtre "Redressement judiciaire" disponible (`/reprendre-une-entreprise/recherche-annonces-cession-entreprise`) mais requiert recherche paramétrée
+- **Mayday Mag** (maydaymag.fr) — base des deals + les-entreprises-a-reprendre/, pages non scrapables sans session
+- **CNAJMJ** (cnajmj.fr) — agrégateur officiel, endpoint direct non trouvé
+- **Plan-de-cession.fr** — ECONNREFUSED lors du test 2026-04-24 (site down ?)
+
+## Sites AJ inaccessibles 2026-04-24 (à re-tester prochaine passe)
+
+- **ADJE** (www.adje-aj.fr) — pages `/procedures` et `/biens` existent mais listings chargés en JS (non visibles en scraping statique)
+- **AJ Associés** (www.dataroom-aja.fr + ajassocies.cms.cloudlegal.fr) — dataroom CloudLegal avec auth
+- **FHBX** (dataroom.fhbx.eu + fhbx.cms.cloudlegal.fr) — idem CloudLegal auth
+- **BVP** (etude-bpv.fr) — 404 ; domaine alternatif bpv-aj.fr ECONNREFUSED
+
+**→ ces 4 AJ nécessitent Chrome MCP (JavaScript) ou compte authentifié pour scraping exhaustif**
+
+## Prochaines passes à prévoir
+
+1. Chrome MCP pour ADJE + dataroom CloudLegal (AJAssociés, FHBX)
+2. Création compte Actify (gratuit) → accès listing exhaustif
+3. Fusacq avec filtre RJ sauvegardé
+4. Vérification pages détail pour les 3 AJRS non vérifiées (SUNLOG, MECADEP, JAMES CHAGUE) — URL détail indisponible en public
+
 ## Related
 - [[brantham/_MOC]]
 - [[_system/MOC-sourcing]]
