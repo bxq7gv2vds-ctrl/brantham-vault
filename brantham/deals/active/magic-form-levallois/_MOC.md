@@ -35,16 +35,20 @@ tags: [deal, actif, magic-form-levallois, mandat-signe]
 
 | Paramètre | Valeur |
 |---|---|
-| Raison sociale | [à confirmer — Magic Form Levallois ou entité mère] |
+| Raison sociale | [à confirmer via Pappers — "Magic Form" est la marque] |
 | Secteur | Salle de sport / fitness (code NAF 93.13Z probable) |
-| Localisation | Levallois-Perret (92300) |
+| Localisation | Levallois-Perret (92300) — zone dense urbaine |
+| Surface | ~900 m² (RDC + sous-sol) |
 | SIREN | [à rechercher Pappers] |
-| Procédure | [RJ / LJ — à confirmer BODACC] |
-| Tribunal | [Nanterre probable] |
-| Administrateur judiciaire | [à identifier] |
-| Mandataire judiciaire | [à identifier] |
-| CA annuel | [à rechercher] |
-| Effectif | [à rechercher] |
+| Procédure | [à confirmer — RJ avec plan de cession probable] |
+| Tribunal | Nanterre (92) |
+| Administrateur judiciaire | **Maître Mounira BENHACINE CHAMIEH** |
+| Cabinet / Contact annonce | **O3 Partners — Alexis THOMAS** |
+| Source annonce | maydaymag.fr/salle-de-sport/ |
+| CA annuel | **350 000 € à 595 000 €** |
+| Effectif | 3 salariés (2 ménage + 1 accueil) + 5 coachs indépendants |
+| Base abonnés | 1 300 à 2 600 membres actifs |
+| Projet en cours | Ouverture zone Pilates Reformer |
 
 ---
 
