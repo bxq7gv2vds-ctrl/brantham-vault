@@ -69,7 +69,23 @@ tags: [corp, brantham, identite-juridique, beneficiaires-effectifs]
 | Registre bénéficiaires effectifs (RBE) | `corp/legal/2026-03-04-beneficiaires-effectifs-RBE.pdf` |
 | K-bis | [à fournir] |
 | Statuts | [à fournir] |
-| RIB / IBAN / BIC | [à fournir] |
+| RIB / IBAN / BIC | `corp/legal/2026-04-24-rib-brantham-swan.pdf` |
+
+---
+
+## Coordonnées bancaires
+
+| Paramètre | Valeur |
+|---|---|
+| Banque | **SWAN SAS** (néobanque B2B, via Pennylane) |
+| Domiciliation | 95 Avenue du Président Wilson, 93100 Montreuil |
+| Titulaire | Brantham Partners |
+| IBAN | **FR76 1732 8844 0056 1611 0782 155** |
+| BIC | **SWNBFR22** |
+| Banque | 17328 |
+| Guichet | 84400 |
+| N° compte | 5616 1107 821 |
+| Clé | 55 |
 
 ---
 
