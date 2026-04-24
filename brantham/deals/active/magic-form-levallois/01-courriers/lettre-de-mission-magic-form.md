@@ -340,10 +340,11 @@ rendre disponibles pour les réunions de travail qui seront
 organisées, et notamment pour la **réunion de synthèse du 19 mai
 2026**.
 
-Par ailleurs, la participation d'au moins un représentant de votre
-société sera nécessaire à l'entretien que nous chercherons à
-organiser au plus vite avec le dirigeant de l'exploitation Magic
-Form Levallois, ainsi qu'à la visite des locaux.
+Par ailleurs, votre participation sera nécessaire à l'entretien que
+nous chercherons à organiser au plus vite avec le dirigeant de
+l'exploitation Magic Form Levallois, ainsi qu'à la visite des locaux
+(votre proximité géographique avec Courbevoie facilitera cette
+étape).
 
 Nous aurons enfin besoin de pouvoir vous tenir informés au quotidien
 de l'avancement des travaux pour assurer une décision rapide,
