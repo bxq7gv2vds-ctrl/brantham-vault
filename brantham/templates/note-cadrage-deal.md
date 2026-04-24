@@ -113,18 +113,20 @@ tags: [onboarding, client, deal-cadrage, template]
 
 Source : Pappers / Infogreffe — comptes déposés au [date].
 
-### 4.2. Structure du passif (estimation)
+### 4.2. Structure du passif — estimation [À CONFIRMER DR]
 
-| Poste | Montant | Statut en plan de cession |
+> Données non disponibles en sources publiques au niveau détaillé. Estimation ci-dessous basée sur le dernier bilan public (Pappers) et ratios sectoriels. Montants réels accessibles uniquement via data room AJ.
+
+| Poste | Estimation | Statut en plan de cession |
 |---|---|---|
 | Super-privilège salaires (AGS) | [X] k€ | **Reste dans la procédure** |
 | URSSAF / fiscal privilégié | [X] k€ | **Reste dans la procédure** |
 | Fournisseurs | [X] k€ | **Reste dans la procédure** |
 | Dettes bancaires | [X] k€ | **Reste dans la procédure** |
 | PGE | [X] k€ | **Reste dans la procédure** |
-| **Total passif exclu** | **[X] k€** | **Non repris par le repreneur** |
+| **Total passif exclu (ordre de grandeur)** | **~[X] k€** | **Non repris par le repreneur** |
 
-**Avantage structurel** : le repreneur n'assume PAS ce passif. C'est l'économie structurelle de la reprise à la barre.
+**Avantage structurel** : le repreneur n'assume PAS ce passif. C'est l'économie structurelle de la reprise à la barre — à chiffrer précisément post-DR.
 
 ### 4.3. Pourquoi l'entreprise est en procédure (hypothèses)
 
