@@ -1,0 +1,219 @@
+{
+  "agent": "sourcing",
+  "run_id": "sourcing-2026-04-25-1410",
+  "timestamp": "2026-04-25T14:10:00Z",
+  "status": "success",
+  "summary": "31 sites scrapés (3 erreurs), 13 nouvelles opps RJ détectées, 13 notifs Telegram envoyées (msg_id 36-48)",
+  "data": {
+    "sites_scraped": 31,
+    "sites_errors": [
+      {
+        "site": "ADJE",
+        "url": "https://www.adje-aj.fr/proacedures",
+        "error": "404"
+      },
+      {
+        "site": "BVP",
+        "url": "https://www.etude-bpv.fr/anonym/actif/search",
+        "error": "404"
+      },
+      {
+        "site": "FHBX",
+        "url": "https://dataroom.fhbx.eu/anonym/reprise/search",
+        "error": "template vide / aucune annonce"
+      }
+    ],
+    "new_opportunities": 13,
+    "go": [],
+    "watch": [],
+    "pass_count": 0,
+    "lj_ignored": 0,
+    "voluntary_cession_ignored": 2,
+    "note_voluntary": "Tuyauterie PACA (cession majoritaire succession) et SIBANORD 59 (cession majorite succession) ecartees car non-RJ judiciaire",
+    "urgent_alerts": [
+      {
+        "slug": "abattoir-rhone-2026",
+        "deadline": "2026-04-27",
+        "days_left": 2,
+        "niveau": "ROUGE"
+      },
+      {
+        "slug": "alimentaire-paris-2026",
+        "deadline": "2026-04-27",
+        "days_left": 2,
+        "niveau": "ROUGE"
+      },
+      {
+        "slug": "logiciel-bretagne-2026",
+        "deadline": "2026-04-27",
+        "days_left": 2,
+        "niveau": "ROUGE"
+      },
+      {
+        "slug": "hvac-idf-2026",
+        "deadline": "2026-04-29",
+        "days_left": 4,
+        "niveau": "ROUGE"
+      },
+      {
+        "slug": "chape-vaucluse-2026",
+        "deadline": "2026-04-24",
+        "days_left": -1,
+        "niveau": "ROUGE CRITIQUE — deadline passee hier"
+      },
+      {
+        "slug": "metal-finistere-2026",
+        "deadline": "2026-04-30",
+        "days_left": 5,
+        "niveau": "ROUGE"
+      },
+      {
+        "slug": "instrument-touraine-2026",
+        "deadline": "2026-04-30",
+        "days_left": 5,
+        "niveau": "ROUGE"
+      },
+      {
+        "slug": "btp-hautegaronne-2026",
+        "deadline": "2026-04-30",
+        "days_left": 5,
+        "niveau": "ROUGE"
+      }
+    ],
+    "new_opportunities_detail": [
+      {
+        "slug": "metal-vendee-2026",
+        "entreprise": "SERALU",
+        "ca": 25900000,
+        "secteur": "Structures metalliques",
+        "deadline": "2026-05-18",
+        "msg_id": 36
+      },
+      {
+        "slug": "hygiene-lyon-2026",
+        "entreprise": "Groupe IT2C/C2I/INNOCLEAN",
+        "ca": 7907700,
+        "secteur": "Hygiene/desinfection",
+        "deadline": "2026-05-27",
+        "msg_id": 37
+      },
+      {
+        "slug": "chape-vaucluse-2026",
+        "entreprise": "TECHNISOL",
+        "ca": 11200000,
+        "secteur": "BTP chape fluide",
+        "deadline": "2026-04-24",
+        "msg_id": 38,
+        "alerte": "deadline passee hier"
+      },
+      {
+        "slug": "instrument-touraine-2026",
+        "entreprise": "Confidentiel",
+        "ca": null,
+        "secteur": "Instrumentation scientifique",
+        "deadline": "2026-04-30",
+        "msg_id": 39
+      },
+      {
+        "slug": "formation-digital-2026",
+        "entreprise": "Digital College",
+        "ca": null,
+        "secteur": "Enseignement superieur",
+        "deadline": "2026-04-24",
+        "msg_id": 40,
+        "alerte": "deadline passee hier"
+      },
+      {
+        "slug": "ecole-arts-paris-2026",
+        "entreprise": "Ecole Conte",
+        "ca": null,
+        "secteur": "Arts/mode/luxe",
+        "deadline": "2026-04-24",
+        "msg_id": 41,
+        "alerte": "deadline passee hier"
+      },
+      {
+        "slug": "ecole-banque-2026",
+        "entreprise": "Exchange College",
+        "ca": null,
+        "secteur": "Banque/assurance",
+        "deadline": "2026-04-24",
+        "msg_id": 42,
+        "alerte": "deadline passee hier"
+      },
+      {
+        "slug": "social-besancon-2026",
+        "entreprise": "LES INVITES AU FESTIN",
+        "ca": 1900000,
+        "secteur": "Social/hebergement",
+        "deadline": "2026-05-05",
+        "msg_id": 43
+      },
+      {
+        "slug": "btp-hautegaronne-2026",
+        "entreprise": "Confidentiel",
+        "ca": null,
+        "secteur": "BTP promotion",
+        "deadline": "2026-04-30",
+        "msg_id": 44
+      },
+      {
+        "slug": "industrie-yvelines-2026",
+        "entreprise": "SMILAIR MGW",
+        "ca": 1500000,
+        "secteur": "Industrie",
+        "deadline": "2026-05-05",
+        "msg_id": 45
+      },
+      {
+        "slug": "macon-alsace-2026",
+        "entreprise": "ALLEMANN",
+        "ca": null,
+        "secteur": "Maconnerie/demolition",
+        "deadline": "2026-06-08",
+        "msg_id": 46
+      },
+      {
+        "slug": "carrosserie-alsace-2026",
+        "entreprise": "DEBOS STYLE",
+        "ca": null,
+        "secteur": "Carrosserie auto",
+        "deadline": "2026-05-18",
+        "msg_id": 47
+      },
+      {
+        "slug": "livraison-lyon-2026",
+        "entreprise": "BECYCLE",
+        "ca": 956000,
+        "secteur": "Livraison velo",
+        "deadline": "2026-05-14",
+        "msg_id": 48
+      }
+    ]
+  },
+  "actions_taken": [
+    "OPPORTUNITIES.md mis a jour (+13 entrees)",
+    "BRAIN.md mis a jour",
+    "13 notifications Telegram envoyees (msg_id 36-48)"
+  ],
+  "pending_for_human": [
+    "GO/NO-GO sur 13 nouvelles opps via Telegram",
+    "URGENT: contacter BCM pour Digital College, Ecole Conte, Exchange College (deadline passee hier)",
+    "URGENT: contacter Meynet pour TECHNISOL (deadline passee hier)"
+  ],
+  "triggered_next": [],
+  "errors": [
+    {
+      "site": "ADJE",
+      "error": "404 Not Found"
+    },
+    {
+      "site": "BVP",
+      "error": "404 Not Found"
+    },
+    {
+      "site": "FHBX",
+      "error": "Page template sans contenu"
+    }
+  ]
+}
