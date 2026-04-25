@@ -8,6 +8,7 @@ Digest quotidien des annonces de cession/reprise publiees par les AJ francais.
 
 ## Entrees
 
+- [[brantham/deals/aj-feed/2026-04-25]] — 442 deals
 - [[brantham/deals/aj-feed/2026-04-24]] — 489 deals
 - [[brantham/deals/aj-feed/2026-04-23]] — 444 deals
 - [[brantham/deals/aj-feed/2026-04-22]] — 894 deals
