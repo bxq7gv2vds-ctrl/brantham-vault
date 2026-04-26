@@ -4,3 +4,4 @@
 ## Cycle 13:53
 
 - **Scrape AJ** : lancement...
+  - OK : 0 opportunites scrapees
