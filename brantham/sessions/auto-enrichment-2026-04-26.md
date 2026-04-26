@@ -43,3 +43,7 @@ La clinique SSR (6,6 M€, 90 sal., RJ) est la plus urgente. SIREN requis pour e
 
 - [[brantham/_MOC]]
 - [[brantham/pipeline/QUEUE]]
+
+## Cycle 20:48
+
+- **Scrape AJ** : lancement...
