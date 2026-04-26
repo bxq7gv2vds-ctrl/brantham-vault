@@ -59,3 +59,5 @@ Reusable technical patterns. Check here before solving a problem.
 | TUI Sourcing Repreneur | sourcing | [[brantham/patterns/tui-sourcing-repreneur]] |
 | Feynman Research Tool | research | [[brantham/patterns/feynman-research-tool]] |
 | **Pappers Intelligence Hub** | **intel/corporate** | **[[patterns/pappers-intelligence-hub]]** |
+| **Cockpit TUI Triage** | **tui/sqlite** | **[[brantham/patterns/cockpit-tui-triage]]** |
+| **DLDO Extraction Regex FR** | **scraping/regex** | **[[brantham/patterns/dldo-extraction-regex-fr]]** |
