@@ -22,6 +22,9 @@ Resolved bugs. Search here before debugging.
 | 2026-03-06 | [[brantham/bugs/2026-03-06-agent-auth-401]] | agents | high |
 | 2026-03-06 | [[brantham/bugs/2026-03-06-handoff-raw-wrapper]] | agents | medium |
 | 2026-03-13 | [[brantham/bugs/2026-03-13-mobile-router-animation-css]] | dashboard-frontend | critical |
+| 2026-04-26 | [[brantham/bugs/2026-04-26-mayday-url-js-rendering]] | scraping | high |
+| 2026-04-26 | [[brantham/bugs/2026-04-26-aj-specialises-url-slash-manquant]] | scraping | medium |
+| 2026-04-26 | [[brantham/bugs/2026-04-26-ajilink-portail-faux-positifs]] | scraping | medium |
 
 ## Website
 
