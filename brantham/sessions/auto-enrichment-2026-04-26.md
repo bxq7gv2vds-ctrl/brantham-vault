@@ -47,3 +47,4 @@ La clinique SSR (6,6 M€, 90 sal., RJ) est la plus urgente. SIREN requis pour e
 ## Cycle 20:48
 
 - **Scrape AJ** : lancement...
+  - OK : 456 opportunites scrapees
