@@ -1,5 +1,26 @@
 # QUEUE — Opportunites en attente de traitement
 
+> Mise à jour : 2026-04-26 (auto-enrichment session AJ)
+
+## Scan AJ du 2026-04-26
+
+| Métrique | Valeur |
+|----------|--------|
+| Opportunités scrapées | 460 (25 sites actifs) |
+| Qualifiées (CA > 500K ou score > 60) | 5 nouvelles |
+| Deals créés ce cycle | 5 |
+| Enrichissement Pappers | 0 (pas de SIREN disponible) |
+| Repreneurs identifiés | 5 x 5 = 25 (API gouvernement) |
+
+**Deals créés ce cycle (2026-04-26)** :
+1. `aj2m-editeur-du-titre-de-presse-professionnelle-le-monde-inf` — Le Monde Informatique & Agence B2B, CA 8,2 M€, 97 sal., cession, DL 2026-05-21
+2. `abitbol-clinique-de-soins-m-dicaux-et-de-r-adaptation` — Clinique SSR Éguilles (13), CA 6,6 M€, 90 sal., RJ, DL 2026-05-27
+3. `ajup-transport-routier-fret-de-proximit-transport-bennes` — Transport fret/bennes, CA 4,316 M€, 26 sal., cession, DL 2026-05-29
+4. `aj-associes-soci-t-de-conseil-sp-cialis-e-dans-l-am-lioratio` — Conseil amélioration continue, CA 2,646 M€, 15 sal., cession, DL 2026-05-29
+5. `bcm-soci-t-sp-cialis-e-dans-la-cr-ation-et-la-fabrication-de` — Prêt-à-porter fabrication, CA 1,136 M€, 1 sal., cession, DL 2026-05-21
+
+---
+
 > Mise à jour : 2026-04-21 14h (auto-enrichment session DB)
 
 ## Session DB du 2026-04-21
