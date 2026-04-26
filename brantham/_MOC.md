@@ -72,7 +72,20 @@ Modele hybride : **15-30k upfront** (1ere offre) + **15-30k** (offre finale) + *
 
 ## Sessions récentes
 
+- [[brantham/sessions/2026-04-26-cockpit-tui-supabase-hunters]] — **Cockpit v2** : Supabase Postgres + Hunters concurrents api.gouv + Todo Manager + 5 onglets TUI. Décision migrer vers app web Next.js
+- [[brantham/sessions/2026-04-26-cockpit-aj]] — Cockpit Phase A (TUI triage AJ, scraper fixes, DLDO 91%)
 - [[brantham/sessions/2026-03-30-bp-tui-sourcing]] — TUI sourcing repreneur + pipeline contacts multi-sources
+
+## Cockpit Brantham (TUI Python + DB Supabase)
+
+- [[brantham/patterns/db-abstraction-sqlite-postgres-hybridrow]] — Abstraction DB unifiée + HybridRow + connection persistante
+- [[brantham/patterns/hunters-concurrents-api-gouv]] — Sourcing repreneurs concurrents via api.gouv (gratuit, SIRENE)
+- [[brantham/patterns/todos-manager-suggestions-auto-plus-manuel]] — Task manager auto + custom persistant
+- [[brantham/patterns/mayday-mag-detail-parsing]] — Scraper Mayday v5 avec extraction AJ réel
+- [[brantham/bugs/2026-04-26-hybridrow-iter-postgres]]
+- [[brantham/bugs/2026-04-26-postgres-having-alias]]
+- [[brantham/bugs/2026-04-26-button-pressed-selector]]
+- Code : `/Users/paul/Downloads/brantham-pipeline/cockpit/`
 
 ## Knowledge Base — Procedures
 
