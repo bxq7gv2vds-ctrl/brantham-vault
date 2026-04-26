@@ -61,3 +61,7 @@ Reusable technical patterns. Check here before solving a problem.
 | **Pappers Intelligence Hub** | **intel/corporate** | **[[patterns/pappers-intelligence-hub]]** |
 | **Cockpit TUI Triage** | **tui/sqlite** | **[[brantham/patterns/cockpit-tui-triage]]** |
 | **DLDO Extraction Regex FR** | **scraping/regex** | **[[brantham/patterns/dldo-extraction-regex-fr]]** |
+| **DB Abstraction SQLite/Postgres + HybridRow** | **db/abstraction** | **[[brantham/patterns/db-abstraction-sqlite-postgres-hybridrow]]** |
+| **Hunters Concurrents api.gouv** | **sourcing/sirene** | **[[brantham/patterns/hunters-concurrents-api-gouv]]** |
+| **Todo Manager Auto + Manuel** | **productivity/todos** | **[[brantham/patterns/todos-manager-suggestions-auto-plus-manuel]]** |
+| **Mayday Mag Detail Parsing** | **scraping/aj** | **[[brantham/patterns/mayday-mag-detail-parsing]]** |
