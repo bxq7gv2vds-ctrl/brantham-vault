@@ -17,6 +17,9 @@ All strategic and architectural decisions, ordered by date.
 | 2026-03-27 | [[founder/decisions/2026-03-27-vault-wikilinks-overhaul]] | cross-project | 2026-04-27 |
 | 2026-04-26 | [[founder/decisions/2026-04-26-cockpit-architecture-sqlite-textual]] | brantham | 2026-05-26 |
 | 2026-04-26 | [[founder/decisions/2026-04-26-pivot-polymarket-obs-based]] | polymarket | 2026-05-26 |
+| 2026-04-26 | [[founder/decisions/2026-04-26-supabase-vs-vps-hetzner]] | brantham | 2026-05-26 |
+| 2026-04-26 | [[founder/decisions/2026-04-26-hunters-concurrents-only]] | brantham | 2026-05-26 |
+| 2026-04-26 | [[founder/decisions/2026-04-26-tui-vers-web-app]] | brantham | 2026-05-26 |
 
 ## Pending Review
 
