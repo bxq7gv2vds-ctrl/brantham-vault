@@ -407,3 +407,18 @@ Note: API FastAPI (port 8000) hors ligne ce cycle — matching 4D non disponible
   - Dossier: `deals/ajilink-grandest-allemann/`
 - **ACTIVITE DE BOUCHERIE CHARCUTERIE TRAITEUR** | CA: 477 026 € | Eff: 0 - 5 | cession | AJ: Meynet | Repreneurs: non
   - Dossier: `deals/meynet-activite-de-boucherie-charcuterie-traiteur/`
+
+## Ajouts automatiques — 2026-04-27
+
+| # | Nom | AJ | CA | Effectif | Localisation | Score | Slug |
+|---|-----|----|----|----------|--------------|-------|------|
+| 1 | Papier et électricité | Abitol & Rousse | CA = 151,3 M€ ; | 268 salariés |  | 0 | abitol-and-rousselet-papier-et-lectricit |
+| 2 | Clinique de soins médicaux et de réadapt | Maydaymag | Entre 5 et 50 M | 50 à 500 salari | Gironde, Nouvelle-Aq | 0 | maydaymag-clinique-de-soins-m-dicaux-et-de-r-adapt |
+| 3 | Editeur du titre de presse professionnel | Maydaymag | Entre 5 et 50 M | 50 à 500 salari | Ile de France, Paris | 0 | maydaymag-editeur-du-titre-de-presse-professionnel |
+| 4 | Création de collections de tissu pour l’ | Maydaymag | Entre 5 et 50 M | 0 à 50 salariés | Auvergne-Rhône-Alpes | 0 | maydaymag-cr-ation-de-collections-de-tissu-pour-l |
+| 5 | Travaux publics et de VRD ; terrassement | Maydaymag | Entre 5 et 50 M | 50 à 500 salari | Hauts-de-France, Nor | 0 | maydaymag-travaux-publics-et-de-vrd-terrassement-s |
+| 6 | Fondation d’utilité publique dédiée à l’ | Maydaymag | Plus de 50 M€ | Plus de 500 sal | Ile de France, Paris | 0 | maydaymag-fondation-d-utilit-publique-d-di-e-l-act |
+| 7 | Transports routiers de personnes et tout | Maydaymag | Entre 5 et 50 M | 50 à 500 salari | Ile de France | 0 | maydaymag-transports-routiers-de-personnes-et-tout |
+| 8 | Groupe exploitant, sous franchise, 7 fon | Maydaymag | Entre 5 et 50 M | 50 à 500 salari | Ile de France | 0 | maydaymag-groupe-exploitant-sous-franchise-7-fonds |
+| 9 | Distribution de chaussures et d’accessoi | Maydaymag | Entre 5 et 50 M | 50 à 500 salari | Ile de France | 0 | maydaymag-distribution-de-chaussures-et-d-accessoi |
+| 10 | Vente de produits de revêtement du sol | Maydaymag | Entre 5 et 50 M | 50 à 500 salari | Ile de France | 0 | maydaymag-vente-de-produits-de-rev-tement-du-sol |
