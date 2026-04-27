@@ -17,3 +17,4 @@ generated: 2026-04-23
 ## Projection at current rate
 - Double bankroll: 8.3 days
 - 10× bankroll: 27.4 days
+## Related

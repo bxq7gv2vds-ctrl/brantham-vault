@@ -74,3 +74,4 @@ Tous les scripts sont dans `/Users/paul/Desktop/brantham-partners/`.
 - [[brantham/architecture]] -- Architecture globale
 ## Related
 ## Related
+## Related

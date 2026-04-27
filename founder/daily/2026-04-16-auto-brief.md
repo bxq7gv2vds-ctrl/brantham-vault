@@ -89,3 +89,4 @@ Deals les plus critiques (ni analyse ni acheteurs) :
 ---
 
 *Généré automatiquement le 2026-04-16 — sources : PostgreSQL brantham, aj_annonces.json (2026-04-15), deals workspace*
+## Related

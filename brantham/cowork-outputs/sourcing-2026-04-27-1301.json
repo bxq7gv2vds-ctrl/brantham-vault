@@ -1,0 +1,78 @@
+{
+  "agent": "sourcing",
+  "run_id": "sourcing-2026-04-27-1301",
+  "timestamp": "2026-04-27T13:01:00Z",
+  "status": "success",
+  "summary": "31 sites scrapes (3 erreurs: ADJE 404, BVP 404, FHBX vide), 13 nouvelles opps RJ detectees, 13 notifs Telegram envoyees (msg_id 49-61). DEAL MAJEUR: tuyauterie industrielle PACA CA 25M€. 3 alertes ROUGES (deadlines 29-30/04), 3 oranges (07/05).",
+  "data": {
+    "sites_scraped": 28,
+    "sites_total": 31,
+    "sites_errors": [
+      {"site": "ADJE", "url": "https://www.adje-aj.fr/proacedures", "error": "404 Not Found"},
+      {"site": "BVP", "url": "https://www.etude-bpv.fr/anonym/actif/search", "error": "404 Not Found"},
+      {"site": "FHBX", "url": "https://dataroom.fhbx.eu/anonym/reprise/search", "error": "Page vide / pas de listings exposes"}
+    ],
+    "sites_empty": [
+      {"site": "Adjust", "url": "https://www.adjust-aj.com/anonym/reprise/search"},
+      {"site": "AJ Partenaires", "url": "https://ajpartenaires.fr/annonces/"},
+      {"site": "AJA", "url": "https://www.dataroom-aja.fr/"},
+      {"site": "Asteren", "url": "https://www.asteren.fr/biens/"},
+      {"site": "Cardon Bortolus", "url": "https://www.cardon-bortolus.fr/anonym/actif/search"},
+      {"site": "CBF Associes", "url": "https://www.aj-dataroom.fr/les-datarooms.html"},
+      {"site": "KSG", "url": "https://www.ksg-aj.fr/anonym/reprise/search"},
+      {"site": "Maydaymag", "url": "https://www.maydaymag.fr/"},
+      {"site": "MM AJ", "url": "https://www.mm-aj.com/anonym/reprise/search"},
+      {"site": "SAJ", "url": "https://www.etude-saj.fr/cessionsreprise"}
+    ],
+    "new_opportunities": 13,
+    "notifie": [
+      {"slug": "restauration-eragny-2026", "msg_id": 49, "ca": 3400000, "deadline": "2026-05-18", "days_left": 21, "alerte": null},
+      {"slug": "restauration-franconville-2026", "msg_id": 50, "ca": 3100000, "deadline": "2026-05-18", "days_left": 21, "alerte": null},
+      {"slug": "restauration-enghien-2026", "msg_id": 51, "ca": 1900000, "deadline": "2026-05-18", "days_left": 21, "alerte": null},
+      {"slug": "auto-ecole-63-2026", "msg_id": 52, "ca": null, "deadline": "2026-04-29", "days_left": 2, "alerte": "ROUGE"},
+      {"slug": "agriculture-veillat-2026", "msg_id": 53, "ca": null, "deadline": "2026-04-30", "days_left": 3, "alerte": "ROUGE"},
+      {"slug": "boulangerie-orpheus-2026", "msg_id": 54, "ca": null, "deadline": "2026-06-15", "days_left": 49, "alerte": null},
+      {"slug": "tuyauterie-paca-2026", "msg_id": 55, "ca": 25000000, "deadline": "2026-05-20", "days_left": 23, "alerte": "DEAL_MAJEUR"},
+      {"slug": "maconnerie-nord-2026", "msg_id": 56, "ca": 4789000, "deadline": "2026-05-07", "days_left": 10, "alerte": "ORANGE"},
+      {"slug": "transport-zegers-2026", "msg_id": 57, "ca": 2511000, "deadline": "2026-05-07", "days_left": 10, "alerte": "ORANGE"},
+      {"slug": "fruits-alpes-2026", "msg_id": 58, "ca": null, "deadline": "2026-04-30", "days_left": 3, "alerte": "ROUGE"},
+      {"slug": "boulangerie-gentner-2026", "msg_id": 59, "ca": null, "deadline": "2026-05-22", "days_left": 25, "alerte": null},
+      {"slug": "sport-baume-2026", "msg_id": 60, "ca": 1054141, "deadline": "2026-05-29", "days_left": 32, "alerte": null},
+      {"slug": "habillement-nord-2026", "msg_id": 61, "ca": null, "deadline": "2026-05-07", "days_left": 10, "alerte": "ORANGE"}
+    ],
+    "go": [],
+    "watch": [],
+    "pass_count": 0,
+    "lj_ignored": 1,
+    "sv_ignored": 1,
+    "doublons_ignored": 30,
+    "deadlines_passed": 30,
+    "urgent_alerts": [
+      {"slug": "auto-ecole-63-2026", "deadline": "2026-04-29", "days_left": 2, "level": "ROUGE"},
+      {"slug": "agriculture-veillat-2026", "deadline": "2026-04-30", "days_left": 3, "level": "ROUGE"},
+      {"slug": "fruits-alpes-2026", "deadline": "2026-04-30", "days_left": 3, "level": "ROUGE"},
+      {"slug": "maconnerie-nord-2026", "deadline": "2026-05-07", "days_left": 10, "level": "ORANGE"},
+      {"slug": "transport-zegers-2026", "deadline": "2026-05-07", "days_left": 10, "level": "ORANGE"},
+      {"slug": "habillement-nord-2026", "deadline": "2026-05-07", "days_left": 10, "level": "ORANGE"}
+    ]
+  },
+  "actions_taken": [
+    "Scraped 31 AJ websites (28 OK, 3 errors)",
+    "Filtered out LJ/SV/cession-actifs and deadlines passes (30 doublons, 30 expirees)",
+    "Sent 13 Telegram notifications with inline GO/NO-GO buttons (msg_id 49-61)",
+    "Appended 13 entries to OPPORTUNITIES.md with statut=notifie",
+    "Updated BRAIN.md with sourcing log entry"
+  ],
+  "pending_for_human": [
+    "Paul tranche GO/NO-GO sur les 13 notifs Telegram (msg_id 49-61)",
+    "URGENT: 3 deals deadline <=3 jours (auto-ecole-63, VEILLAT, fruits-alpes)"
+  ],
+  "triggered_next": [
+    "deal-analysis (auto-trigger sur clic GO Telegram)"
+  ],
+  "errors": [
+    "ADJE: 404 Not Found",
+    "BVP: 404 Not Found",
+    "FHBX: page vide / SPA sans listings exposes"
+  ]
+}

@@ -16,3 +16,8 @@
 - ALERTE : Node server DOWN — relance...
 
 ## Health Check 23:37 — 4 problemes detectes et corriges
+## Related
+
+- [[brantham/_MOC]]
+- [[founder/daily/2026-04-23-auto-brief.md|Daily — 2026-04-23]]
+- [[website/_MOC]]

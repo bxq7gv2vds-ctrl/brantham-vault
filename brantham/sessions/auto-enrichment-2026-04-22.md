@@ -10,3 +10,8 @@
 
 - **Scrape AJ** : lancement...
   - OK : 447 opportunites scrapees
+## Related
+
+- [[brantham/_MOC]]
+- [[founder/daily/2026-04-22-auto-brief.md|Daily — 2026-04-22]]
+- [[website/_MOC]]

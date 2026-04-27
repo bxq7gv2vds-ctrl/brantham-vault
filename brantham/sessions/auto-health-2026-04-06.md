@@ -8,3 +8,8 @@
 - ALERTE : FastAPI DOWN — relance...
 
 ## Health Check 23:29 — 3 problemes detectes et corriges
+## Related
+
+- [[brantham/_MOC]]
+- [[founder/daily/2026-04-06-auto-brief.md|Daily — 2026-04-06]]
+- [[website/_MOC]]

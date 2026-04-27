@@ -18,3 +18,4 @@ _Aucun bug enregistré pour l'instant._
 
 ## Sessions
 _Aucune session enregistrée pour l'instant._
+## Related

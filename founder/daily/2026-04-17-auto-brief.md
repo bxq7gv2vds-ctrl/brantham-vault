@@ -90,3 +90,4 @@ generated: auto
 | Sites AJ couverts | 31/40 (78%) | 100% | A compléter |
 | Session enrichissement | Non générée | Quotidienne | Manquant |
 | Rapport auto-enrichment | Absent | Quotidien | Manquant |
+## Related

@@ -118,3 +118,4 @@ uv run mlflow ui --backend-store-uri file:/Users/paul/polymarket-hedge/models/ml
 **Autonomie** : procéder sans demander confirmation sauf git push / delete / deploy prod / destructif.
 
 **Style** : réponses courtes, directes, pas de blabla. Tester avant de dire "fait".
+## Related
