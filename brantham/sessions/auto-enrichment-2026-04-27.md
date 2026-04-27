@@ -44,3 +44,7 @@ projet: brantham
 [[brantham/pipeline/QUEUE]]
 - Deep enrichment termine a 09:50
 ---
+
+## Cycle 12:39
+
+- **Scrape AJ** : lancement...
