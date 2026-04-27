@@ -13,7 +13,23 @@
 
 ---
 
-## Semaine 1
+## Pack visuel — Week 1 du 28 avril 2026 (v2 active)
+
+Dossier : `vault/brantham/linkedin/week-01-2026-04-28/`
+
+3 visuels carrés 1080×1080 en HTML/CSS, direction "feuille presse" éditoriale (FT / Le Monde diplomatique). Logo Brantham intégré, masthead presse, grain papier, Source Serif corps, Instrument Serif titres.
+
+| Fichier | Date pub | Pilier |
+|---|---|---|
+| `post-01-top5-secteurs.png` | Lun 28 avr | Top 5 secteurs défaillances FR 2025 (sourcé INSEE) |
+| `post-02-checklist-rj.png` | Mer 30 avr | 6 vérifications avant offre RJ |
+| `post-03-vrai-prix.png` | Ven 2 mai | Le vrai prix d'une reprise (fond navy) |
+
+Régénérer : `cd vault/brantham/linkedin/week-01-2026-04-28 && python3 render.py`. Voir `README.md` du dossier pour le template `_template.html` réutilisable.
+
+---
+
+## Semaine 1 — Archive v1 (mars 2026)
 
 | # | Jour | Titre | Format | Fichiers |
 |---|------|-------|--------|----------|
