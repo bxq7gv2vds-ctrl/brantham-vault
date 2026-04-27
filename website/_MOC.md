@@ -1,12 +1,15 @@
 ---
 type: moc
 project: website
-updated: 2026-03-28
+updated: 2026-04-27
 ---
 
 Brantham Partners website + SEO content machine.
 
 Project location: `/Users/paul/zura-inspired/`
+
+### Recent
+- **2026-04-27** : Audit cohérence/orthographe + corrections en masse + deploy prod. Voir [[sessions/2026-04-27-audit-coherence-orthographe-deploy]]. 141 pages traitées, ~6 800 changements (orthographe + casse Tribunal + insécables FR). Pattern réutilisable : [[../patterns/html-mass-corrections-safe-replacement]].
 
 ### Status (2026-03-28)
 - SEO Technique : **99/100** — geo.position + ICBM sur 95/95 pages, modified_time 2026-03-28 partout
