@@ -12,4 +12,8 @@
 
 - [[brantham/_MOC]]
 - [[founder/daily/2026-04-27-auto-brief.md|Daily — 2026-04-27]]
-- [[website/_MOC]]
+- [[website/_MOC]]- ALERTE : PostgreSQL DOWN — relance...
+- ALERTE : FastAPI DOWN — relance...
+- ALERTE : Node server DOWN — relance...
+
+## Health Check 20:53 — 3 problemes detectes et corriges
