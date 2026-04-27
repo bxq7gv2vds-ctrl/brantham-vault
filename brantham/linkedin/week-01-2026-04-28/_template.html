@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Brantham — [TITRE COURT POST]</title>
+<link rel="stylesheet" href="_shared.css">
+<style>
+  /* ──────────────────────────────────────────────────────────────
+     LAYOUT SPÉCIFIQUE DU POST. Modifie ici les dimensions.
+     - .headline : taille du titre
+     - .lede : taille du paragraphe intro
+     - le bloc principal selon ton format (table, ledger, toc...)
+     ────────────────────────────────────────────────────────────── */
+
+  .px .headline {
+    font-size: 60px;          /* 50-64 selon densité texte */
+    line-height: 1.02;
+    margin-top: 22px;
+    max-width: 880px;
+    letter-spacing: -0.012em;
+  }
+  .px .lede {
+    font-size: 17px;
+    line-height: 1.55;
+    margin-top: 22px;
+    max-width: 770px;
+  }
+  .px .lede b { color: var(--ink); font-weight: 600; }
+
+  /* Bloc liste éditoriale (à dupliquer / supprimer selon le post) */
+  .px .toc {
+    margin-top: 32px;
+    border-top: 0.5px solid var(--ink);
+    position: relative;
+  }
+  .px .toc::after {
+    content: "";
+    position: absolute;
+    top: 4px; left: 0; right: 0;
+    height: 1px;
+    background: var(--ink);
+  }
+  .px .item {
+    display: grid;
+    grid-template-columns: 32px 1fr;
+    column-gap: 22px;
+    align-items: baseline;
+    padding: 16px 0 14px;
+    border-bottom: 0.5px solid var(--rule);
+  }
+  .px .item:last-of-type { border-bottom: 0; }
+  .px .item .roman {
+    font-family: var(--serif-display);
+    font-style: italic;
+    font-size: 18px;
+    color: var(--ink-mute);
+    text-align: right;
+    padding-top: 4px;
+  }
+  .px .item .label {
+    font-family: var(--serif-body);
+    font-size: 19px;
+    font-weight: 600;
+    color: var(--ink);
+    margin-bottom: 4px;
+  }
+  .px .item .desc {
+    font-family: var(--serif-body);
+    font-size: 14.5px;
+    line-height: 1.5;
+    color: var(--ink-soft);
+    font-style: italic;
+  }
+</style>
+</head>
+<body>
+
+<!-- ──────────────────────────────────────────────────────────────
+     POUR UN POST FOND SOMBRE : ajouter la classe `dark` sur .post
+     <div class="post px dark">
+     ────────────────────────────────────────────────────────────── -->
+
+<div class="post px">
+
+  <!-- ═══════════════════════════════ MASTHEAD (logo + N° + date) ═══════════════════════════════ -->
+  <header class="masthead">
+    <div class="masthead-row">
+      <div class="brand"><img src="logo.png" alt="Brantham Partners"></div>
+      <div class="pubinfo">
+        <div class="issue">[NOM SÉRIE · n°XX]</div>
+        <div>[Mois&nbsp;AAAA] · M&amp;A distressed France</div>
+      </div>
+    </div>
+    <div class="rules"></div>
+    <div class="dateline">
+      <div class="left">Paris — [JOUR mois AAAA]</div>
+      <div class="right">[Édition publique / Note interne / etc.]</div>
+    </div>
+  </header>
+
+  <!-- ═══════════════════════════════ CONTENU ═══════════════════════════════ -->
+  <div class="post-inner">
+
+    <div class="kicker">[CATÉGORIE · SOUS-CATÉGORIE]</div>
+
+    <h1 class="headline">
+      [Titre principal une ligne] <span class="it">[mot italique]</span><br>
+      [suite du titre].
+    </h1>
+
+    <p class="lede">
+      [Paragraphe d'accroche éditorial. Densité <b>chiffres en gras</b> autorisée.
+      Maximum 3 lignes pour respirer.]
+    </p>
+
+    <!-- ─── EXEMPLE : LISTE ÉDITORIALE TYPE TOC ─── -->
+    <div class="toc">
+      <div class="item">
+        <div class="roman">i.</div>
+        <div>
+          <div class="label">[Titre item 1]</div>
+          <div class="desc">[Description courte en italique.]</div>
+        </div>
+      </div>
+      <!-- dupliquer selon nb d'items (3 à 6 idéal) -->
+    </div>
+
+    <!-- ─── ALTERNATIVES POSSIBLES ───
+         · Table data (cf post-01-top5-secteurs.html → .table)
+         · Ledger financier (cf post-03-vrai-prix.html → .ledger)
+         · Pull quote (cf post-01 → .pull .quote)
+         · Coda italique (cf post-02 → .coda)
+    ─── ─── ─── ─── ─── ─── ─── ─── ─── -->
+
+    <div style="flex:1"></div>
+  </div>
+
+  <!-- ═══════════════════════════════ COLOPHON (signature + source) ═══════════════════════════════ -->
+  <footer class="colophon">
+    <div class="signature">
+      <div class="name">Paul Roulleau</div>
+      <div class="firm">Brantham Partners — M&amp;A distressed</div>
+    </div>
+    <div class="meta">
+      <div><b>[Voir / Source / Méthode]</b></div>
+      <div>[branthampartners.fr / xxx]</div>
+    </div>
+  </footer>
+
+</div>
+
+</body>
+</html>
