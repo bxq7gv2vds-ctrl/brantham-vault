@@ -1,0 +1,105 @@
+/* Brantham — LinkedIn S1 design tokens (charte 2026-04-11) */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&family=Instrument+Serif:ital@0;1&display=swap');
+
+:root {
+  --navy-deep: #001438;
+  --navy: #001F54;
+  --navy-card: #001A3D;
+  --cream: #FAFAF8;
+  --white: #FFFFFF;
+  --off: #F5F4F2;
+  --ink: #0F0F0E;
+  --t2: #4A4A47;
+  --t3: #6A6A66;
+  --t4: #8A8A86;
+  --t5: #B8B8B4;
+  --accent: #5B9BD5;
+  --stone: #E5E4E0;
+  --line-dark: #0A1E3D;
+  --red: #C8251A;
+  --font-display: 'Instrument Serif', Georgia, serif;
+  --font-body: 'DM Sans', Inter, Helvetica, sans-serif;
+  --font-mono: 'DM Mono', 'JetBrains Mono', monospace;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body { background: #c8c8c4; }
+body { padding: 60px; display: flex; flex-direction: column; align-items: center; gap: 40px; }
+
+.post {
+  width: 1080px;
+  height: 1080px;
+  background: var(--cream);
+  font-family: var(--font-body);
+  color: var(--ink);
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.post-inner {
+  flex: 1;
+  padding: 88px 88px 0 88px;
+  display: flex;
+  flex-direction: column;
+}
+
+.eyebrow {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--t3);
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.eyebrow::before {
+  content: "";
+  width: 28px;
+  height: 1px;
+  background: var(--ink);
+}
+
+.kicker {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--t4);
+}
+
+.foot {
+  border-top: 1px solid var(--stone);
+  padding: 26px 88px 28px 88px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--t4);
+}
+
+.foot .signature {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-family: var(--font-body);
+  font-size: 12px;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--ink);
+}
+.foot .signature .name { font-weight: 500; }
+.foot .signature .firm { color: var(--t3); font-size: 11px; }
+
+.foot .ref { text-align: right; line-height: 1.6; }
+.foot .ref .label { color: var(--t4); }
+.foot .ref .value { color: var(--ink); font-family: var(--font-mono); }
+
+.serif { font-family: var(--font-display); font-style: italic; font-weight: 400; }
