@@ -5,90 +5,39 @@
 <title>Brantham — 6 vérifications avant d'offrir sur un dossier RJ</title>
 <link rel="stylesheet" href="_shared.css">
 <style>
-  .p2 .headline {
-    font-size: 60px;
-    line-height: 1.02;
-    margin-top: 22px;
-    max-width: 870px;
-    letter-spacing: -0.012em;
-  }
-  .p2 .lede {
-    font-size: 16.5px;
-    line-height: 1.6;
-    margin-top: 22px;
-    max-width: 760px;
-  }
-  .p2 .lede b { color: var(--ink); font-weight: 600; }
+  .p2 .h1 { font-size: 58px; max-width: 870px; }
 
-  .p2 .toc {
-    margin-top: 32px;
-    border-top: 0.5px solid var(--ink);
-    position: relative;
+  .p2 .list {
+    margin-top: 48px;
+    border-top: 1px solid var(--ink);
   }
-  .p2 .toc::after {
-    content: "";
-    position: absolute;
-    top: 4px; left: 0; right: 0;
-    height: 1px;
-    background: var(--ink);
-  }
-
   .p2 .item {
     display: grid;
-    grid-template-columns: 32px 1fr;
-    column-gap: 22px;
+    grid-template-columns: 28px 1fr 1fr;
+    column-gap: 36px;
     align-items: baseline;
-    padding: 16px 0 14px;
-    border-bottom: 0.5px solid var(--rule);
+    padding: 20px 0;
+    border-bottom: 1px solid var(--rule);
   }
-  .p2 .item:last-of-type { border-bottom: 0; }
-
-  .p2 .item .roman {
-    font-family: var(--serif-display);
-    font-style: italic;
-    font-size: 18px;
+  .p2 .item:last-child { border-bottom: 0; }
+  .p2 .item .num {
+    font-family: var(--serif);
+    font-size: 14px;
     color: var(--ink-mute);
-    text-align: right;
-    padding-top: 4px;
-  }
-  .p2 .item .body {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    column-gap: 28px;
-    align-items: baseline;
+    font-weight: 500;
   }
   .p2 .item .label {
-    font-family: var(--serif-body);
-    font-size: 19px;
-    font-weight: 600;
+    font-family: var(--serif);
+    font-size: 22px;
+    font-weight: 500;
     color: var(--ink);
     letter-spacing: -0.005em;
   }
   .p2 .item .desc {
-    font-family: var(--serif-body);
-    font-size: 14.5px;
-    line-height: 1.5;
+    font-family: var(--serif);
+    font-size: 15px;
+    line-height: 1.55;
     color: var(--ink-soft);
-    font-style: italic;
-    font-weight: 400;
-  }
-
-  .p2 .coda {
-    margin-top: 26px;
-    padding: 18px 0 0;
-    border-top: 0.5px solid var(--ink);
-    font-family: var(--serif-display);
-    font-style: italic;
-    font-size: 22px;
-    line-height: 1.35;
-    color: var(--ink);
-    max-width: 820px;
-  }
-  .p2 .coda::before {
-    content: "—";
-    color: var(--ink-mute);
-    margin-right: 10px;
-    font-style: normal;
   }
 </style>
 </head>
@@ -96,97 +45,67 @@
 
 <div class="post p2">
 
-  <header class="masthead">
-    <div class="masthead-row">
-      <div class="brand"><img src="logo.png" alt="Brantham Partners"></div>
-      <div class="pubinfo">
-        <div class="issue">Méthode · checklist</div>
-        <div>Avril&nbsp;2026 · M&amp;A distressed France</div>
-      </div>
-    </div>
-    <div class="rules"></div>
-    <div class="dateline">
-      <div class="left">Paris — 30 avril 2026</div>
-      <div class="right">Note interne · publique</div>
-    </div>
+  <header class="head">
+    <div class="brand"><img src="logo.png" alt="Brantham Partners"></div>
+    <div class="ref"><b>Méthode</b> · checklist · n°01</div>
   </header>
 
-  <div class="post-inner">
+  <div class="body">
 
     <div class="kicker">Procédure collective · Redressement judiciaire</div>
 
-    <h1 class="headline">
-      Six choses qu'on lit <span class="it">avant le prix d'offre</span><br>
-      sur un dossier en redressement.
+    <h1 class="h1">
+      Six choses qu'on lit <span class="it">avant le prix d'offre</span> sur un dossier en redressement.
     </h1>
 
     <p class="lede">
-      Sur <b>quarante&nbsp;dossiers</b> qualifiés en 2026, la majorité des repreneurs
-      novices passent à côté des six. C'est ce qui explique <b>la majorité des
-      reprises ratées dans les douze&nbsp;mois</b> qui suivent l'audience.
+      Sur <b>quarante dossiers</b> qualifiés en 2026, la majorité des repreneurs novices passent à côté des six. C'est ce qui explique la majorité des reprises ratées dans les douze mois qui suivent l'audience.
     </p>
 
-    <div class="toc">
+    <div class="list">
       <div class="item">
-        <div class="roman">i.</div>
-        <div class="body">
-          <div class="label">Concentration client réelle</div>
-          <div class="desc">Pas la version déclarée. Les cinq premiers en part de chiffre, sur 24&nbsp;mois glissants.</div>
-        </div>
+        <div class="num">01</div>
+        <div class="label">Concentration client réelle</div>
+        <div class="desc">Les cinq premiers en part de chiffre, sur 24 mois glissants. Pas la version déclarée.</div>
       </div>
       <div class="item">
-        <div class="roman">ii.</div>
-        <div class="body">
-          <div class="label">Délai fournisseur moyen</div>
-          <div class="desc">Lecture sur six trimestres consécutifs. C'est là que se cache l'agonie de trésorerie.</div>
-        </div>
+        <div class="num">02</div>
+        <div class="label">Délai fournisseur moyen</div>
+        <div class="desc">Lecture sur six trimestres. C'est là que se cache l'agonie de trésorerie.</div>
       </div>
       <div class="item">
-        <div class="roman">iii.</div>
-        <div class="body">
-          <div class="label">PV des dernières audiences</div>
-          <div class="desc">Le ton de l'AJ, les questions du juge, les objections des créanciers. Le dossier vit là.</div>
-        </div>
+        <div class="num">03</div>
+        <div class="label">PV des dernières audiences</div>
+        <div class="desc">Le ton de l'AJ, les questions du juge, les objections des créanciers. Le dossier vit là.</div>
       </div>
       <div class="item">
-        <div class="roman">iv.</div>
-        <div class="body">
-          <div class="label">Contrats de leasing en cours</div>
-          <div class="desc">Crédit-bail, location longue durée, location-vente. À reprendre, à résilier, à renégocier.</div>
-        </div>
+        <div class="num">04</div>
+        <div class="label">Contrats de leasing en cours</div>
+        <div class="desc">Crédit-bail, LLD, location-vente. À reprendre, à résilier, à renégocier.</div>
       </div>
       <div class="item">
-        <div class="roman">v.</div>
-        <div class="body">
-          <div class="label">Contentieux prud'homaux</div>
-          <div class="desc">Provisionnés ou non, déclarés ou non. Une instance peut transformer un plan de cession.</div>
-        </div>
+        <div class="num">05</div>
+        <div class="label">Contentieux prud'homaux</div>
+        <div class="desc">Provisionnés ou non. Une instance peut transformer un plan de cession.</div>
       </div>
       <div class="item">
-        <div class="roman">vi.</div>
-        <div class="body">
-          <div class="label">Disponibilité du dirigeant sortant</div>
-          <div class="desc">Veut-il vraiment partir&nbsp;? Combien de mois de transition&nbsp;? Sans la réponse, le prix n'a pas de sens.</div>
-        </div>
+        <div class="num">06</div>
+        <div class="label">Disponibilité du dirigeant</div>
+        <div class="desc">Veut-il vraiment partir ? Combien de mois de transition ? Sans la réponse, le prix n'a pas de sens.</div>
       </div>
-    </div>
-
-    <div class="coda">
-      La majorité des repreneurs novices n'en vérifient aucune. C'est le vrai filtre.
     </div>
 
     <div style="flex:1"></div>
-
   </div>
 
-  <footer class="colophon">
-    <div class="signature">
+  <footer class="foot">
+    <div class="sig">
       <div class="name">Paul Roulleau</div>
       <div class="firm">Brantham Partners — M&amp;A distressed</div>
     </div>
     <div class="meta">
-      <div><b>Méthode</b></div>
-      <div>Interne · 40 dossiers · 2026</div>
+      <div><b>Méthode</b> · interne · 40 dossiers · 2026</div>
+      <div><b>Voir</b> · branthampartners.fr</div>
     </div>
   </footer>
 

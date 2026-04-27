@@ -5,165 +5,108 @@
 <title>Brantham — Le vrai prix d'une reprise distressed</title>
 <link rel="stylesheet" href="_shared.css">
 <style>
-  .p3 .headline {
-    font-size: 50px;
-    line-height: 1.05;
-    margin-top: 20px;
-    max-width: 880px;
-    letter-spacing: -0.012em;
-  }
-  .p3 .price-tag {
-    margin-top: 22px;
-    display: flex;
-    align-items: baseline;
-    gap: 24px;
-    padding-bottom: 14px;
-    border-bottom: 0.5px solid rgba(250,250,248,0.4);
-  }
-  .p3 .price-tag .label {
-    font-family: var(--mono);
-    font-size: 11px;
-    letter-spacing: 0.22em;
-    color: rgba(250,250,248,0.5);
-    text-transform: uppercase;
-  }
-  .p3 .price-tag .price {
-    font-family: var(--serif-display);
-    font-style: italic;
-    font-size: 88px;
-    line-height: 1;
-    letter-spacing: -0.02em;
-    color: var(--cream-cold);
-  }
-  .p3 .price-tag .note {
-    margin-left: auto;
-    font-family: var(--serif-body);
-    font-style: italic;
-    font-size: 14px;
-    color: rgba(250,250,248,0.55);
-    max-width: 280px;
-    line-height: 1.4;
-    text-align: right;
-  }
+  .p3 .h1 { font-size: 54px; max-width: 880px; }
 
   .p3 .ledger {
-    margin-top: 28px;
+    margin-top: 48px;
+    border-top: 1px solid var(--ink);
   }
   .p3 .li {
     display: grid;
-    grid-template-columns: 22px 1fr 200px;
-    column-gap: 18px;
+    grid-template-columns: 28px 1fr 200px;
+    column-gap: 24px;
     align-items: baseline;
-    padding: 12px 0 11px;
-    border-bottom: 0.5px solid rgba(250,250,248,0.10);
+    padding: 16px 0;
+    border-bottom: 1px solid var(--rule);
   }
   .p3 .li .op {
-    font-family: var(--serif-body);
+    font-family: var(--serif);
     font-size: 18px;
-    color: rgba(250,250,248,0.55);
-    text-align: center;
+    color: var(--ink-mute);
     font-weight: 400;
   }
   .p3 .li .lbl {
-    font-family: var(--serif-body);
-    font-size: 16.5px;
-    color: var(--cream-cold);
+    font-family: var(--serif);
+    font-size: 19px;
+    font-weight: 500;
+    color: var(--ink);
     letter-spacing: -0.005em;
   }
   .p3 .li .lbl .note {
-    color: rgba(250,250,248,0.5);
-    font-style: italic;
+    color: var(--ink-mute);
     font-weight: 400;
-    margin-left: 8px;
+    margin-left: 10px;
     font-size: 14px;
   }
   .p3 .li .val {
     font-family: var(--mono);
-    font-size: 16px;
+    font-size: 17px;
     text-align: right;
-    color: var(--cream-cold);
+    color: var(--ink);
     letter-spacing: -0.005em;
   }
-
   .p3 .total {
-    margin-top: 4px;
     display: grid;
-    grid-template-columns: 22px 1fr 200px;
-    column-gap: 18px;
+    grid-template-columns: 28px 1fr 200px;
+    column-gap: 24px;
     align-items: baseline;
-    padding: 18px 0 8px;
-    border-top: 1px solid rgba(250,250,248,0.55);
+    padding: 22px 0 4px;
+    border-top: 1px solid var(--ink);
+    margin-top: -1px;
   }
   .p3 .total .op {
-    font-family: var(--serif-body);
+    font-family: var(--serif);
     font-size: 18px;
-    text-align: center;
-    color: var(--cream-cold);
+    color: var(--ink);
+    font-weight: 500;
   }
   .p3 .total .lbl {
-    font-family: var(--serif-body);
-    font-size: 18px;
+    font-family: var(--serif);
+    font-size: 22px;
     font-weight: 600;
-    color: var(--cream-cold);
+    color: var(--ink);
     letter-spacing: -0.005em;
   }
   .p3 .total .val {
-    font-family: var(--serif-display);
+    font-family: var(--serif);
     font-style: italic;
     font-size: 32px;
     line-height: 1;
-    color: var(--cream-cold);
     text-align: right;
+    color: var(--ink);
     letter-spacing: -0.01em;
+    font-weight: 400;
   }
 
   .p3 .punch {
-    margin-top: 22px;
-    font-family: var(--serif-display);
-    font-style: italic;
+    margin-top: 32px;
+    font-family: var(--serif);
     font-size: 22px;
-    line-height: 1.32;
-    color: var(--cream-cold);
-    max-width: 760px;
-    border-left: 2px solid rgba(250,250,248,0.5);
-    padding-left: 20px;
+    line-height: 1.4;
+    color: var(--ink);
+    max-width: 780px;
+    font-weight: 400;
   }
-  .p3 .punch .multi { color: #C8B97A; font-style: italic; }
+  .p3 .punch .it { font-style: italic; }
 </style>
 </head>
 <body>
 
-<div class="post p3 dark">
+<div class="post p3">
 
-  <header class="masthead">
-    <div class="masthead-row">
-      <div class="brand"><img src="logo.png" alt="Brantham Partners"></div>
-      <div class="pubinfo">
-        <div class="issue">Le vrai prix · n°01</div>
-        <div>Avril&nbsp;2026 · M&amp;A distressed France</div>
-      </div>
-    </div>
-    <div class="rules"></div>
-    <div class="dateline">
-      <div class="left">Paris — 2 mai 2026</div>
-      <div class="right">Calculateur Brantham · ordres de grandeur</div>
-    </div>
+  <header class="head">
+    <div class="brand"><img src="logo.png" alt="Brantham Partners"></div>
+    <div class="ref"><b>Le vrai prix</b> · n°01 · Avril 2026</div>
   </header>
 
-  <div class="post-inner">
+  <div class="body">
 
-    <div class="kicker" style="color:#C8B97A">Reprise distressed · PME industrielle 2&nbsp;M€ de CA</div>
+    <div class="kicker">Reprise distressed · PME industrielle 2&nbsp;M€ de CA</div>
 
-    <h1 class="headline">
-      Prix affiché au tribunal&nbsp;: <span class="it">un&nbsp;euro.</span><br>
+    <h1 class="h1">
+      Prix affiché au tribunal&nbsp;: <span class="it">un euro.</span><br>
       Voici ce que ça coûte vraiment.
     </h1>
-
-    <div class="price-tag">
-      <span class="label">prix affiché</span>
-      <span class="price">1&nbsp;€</span>
-      <span class="note">Décomposition du coût réel · méthode Brantham</span>
-    </div>
 
     <div class="ledger">
       <div class="li">
@@ -196,7 +139,6 @@
         <div class="lbl">Frais transaction<span class="note">avocat · conseil · AJ</span></div>
         <div class="val">25 — 40 k€</div>
       </div>
-
       <div class="total">
         <div class="op">=</div>
         <div class="lbl">Vrai coût total</div>
@@ -205,22 +147,20 @@
     </div>
 
     <p class="punch">
-      Le budget réel d'une reprise distressed est en moyenne
-      <span class="multi">deux à trois fois</span> supérieur au prix payé au tribunal.
+      Le budget réel d'une reprise distressed est en moyenne <span class="it">deux à trois fois</span> supérieur au prix payé au tribunal.
     </p>
 
     <div style="flex:1"></div>
-
   </div>
 
-  <footer class="colophon">
-    <div class="signature">
+  <footer class="foot">
+    <div class="sig">
       <div class="name">Paul Roulleau</div>
       <div class="firm">Brantham Partners — M&amp;A distressed</div>
     </div>
     <div class="meta">
-      <div><b>Voir</b></div>
-      <div>branthampartners.fr / calculateur</div>
+      <div><b>Méthode</b> · calculateur Brantham</div>
+      <div><b>Voir</b> · branthampartners.fr / calculateur</div>
     </div>
   </footer>
 

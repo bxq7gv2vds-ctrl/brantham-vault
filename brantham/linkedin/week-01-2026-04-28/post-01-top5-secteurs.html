@@ -5,223 +5,156 @@
 <title>Brantham — Top 5 secteurs défaillances France 2025</title>
 <link rel="stylesheet" href="_shared.css">
 <style>
-  .p1 .headline {
-    font-size: 64px;
-    line-height: 1.02;
-    margin-top: 22px;
-    max-width: 880px;
-    letter-spacing: -0.012em;
-  }
-  .p1 .lede {
-    font-size: 17px;
-    line-height: 1.55;
-    margin-top: 22px;
-    max-width: 770px;
-  }
-  .p1 .lede b { color: var(--ink); font-weight: 600; }
+  .p1 .h1 { font-size: 56px; max-width: 860px; }
 
-  .p1 .table {
-    margin-top: 36px;
-    border-top: 0.5px solid var(--ink);
-    position: relative;
+  .p1 .grid {
+    margin-top: 48px;
   }
-  .p1 .table::after {
-    content: "";
-    position: absolute;
-    top: 4px; left: 0; right: 0;
-    height: 1px;
-    background: var(--ink);
+  .p1 .head-row {
+    display: grid;
+    grid-template-columns: 28px 1fr 80px 120px 80px;
+    column-gap: 22px;
+    padding: 0 0 12px;
+    border-bottom: 1px solid var(--ink);
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
   }
+  .p1 .head-row > *:nth-child(n+3) { text-align: right; }
   .p1 .row {
     display: grid;
-    grid-template-columns: 1fr 86px 110px 90px;
-    column-gap: 18px;
+    grid-template-columns: 28px 1fr 80px 120px 80px;
+    column-gap: 22px;
     align-items: baseline;
-    padding: 14px 0 12px;
-    border-bottom: 0.5px solid var(--rule);
+    padding: 18px 0;
+    border-bottom: 1px solid var(--rule);
   }
   .p1 .row:last-of-type { border-bottom: 0; }
-  .p1 .row .name {
-    font-family: var(--serif-body);
-    font-size: 19px;
+  .p1 .row .num {
+    font-family: var(--serif);
+    font-size: 14px;
+    color: var(--ink-mute);
     font-weight: 500;
-    color: var(--ink);
-    letter-spacing: -0.005em;
-    display: flex;
-    align-items: baseline;
-    gap: 14px;
+    letter-spacing: 0.04em;
   }
-  .p1 .row .name .lead-dots {
-    flex: 1;
-    border-bottom: 1px dotted var(--rule);
-    margin: 0 4px 6px 0;
-    height: 1px;
-    transform: translateY(-4px);
+  .p1 .row .name {
+    font-family: var(--serif);
+    font-size: 21px;
+    font-weight: 500;
+    color: currentColor;
+    letter-spacing: -0.005em;
   }
   .p1 .row .pct {
     font-family: var(--mono);
-    font-size: 17px;
+    font-size: 19px;
     font-weight: 500;
-    color: var(--ink);
+    color: currentColor;
     text-align: right;
-    letter-spacing: -0.005em;
+    letter-spacing: -0.01em;
   }
+  .p1 .row { color: var(--ink); }
+  .post.dark .p1 .row { color: #F8F7F4; }
   .p1 .row .count {
     font-family: var(--mono);
     font-size: 13px;
     color: var(--ink-mute);
     text-align: right;
-    letter-spacing: 0.04em;
   }
   .p1 .row .delta {
     font-family: var(--mono);
-    font-size: 11px;
-    color: var(--red);
-    text-align: right;
-    letter-spacing: 0.04em;
-    font-weight: 500;
-  }
-
-  .p1 .table-head {
-    display: grid;
-    grid-template-columns: 1fr 86px 110px 90px;
-    column-gap: 18px;
-    padding: 8px 0;
-    font-family: var(--mono);
-    font-size: 9.5px;
-    letter-spacing: 0.18em;
-    text-transform: uppercase;
-    color: var(--ink-mute);
-  }
-  .p1 .table-head div:nth-child(2),
-  .p1 .table-head div:nth-child(3),
-  .p1 .table-head div:nth-child(4) { text-align: right; }
-
-  .p1 .pull {
-    margin-top: 28px;
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-    gap: 32px;
-  }
-  .p1 .pull .quote {
-    font-family: var(--serif-display);
-    font-style: italic;
-    font-weight: 400;
-    font-size: 22px;
-    line-height: 1.3;
-    color: var(--ink);
-    max-width: 580px;
-    border-left: 2px solid var(--ink);
-    padding-left: 22px;
-  }
-  .p1 .pull .meta {
-    font-family: var(--mono);
-    font-size: 10px;
-    letter-spacing: 0.18em;
-    text-transform: uppercase;
+    font-size: 12px;
     color: var(--ink-mute);
     text-align: right;
-    line-height: 1.7;
-    flex-shrink: 0;
   }
-  .p1 .pull .meta b { color: var(--ink); }
+  .p1 .row.flag .delta { color: var(--navy); font-weight: 500; }
+
+  /* Dark variant — chart adjustments */
+  .post.dark.p1 .head-row,
+  .post.dark .p1 .head-row { border-bottom-color: #F8F7F4 !important; color: rgba(248,247,244,0.55) !important; }
+  .post.dark .p1 .row { border-bottom-color: rgba(248,247,244,0.12) !important; }
+  .post.dark .p1 .row .num { color: rgba(248,247,244,0.45) !important; }
+  .post.dark .p1 .row .name { color: #F8F7F4 !important; }
+  .post.dark .p1 .row .pct { color: #F8F7F4 !important; }
+  .post.dark .p1 .row .count { color: rgba(248,247,244,0.55) !important; }
+  .post.dark .p1 .row .delta { color: rgba(248,247,244,0.55) !important; }
+  .post.dark .p1 .row.flag .delta { color: #C8B97A !important; font-weight: 500; }
 </style>
 </head>
 <body>
 
-<div class="post p1">
+<div class="post p1 dark">
 
-  <header class="masthead">
-    <div class="masthead-row">
-      <div class="brand"><img src="logo.png" alt="Brantham Partners"></div>
-      <div class="pubinfo">
-        <div class="issue">Le baromètre · n°01</div>
-        <div>Avril&nbsp;2026 · M&amp;A distressed France</div>
-      </div>
-    </div>
-    <div class="rules"></div>
-    <div class="dateline">
-      <div class="left">Paris — 28 avril 2026</div>
-      <div class="right">Édition publique</div>
-    </div>
+  <header class="head">
+    <div class="brand"><img src="logo.png" alt="Brantham Partners"></div>
+    <div class="ref"><b>Le baromètre</b> · n°01 · Avril 2026</div>
   </header>
 
-  <div class="post-inner">
+  <div class="body">
 
     <div class="kicker">Défaillances · France · 2025</div>
 
-    <h1 class="headline">
-      Cinq secteurs concentrent <span class="it">près des trois quarts</span><br>
-      des défaillances d'entreprises.
+    <h1 class="h1">
+      Cinq secteurs concentrent <span class="it">près des trois quarts</span> des défaillances d'entreprises.
     </h1>
 
     <p class="lede">
-      Sur les <b>67&nbsp;830 procédures collectives</b> ouvertes en France l'an dernier
-      (en hausse de 16&nbsp;% sur un an), deux secteurs portent à eux seuls près de
-      quatre dossiers sur dix&nbsp;: le commerce de détail et le bâtiment. La
-      restauration accélère le plus vite.
+      Sur <b>67&nbsp;830 procédures collectives</b> ouvertes en France l'an dernier (+16&nbsp;% sur un an), deux secteurs portent à eux seuls près de quatre dossiers sur dix.
     </p>
 
-    <div class="table">
-      <div class="table-head">
-        <div>Secteur</div><div>Part</div><div>Dossiers</div><div>vs&nbsp;2024</div>
+    <div class="grid">
+      <div class="head-row">
+        <div></div><div>Secteur</div><div>Part</div><div>Dossiers</div><div>vs&nbsp;2024</div>
       </div>
       <div class="row">
-        <div class="name">Commerce de détail<span class="lead-dots"></span></div>
+        <div class="num">01</div>
+        <div class="name">Commerce de détail</div>
         <div class="pct">21&nbsp;%</div>
         <div class="count">14&nbsp;264</div>
         <div class="delta">+14&nbsp;%</div>
       </div>
       <div class="row">
-        <div class="name">Construction · BTP<span class="lead-dots"></span></div>
+        <div class="num">02</div>
+        <div class="name">Construction · BTP</div>
         <div class="pct">18&nbsp;%</div>
         <div class="count">12&nbsp;209</div>
         <div class="delta">+11&nbsp;%</div>
       </div>
-      <div class="row">
-        <div class="name">Restauration · hôtellerie<span class="lead-dots"></span></div>
+      <div class="row flag">
+        <div class="num">03</div>
+        <div class="name">Restauration · hôtellerie</div>
         <div class="pct">13&nbsp;%</div>
         <div class="count">8&nbsp;814</div>
         <div class="delta">+23&nbsp;%</div>
       </div>
       <div class="row">
-        <div class="name">Services aux entreprises<span class="lead-dots"></span></div>
+        <div class="num">04</div>
+        <div class="name">Services aux entreprises</div>
         <div class="pct">11&nbsp;%</div>
         <div class="count">7&nbsp;461</div>
         <div class="delta">+9&nbsp;%</div>
       </div>
       <div class="row">
-        <div class="name">Industrie manufacturière<span class="lead-dots"></span></div>
+        <div class="num">05</div>
+        <div class="name">Industrie manufacturière</div>
         <div class="pct">9&nbsp;%</div>
         <div class="count">6&nbsp;105</div>
         <div class="delta">+7&nbsp;%</div>
       </div>
     </div>
 
-    <div class="pull">
-      <div class="quote">
-        Les secteurs qui meurent ne font pas les gros titres. Ils tiennent dans cinq lignes.
-      </div>
-      <div class="meta">
-        <div><b>Source</b></div>
-        <div>INSEE</div>
-        <div>Banque de France</div>
-      </div>
-    </div>
-
     <div style="flex:1"></div>
-
   </div>
 
-  <footer class="colophon">
-    <div class="signature">
+  <footer class="foot">
+    <div class="sig">
       <div class="name">Paul Roulleau</div>
       <div class="firm">Brantham Partners — M&amp;A distressed</div>
     </div>
     <div class="meta">
-      <div><b>Voir</b></div>
-      <div>branthampartners.fr / barometre</div>
+      <div><b>Source</b> · INSEE · Banque de France</div>
+      <div><b>Voir</b> · branthampartners.fr / barometre</div>
     </div>
   </footer>
 
