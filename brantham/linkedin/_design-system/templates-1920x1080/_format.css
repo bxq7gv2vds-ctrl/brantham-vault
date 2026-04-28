@@ -1,0 +1,21 @@
+/* Format 1920×1080 — slides 16:9 PDF carrousel */
+.post {
+  width: 1920px;
+  height: 1080px;
+  --t-pad-x: 96px;
+  --t-pad-y: 64px;
+  --t-pad-body: 160px;
+  --t-h1: 84px;
+  --t-h1-line: 1.02;
+  --t-lede: 20px;
+  --t-stamp: 11px;
+  --t-watermark: 10px;
+  --t-kicker: 11px;
+  --t-meta: 10px;
+  --t-row-name: 22px;
+  --t-row-pct: 22px;
+  --t-foot-sig: 15px;
+  --t-foot-credit: 10px;
+}
+.post .stamp { padding: 12px 18px; }
+.post .stamp b { font-size: 16px; }

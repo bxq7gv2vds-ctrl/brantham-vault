@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>slide-content — Brantham</title>
+<link rel="stylesheet" href="../base/tokens.css">
+<link rel="stylesheet" href="../base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { display: grid; grid-template-columns: 1fr 1.1fr; gap: 80px; padding-top: 56px; }
+  .post .h1 { font-size: 62px; line-height: 1.05; max-width: 720px; }
+  .post .lede { font-size: 18px; max-width: 640px; }
+  .post .table { margin-top: 0; }
+  .post .row { grid-template-columns: 80px 1fr 70px 110px 70px; }
+  .right-col { display: flex; flex-direction: column; }
+  .right-col .table-title {
+    font-family: var(--mono); font-size: 11px; letter-spacing: 0.28em;
+    text-transform: uppercase; color: var(--ink-mute); margin-bottom: 16px;
+  }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°XX/2026</div>
+  <div class="stamp">Dossier<b>N°XX·2026</b><span class="x">04 · Avril</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="meta-bar" style="--meta-cols:4;">
+    <div>Volume <b>67&nbsp;830</b></div>
+    <div>Variation <b>+16&nbsp;%</b></div>
+    <div>Période <b>2025</b></div>
+    <div>Source <b>INSEE · BdF</b></div>
+  </div>
+
+  <div class="body">
+    <div>
+      <div class="kicker">Défaillances · Concentration sectorielle</div>
+      <h1 class="h1">Cinq secteurs concentrent <span class="it">près des trois quarts</span> des défaillances.</h1>
+      <p class="lede">Deux secteurs portent à eux seuls près de quatre dossiers sur dix. La restauration enregistre la plus forte progression sur un an.</p>
+    </div>
+
+    <div class="right-col">
+      <div class="table-title">Top 5 — France 2025</div>
+      <div class="table">
+        <div class="row h"><div>Réf.</div><div>Secteur</div><div>Part</div><div>Dossiers</div><div>vs&nbsp;n-1</div></div>
+        <div class="row"><div class="num">FR-01</div><div class="name">Commerce de détail</div><div class="pct">21&nbsp;%</div><div class="count">14&nbsp;264</div><div class="delta">+14&nbsp;%</div></div>
+        <div class="row"><div class="num">FR-02</div><div class="name">Construction · BTP</div><div class="pct">18&nbsp;%</div><div class="count">12&nbsp;209</div><div class="delta">+11&nbsp;%</div></div>
+        <div class="row flag"><div class="num">FR-03</div><div class="name">Restauration · hôtellerie</div><div class="pct">13&nbsp;%</div><div class="count">8&nbsp;814</div><div class="delta">+23&nbsp;%</div></div>
+        <div class="row"><div class="num">FR-04</div><div class="name">Services aux entreprises</div><div class="pct">11&nbsp;%</div><div class="count">7&nbsp;461</div><div class="delta">+9&nbsp;%</div></div>
+        <div class="row"><div class="num">FR-05</div><div class="name">Industrie manufacturière</div><div class="pct">9&nbsp;%</div><div class="count">6&nbsp;105</div><div class="delta">+7&nbsp;%</div></div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Méthode</b> · interne · 04.2026</div><div><b>Voir</b> · branthampartners.fr</div></div>
+  </footer>
+</div>
+
+</body>
+</html>

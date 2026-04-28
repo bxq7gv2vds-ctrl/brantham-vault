@@ -1,0 +1,25 @@
+/* Format 1200×628 — paysage / lien preview LinkedIn */
+.post {
+  width: 1200px;
+  height: 628px;
+  --t-pad-x: 56px;
+  --t-pad-y: 40px;
+  --t-pad-body: 100px;
+  --t-h1: 38px;
+  --t-h1-line: 1.08;
+  --t-lede: 14px;
+  --t-stamp: 9px;
+  --t-watermark: 8.5px;
+  --t-kicker: 9px;
+  --t-meta: 8.5px;
+  --t-row-name: 15px;
+  --t-row-pct: 15px;
+  --t-foot-sig: 11px;
+  --t-foot-credit: 8.5px;
+}
+.post .stamp { top: 32px; right: 32px; padding: 6px 10px; }
+.post .stamp b { font-size: 11px; }
+.post .watermark { left: 56px; top: 32px; height: calc(100% - 64px); padding-left: 6px; }
+.post .meta-bar { margin-top: 22px; }
+.post .body { padding-top: 22px; }
+.post .foot { padding-top: 12px; padding-bottom: 32px; }

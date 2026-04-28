@@ -1,0 +1,19 @@
+/* Format 1080×1350 — vertical LinkedIn engagement max */
+.post {
+  width: 1080px;
+  height: 1350px;
+  --t-pad-x: 80px;
+  --t-pad-y: 72px;
+  --t-pad-body: 130px;
+  --t-h1: 62px;
+  --t-h1-line: 1.04;
+  --t-lede: 17px;
+  --t-stamp: 10px;
+  --t-watermark: 9.5px;
+  --t-kicker: 10.5px;
+  --t-meta: 9.5px;
+  --t-row-name: 19px;
+  --t-row-pct: 19px;
+  --t-foot-sig: 14px;
+  --t-foot-credit: 9.5px;
+}

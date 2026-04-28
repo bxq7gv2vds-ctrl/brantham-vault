@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>cover-banner — Brantham</title>
+<link rel="stylesheet" href="../base/tokens.css">
+<link rel="stylesheet" href="../base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { display: flex; flex-direction: column; justify-content: center; }
+  .cover-edition {
+    font-family: var(--mono); font-size: 9px; letter-spacing: 0.32em;
+    text-transform: uppercase; color: var(--bordeaux); margin-bottom: 16px; font-weight: 500;
+  }
+  .cover-title {
+    font-family: var(--serif); font-weight: 500;
+    font-size: 56px; line-height: 1; letter-spacing: -0.03em;
+    color: var(--ink); max-width: 880px;
+  }
+  .cover-title .it { font-style: italic; font-weight: 400; }
+  .cover-deck {
+    margin-top: 18px; font-family: var(--serif); font-size: 14px; line-height: 1.5;
+    color: var(--ink-soft); max-width: 720px; font-style: italic;
+  }
+  .cover-deck b { color: var(--ink); font-weight: 600; font-style: normal; }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · n°XX/2026</div>
+  <div class="stamp">Le baromètre<b>N°XX·2026</b><span class="x">04 · Avril</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div class="cover-edition">Édition n°01 — Avril 2026</div>
+    <h1 class="cover-title">Défaillances <span class="it">d'entreprises</span> en France 2025.</h1>
+    <p class="cover-deck"><b>67&nbsp;830 procédures collectives</b> ouvertes l'an dernier — qui paie, qui plie, qui tient.</p>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Source</b> · INSEE · BdF</div><div><b>Voir</b> · branthampartners.fr</div></div>
+  </footer>
+</div>
+
+</body>
+</html>

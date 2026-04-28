@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>cover-slide — Brantham</title>
+<link rel="stylesheet" href="../base/tokens.css">
+<link rel="stylesheet" href="../base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { padding-top: 0; display: flex; flex-direction: column; justify-content: center; }
+  .post .cover-edition {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.32em;
+    text-transform: uppercase;
+    color: var(--bordeaux);
+    margin-bottom: 36px;
+    font-weight: 500;
+  }
+  .post .cover-title {
+    font-family: var(--serif);
+    font-weight: 500;
+    font-size: 96px;
+    line-height: 0.96;
+    letter-spacing: -0.035em;
+    color: var(--ink);
+    max-width: 880px;
+  }
+  .post .cover-title .it { font-style: italic; font-weight: 400; }
+  .post .cover-deck {
+    margin-top: 40px;
+    font-family: var(--serif);
+    font-size: 19px;
+    line-height: 1.5;
+    color: var(--ink-soft);
+    max-width: 700px;
+    font-style: italic;
+    font-weight: 400;
+  }
+  .post .cover-deck b { color: var(--ink); font-weight: 600; font-style: normal; }
+
+  .post .swipe {
+    position: absolute;
+    bottom: 96px;
+    right: 80px;
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--bordeaux);
+    border-top: 1px solid var(--bordeaux);
+    border-bottom: 1px solid var(--bordeaux);
+    padding: 8px 14px;
+    font-weight: 500;
+  }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°XX/2026</div>
+  <div class="stamp">Le baromètre<b>N°XX·2026</b><span class="x">04 · Avril</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div class="cover-edition">Édition n°01 — Avril 2026</div>
+    <h1 class="cover-title">Défaillances<br><span class="it">d'entreprises</span><br>en France 2025.</h1>
+    <p class="cover-deck">Un panorama en sept tableaux. <b>67&nbsp;830 procédures collectives</b> ouvertes l'an dernier — qui paie, qui plie, qui tient.</p>
+  </div>
+
+  <div class="swipe">→ Faites défiler</div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Source</b> · INSEE · Banque de France</div><div><b>Voir</b> · branthampartners.fr / barometre</div></div>
+  </footer>
+</div>
+
+</body>
+</html>

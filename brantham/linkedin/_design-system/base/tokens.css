@@ -1,0 +1,82 @@
+/* Brantham — Design System D3 (mono dossier brutaliste)
+ * Source unique de vérité pour tokens DA.
+ * Toujours importer ce fichier en premier.
+ */
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,500&family=DM+Mono:wght@400;500&display=swap');
+
+:root {
+  /* Palette light (cream dossier) */
+  --paper:        #EFEBE0;
+  --ink:          #0A0A0A;
+  --ink-soft:     #2D2D2D;
+  --ink-mute:     #7A766D;
+  --rule:         #BDB7A8;
+
+  /* Palette dark (navy dossier) */
+  --paper-dark:   #F4F1EA;
+  --ink-dark:     #000F2A;
+  --soft-dark:    rgba(244,241,234,0.62);
+  --mute-dark:    rgba(244,241,234,0.40);
+  --rule-dark:    rgba(244,241,234,0.16);
+
+  /* Accents */
+  --bordeaux:     #7A1D17;
+  --navy:         #001F54;
+  --gold:         #C8B97A;
+
+  /* Typo */
+  --serif: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --mono:  'DM Mono', 'JetBrains Mono', ui-monospace, monospace;
+
+  /* Espacements canoniques */
+  --pad-xs: 16px;
+  --pad-sm: 32px;
+  --pad-md: 48px;
+  --pad-lg: 64px;
+  --pad-xl: 80px;
+  --pad-2xl: 96px;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body { background: #b7b3aa; }
+body {
+  padding: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+}
+
+/* Canvas générique */
+.post {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--mono);
+  font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
+  font-variant-numeric: tabular-nums lining-nums;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Variant dark : rebind de tous les tokens d'usage pour cascade automatique */
+.post.dark {
+  background: var(--ink-dark);
+  color: var(--paper-dark);
+  --paper: var(--paper-dark);
+  --ink: var(--paper-dark);
+  --ink-soft: var(--soft-dark);
+  --ink-mute: var(--mute-dark);
+  --rule: var(--rule-dark);
+}
+.post.dark .brand img { filter: brightness(0) invert(1); }
+.post.dark .stamp { border-color: var(--paper-dark); color: var(--paper-dark); }
+.post.dark .stamp .x { color: var(--gold); }
+.post.dark .stamp2 { border-color: var(--gold); color: var(--gold); }
+.post.dark .row.flag { background: linear-gradient(to right, transparent 0, rgba(248,247,244,0.04) 5%, rgba(248,247,244,0.04) 95%, transparent 100%); }
+.post.dark .row.flag .num { color: var(--gold); }
+.post.dark .row.flag .delta { color: var(--gold); }
+.post.dark .row.flag .name::before { color: var(--gold); }
+.post.dark .kicker { color: var(--gold); }
+.post.dark .kicker::before { color: var(--mute-dark); }
