@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>stat-hero — Brantham</title>
+<link rel="stylesheet" href="../base/tokens.css">
+<link rel="stylesheet" href="../base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { padding-top: 60px; display: flex; flex-direction: column; justify-content: center; }
+  .stat-hero {
+    margin-top: 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+  .stat-hero .label {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.32em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    border-top: 1px solid var(--ink);
+    padding-top: 14px;
+    margin-bottom: 8px;
+  }
+  .stat-hero .figure {
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: 220px;
+    line-height: 0.95;
+    letter-spacing: -0.045em;
+    color: var(--ink);
+    margin: 0;
+    white-space: nowrap;
+  }
+  .stat-hero .figure .unit {
+    font-style: italic;
+    font-size: 0.28em;
+    color: var(--accent);
+    font-weight: 400;
+    margin-left: 14px;
+    letter-spacing: -0.01em;
+    vertical-align: 0.95em;
+  }
+  .stat-hero .desc {
+    margin-top: 28px;
+    font-family: var(--serif);
+    font-size: 22px;
+    line-height: 1.45;
+    color: var(--ink-soft);
+    max-width: 720px;
+    border-bottom: 1px solid var(--ink);
+    padding-bottom: 18px;
+  }
+  .stat-hero .desc b { color: var(--ink); font-weight: 600; }
+  .stat-hero .desc .it { font-style: italic; color: var(--accent); }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°XX/2026</div>
+  <div class="stamp">Donnée<b>N°XX·2026</b><span class="x">04 · Avril</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div class="kicker">Défaillances · France 2025</div>
+    <div class="stat-hero">
+      <div class="label">Volume — Procédures collectives</div>
+      <div class="figure">67&thinsp;830<span class="unit">dossiers</span></div>
+      <p class="desc">Soit <b>+16 % sur un an</b>, et <span class="it">le plus haut niveau</span> enregistré depuis 2009. Un dossier ouvert toutes les <b>7 minutes 45 secondes</b>.</p>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Source</b> · INSEE · Banque de France</div><div><b>Voir</b> · branthampartners.fr</div></div>
+  </footer>
+</div>
+
+</body>
+</html>

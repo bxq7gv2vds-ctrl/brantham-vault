@@ -12,14 +12,17 @@ Re-rendre tout : `cd _design-system && uv run render.py`
 
 ## Carré 1080×1080 — feed standard
 
-| Template | Cream | Navy |
-|---|---|---|
-| Cover | ![[templates-1080x1080/cover-slide.png\|300]] | ![[templates-1080x1080/cover-slide-navy.png\|300]] |
-| Headline | ![[templates-1080x1080/headline-only.png\|300]] | ![[templates-1080x1080/headline-only-navy.png\|300]] |
-| Data table | ![[templates-1080x1080/data-table.png\|300]] | ![[templates-1080x1080/data-table-navy.png\|300]] |
-| Data ledger | ![[templates-1080x1080/data-ledger.png\|300]] | ![[templates-1080x1080/data-ledger-navy.png\|300]] |
-| Data checklist | ![[templates-1080x1080/data-checklist.png\|300]] | ![[templates-1080x1080/data-checklist-navy.png\|300]] |
-| Quote | ![[templates-1080x1080/quote-card.png\|300]] | ![[templates-1080x1080/quote-card-navy.png\|300]] |
+| Template | Archétype | Cream | Navy |
+|---|---|---|---|
+| Cover | Ouverture | ![[templates-1080x1080/cover-slide.png\|260]] | ![[templates-1080x1080/cover-slide-navy.png\|260]] |
+| Headline | Punch | ![[templates-1080x1080/headline-only.png\|260]] | ![[templates-1080x1080/headline-only-navy.png\|260]] |
+| Stat-hero | Stat-shock | ![[templates-1080x1080/stat-hero.png\|260]] | ![[templates-1080x1080/stat-hero-navy.png\|260]] |
+| Myth-reality | Mythe ↔ réalité | ![[templates-1080x1080/myth-reality.png\|260]] | ![[templates-1080x1080/myth-reality-navy.png\|260]] |
+| Timeline | Process décodé | ![[templates-1080x1080/timeline.png\|260]] | ![[templates-1080x1080/timeline-navy.png\|260]] |
+| Data table | Décryptage data | ![[templates-1080x1080/data-table.png\|260]] | ![[templates-1080x1080/data-table-navy.png\|260]] |
+| Data ledger | Coût caché | ![[templates-1080x1080/data-ledger.png\|260]] | ![[templates-1080x1080/data-ledger-navy.png\|260]] |
+| Data checklist | Process numéroté | ![[templates-1080x1080/data-checklist.png\|260]] | ![[templates-1080x1080/data-checklist-navy.png\|260]] |
+| Quote | Verbatim | ![[templates-1080x1080/quote-card.png\|260]] | ![[templates-1080x1080/quote-card-navy.png\|260]] |
 
 ## Vertical 1080×1350 — engagement maximal
 

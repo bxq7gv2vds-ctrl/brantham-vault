@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>timeline — Brantham</title>
+<link rel="stylesheet" href="../base/tokens.css">
+<link rel="stylesheet" href="../base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { padding-top: 40px; }
+  .post .h1 { font-size: 44px; line-height: 1.06; max-width: 760px; }
+  .post .lede { margin-top: 18px; max-width: 700px; }
+
+  .timeline {
+    margin-top: 36px;
+    border-top: 2px solid var(--ink);
+    padding-top: 22px;
+    position: relative;
+  }
+  .tl-axis {
+    position: absolute;
+    top: 22px;
+    bottom: 0;
+    left: 22px;
+    width: 1px;
+    background: var(--rule);
+  }
+  .tl-step {
+    display: grid;
+    grid-template-columns: 44px 110px 1fr;
+    column-gap: 28px;
+    align-items: baseline;
+    padding: 14px 0;
+    border-bottom: 1px solid var(--rule);
+    position: relative;
+  }
+  .tl-step:last-child { border-bottom: 0; }
+  .tl-step .dot {
+    width: 10px; height: 10px;
+    background: var(--paper);
+    border: 2px solid var(--accent);
+    border-radius: 50%;
+    margin-left: 16px;
+    margin-top: 6px;
+    position: relative;
+    z-index: 1;
+  }
+  .tl-step.done .dot { background: var(--accent); }
+  .tl-step .when {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 500;
+    padding-top: 2px;
+  }
+  .tl-step .what {
+    font-family: var(--serif);
+    font-size: 19px;
+    line-height: 1.4;
+    color: var(--ink);
+    font-weight: 500;
+    letter-spacing: -0.005em;
+  }
+  .tl-step .what .meta {
+    display: block;
+    font-family: var(--serif);
+    font-style: italic;
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--ink-mute);
+    margin-top: 4px;
+    letter-spacing: 0;
+  }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°XX/2026</div>
+  <div class="stamp">Process<b>N°XX·2026</b><span class="x">04 · Avril</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div class="kicker">Plan de cession · Calendrier type</div>
+    <h1 class="h1">D'une annonce BODACC à une <span class="it">offre déposée</span>, en cinq étapes.</h1>
+    <p class="lede">Le calendrier d'un dossier de plan de cession suit toujours la même mécanique. Manquer un jalon coûte le dossier.</p>
+
+    <div class="timeline">
+      <div class="tl-axis"></div>
+
+      <div class="tl-step done">
+        <div class="dot"></div>
+        <div class="when">J · 0</div>
+        <div class="what">Ouverture redressement judiciaire <span class="meta">Publication BODACC · nomination de l'administrateur</span></div>
+      </div>
+      <div class="tl-step done">
+        <div class="dot"></div>
+        <div class="when">J + 7</div>
+        <div class="what">Première période d'observation <span class="meta">Diagnostic comptable · accès à la data room</span></div>
+      </div>
+      <div class="tl-step">
+        <div class="dot"></div>
+        <div class="when">J + 14</div>
+        <div class="what">Manifestation d'intérêt <span class="meta">NDA signé · LOI au dirigeant et à l'AJ</span></div>
+      </div>
+      <div class="tl-step">
+        <div class="dot"></div>
+        <div class="when">J + 21</div>
+        <div class="what">Offre ferme déposée <span class="meta">Prix · périmètre · plan de continuation des emplois</span></div>
+      </div>
+      <div class="tl-step">
+        <div class="dot"></div>
+        <div class="when">J + 35</div>
+        <div class="what">Audience d'arbitrage <span class="meta">Le tribunal arbitre entre les offres concurrentes</span></div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Méthode</b> · interne · 04.2026</div><div><b>Voir</b> · branthampartners.fr</div></div>
+  </footer>
+</div>
+
+</body>
+</html>

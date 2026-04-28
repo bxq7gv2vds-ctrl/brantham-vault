@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>myth-reality — Brantham</title>
+<link rel="stylesheet" href="../base/tokens.css">
+<link rel="stylesheet" href="../base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { padding-top: 40px; }
+  .post .h1 { font-size: 44px; line-height: 1.06; max-width: 760px; }
+  .post .lede { margin-top: 18px; max-width: 700px; }
+  .duel { margin-top: 36px; border-top: 2px solid var(--ink); }
+  .duel-head {
+    display: grid;
+    grid-template-columns: 60px 1fr 1fr;
+    column-gap: 32px;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--ink);
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+  }
+  .duel-row {
+    display: grid;
+    grid-template-columns: 60px 1fr 1fr;
+    column-gap: 32px;
+    align-items: baseline;
+    padding: 18px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .duel-row:last-child { border-bottom: 0; }
+  .duel-row .num {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    color: var(--ink);
+    font-weight: 500;
+  }
+  .duel-row .myth {
+    font-family: var(--serif);
+    font-size: 17px;
+    line-height: 1.4;
+    color: var(--ink-mute);
+    font-style: italic;
+    text-decoration: line-through;
+    text-decoration-color: var(--accent);
+    text-decoration-thickness: 1px;
+  }
+  .duel-row .truth {
+    font-family: var(--serif);
+    font-size: 17px;
+    line-height: 1.4;
+    color: var(--ink);
+    font-weight: 500;
+  }
+  .duel-row .truth::before {
+    content: "▸ ";
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .duel-row .truth b { color: var(--accent); font-weight: 600; }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°XX/2026</div>
+  <div class="stamp">Mythe<b>N°XX·2026</b><span class="x">04 · Avril</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div class="kicker">Reprise distressed · Idées reçues</div>
+    <h1 class="h1">Trois mythes que <span class="it">le tribunal</span> ne corrige pas pour vous.</h1>
+    <p class="lede">Ce que les repreneurs croient avant le dossier, et ce que la réalité du plan de cession leur apprend.</p>
+
+    <div class="duel">
+      <div class="duel-head">
+        <div>Réf.</div>
+        <div>Idée reçue</div>
+        <div>Réalité du dossier</div>
+      </div>
+      <div class="duel-row">
+        <div class="num">M-01</div>
+        <div class="myth">Une reprise à 1 € est gratuite.</div>
+        <div class="truth">Le repreneur reprend les <b>dettes URSSAF privilégiées</b> et le besoin en fonds de roulement.</div>
+      </div>
+      <div class="duel-row">
+        <div class="num">M-02</div>
+        <div class="myth">Le tribunal choisit la meilleure offre.</div>
+        <div class="truth">Le tribunal choisit l'offre qui <b>préserve l'emploi</b>, pas le prix.</div>
+      </div>
+      <div class="duel-row">
+        <div class="num">M-03</div>
+        <div class="myth">On a le temps de monter le dossier.</div>
+        <div class="truth">Délai moyen entre annonce et offre ferme&nbsp;: <b>21 jours</b>.</div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Méthode</b> · interne · 04.2026</div><div><b>Voir</b> · branthampartners.fr</div></div>
+  </footer>
+</div>
+
+</body>
+</html>
