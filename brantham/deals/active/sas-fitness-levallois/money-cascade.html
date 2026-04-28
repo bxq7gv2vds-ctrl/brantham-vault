@@ -1,0 +1,829 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>WHERE DOES THE MONEY GO? — Fitness Levallois</title>
+<style>
+:root {
+  --bg: #050608;
+  --bg-2: #0c0e12;
+  --ink: #f0f0f0;
+  --muted: #6a6a6a;
+  --grid: #1a1d23;
+  --revenue: #00ff9d;
+  --landlord: #ff2a2a;
+  --salaries: #ffb800;
+  --fisc: #b87cff;
+  --suppliers: #4a8fff;
+  --reprise: #00f0ff;
+  --critical: #ff0040;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; user-select: none; }
+html, body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: 'JetBrains Mono', 'SF Mono', 'IBM Plex Mono', Menlo, monospace;
+  overflow: hidden;
+  height: 100vh;
+  width: 100vw;
+}
+body {
+  background-image:
+    radial-gradient(ellipse at 50% 0%, rgba(0,255,157,0.05), transparent 60%),
+    radial-gradient(ellipse at 50% 100%, rgba(0,240,255,0.04), transparent 60%);
+}
+
+.app {
+  display: grid;
+  grid-template-rows: 64px 1fr 130px;
+  height: 100vh;
+}
+
+/* === HEADER === */
+header {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  padding: 0 28px;
+  border-bottom: 1px solid var(--grid);
+  background: linear-gradient(to bottom, var(--bg-2), var(--bg));
+  gap: 24px;
+}
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 10px;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.brand .pulse {
+  width: 8px; height: 8px; border-radius: 50%;
+  background: var(--revenue);
+  box-shadow: 0 0 14px var(--revenue);
+  animation: pulse 1.6s infinite;
+}
+@keyframes pulse { 0%,100%{opacity:1;transform:scale(1);} 50%{opacity:0.4;transform:scale(0.85);} }
+.brand strong { color: var(--ink); font-weight: 700; }
+.deal-name {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+.deal-name b { color: var(--ink); font-weight: 800; }
+.scenario-badge {
+  display: flex;
+  border: 1px solid var(--grid);
+}
+.scenario-badge button {
+  background: transparent;
+  color: var(--muted);
+  border: none;
+  padding: 7px 16px;
+  font-family: inherit;
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.scenario-badge button.active { background: var(--ink); color: var(--bg); }
+.scenario-badge button:hover:not(.active) { background: var(--grid); color: var(--ink); }
+
+/* === STAGE === */
+.stage {
+  position: relative;
+  display: grid;
+  grid-template-columns: 280px 1fr 280px;
+  padding: 30px 24px;
+  gap: 20px;
+  overflow: hidden;
+}
+
+/* Title overlay */
+.stage-title {
+  grid-column: 1 / 4;
+  text-align: center;
+  font-size: 12px;
+  letter-spacing: 0.4em;
+  text-transform: uppercase;
+  color: var(--muted);
+  position: absolute;
+  top: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+}
+.stage-title b { color: var(--revenue); font-weight: 700; text-shadow: 0 0 16px rgba(0,255,157,0.5); }
+
+/* === LEFT GUIDES === */
+.guide-side {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 60px 0 60px;
+}
+.guide-side.left { align-items: flex-end; text-align: right; }
+.guide-side.right { align-items: flex-start; text-align: left; }
+.outflow-box {
+  display: flex;
+  flex-direction: column;
+  align-items: inherit;
+  gap: 4px;
+  padding: 14px 18px;
+  border: 1px solid var(--grid);
+  background: var(--bg-2);
+  min-width: 240px;
+  position: relative;
+  transition: all 0.4s ease;
+}
+.outflow-box::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  width: 30px;
+  height: 1px;
+  background: currentColor;
+  opacity: 0.4;
+}
+.guide-side.left .outflow-box::before { right: -30px; }
+.guide-side.right .outflow-box::before { left: -30px; }
+.outflow-box .of-tag {
+  font-size: 9px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.outflow-box .of-name {
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+.outflow-box .of-amount {
+  font-size: 32px;
+  font-weight: 900;
+  letter-spacing: -0.04em;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+}
+.outflow-box .of-amount span { font-size: 14px; opacity: 0.5; font-weight: 600; }
+.outflow-box .of-pct {
+  font-size: 9px;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+}
+.outflow-box .of-detail {
+  font-size: 9px;
+  color: var(--muted);
+  letter-spacing: 0.05em;
+  text-transform: none;
+  margin-top: 2px;
+  line-height: 1.4;
+}
+.outflow-box.landlord { border-color: var(--landlord); color: var(--landlord); box-shadow: 0 0 24px rgba(255,42,42,0.15); }
+.outflow-box.landlord .of-name, .outflow-box.landlord .of-amount { color: var(--landlord); }
+.outflow-box.salaries { border-color: var(--salaries); color: var(--salaries); }
+.outflow-box.salaries .of-name, .outflow-box.salaries .of-amount { color: var(--salaries); }
+.outflow-box.fisc { border-color: var(--fisc); color: var(--fisc); }
+.outflow-box.fisc .of-name, .outflow-box.fisc .of-amount { color: var(--fisc); }
+.outflow-box.suppliers { border-color: var(--suppliers); color: var(--suppliers); }
+.outflow-box.suppliers .of-name, .outflow-box.suppliers .of-amount { color: var(--suppliers); }
+
+/* === CENTER CASCADE === */
+.cascade {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px 0;
+}
+
+.source {
+  width: 240px;
+  text-align: center;
+  padding: 18px;
+  border: 2px solid var(--revenue);
+  background: var(--bg-2);
+  box-shadow: 0 0 60px rgba(0,255,157,0.25), inset 0 0 30px rgba(0,255,157,0.08);
+  position: relative;
+  z-index: 5;
+  margin-bottom: -1px;
+}
+.source-tag {
+  font-size: 9px;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.source-num {
+  font-size: 56px;
+  font-weight: 900;
+  letter-spacing: -0.04em;
+  color: var(--revenue);
+  line-height: 1;
+  text-shadow: 0 0 40px rgba(0,255,157,0.6);
+  font-variant-numeric: tabular-nums;
+  margin-top: 4px;
+}
+.source-num span { font-size: 24px; opacity: 0.6; }
+.source-sub {
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin-top: 6px;
+}
+
+.flow-stack {
+  width: 240px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.flow-segment {
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-left: 1px solid var(--grid);
+  border-right: 1px solid var(--grid);
+  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  overflow: hidden;
+}
+.flow-segment::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom,
+    var(--seg-color, var(--revenue)) 0%,
+    color-mix(in srgb, var(--seg-color, var(--revenue)) 70%, var(--bg)) 100%);
+  opacity: 0.25;
+}
+.flow-segment::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: repeating-linear-gradient(
+    -45deg,
+    transparent,
+    transparent 8px,
+    rgba(0,0,0,0.2) 8px,
+    rgba(0,0,0,0.2) 9px
+  );
+  animation: flow-anim 1.5s linear infinite;
+  pointer-events: none;
+}
+@keyframes flow-anim {
+  from { background-position: 0 0; }
+  to { background-position: 0 22px; }
+}
+.flow-label {
+  position: relative;
+  z-index: 2;
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--ink);
+  text-shadow: 0 0 8px rgba(0,0,0,0.7);
+}
+.flow-label .pct {
+  font-size: 16px;
+  font-weight: 900;
+  margin-left: 8px;
+}
+
+.flow-segment.landlord { --seg-color: var(--landlord); }
+.flow-segment.salaries { --seg-color: var(--salaries); }
+.flow-segment.fisc { --seg-color: var(--fisc); }
+.flow-segment.suppliers { --seg-color: var(--suppliers); }
+
+/* connector lines from segment to side box */
+.connector {
+  position: absolute;
+  top: 50%;
+  height: 1px;
+  width: 30px;
+  background: var(--seg-color);
+  z-index: 3;
+  box-shadow: 0 0 8px var(--seg-color);
+}
+.connector.left { left: -30px; }
+.connector.right { right: -30px; }
+.connector::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--seg-color);
+  box-shadow: 0 0 12px var(--seg-color);
+  transform: translateY(-50%);
+}
+.connector.left::after { left: -6px; }
+.connector.right::after { right: -6px; }
+
+/* End reservoir — repreneur */
+.reservoir {
+  width: 280px;
+  text-align: center;
+  padding: 22px 18px;
+  border: 2px solid var(--reprise);
+  background: var(--bg-2);
+  box-shadow: 0 0 60px rgba(0,240,255,0.25), inset 0 0 30px rgba(0,240,255,0.08);
+  position: relative;
+  z-index: 5;
+  margin-top: -1px;
+  transition: all 0.4s ease;
+}
+.reservoir.dead {
+  border-color: var(--critical);
+  box-shadow: 0 0 60px rgba(255,0,64,0.35), inset 0 0 30px rgba(255,0,64,0.1);
+}
+.reservoir-tag {
+  font-size: 9px;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.reservoir-name {
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--reprise);
+  margin-top: 4px;
+}
+.reservoir.dead .reservoir-name { color: var(--critical); }
+.reservoir-num {
+  font-size: 64px;
+  font-weight: 900;
+  letter-spacing: -0.04em;
+  color: var(--reprise);
+  line-height: 1;
+  text-shadow: 0 0 40px rgba(0,240,255,0.6);
+  font-variant-numeric: tabular-nums;
+  margin-top: 8px;
+}
+.reservoir.dead .reservoir-num {
+  color: var(--critical);
+  text-shadow: 0 0 40px rgba(255,0,64,0.6);
+}
+.reservoir-num span { font-size: 26px; opacity: 0.6; }
+.reservoir-sub {
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin-top: 10px;
+}
+.reservoir-detail {
+  font-size: 10px;
+  margin-top: 6px;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+.reservoir-detail b {
+  color: var(--reprise);
+  font-weight: 700;
+  font-size: 12px;
+}
+.reservoir.dead .reservoir-detail b { color: var(--critical); }
+
+/* Verdict label below reservoir */
+.verdict-pill {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 4px 12px;
+  font-size: 9px;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  border: 1px solid currentColor;
+  font-weight: 700;
+}
+.verdict-pill.alive { color: var(--reprise); }
+.verdict-pill.dying { color: var(--salaries); }
+.verdict-pill.dead { color: var(--critical); }
+
+/* === CONTROL PANEL === */
+.controls {
+  border-top: 1px solid var(--grid);
+  background: var(--bg-2);
+  padding: 22px 28px;
+  display: grid;
+  grid-template-columns: 2fr auto auto auto;
+  gap: 32px;
+  align-items: center;
+}
+
+.slider-group { display: flex; flex-direction: column; gap: 10px; }
+.slider-header {
+  display: flex; justify-content: space-between; align-items: baseline;
+}
+.slider-label {
+  font-size: 10px; letter-spacing: 0.25em;
+  text-transform: uppercase; color: var(--muted); font-weight: 700;
+}
+.slider-value-block { text-align: right; }
+.slider-value {
+  font-size: 26px; font-weight: 900; letter-spacing: -0.02em;
+  color: var(--ink); font-variant-numeric: tabular-nums;
+}
+.slider-delta {
+  display: inline-block; margin-left: 8px;
+  font-size: 11px; letter-spacing: 0.1em; font-weight: 700;
+  padding: 2px 6px; border: 1px solid currentColor;
+}
+.slider-delta.bad { color: var(--landlord); }
+.slider-delta.good { color: var(--reprise); }
+.slider-delta.neutral { color: var(--muted); }
+
+input[type=range] {
+  -webkit-appearance: none;
+  width: 100%; height: 6px;
+  background: var(--grid);
+  border-radius: 0; outline: none; cursor: pointer;
+  position: relative;
+}
+.slider-track-wrapper {
+  position: relative;
+}
+.slider-track-wrapper::before,
+.slider-track-wrapper::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  height: 14px;
+  width: 1px;
+  background: var(--muted);
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+.slider-track-wrapper::before { left: 0; }
+.slider-track-wrapper::after { right: 0; }
+.slider-marks {
+  display: flex; justify-content: space-between;
+  font-size: 9px; color: var(--muted);
+  letter-spacing: 0.1em; text-transform: uppercase;
+  margin-top: 6px;
+}
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 22px; height: 22px;
+  background: var(--ink);
+  border: 2px solid var(--bg);
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 0 18px rgba(255,255,255,0.5);
+}
+input[type=range]::-moz-range-thumb {
+  width: 22px; height: 22px;
+  background: var(--ink);
+  border: 2px solid var(--bg);
+  border-radius: 50%; cursor: pointer;
+}
+
+.kpi-block { border-left: 1px solid var(--grid); padding-left: 24px; }
+.kpi-label {
+  font-size: 9px; letter-spacing: 0.2em;
+  text-transform: uppercase; color: var(--muted);
+  font-weight: 700;
+}
+.kpi-value {
+  font-size: 24px; font-weight: 900;
+  letter-spacing: -0.02em; margin-top: 4px;
+  font-variant-numeric: tabular-nums;
+}
+.kpi-sub { font-size: 9px; color: var(--muted); margin-top: 2px; letter-spacing: 0.1em; }
+.kpi-value.green { color: var(--reprise); }
+.kpi-value.red { color: var(--critical); }
+.kpi-value.orange { color: var(--salaries); }
+
+/* === Top right preset buttons === */
+.preset-row {
+  display: flex; gap: 6px;
+}
+.preset-btn {
+  background: transparent;
+  border: 1px solid var(--grid);
+  color: var(--muted);
+  font-family: inherit; font-size: 9px;
+  letter-spacing: 0.18em; text-transform: uppercase;
+  padding: 5px 10px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.preset-btn:hover { color: var(--ink); border-color: var(--ink); }
+.preset-btn.active { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+
+</style>
+</head>
+<body>
+
+<div class="app">
+
+  <header>
+    <div class="brand">
+      <span class="pulse"></span>
+      <strong>WHERE DOES THE MONEY GO?</strong>
+      <span>Brantham Partners</span>
+    </div>
+    <div class="deal-name">
+      <b>SAS FITNESS LEVALLOIS</b> · RJ 2025J00983 · DLDO 21 mai 2026
+    </div>
+    <div class="scenario-badge">
+      <button id="preset-now" class="active">Aujourd'hui</button>
+      <button id="preset-target">Cible (−40 %)</button>
+      <button id="preset-killer">Loyer 15 %</button>
+    </div>
+  </header>
+
+  <div class="stage" id="stage">
+
+    <div class="stage-title">Sur <b>100 €</b> qui rentrent dans la salle de sport, voici où va chaque euro</div>
+
+    <!-- LEFT GUIDES (boxes for landlord, fisc) -->
+    <div class="guide-side left">
+      <div class="outflow-box landlord" id="box-landlord">
+        <div class="of-tag">Sortie #1</div>
+        <div class="of-name">Bailleresse</div>
+        <div class="of-amount" id="amt-landlord">51,57<span> €</span></div>
+        <div class="of-pct" id="pct-landlord">51,57 % du CA</div>
+        <div class="of-detail">Mme PRIOTTI · loyer + charges<br/>180 K€/an actuel · arriérés ~250 K</div>
+      </div>
+      <div class="outflow-box fisc" id="box-fisc">
+        <div class="of-tag">Sortie #3</div>
+        <div class="of-name">Fisc / Sociales</div>
+        <div class="of-amount" id="amt-fisc">7,16<span> €</span></div>
+        <div class="of-pct" id="pct-fisc">7,16 % du CA</div>
+        <div class="of-detail">URSSAF · TVA · CET · taxe foncière<br/>25 K€/an</div>
+      </div>
+    </div>
+
+    <!-- CASCADE CENTER -->
+    <div class="cascade">
+
+      <div class="source">
+        <div class="source-tag">Chiffre d'affaires</div>
+        <div class="source-num">100<span> €</span></div>
+        <div class="source-sub">Base annuelle 349 K€</div>
+      </div>
+
+      <div class="flow-stack" id="flow-stack">
+        <div class="flow-segment landlord" id="seg-landlord" style="height: 51.57%;">
+          <div class="connector left"></div>
+          <span class="flow-label">Bailleur <span class="pct" id="seg-pct-landlord">51,57 %</span></span>
+        </div>
+        <div class="flow-segment salaries" id="seg-salaries" style="height: 14.33%;">
+          <div class="connector right"></div>
+          <span class="flow-label">Salaires <span class="pct" id="seg-pct-salaries">14,33 %</span></span>
+        </div>
+        <div class="flow-segment fisc" id="seg-fisc" style="height: 7.16%;">
+          <div class="connector left"></div>
+          <span class="flow-label">Fisc <span class="pct" id="seg-pct-fisc">7,16 %</span></span>
+        </div>
+        <div class="flow-segment suppliers" id="seg-suppliers" style="height: 28,65%;">
+          <div class="connector right"></div>
+          <span class="flow-label">Fournisseurs <span class="pct" id="seg-pct-suppliers">28,65 %</span></span>
+        </div>
+      </div>
+
+      <div class="reservoir" id="reservoir">
+        <div class="reservoir-tag">Ce qui reste pour le</div>
+        <div class="reservoir-name" id="reservoir-name">Repreneur</div>
+        <div class="reservoir-num" id="reservoir-num">−1,72<span> €</span></div>
+        <div class="reservoir-sub">EBITDA avant service dette</div>
+        <div class="reservoir-detail">
+          Sur 100 € entrants, le repreneur récupère <b id="reservoir-amount">−1,72 €</b>
+          &nbsp;·&nbsp; soit <b id="reservoir-annual">−6 K€/an</b>
+        </div>
+        <div class="verdict-pill dead" id="verdict-pill">Le business saigne</div>
+      </div>
+    </div>
+
+    <!-- RIGHT GUIDES (salaries, suppliers) -->
+    <div class="guide-side right">
+      <div class="outflow-box salaries" id="box-salaries">
+        <div class="of-tag">Sortie #2</div>
+        <div class="of-name">Salariés</div>
+        <div class="of-amount" id="amt-salaries">14,33<span> €</span></div>
+        <div class="of-pct" id="pct-salaries">14,33 % du CA</div>
+        <div class="of-detail">3 CDI · brut + charges<br/>50 K€/an</div>
+      </div>
+      <div class="outflow-box suppliers" id="box-suppliers">
+        <div class="of-tag">Sortie #4</div>
+        <div class="of-name">Fournisseurs</div>
+        <div class="of-amount" id="amt-suppliers">28,65<span> €</span></div>
+        <div class="of-pct" id="pct-suppliers">28,65 % du CA</div>
+        <div class="of-detail">Sous-traitance + charges externes<br/>énergie · entretien · 100 K€/an</div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="controls">
+    <div class="slider-group">
+      <div class="slider-header">
+        <div class="slider-label">Loyer renégocié — €/an</div>
+        <div class="slider-value-block">
+          <span class="slider-value" id="rent-value">180 K€</span>
+          <span class="slider-delta neutral" id="rent-delta">±0 %</span>
+        </div>
+      </div>
+      <div class="slider-track-wrapper">
+        <input type="range" id="rent-slider" min="40" max="220" value="180" step="2">
+      </div>
+      <div class="slider-marks">
+        <span>40 K (12 %)</span>
+        <span>110 K (32 %) · cible</span>
+        <span>180 K (51 %) · actuel</span>
+        <span>220 K (63 %)</span>
+      </div>
+    </div>
+
+    <div class="kpi-block">
+      <div class="kpi-label">Reste pour repreneur / 100 €</div>
+      <div class="kpi-value" id="kpi-share">−1,72<span style="font-size:14px;opacity:0.5;"> €</span></div>
+      <div class="kpi-sub" id="kpi-share-sub">sur chaque 100 € qui rentrent</div>
+    </div>
+
+    <div class="kpi-block">
+      <div class="kpi-label">EBITDA annuel projeté</div>
+      <div class="kpi-value" id="kpi-ebitda">−6<span style="font-size:14px;opacity:0.5;"> K€</span></div>
+      <div class="kpi-sub" id="kpi-ebitda-sub">avant service dette reprise</div>
+    </div>
+
+    <div class="kpi-block">
+      <div class="kpi-label">Multiple repreneur 5 ans</div>
+      <div class="kpi-value" id="kpi-mult">—</div>
+      <div class="kpi-sub" id="kpi-mult-sub">apport 50 K → cash 5y</div>
+    </div>
+
+  </div>
+
+</div>
+
+<script>
+(() => {
+  // === DATA MODEL — annual K€ ===
+  const CA = 349;                 // chiffre d'affaires annuel K€
+  const SALARIES = 50;            // salariés + charges
+  const FISC = 25;                // impôts/taxes
+  const SUPPLIERS = 100;          // achats + sous-traitance + charges externes hors loyer
+  const APPORT = 50;              // hypothèse apport repreneur K€
+
+  let RENT = 180;                 // varie selon slider K€
+
+  function compute() {
+    const reprise = CA - RENT - SALARIES - FISC - SUPPLIERS;
+    const pct = {
+      landlord: (RENT / CA) * 100,
+      salaries: (SALARIES / CA) * 100,
+      fisc: (FISC / CA) * 100,
+      suppliers: (SUPPLIERS / CA) * 100,
+      reprise: (reprise / CA) * 100,
+    };
+    return { reprise, pct };
+  }
+
+  function fmtPct(v) {
+    return (v < 0 ? '−' : '') + Math.abs(v).toFixed(2).replace('.', ',') + ' %';
+  }
+  function fmtEuro(v, decimals = 2) {
+    return (v < 0 ? '−' : '') + Math.abs(v).toFixed(decimals).replace('.', ',');
+  }
+  function fmtK(v, decimals = 0) {
+    return (v < 0 ? '−' : '') + Math.abs(v).toFixed(decimals);
+  }
+
+  function render() {
+    const { reprise, pct } = compute();
+
+    // Left/right boxes
+    document.getElementById('amt-landlord').innerHTML = fmtEuro(pct.landlord, 2) + '<span> €</span>';
+    document.getElementById('pct-landlord').textContent = fmtPct(pct.landlord) + ' du CA';
+
+    document.getElementById('amt-salaries').innerHTML = fmtEuro(pct.salaries, 2) + '<span> €</span>';
+    document.getElementById('pct-salaries').textContent = fmtPct(pct.salaries) + ' du CA';
+
+    document.getElementById('amt-fisc').innerHTML = fmtEuro(pct.fisc, 2) + '<span> €</span>';
+    document.getElementById('pct-fisc').textContent = fmtPct(pct.fisc) + ' du CA';
+
+    document.getElementById('amt-suppliers').innerHTML = fmtEuro(pct.suppliers, 2) + '<span> €</span>';
+    document.getElementById('pct-suppliers').textContent = fmtPct(pct.suppliers) + ' du CA';
+
+    // Cascade segments — heights as % of total visible flow stack
+    // We give them % in the visible area, so they sum to ≤ 100
+    // If reprise > 0, the segments take pct.X / 100 of stack height
+    // If reprise < 0, the over-100 % portion gets clipped visually
+    // We'll size the 4 outflow segments so that the stack always maxes at 100 %, scaled
+    const totalOut = pct.landlord + pct.salaries + pct.fisc + pct.suppliers;
+    const stackUseRatio = Math.min(1, totalOut / 100); // 1 if outflows exceed 100
+    function segH(p) { return ((p / Math.max(totalOut, 100)) * 100).toFixed(2) + '%'; }
+
+    document.getElementById('seg-landlord').style.height = segH(pct.landlord);
+    document.getElementById('seg-salaries').style.height = segH(pct.salaries);
+    document.getElementById('seg-fisc').style.height = segH(pct.fisc);
+    document.getElementById('seg-suppliers').style.height = segH(pct.suppliers);
+
+    document.getElementById('seg-pct-landlord').textContent = fmtPct(pct.landlord);
+    document.getElementById('seg-pct-salaries').textContent = fmtPct(pct.salaries);
+    document.getElementById('seg-pct-fisc').textContent = fmtPct(pct.fisc);
+    document.getElementById('seg-pct-suppliers').textContent = fmtPct(pct.suppliers);
+
+    // Reservoir
+    const reservoir = document.getElementById('reservoir');
+    const reservoirNum = document.getElementById('reservoir-num');
+    const reservoirAmount = document.getElementById('reservoir-amount');
+    const reservoirAnnual = document.getElementById('reservoir-annual');
+    const verdictPill = document.getElementById('verdict-pill');
+
+    reservoirNum.innerHTML = fmtEuro(pct.reprise, 2) + '<span> €</span>';
+    reservoirAmount.textContent = fmtEuro(pct.reprise, 2) + ' €';
+    reservoirAnnual.textContent = fmtK(reprise, 0) + ' K€/an';
+
+    if (pct.reprise < 0) {
+      reservoir.classList.add('dead');
+      verdictPill.className = 'verdict-pill dead';
+      verdictPill.textContent = 'Le business saigne · repreneur perd';
+    } else if (pct.reprise < 10) {
+      reservoir.classList.remove('dead');
+      verdictPill.className = 'verdict-pill dying';
+      verdictPill.textContent = 'Marge serrée · zone de tension';
+    } else {
+      reservoir.classList.remove('dead');
+      verdictPill.className = 'verdict-pill alive';
+      verdictPill.textContent = 'Le business respire · repreneur gagne';
+    }
+
+    // Bottom KPIs
+    const kpiShare = document.getElementById('kpi-share');
+    kpiShare.innerHTML = fmtEuro(pct.reprise, 2) + '<span style="font-size:14px;opacity:0.5;"> €</span>';
+    kpiShare.className = 'kpi-value ' + (pct.reprise < 0 ? 'red' : pct.reprise < 10 ? 'orange' : 'green');
+
+    const kpiEbitda = document.getElementById('kpi-ebitda');
+    kpiEbitda.innerHTML = fmtK(reprise, 0) + '<span style="font-size:14px;opacity:0.5;"> K€</span>';
+    kpiEbitda.className = 'kpi-value ' + (reprise < 0 ? 'red' : reprise < 30 ? 'orange' : 'green');
+
+    const cash5y = reprise * 5;
+    const kpiMult = document.getElementById('kpi-mult');
+    if (cash5y <= 0 || APPORT <= 0) {
+      kpiMult.innerHTML = '—';
+      kpiMult.className = 'kpi-value red';
+      document.getElementById('kpi-mult-sub').textContent = 'apport 50K → cash 5y ' + fmtK(cash5y) + ' K';
+    } else {
+      const mult = (APPORT + cash5y) / APPORT;
+      kpiMult.innerHTML = mult.toFixed(2) + '<span style="font-size:14px;opacity:0.5;">×</span>';
+      kpiMult.className = 'kpi-value ' + (mult >= 3 ? 'green' : mult >= 1.5 ? 'orange' : 'red');
+      document.getElementById('kpi-mult-sub').textContent = `apport 50K → cash 5y +${fmtK(cash5y)}K`;
+    }
+  }
+
+  // Slider
+  const slider = document.getElementById('rent-slider');
+  const rentValue = document.getElementById('rent-value');
+  const rentDelta = document.getElementById('rent-delta');
+
+  function onSlider() {
+    RENT = parseInt(slider.value, 10);
+    rentValue.textContent = RENT + ' K€';
+    const delta = ((RENT - 180) / 180) * 100;
+    if (Math.abs(delta) < 1) {
+      rentDelta.textContent = '±0 %';
+      rentDelta.className = 'slider-delta neutral';
+    } else if (delta < 0) {
+      rentDelta.textContent = delta.toFixed(0) + ' %';
+      rentDelta.className = 'slider-delta good';
+    } else {
+      rentDelta.textContent = '+' + delta.toFixed(0) + ' %';
+      rentDelta.className = 'slider-delta bad';
+    }
+    // Deactivate presets if user moves slider freely
+    document.querySelectorAll('.scenario-badge button').forEach(b => b.classList.remove('active'));
+    if (RENT === 180) document.getElementById('preset-now').classList.add('active');
+    else if (RENT === 110) document.getElementById('preset-target').classList.add('active');
+    else if (RENT === Math.round(CA * 0.15)) document.getElementById('preset-killer').classList.add('active');
+    render();
+  }
+  slider.addEventListener('input', onSlider);
+
+  // Presets
+  document.getElementById('preset-now').addEventListener('click', () => { slider.value = 180; onSlider(); });
+  document.getElementById('preset-target').addEventListener('click', () => { slider.value = 110; onSlider(); });
+  document.getElementById('preset-killer').addEventListener('click', () => { slider.value = Math.round(CA * 0.15); onSlider(); });
+
+  // Initial render
+  onSlider();
+})();
+</script>
+
+</body>
+</html>

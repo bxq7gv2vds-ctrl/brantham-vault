@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Deal X-Ray — SAS Fitness Levallois</title>
+<style>
+  :root {
+    --ink: #0d0d0d;
+    --paper: #fafaf7;
+    --line: #1a1a1a;
+    --muted: #6b6b6b;
+    --soft: #e8e6e0;
+    --grid: #cfcdc6;
+    --ok: #1f7a3a;
+    --ok-soft: #d6ecde;
+    --warn: #b87900;
+    --warn-soft: #f5e8c8;
+    --bad: #a01818;
+    --bad-soft: #f0d4d4;
+    --accent: #0d0d0d;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Helvetica Neue', 'Inter', 'IBM Plex Sans', system-ui, -apple-system, sans-serif;
+    font-size: 11px;
+    line-height: 1.35;
+    -webkit-font-smoothing: antialiased;
+  }
+  .page {
+    width: 420mm;
+    height: 297mm;
+    padding: 12mm 14mm;
+    margin: 0 auto;
+    background: var(--paper);
+    display: grid;
+    grid-template-rows: 22mm 26mm 1fr 26mm;
+    grid-template-columns: 1fr;
+    gap: 5mm;
+    overflow: hidden;
+  }
+
+  /* HEADER */
+  .header {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: center;
+    border-bottom: 2px solid var(--line);
+    padding-bottom: 4mm;
+  }
+  .label-tiny {
+    font-size: 8px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 600;
+  }
+  .deal-title {
+    font-size: 28px;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    line-height: 1;
+    margin-top: 2px;
+  }
+  .deal-sub {
+    font-size: 10px;
+    color: var(--muted);
+    margin-top: 4px;
+    font-weight: 500;
+  }
+  .deal-sub strong { color: var(--ink); font-weight: 700; }
+  .verdict-block {
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 3px;
+  }
+  .scoring {
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: -0.04em;
+  }
+  .scoring small { font-size: 16px; color: var(--muted); font-weight: 600; }
+  .verdict-pill {
+    display: inline-block;
+    padding: 3px 10px;
+    border: 1.5px solid var(--warn);
+    color: var(--warn);
+    font-weight: 700;
+    font-size: 10px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    border-radius: 2px;
+  }
+  .countdown {
+    font-size: 10px;
+    color: var(--bad);
+    font-weight: 700;
+    margin-top: 2px;
+  }
+
+  /* VITALS BAR — 6 markers */
+  .vitals {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 3mm;
+  }
+  .vital {
+    border: 1px solid var(--line);
+    padding: 3mm;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    min-height: 22mm;
+  }
+  .vital.ok { border-left: 4px solid var(--ok); background: linear-gradient(to right, var(--ok-soft) 0%, var(--paper) 25%); }
+  .vital.warn { border-left: 4px solid var(--warn); background: linear-gradient(to right, var(--warn-soft) 0%, var(--paper) 25%); }
+  .vital.bad { border-left: 4px solid var(--bad); background: linear-gradient(to right, var(--bad-soft) 0%, var(--paper) 25%); }
+  .vital-name {
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-weight: 700;
+    color: var(--muted);
+  }
+  .vital-value {
+    font-size: 18px;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    line-height: 1;
+    margin: 4px 0 2px;
+  }
+  .vital-note {
+    font-size: 9px;
+    color: var(--ink);
+    line-height: 1.3;
+  }
+  .vital-status {
+    position: absolute;
+    top: 3mm;
+    right: 3mm;
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+  }
+  .vital.ok .vital-status { background: var(--ok); }
+  .vital.warn .vital-status { background: var(--warn); }
+  .vital.bad .vital-status { background: var(--bad); }
+
+  /* MAIN GRID */
+  .main {
+    display: grid;
+    grid-template-columns: 1.05fr 1fr 0.95fr;
+    gap: 5mm;
+  }
+  .card {
+    border: 1px solid var(--line);
+    padding: 4mm;
+    display: flex;
+    flex-direction: column;
+    background: var(--paper);
+  }
+  .card-title {
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    font-weight: 700;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 2mm;
+    margin-bottom: 3mm;
+    color: var(--ink);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .card-title-sub {
+    font-size: 8px;
+    color: var(--muted);
+    text-transform: none;
+    letter-spacing: 0;
+    font-weight: 500;
+  }
+
+  /* HEATMAP — 4 years */
+  .heatmap {
+    display: grid;
+    grid-template-columns: 70px repeat(4, 1fr);
+    gap: 1px;
+    background: var(--grid);
+    border: 1px solid var(--grid);
+  }
+  .heat-cell {
+    background: var(--paper);
+    padding: 6px 4px;
+    text-align: right;
+    font-size: 10px;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+  }
+  .heat-cell.label {
+    text-align: left;
+    font-weight: 600;
+    color: var(--muted);
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+  .heat-cell.h { font-weight: 700; text-align: center; background: var(--soft); font-size: 9px; }
+  .heat-cell.v-best { background: #c6e0c9; }
+  .heat-cell.v-good { background: #e0eddf; }
+  .heat-cell.v-mid { background: #f5ebcb; }
+  .heat-cell.v-bad { background: #f0d4d4; }
+  .heat-cell.v-worst { background: #d8a8a8; color: #5a0000; }
+  .heat-cell.v-neg { color: var(--bad); }
+
+  /* RATIO BAR */
+  .ratio-strip {
+    margin-top: 4mm;
+    padding: 3mm;
+    background: var(--soft);
+    border-left: 3px solid var(--bad);
+  }
+  .ratio-strip-title {
+    font-size: 9px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--bad);
+  }
+  .ratio-strip-num {
+    font-size: 20px;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    margin-top: 2px;
+  }
+  .ratio-strip-note { font-size: 9px; color: var(--muted); margin-top: 1px; }
+
+  /* ORGANS VIEW */
+  .organs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2mm;
+  }
+  .organ {
+    border: 1px solid var(--grid);
+    padding: 3mm;
+    background: var(--paper);
+    position: relative;
+  }
+  .organ-name {
+    font-size: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--muted);
+    font-weight: 700;
+  }
+  .organ-key {
+    font-size: 13px;
+    font-weight: 800;
+    margin-top: 2px;
+    line-height: 1.1;
+  }
+  .organ-detail { font-size: 9px; color: var(--ink); margin-top: 4px; line-height: 1.4; }
+  .organ-tag {
+    display: inline-block;
+    padding: 1px 5px;
+    background: var(--ink);
+    color: var(--paper);
+    font-size: 7px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 700;
+    margin-top: 4px;
+  }
+  .organ-tag.bad { background: var(--bad); }
+  .organ-tag.ok { background: var(--ok); }
+  .organ-tag.warn { background: var(--warn); }
+
+  /* PIVOT — center column */
+  .pivot {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 5mm;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .pivot .card-title { color: var(--paper); border-color: var(--paper); }
+  .pivot-num {
+    font-size: 50px;
+    font-weight: 800;
+    letter-spacing: -0.05em;
+    line-height: 0.9;
+  }
+  .pivot-claim {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+    margin-top: 4mm;
+  }
+  .pivot-detail {
+    font-size: 10px;
+    line-height: 1.4;
+    margin-top: 3mm;
+    color: #cfcdc6;
+  }
+  .pivot-arrow {
+    margin: 4mm 0;
+    border-top: 1px dashed #555;
+    padding-top: 4mm;
+  }
+  .pivot-bridge {
+    display: grid;
+    grid-template-columns: 1fr 12px 1fr;
+    align-items: center;
+    gap: 2mm;
+    text-align: center;
+  }
+  .pivot-state-now {
+    border: 1px solid var(--bad);
+    color: #ffaaaa;
+    padding: 3mm 2mm;
+  }
+  .pivot-state-target {
+    border: 1px solid var(--ok);
+    color: #b5e6c0;
+    padding: 3mm 2mm;
+  }
+  .pivot-arrow-x {
+    font-size: 16px;
+    font-weight: 800;
+  }
+  .pivot-state-name { font-size: 8px; text-transform: uppercase; letter-spacing: 0.1em; opacity: 0.7; }
+  .pivot-state-num { font-size: 14px; font-weight: 800; margin-top: 2px; }
+
+  /* SCENARIOS — right column */
+  .scenarios {
+    display: grid;
+    grid-template-rows: auto repeat(3, 1fr);
+    gap: 2mm;
+  }
+  .scenarios .card-title { margin-bottom: 1mm; padding-bottom: 1mm; }
+  .scenario {
+    border: 1px solid var(--grid);
+    padding: 2.5mm 3mm;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2mm;
+    align-items: start;
+  }
+  .scenario.bad { border-left: 4px solid var(--bad); }
+  .scenario.warn { border-left: 4px solid var(--warn); }
+  .scenario.ok { border-left: 4px solid var(--ok); }
+  .scenario-name {
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: 700;
+    color: var(--muted);
+  }
+  .scenario-tag {
+    display: inline-block;
+    padding: 1px 5px;
+    font-size: 7px;
+    color: var(--paper);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin-top: 2px;
+  }
+  .scenario.bad .scenario-tag { background: var(--bad); }
+  .scenario.warn .scenario-tag { background: var(--warn); }
+  .scenario.ok .scenario-tag { background: var(--ok); }
+  .scenario-key {
+    font-size: 18px;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    line-height: 1;
+  }
+  .scenario-key small { font-size: 9px; color: var(--muted); font-weight: 600; }
+  .scenario-meta { font-size: 9px; color: var(--ink); line-height: 1.3; }
+  .scenario-meta b { font-weight: 700; }
+  .scenario-line { font-size: 8.5px; color: var(--muted); }
+
+  /* PRESCRIPTION FOOTER */
+  .prescription {
+    border: 2px solid var(--ink);
+    background: var(--paper);
+    padding: 4mm 5mm;
+    display: grid;
+    grid-template-columns: 0.6fr 1fr 1fr 1fr 0.7fr;
+    gap: 4mm;
+    align-items: center;
+  }
+  .rx-stamp {
+    border-right: 1px solid var(--grid);
+    padding-right: 4mm;
+  }
+  .rx-stamp-label {
+    font-size: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    color: var(--muted);
+    font-weight: 700;
+  }
+  .rx-stamp-value {
+    font-size: 22px;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    margin-top: 2px;
+  }
+  .rx-block-label {
+    font-size: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--muted);
+    font-weight: 700;
+  }
+  .rx-block-main {
+    font-size: 14px;
+    font-weight: 800;
+    letter-spacing: -0.01em;
+    margin-top: 1mm;
+  }
+  .rx-block-sub {
+    font-size: 8.5px;
+    color: var(--ink);
+    margin-top: 1mm;
+    line-height: 1.4;
+  }
+  .rx-go {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 4mm;
+    text-align: center;
+    border-radius: 1px;
+  }
+  .rx-go-label {
+    font-size: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    opacity: 0.7;
+  }
+  .rx-go-value {
+    font-size: 16px;
+    font-weight: 800;
+    letter-spacing: 0.02em;
+    margin-top: 2px;
+  }
+  .rx-go-cond {
+    font-size: 8px;
+    margin-top: 2mm;
+    opacity: 0.85;
+    line-height: 1.3;
+  }
+
+  /* sparkline mini */
+  .sparkline {
+    display: flex;
+    align-items: flex-end;
+    height: 22px;
+    gap: 2px;
+    margin-top: 3px;
+  }
+  .spark-bar {
+    flex: 1;
+    background: var(--ink);
+    min-height: 1px;
+  }
+  .spark-bar.ghost { background: var(--grid); }
+  .spark-bar.bad { background: var(--bad); }
+
+  /* footer label */
+  .meta-footer {
+    position: absolute;
+    bottom: 4mm;
+    left: 14mm;
+    right: 14mm;
+    display: flex;
+    justify-content: space-between;
+    font-size: 7px;
+    color: var(--muted);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  @media print {
+    @page { size: A3 landscape; margin: 0; }
+    body { background: white; }
+    .page { box-shadow: none; }
+  }
+  @media screen {
+    body { padding: 20px; }
+    .page { box-shadow: 0 4px 30px rgba(0,0,0,0.08); }
+  }
+</style>
+</head>
+<body>
+
+<div class="page">
+
+  <!-- ============ HEADER ============ -->
+  <div class="header">
+    <div>
+      <div class="label-tiny">Brantham Partners — Deal X-Ray</div>
+      <div class="deal-title">SAS FITNESS LEVALLOIS</div>
+      <div class="deal-sub">
+        Salle de sport · 868 m² · 12 rue Carnot 92300 Levallois-Perret · RCS Nanterre 790 158 224
+        &nbsp;|&nbsp; Procédure <strong>RJ 2025J00983</strong> · TAE Nanterre · AJ <strong>Me Benhacine-Chamieh / O3 Partners</strong> · MJ Me Pecou
+      </div>
+    </div>
+    <div class="verdict-block">
+      <div class="label-tiny">Score reprise repreneur</div>
+      <div class="scoring">6,2<small>/10</small></div>
+      <div class="verdict-pill">GO Conditionnel</div>
+      <div class="countdown">DLDO J−23 · 21 mai 2026 12h00</div>
+    </div>
+  </div>
+
+  <!-- ============ VITALS — 6 markers ============ -->
+  <div class="vitals">
+    <div class="vital warn">
+      <span class="vital-status"></span>
+      <div>
+        <div class="vital-name">Liquidité</div>
+        <div class="vital-value">+12 K€</div>
+      </div>
+      <div class="vital-note">Profit normalisé sur 5 mois PO. Activité courante viable.</div>
+    </div>
+    <div class="vital bad">
+      <span class="vital-status"></span>
+      <div>
+        <div class="vital-name">Loyer / CA</div>
+        <div class="vital-value">51 %</div>
+      </div>
+      <div class="vital-note">Norme secteur 10-15 %. Modèle économique cassé.</div>
+    </div>
+    <div class="vital ok">
+      <span class="vital-status"></span>
+      <div>
+        <div class="vital-name">Actifs corporels</div>
+        <div class="vital-value">62 K€</div>
+      </div>
+      <div class="vital-note">Inventaire libre de sûretés. ~30 % matériel HS.</div>
+    </div>
+    <div class="vital warn">
+      <span class="vital-status"></span>
+      <div>
+        <div class="vital-name">Équipe</div>
+        <div class="vital-value">3 CDI</div>
+      </div>
+      <div class="vital-note">~48 K€/an chargés. PV de carence (pas de CSE).</div>
+    </div>
+    <div class="vital bad">
+      <span class="vital-status"></span>
+      <div>
+        <div class="vital-name">Passif</div>
+        <div class="vital-value">622 K€</div>
+      </div>
+      <div class="vital-note">×2 en 2025. Reste à la cédante en plan de cession.</div>
+    </div>
+    <div class="vital warn">
+      <span class="vital-status"></span>
+      <div>
+        <div class="vital-name">Urgence</div>
+        <div class="vital-value">23 j</div>
+      </div>
+      <div class="vital-note">Date limite dépôt offre. Calendrier serré.</div>
+    </div>
+  </div>
+
+  <!-- ============ MAIN GRID ============ -->
+  <div class="main">
+
+    <!-- COL 1 : SQUELETTE FINANCIER -->
+    <div class="card">
+      <div class="card-title">Squelette financier — 4 ans <span class="card-title-sub">heatmap K€</span></div>
+      <div class="heatmap">
+        <div class="heat-cell h"></div>
+        <div class="heat-cell h">2022</div>
+        <div class="heat-cell h">2023</div>
+        <div class="heat-cell h">2024</div>
+        <div class="heat-cell h">2025</div>
+
+        <div class="heat-cell label">Chiffre affaires</div>
+        <div class="heat-cell v-best">595</div>
+        <div class="heat-cell v-bad">369</div>
+        <div class="heat-cell v-mid">421</div>
+        <div class="heat-cell v-worst">349</div>
+
+        <div class="heat-cell label">Rés. exploit.</div>
+        <div class="heat-cell v-best">+54</div>
+        <div class="heat-cell v-worst v-neg">−176</div>
+        <div class="heat-cell v-bad v-neg">−55</div>
+        <div class="heat-cell v-worst v-neg">−95</div>
+
+        <div class="heat-cell label">Capitaux propres</div>
+        <div class="heat-cell v-best">+182</div>
+        <div class="heat-cell v-mid">+5</div>
+        <div class="heat-cell v-bad v-neg">−50</div>
+        <div class="heat-cell v-worst v-neg">−145</div>
+
+        <div class="heat-cell label">Dettes totales</div>
+        <div class="heat-cell v-good">313</div>
+        <div class="heat-cell v-good">271</div>
+        <div class="heat-cell v-mid">296</div>
+        <div class="heat-cell v-worst">622</div>
+
+        <div class="heat-cell label">Loyer/CA</div>
+        <div class="heat-cell v-mid">30 %</div>
+        <div class="heat-cell v-bad">48 %</div>
+        <div class="heat-cell v-bad">42 %</div>
+        <div class="heat-cell v-worst">51 %</div>
+      </div>
+
+      <div class="ratio-strip">
+        <div class="ratio-strip-title">Pertes cumulées 2023→2025</div>
+        <div class="ratio-strip-num">−327 K€</div>
+        <div class="ratio-strip-note">Cessation paiements actée 02/04/2024 — 18 mois avant ouverture RJ</div>
+      </div>
+
+      <div style="margin-top:auto; padding-top:3mm; font-size:9px; color:var(--muted); border-top:1px dashed var(--grid);">
+        <strong style="color:var(--ink);">Lecture :</strong> CA s'effondre dès 2023 (−38 %). Loyer fixe broie la marge. Dette double en 2025 par non-paiement systématique.
+      </div>
+    </div>
+
+    <!-- COL 2 : POINT DE BASCULE (PIVOT) -->
+    <div class="card pivot">
+      <div class="card-title">Point de bascule</div>
+
+      <div>
+        <div class="label-tiny" style="color:#999;">Le seul levier qui change tout</div>
+        <div class="pivot-claim">Le bail commercial</div>
+        <div class="pivot-detail">
+          Bail expiré <strong style="color:#fff;">30/06/2024</strong>. Bailleresse <strong style="color:#fff;">Mme PRIOTTI</strong> = demanderesse de l'assignation RJ. Arriérés ~250 K€ irrécupérables.
+        </div>
+      </div>
+
+      <div class="pivot-arrow">
+        <div class="label-tiny" style="color:#999;">Action requise — transmission L. 642-7</div>
+        <div class="pivot-bridge" style="margin-top:3mm;">
+          <div class="pivot-state-now">
+            <div class="pivot-state-name">Aujourd'hui</div>
+            <div class="pivot-state-num">180 K€/an</div>
+            <div style="font-size:8px; opacity:0.8;">51 % du CA</div>
+          </div>
+          <div class="pivot-arrow-x">→</div>
+          <div class="pivot-state-target">
+            <div class="pivot-state-name">Cible</div>
+            <div class="pivot-state-num">110 K€/an</div>
+            <div style="font-size:8px; opacity:0.8;">~25 % du CA</div>
+          </div>
+        </div>
+      </div>
+
+      <div>
+        <div class="pivot-num">−40 %</div>
+        <div style="font-size:9px; color:#999; margin-top:2mm;">Renégociation cible loyer · indispensable pour rentabilité repreneur</div>
+      </div>
+
+      <div style="font-size:9px; color:#cfcdc6; margin-top:3mm; line-height:1.4; border-top:1px dashed #555; padding-top:3mm;">
+        <strong style="color:#fff;">Pourquoi elle signera :</strong> 110 K garantis avec repreneur solvable &gt; 180 K théoriques avec locataire défaillant. Alternative : LJ → vacance 12-18 mois + travaux.
+      </div>
+    </div>
+
+    <!-- COL 3 : ORGANES VITAUX + SCÉNARIOS  -->
+    <div style="display:grid; grid-template-rows: auto 1fr; gap:5mm;">
+
+      <div class="card" style="padding:3mm 4mm;">
+        <div class="card-title">Organes vitaux</div>
+        <div class="organs">
+          <div class="organ">
+            <div class="organ-name">Bail</div>
+            <div class="organ-key">868 m²</div>
+            <div class="organ-detail">8 lots, RDC + s/sol bât A/B/C/D. Acte notarié Me Wargny 19/07/2018.</div>
+            <span class="organ-tag bad">Expiré 30/06/24</span>
+          </div>
+          <div class="organ">
+            <div class="organ-name">Salariés</div>
+            <div class="organ-key">3 CDI</div>
+            <div class="organ-detail">314 h/mois total. Anciennetés 12/2014 · 08/2023 · 01/2025. Coût chargé 4 K€/mois.</div>
+            <span class="organ-tag warn">Reprise sélective 2/3</span>
+          </div>
+          <div class="organ">
+            <div class="organ-name">Inventaire</div>
+            <div class="organ-key">62 K / 21 K</div>
+            <div class="organ-detail">44 lots Matrix/Magic Form/Lesmills. Valeur exploitation / réalisation. ~30 % HS.</div>
+            <span class="organ-tag warn">CAPEX 30-40 K</span>
+          </div>
+          <div class="organ">
+            <div class="organ-name">Procédure</div>
+            <div class="organ-key">PO 6m</div>
+            <div class="organ-detail">Ouverture 01/10/2025. Audience poursuite 26/11/25. PO expire 01/04/26 (prorogation probable).</div>
+            <span class="organ-tag ok">État certifié vierge</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="card scenarios">
+        <div class="card-title">3 scénarios — année 1 post-reprise <span class="card-title-sub">EBITDA + cash net</span></div>
+
+        <div class="scenario bad">
+          <div>
+            <div class="scenario-name">Pessimiste</div>
+            <span class="scenario-tag">Loyer non renégocié</span>
+          </div>
+          <div>
+            <div class="scenario-key">−8 K€<small> / an</small></div>
+            <div class="scenario-line">CA 350 · loyer 180 · EBITDA +15 · service dette −23</div>
+          </div>
+        </div>
+
+        <div class="scenario warn">
+          <div>
+            <div class="scenario-name">Cible (continuité)</div>
+            <span class="scenario-tag">Loyer 110 K — CA stable</span>
+          </div>
+          <div>
+            <div class="scenario-key">+32 K€<small> / an</small></div>
+            <div class="scenario-line">CA 350 · loyer 110 · EBITDA +55 · service dette −23</div>
+          </div>
+        </div>
+
+        <div class="scenario ok">
+          <div>
+            <div class="scenario-name">Relance</div>
+            <span class="scenario-tag">Loyer 110 K — CA 450</span>
+          </div>
+          <div>
+            <div class="scenario-key">+89 K€<small> / an</small></div>
+            <div class="scenario-line">CA 450 · loyer 110 · EBITDA +112 · service dette −23</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ============ PRESCRIPTION FOOTER ============ -->
+  <div class="prescription">
+    <div class="rx-stamp">
+      <div class="rx-stamp-label">Prix offre</div>
+      <div class="rx-stamp-value">30 K€</div>
+      <div style="font-size:8.5px; color:var(--muted); margin-top:1mm;">20 corporel + 10 incorporel</div>
+    </div>
+
+    <div>
+      <div class="rx-block-label">Périmètre</div>
+      <div class="rx-block-main">Bail · 2 CDI · matériel · clientèle</div>
+      <div class="rx-block-sub">Transmission L. 642-7 du bail (jugement). Reprise CDI 12/2014 + 01/2025. Inventaire pleine propriété. Hors passif antérieur.</div>
+    </div>
+
+    <div>
+      <div class="rx-block-label">Ticket repreneur</div>
+      <div class="rx-block-main">100-125 K€ cash mobilisé</div>
+      <div class="rx-block-sub">Prix 30 + CAPEX 35 + BFR 35 + frais 15. Apport 40-50 + prêt 60-75 sur 5-7 ans. Service dette ~23 K/an.</div>
+    </div>
+
+    <div>
+      <div class="rx-block-label">Conditions de réussite</div>
+      <div class="rx-block-main">2 verrous à débloquer</div>
+      <div class="rx-block-sub">1. Bail transmissible avec loyer renégocié −30 à −40 %  ·  2. Repreneur a 100 K€ cash + expérience opérationnelle.</div>
+    </div>
+
+    <div class="rx-go">
+      <div class="rx-go-label">Verdict</div>
+      <div class="rx-go-value">GO conditionnel</div>
+      <div class="rx-go-cond">Si bail transmissible<br>+ repreneur qualifié</div>
+    </div>
+  </div>
+
+</div>
+
+<div class="meta-footer">
+  <span>Brantham Partners · Paul Roulleau · paul.roulleau@branthampartners.fr</span>
+  <span>Deal X-Ray v1 · Confidentiel · Établi le 28/04/2026</span>
+</div>
+
+</body>
+</html>

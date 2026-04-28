@@ -23,14 +23,14 @@ Re-rendre tout : `cd _design-system && uv run render.py`
 
 ## Vertical 1080×1350 — engagement maximal
 
-| Template | Cream | Navy |
-|---|---|---|
-| Cover | ![[templates-1080x1350/cover-slide.png\|300]] | ![[templates-1080x1350/cover-slide-navy.png\|300]] |
-| Headline | ![[templates-1080x1350/headline-only.png\|300]] | ![[templates-1080x1350/headline-only-navy.png\|300]] |
-| Data table | ![[templates-1080x1350/data-table.png\|300]] | ![[templates-1080x1350/data-table-navy.png\|300]] |
-| Data ledger | ![[templates-1080x1350/data-ledger.png\|300]] | ![[templates-1080x1350/data-ledger-navy.png\|300]] |
+| Template       | Cream                                            | Navy                                                  |
+| -------------- | ------------------------------------------------ | ----------------------------------------------------- |
+| Cover          | ![[templates-1080x1350/cover-slide.png\|300]]    | ![[templates-1080x1350/cover-slide-navy.png\|300]]    |
+| Headline       | ![[templates-1080x1350/headline-only.png\|300]]  | ![[templates-1080x1350/headline-only-navy.png\|300]]  |
+| Data table     | ![[templates-1080x1350/data-table.png\|300]]     | ![[templates-1080x1350/data-table-navy.png\|300]]     |
+| Data ledger    | ![[templates-1080x1350/data-ledger.png\|300]]    | ![[templates-1080x1350/data-ledger-navy.png\|300]]    |
 | Data checklist | ![[templates-1080x1350/data-checklist.png\|300]] | ![[templates-1080x1350/data-checklist-navy.png\|300]] |
-| Quote | ![[templates-1080x1350/quote-card.png\|300]] | ![[templates-1080x1350/quote-card-navy.png\|300]] |
+| Quote          | ![[templates-1080x1350/quote-card.png\|300]]     | ![[templates-1080x1350/quote-card-navy.png\|300]]     |
 
 ## Lien preview 1200×628 — partage URL
 

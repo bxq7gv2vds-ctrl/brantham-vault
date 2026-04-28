@@ -1,0 +1,981 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>BLOODLINE — Fitness Levallois</title>
+<style>
+  :root {
+    --bg: #050608;
+    --bg-2: #0c0e12;
+    --ink: #e8e8e8;
+    --muted: #6a6a6a;
+    --grid: #14171c;
+    --revenue: #00ff9d;
+    --landlord: #ff2a2a;
+    --landlord-glow: #ff5050;
+    --salaries: #ffb800;
+    --fisc: #b87cff;
+    --suppliers: #4a8fff;
+    --reprise: #00f0ff;
+    --reprise-glow: #80f8ff;
+    --warn: #ff8c00;
+    --critical: #ff0040;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; user-select: none; }
+  html, body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'JetBrains Mono', 'SF Mono', 'IBM Plex Mono', Menlo, monospace;
+    overflow: hidden;
+    height: 100vh;
+    width: 100vw;
+  }
+  body {
+    background-image:
+      radial-gradient(circle at 20% 10%, rgba(0,255,157,0.04), transparent 50%),
+      radial-gradient(circle at 80% 90%, rgba(255,42,42,0.04), transparent 50%),
+      linear-gradient(var(--bg), var(--bg));
+  }
+
+  .app {
+    display: grid;
+    grid-template-rows: 60px 1fr 130px;
+    height: 100vh;
+  }
+
+  /* HEADER */
+  header {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    padding: 0 24px;
+    border-bottom: 1px solid var(--grid);
+    background: linear-gradient(to bottom, var(--bg-2), var(--bg));
+    gap: 24px;
+  }
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 11px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .brand strong {
+    color: var(--ink);
+    font-weight: 700;
+    letter-spacing: 0.2em;
+  }
+  .brand .pulse {
+    width: 8px; height: 8px; border-radius: 50%;
+    background: var(--revenue);
+    box-shadow: 0 0 12px var(--revenue);
+    animation: heartbeat 1.4s infinite;
+  }
+  @keyframes heartbeat {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.4; transform: scale(0.85); }
+  }
+  .deal-name {
+    font-size: 16px;
+    font-weight: 800;
+    letter-spacing: 0.05em;
+    color: var(--ink);
+  }
+  .deal-name span {
+    color: var(--muted);
+    font-weight: 400;
+    margin-left: 12px;
+    font-size: 11px;
+  }
+  .header-controls {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+  }
+  .mode-toggle {
+    display: flex;
+    border: 1px solid var(--grid);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+  .mode-toggle button {
+    background: transparent;
+    color: var(--muted);
+    border: none;
+    padding: 6px 14px;
+    font-family: inherit;
+    font-size: 10px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .mode-toggle button.active {
+    background: var(--ink);
+    color: var(--bg);
+  }
+  .mode-toggle button:hover:not(.active) {
+    background: var(--grid);
+    color: var(--ink);
+  }
+
+  /* CANVAS STAGE */
+  .stage {
+    position: relative;
+    overflow: hidden;
+  }
+  canvas {
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+
+  /* OVERLAY LABELS */
+  .labels {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+  }
+  .label {
+    position: absolute;
+    font-family: inherit;
+    font-size: 10px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .label .title {
+    font-size: 9px;
+    color: var(--muted);
+    letter-spacing: 0.2em;
+    display: block;
+    margin-bottom: 4px;
+  }
+  .label .name {
+    font-size: 13px;
+    color: var(--ink);
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+  .label .amount {
+    font-size: 22px;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    margin-top: 2px;
+    font-variant-numeric: tabular-nums;
+  }
+  .label .pct {
+    font-size: 10px;
+    color: var(--muted);
+    margin-top: 2px;
+    letter-spacing: 0.1em;
+  }
+  .label.revenue .name, .label.revenue .amount { color: var(--revenue); text-shadow: 0 0 20px rgba(0,255,157,0.5); }
+  .label.landlord .name, .label.landlord .amount { color: var(--landlord); text-shadow: 0 0 20px rgba(255,42,42,0.5); }
+  .label.salaries .name, .label.salaries .amount { color: var(--salaries); text-shadow: 0 0 20px rgba(255,184,0,0.4); }
+  .label.fisc .name, .label.fisc .amount { color: var(--fisc); text-shadow: 0 0 20px rgba(184,124,255,0.4); }
+  .label.suppliers .name, .label.suppliers .amount { color: var(--suppliers); text-shadow: 0 0 20px rgba(74,143,255,0.4); }
+  .label.reprise .name, .label.reprise .amount { color: var(--reprise); text-shadow: 0 0 24px rgba(0,240,255,0.6); }
+
+  /* CENTRAL VERDICT */
+  .verdict-center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    text-align: center;
+    z-index: 5;
+  }
+  .verdict-state {
+    font-size: 9px;
+    color: var(--muted);
+    letter-spacing: 0.4em;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .verdict-text {
+    font-size: 56px;
+    font-weight: 900;
+    letter-spacing: -0.04em;
+    line-height: 1;
+    color: var(--landlord);
+    text-shadow: 0 0 40px var(--landlord-glow);
+    transition: all 0.4s ease;
+    font-variant-numeric: tabular-nums;
+  }
+  .verdict-text.alive { color: var(--reprise); text-shadow: 0 0 40px var(--reprise-glow); }
+  .verdict-sub {
+    font-size: 11px;
+    color: var(--muted);
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    margin-top: 8px;
+  }
+
+  /* COMPARE MODE */
+  .stage.compare-mode .single-view { display: none; }
+  .stage.compare-mode .compare-view { display: block; }
+  .stage:not(.compare-mode) .compare-view { display: none; }
+  .compare-divider {
+    position: absolute;
+    top: 0; bottom: 0;
+    left: 50%;
+    width: 1px;
+    background: var(--grid);
+    z-index: 4;
+  }
+  .compare-label {
+    position: absolute;
+    top: 16px;
+    font-size: 9px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    z-index: 4;
+    padding: 6px 14px;
+    border: 1px solid var(--grid);
+    background: var(--bg);
+  }
+  .compare-label.left {
+    left: 24px;
+    color: var(--landlord);
+    border-color: var(--landlord);
+  }
+  .compare-label.right {
+    right: 24px;
+    color: var(--reprise);
+    border-color: var(--reprise);
+  }
+
+  /* CONTROL PANEL */
+  .controls {
+    border-top: 1px solid var(--grid);
+    background: var(--bg-2);
+    padding: 16px 24px;
+    display: grid;
+    grid-template-columns: 1.4fr 1fr 1fr 1fr 1fr;
+    gap: 24px;
+    align-items: center;
+  }
+  .slider-group {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .slider-label {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-size: 9px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .slider-value {
+    font-size: 18px;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+    font-variant-numeric: tabular-nums;
+  }
+  .slider-value.delta {
+    font-size: 11px;
+    color: var(--reprise);
+    margin-left: 8px;
+  }
+  .slider-value.delta.bad { color: var(--landlord); }
+  input[type=range] {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 4px;
+    background: linear-gradient(to right,
+      var(--landlord) 0%,
+      var(--landlord) calc(var(--slider-pct, 50%)),
+      var(--grid) calc(var(--slider-pct, 50%)),
+      var(--grid) 100%);
+    border-radius: 0;
+    outline: none;
+    cursor: pointer;
+  }
+  input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 16px;
+    height: 16px;
+    background: var(--ink);
+    border: 2px solid var(--bg);
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(255,255,255,0.4);
+  }
+  input[type=range]::-moz-range-thumb {
+    width: 16px;
+    height: 16px;
+    background: var(--ink);
+    border: 2px solid var(--bg);
+    border-radius: 50%;
+    cursor: pointer;
+  }
+
+  .ticker {
+    border-left: 1px solid var(--grid);
+    padding-left: 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .ticker-label {
+    font-size: 8px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .ticker-value {
+    font-size: 18px;
+    font-weight: 800;
+    letter-spacing: -0.01em;
+    font-variant-numeric: tabular-nums;
+    transition: color 0.3s;
+  }
+  .ticker-value.green { color: var(--revenue); }
+  .ticker-value.red { color: var(--landlord); }
+  .ticker-value.cyan { color: var(--reprise); }
+  .ticker-value.orange { color: var(--salaries); }
+  .ticker-sub {
+    font-size: 9px;
+    color: var(--muted);
+    letter-spacing: 0.1em;
+  }
+
+  /* TIMER */
+  .timer {
+    position: absolute;
+    top: 16px;
+    right: 24px;
+    z-index: 6;
+    text-align: right;
+  }
+  .timer-label {
+    font-size: 8px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .timer-value {
+    font-size: 12px;
+    color: var(--ink);
+    font-variant-numeric: tabular-nums;
+    margin-top: 2px;
+  }
+
+  /* SPEED CONTROL */
+  .speed-control {
+    position: absolute;
+    bottom: 16px;
+    left: 24px;
+    z-index: 6;
+    display: flex;
+    gap: 4px;
+  }
+  .speed-btn {
+    background: transparent;
+    border: 1px solid var(--grid);
+    color: var(--muted);
+    padding: 4px 10px;
+    font-family: inherit;
+    font-size: 9px;
+    letter-spacing: 0.15em;
+    cursor: pointer;
+  }
+  .speed-btn.active { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+  .speed-btn:hover:not(.active) { color: var(--ink); border-color: var(--muted); }
+
+  /* RESET */
+  .reset-btn {
+    position: absolute;
+    bottom: 16px;
+    right: 24px;
+    z-index: 6;
+    background: transparent;
+    border: 1px solid var(--grid);
+    color: var(--muted);
+    padding: 4px 10px;
+    font-family: inherit;
+    font-size: 9px;
+    letter-spacing: 0.15em;
+    cursor: pointer;
+    text-transform: uppercase;
+  }
+  .reset-btn:hover { color: var(--ink); border-color: var(--ink); }
+</style>
+</head>
+<body>
+
+<div class="app">
+
+  <header>
+    <div class="brand">
+      <span class="pulse"></span>
+      <span><strong>BLOODLINE</strong> · Brantham Partners</span>
+    </div>
+    <div class="deal-name">
+      SAS FITNESS LEVALLOIS<span>RJ 2025J00983 · TAE Nanterre · DLDO 21 mai 2026</span>
+    </div>
+    <div class="header-controls">
+      <div class="mode-toggle">
+        <button id="mode-single" class="active">Vue unique</button>
+        <button id="mode-compare">Avant / Après</button>
+      </div>
+    </div>
+  </header>
+
+  <div class="stage" id="stage">
+    <canvas id="canvas"></canvas>
+
+    <div class="labels" id="labels">
+      <!-- labels are positioned by JS -->
+    </div>
+
+    <div class="verdict-center" id="verdict">
+      <div class="verdict-state" id="verdict-state">Loyer / CA</div>
+      <div class="verdict-text" id="verdict-num">—</div>
+      <div class="verdict-sub" id="verdict-sub">—</div>
+    </div>
+
+    <div class="timer">
+      <div class="timer-label">Temps simulé</div>
+      <div class="timer-value" id="timer">000j 00h 00m</div>
+    </div>
+
+    <div class="speed-control">
+      <button class="speed-btn" data-speed="0.5">0.5×</button>
+      <button class="speed-btn active" data-speed="1">1×</button>
+      <button class="speed-btn" data-speed="3">3×</button>
+      <button class="speed-btn" data-speed="10">10×</button>
+      <button class="speed-btn" data-speed="50">50×</button>
+    </div>
+
+    <button class="reset-btn" id="reset">Reset compteurs</button>
+  </div>
+
+  <div class="controls">
+
+    <div class="slider-group">
+      <div class="slider-label">
+        <span>Loyer renégocié — annuel</span>
+        <span><span class="slider-value" id="rent-value">180 K€</span> <span class="slider-value delta bad" id="rent-delta">+0 %</span></span>
+      </div>
+      <input type="range" id="rent-slider" min="60" max="200" value="180" step="5">
+    </div>
+
+    <div class="ticker">
+      <div class="ticker-label">CA cumulé</div>
+      <div class="ticker-value green" id="t-ca">€0</div>
+      <div class="ticker-sub" id="t-ca-rate">€0 /jour</div>
+    </div>
+
+    <div class="ticker">
+      <div class="ticker-label">Au bailleur</div>
+      <div class="ticker-value red" id="t-rent">€0</div>
+      <div class="ticker-sub" id="t-rent-pct">0 % du CA</div>
+    </div>
+
+    <div class="ticker">
+      <div class="ticker-label">EBITDA / Cash repreneur</div>
+      <div class="ticker-value cyan" id="t-ebitda">€0</div>
+      <div class="ticker-sub" id="t-ebitda-rate">€0 /jour</div>
+    </div>
+
+    <div class="ticker">
+      <div class="ticker-label">IRR proj. 5 ans</div>
+      <div class="ticker-value cyan" id="t-irr">—</div>
+      <div class="ticker-sub" id="t-irr-sub">cash net 60 mois</div>
+    </div>
+
+  </div>
+
+</div>
+
+<script>
+(() => {
+  const canvas = document.getElementById('canvas');
+  const ctx = canvas.getContext('2d');
+  const labelsEl = document.getElementById('labels');
+  const stage = document.getElementById('stage');
+
+  let W = 0, H = 0, DPR = window.devicePixelRatio || 1;
+
+  function resize() {
+    const rect = stage.getBoundingClientRect();
+    W = rect.width;
+    H = rect.height;
+    canvas.width = W * DPR;
+    canvas.height = H * DPR;
+    canvas.style.width = W + 'px';
+    canvas.style.height = H + 'px';
+    ctx.setTransform(DPR, 0, 0, DPR, 0, 0);
+    rebuildLayout();
+  }
+  window.addEventListener('resize', resize);
+
+  /* === DATA MODEL ===
+     Tous les chiffres en K€ annuels. Base = projet liasse 2025
+     CA 349 K€ · loyer 180 · salaires+charges 50 · fisc/taxes 25 · fournisseurs/sous-traitance 100 · reste = repreneur
+  */
+  const BASE = {
+    revenue: 349,         // CA annuel
+    salaries: 50,         // salaires + charges
+    fisc: 25,             // impôts/taxes
+    suppliers: 100,       // achats + sous-traitance + autres charges externes hors loyer
+  };
+  let RENT = 180;         // contrôlé par slider
+  function reprise() {
+    return BASE.revenue - RENT - BASE.salaries - BASE.fisc - BASE.suppliers;
+  }
+  function rentPct() { return RENT / BASE.revenue; }
+
+  /* === LAYOUT — destination boxes === */
+  // Branches : ordre top → bottom à droite
+  const BRANCHES = [
+    { id: 'landlord', name: 'Bailleur',     getValue: () => RENT,            color: '#ff2a2a', glow: 'rgba(255,42,42,0.6)' },
+    { id: 'salaries', name: 'Salariés',     getValue: () => BASE.salaries,   color: '#ffb800', glow: 'rgba(255,184,0,0.5)' },
+    { id: 'fisc',     name: 'Fisc / Sociales', getValue: () => BASE.fisc,    color: '#b87cff', glow: 'rgba(184,124,255,0.5)' },
+    { id: 'suppliers',name: 'Fournisseurs',  getValue: () => BASE.suppliers, color: '#4a8fff', glow: 'rgba(74,143,255,0.5)' },
+    { id: 'reprise',  name: 'Repreneur',     getValue: () => reprise(),      color: '#00f0ff', glow: 'rgba(0,240,255,0.7)' },
+  ];
+
+  // Source position (left)
+  let source = { x: 0, y: 0 };
+  // Branch endpoints
+  let endpoints = [];
+
+  function rebuildLayout() {
+    source.x = W * 0.18;
+    source.y = H * 0.5;
+
+    const rightX = W * 0.78;
+    const topY = H * 0.18;
+    const bottomY = H * 0.82;
+    const step = (bottomY - topY) / (BRANCHES.length - 1);
+
+    endpoints = BRANCHES.map((b, i) => ({
+      id: b.id,
+      x: rightX,
+      y: topY + step * i,
+    }));
+
+    placeLabels();
+  }
+
+  /* === LABELS — DOM === */
+  function placeLabels() {
+    labelsEl.innerHTML = '';
+
+    // Source label
+    const totalDest = BRANCHES.reduce((s, b) => s + Math.max(0, b.getValue()), 0);
+    const srcDiv = document.createElement('div');
+    srcDiv.className = 'label revenue';
+    srcDiv.style.left = (source.x - 130) + 'px';
+    srcDiv.style.top = (source.y - 50) + 'px';
+    srcDiv.style.width = '120px';
+    srcDiv.style.textAlign = 'right';
+    srcDiv.innerHTML = `
+      <span class="title">Chiffre d'affaires</span>
+      <span class="name">REVENUE</span>
+      <span class="amount">${BASE.revenue} K€</span>
+      <span class="pct">100 % entrant</span>
+    `;
+    labelsEl.appendChild(srcDiv);
+
+    // Branch labels
+    BRANCHES.forEach((b, i) => {
+      const ep = endpoints[i];
+      const v = Math.max(0, b.getValue());
+      const pct = (v / BASE.revenue * 100);
+      const div = document.createElement('div');
+      div.className = 'label ' + b.id;
+      div.id = 'label-' + b.id;
+      div.style.left = (ep.x + 30) + 'px';
+      div.style.top = (ep.y - 36) + 'px';
+      div.style.width = '180px';
+      div.innerHTML = `
+        <span class="title">${b.id === 'reprise' ? 'Cash net repreneur' : 'Sortie'}</span>
+        <span class="name">${b.name}</span>
+        <span class="amount">${b.getValue() < 0 ? '−' : ''}${Math.abs(b.getValue())} K€</span>
+        <span class="pct">${pct.toFixed(1)} % du CA</span>
+      `;
+      labelsEl.appendChild(div);
+    });
+  }
+
+  function updateLabelsValuesOnly() {
+    BRANCHES.forEach((b) => {
+      const div = document.getElementById('label-' + b.id);
+      if (!div) return;
+      const v = b.getValue();
+      const pct = Math.abs(v) / BASE.revenue * 100;
+      div.querySelector('.amount').textContent = (v < 0 ? '−' : '') + Math.abs(v) + ' K€';
+      div.querySelector('.pct').textContent = pct.toFixed(1) + ' % du CA';
+    });
+  }
+
+  /* === PARTICLES === */
+  const particles = [];
+  // Particle = { branchIdx, t (0→1), speed, size }
+  // We continuously spawn particles per branch proportional to flow
+
+  function spawnParticles(dt) {
+    BRANCHES.forEach((b, i) => {
+      const v = Math.max(0, b.getValue());
+      // particles per second proportional to flow value
+      const rate = v * 0.6 * speedMultiplier; // tweakable
+      // poisson-ish spawn
+      const expected = rate * dt;
+      let n = Math.floor(expected) + (Math.random() < (expected - Math.floor(expected)) ? 1 : 0);
+      for (let k = 0; k < n; k++) {
+        particles.push({
+          bi: i,
+          t: 0,
+          speed: 0.18 + Math.random() * 0.18, // progress per second
+          jitter: (Math.random() - 0.5) * 14,
+          size: 1.4 + Math.random() * 1.6,
+          alpha: 0.55 + Math.random() * 0.4,
+        });
+      }
+    });
+  }
+
+  /* === BÉZIER PATH for each branch === */
+  function bezierPoint(p0, p1, p2, p3, t) {
+    const u = 1 - t;
+    const x = u*u*u*p0.x + 3*u*u*t*p1.x + 3*u*t*t*p2.x + t*t*t*p3.x;
+    const y = u*u*u*p0.y + 3*u*u*t*p1.y + 3*u*t*t*p2.y + t*t*t*p3.y;
+    return { x, y };
+  }
+
+  function pathPoint(branchIdx, t, jitterOff) {
+    const ep = endpoints[branchIdx];
+    const p0 = source;
+    const p3 = ep;
+    // control points to make a nice curve
+    const cx = (p0.x + p3.x) / 2;
+    const p1 = { x: cx, y: p0.y };
+    const p2 = { x: cx, y: p3.y };
+    const pt = bezierPoint(p0, p1, p2, p3, t);
+    // perpendicular jitter
+    if (jitterOff) {
+      // rough perpendicular: dy/dx tangent
+      // approximate: small offset only
+      pt.y += jitterOff * Math.sin(t * Math.PI);
+    }
+    return pt;
+  }
+
+  /* === DRAW === */
+  function drawBranches() {
+    BRANCHES.forEach((b, i) => {
+      const ep = endpoints[i];
+      const p0 = source;
+      const cx = (p0.x + ep.x) / 2;
+      // glow line
+      const v = Math.max(0, b.getValue());
+      const thickness = Math.max(0.5, Math.min(8, v * 0.05));
+
+      ctx.beginPath();
+      ctx.moveTo(p0.x, p0.y);
+      ctx.bezierCurveTo(cx, p0.y, cx, ep.y, ep.x, ep.y);
+      ctx.strokeStyle = b.color + '20';
+      ctx.lineWidth = thickness + 6;
+      ctx.shadowColor = b.color;
+      ctx.shadowBlur = 16;
+      ctx.stroke();
+      ctx.shadowBlur = 0;
+
+      ctx.beginPath();
+      ctx.moveTo(p0.x, p0.y);
+      ctx.bezierCurveTo(cx, p0.y, cx, ep.y, ep.x, ep.y);
+      ctx.strokeStyle = b.color + '40';
+      ctx.lineWidth = thickness;
+      ctx.stroke();
+    });
+  }
+
+  function drawSource() {
+    // pulsing core
+    const r = 18 + Math.sin(now * 0.004) * 3;
+    const grad = ctx.createRadialGradient(source.x, source.y, 0, source.x, source.y, r * 2.5);
+    grad.addColorStop(0, 'rgba(0,255,157,0.9)');
+    grad.addColorStop(0.4, 'rgba(0,255,157,0.4)');
+    grad.addColorStop(1, 'rgba(0,255,157,0)');
+    ctx.fillStyle = grad;
+    ctx.beginPath();
+    ctx.arc(source.x, source.y, r * 2.5, 0, Math.PI * 2);
+    ctx.fill();
+
+    ctx.fillStyle = '#00ff9d';
+    ctx.shadowColor = '#00ff9d';
+    ctx.shadowBlur = 24;
+    ctx.beginPath();
+    ctx.arc(source.x, source.y, 6, 0, Math.PI * 2);
+    ctx.fill();
+    ctx.shadowBlur = 0;
+  }
+
+  function drawDestinations() {
+    BRANCHES.forEach((b, i) => {
+      const ep = endpoints[i];
+      const v = Math.max(0, b.getValue());
+      const r = 8 + Math.min(14, v * 0.04);
+
+      // outer glow
+      const grad = ctx.createRadialGradient(ep.x, ep.y, 0, ep.x, ep.y, r * 3);
+      grad.addColorStop(0, b.glow);
+      grad.addColorStop(1, 'transparent');
+      ctx.fillStyle = grad;
+      ctx.beginPath();
+      ctx.arc(ep.x, ep.y, r * 3, 0, Math.PI * 2);
+      ctx.fill();
+
+      // core ring
+      ctx.strokeStyle = b.color;
+      ctx.lineWidth = 1.5;
+      ctx.shadowColor = b.color;
+      ctx.shadowBlur = 12;
+      ctx.beginPath();
+      ctx.arc(ep.x, ep.y, r, 0, Math.PI * 2);
+      ctx.stroke();
+      ctx.shadowBlur = 0;
+
+      // inner pulse
+      ctx.fillStyle = b.color + '30';
+      ctx.beginPath();
+      ctx.arc(ep.x, ep.y, r * 0.5, 0, Math.PI * 2);
+      ctx.fill();
+    });
+  }
+
+  function drawParticles(dt) {
+    for (let i = particles.length - 1; i >= 0; i--) {
+      const p = particles[i];
+      p.t += p.speed * dt * speedMultiplier;
+      if (p.t >= 1) {
+        // arrival flash
+        const ep = endpoints[p.bi];
+        const b = BRANCHES[p.bi];
+        flashes.push({ x: ep.x, y: ep.y, life: 0.4, color: b.color });
+        particles.splice(i, 1);
+        continue;
+      }
+      const pt = pathPoint(p.bi, p.t, p.jitter);
+      const b = BRANCHES[p.bi];
+      ctx.fillStyle = b.color;
+      ctx.shadowColor = b.color;
+      ctx.shadowBlur = 8;
+      ctx.globalAlpha = p.alpha;
+      ctx.beginPath();
+      ctx.arc(pt.x, pt.y, p.size, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.globalAlpha = 1;
+      ctx.shadowBlur = 0;
+    }
+  }
+
+  /* === FLASH on arrival === */
+  const flashes = [];
+  function drawFlashes(dt) {
+    for (let i = flashes.length - 1; i >= 0; i--) {
+      const f = flashes[i];
+      f.life -= dt;
+      if (f.life <= 0) { flashes.splice(i, 1); continue; }
+      const a = f.life / 0.4;
+      ctx.strokeStyle = f.color;
+      ctx.globalAlpha = a;
+      ctx.lineWidth = 1;
+      ctx.beginPath();
+      ctx.arc(f.x, f.y, (1 - a) * 28, 0, Math.PI * 2);
+      ctx.stroke();
+      ctx.globalAlpha = 1;
+    }
+  }
+
+  /* === COUNTERS === */
+  const cumul = {
+    ca: 0,        // €
+    rent: 0,
+    salaries: 0,
+    fisc: 0,
+    suppliers: 0,
+    reprise: 0,
+    days: 0,      // simulated days elapsed
+  };
+
+  function fmtEuro(v) {
+    if (Math.abs(v) >= 1e6) return (v/1e6).toFixed(2) + ' M€';
+    if (Math.abs(v) >= 1e3) return (v/1e3).toFixed(1) + ' K€';
+    return Math.round(v) + ' €';
+  }
+
+  function updateTickers() {
+    document.getElementById('t-ca').textContent = '€' + Math.round(cumul.ca).toLocaleString('fr-FR');
+    const dailyCA = (BASE.revenue * 1000) / 365;
+    document.getElementById('t-ca-rate').textContent = '€' + Math.round(dailyCA).toLocaleString('fr-FR') + ' / jour';
+
+    document.getElementById('t-rent').textContent = '€' + Math.round(cumul.rent).toLocaleString('fr-FR');
+    document.getElementById('t-rent-pct').textContent = (rentPct() * 100).toFixed(1) + ' % du CA';
+
+    const r = reprise();
+    const repriseColor = r >= 0 ? 'cyan' : 'red';
+    const ebEl = document.getElementById('t-ebitda');
+    ebEl.className = 'ticker-value ' + repriseColor;
+    ebEl.textContent = (r < 0 ? '−€' : '€') + Math.abs(Math.round(cumul.reprise)).toLocaleString('fr-FR');
+    const dailyR = (r * 1000) / 365;
+    document.getElementById('t-ebitda-rate').textContent = (dailyR < 0 ? '−€' : '€') + Math.abs(Math.round(dailyR)).toLocaleString('fr-FR') + ' / jour';
+
+    // IRR proxy : ticket repreneur = 100K€ apport, sortie = cash 5 ans
+    const apport = 50;            // K€ apport personnel hypothèse
+    const cash5y = r * 5;         // K€ cash cumulé sur 5 ans
+    let irr;
+    if (apport <= 0 || cash5y <= 0) {
+      irr = null;
+    } else {
+      const mult = (apport + cash5y) / apport;
+      irr = (Math.pow(mult, 1/5) - 1) * 100;
+    }
+    const irrEl = document.getElementById('t-irr');
+    if (irr === null) {
+      irrEl.textContent = '—';
+      irrEl.className = 'ticker-value red';
+    } else {
+      irrEl.textContent = irr.toFixed(1) + ' %';
+      irrEl.className = 'ticker-value ' + (irr >= 15 ? 'cyan' : irr >= 8 ? 'orange' : 'red');
+    }
+    document.getElementById('t-irr-sub').textContent = `apport 50K → cash 5y ${cash5y >= 0 ? '+' : '−'}${Math.abs(cash5y)}K`;
+
+    // Verdict center
+    const ratio = rentPct();
+    const verdNum = (ratio * 100).toFixed(1) + ' %';
+    const numEl = document.getElementById('verdict-num');
+    const subEl = document.getElementById('verdict-sub');
+    const stEl = document.getElementById('verdict-state');
+    numEl.textContent = verdNum;
+    if (ratio > 0.30) {
+      stEl.textContent = 'Loyer / CA — DANGER';
+      numEl.classList.remove('alive');
+      subEl.textContent = 'Le business saigne — repreneur perd';
+    } else if (ratio > 0.20) {
+      stEl.textContent = 'Loyer / CA — Tension';
+      numEl.classList.remove('alive');
+      subEl.textContent = 'Marge serrée — repreneur survit';
+    } else {
+      stEl.textContent = 'Loyer / CA — Sain';
+      numEl.classList.add('alive');
+      subEl.textContent = 'Le business respire — repreneur gagne';
+    }
+
+    // Timer
+    const totalDays = Math.floor(cumul.days);
+    const yrs = Math.floor(totalDays / 365);
+    const remDays = totalDays - yrs * 365;
+    const months = Math.floor(remDays / 30);
+    const dys = remDays - months * 30;
+    document.getElementById('timer').textContent =
+      (yrs > 0 ? `${yrs}a ` : '') + `${String(months).padStart(2,'0')}m ${String(dys).padStart(2,'0')}j`;
+  }
+
+  /* === SLIDER === */
+  const slider = document.getElementById('rent-slider');
+  const rentVal = document.getElementById('rent-value');
+  const rentDelta = document.getElementById('rent-delta');
+  function onSlider() {
+    RENT = parseInt(slider.value, 10);
+    rentVal.textContent = RENT + ' K€';
+    const delta = ((RENT - 180) / 180 * 100);
+    rentDelta.textContent = (delta >= 0 ? '+' : '') + delta.toFixed(0) + ' %';
+    rentDelta.classList.toggle('bad', delta >= 0);
+    // update slider gradient
+    const pct = ((RENT - 60) / (200 - 60)) * 100;
+    slider.style.setProperty('--slider-pct', pct + '%');
+    updateLabelsValuesOnly();
+  }
+  slider.addEventListener('input', onSlider);
+  onSlider();
+
+  /* === MODE TOGGLE === */
+  document.getElementById('mode-single').addEventListener('click', () => {
+    stage.classList.remove('compare-mode');
+    document.getElementById('mode-single').classList.add('active');
+    document.getElementById('mode-compare').classList.remove('active');
+  });
+  document.getElementById('mode-compare').addEventListener('click', () => {
+    stage.classList.add('compare-mode');
+    document.getElementById('mode-compare').classList.add('active');
+    document.getElementById('mode-single').classList.remove('active');
+  });
+
+  /* === SPEED === */
+  let speedMultiplier = 1;
+  document.querySelectorAll('.speed-btn').forEach(b => {
+    b.addEventListener('click', () => {
+      document.querySelectorAll('.speed-btn').forEach(x => x.classList.remove('active'));
+      b.classList.add('active');
+      speedMultiplier = parseFloat(b.dataset.speed);
+    });
+  });
+
+  /* === RESET === */
+  document.getElementById('reset').addEventListener('click', () => {
+    cumul.ca = 0; cumul.rent = 0; cumul.salaries = 0; cumul.fisc = 0; cumul.suppliers = 0; cumul.reprise = 0; cumul.days = 0;
+    particles.length = 0;
+    flashes.length = 0;
+  });
+
+  /* === MAIN LOOP === */
+  let last = performance.now();
+  let now = last;
+  function loop(t) {
+    now = t;
+    const dt = Math.min(0.1, (t - last) / 1000);
+    last = t;
+
+    // Background fade for trail effect
+    ctx.fillStyle = 'rgba(5, 6, 8, 0.28)';
+    ctx.fillRect(0, 0, W, H);
+
+    // Draw branches first
+    drawBranches();
+    // Source
+    drawSource();
+    // Particles
+    spawnParticles(dt);
+    drawParticles(dt);
+    // Destinations on top
+    drawDestinations();
+    // Flashes
+    drawFlashes(dt);
+
+    // Accumulate counters — convert annual to per-second
+    // 1 simulated year = 5 real seconds at speed=1 → factor = 1/5
+    const yearsPerSec = (1/5) * speedMultiplier;
+    cumul.days += yearsPerSec * 365 * dt;
+    cumul.ca += BASE.revenue * 1000 * yearsPerSec * dt;
+    cumul.rent += RENT * 1000 * yearsPerSec * dt;
+    cumul.salaries += BASE.salaries * 1000 * yearsPerSec * dt;
+    cumul.fisc += BASE.fisc * 1000 * yearsPerSec * dt;
+    cumul.suppliers += BASE.suppliers * 1000 * yearsPerSec * dt;
+    cumul.reprise += reprise() * 1000 * yearsPerSec * dt;
+
+    updateTickers();
+
+    requestAnimationFrame(loop);
+  }
+
+  resize();
+  requestAnimationFrame(loop);
+
+})();
+</script>
+
+</body>
+</html>
