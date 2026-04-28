@@ -46,3 +46,8 @@
 
 [[brantham/_MOC]]
 [[brantham/pipeline/QUEUE]]
+
+## Cycle 22:34
+
+- **Scrape AJ** : lancement...
+  - OK : 453 opportunites scrapees
