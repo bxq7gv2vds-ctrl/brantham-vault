@@ -1,0 +1,340 @@
+{
+  "agent": "sourcing",
+  "run_id": "sourcing-2026-04-28-1405",
+  "timestamp": "2026-04-28T12:05:36Z",
+  "status": "success",
+  "summary": "31 sites scrapes (24 OK, 6 erreurs/vides), 22 nouvelles opps RJ detectees, 22 notifs Telegram envoyees (msg_id 62-83). 3 ROUGES, 8 ORANGES.",
+  "data": {
+    "sites_scraped": 24,
+    "sites_total": 31,
+    "sites_errors": [
+      {
+        "site": "ADJE",
+        "url": "https://www.adje-aj.fr/proacedures",
+        "error": "404 Not Found"
+      },
+      {
+        "site": "BVP",
+        "url": "https://www.etude-bpv.fr/anonym/actif/search",
+        "error": "404 Not Found"
+      },
+      {
+        "site": "AJA",
+        "url": "https://www.dataroom-aja.fr/",
+        "error": "Page sans listings extractibles"
+      },
+      {
+        "site": "Asteren",
+        "url": "https://www.asteren.fr/biens/",
+        "error": "Pas de details RJ extractibles"
+      },
+      {
+        "site": "Maydaymag",
+        "url": "https://www.maydaymag.fr/",
+        "error": "Listings non extractibles"
+      },
+      {
+        "site": "FHBX",
+        "url": "https://dataroom.fhbx.eu/anonym/reprise/search",
+        "error": "Page vide / SPA"
+      }
+    ],
+    "sites_empty": [
+      {
+        "site": "Adjust",
+        "url": "https://www.adjust-aj.com/anonym/reprise/search"
+      },
+      {
+        "site": "AJ Partenaires",
+        "url": "https://ajpartenaires.fr/annonces/"
+      },
+      {
+        "site": "Cardon Bortolus",
+        "url": "https://www.cardon-bortolus.fr/anonym/actif/search"
+      },
+      {
+        "site": "KSG",
+        "url": "https://www.ksg-aj.fr/anonym/reprise/search"
+      },
+      {
+        "site": "MM AJ",
+        "url": "https://www.mm-aj.com/anonym/reprise/search"
+      }
+    ],
+    "new_opportunities": 22,
+    "notifie": [
+      {
+        "slug": "it-news-paris-2026",
+        "msg_id": 62,
+        "ca": null,
+        "deadline": "2026-05-21",
+        "days_left": 23,
+        "alerte": null
+      },
+      {
+        "slug": "yeswedev-rennes-2026",
+        "msg_id": 63,
+        "ca": null,
+        "deadline": "2026-05-06",
+        "days_left": 8,
+        "alerte": "ORANGE"
+      },
+      {
+        "slug": "cangia-rennes-2026",
+        "msg_id": 64,
+        "ca": null,
+        "deadline": "2026-05-28",
+        "days_left": 30,
+        "alerte": null
+      },
+      {
+        "slug": "kangourou-creches-rennes-2026",
+        "msg_id": 65,
+        "ca": null,
+        "deadline": "2026-05-12",
+        "days_left": 14,
+        "alerte": null
+      },
+      {
+        "slug": "macabane-creches-rennes-2026",
+        "msg_id": 66,
+        "ca": null,
+        "deadline": "2026-05-12",
+        "days_left": 14,
+        "alerte": null
+      },
+      {
+        "slug": "forest-marseille-2026",
+        "msg_id": 67,
+        "ca": 1506000,
+        "deadline": "2026-05-18",
+        "days_left": 20,
+        "alerte": null
+      },
+      {
+        "slug": "falt-eguilles-2026",
+        "msg_id": 68,
+        "ca": 281000,
+        "deadline": "2026-04-30",
+        "days_left": 2,
+        "alerte": "ROUGE"
+      },
+      {
+        "slug": "pharmacie-jaures-marseille-2026",
+        "msg_id": 69,
+        "ca": 1300000,
+        "deadline": "2026-05-04",
+        "days_left": 6,
+        "alerte": "ORANGE"
+      },
+      {
+        "slug": "sico-toulouse-2026",
+        "msg_id": 70,
+        "ca": 809000,
+        "deadline": "2026-05-07",
+        "days_left": 9,
+        "alerte": "ORANGE"
+      },
+      {
+        "slug": "jouets-bordeaux-2026",
+        "msg_id": 71,
+        "ca": 1215000,
+        "deadline": "2026-05-07",
+        "days_left": 9,
+        "alerte": "ORANGE"
+      },
+      {
+        "slug": "capalliance-sisteron-2026",
+        "msg_id": 72,
+        "ca": 806000,
+        "deadline": "2026-04-30",
+        "days_left": 2,
+        "alerte": "ROUGE"
+      },
+      {
+        "slug": "pharmacie-sainteanne-marseille-2026",
+        "msg_id": 73,
+        "ca": 768000,
+        "deadline": "2026-04-29",
+        "days_left": 1,
+        "alerte": "ROUGE"
+      },
+      {
+        "slug": "lacantine-creteil-2026",
+        "msg_id": 74,
+        "ca": null,
+        "deadline": "2026-05-04",
+        "days_left": 6,
+        "alerte": "ORANGE"
+      },
+      {
+        "slug": "plumecane-nord-2026",
+        "msg_id": 75,
+        "ca": null,
+        "deadline": "2026-05-04",
+        "days_left": 6,
+        "alerte": "ORANGE"
+      },
+      {
+        "slug": "debosstyle-alsace-2026",
+        "msg_id": 76,
+        "ca": null,
+        "deadline": "2026-05-18",
+        "days_left": 20,
+        "alerte": null
+      },
+      {
+        "slug": "seralu-vendee-2026",
+        "msg_id": 77,
+        "ca": null,
+        "deadline": "2026-05-18",
+        "days_left": 20,
+        "alerte": null
+      },
+      {
+        "slug": "teixeira-yvelines-2026",
+        "msg_id": 78,
+        "ca": null,
+        "deadline": "2026-05-26",
+        "days_left": 28,
+        "alerte": null
+      },
+      {
+        "slug": "beaute-paris8-2026",
+        "msg_id": 79,
+        "ca": 162000,
+        "deadline": "2026-05-05",
+        "days_left": 7,
+        "alerte": "ORANGE"
+      },
+      {
+        "slug": "smilair-yvelines-2026",
+        "msg_id": 80,
+        "ca": 1500000,
+        "deadline": "2026-05-05",
+        "days_left": 7,
+        "alerte": "ORANGE"
+      },
+      {
+        "slug": "streetwear-paris-2026",
+        "msg_id": 81,
+        "ca": 4160000,
+        "deadline": "2026-05-18",
+        "days_left": 20,
+        "alerte": null
+      },
+      {
+        "slug": "atelierparticulier-fashion-2026",
+        "msg_id": 82,
+        "ca": null,
+        "deadline": "2026-05-21",
+        "days_left": 23,
+        "alerte": null
+      },
+      {
+        "slug": "fe-feed-aisne-2026",
+        "msg_id": 83,
+        "ca": null,
+        "deadline": "2026-05-11",
+        "days_left": 13,
+        "alerte": null
+      }
+    ],
+    "go": [],
+    "watch": [],
+    "pass_count": 0,
+    "lj_ignored": 5,
+    "sv_ignored": 1,
+    "doublons_ignored": 19,
+    "deadlines_passed": 32,
+    "urgent_alerts": [
+      {
+        "slug": "yeswedev-rennes-2026",
+        "deadline": "2026-05-06",
+        "days_left": 8,
+        "level": "ORANGE"
+      },
+      {
+        "slug": "falt-eguilles-2026",
+        "deadline": "2026-04-30",
+        "days_left": 2,
+        "level": "ROUGE"
+      },
+      {
+        "slug": "pharmacie-jaures-marseille-2026",
+        "deadline": "2026-05-04",
+        "days_left": 6,
+        "level": "ORANGE"
+      },
+      {
+        "slug": "sico-toulouse-2026",
+        "deadline": "2026-05-07",
+        "days_left": 9,
+        "level": "ORANGE"
+      },
+      {
+        "slug": "jouets-bordeaux-2026",
+        "deadline": "2026-05-07",
+        "days_left": 9,
+        "level": "ORANGE"
+      },
+      {
+        "slug": "capalliance-sisteron-2026",
+        "deadline": "2026-04-30",
+        "days_left": 2,
+        "level": "ROUGE"
+      },
+      {
+        "slug": "pharmacie-sainteanne-marseille-2026",
+        "deadline": "2026-04-29",
+        "days_left": 1,
+        "level": "ROUGE"
+      },
+      {
+        "slug": "lacantine-creteil-2026",
+        "deadline": "2026-05-04",
+        "days_left": 6,
+        "level": "ORANGE"
+      },
+      {
+        "slug": "plumecane-nord-2026",
+        "deadline": "2026-05-04",
+        "days_left": 6,
+        "level": "ORANGE"
+      },
+      {
+        "slug": "beaute-paris8-2026",
+        "deadline": "2026-05-05",
+        "days_left": 7,
+        "level": "ORANGE"
+      },
+      {
+        "slug": "smilair-yvelines-2026",
+        "deadline": "2026-05-05",
+        "days_left": 7,
+        "level": "ORANGE"
+      }
+    ]
+  },
+  "actions_taken": [
+    "Scraped 31 AJ websites (24 OK, 6 erreurs/vides)",
+    "Filtered LJ/SV/cession-actifs/doublons/deadlines passees (5 LJ, 1 SV, 19 doublons, 32 deadlines passees)",
+    "Sent 22 Telegram notifications with inline GO/NO-GO buttons (msg_id 62-83)",
+    "Appended 22 entries to OPPORTUNITIES.md with statut=notifie"
+  ],
+  "pending_for_human": [
+    "Paul tranche GO/NO-GO sur les 22 notifs Telegram (msg_id 62-83)",
+    "URGENT : 3 deals deadline <=3j (pharmacie-sainteanne 1j, falt-eguilles 2j, capalliance-sisteron 2j)"
+  ],
+  "triggered_next": [
+    "deal-analysis (auto-trigger sur clic GO Telegram)"
+  ],
+  "errors": [
+    "ADJE: 404 Not Found",
+    "BVP: 404 Not Found",
+    "AJA: page sans listings extractibles",
+    "Asteren: pas de details RJ extractibles",
+    "Maydaymag: listings non extractibles",
+    "FHBX: page vide / SPA"
+  ]
+}

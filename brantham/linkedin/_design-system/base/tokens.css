@@ -24,6 +24,9 @@
   --navy:         #001F54;
   --gold:         #C8B97A;
 
+  /* Accent dynamique : bordeaux en light, or en dark */
+  --accent:       #7A1D17;
+
   /* Typo */
   --serif: 'Source Serif 4', Georgia, 'Times New Roman', serif;
   --mono:  'DM Mono', 'JetBrains Mono', ui-monospace, monospace;
@@ -69,7 +72,10 @@ body {
   --ink-soft: var(--soft-dark);
   --ink-mute: var(--mute-dark);
   --rule: var(--rule-dark);
+  --accent: #C8B97A;
 }
+/* Logo : noir profond sur cream, blanc sur navy (couleur source = navy) */
+.post .brand img { filter: brightness(0); }
 .post.dark .brand img { filter: brightness(0) invert(1); }
 .post.dark .stamp { border-color: var(--paper-dark); color: var(--paper-dark); }
 .post.dark .stamp .x { color: var(--gold); }

@@ -1,8 +1,9 @@
-"""Render all HTML templates to PNG (retina @2x).
+"""Render all HTML templates to PNG (retina @2x) — light + navy variants.
 
 Usage:
-  python3 render.py                # tous formats
+  python3 render.py                # tous formats, light + navy
   python3 render.py 1080x1080      # un seul format
+  python3 render.py --light-only   # skipper navy
 """
 import asyncio
 import sys
@@ -18,7 +19,20 @@ FORMATS = {
     "1920x1080": (1920, 1080),
 }
 
-async def render_format(browser, fmt, w, h):
+async def render_one(page, html_file, dark=False):
+    await page.goto(f"file://{html_file}", wait_until="networkidle")
+    if dark:
+        await page.evaluate("document.querySelector('.post').classList.add('dark')")
+        await page.wait_for_timeout(700)
+        suffix = "-navy"
+    else:
+        await page.wait_for_timeout(700)
+        suffix = ""
+    out = html_file.with_name(html_file.stem + suffix + ".png")
+    await page.locator(".post").first.screenshot(path=str(out))
+    print(f"  rendered {html_file.parent.name}/{out.name}")
+
+async def render_format(browser, fmt, w, h, light_only=False):
     folder = ROOT / f"templates-{fmt}"
     if not folder.exists():
         return
@@ -31,22 +45,24 @@ async def render_format(browser, fmt, w, h):
     )
     page = await ctx.new_page()
     for f in files:
-        await page.goto(f"file://{f}", wait_until="networkidle")
-        await page.wait_for_timeout(900)
-        out = f.with_suffix(".png")
-        await page.locator(".post").first.screenshot(path=str(out))
-        print(f"  rendered {fmt}/{out.name}")
+        await render_one(page, f, dark=False)
+        if not light_only:
+            await render_one(page, f, dark=True)
     await ctx.close()
 
 async def main():
-    target = sys.argv[1] if len(sys.argv) > 1 else None
+    args = sys.argv[1:]
+    light_only = "--light-only" in args
+    args = [a for a in args if not a.startswith("--")]
+    target = args[0] if args else None
+
     async with async_playwright() as p:
         browser = await p.chromium.launch()
         for fmt, (w, h) in FORMATS.items():
             if target and target != fmt:
                 continue
             print(f"[{fmt}]")
-            await render_format(browser, fmt, w, h)
+            await render_format(browser, fmt, w, h, light_only=light_only)
         await browser.close()
 
 asyncio.run(main())
