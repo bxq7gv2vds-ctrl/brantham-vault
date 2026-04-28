@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>trend-line — Brantham</title>
+<link rel="stylesheet" href="../base/tokens.css">
+<link rel="stylesheet" href="../base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { padding-top: 36px; }
+  .post .h1 { font-size: 38px; line-height: 1.06; max-width: 720px; }
+  .post .lede { margin-top: 14px; max-width: 660px; font-size: 14px; }
+
+  .trend {
+    margin-top: 28px;
+    border-top: 2px solid var(--ink);
+    padding-top: 24px;
+  }
+  .trend-meta {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+    padding-bottom: 18px;
+    border-bottom: 1px solid var(--ink);
+  }
+  .trend-meta .cell .k {
+    font-family: var(--mono);
+    font-size: 9.5px;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    margin-bottom: 6px;
+  }
+  .trend-meta .cell .v {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 32px;
+    line-height: 1;
+    color: var(--ink);
+    font-weight: 400;
+    letter-spacing: -0.02em;
+  }
+  .trend-meta .cell.delta .v { color: var(--accent); }
+  .trend-meta .cell .h { display: block; font-family: var(--mono); font-size: 10px; color: var(--ink-mute); margin-top: 6px; letter-spacing: 0.08em; }
+
+  .trend-svg {
+    margin: 24px 0 0;
+    width: 100%;
+    height: 280px;
+    display: block;
+  }
+  .trend-svg .grid { stroke: var(--rule); stroke-width: 1; stroke-dasharray: 2,4; }
+  .trend-svg .axis { stroke: var(--ink); stroke-width: 1.5; }
+  .trend-svg .area { fill: var(--accent); fill-opacity: 0.08; }
+  .trend-svg .line { fill: none; stroke: var(--accent); stroke-width: 2.5; stroke-linejoin: round; stroke-linecap: round; }
+  .trend-svg .dot { fill: var(--paper); stroke: var(--accent); stroke-width: 2; }
+  .trend-svg .dot.last { fill: var(--accent); stroke: var(--accent); }
+  .trend-svg .glabel { font-family: var(--mono); font-size: 11px; fill: var(--ink-mute); letter-spacing: 0.12em; }
+  .trend-svg .vlabel { font-family: var(--mono); font-size: 11px; fill: var(--ink); letter-spacing: 0.04em; }
+  .trend-svg .vlabel.peak { fill: var(--accent); font-weight: 600; }
+  .trend-svg .anno { font-family: var(--serif); font-style: italic; font-size: 13px; fill: var(--ink-soft); }
+
+  .trend-axis {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    margin-top: 8px;
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.16em;
+    color: var(--ink-mute);
+    text-transform: uppercase;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°XX/2026</div>
+  <div class="stamp">Tendance<b>N°XX·2026</b><span class="x">04 · Avril</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div class="kicker">Défaillances · Tendance 2019 → 2025</div>
+    <h1 class="h1">Sept ans de défaillances&nbsp;: <span class="it">la décrue n'a jamais eu lieu.</span></h1>
+    <p class="lede">Volume annuel de procédures collectives ouvertes en France. La parenthèse Covid masque un trend de fond reparti à la hausse depuis 2022.</p>
+
+    <div class="trend">
+      <div class="trend-meta">
+        <div class="cell">
+          <div class="k">Plus haut · 7 ans</div>
+          <div class="v">67&thinsp;830</div>
+          <div class="h">2025</div>
+        </div>
+        <div class="cell">
+          <div class="k">Plus bas · 7 ans</div>
+          <div class="v">28&thinsp;370</div>
+          <div class="h">2021 · effet PGE</div>
+        </div>
+        <div class="cell delta">
+          <div class="k">Variation · 2022 → 2025</div>
+          <div class="v">+138&nbsp;%</div>
+          <div class="h">Trend de fond</div>
+        </div>
+      </div>
+
+      <svg class="trend-svg" viewBox="0 0 900 260" preserveAspectRatio="none">
+        <line class="grid" x1="0" y1="50"  x2="900" y2="50"/>
+        <line class="grid" x1="0" y1="110" x2="900" y2="110"/>
+        <line class="grid" x1="0" y1="170" x2="900" y2="170"/>
+        <line class="axis" x1="0" y1="230" x2="900" y2="230"/>
+
+        <path class="area"
+          d="M 60,100 L 195,82 L 330,210 L 465,200 L 600,150 L 735,90 L 870,38 L 870,230 L 60,230 Z"/>
+        <path class="line"
+          d="M 60,100 L 195,82 L 330,210 L 465,200 L 600,150 L 735,90 L 870,38"/>
+
+        <circle class="dot" cx="60"  cy="100" r="5"/>
+        <circle class="dot" cx="195" cy="82"  r="5"/>
+        <circle class="dot" cx="330" cy="210" r="5"/>
+        <circle class="dot" cx="465" cy="200" r="5"/>
+        <circle class="dot" cx="600" cy="150" r="5"/>
+        <circle class="dot" cx="735" cy="90"  r="5"/>
+        <circle class="dot last" cx="870" cy="38" r="6"/>
+
+        <text class="vlabel" x="60"  y="84"  text-anchor="middle">52 100</text>
+        <text class="vlabel" x="195" y="66"  text-anchor="middle">57 800</text>
+        <text class="vlabel" x="330" y="226" text-anchor="middle">28 370</text>
+        <text class="vlabel" x="465" y="216" text-anchor="middle">29 500</text>
+        <text class="vlabel" x="600" y="134" text-anchor="middle">42 500</text>
+        <text class="vlabel" x="735" y="74"  text-anchor="middle">56 800</text>
+        <text class="vlabel peak" x="850" y="22" text-anchor="end">67 830</text>
+
+        <text class="anno" x="330" y="248" text-anchor="middle">— parenthèse PGE —</text>
+      </svg>
+
+      <div class="trend-axis">
+        <div>2019</div>
+        <div>2020</div>
+        <div>2021</div>
+        <div>2022</div>
+        <div>2023</div>
+        <div>2024</div>
+        <div>2025</div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Source</b> · INSEE · Banque de France</div><div><b>Voir</b> · branthampartners.fr</div></div>
+  </footer>
+</div>
+
+</body>
+</html>

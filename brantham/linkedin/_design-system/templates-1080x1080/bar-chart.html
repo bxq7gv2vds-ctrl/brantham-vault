@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>bar-chart — Brantham</title>
+<link rel="stylesheet" href="../base/tokens.css">
+<link rel="stylesheet" href="../base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { padding-top: 40px; }
+  .post .h1 { font-size: 40px; line-height: 1.06; max-width: 720px; }
+  .post .lede { margin-top: 14px; max-width: 660px; font-size: 14px; }
+
+  .chart {
+    margin-top: 28px;
+    border-top: 2px solid var(--ink);
+    padding-top: 8px;
+  }
+  .chart-head {
+    display: grid;
+    grid-template-columns: 60px 1fr 80px;
+    column-gap: 18px;
+    padding: 6px 0;
+    border-bottom: 1px solid var(--ink);
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+  }
+  .chart-head > *:last-child { text-align: right; }
+
+  .bar-row {
+    display: grid;
+    grid-template-columns: 60px 1fr 80px;
+    column-gap: 18px;
+    align-items: center;
+    padding: 11px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .bar-row:last-child { border-bottom: 0; }
+  .bar-row .num {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    color: var(--ink);
+    font-weight: 500;
+  }
+  .bar-row .bar-wrap {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    height: 24px;
+  }
+  .bar-row .bar {
+    height: 18px;
+    background: var(--accent);
+    flex: 0 0 auto;
+    position: relative;
+  }
+  .bar-row .label {
+    font-family: var(--serif);
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--ink);
+    letter-spacing: -0.005em;
+    white-space: nowrap;
+  }
+  .bar-row .val {
+    font-family: var(--mono);
+    font-size: 13px;
+    text-align: right;
+    color: var(--ink);
+    font-weight: 500;
+  }
+  .bar-row .val .pct { color: var(--ink-mute); font-size: 11px; margin-left: 4px; }
+
+  .scale {
+    display: grid;
+    grid-template-columns: 60px 1fr 80px;
+    column-gap: 18px;
+    margin-top: 6px;
+    border-top: 1px solid var(--ink);
+    padding-top: 6px;
+  }
+  .scale .ticks {
+    display: flex;
+    justify-content: space-between;
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.18em;
+    color: var(--ink-mute);
+    text-transform: uppercase;
+  }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°XX/2026</div>
+  <div class="stamp">Classement<b>N°XX·2026</b><span class="x">04 · Avril</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div class="kicker">Défaillances · Top secteurs France 2025</div>
+    <h1 class="h1">Huit secteurs concentrent <span class="it">85 %</span> des défaillances.</h1>
+    <p class="lede">Volume de procédures collectives ouvertes en 2025, par secteur d'activité. Échelle proportionnelle.</p>
+
+    <div class="chart">
+      <div class="chart-head">
+        <div>Réf.</div>
+        <div>Secteur · part du volume</div>
+        <div>Dossiers</div>
+      </div>
+
+      <div class="bar-row">
+        <div class="num">FR-01</div>
+        <div class="bar-wrap"><div class="bar" style="width: 100%"></div><span class="label">Commerce de détail</span></div>
+        <div class="val">14&nbsp;264<span class="pct">21&nbsp;%</span></div>
+      </div>
+      <div class="bar-row">
+        <div class="num">FR-02</div>
+        <div class="bar-wrap"><div class="bar" style="width: 86%"></div><span class="label">Construction · BTP</span></div>
+        <div class="val">12&nbsp;209<span class="pct">18&nbsp;%</span></div>
+      </div>
+      <div class="bar-row">
+        <div class="num">FR-03</div>
+        <div class="bar-wrap"><div class="bar" style="width: 62%"></div><span class="label">Restauration · hôtellerie</span></div>
+        <div class="val">8&nbsp;814<span class="pct">13&nbsp;%</span></div>
+      </div>
+      <div class="bar-row">
+        <div class="num">FR-04</div>
+        <div class="bar-wrap"><div class="bar" style="width: 52%"></div><span class="label">Services aux entreprises</span></div>
+        <div class="val">7&nbsp;461<span class="pct">11&nbsp;%</span></div>
+      </div>
+      <div class="bar-row">
+        <div class="num">FR-05</div>
+        <div class="bar-wrap"><div class="bar" style="width: 43%"></div><span class="label">Industrie manufacturière</span></div>
+        <div class="val">6&nbsp;105<span class="pct">9&nbsp;%</span></div>
+      </div>
+      <div class="bar-row">
+        <div class="num">FR-06</div>
+        <div class="bar-wrap"><div class="bar" style="width: 33%"></div><span class="label">Transport · logistique</span></div>
+        <div class="val">4&nbsp;748<span class="pct">7&nbsp;%</span></div>
+      </div>
+      <div class="bar-row">
+        <div class="num">FR-07</div>
+        <div class="bar-wrap"><div class="bar" style="width: 24%"></div><span class="label">Soins · santé</span></div>
+        <div class="val">3&nbsp;391<span class="pct">5&nbsp;%</span></div>
+      </div>
+      <div class="bar-row">
+        <div class="num">FR-08</div>
+        <div class="bar-wrap"><div class="bar" style="width: 14%"></div><span class="label">Immobilier · agences</span></div>
+        <div class="val">2&nbsp;035<span class="pct">3&nbsp;%</span></div>
+      </div>
+
+      <div class="scale">
+        <div></div>
+        <div class="ticks"><span>0</span><span>3 500</span><span>7 000</span><span>10 500</span><span>14 000</span></div>
+        <div></div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Source</b> · INSEE · Banque de France</div><div><b>Voir</b> · branthampartners.fr</div></div>
+  </footer>
+</div>
+
+</body>
+</html>

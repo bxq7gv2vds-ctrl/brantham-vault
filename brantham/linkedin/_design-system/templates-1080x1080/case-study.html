@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>case-study — Brantham</title>
+<link rel="stylesheet" href="../base/tokens.css">
+<link rel="stylesheet" href="../base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { padding-top: 36px; }
+  .post .h1 { font-size: 38px; line-height: 1.06; max-width: 740px; }
+  .post .lede { margin-top: 14px; max-width: 660px; font-size: 14px; }
+
+  .case {
+    margin-top: 28px;
+    border-top: 2px solid var(--ink);
+    padding-top: 22px;
+    display: grid;
+    grid-template-columns: 1.05fr 1fr;
+    column-gap: 44px;
+    align-items: start;
+  }
+
+  .case-narrative .step {
+    padding: 14px 0;
+    border-bottom: 1px solid var(--rule);
+    display: grid;
+    grid-template-columns: 80px 1fr;
+    column-gap: 16px;
+    align-items: baseline;
+  }
+  .case-narrative .step:last-child { border-bottom: 0; }
+  .case-narrative .step .when {
+    font-family: var(--mono);
+    font-size: 10.5px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 500;
+  }
+  .case-narrative .step .what {
+    font-family: var(--serif);
+    font-size: 16px;
+    line-height: 1.45;
+    color: var(--ink);
+    font-weight: 500;
+  }
+  .case-narrative .step .what .meta {
+    display: block;
+    font-style: italic;
+    font-weight: 400;
+    color: var(--ink-mute);
+    margin-top: 3px;
+    font-size: 13px;
+    line-height: 1.4;
+  }
+
+  .case-card {
+    background: rgba(122,29,23,0.04);
+    border: 1px solid var(--rule);
+    padding: 24px;
+    position: relative;
+  }
+  .post.dark .case-card { background: rgba(200,185,122,0.06); }
+  .case-card::before {
+    content: "Cas A";
+    position: absolute;
+    top: -10px;
+    left: 18px;
+    background: var(--paper);
+    padding: 0 8px;
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 500;
+  }
+  .post.dark .case-card::before { background: var(--ink-dark); }
+
+  .case-card .field {
+    display: grid;
+    grid-template-columns: 110px 1fr;
+    column-gap: 12px;
+    padding: 10px 0;
+    border-bottom: 1px dashed var(--rule);
+    align-items: baseline;
+  }
+  .case-card .field:last-of-type { border-bottom: 0; }
+  .case-card .field .k {
+    font-family: var(--mono);
+    font-size: 9.5px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+  }
+  .case-card .field .v {
+    font-family: var(--serif);
+    font-size: 15px;
+    color: var(--ink);
+    font-weight: 500;
+    line-height: 1.4;
+  }
+  .case-card .field .v.acc { color: var(--accent); font-style: italic; font-size: 18px; font-weight: 400; }
+
+  .case-card .verdict {
+    margin-top: 14px;
+    padding-top: 14px;
+    border-top: 2px solid var(--ink);
+    font-family: var(--serif);
+    font-size: 16px;
+    line-height: 1.45;
+    color: var(--ink);
+    font-style: italic;
+  }
+  .case-card .verdict b { font-style: normal; color: var(--accent); font-weight: 600; }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°XX/2026</div>
+  <div class="stamp">Cas pratique<b>N°XX·2026</b><span class="x">04 · Avril</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div class="kicker">Reprise distressed · Cas anonymisé</div>
+    <h1 class="h1">PME mécanique, 12 salariés. <span class="it">Cession bouclée en 28 jours.</span></h1>
+    <p class="lede">Une chronologie réelle, anonymisée. Trois jalons, trois décisions, un dossier qui passe.</p>
+
+    <div class="case">
+      <div class="case-narrative">
+        <div class="step">
+          <div class="when">J · 0</div>
+          <div class="what">Annonce BODACC <span class="meta">Carnet de commandes solide, mais URSSAF impayée.</span></div>
+        </div>
+        <div class="step">
+          <div class="when">J + 5</div>
+          <div class="what">NDA signé · LOI déposée <span class="meta">Audit comptable express en 72 heures, focus sur le BFR.</span></div>
+        </div>
+        <div class="step">
+          <div class="when">J + 18</div>
+          <div class="what">Offre ferme · 12 emplois préservés <span class="meta">Périmètre réduit aux deux ateliers rentables.</span></div>
+        </div>
+        <div class="step">
+          <div class="when">J + 28</div>
+          <div class="what">Audience · arbitrage favorable <span class="meta">Plan de continuation des emplois validé par le tribunal.</span></div>
+        </div>
+      </div>
+
+      <aside class="case-card">
+        <div class="field"><div class="k">Secteur</div><div class="v">Mécanique de précision</div></div>
+        <div class="field"><div class="k">CA réf.</div><div class="v">2,4 M€</div></div>
+        <div class="field"><div class="k">Effectif</div><div class="v">12 ETP</div></div>
+        <div class="field"><div class="k">Procédure</div><div class="v">Plan de cession (RJ)</div></div>
+        <div class="field"><div class="k">Prix tribunal</div><div class="v acc">1 €</div></div>
+        <div class="field"><div class="k">Vrai coût</div><div class="v acc">485 k€</div></div>
+        <div class="field"><div class="k">Délai total</div><div class="v">28 jours</div></div>
+
+        <p class="verdict">Le dossier passe parce que le repreneur <b>arrive le J+5 avec sa LOI</b>, pas le J+18 avec ses questions.</p>
+      </aside>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Méthode</b> · cas interne · 04.2026</div><div><b>Voir</b> · branthampartners.fr</div></div>
+  </footer>
+</div>
+
+</body>
+</html>
