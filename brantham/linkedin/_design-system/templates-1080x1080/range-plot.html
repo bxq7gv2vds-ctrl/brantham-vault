@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>range-plot — Brantham</title>
+<link rel="stylesheet" href="../base/tokens.css">
+<link rel="stylesheet" href="../base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { padding-top: 36px; }
+  .post .h1 { font-size: 38px; line-height: 1.06; max-width: 720px; }
+  .post .lede { margin-top: 14px; max-width: 660px; font-size: 14px; }
+
+  .legend {
+    display: flex;
+    gap: 28px;
+    margin-top: 22px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid var(--ink);
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink);
+  }
+  .legend .pill {
+    display: inline-block;
+    width: 26px; height: 6px;
+    margin-right: 8px;
+    vertical-align: middle;
+    background: var(--accent);
+  }
+  .legend .dot {
+    display: inline-block;
+    width: 10px; height: 10px;
+    margin-right: 8px;
+    vertical-align: middle;
+    background: var(--ink);
+    border-radius: 50%;
+  }
+
+  .rng {
+    margin-top: 0;
+  }
+  .rng-head {
+    display: grid;
+    grid-template-columns: 60px 200px 1fr 100px;
+    column-gap: 18px;
+    padding: 6px 0;
+    border-bottom: 1px solid var(--ink);
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+  }
+  .rng-head > *:last-child { text-align: right; }
+
+  .rng-row {
+    display: grid;
+    grid-template-columns: 60px 200px 1fr 100px;
+    column-gap: 18px;
+    align-items: center;
+    padding: 16px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .rng-row:last-child { border-bottom: 0; }
+  .rng-row .num {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    color: var(--ink);
+    font-weight: 500;
+  }
+  .rng-row .label {
+    font-family: var(--serif);
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--ink);
+  }
+  .rng-row .track {
+    position: relative;
+    height: 22px;
+  }
+  .rng-row .track-line {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: var(--rule);
+    transform: translateY(-50%);
+  }
+  .rng-row .range-bar {
+    position: absolute;
+    top: 50%;
+    height: 6px;
+    background: var(--accent);
+    transform: translateY(-50%);
+  }
+  .rng-row .price-dot {
+    position: absolute;
+    top: 50%;
+    width: 10px;
+    height: 10px;
+    background: var(--ink);
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .rng-row .marker-min, .rng-row .marker-max {
+    position: absolute;
+    top: -4px;
+    bottom: -4px;
+    width: 1.5px;
+    background: var(--accent);
+  }
+  .rng-row .ratio {
+    font-family: var(--mono);
+    font-size: 13px;
+    text-align: right;
+    color: var(--ink);
+    font-weight: 500;
+  }
+  .rng-row .ratio .acc { color: var(--accent); }
+
+  .scale-x {
+    display: grid;
+    grid-template-columns: 60px 200px 1fr 100px;
+    column-gap: 18px;
+    margin-top: 6px;
+    border-top: 1px solid var(--ink);
+    padding-top: 6px;
+  }
+  .scale-x .ticks {
+    display: flex;
+    justify-content: space-between;
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.16em;
+    color: var(--ink-mute);
+    text-transform: uppercase;
+  }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°XX/2026</div>
+  <div class="stamp">Fourchettes<b>N°XX·2026</b><span class="x">04 · Avril</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div class="kicker">Reprise distressed · Prix tribunal vs vrai coût</div>
+    <h1 class="h1">Le prix au tribunal n'est <span class="it">jamais</span> le prix réel.</h1>
+    <p class="lede">Pour six secteurs, l'écart entre l'offre soumise au tribunal (point) et la fourchette du vrai coût total (barre). Échelle en milliers d'euros.</p>
+
+    <div class="legend">
+      <div><span class="dot"></span>Prix tribunal</div>
+      <div><span class="pill"></span>Vrai coût · fourchette min – max</div>
+    </div>
+
+    <div class="rng">
+      <div class="rng-head">
+        <div>Réf.</div>
+        <div>Secteur</div>
+        <div>Échelle · 0 → 1 200 k€</div>
+        <div>Multiplicateur</div>
+      </div>
+
+      <!-- Échelle: 0 = 0%, 1 200 k€ = 100% -->
+      <div class="rng-row">
+        <div class="num">FR-01</div>
+        <div class="label">Commerce de détail</div>
+        <div class="track">
+          <div class="track-line"></div>
+          <div class="range-bar" style="left:14%; width:21%"></div>
+          <div class="marker-min" style="left:14%"></div>
+          <div class="marker-max" style="left:35%"></div>
+          <div class="price-dot" style="left:0.5%"></div>
+        </div>
+        <div class="ratio"><span class="acc">×&nbsp;320</span></div>
+      </div>
+
+      <div class="rng-row">
+        <div class="num">FR-02</div>
+        <div class="label">Construction · BTP</div>
+        <div class="track">
+          <div class="track-line"></div>
+          <div class="range-bar" style="left:25%; width:32%"></div>
+          <div class="marker-min" style="left:25%"></div>
+          <div class="marker-max" style="left:57%"></div>
+          <div class="price-dot" style="left:1.5%"></div>
+        </div>
+        <div class="ratio"><span class="acc">×&nbsp;480</span></div>
+      </div>
+
+      <div class="rng-row">
+        <div class="num">FR-03</div>
+        <div class="label">Restauration · hôtellerie</div>
+        <div class="track">
+          <div class="track-line"></div>
+          <div class="range-bar" style="left:18%; width:28%"></div>
+          <div class="marker-min" style="left:18%"></div>
+          <div class="marker-max" style="left:46%"></div>
+          <div class="price-dot" style="left:2.5%"></div>
+        </div>
+        <div class="ratio"><span class="acc">×&nbsp;215</span></div>
+      </div>
+
+      <div class="rng-row">
+        <div class="num">FR-04</div>
+        <div class="label">Services aux entreprises</div>
+        <div class="track">
+          <div class="track-line"></div>
+          <div class="range-bar" style="left:22%; width:38%"></div>
+          <div class="marker-min" style="left:22%"></div>
+          <div class="marker-max" style="left:60%"></div>
+          <div class="price-dot" style="left:1%"></div>
+        </div>
+        <div class="ratio"><span class="acc">×&nbsp;540</span></div>
+      </div>
+
+      <div class="rng-row">
+        <div class="num">FR-05</div>
+        <div class="label">Industrie manufacturière</div>
+        <div class="track">
+          <div class="track-line"></div>
+          <div class="range-bar" style="left:38%; width:50%"></div>
+          <div class="marker-min" style="left:38%"></div>
+          <div class="marker-max" style="left:88%"></div>
+          <div class="price-dot" style="left:0.5%"></div>
+        </div>
+        <div class="ratio"><span class="acc">×&nbsp;760</span></div>
+      </div>
+
+      <div class="rng-row">
+        <div class="num">FR-06</div>
+        <div class="label">Transport · logistique</div>
+        <div class="track">
+          <div class="track-line"></div>
+          <div class="range-bar" style="left:30%; width:42%"></div>
+          <div class="marker-min" style="left:30%"></div>
+          <div class="marker-max" style="left:72%"></div>
+          <div class="price-dot" style="left:2%"></div>
+        </div>
+        <div class="ratio"><span class="acc">×&nbsp;620</span></div>
+      </div>
+
+      <div class="scale-x">
+        <div></div>
+        <div></div>
+        <div class="ticks"><span>0</span><span>300</span><span>600</span><span>900</span><span>1 200 k€</span></div>
+        <div></div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Méthode</b> · calculateur Brantham · 04.2026</div><div><b>Voir</b> · branthampartners.fr</div></div>
+  </footer>
+</div>
+
+</body>
+</html>

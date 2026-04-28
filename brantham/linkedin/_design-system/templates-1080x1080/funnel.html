@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>funnel — Brantham</title>
+<link rel="stylesheet" href="../base/tokens.css">
+<link rel="stylesheet" href="../base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { padding-top: 36px; }
+  .post .h1 { font-size: 38px; line-height: 1.06; max-width: 720px; }
+  .post .lede { margin-top: 14px; max-width: 660px; font-size: 14px; }
+
+  .funnel {
+    margin-top: 26px;
+    border-top: 2px solid var(--ink);
+    padding-top: 14px;
+  }
+  .fnl-head {
+    display: grid;
+    grid-template-columns: 60px 1fr 110px 110px;
+    column-gap: 18px;
+    padding: 6px 0;
+    border-bottom: 1px solid var(--ink);
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+  }
+  .fnl-head > *:nth-child(n+3) { text-align: right; }
+
+  .fnl-step {
+    display: grid;
+    grid-template-columns: 60px 1fr 110px 110px;
+    column-gap: 18px;
+    align-items: center;
+    padding: 13px 0;
+    border-bottom: 1px solid var(--rule);
+    position: relative;
+  }
+  .fnl-step:last-of-type { border-bottom: 0; }
+  .fnl-step .num {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    color: var(--accent);
+    font-weight: 500;
+  }
+  .fnl-step .funnel-row {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    height: 38px;
+  }
+  .fnl-step .bar {
+    height: 30px;
+    background: var(--accent);
+    margin: 0 auto;
+    position: relative;
+  }
+  .fnl-step .label {
+    font-family: var(--serif);
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--ink);
+    white-space: nowrap;
+  }
+  .fnl-step .label .meta {
+    display: block;
+    font-style: italic;
+    font-weight: 400;
+    color: var(--ink-mute);
+    font-size: 12px;
+    margin-top: 2px;
+    line-height: 1.3;
+  }
+  .fnl-step .v {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 28px;
+    color: var(--ink);
+    text-align: right;
+    line-height: 1;
+    font-weight: 400;
+  }
+  .fnl-step .conv {
+    font-family: var(--mono);
+    font-size: 12px;
+    text-align: right;
+    color: var(--ink-mute);
+    letter-spacing: 0.04em;
+  }
+  .fnl-step .conv.acc { color: var(--accent); font-weight: 500; }
+
+  .funnel-final {
+    margin-top: 22px;
+    padding-top: 18px;
+    border-top: 2px solid var(--ink);
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-family: var(--serif);
+  }
+  .funnel-final .l {
+    font-style: italic;
+    font-size: 16px;
+    color: var(--ink-soft);
+  }
+  .funnel-final .v {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 32px;
+    color: var(--accent);
+    letter-spacing: -0.02em;
+  }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°XX/2026</div>
+  <div class="stamp">Conversion<b>N°XX·2026</b><span class="x">04 · Avril</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div class="kicker">Pipeline distressed · Funnel</div>
+    <h1 class="h1">Du BODACC à l'<span class="it">offre signée</span>, on perd 99,8 % du flux.</h1>
+    <p class="lede">Sur mille annonces de procédures collectives ouvertes, voici combien aboutissent à un deal de reprise mené à terme.</p>
+
+    <div class="funnel">
+      <div class="fnl-head">
+        <div>Étape</div>
+        <div>Stade · entonnoir</div>
+        <div>Volume</div>
+        <div>Conversion</div>
+      </div>
+
+      <div class="fnl-step">
+        <div class="num">01</div>
+        <div class="funnel-row">
+          <div class="bar" style="width: 88%"></div>
+          <div class="label">Annonces BODACC <span class="meta">Procédures ouvertes au tribunal de commerce</span></div>
+        </div>
+        <div class="v">1&thinsp;000</div>
+        <div class="conv">100&nbsp;%</div>
+      </div>
+
+      <div class="fnl-step">
+        <div class="num">02</div>
+        <div class="funnel-row">
+          <div class="bar" style="width: 22%"></div>
+          <div class="label">Dossiers qualifiés <span class="meta">Carnet de commandes · effectif · zone</span></div>
+        </div>
+        <div class="v">220</div>
+        <div class="conv">22&nbsp;%</div>
+      </div>
+
+      <div class="fnl-step">
+        <div class="num">03</div>
+        <div class="funnel-row">
+          <div class="bar" style="width: 10%"></div>
+          <div class="label">NDA signés <span class="meta">Accès data room · admin judiciaire</span></div>
+        </div>
+        <div class="v">95</div>
+        <div class="conv">9,5&nbsp;%</div>
+      </div>
+
+      <div class="fnl-step">
+        <div class="num">04</div>
+        <div class="funnel-row">
+          <div class="bar" style="width: 4.5%"></div>
+          <div class="label">LOI déposées <span class="meta">Lettre d'intention · prix indicatif</span></div>
+        </div>
+        <div class="v">42</div>
+        <div class="conv">4,2&nbsp;%</div>
+      </div>
+
+      <div class="fnl-step">
+        <div class="num">05</div>
+        <div class="funnel-row">
+          <div class="bar" style="width: 1.4%"></div>
+          <div class="label">Offres fermes <span class="meta">Prix · périmètre · plan emplois</span></div>
+        </div>
+        <div class="v">12</div>
+        <div class="conv">1,2&nbsp;%</div>
+      </div>
+
+      <div class="fnl-step">
+        <div class="num">06</div>
+        <div class="funnel-row">
+          <div class="bar" style="width: 0.4%"></div>
+          <div class="label">Cessions arbitrées <span class="meta">Tribunal a tranché en faveur du repreneur</span></div>
+        </div>
+        <div class="v">3</div>
+        <div class="conv acc">0,3&nbsp;%</div>
+      </div>
+    </div>
+
+    <div class="funnel-final">
+      <div class="l">— d'où l'enjeu d'arriver vite, propre, et préparé.</div>
+      <div class="v">3 / 1&thinsp;000</div>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Méthode</b> · pipeline interne · 04.2026</div><div><b>Voir</b> · branthampartners.fr</div></div>
+  </footer>
+</div>
+
+</body>
+</html>

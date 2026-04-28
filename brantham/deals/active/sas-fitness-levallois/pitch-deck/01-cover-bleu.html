@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Pitch repreneur — Cover bleu sur blanc — Brantham</title>
+<link rel="stylesheet" href="../../../../linkedin/_design-system/base/tokens.css">
+<link rel="stylesheet" href="../../../../linkedin/_design-system/base/base.css">
+<link rel="stylesheet" href="../../../../linkedin/_design-system/templates-1920x1080/_format.css">
+<style>
+  :root {
+    --bleu-deep:  #001F54;
+    --bleu-mid:   #14306E;
+    --bleu-soft:  #5A6FA0;
+    --paper-pure: #FAFAFA;
+    --rule-soft:  rgba(0, 31, 84, 0.14);
+    --rule-strong:rgba(0, 31, 84, 0.4);
+  }
+
+  .post {
+    background: var(--paper-pure);
+    --paper: var(--paper-pure);
+    --ink: var(--bleu-deep);
+    --ink-soft: var(--bleu-mid);
+    --ink-mute: var(--bleu-soft);
+    --rule: var(--rule-soft);
+    --accent: var(--bleu-deep);
+  }
+
+  .post .body {
+    display: grid;
+    grid-template-columns: 130px 1fr;
+    grid-template-rows: 1fr auto;
+    padding-top: 0;
+    padding-bottom: 0;
+    flex: 1;
+  }
+
+  .rail {
+    border-right: 1px solid var(--rule-soft);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 32px 0 32px 0;
+  }
+  .rail-top, .rail-bot {
+    font-family: var(--mono); font-size: 10px;
+    letter-spacing: 0.36em; text-transform: uppercase;
+    color: var(--bleu-soft);
+    writing-mode: vertical-rl; transform: rotate(180deg);
+    align-self: center;
+  }
+  .rail-mid {
+    align-self: center; font-family: var(--serif);
+    font-size: 92px; font-style: italic; font-weight: 400;
+    color: var(--bleu-deep); line-height: 1;
+  }
+
+  .main {
+    padding: 48px 96px 32px 64px;
+    display: flex; flex-direction: column; justify-content: center;
+    position: relative;
+  }
+
+  .cover-edition {
+    font-family: var(--mono); font-size: 12px; letter-spacing: 0.4em;
+    text-transform: uppercase; color: var(--bleu-deep);
+    margin-bottom: 48px; font-weight: 500;
+    display: flex; align-items: center; gap: 18px;
+  }
+  .cover-edition::before {
+    content: ""; width: 36px; height: 1px; background: var(--bleu-deep);
+  }
+
+  .cover-title {
+    font-family: var(--serif); font-weight: 500;
+    font-size: 156px; line-height: 0.92; letter-spacing: -0.04em;
+    color: var(--bleu-deep); max-width: 1480px;
+  }
+  .cover-title .it {
+    font-style: italic; font-weight: 400; color: var(--bleu-mid);
+  }
+  .cover-title .punct { color: var(--bleu-mid); }
+
+  .deck-row {
+    margin-top: 56px;
+    display: grid;
+    grid-template-columns: 1fr 380px;
+    gap: 80px;
+    align-items: end;
+  }
+  .cover-deck {
+    font-family: var(--serif); font-size: 22px; line-height: 1.55;
+    color: var(--bleu-mid); max-width: 760px; font-style: italic;
+  }
+  .cover-deck b {
+    color: var(--bleu-deep); font-weight: 600; font-style: normal;
+    border-bottom: 1px solid var(--bleu-deep);
+    padding-bottom: 1px;
+  }
+
+  .stat-lockup {
+    border-left: 1px solid var(--rule-strong);
+    padding-left: 36px;
+  }
+  .stat-lockup .stat-label {
+    font-family: var(--mono); font-size: 10px; letter-spacing: 0.32em;
+    text-transform: uppercase; color: var(--bleu-soft);
+    margin-bottom: 12px;
+  }
+  .stat-lockup .stat-val {
+    font-family: var(--serif); font-size: 64px; line-height: 1;
+    font-weight: 500; color: var(--bleu-deep);
+    letter-spacing: -0.02em;
+  }
+  .stat-lockup .stat-val .small {
+    font-size: 28px; color: var(--bleu-mid); font-weight: 400; margin-left: 6px;
+  }
+  .stat-lockup .stat-foot {
+    margin-top: 14px;
+    font-family: var(--mono); font-size: 11px; color: var(--bleu-soft);
+    letter-spacing: 0.04em;
+  }
+
+  .post .foot {
+    grid-column: 1 / -1;
+    border-top: 1px solid var(--rule-strong);
+    padding-top: 22px;
+    padding-bottom: 28px;
+    margin: 0 96px 0 64px;
+    color: var(--bleu-mid);
+  }
+  .post .foot .sig .n { color: var(--bleu-deep); }
+
+  .swipe {
+    position: absolute; top: 28px; right: 96px;
+    font-family: var(--mono); font-size: 11px; letter-spacing: 0.32em;
+    text-transform: uppercase; color: var(--bleu-deep);
+    border-top: 1px solid var(--bleu-deep); border-bottom: 1px solid var(--bleu-deep);
+    padding: 10px 18px; font-weight: 500;
+  }
+
+  .post .stamp {
+    border-color: var(--bleu-deep); color: var(--bleu-deep);
+  }
+  .post .stamp .x { color: var(--bleu-soft); }
+
+  .post .watermark { color: var(--bleu-soft); }
+
+  /* Logo en bleu */
+  .post .brand img { filter: brightness(0) saturate(100%) invert(11%) sepia(63%) saturate(3530%) hue-rotate(214deg) brightness(91%) contrast(106%); }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · Pitch repreneur</div>
+  <div class="stamp">Pitch repreneur<b>N°01·2026</b><span class="x">04 · Avril</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../../../../linkedin/_design-system/logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <aside class="rail">
+      <div class="rail-top">Chapitre I</div>
+      <div class="rail-mid">§</div>
+      <div class="rail-bot">Cession · L. 642-1</div>
+    </aside>
+
+    <div class="main">
+      <div class="cover-edition">Dossier repreneur — Avril 2026</div>
+      <h1 class="cover-title">Reprendre une <span class="it">salle de sport</span><br>en redressement<span class="punct">.</span></h1>
+
+      <div class="deck-row">
+        <p class="cover-deck">Salle indépendante à Levallois · 900 m² · CA 350 K€. <b>Trois conditions</b> à valider avant dépôt — décision interne 14/05, dépôt greffe 21/05.</p>
+        <div class="stat-lockup">
+          <div class="stat-label">Ticket repreneur</div>
+          <div class="stat-val">115<span class="small">k€</span></div>
+          <div class="stat-foot">cash mobilisé · An 1</div>
+        </div>
+      </div>
+
+    </div>
+
+    <footer class="foot">
+      <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+      <div class="credit"><div><b>Préparé pour</b> · le repreneur</div><div><b>Voir</b> · branthampartners.fr</div></div>
+    </footer>
+  </div>
+</div>
+
+</body>
+</html>

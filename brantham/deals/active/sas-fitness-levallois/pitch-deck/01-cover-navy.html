@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Pitch repreneur — Cover navy — Brantham</title>
+<link rel="stylesheet" href="../../../../linkedin/_design-system/base/tokens.css">
+<link rel="stylesheet" href="../../../../linkedin/_design-system/base/base.css">
+<link rel="stylesheet" href="../../../../linkedin/_design-system/templates-1920x1080/_format.css">
+<style>
+  :root { --paper-dark: #F4F1EA; }
+
+  .post.dark {
+    background: #000F2A;
+    --rule-soft: rgba(244, 241, 234, 0.14);
+    --rule-strong: rgba(244, 241, 234, 0.4);
+  }
+
+  /* Hard reset of the body grid for a more architectural cover */
+  .post .body {
+    display: grid;
+    grid-template-columns: 130px 1fr;
+    grid-template-rows: 1fr auto;
+    padding-top: 0;
+    padding-bottom: 0;
+    flex: 1;
+  }
+
+  /* Left rail with vertical chapter mark */
+  .rail {
+    border-right: 1px solid var(--rule-soft);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 32px 0 32px 0;
+  }
+  .rail-top, .rail-bot {
+    font-family: var(--mono); font-size: 10px;
+    letter-spacing: 0.36em; text-transform: uppercase;
+    color: rgba(244,241,234,0.45);
+    writing-mode: vertical-rl; transform: rotate(180deg);
+    align-self: center;
+  }
+  .rail-mid {
+    align-self: center; font-family: var(--serif);
+    font-size: 92px; font-style: italic; font-weight: 400;
+    color: #C8B97A; line-height: 1;
+  }
+
+  /* Main column */
+  .main {
+    padding: 48px 96px 32px 64px;
+    display: flex; flex-direction: column; justify-content: center;
+    position: relative;
+  }
+
+  .cover-edition {
+    font-family: var(--mono); font-size: 12px; letter-spacing: 0.4em;
+    text-transform: uppercase; color: #C8B97A;
+    margin-bottom: 48px; font-weight: 500;
+    display: flex; align-items: center; gap: 18px;
+  }
+  .cover-edition::before {
+    content: ""; width: 36px; height: 1px; background: #C8B97A;
+  }
+
+  .cover-title {
+    font-family: var(--serif); font-weight: 500;
+    font-size: 156px; line-height: 0.92; letter-spacing: -0.04em;
+    color: var(--paper-dark); max-width: 1480px;
+  }
+  .cover-title .it {
+    font-style: italic; font-weight: 400; color: #C8B97A;
+  }
+  .cover-title .punct { color: #C8B97A; }
+
+  .deck-row {
+    margin-top: 56px;
+    display: grid;
+    grid-template-columns: 1fr 380px;
+    gap: 80px;
+    align-items: end;
+  }
+  .cover-deck {
+    font-family: var(--serif); font-size: 22px; line-height: 1.55;
+    color: rgba(244,241,234,0.78); max-width: 760px; font-style: italic;
+  }
+  .cover-deck b {
+    color: var(--paper-dark); font-weight: 600; font-style: normal;
+    border-bottom: 1px solid rgba(200,185,122,0.5);
+    padding-bottom: 1px;
+  }
+
+  /* Stat lockup right of deck */
+  .stat-lockup {
+    border-left: 1px solid var(--rule-strong);
+    padding-left: 36px;
+  }
+  .stat-lockup .stat-label {
+    font-family: var(--mono); font-size: 10px; letter-spacing: 0.32em;
+    text-transform: uppercase; color: rgba(244,241,234,0.45);
+    margin-bottom: 12px;
+  }
+  .stat-lockup .stat-val {
+    font-family: var(--serif); font-size: 64px; line-height: 1;
+    font-weight: 500; color: var(--paper-dark);
+    letter-spacing: -0.02em;
+  }
+  .stat-lockup .stat-val .small {
+    font-size: 28px; color: #C8B97A; font-weight: 400; margin-left: 6px;
+  }
+  .stat-lockup .stat-foot {
+    margin-top: 14px;
+    font-family: var(--mono); font-size: 11px; color: rgba(244,241,234,0.55);
+    letter-spacing: 0.04em;
+  }
+
+  /* Override foot to fit the rail offset */
+  .post .foot {
+    grid-column: 1 / -1;
+    border-top: 1px solid var(--rule-strong);
+    padding-top: 22px;
+    padding-bottom: 28px;
+    margin: 0 96px 0 64px;
+  }
+
+  .swipe {
+    position: absolute; top: 28px; right: 96px;
+    font-family: var(--mono); font-size: 11px; letter-spacing: 0.32em;
+    text-transform: uppercase; color: #C8B97A;
+    border-top: 1px solid #C8B97A; border-bottom: 1px solid #C8B97A;
+    padding: 10px 18px; font-weight: 500;
+  }
+
+  .post .stamp {
+    border-color: #C8B97A; color: #C8B97A;
+  }
+  .post .stamp .x { color: rgba(244,241,234,0.5); }
+
+  .post .watermark { color: rgba(244,241,234,0.32); }
+</style>
+</head>
+<body>
+
+<div class="post dark">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · Pitch repreneur</div>
+  <div class="stamp">Pitch repreneur<b>N°01·2026</b><span class="x">04 · Avril</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../../../../linkedin/_design-system/logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <aside class="rail">
+      <div class="rail-top">Chapitre I</div>
+      <div class="rail-mid">§</div>
+      <div class="rail-bot">Cession · L. 642-1</div>
+    </aside>
+
+    <div class="main">
+      <div class="cover-edition">Dossier repreneur — Avril 2026</div>
+      <h1 class="cover-title">Reprendre une <span class="it">salle de sport</span><br>en redressement<span class="punct">.</span></h1>
+
+      <div class="deck-row">
+        <p class="cover-deck">Salle indépendante à Levallois · 900 m² · CA 350 K€. <b>Trois conditions</b> à valider avant dépôt — décision interne 14/05, dépôt greffe 21/05.</p>
+        <div class="stat-lockup">
+          <div class="stat-label">Ticket repreneur</div>
+          <div class="stat-val">115<span class="small">k€</span></div>
+          <div class="stat-foot">cash mobilisé · An 1</div>
+        </div>
+      </div>
+
+    </div>
+
+    <footer class="foot">
+      <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+      <div class="credit"><div><b>Préparé pour</b> · le repreneur</div><div><b>Voir</b> · branthampartners.fr</div></div>
+    </footer>
+  </div>
+</div>
+
+</body>
+</html>

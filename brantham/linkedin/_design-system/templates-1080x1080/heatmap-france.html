@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>heatmap-france — Brantham</title>
+<link rel="stylesheet" href="../base/tokens.css">
+<link rel="stylesheet" href="../base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { padding-top: 36px; }
+  .post .h1 { font-size: 38px; line-height: 1.06; max-width: 720px; }
+  .post .lede { margin-top: 14px; max-width: 660px; font-size: 14px; }
+
+  .map {
+    margin-top: 24px;
+    border-top: 2px solid var(--ink);
+    padding-top: 24px;
+    display: grid;
+    grid-template-columns: 1.1fr 1fr;
+    column-gap: 36px;
+    align-items: start;
+  }
+  .map-svg {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1.05;
+    display: block;
+  }
+  .map-svg .region { stroke: var(--paper); stroke-width: 2; transition: none; }
+  .map-svg .lbl { font-family: var(--mono); font-size: 9.5px; fill: var(--ink); letter-spacing: 0.04em; text-anchor: middle; font-weight: 500; }
+  .map-svg .lbl.light { fill: var(--paper); }
+
+  .map-side {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+  .legend {
+    border-top: 1px solid var(--ink);
+    border-bottom: 1px solid var(--ink);
+    padding: 14px 0;
+  }
+  .legend .k {
+    font-family: var(--mono);
+    font-size: 9.5px;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    margin-bottom: 10px;
+  }
+  .legend .scale-bar {
+    display: flex;
+    height: 14px;
+    margin-bottom: 6px;
+  }
+  .legend .scale-bar .step { flex: 1; }
+  .legend .ticks {
+    display: flex;
+    justify-content: space-between;
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--ink-mute);
+    letter-spacing: 0.06em;
+  }
+
+  .top-list {
+    border-top: 2px solid var(--ink);
+    padding-top: 8px;
+  }
+  .top-list .h {
+    font-family: var(--mono);
+    font-size: 9.5px;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--ink);
+  }
+  .top-list .li {
+    display: grid;
+    grid-template-columns: 32px 1fr 70px 50px;
+    column-gap: 10px;
+    align-items: baseline;
+    padding: 11px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .top-list .li:last-child { border-bottom: 0; }
+  .top-list .li .rk { font-family: var(--mono); font-size: 10px; color: var(--accent); font-weight: 500; letter-spacing: 0.1em; }
+  .top-list .li .nm { font-family: var(--serif); font-size: 14.5px; color: var(--ink); font-weight: 500; }
+  .top-list .li .v { font-family: var(--mono); font-size: 12px; text-align: right; color: var(--ink); }
+  .top-list .li .d { font-family: var(--mono); font-size: 11px; text-align: right; color: var(--ink-mute); }
+  .top-list .li .d.up { color: var(--accent); font-weight: 500; }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°XX/2026</div>
+  <div class="stamp">Cartographie<b>N°XX·2026</b><span class="x">04 · Avril</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div class="kicker">Défaillances · Densité régionale 2025</div>
+    <h1 class="h1">Trois régions concentrent <span class="it">la moitié</span> des dossiers.</h1>
+    <p class="lede">Volume de procédures collectives par région, France 2025. Échelle proportionnelle au nombre d'habitants par région.</p>
+
+    <div class="map">
+      <svg class="map-svg" viewBox="0 0 420 440">
+        <!-- Régions stylisées (formes géométriques abstraites mais lisibles) -->
+        <!-- Hauts-de-France -->
+        <path class="region" fill="#7A1D17" d="M 175,30 L 290,40 L 285,90 L 200,95 L 170,75 Z"/>
+        <text class="lbl light" x="225" y="68">HAUTS-DE-FRANCE</text>
+
+        <!-- Normandie -->
+        <path class="region" fill="#A24A40" d="M 95,75 L 195,75 L 200,140 L 100,135 Z"/>
+        <text class="lbl light" x="148" y="110">NORMANDIE</text>
+
+        <!-- Île-de-France -->
+        <path class="region" fill="#7A1D17" d="M 200,95 L 270,95 L 270,140 L 200,140 Z"/>
+        <text class="lbl light" x="235" y="121">ÎDF</text>
+
+        <!-- Grand Est -->
+        <path class="region" fill="#A24A40" d="M 270,90 L 380,95 L 385,180 L 280,175 L 270,140 Z"/>
+        <text class="lbl light" x="328" y="138">GRAND EST</text>
+
+        <!-- Bretagne -->
+        <path class="region" fill="#C9897F" d="M 30,135 L 100,135 L 105,200 L 35,210 Z"/>
+        <text class="lbl" x="65" y="175">BRETAGNE</text>
+
+        <!-- Pays de la Loire -->
+        <path class="region" fill="#C9897F" d="M 100,140 L 200,140 L 200,215 L 105,210 Z"/>
+        <text class="lbl" x="148" y="180">PAYS LOIRE</text>
+
+        <!-- Centre-Val de Loire -->
+        <path class="region" fill="#D9B0A8" d="M 200,140 L 280,175 L 270,235 L 200,235 Z"/>
+        <text class="lbl" x="235" y="200">CENTRE-VAL</text>
+
+        <!-- Bourgogne-Franche-Comté -->
+        <path class="region" fill="#C9897F" d="M 280,175 L 385,180 L 380,265 L 270,260 Z"/>
+        <text class="lbl" x="325" y="222">BOURGOGNE</text>
+
+        <!-- Nouvelle-Aquitaine -->
+        <path class="region" fill="#A24A40" d="M 50,210 L 200,215 L 215,335 L 80,335 Z"/>
+        <text class="lbl light" x="135" y="280">N.-AQUITAINE</text>
+
+        <!-- Auvergne-Rhône-Alpes -->
+        <path class="region" fill="#7A1D17" d="M 215,235 L 380,265 L 385,360 L 230,355 Z"/>
+        <text class="lbl light" x="298" y="315">A.-RHÔNE-ALPES</text>
+
+        <!-- Occitanie -->
+        <path class="region" fill="#A24A40" d="M 90,335 L 230,355 L 250,415 L 130,415 Z"/>
+        <text class="lbl light" x="170" y="385">OCCITANIE</text>
+
+        <!-- PACA -->
+        <path class="region" fill="#7A1D17" d="M 250,360 L 385,360 L 385,420 L 270,420 Z"/>
+        <text class="lbl light" x="320" y="395">PACA</text>
+
+        <!-- Corse -->
+        <rect class="region" fill="#D9B0A8" x="380" y="380" width="28" height="38"/>
+        <text class="lbl" x="394" y="404">CO.</text>
+      </svg>
+
+      <div class="map-side">
+        <div class="legend">
+          <div class="k">Échelle · dossiers / 10 k hab.</div>
+          <div class="scale-bar">
+            <div class="step" style="background:#D9B0A8"></div>
+            <div class="step" style="background:#C9897F"></div>
+            <div class="step" style="background:#A24A40"></div>
+            <div class="step" style="background:#7A1D17"></div>
+          </div>
+          <div class="ticks"><span>4,2</span><span>6,8</span><span>9,5</span><span>12,3</span></div>
+        </div>
+
+        <div class="top-list">
+          <div class="h" style="display:grid;grid-template-columns:32px 1fr 70px 50px;column-gap:10px;">
+            <div>Rg.</div><div>Région</div><div style="text-align:right">Dossiers</div><div style="text-align:right">vs n-1</div>
+          </div>
+          <div class="li"><div class="rk">01</div><div class="nm">Île-de-France</div><div class="v">14&nbsp;820</div><div class="d up">+18&nbsp;%</div></div>
+          <div class="li"><div class="rk">02</div><div class="nm">Auvergne–Rhône-Alpes</div><div class="v">9&nbsp;640</div><div class="d up">+15&nbsp;%</div></div>
+          <div class="li"><div class="rk">03</div><div class="nm">Hauts-de-France</div><div class="v">6&nbsp;310</div><div class="d up">+22&nbsp;%</div></div>
+          <div class="li"><div class="rk">04</div><div class="nm">PACA</div><div class="v">5&nbsp;485</div><div class="d up">+19&nbsp;%</div></div>
+          <div class="li"><div class="rk">05</div><div class="nm">Nouvelle-Aquitaine</div><div class="v">5&nbsp;120</div><div class="d up">+14&nbsp;%</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Source</b> · INSEE · Banque de France</div><div><b>Voir</b> · branthampartners.fr</div></div>
+  </footer>
+</div>
+
+</body>
+</html>

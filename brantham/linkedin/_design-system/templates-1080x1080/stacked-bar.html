@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>stacked-bar — Brantham</title>
+<link rel="stylesheet" href="../base/tokens.css">
+<link rel="stylesheet" href="../base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { padding-top: 36px; }
+  .post .h1 { font-size: 38px; line-height: 1.06; max-width: 720px; }
+  .post .lede { margin-top: 14px; max-width: 660px; font-size: 14px; }
+
+  .legend {
+    display: flex;
+    gap: 22px;
+    margin-top: 22px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid var(--ink);
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink);
+  }
+  .legend .swatch {
+    display: inline-block;
+    width: 18px; height: 10px;
+    margin-right: 8px;
+    vertical-align: middle;
+  }
+  .legend .lj  .swatch { background: #7A1D17; }
+  .legend .rj  .swatch { background: #C8896E; }
+  .legend .sg  .swatch { background: #E5C9A8; border: 1px solid var(--rule); }
+
+  .stk {
+    margin-top: 6px;
+    padding-top: 0;
+  }
+  .stk-head {
+    display: grid;
+    grid-template-columns: 60px 220px 1fr 100px;
+    column-gap: 18px;
+    padding: 6px 0;
+    border-bottom: 1px solid var(--ink);
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+  }
+  .stk-row {
+    display: grid;
+    grid-template-columns: 60px 220px 1fr 100px;
+    column-gap: 18px;
+    align-items: center;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .stk-row:last-child { border-bottom: 0; }
+  .stk-row .num {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    color: var(--ink);
+    font-weight: 500;
+  }
+  .stk-row .label {
+    font-family: var(--serif);
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--ink);
+    line-height: 1.2;
+  }
+  .stk-row .stack {
+    display: flex;
+    height: 22px;
+    width: 100%;
+    overflow: hidden;
+  }
+  .stk-row .seg {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--paper);
+    letter-spacing: 0.04em;
+    white-space: nowrap;
+  }
+  .stk-row .seg.lj { background: #7A1D17; }
+  .stk-row .seg.rj { background: #C8896E; color: var(--ink); }
+  .stk-row .seg.sg { background: #E5C9A8; color: var(--ink); }
+  .stk-row .seg.tiny { color: transparent; }
+  .stk-row .total {
+    font-family: var(--mono);
+    font-size: 13px;
+    text-align: right;
+    color: var(--ink);
+    font-weight: 500;
+  }
+
+  .insight {
+    margin-top: 28px;
+    padding-top: 14px;
+    border-top: 1px solid var(--ink);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 24px;
+  }
+  .insight .cell .k {
+    font-family: var(--mono);
+    font-size: 9.5px;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    margin-bottom: 6px;
+  }
+  .insight .cell .v {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 24px;
+    line-height: 1.05;
+    color: var(--accent);
+    font-weight: 400;
+  }
+  .insight .cell .h {
+    margin-top: 6px;
+    font-family: var(--serif);
+    font-size: 13px;
+    color: var(--ink-soft);
+    line-height: 1.4;
+  }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°XX/2026</div>
+  <div class="stamp">Répartition<b>N°XX·2026</b><span class="x">04 · Avril</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div class="kicker">Procédures collectives · Mix par secteur</div>
+    <h1 class="h1">Le BTP <span class="it">finit en liquidation</span>. La restauration tente l'arbitrage.</h1>
+    <p class="lede">Répartition des trois procédures (LJ · RJ · sauvegarde) au sein de chaque secteur. Base 100 %, France 2025.</p>
+
+    <div class="legend">
+      <div class="lj"><span class="swatch"></span>Liquidation judiciaire</div>
+      <div class="rj"><span class="swatch"></span>Redressement</div>
+      <div class="sg"><span class="swatch"></span>Sauvegarde</div>
+    </div>
+
+    <div class="stk">
+      <div class="stk-head">
+        <div>Réf.</div>
+        <div>Secteur</div>
+        <div>Mix · 100 %</div>
+        <div>Volume</div>
+      </div>
+
+      <div class="stk-row">
+        <div class="num">FR-01</div>
+        <div class="label">Commerce de détail</div>
+        <div class="stack"><div class="seg lj" style="width:78%">78&nbsp;%</div><div class="seg rj" style="width:18%">18</div><div class="seg sg" style="width:4%"></div></div>
+        <div class="total">14&nbsp;264</div>
+      </div>
+      <div class="stk-row">
+        <div class="num">FR-02</div>
+        <div class="label">Construction · BTP</div>
+        <div class="stack"><div class="seg lj" style="width:88%">88&nbsp;%</div><div class="seg rj" style="width:10%">10</div><div class="seg sg tiny" style="width:2%"></div></div>
+        <div class="total">12&nbsp;209</div>
+      </div>
+      <div class="stk-row">
+        <div class="num">FR-03</div>
+        <div class="label">Restauration · hôtellerie</div>
+        <div class="stack"><div class="seg lj" style="width:65%">65&nbsp;%</div><div class="seg rj" style="width:28%">28&nbsp;%</div><div class="seg sg" style="width:7%">7</div></div>
+        <div class="total">8&nbsp;814</div>
+      </div>
+      <div class="stk-row">
+        <div class="num">FR-04</div>
+        <div class="label">Services aux entreprises</div>
+        <div class="stack"><div class="seg lj" style="width:74%">74&nbsp;%</div><div class="seg rj" style="width:20%">20</div><div class="seg sg" style="width:6%">6</div></div>
+        <div class="total">7&nbsp;461</div>
+      </div>
+      <div class="stk-row">
+        <div class="num">FR-05</div>
+        <div class="label">Industrie manufacturière</div>
+        <div class="stack"><div class="seg lj" style="width:71%">71&nbsp;%</div><div class="seg rj" style="width:22%">22&nbsp;%</div><div class="seg sg" style="width:7%">7</div></div>
+        <div class="total">6&nbsp;105</div>
+      </div>
+      <div class="stk-row">
+        <div class="num">FR-06</div>
+        <div class="label">Transport · logistique</div>
+        <div class="stack"><div class="seg lj" style="width:82%">82&nbsp;%</div><div class="seg rj" style="width:14%">14</div><div class="seg sg" style="width:4%"></div></div>
+        <div class="total">4&nbsp;748</div>
+      </div>
+    </div>
+
+    <div class="insight">
+      <div class="cell">
+        <div class="k">Plus liquidé</div>
+        <div class="v">BTP · 88 %</div>
+        <div class="h">Sous-traitants en cascade · pas de plan</div>
+      </div>
+      <div class="cell">
+        <div class="k">Plus arbitré</div>
+        <div class="v">Restauration · 35 %</div>
+        <div class="h">RJ + sauvegarde · valeur fonds de commerce</div>
+      </div>
+      <div class="cell">
+        <div class="k">Cibles cession</div>
+        <div class="v">Industrie · Resto</div>
+        <div class="h">Mix RJ ≥ 22 % · indique des deals possibles</div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Source</b> · INSEE · Banque de France</div><div><b>Voir</b> · branthampartners.fr</div></div>
+  </footer>
+</div>
+
+</body>
+</html>
