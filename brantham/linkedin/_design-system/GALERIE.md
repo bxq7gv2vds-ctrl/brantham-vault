@@ -12,17 +12,27 @@ Re-rendre tout : `cd _design-system && uv run render.py`
 
 ## Carré 1080×1080 — feed standard
 
+### Narratifs
 | Template | Archétype | Cream | Navy |
 |---|---|---|---|
-| Cover | Ouverture | ![[templates-1080x1080/cover-slide.png\|260]] | ![[templates-1080x1080/cover-slide-navy.png\|260]] |
-| Headline | Punch | ![[templates-1080x1080/headline-only.png\|260]] | ![[templates-1080x1080/headline-only-navy.png\|260]] |
-| Stat-hero | Stat-shock | ![[templates-1080x1080/stat-hero.png\|260]] | ![[templates-1080x1080/stat-hero-navy.png\|260]] |
-| Myth-reality | Mythe ↔ réalité | ![[templates-1080x1080/myth-reality.png\|260]] | ![[templates-1080x1080/myth-reality-navy.png\|260]] |
-| Timeline | Process décodé | ![[templates-1080x1080/timeline.png\|260]] | ![[templates-1080x1080/timeline-navy.png\|260]] |
-| Data table | Décryptage data | ![[templates-1080x1080/data-table.png\|260]] | ![[templates-1080x1080/data-table-navy.png\|260]] |
-| Data ledger | Coût caché | ![[templates-1080x1080/data-ledger.png\|260]] | ![[templates-1080x1080/data-ledger-navy.png\|260]] |
-| Data checklist | Process numéroté | ![[templates-1080x1080/data-checklist.png\|260]] | ![[templates-1080x1080/data-checklist-navy.png\|260]] |
-| Quote | Verbatim | ![[templates-1080x1080/quote-card.png\|260]] | ![[templates-1080x1080/quote-card-navy.png\|260]] |
+| Cover | Ouverture | ![[templates-1080x1080/cover-slide.png\|220]] | ![[templates-1080x1080/cover-slide-navy.png\|220]] |
+| Headline | Punch | ![[templates-1080x1080/headline-only.png\|220]] | ![[templates-1080x1080/headline-only-navy.png\|220]] |
+| Manifesto | Doctrine 8 principes | ![[templates-1080x1080/manifesto.png\|220]] | ![[templates-1080x1080/manifesto-navy.png\|220]] |
+| Quote | Verbatim | ![[templates-1080x1080/quote-card.png\|220]] | ![[templates-1080x1080/quote-card-navy.png\|220]] |
+| Myth-reality | Mythe ↔ réalité | ![[templates-1080x1080/myth-reality.png\|220]] | ![[templates-1080x1080/myth-reality-navy.png\|220]] |
+| Timeline | Process décodé | ![[templates-1080x1080/timeline.png\|220]] | ![[templates-1080x1080/timeline-navy.png\|220]] |
+| Case-study | Cas anonymisé | ![[templates-1080x1080/case-study.png\|220]] | ![[templates-1080x1080/case-study-navy.png\|220]] |
+
+### Data
+| Template | Archétype | Cream | Navy |
+|---|---|---|---|
+| Stat-hero | Stat-shock | ![[templates-1080x1080/stat-hero.png\|220]] | ![[templates-1080x1080/stat-hero-navy.png\|220]] |
+| Annotated-stat | Décomposition | ![[templates-1080x1080/annotated-stat.png\|220]] | ![[templates-1080x1080/annotated-stat-navy.png\|220]] |
+| Bar-chart | Classement visuel | ![[templates-1080x1080/bar-chart.png\|220]] | ![[templates-1080x1080/bar-chart-navy.png\|220]] |
+| Trend-line | Tendance temporelle | ![[templates-1080x1080/trend-line.png\|220]] | ![[templates-1080x1080/trend-line-navy.png\|220]] |
+| Data table | Top secteurs | ![[templates-1080x1080/data-table.png\|220]] | ![[templates-1080x1080/data-table-navy.png\|220]] |
+| Data ledger | Coût caché | ![[templates-1080x1080/data-ledger.png\|220]] | ![[templates-1080x1080/data-ledger-navy.png\|220]] |
+| Data checklist | Process numéroté | ![[templates-1080x1080/data-checklist.png\|220]] | ![[templates-1080x1080/data-checklist-navy.png\|220]] |
 
 ## Vertical 1080×1350 — engagement maximal
 

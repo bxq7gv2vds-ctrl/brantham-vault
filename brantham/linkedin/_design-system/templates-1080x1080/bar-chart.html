@@ -18,7 +18,7 @@
   }
   .chart-head {
     display: grid;
-    grid-template-columns: 60px 1fr 80px;
+    grid-template-columns: 60px 220px 1fr 100px;
     column-gap: 18px;
     padding: 6px 0;
     border-bottom: 1px solid var(--ink);
@@ -32,7 +32,7 @@
 
   .bar-row {
     display: grid;
-    grid-template-columns: 60px 1fr 80px;
+    grid-template-columns: 60px 220px 1fr 100px;
     column-gap: 18px;
     align-items: center;
     padding: 11px 0;
@@ -46,26 +46,23 @@
     color: var(--ink);
     font-weight: 500;
   }
-  .bar-row .bar-wrap {
-    position: relative;
-    display: flex;
-    align-items: center;
-    gap: 14px;
-    height: 24px;
-  }
-  .bar-row .bar {
-    height: 18px;
-    background: var(--accent);
-    flex: 0 0 auto;
-    position: relative;
-  }
   .bar-row .label {
     font-family: var(--serif);
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 500;
     color: var(--ink);
     letter-spacing: -0.005em;
-    white-space: nowrap;
+    line-height: 1.2;
+  }
+  .bar-row .bar-wrap {
+    position: relative;
+    height: 16px;
+    display: flex;
+    align-items: center;
+  }
+  .bar-row .bar {
+    height: 14px;
+    background: var(--accent);
   }
   .bar-row .val {
     font-family: var(--mono);
@@ -78,7 +75,7 @@
 
   .scale {
     display: grid;
-    grid-template-columns: 60px 1fr 80px;
+    grid-template-columns: 60px 220px 1fr 100px;
     column-gap: 18px;
     margin-top: 6px;
     border-top: 1px solid var(--ink);
@@ -113,52 +110,62 @@
     <div class="chart">
       <div class="chart-head">
         <div>Réf.</div>
-        <div>Secteur · part du volume</div>
+        <div>Secteur</div>
+        <div>Volume · échelle proportionnelle</div>
         <div>Dossiers</div>
       </div>
 
       <div class="bar-row">
         <div class="num">FR-01</div>
-        <div class="bar-wrap"><div class="bar" style="width: 100%"></div><span class="label">Commerce de détail</span></div>
+        <div class="label">Commerce de détail</div>
+        <div class="bar-wrap"><div class="bar" style="width: 100%"></div></div>
         <div class="val">14&nbsp;264<span class="pct">21&nbsp;%</span></div>
       </div>
       <div class="bar-row">
         <div class="num">FR-02</div>
-        <div class="bar-wrap"><div class="bar" style="width: 86%"></div><span class="label">Construction · BTP</span></div>
+        <div class="label">Construction · BTP</div>
+        <div class="bar-wrap"><div class="bar" style="width: 86%"></div></div>
         <div class="val">12&nbsp;209<span class="pct">18&nbsp;%</span></div>
       </div>
       <div class="bar-row">
         <div class="num">FR-03</div>
-        <div class="bar-wrap"><div class="bar" style="width: 62%"></div><span class="label">Restauration · hôtellerie</span></div>
+        <div class="label">Restauration · hôtellerie</div>
+        <div class="bar-wrap"><div class="bar" style="width: 62%"></div></div>
         <div class="val">8&nbsp;814<span class="pct">13&nbsp;%</span></div>
       </div>
       <div class="bar-row">
         <div class="num">FR-04</div>
-        <div class="bar-wrap"><div class="bar" style="width: 52%"></div><span class="label">Services aux entreprises</span></div>
+        <div class="label">Services aux entreprises</div>
+        <div class="bar-wrap"><div class="bar" style="width: 52%"></div></div>
         <div class="val">7&nbsp;461<span class="pct">11&nbsp;%</span></div>
       </div>
       <div class="bar-row">
         <div class="num">FR-05</div>
-        <div class="bar-wrap"><div class="bar" style="width: 43%"></div><span class="label">Industrie manufacturière</span></div>
+        <div class="label">Industrie manufacturière</div>
+        <div class="bar-wrap"><div class="bar" style="width: 43%"></div></div>
         <div class="val">6&nbsp;105<span class="pct">9&nbsp;%</span></div>
       </div>
       <div class="bar-row">
         <div class="num">FR-06</div>
-        <div class="bar-wrap"><div class="bar" style="width: 33%"></div><span class="label">Transport · logistique</span></div>
+        <div class="label">Transport · logistique</div>
+        <div class="bar-wrap"><div class="bar" style="width: 33%"></div></div>
         <div class="val">4&nbsp;748<span class="pct">7&nbsp;%</span></div>
       </div>
       <div class="bar-row">
         <div class="num">FR-07</div>
-        <div class="bar-wrap"><div class="bar" style="width: 24%"></div><span class="label">Soins · santé</span></div>
+        <div class="label">Soins · santé</div>
+        <div class="bar-wrap"><div class="bar" style="width: 24%"></div></div>
         <div class="val">3&nbsp;391<span class="pct">5&nbsp;%</span></div>
       </div>
       <div class="bar-row">
         <div class="num">FR-08</div>
-        <div class="bar-wrap"><div class="bar" style="width: 14%"></div><span class="label">Immobilier · agences</span></div>
+        <div class="label">Immobilier · agences</div>
+        <div class="bar-wrap"><div class="bar" style="width: 14%"></div></div>
         <div class="val">2&nbsp;035<span class="pct">3&nbsp;%</span></div>
       </div>
 
       <div class="scale">
+        <div></div>
         <div></div>
         <div class="ticks"><span>0</span><span>3 500</span><span>7 000</span><span>10 500</span><span>14 000</span></div>
         <div></div>
