@@ -117,3 +117,4 @@ Rapport auto-enrichissement 2026-03-29 : absent (pipeline non execute ce matin).
 *Genere le 2026-03-29 -- source : aj_annonces.json (463 opp.) + PostgreSQL (86 704 procedures actives)*
 ## Related
 ## Related
+## Related

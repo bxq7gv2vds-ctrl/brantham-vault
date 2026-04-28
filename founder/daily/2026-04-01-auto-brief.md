@@ -75,3 +75,4 @@ Note DB : le champ `date_jugement_ouverture` ne correspond pas a une deadline de
 | Sites AJ en erreur | 0 (6 vides) | 0 |
 | Enrichissement session | 2 cycles (03h26, 06h26) | Cycle 3h OK |
 ## Related
+## Related

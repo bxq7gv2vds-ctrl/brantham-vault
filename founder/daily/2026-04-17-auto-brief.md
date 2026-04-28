@@ -91,3 +91,4 @@ generated: auto
 | Session enrichissement | Non générée | Quotidienne | Manquant |
 | Rapport auto-enrichment | Absent | Quotidien | Manquant |
 ## Related
+## Related

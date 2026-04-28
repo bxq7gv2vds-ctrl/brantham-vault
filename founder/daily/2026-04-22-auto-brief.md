@@ -78,3 +78,4 @@ Toutes les 1 364 annonces ont été scrapées ce matin. Top 3 à traiter en prio
 ---
 *Généré automatiquement le 2026-04-22 -- Sources : aj_annonces.json (1 364 entrées) + PostgreSQL (89 447 procédures actives) + deals workspace (350 dossiers)*
 ## Related
+## Related

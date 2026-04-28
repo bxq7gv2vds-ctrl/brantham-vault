@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>E — Navy luxe</title>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,500;1,8..60,300;1,8..60,400&family=DM+Mono:wght@400&display=swap" rel="stylesheet">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html, body { background:#b7b3aa; }
+  body { padding:60px; display:flex; justify-content:center; }
+  :root {
+    --bg:#001026;
+    --paper:#F8F7F4;
+    --soft:rgba(248,247,244,0.58);
+    --mute:rgba(248,247,244,0.32);
+    --rule:rgba(248,247,244,0.12);
+    --serif:'Source Serif 4', serif;
+    --mono:'DM Mono', monospace;
+  }
+  .post {
+    width:1080px; height:1080px; background:var(--bg); color:var(--paper);
+    font-family:var(--serif); position:relative; overflow:hidden;
+    display:flex; flex-direction:column;
+    font-feature-settings:"kern" 1,"liga" 1;
+    font-variant-numeric:lining-nums;
+  }
+  .head { padding:120px 140px 0; display:flex; justify-content:space-between; align-items:center; }
+  .head img { height:22px; filter:brightness(0) invert(1); }
+  .head .ref { font-family:var(--mono); font-size:10px; letter-spacing:0.32em; text-transform:uppercase; color:var(--mute); }
+
+  .body { flex:1; padding:100px 140px 0; }
+
+  .kicker {
+    font-family:var(--mono); font-size:10px;
+    letter-spacing:0.5em; text-transform:uppercase;
+    color:var(--mute); margin-bottom:48px;
+  }
+
+  h1 {
+    font-family:var(--serif); font-weight:300;
+    font-size:54px; line-height:1.18; letter-spacing:-0.02em;
+    max-width:780px;
+  }
+  h1 .it { font-style:italic; font-weight:300; }
+
+  .lede {
+    font-family:var(--serif); font-weight:300;
+    font-size:16px; line-height:1.7; color:var(--soft);
+    max-width:680px; margin-top:36px;
+  }
+  .lede b { color:var(--paper); font-weight:500; }
+
+  .table { margin-top:64px; }
+  .row {
+    display:grid; grid-template-columns:1fr 80px 110px 70px;
+    column-gap:32px; align-items:baseline;
+    padding:20px 0; border-bottom:1px solid var(--rule);
+  }
+  .row.h { padding:0 0 14px; border-bottom:1px solid var(--mute); }
+  .row.h > * {
+    font-family:var(--mono); font-size:9.5px; letter-spacing:0.32em;
+    text-transform:uppercase; color:var(--mute);
+  }
+  .row.h > *:nth-child(n+2) { text-align:right; }
+  .row .name { font-family:var(--serif); font-weight:400; font-size:18px; letter-spacing:-0.005em; }
+  .row .name .num { color:var(--mute); margin-right:18px; font-family:var(--mono); font-size:10px; letter-spacing:0.2em; vertical-align:0.18em; }
+  .row .pct { font-family:var(--serif); font-weight:300; font-size:22px; text-align:right; letter-spacing:-0.01em; }
+  .row .count { font-family:var(--mono); font-size:11.5px; text-align:right; color:var(--soft); }
+  .row .delta { font-family:var(--mono); font-size:11.5px; text-align:right; color:var(--soft); }
+  .row.flag .delta { color:var(--paper); }
+  .row.flag .pct { font-style:italic; }
+  .row:last-of-type { border-bottom:0; }
+
+  .foot {
+    margin:0 140px; padding:24px 0 120px;
+    border-top:1px solid var(--mute);
+    display:flex; justify-content:space-between; align-items:flex-end;
+  }
+  .sig { font-family:var(--serif); font-size:13px; line-height:1.5; font-weight:300; }
+  .sig .n { font-weight:500; }
+  .sig .f { color:var(--mute); font-size:12px; }
+  .credit { font-family:var(--mono); font-size:9.5px; letter-spacing:0.32em; text-transform:uppercase; color:var(--mute); text-align:right; line-height:2; }
+</style>
+</head>
+<body>
+<div class="post">
+  <header class="head">
+    <img src="../logo.png" alt="Brantham">
+    <div class="ref">N°01 — Avril 2026</div>
+  </header>
+
+  <div class="body">
+    <div class="kicker">Le baromètre</div>
+    <h1>Cinq secteurs concentrent <span class="it">près des trois quarts</span> des défaillances d'entreprises en France.</h1>
+    <p class="lede"><b>67&nbsp;830 procédures collectives</b> ouvertes en 2025, en hausse de seize pour cent. Deux secteurs à eux seuls portent près de quatre dossiers sur dix.</p>
+
+    <div class="table">
+      <div class="row h"><div>Secteur</div><div>Part</div><div>Dossiers</div><div>vs&nbsp;2024</div></div>
+      <div class="row"><div class="name"><span class="num">i</span>Commerce de détail</div><div class="pct">21&nbsp;%</div><div class="count">14&nbsp;264</div><div class="delta">+14&nbsp;%</div></div>
+      <div class="row"><div class="name"><span class="num">ii</span>Construction · BTP</div><div class="pct">18&nbsp;%</div><div class="count">12&nbsp;209</div><div class="delta">+11&nbsp;%</div></div>
+      <div class="row flag"><div class="name"><span class="num">iii</span>Restauration · hôtellerie</div><div class="pct">13&nbsp;%</div><div class="count">8&nbsp;814</div><div class="delta">+23&nbsp;%</div></div>
+      <div class="row"><div class="name"><span class="num">iv</span>Services aux entreprises</div><div class="pct">11&nbsp;%</div><div class="count">7&nbsp;461</div><div class="delta">+9&nbsp;%</div></div>
+      <div class="row"><div class="name"><span class="num">v</span>Industrie manufacturière</div><div class="pct">9&nbsp;%</div><div class="count">6&nbsp;105</div><div class="delta">+7&nbsp;%</div></div>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners</div></div>
+    <div class="credit"><div>INSEE — Banque de France</div><div>branthampartners.fr</div></div>
+  </footer>
+</div>
+</body>
+</html>
