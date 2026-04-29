@@ -1,0 +1,252 @@
+/* Pitch repreneur — base partagée (variant blanc + bleu profond)
+ *
+ * Importée par toutes les slides du deck. Rebind les tokens Brantham D3
+ * pour la palette pitch :
+ *   paper #FAFAFA · ink #001F54 · accent #001F54 · italique focus en bleu-mid
+ *
+ * Composants exposés :
+ *   .head, .foot, .stamp, .watermark      (linkedin D3 — restylés ici)
+ *   .kicker, .h1, .lede                   (typo de section)
+ *   .list, .table, .ledger                (linkedin D3 — héritage direct)
+ *   .compare-pair                         (NEW — bloc 2 col avant/après)
+ *   .alert                                (NEW — encart pastel pour signal)
+ *   .cascade                              (NEW — décomposition à barres)
+ *   .anchor-num                           (NEW — gros chiffre de focus)
+ *   .scale-row                            (NEW — ligne 01 + label + montant)
+ */
+
+:root {
+  --bleu-deep:   #001F54;
+  --bleu-mid:    #14306E;
+  --bleu-soft:   #5A6FA0;
+  --paper-pure:  #FAFAFA;
+  --rule-soft:   rgba(0, 31, 84, 0.14);
+  --rule-strong: rgba(0, 31, 84, 0.4);
+  --tint-pos:    rgba(0, 31, 84, 0.05);
+  --tint-neg:    rgba(122, 29, 23, 0.06);
+}
+
+.post {
+  background: var(--paper-pure);
+  --paper:    var(--paper-pure);
+  --ink:      var(--bleu-deep);
+  --ink-soft: var(--bleu-mid);
+  --ink-mute: var(--bleu-soft);
+  --rule:     var(--rule-soft);
+  --accent:   var(--bleu-deep);
+}
+
+/* Logo : forcé en bleu profond via filter SVG */
+.post .brand img {
+  height: 56px;
+  filter: brightness(0) saturate(100%) invert(11%) sepia(63%) saturate(3530%)
+          hue-rotate(214deg) brightness(91%) contrast(106%);
+}
+
+/* Watermark : bleu doux */
+.post .watermark { color: var(--bleu-soft); }
+
+/* Tampon contextualisé (section mark plutôt que ID admin) */
+.post .stamp {
+  border-color: var(--bleu-deep); color: var(--bleu-deep);
+  padding: 10px 16px;
+  display: flex; align-items: center; gap: 14px;
+}
+.post .stamp b { font-size: 14px; }
+.post .stamp .x { color: var(--bleu-soft); }
+
+/* Footer */
+.post .foot {
+  border-top: 1px solid var(--rule-strong);
+  padding-top: 22px; padding-bottom: 28px;
+  color: var(--bleu-mid);
+}
+.post .foot .sig .n { color: var(--bleu-deep); }
+
+/* ───────────── Typo de section ───────────── */
+.kicker {
+  font-family: var(--mono); font-size: 12px; letter-spacing: 0.36em;
+  text-transform: uppercase; color: var(--bleu-deep); font-weight: 500;
+  margin-bottom: 28px;
+  display: flex; align-items: center; gap: 18px;
+}
+.kicker::before {
+  content: ""; width: 36px; height: 1px; background: var(--bleu-deep);
+}
+
+.h1 {
+  font-family: var(--serif); font-weight: 500;
+  font-size: 84px; line-height: 1.0; letter-spacing: -0.03em;
+  color: var(--bleu-deep); max-width: 1320px;
+}
+.h1 .it { font-style: italic; font-weight: 400; color: var(--bleu-mid); }
+
+.lede {
+  margin-top: 28px;
+  font-family: var(--serif); font-size: 22px; line-height: 1.55;
+  color: var(--bleu-mid); max-width: 920px;
+}
+.lede b { color: var(--bleu-deep); font-weight: 600; }
+
+/* ───────────── Table héritée — restylée bleu ───────────── */
+.post .table .row { border-bottom: 1px solid var(--rule-soft); }
+.post .table .row.h { color: var(--bleu-soft); border-bottom: 1px solid var(--rule-strong); }
+.post .table .row .num { color: var(--bleu-soft); }
+.post .table .row.flag { background: var(--tint-pos); }
+.post .table .row.flag .num { color: var(--bleu-deep); font-weight: 600; }
+.post .table .row.flag .name::before { color: var(--bleu-deep); }
+.post .table .row.flag .delta { color: var(--bleu-deep); font-weight: 600; }
+
+/* ───────────── Liste 01/02 héritée ───────────── */
+.post .list .item { border-bottom: 1px solid var(--rule-soft); padding: 24px 0; }
+.post .list .item .num { color: var(--bleu-soft); }
+.post .list .item .label { color: var(--bleu-deep); }
+.post .list .item .desc { color: var(--bleu-mid); }
+
+/* ───────────── Ledger hérité ───────────── */
+.post .ledger .li { border-bottom: 1px solid var(--rule-soft); }
+.post .ledger .total { border-top: 2px solid var(--bleu-deep); }
+
+/* ───────────── NEW — Compare-pair (avant / après, repris / exclu) ───── */
+.compare-pair {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 32px;
+  margin-top: 32px;
+}
+.compare-pair .col {
+  border: 1px solid var(--rule-soft);
+  padding: 32px 36px;
+  background: var(--paper-pure);
+}
+.compare-pair .col.pos { background: var(--tint-pos); border-color: rgba(0, 31, 84, 0.18); }
+.compare-pair .col.neg { background: var(--tint-neg); border-color: rgba(122, 29, 23, 0.15); }
+.compare-pair .col-label {
+  font-family: var(--mono); font-size: 11px; letter-spacing: 0.32em;
+  text-transform: uppercase; color: var(--bleu-soft);
+  margin-bottom: 18px;
+}
+.compare-pair .col.pos .col-label { color: var(--bleu-deep); }
+.compare-pair .col.neg .col-label { color: #7A1D17; }
+.compare-pair .col-row {
+  display: flex; justify-content: space-between; align-items: baseline;
+  padding: 14px 0; border-bottom: 1px solid var(--rule-soft);
+  font-family: var(--serif); font-size: 18px;
+  color: var(--bleu-deep);
+}
+.compare-pair .col-row:last-child { border-bottom: none; }
+.compare-pair .col-row .v {
+  font-family: var(--mono); font-weight: 500; font-size: 16px;
+}
+.compare-pair .col-row .v.pos { color: var(--bleu-deep); }
+.compare-pair .col-row .v.neg { color: #7A1D17; }
+
+/* ───────────── NEW — Alert (encart "à savoir" / "lecture") ───── */
+.alert {
+  margin-top: 36px;
+  padding: 26px 32px;
+  border-left: 3px solid var(--bleu-deep);
+  background: rgba(0, 31, 84, 0.04);
+  max-width: 1240px;
+}
+.alert.warn { border-left-color: #7A1D17; background: rgba(122, 29, 23, 0.05); }
+.alert .alert-label {
+  font-family: var(--mono); font-size: 11px; letter-spacing: 0.32em;
+  text-transform: uppercase; color: var(--bleu-deep); margin-bottom: 10px;
+}
+.alert.warn .alert-label { color: #7A1D17; }
+.alert .alert-body {
+  font-family: var(--serif); font-size: 19px; line-height: 1.55;
+  color: var(--bleu-deep);
+}
+
+/* ───────────── NEW — Cascade (décomposition à barres) ───── */
+.cascade { margin-top: 28px; }
+.cascade .crow {
+  display: grid;
+  grid-template-columns: 56px 1fr 220px;
+  gap: 32px;
+  align-items: center;
+  padding: 22px 0;
+  border-bottom: 1px solid var(--rule-soft);
+}
+.cascade .crow:last-child { border-bottom: none; }
+.cascade .num {
+  font-family: var(--mono); font-size: 12px; color: var(--bleu-soft);
+  letter-spacing: 0.18em;
+}
+.cascade .label {
+  font-family: var(--serif); font-size: 22px; color: var(--bleu-deep);
+}
+.cascade .bar-wrap {
+  height: 8px; background: var(--rule-soft); margin-top: 10px;
+  position: relative;
+}
+.cascade .bar {
+  height: 100%; background: var(--bleu-deep);
+}
+.cascade .bar.alt { background: var(--bleu-mid); }
+.cascade .bar.warn { background: #7A1D17; }
+.cascade .amount {
+  font-family: var(--serif); font-size: 32px; font-weight: 500;
+  color: var(--bleu-deep); text-align: right; letter-spacing: -0.02em;
+}
+
+/* ───────────── NEW — Anchor-num (chiffre signature de section) ───── */
+.anchor-num {
+  font-family: var(--serif); font-style: italic; font-weight: 400;
+  font-size: 220px; line-height: 0.9; letter-spacing: -0.04em;
+  color: var(--bleu-deep);
+}
+
+/* ───────────── NEW — Scale-row (ligne mono : num + label + montant) ───── */
+.scale-list { margin-top: 28px; }
+.scale-row {
+  display: grid;
+  grid-template-columns: 56px 1fr auto;
+  gap: 32px;
+  align-items: baseline;
+  padding: 22px 0;
+  border-bottom: 1px solid var(--rule-soft);
+}
+.scale-row:last-child { border-bottom: none; }
+.scale-row .num {
+  font-family: var(--mono); font-size: 12px; color: var(--bleu-soft);
+  letter-spacing: 0.18em;
+}
+.scale-row .lbl {
+  font-family: var(--serif); font-size: 22px; color: var(--bleu-deep);
+}
+.scale-row .lbl .desc {
+  font-family: var(--serif); font-size: 15px; font-style: italic;
+  color: var(--bleu-mid); margin-top: 4px; display: block;
+  line-height: 1.45;
+}
+.scale-row .v {
+  font-family: var(--serif); font-size: 32px; font-weight: 500;
+  color: var(--bleu-deep); letter-spacing: -0.02em;
+}
+.scale-row .v.pos { color: var(--bleu-deep); }
+.scale-row .v.neg { color: #7A1D17; }
+.scale-row .qual {
+  font-family: var(--mono); font-size: 11px; letter-spacing: 0.28em;
+  text-transform: uppercase; color: var(--bleu-soft);
+}
+.scale-row .qual.warn { color: #7A1D17; }
+
+/* Ligne de total (style ledger) */
+.scale-total {
+  margin-top: 16px;
+  padding-top: 22px;
+  border-top: 2px solid var(--bleu-deep);
+  display: grid;
+  grid-template-columns: 56px 1fr auto;
+  gap: 32px;
+  align-items: baseline;
+}
+.scale-total .lbl {
+  font-family: var(--serif); font-size: 22px; font-weight: 600;
+  color: var(--bleu-deep);
+}
+.scale-total .v {
+  font-family: var(--serif); font-size: 36px; font-weight: 600;
+  color: var(--bleu-deep); letter-spacing: -0.02em;
+}
