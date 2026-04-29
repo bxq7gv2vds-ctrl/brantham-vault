@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Pitch repreneur — Cover v4 — Brantham</title>
+<link rel="stylesheet" href="../../../../linkedin/_design-system/base/tokens.css">
+<link rel="stylesheet" href="../../../../linkedin/_design-system/base/base.css">
+<link rel="stylesheet" href="../../../../linkedin/_design-system/templates-1920x1080/_format.css">
+<link rel="stylesheet" href="_pitch-base.css">
+<style>
+  /* Spécifique cover : layout flex pour centrer verticalement le titre */
+  .post .body {
+    display: flex; flex-direction: column; justify-content: center;
+    padding-top: 0; padding-bottom: 0; flex: 1; position: relative;
+  }
+
+  .cover-edition {
+    font-family: var(--mono); font-size: 12px; letter-spacing: 0.4em;
+    text-transform: uppercase; color: var(--bleu-deep);
+    margin-bottom: 48px; font-weight: 500;
+    display: flex; align-items: center; gap: 18px;
+  }
+  .cover-edition::before {
+    content: ""; width: 36px; height: 1px; background: var(--bleu-deep);
+  }
+
+  .cover-title {
+    font-family: var(--serif); font-weight: 500;
+    font-size: 104px; line-height: 1.0; letter-spacing: -0.03em;
+    color: var(--bleu-deep); max-width: 1480px;
+  }
+  .cover-title .it {
+    font-style: italic; font-weight: 400; color: var(--bleu-mid);
+  }
+
+  .cover-deck {
+    margin-top: 48px;
+    font-family: var(--serif); font-size: 22px; line-height: 1.55;
+    color: var(--bleu-mid); max-width: 980px; font-style: italic;
+  }
+  .cover-deck b {
+    color: var(--bleu-deep); font-weight: 600; font-style: normal;
+  }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · Pitch repreneur</div>
+  <div class="stamp"><b>§ Couverture</b><span class="x">00 / 13</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../../../../linkedin/_design-system/logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div class="cover-edition">Dossier repreneur — Avril 2026</div>
+    <h1 class="cover-title">Reprendre une <span class="it">salle de sport</span><br>en redressement.</h1>
+    <p class="cover-deck">Salle indépendante à Levallois · 900 m² · CA 350 K€. <b>Trois conditions</b> à valider avant dépôt — décision interne 14/05, dépôt greffe 21/05.</p>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Préparé pour</b> · le repreneur</div><div><b>Voir</b> · branthampartners.fr</div></div>
+  </footer>
+</div>
+
+</body>
+</html>

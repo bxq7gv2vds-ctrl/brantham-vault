@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Pitch repreneur — Slide 04 Trajectoire — Brantham</title>
+<link rel="stylesheet" href="../../../../linkedin/_design-system/base/tokens.css">
+<link rel="stylesheet" href="../../../../linkedin/_design-system/base/base.css">
+<link rel="stylesheet" href="../../../../linkedin/_design-system/templates-1920x1080/_format.css">
+<link rel="stylesheet" href="_pitch-base.css">
+<style>
+  /* Slide content : layout 2 colonnes texte / table comme slide-content du DS */
+  .post .body {
+    display: grid; grid-template-columns: 0.85fr 1.15fr; gap: 80px;
+    padding-top: 56px;
+  }
+  .post .h1 { font-size: 64px; max-width: 720px; }
+  .post .lede { font-size: 19px; max-width: 640px; margin-top: 24px; }
+
+  .right-col { display: flex; flex-direction: column; }
+  .right-col .table-title {
+    font-family: var(--mono); font-size: 11px; letter-spacing: 0.32em;
+    text-transform: uppercase; color: var(--bleu-soft); margin-bottom: 18px;
+  }
+
+  /* Override col-templates pour 5 colonnes (KPI + 4 périodes) */
+  .post .table .row {
+    grid-template-columns: 80px 1.4fr 0.8fr 0.8fr 0.8fr 0.8fr;
+    align-items: baseline;
+  }
+  .post .table .row > div {
+    padding: 18px 8px;
+    font-family: var(--serif); font-size: 22px; color: var(--bleu-deep);
+  }
+  .post .table .row.h > div {
+    font-family: var(--mono); font-size: 10px; color: var(--bleu-soft);
+    letter-spacing: 0.24em; text-transform: uppercase;
+    padding: 12px 8px;
+  }
+  .post .table .row .num {
+    font-family: var(--mono); font-size: 14px; color: var(--bleu-soft);
+    letter-spacing: 0.18em;
+  }
+  .post .table .row .name {
+    font-style: italic; color: var(--bleu-mid);
+  }
+  .post .table .row .v { font-family: var(--mono); font-size: 18px; }
+  .post .table .row .v.neg { color: #7A1D17; }
+  .post .table .row .v.pos { color: var(--bleu-deep); font-weight: 600; }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · Pitch repreneur</div>
+  <div class="stamp"><b>§ Diagnostic</b><span class="x">04 / 13</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../../../../linkedin/_design-system/logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div>
+      <div class="kicker">Acte II · Diagnostic</div>
+      <h1 class="h1">Quatre ans, <span class="it">une descente continue</span>.</h1>
+      <p class="lede">Le chiffre d'affaires perd 41 % entre 2022 et 2024. Mais sous administration, sur les six derniers mois, l'<b>EBE et la trésorerie redeviennent positifs</b> — l'exploitation tient debout dès qu'on neutralise la dette ancienne.</p>
+    </div>
+
+    <div class="right-col">
+      <div class="table-title">Trajectoire 2022 — PO 6 mois</div>
+      <div class="table">
+        <div class="row h">
+          <div>Réf.</div><div>Indicateur</div><div>2022</div><div>2023</div><div>2024</div><div>PO 6m</div>
+        </div>
+        <div class="row">
+          <div class="num">FR-01</div>
+          <div class="name">Chiffre d'affaires</div>
+          <div class="v">595</div>
+          <div class="v">478</div>
+          <div class="v">350</div>
+          <div class="v">175</div>
+        </div>
+        <div class="row">
+          <div class="num">FR-02</div>
+          <div class="name">EBE</div>
+          <div class="v">62</div>
+          <div class="v">14</div>
+          <div class="v neg">−38</div>
+          <div class="v pos">+12</div>
+        </div>
+        <div class="row">
+          <div class="num">FR-03</div>
+          <div class="name">Résultat net</div>
+          <div class="v">21</div>
+          <div class="v neg">−24</div>
+          <div class="v neg">−72</div>
+          <div class="v pos">+4</div>
+        </div>
+        <div class="row flag">
+          <div class="num">FR-04</div>
+          <div class="name">Trésorerie fin de période</div>
+          <div class="v">48</div>
+          <div class="v">22</div>
+          <div class="v neg">−9</div>
+          <div class="v pos">+18</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Source</b> · liasses fiscales 2022-24, note expert-comptable</div><div><b>Unité</b> · K€ &mdash; chiffres normalisés</div></div>
+  </footer>
+</div>
+
+</body>
+</html>
