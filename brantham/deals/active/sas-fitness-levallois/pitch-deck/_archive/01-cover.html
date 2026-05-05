@@ -2,44 +2,34 @@
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
-<title>Pitch repreneur — Cover v4 — Brantham</title>
+<title>Pitch repreneur — Cover — Brantham</title>
 <link rel="stylesheet" href="../../../../linkedin/_design-system/base/tokens.css">
 <link rel="stylesheet" href="../../../../linkedin/_design-system/base/base.css">
 <link rel="stylesheet" href="../../../../linkedin/_design-system/templates-1920x1080/_format.css">
-<link rel="stylesheet" href="_pitch-base.css">
 <style>
-  /* Spécifique cover : layout flex pour centrer verticalement le titre */
-  .post .body {
-    display: flex; flex-direction: column; justify-content: center;
-    padding-top: 0; padding-bottom: 0; flex: 1; position: relative;
-  }
-
+  .post .body { display: flex; flex-direction: column; justify-content: center; padding-top: 0; }
   .cover-edition {
-    font-family: var(--mono); font-size: 12px; letter-spacing: 0.4em;
-    text-transform: uppercase; color: var(--bleu-deep);
-    margin-bottom: 48px; font-weight: 500;
-    display: flex; align-items: center; gap: 18px;
+    font-family: var(--mono); font-size: 12px; letter-spacing: 0.36em;
+    text-transform: uppercase; color: var(--accent); margin-bottom: 36px; font-weight: 500;
   }
-  .cover-edition::before {
-    content: ""; width: 36px; height: 1px; background: var(--bleu-deep);
-  }
-
   .cover-title {
     font-family: var(--serif); font-weight: 500;
-    font-size: 104px; line-height: 1.0; letter-spacing: -0.03em;
-    color: var(--bleu-deep); max-width: 1480px;
+    font-size: 132px; line-height: 0.96; letter-spacing: -0.035em;
+    color: var(--ink); max-width: 1320px;
   }
-  .cover-title .it {
-    font-style: italic; font-weight: 400; color: var(--bleu-mid);
-  }
-
+  .cover-title .it { font-style: italic; font-weight: 400; }
   .cover-deck {
-    margin-top: 48px;
-    font-family: var(--serif); font-size: 22px; line-height: 1.55;
-    color: var(--bleu-mid); max-width: 980px; font-style: italic;
+    margin-top: 40px; font-family: var(--serif); font-size: 22px; line-height: 1.55;
+    color: var(--ink-soft); max-width: 980px; font-style: italic;
   }
-  .cover-deck b {
-    color: var(--bleu-deep); font-weight: 600; font-style: normal;
+  .cover-deck b { color: var(--ink); font-weight: 600; font-style: normal; }
+
+  .swipe {
+    position: absolute; bottom: 96px; right: 96px;
+    font-family: var(--mono); font-size: 11px; letter-spacing: 0.32em;
+    text-transform: uppercase; color: var(--accent);
+    border-top: 1px solid var(--accent); border-bottom: 1px solid var(--accent);
+    padding: 10px 18px; font-weight: 500;
   }
 </style>
 </head>
@@ -47,7 +37,7 @@
 
 <div class="post">
   <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · Pitch repreneur</div>
-  <div class="stamp"><b>§ Couverture</b><span class="x">00 / 13</span></div>
+  <div class="stamp">Pitch repreneur<b>N°01·2026</b><span class="x">04 · Avril</span></div>
 
   <header class="head">
     <div class="brand"><img src="../../../../linkedin/_design-system/logo.png" alt="Brantham Partners"></div>
@@ -58,6 +48,8 @@
     <h1 class="cover-title">Reprendre une <span class="it">salle de sport</span><br>en redressement.</h1>
     <p class="cover-deck">Salle indépendante à Levallois · 900 m² · CA 350 K€. <b>Trois conditions</b> à valider avant dépôt — décision interne 14/05, dépôt greffe 21/05.</p>
   </div>
+
+  <div class="swipe">→ Dossier complet</div>
 
   <footer class="foot">
     <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
