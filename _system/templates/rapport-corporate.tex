@@ -1,0 +1,278 @@
+% =====================================================================
+% TEMPLATE — Rapport corporate Brantham Partners
+% Style : LaTeX article, sobre, monochrome, serif Computer Modern
+% Inspiration : Dossier_Complet.pdf (avr. 2026)
+% Usage : remplir les champs <<...>>, compiler avec pdflatex
+% =====================================================================
+
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{lmodern}
+\usepackage[a4paper,margin=2.5cm]{geometry}
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{setspace}
+
+\hypersetup{
+  colorlinks=false,
+  pdfborder={0 0 0}
+}
+
+% Espacements titres : sobres, pas de couleurs
+\titleformat{\section}{\Large\bfseries}{\thesection.}{0.6em}{}
+\titleformat{\subsection}{\large\bfseries}{\thesubsection}{0.6em}{}
+\titleformat{\subsubsection}{\normalsize\bfseries}{\thesubsubsection}{0.6em}{}
+
+\titlespacing*{\section}{0pt}{2.2ex plus 1ex minus .2ex}{1.2ex plus .2ex}
+\titlespacing*{\subsection}{0pt}{1.6ex plus 1ex minus .2ex}{0.8ex plus .2ex}
+
+% Pied de page : numéro centré
+\pagestyle{plain}
+
+% Justification + interligne aéré
+\setlength{\parskip}{0.5em}
+\setlength{\parindent}{0pt}
+\onehalfspacing
+
+% =====================================================================
+% MÉTADONNÉES — à remplir pour chaque dossier
+% =====================================================================
+\newcommand{\rapportTitre}{<<TITRE DU RAPPORT>>}
+\newcommand{\rapportSousTitre}{<<Sous-titre / nature du rapport>>}
+\newcommand{\rapportContexte}{Brantham Partners --- Conseil M\&A distressed}
+\newcommand{\rapportDate}{<<AAAA-MM-JJ>>}
+\newcommand{\rapportConfidentiel}{Confidentiel --- Usage interne et client}
+
+\begin{document}
+
+% =====================================================================
+% PAGE DE GARDE — minimaliste, centrée verticalement
+% =====================================================================
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+{\Large\bfseries \rapportTitre}\\[1em]
+{\normalsize \rapportSousTitre}\\[3em]
+{\small \rapportContexte}\\[1em]
+{\small \rapportDate}\\[1em]
+{\footnotesize \itshape \rapportConfidentiel}
+\end{center}
+\vspace*{\fill}
+\newpage
+
+% =====================================================================
+% SOMMAIRE
+% =====================================================================
+\tableofcontents
+\newpage
+
+% =====================================================================
+% AVANT-PROPOS (optionnel)
+% =====================================================================
+\section*{Avant-propos}
+\addcontentsline{toc}{section}{Avant-propos}
+
+<<Quelques lignes sur l'objet du rapport, son périmètre, ses limites, et la
+posture analytique adoptée. Ne pas excéder 10 lignes.>>
+
+\textbf{Utilisation recommandée.}
+\begin{enumerate}[leftmargin=2em]
+  \item <<Première lecture pour vue d'ensemble.>>
+  \item <<Mémoriser les chiffres-clés et les drapeaux rouges.>>
+  \item <<Se référer aux sources en annexe avant tout call client.>>
+\end{enumerate}
+
+\textbf{Structure du rapport.}
+\begin{itemize}[leftmargin=2em]
+  \item \textbf{Partie I} : <<...>>
+  \item \textbf{Partie II} : <<...>>
+  \item \textbf{Partie III} : <<...>>
+\end{itemize}
+
+\newpage
+
+% =====================================================================
+% CORPS DU RAPPORT
+% =====================================================================
+
+\section{Synthèse exécutive}
+
+<<3 à 5 paragraphes de synthèse. Reprendre les 3 messages clés et la
+recommandation finale en une seule phrase.>>
+
+\textbf{Recommandation.} <<Une phrase, sans nuance superflue.>>
+
+\subsection{Chiffres clés}
+
+\begin{tabular}{ll}
+\toprule
+<<Indicateur 1>> & <<Valeur>> \\
+<<Indicateur 2>> & <<Valeur>> \\
+<<Indicateur 3>> & <<Valeur>> \\
+\bottomrule
+\end{tabular}
+
+\section{Périmètre et structure du dossier}
+
+\subsection{Entités concernées}
+
+\textbf{<<Entité 1>>.} <<SIREN, forme juridique, capital, NAF, siège, date de
+création. Une phrase de description du rôle dans le groupe.>>
+
+\textbf{<<Entité 2>>.} <<Idem.>>
+
+\subsection{Procédure collective}
+
+\textbf{Tribunal.} <<Tribunal compétent, date du jugement d'ouverture, date de
+cessation des paiements, période d'observation.>>
+
+\textbf{Administrateur judiciaire.} <<Cabinet, nom du mandataire, adresse, contact.>>
+
+\textbf{Mandataire judiciaire.} <<Idem.>>
+
+\textbf{DLDO (date limite de dépôt des offres).} <<JJ/MM/AAAA --- horaire>>.
+
+\section{Analyse financière}
+
+\subsection{Compte de résultat consolidé}
+
+\begin{tabular}{lrrrr}
+\toprule
+M\euro{} & 2022 & 2023 & 2024 & 2025 \\
+\midrule
+Chiffre d'affaires & & & & \\
+EBITDA & & & & \\
+Marge EBITDA & & & & \\
+Résultat net & & & & \\
+\bottomrule
+\end{tabular}
+
+\textbf{Lecture.} <<Diagnostic en 2 à 3 phrases. Souligner la rupture observée.>>
+
+\subsection{Bilan et passif estimé}
+
+\textbf{Dette financière.} <<Estimation de la dette senior, mezzanine, OBSA/OC.>>
+
+\textbf{Passif fournisseurs.} <<Indicateurs Rubypayeur, retards observés.>>
+
+\textbf{Passif social.} <<Effectif, masse salariale annuelle, exposition AGS.>>
+
+\textbf{Passif fiscal et social (URSSAF).} <<Estimation arriérés.>>
+
+\textbf{Passif total estimé.} <<Fourchette en M\euro{}.>>
+
+\subsection{Tour de table et historique capitalistique}
+
+<<Reconstituer le ou les tours de table successifs : date, sponsors, dette,
+montants. Identifier la cap table actuelle (estimation si non publique).>>
+
+\section{Valorisation et stratégie d'offre}
+
+\subsection{Multiples sectoriels de référence}
+
+\begin{itemize}[leftmargin=2em]
+  \item <<Comparable 1 --- multiple appliqué>>
+  \item <<Comparable 2 --- multiple appliqué>>
+\end{itemize}
+
+\subsection{Estimation de valeur d'entreprise}
+
+\begin{tabular}{lrrr}
+\toprule
+Composante & Bear & Base & Bull \\
+\midrule
+<<Actif 1>> & & & \\
+<<Actif 2>> & & & \\
+<<Actif 3>> & & & \\
+\midrule
+\textbf{Total EV} & & & \\
+\bottomrule
+\end{tabular}
+
+\subsection{Recommandation de prix d'offre}
+
+\textbf{Règle interne Brantham.} Plafond \(=\) 12\,\% du CA de référence en
+plan de cession.
+
+\textbf{Offre cible recommandée.} <<Fourchette en k\euro{} ou M\euro{}, périmètre,
+exclusions, conditions de reprise sociale.>>
+
+\section{Drapeaux rouges}
+
+\subsection{Criticité 1 --- bloquants}
+
+\begin{enumerate}[leftmargin=2em]
+  \item \textbf{<<Drapeau 1>>.} <<Description, impact, action correctrice.>>
+  \item \textbf{<<Drapeau 2>>.} <<Idem.>>
+\end{enumerate}
+
+\subsection{Criticité 2 --- risques sérieux}
+
+\begin{enumerate}[leftmargin=2em,start=3]
+  \item \textbf{<<Drapeau 3>>.}
+  \item \textbf{<<Drapeau 4>>.}
+\end{enumerate}
+
+\subsection{Criticité 3 --- à clarifier}
+
+\begin{enumerate}[leftmargin=2em,start=5]
+  \item \textbf{<<Drapeau 5>>.}
+\end{enumerate}
+
+\section{Cartographie repreneurs}
+
+\subsection{Tier 1 --- outreach immédiat}
+
+\begin{tabular}{p{4cm}p{3cm}p{6cm}}
+\toprule
+Cible & Dirigeant & Logique stratégique \\
+\midrule
+<<Repreneur 1>> & <<Nom>> & <<1 à 2 lignes>> \\
+<<Repreneur 2>> & <<Nom>> & <<1 à 2 lignes>> \\
+\bottomrule
+\end{tabular}
+
+\subsection{Tier 2 --- outreach J+3}
+
+<<Idem, tableau de candidats secondaires.>>
+
+\section{Données à exiger en data room}
+
+\begin{enumerate}[leftmargin=2em]
+  \item <<Élément 1>>
+  \item <<Élément 2>>
+  \item <<Élément 3>>
+\end{enumerate}
+
+\section{Contacts clés}
+
+\textbf{Administrateur judiciaire.} <<Nom, cabinet, adresse, téléphone, e-mail.>>
+
+\textbf{Mandataire judiciaire.} <<Idem.>>
+
+\textbf{Conseil repreneur cité.} <<Nom, cabinet.>>
+
+\textbf{Dirigeant historique.} <<Nom, fonction, LinkedIn.>>
+
+\section*{Annexe --- Sources}
+\addcontentsline{toc}{section}{Annexe --- Sources}
+
+\begin{enumerate}[leftmargin=2em]
+  \item <<Source 1 --- titre, URL, date de consultation.>>
+  \item <<Source 2 --- idem.>>
+\end{enumerate}
+
+\textbf{Limitations méthodologiques.} <<Lister les sources non consultées,
+les bases payantes en panne de crédits, les comptes non publiés au greffe,
+toute hypothèse non vérifiable.>>
+
+\end{document}
