@@ -38,7 +38,8 @@ Adopter [PageIndex](https://github.com/VectifyAI/PageIndex) (Vectify AI) comme o
 - Wrapper CLI : `brantham-pageindex <deal-slug> <pdf-path>` (dans `~/.local/bin/`)
 - Output trees : `vault/brantham/deals/active/<deal-slug>/_dataroom/<pdf>.tree.json`
 - Auto-link : wikilink ajouté dans `_MOC.md` du deal sous "Data room (PageIndex)"
-- LLM : Claude Sonnet 4.5 via LiteLLM (cohérence écosystème Anthropic)
+- LLM : Claude Sonnet 4.5 via le CLI `claude` (auth Claude Code OAuth — **pas de clé API à gérer**)
+- Backend custom : `pageindex/claude_cli_backend.py` remplace les appels LiteLLM par `subprocess` vers `claude -p`
 - Skill Claude Code : `/pageindex` pour invocation naturelle
 
 ## Coûts
