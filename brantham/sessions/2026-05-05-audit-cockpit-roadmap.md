@@ -24,7 +24,12 @@ Reprise après session 2026-04-28 (minimalisme + outreach tracker). Demande user
 
 ## Étape 1 livrée
 
-`launchctl load ~/Library/LaunchAgents/com.brantham.daily-scrape.plist` + `launchctl start com.brantham.daily-scrape` pour scrape immédiat. Le job tourne désormais à 8h chaque jour, alimente Supabase via `cockpit.import_scan`. Distinct de `com.brantham.scrape-enrich` (existant, toutes les 3h, alimente l'ancien dashboard `brantham-partners/api/`).
+- `launchctl load com.brantham.daily-scrape.plist` ✓
+- Bug fixé dans `daily_scrape.sh:30` : `import_scan "$SCAN"` → `import_scan --scan "$SCAN"` (signature flag)
+- Scrape manuel + import Supabase : +40 new, 418 updated, **458 total**
+- Cockpit live : actives 148 → 188, last_scrape_at à jour, new_24h = 40
+
+**Blocage TCC** : launchd refuse d'exécuter le script dans `~/Downloads/` (`Operation not permitted` — protection macOS). Le job tournera à 8h demain seulement si on déplace le pipeline (étape 16 anticipée) ou si l'user donne Full Disk Access à `/bin/bash` via System Settings. Le scrape manuel via shell user marche, c'est juste launchd qui est bloqué.
 
 ## Décisions
 
