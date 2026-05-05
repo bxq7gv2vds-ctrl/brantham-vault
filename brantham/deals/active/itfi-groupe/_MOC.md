@@ -17,6 +17,10 @@ Groupe média + agence B2B IT en RJ, deadline offres 21/05/2026. CA combiné 11,
 - [[deals/active/itfi-groupe/rapport-audit|Rapport d'audit complet (HTML+PDF)]] — 13 sections, mise en forme corporate Brantham
 - [[deals/active/itfi-groupe/rapport-audit.pdf|PDF rendu]] — 2026-05-05
 
+## Data room (PageIndex)
+
+Indexer un PDF lourd : `brantham-pageindex itfi-groupe <chemin.pdf>`. Voir [[brantham/patterns/data-room-pageindex]].
+
 ## Procédure
 
 - **AJ** : Me Carole Martinez, SELARL 2M & Associés, 22 rue de l'Arcade 75008 — 01 43 12 30 00
