@@ -44,6 +44,18 @@ Reprise après session 2026-04-28 (minimalisme + outreach tracker). Demande user
 
 **Étape 3 (clés API)** différée — action user requise (signup Pappers + Hunter.io).
 
+## Étape 7 livrée — scrapers AJ
+
+Audit live a montré que 4/8 prétendus cassés étaient OK (SAJ/Ascagne/Cardon/Maydaymag retournent 2/18/2/5 opps). 4 vraiment silencieux (Adjust/KSG/MM AJ/AJ Partenaires) sont en réalité dormants — sites en ligne, 0 opps actuellement, scrapers retournent légitimement vide.
+
+**Bug réel trouvé** : `_scrape_gemweb_endpoint()` extrayait le 1er `t:formdata` du DOM, qui appartient au form login inline sur certains sites (Adjust/KSG/MM AJ), faisant que le POST renvoyait le formulaire vide au lieu des résultats. Fix : itérer `t:formdata` en skippant ceux dont le parent form a `loginform` dans son action. Futur-proof.
+
+**BVP réactivé** : domaine `etude-bpv.fr` 404 → migré vers `vardon.gemweb.fr` (cabinet SELARLU BPV / Béatrice Vardon Paris 16). 30 sites enabled au total.
+
+## Décision capturée
+
+[[feedback_no_bodacc]] — Pas de BODACC pour le scrape Brantham, rester sur sites AJ existants.
+
 ## Décisions
 
 - Roadmap exécutée séquentiellement (pas en swarm parallèle) pour éviter les conflits multi-fichiers.
