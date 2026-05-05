@@ -153,10 +153,11 @@ h1 {
   font-weight: bold;
   margin: 1.6em 0 0.8em 0;
   page-break-after: avoid;
-  page-break-before: always;
+  page-break-before: auto;
+  page-break-inside: avoid;
   text-align: left;
 }
-h1.no-break { page-break-before: auto; }
+h1.force-break { page-break-before: always; }
 
 h2 {
   font-size: 12pt;
