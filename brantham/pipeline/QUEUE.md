@@ -65,3 +65,17 @@ _Mise à jour : 2026-04-29 18:52_
 - **Slug** : `trajectoire-production-et-n-goce-de-fruits-et-l-gumes`  
 - **Statut** : A enrichir  
 
+
+
+## Ajouts 2026-05-05 — Auto-enrichment
+
+| Slug | Nom | CA estimé | Source AJ | Procédure | SIREN |
+|------|-----|-----------|-----------|-----------|-------|
+| ajire-auroit | AUROIT | De 3 à 10M | Ajire | cession | 401278379 |
+| ajilink-ihdf-ikomobi | IKOMOBI | De 1 à 3M | Ajilink IHDF | cession | 514418748 |
+| ajilink-provence-desiree | DESIREE | Moins de 1M | Ajilink Provence | cession | 428774822 |
+| ajilink-provence-noemys-arles | NOEMYS ARLES | Moins de 1M | Ajilink Provence | cession | 948310461 |
+| ajilink-provence-noemys-neris | NOEMYS NERIS | Moins de 1M (CA=620K) | Ajilink Provence | cession | 523274777 |
+| ajilink-provence-le-grill-saint-andre | LE GRILL SAINT ANDRE | Moins de 1M | Ajilink Provence | cession | 978861243 |
+| ajilink-ihdf-nectargo | NECTARGO | Moins de 1M | Ajilink IHDF | cession | 902686997 |
+| ajup-hotel-saint-quentin-kyriad | HOTEL SAINT QUENTIN KYRIAD | Moins de 1M | AJ UP | cession | N/A |
