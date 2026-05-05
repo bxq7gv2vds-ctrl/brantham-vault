@@ -38,6 +38,12 @@ Reprise après session 2026-04-28 (minimalisme + outreach tracker). Demande user
 - Intégré au `daily_scrape.sh` : tournera après chaque scrape
 - **263 opps archivées** en 1 run. Filtre Vue "⌫ archivées" déjà existant les retrouve toutes.
 
+## Étape 4 livrée — fix hydration
+
+`components/Cockpit.tsx:58` : `useState(() => new Date().toLocaleString())` exécuté SSR + CSR créait 1s de drift → React regenerait tout le tree à chaque render. Fix 2 edits : init `useState("")` + tick immédiat dans `useEffect`. Aucune erreur hydration dans les logs après reload.
+
+**Étape 3 (clés API)** différée — action user requise (signup Pappers + Hunter.io).
+
 ## Décisions
 
 - Roadmap exécutée séquentiellement (pas en swarm parallèle) pour éviter les conflits multi-fichiers.
