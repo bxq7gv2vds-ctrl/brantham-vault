@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Brantham — 186 par jour</title>
+<link rel="stylesheet" href="_shared.css">
+<style>
+  /* ───────── Layout post 01 — chiffre signal ───────── */
+  .p1 .body { padding-top: 40px; }
+  .p1 .kicker { margin-bottom: 18px; }
+
+  .p1 .signal {
+    display: flex;
+    align-items: baseline;
+    gap: 26px;
+    margin: 8px 0 18px;
+  }
+  .p1 .signal .num {
+    font-family: var(--serif);
+    font-weight: 300;
+    font-size: 240px;
+    line-height: 0.86;
+    letter-spacing: -0.045em;
+    color: currentColor;
+    font-variant-numeric: lining-nums tabular-nums;
+  }
+  .p1 .signal .unit {
+    font-family: var(--serif);
+    font-style: italic;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 1.15;
+    color: var(--ink-soft);
+    max-width: 280px;
+    padding-bottom: 28px;
+  }
+  .post.dark .p1 .signal .unit { color: rgba(248,247,244,0.72); }
+
+  .p1 .h1 {
+    font-size: 38px;
+    line-height: 1.18;
+    max-width: 820px;
+    margin-top: 4px;
+    color: currentColor;
+    font-weight: 400;
+  }
+  .p1 .h1 .it { font-style: italic; }
+
+  .p1 .lede {
+    font-size: 16px;
+    line-height: 1.55;
+    max-width: 760px;
+    margin-top: 22px;
+  }
+
+  /* Table data 3 colonnes minimaliste */
+  .p1 .stats {
+    margin-top: 36px;
+    border-top: 1px solid currentColor;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 0;
+  }
+  .p1 .stats .cell {
+    padding: 22px 0 0;
+    border-right: 1px solid var(--rule);
+    padding-right: 24px;
+  }
+  .p1 .stats .cell:last-child { border-right: 0; padding-right: 0; }
+  .p1 .stats .cell + .cell { padding-left: 24px; }
+  .p1 .stats .label {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    margin-bottom: 14px;
+  }
+  .p1 .stats .value {
+    font-family: var(--serif);
+    font-size: 38px;
+    font-weight: 400;
+    letter-spacing: -0.018em;
+    color: currentColor;
+    font-variant-numeric: lining-nums tabular-nums;
+  }
+  .p1 .stats .sub {
+    font-family: var(--serif);
+    font-size: 13.5px;
+    line-height: 1.45;
+    font-style: italic;
+    color: var(--ink-soft);
+    margin-top: 8px;
+    max-width: 240px;
+  }
+  .post.dark .p1 .stats .sub { color: rgba(248,247,244,0.62); }
+  .post.dark .p1 .stats { border-top-color: #F8F7F4; }
+  .post.dark .p1 .stats .cell { border-right-color: rgba(248,247,244,0.18); }
+
+  /* Pull quote bas de page italique */
+  .p1 .coda {
+    margin-top: 32px;
+    padding-top: 24px;
+    border-top: 0.5px solid var(--rule);
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 18px;
+    line-height: 1.4;
+    color: currentColor;
+    max-width: 760px;
+  }
+  .post.dark .p1 .coda { border-top-color: rgba(248,247,244,0.18); }
+
+  .p1 .accent { color: #C8B97A; font-style: normal; font-weight: 500; }
+</style>
+</head>
+<body>
+
+<div class="post p1 dark">
+
+  <header class="head">
+    <div class="brand"><img src="logo.png" alt="Brantham Partners"></div>
+    <div class="ref"><b>Le baromètre</b> · n°02 · Mai 2026</div>
+  </header>
+
+  <div class="body">
+
+    <div class="kicker">Procédures collectives · France · 2025</div>
+
+    <div class="signal">
+      <div class="num">186</div>
+      <div class="unit">ouvertures<br>chaque jour<br>en 2025.</div>
+    </div>
+
+    <h1 class="h1">
+      Sur ce volume, <span class="it">environ 5&nbsp;%</span> débouchent sur une cession à un repreneur.
+    </h1>
+
+    <div class="stats">
+      <div class="cell">
+        <div class="label">Volume annuel</div>
+        <div class="value">67&nbsp;830</div>
+        <div class="sub">procédures collectives ouvertes en France en 2025.</div>
+      </div>
+      <div class="cell">
+        <div class="label">Évolution</div>
+        <div class="value">+16&nbsp;%</div>
+        <div class="sub">par rapport à 2024. Plus haut niveau depuis 2014.</div>
+      </div>
+      <div class="cell">
+        <div class="label">Issue cession</div>
+        <div class="value">≈ 5&nbsp;%</div>
+        <div class="sub">le reste finit en liquidation. Souvent faute de candidat.</div>
+      </div>
+    </div>
+
+    <div class="coda">
+      Le distressed M&amp;A français est <span class="accent">le segment le moins documenté</span> de la transmission d'entreprise en Europe occidentale.
+    </div>
+
+    <div style="flex:1"></div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig">
+      <div class="name">Paul Roulleau</div>
+      <div class="firm">Brantham Partners — M&amp;A distressed</div>
+    </div>
+    <div class="meta">
+      <div><b>Source</b> · INSEE · CNAJMJ · Banque de France</div>
+      <div><b>Voir</b> · branthampartners.fr / barometre</div>
+    </div>
+  </footer>
+
+</div>
+
+</body>
+</html>
