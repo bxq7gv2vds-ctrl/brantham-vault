@@ -93,55 +93,57 @@ body {
   margin-top: 0.5em;
 }
 
-/* ================ SOMMAIRE ================ */
+/* ================ SOMMAIRE — leaders dots LaTeX-style ================ */
 .toc { page-break-after: always; }
 .toc h1 {
   font-size: 24pt;
   font-weight: bold;
-  margin: 0 0 1.5em 0;
+  margin: 0 0 1.8em 0;
   text-align: left;
   page-break-before: auto;
 }
-.toc ol {
+.toc ul {
   list-style: none;
-  padding-left: 0;
+  padding: 0;
   margin: 0;
-  counter-reset: section;
 }
-.toc > ol > li {
-  margin: 0.55em 0;
-  font-weight: bold;
+.toc li {
+  margin: 0.32em 0;
   font-size: 11pt;
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  border-bottom: 0.4pt dotted #999;
-  padding-bottom: 0.1em;
-}
-.toc > ol > li::before {
-  content: "";
-}
-.toc > ol > li > ol {
-  margin: 0.25em 0 0.4em 1.4em;
   font-weight: normal;
-  font-size: 10.5pt;
-  width: 100%;
-  display: block;
 }
-.toc > ol > li > ol > li {
-  display: flex;
-  justify-content: space-between;
-  border-bottom: none;
-  margin: 0.15em 0;
+.toc li.section-entry {
+  font-weight: bold;
+  margin-top: 0.9em;
+  margin-bottom: 0.25em;
+}
+.toc li.subsection-entry {
+  font-weight: normal;
+  padding-left: 1.4em;
+  font-size: 10.5pt;
+  margin: 0.14em 0;
 }
 .toc li a {
-  color: #000;
+  display: flex;
+  align-items: baseline;
   text-decoration: none;
-  flex: 1;
+  color: #000;
+  width: 100%;
 }
-.toc .pagenum {
-  font-weight: normal;
-  margin-left: 0.5em;
+.toc li a .t {
+  flex-shrink: 0;
+}
+.toc li a .l {
+  flex: 1;
+  border-bottom: 0.5pt dotted #000;
+  margin: 0 0.35em;
+  transform: translateY(-0.18em);
+  min-width: 1em;
+}
+.toc li a::after {
+  content: target-counter(attr(href url), page);
+  flex-shrink: 0;
+  font-variant-numeric: tabular-nums;
 }
 
 /* ================ TITRES ================ */
