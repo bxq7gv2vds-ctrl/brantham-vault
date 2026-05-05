@@ -56,13 +56,9 @@ Audit live a montré que 4/8 prétendus cassés étaient OK (SAJ/Ascagne/Cardon/
 
 [[feedback_no_bodacc]] — Pas de BODACC pour le scrape Brantham, rester sur sites AJ existants.
 
-## Étape 8 livrée — générateur teaser ★
+## Étape 8 — abandonnée
 
-Approche zero-dépendance : route `/teaser/[id]` Next, composant React `TeaserDocument` éditable inline via `contentEditable`, format A4 via CSS `@page`, export PDF via Cmd+P natif macOS. Anonymisation et positivisation procédure (RJ/LJ/sauvegarde) cf. pattern `teaser-patterns.md`. Bouton "Générer teaser" ajouté à `OppDrawer` + `DealDrawer`. Route accepte les 2 (opportunity OU deal, avec synthèse minimal Opp si deal sans opp liée — cas Magic Form). Latence ~220ms cold, 70ms cache.
-
-**Magic Form J-16** : le bouton fonctionne, le draft s'ouvre dans nouvel onglet, Soren peut éditer/imprimer/exporter PDF.
-
-Fichiers : `lib/teaser.ts`, `app/teaser/[id]/page.tsx`, `components/TeaserDocument.tsx`, edits `OppDrawer.tsx` + `DealDrawer.tsx`.
+Teaser implémenté puis revert sur demande user ("on fait pas de teaser"). Tous les fichiers et edits supprimés. App back to clean state.
 
 ## Décisions
 
