@@ -1,16 +1,43 @@
 /* =====================================================================
-   Rapport corporate Brantham — feuille de style imitant LaTeX article
-   À utiliser avec WeasyPrint pour générer un PDF sobre, monochrome
+   Rapport corporate Brantham — feuille de style WeasyPrint
+   Match exact du Dossier_Complet.pdf (LaTeX article, Computer Modern)
    ===================================================================== */
+
+/* ==== Polices Computer Modern (CMU Serif) ==== */
+@font-face {
+  font-family: 'CMU Serif';
+  src: url('fonts/cmunrm.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'CMU Serif';
+  src: url('fonts/cmunbx.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'CMU Serif';
+  src: url('fonts/cmunti.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'CMU Serif';
+  src: url('fonts/cmunbi.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
 
 @page {
   size: A4;
-  margin: 2.5cm;
+  margin: 2.5cm 3cm;
   @bottom-center {
     content: counter(page);
-    font-family: "Latin Modern Roman", "Cambria", "Georgia", serif;
+    font-family: 'CMU Serif', serif;
     font-size: 10pt;
     color: #000;
+    margin-top: 1em;
   }
 }
 
@@ -21,15 +48,16 @@
 html { font-size: 11pt; }
 
 body {
-  font-family: "Latin Modern Roman", "Cambria", "Georgia", "Times New Roman", serif;
+  font-family: 'CMU Serif', serif;
   font-size: 11pt;
-  line-height: 1.5;
+  line-height: 1.35;
   color: #000;
   text-align: justify;
   hyphens: auto;
 }
 
 /* ================ COUVERTURE ================ */
+/* Match : titre centré au milieu vertical de la page, taille modeste */
 .cover {
   page-break-after: always;
   height: 22cm;
@@ -40,83 +68,118 @@ body {
   text-align: center;
 }
 .cover h1 {
-  font-size: 22pt;
+  font-size: 14pt;
   font-weight: bold;
-  margin: 0 0 1em 0;
+  margin: 0 0 0.6em 0;
   border: none;
+  page-break-before: auto;
 }
 .cover .subtitle {
-  font-size: 13pt;
-  margin: 0 0 3em 0;
+  font-size: 11pt;
+  font-weight: normal;
+  margin: 0 0 2.5em 0;
 }
 .cover .context {
   font-size: 11pt;
-  margin: 0 0 1em 0;
+  margin: 0 0 0.8em 0;
 }
 .cover .date {
   font-size: 11pt;
-  margin: 0 0 1em 0;
+  margin: 0 0 0.8em 0;
 }
 .cover .conf {
-  font-size: 9.5pt;
+  font-size: 10pt;
   font-style: italic;
-  margin-top: 1em;
+  margin-top: 0.5em;
 }
 
 /* ================ SOMMAIRE ================ */
 .toc { page-break-after: always; }
-.toc h1 { font-size: 24pt; margin: 0 0 1.2em 0; }
+.toc h1 {
+  font-size: 24pt;
+  font-weight: bold;
+  margin: 0 0 1.5em 0;
+  text-align: left;
+  page-break-before: auto;
+}
 .toc ol {
   list-style: none;
   padding-left: 0;
   margin: 0;
+  counter-reset: section;
 }
 .toc > ol > li {
-  margin: 0.6em 0;
+  margin: 0.55em 0;
   font-weight: bold;
   font-size: 11pt;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  border-bottom: 0.4pt dotted #999;
+  padding-bottom: 0.1em;
+}
+.toc > ol > li::before {
+  content: "";
 }
 .toc > ol > li > ol {
-  margin: 0.2em 0 0.4em 1.4em;
+  margin: 0.25em 0 0.4em 1.4em;
   font-weight: normal;
   font-size: 10.5pt;
+  width: 100%;
+  display: block;
+}
+.toc > ol > li > ol > li {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: none;
+  margin: 0.15em 0;
 }
 .toc li a {
   color: #000;
   text-decoration: none;
+  flex: 1;
 }
-.toc li::after { content: ""; }
+.toc .pagenum {
+  font-weight: normal;
+  margin-left: 0.5em;
+}
 
 /* ================ TITRES ================ */
+/* Match LaTeX section : ~14pt bold, espacement modeste */
 h1 {
-  font-size: 18pt;
+  font-size: 14pt;
   font-weight: bold;
-  margin: 1.4em 0 0.8em 0;
+  margin: 1.6em 0 0.8em 0;
   page-break-after: avoid;
   page-break-before: always;
+  text-align: left;
 }
 h1.no-break { page-break-before: auto; }
+
 h2 {
-  font-size: 13pt;
+  font-size: 12pt;
   font-weight: bold;
-  margin: 1.3em 0 0.6em 0;
+  margin: 1.3em 0 0.5em 0;
   page-break-after: avoid;
+  text-align: left;
 }
+
 h3 {
-  font-size: 11.5pt;
+  font-size: 11pt;
   font-weight: bold;
-  margin: 1.0em 0 0.4em 0;
+  margin: 1.0em 0 0.3em 0;
   page-break-after: avoid;
 }
+
 h4 {
   font-size: 11pt;
   font-weight: bold;
   font-style: italic;
-  margin: 0.8em 0 0.3em 0;
+  margin: 0.7em 0 0.2em 0;
 }
 
 /* ================ TEXTE ================ */
-p { margin: 0.4em 0 0.5em 0; }
+p { margin: 0.4em 0 0.55em 0; }
 em { font-style: italic; }
 strong { font-weight: bold; }
 
@@ -125,25 +188,24 @@ strong { font-weight: bold; }
 }
 
 blockquote {
-  margin: 0.8em 1.5em;
+  margin: 0.7em 1.5em;
   font-style: italic;
 }
 
 /* ================ LISTES ================ */
-ul, ol { margin: 0.4em 0 0.6em 1.6em; padding: 0; }
-li { margin: 0.18em 0; }
-ol.ordered-num { list-style-type: decimal; }
+ul, ol { margin: 0.4em 0 0.55em 1.6em; padding: 0; }
+li { margin: 0.15em 0; }
 
 /* ================ TABLEAUX (booktabs style) ================ */
 table {
   border-collapse: collapse;
   width: 100%;
-  margin: 0.8em 0 1em 0;
+  margin: 0.7em 0 0.9em 0;
   font-size: 10pt;
   page-break-inside: avoid;
 }
 table th, table td {
-  padding: 0.32em 0.5em;
+  padding: 0.28em 0.5em;
   text-align: left;
   vertical-align: top;
   border: none;
@@ -166,7 +228,6 @@ hr { border: none; border-top: 0.5pt solid #000; margin: 1.5em 0; }
 
 .small { font-size: 9.5pt; }
 
-a { color: #000; text-decoration: underline; }
+a { color: #000; text-decoration: none; }
 
-/* Évite les coupures sur tableaux et titres */
 h1, h2, h3, h4, table { page-break-inside: avoid; }
