@@ -14,8 +14,8 @@ Groupe média + agence B2B IT en RJ, deadline offres 21/05/2026. CA combiné 11,
 
 ## Documents
 
-- [[deals/active/itfi-groupe/rapport-audit|Rapport d'audit complet (HTML+PDF)]] — 13 sections, mise en forme corporate Brantham
-- [[deals/active/itfi-groupe/rapport-audit.pdf|PDF rendu]] — 2026-05-05
+- [[deals/active/itfi-groupe/Groupe-ITFI|Groupe-ITFI.html (source)]] — 13 sections, mise en forme corporate Brantham
+- [[deals/active/itfi-groupe/Groupe-ITFI.pdf|Groupe-ITFI.pdf (rendu)]] — 2026-05-05
 
 ## Data room (PageIndex)
 
