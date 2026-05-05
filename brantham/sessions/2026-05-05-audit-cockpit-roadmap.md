@@ -31,6 +31,13 @@ Reprise après session 2026-04-28 (minimalisme + outreach tracker). Demande user
 
 **Blocage TCC** : launchd refuse d'exécuter le script dans `~/Downloads/` (`Operation not permitted` — protection macOS). Le job tournera à 8h demain seulement si on déplace le pipeline (étape 16 anticipée) ou si l'user donne Full Disk Access à `/bin/bash` via System Settings. Le scrape manuel via shell user marche, c'est juste launchd qui est bloqué.
 
+## Étape 2 livrée
+
+- Migration `007_purge_dldo_expired.sql` appliquée : colonne `auto_archived_at TIMESTAMPTZ` + index partiel
+- Script idempotent `cockpit/cron_purge_expired.py` : auto-archive opps DLDO passé >7j en statut 'nouveau' uniquement (préserve tri user)
+- Intégré au `daily_scrape.sh` : tournera après chaque scrape
+- **263 opps archivées** en 1 run. Filtre Vue "⌫ archivées" déjà existant les retrouve toutes.
+
 ## Décisions
 
 - Roadmap exécutée séquentiellement (pas en swarm parallèle) pour éviter les conflits multi-fichiers.
