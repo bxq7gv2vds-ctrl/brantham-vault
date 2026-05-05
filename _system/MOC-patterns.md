@@ -48,6 +48,7 @@ Reusable technical patterns. Check here before solving a problem.
 | Deal Scoring | scoring | [[brantham/patterns/scoring-patterns]] |
 | Buyer Mapping | buyer-mapping | [[brantham/patterns/acheteur-mapping]] |
 | Knowledge Distillation Scaling | mlx/perf | [[brantham/patterns/distilled-model-scaling]] |
+| Rapport corporate (LaTeX) | reporting | [[_system/templates/rapport-corporate]] |
 | Numpy Aggregation Over Objects | perf | [[brantham/patterns/numpy-aggregation-over-objects]] |
 | Swarm OASIS MA | simulation | [[brantham/patterns/swarm-oasis-ma]] |
 | LLM Agents Batch Sparse | simulation | [[brantham/patterns/llm-agents-batch-sparse]] |
