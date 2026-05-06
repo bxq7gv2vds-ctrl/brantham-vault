@@ -50,6 +50,14 @@ Modele hybride : **15-30k upfront** (1ere offre) + **15-30k** (offre finale) + *
 - [[brantham/playbooks/call-script-verbatim]] — Script verbatim phrases prêtes à dire pour chaque bloc du call
 - [[brantham/playbooks/call-trame-visuelle-deal]] — **Trame visuelle 7 phases du deal** (timeline, tableau, carte mentale, 60 sec pour le raconter au repreneur)
 
+## Mastery Distressed M&A
+
+- [[brantham/mastery/_MOC]] — **Programme 30 jours** pour devenir le mec le plus calé en distressed M&A FR
+- [[brantham/mastery/curriculum]] — Curriculum jour par jour (6 couches, J1-J30)
+- [[brantham/mastery/drill-quotidien]] — Protocole 30 min/jour (5×6 phases)
+- [[brantham/mastery/lexique-pro]] — Vocabulaire à manier sans hésiter
+- [[brantham/mastery/log-mastery]] — Journal de drill quotidien
+
 ## Polymarket Hedge Fund (side project trading)
 
 - [[brantham/polymarket/_MOC|Polymarket Hub]] — Architecture hedge fund grade + findings + roadmap
