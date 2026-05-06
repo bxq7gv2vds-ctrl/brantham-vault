@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Brantham — Stack — Option D</title>
+<link rel="stylesheet" href="_shared.css">
+<style>
+  .pd .body { padding-top: 32px; }
+  .pd .kicker { margin-bottom: 18px; }
+
+  .pd .h1 {
+    font-size: 42px;
+    line-height: 1.06;
+    letter-spacing: -0.02em;
+    max-width: 880px;
+    color: var(--ink);
+    font-weight: 400;
+  }
+  .pd .h1 .it { font-style: italic; }
+
+  .pd .lede {
+    font-size: 15.5px;
+    line-height: 1.55;
+    max-width: 800px;
+    margin-top: 18px;
+    color: var(--ink-soft);
+  }
+
+  .pd .stack {
+    margin-top: 36px;
+    border-top: 1px solid var(--ink);
+  }
+  .pd .layer {
+    display: grid;
+    grid-template-columns: 38px 1fr 130px 200px;
+    column-gap: 22px;
+    align-items: center;
+    padding: 14px 0;
+    border-bottom: 0.5px solid var(--rule);
+    position: relative;
+  }
+  .pd .layer:last-of-type { border-bottom: 0; }
+  .pd .layer .idx {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    color: var(--ink-mute);
+    text-align: right;
+  }
+  .pd .layer .name {
+    font-family: var(--serif);
+    font-size: 19px;
+    font-weight: 500;
+    color: var(--ink);
+  }
+  .pd .layer .name .tag {
+    font-family: var(--mono);
+    font-size: 9.5px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    margin-left: 12px;
+    padding: 2px 8px;
+    border: 0.5px solid var(--rule);
+  }
+  .pd .layer .bar {
+    height: 6px;
+    background: var(--rule);
+    position: relative;
+  }
+  .pd .layer .bar > i {
+    position: absolute; top: 0; left: 0; bottom: 0;
+    background: var(--ink);
+  }
+  .pd .layer.flag .bar > i { background: #C8B97A; }
+  .pd .layer .val {
+    font-family: var(--serif);
+    font-size: 22px;
+    font-weight: 400;
+    text-align: right;
+    color: var(--ink);
+    font-variant-numeric: lining-nums tabular-nums;
+    letter-spacing: -0.01em;
+  }
+  .pd .layer .val .sub {
+    display: block;
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 12px;
+    color: var(--ink-mute);
+    margin-top: 2px;
+    font-weight: 400;
+  }
+  .pd .layer.flag .val { color: #8C7728; }
+
+  .pd .legend {
+    margin-top: 18px;
+    display: flex;
+    gap: 28px;
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+  }
+  .pd .legend i {
+    display: inline-block;
+    width: 14px;
+    height: 6px;
+    margin-right: 8px;
+    vertical-align: middle;
+  }
+  .pd .legend .ink i { background: var(--ink); }
+  .pd .legend .gold i { background: #C8B97A; }
+
+  .pd .coda {
+    margin-top: 24px;
+    padding-top: 18px;
+    border-top: 0.5px solid var(--rule);
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 17px;
+    line-height: 1.4;
+    color: var(--ink);
+    max-width: 880px;
+  }
+  .pd .accent { color: #8C7728; font-style: normal; font-weight: 500; }
+</style>
+</head>
+<body>
+
+<div class="post pd">
+
+  <header class="head">
+    <div class="brand"><img src="logo.png" alt="Brantham Partners"></div>
+    <div class="ref"><b>Le décryptage</b> · n°01 · Mai 2026</div>
+  </header>
+
+  <div class="body">
+
+    <div class="kicker">Architecture de revenu · Legaltech · LegalPlace × Legalstart</div>
+
+    <h1 class="h1">
+      La création n'est pas le produit. <span class="it">C'est le rez-de-chaussée du building.</span>
+    </h1>
+
+    <p class="lede">
+      Empilement des couches de revenu d'une legaltech grand public. La couche d'entrée est visible. Les étages au-dessus pèsent <b>deux fois plus</b>.
+    </p>
+
+    <div class="stack">
+
+      <div class="layer flag">
+        <div class="idx">04</div>
+        <div class="name">Abonnement juridique annuel <span class="tag">ARR</span></div>
+        <div class="bar"><i style="width: 92%"></i></div>
+        <div class="val">≈ 28 M€<span class="sub">forte rétention</span></div>
+      </div>
+
+      <div class="layer flag">
+        <div class="idx">03</div>
+        <div class="name">Compta + formalités annuelles <span class="tag">ARR</span></div>
+        <div class="bar"><i style="width: 78%"></i></div>
+        <div class="val">≈ 24 M€<span class="sub">renouvellement haut</span></div>
+      </div>
+
+      <div class="layer flag">
+        <div class="idx">02</div>
+        <div class="name">Domiciliation <span class="tag">ARR</span></div>
+        <div class="bar"><i style="width: 50%"></i></div>
+        <div class="val">≈ 15 M€<span class="sub">contrat 12 mois</span></div>
+      </div>
+
+      <div class="layer">
+        <div class="idx">01</div>
+        <div class="name">Création SASU / SAS <span class="tag">ONE-SHOT</span></div>
+        <div class="bar"><i style="width: 100%"></i></div>
+        <div class="val">≈ 33 M€<span class="sub">≈ 200 € · 450 000 SASU/an</span></div>
+      </div>
+
+    </div>
+
+    <div class="legend">
+      <span class="ink"><i></i> Couche d'acquisition</span>
+      <span class="gold"><i></i> Couche récurrente · 67 M€ d'ARR cumulés</span>
+    </div>
+
+    <div class="coda">
+      Le rachat n'achète pas une part de marché. <span class="accent">Il achète un funnel</span> de 450 000 entrées par an vers trois étages de revenu récurrent.
+    </div>
+
+    <div style="flex:1"></div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig">
+      <div class="name">Paul Roulleau</div>
+      <div class="firm">Brantham Partners — M&amp;A distressed</div>
+    </div>
+    <div class="meta">
+      <div><b>Source</b> · Day One · communiqué officiel</div>
+      <div><b>Voir</b> · app.branthampartners.fr / sectors</div>
+    </div>
+  </footer>
+
+</div>
+
+</body>
+</html>

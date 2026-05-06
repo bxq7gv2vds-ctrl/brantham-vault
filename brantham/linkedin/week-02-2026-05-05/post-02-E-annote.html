@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Brantham — Communiqué annoté — Option E</title>
+<link rel="stylesheet" href="_shared.css">
+<style>
+  .pe .body { padding-top: 26px; padding-bottom: 0; }
+
+  .pe .stamp {
+    position: absolute;
+    top: 200px;
+    right: 92px;
+    transform: rotate(-8deg);
+    border: 1.5px solid #8C2828;
+    color: #8C2828;
+    font-family: var(--mono);
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.22em;
+    padding: 6px 14px;
+    text-transform: uppercase;
+    z-index: 5;
+  }
+
+  .pe .kicker {
+    margin-bottom: 16px;
+  }
+
+  .pe .doc {
+    margin-top: 14px;
+    border: 0.5px solid var(--rule);
+    background: #FAF7EE;
+    padding: 32px 36px 28px;
+    position: relative;
+  }
+  .pe .doc::before {
+    content: "COMMUNIQUÉ · 28 AVRIL 2026";
+    position: absolute;
+    top: -9px; left: 24px;
+    background: #FAF7EE;
+    padding: 0 10px;
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.22em;
+    color: var(--ink-mute);
+  }
+  .pe .doc h2 {
+    font-family: var(--serif);
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--ink);
+    line-height: 1.18;
+    margin-bottom: 14px;
+    letter-spacing: -0.005em;
+  }
+  .pe .doc p {
+    font-family: var(--serif);
+    font-size: 14.5px;
+    line-height: 1.55;
+    color: var(--ink);
+    margin-bottom: 8px;
+  }
+  .pe .doc .strike {
+    background: linear-gradient(transparent 48%, rgba(140,40,40,0.8) 48%, rgba(140,40,40,0.8) 56%, transparent 56%);
+    color: var(--ink-soft);
+  }
+  .pe .doc mark {
+    background: rgba(200,185,122,0.45);
+    color: var(--ink);
+    padding: 0 2px;
+    font-weight: 500;
+  }
+
+  .pe .annot {
+    margin-top: 22px;
+    border-top: 1px solid var(--ink);
+    padding-top: 18px;
+  }
+  .pe .annot .label {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: #8C7728;
+    margin-bottom: 14px;
+  }
+  .pe .annot .row {
+    display: grid;
+    grid-template-columns: 18px 1fr;
+    column-gap: 18px;
+    align-items: baseline;
+    padding: 10px 0;
+    border-bottom: 0.5px solid var(--rule);
+  }
+  .pe .annot .row:last-of-type { border-bottom: 0; }
+  .pe .annot .row .nb {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 14px;
+    color: #8C7728;
+    text-align: right;
+    font-weight: 500;
+  }
+  .pe .annot .row .text {
+    font-family: var(--serif);
+    font-size: 15px;
+    line-height: 1.5;
+    color: var(--ink);
+  }
+  .pe .annot .row .text b {
+    font-weight: 600;
+    color: var(--ink);
+  }
+</style>
+</head>
+<body>
+
+<div class="post pe">
+
+  <header class="head">
+    <div class="brand"><img src="logo.png" alt="Brantham Partners"></div>
+    <div class="ref"><b>Le décryptage</b> · n°01 · Mai 2026</div>
+  </header>
+
+  <div class="stamp">Annoté</div>
+
+  <div class="body">
+
+    <div class="kicker">M&amp;A · Legaltech · Lecture critique du communiqué officiel</div>
+
+    <div class="doc">
+      <h2>LegalPlace acquiert Legalstart pour créer le leader européen<br>de la création d'entreprise.</h2>
+      <p>L'opération donne naissance à un acteur qui réalisera un <mark>chiffre d'affaires pro-forma de 100&nbsp;M€</mark> dès la première année.</p>
+      <p>La <span class="strike">consolidation horizontale</span> permet de renforcer la position du groupe sur le <span class="strike">marché de la création d'entreprise</span>.</p>
+      <p>Le nouvel ensemble entend devenir le <span class="strike">numéro un européen</span> de l'accompagnement juridique des TPE.</p>
+    </div>
+
+    <div class="annot">
+      <div class="label">En marge · ce que le communiqué ne dit pas</div>
+
+      <div class="row">
+        <div class="nb">i.</div>
+        <div class="text"><b>Sur 100 M€, ≈ 67 M€ sont en ARR récurrent.</b> Information glissée par Day One sur LinkedIn, absente du communiqué et de la presse.</div>
+      </div>
+      <div class="row">
+        <div class="nb">ii.</div>
+        <div class="text"><b>La création est le canal, pas le produit.</b> 200 € one-shot. Les vrais revenus sont domiciliation, compta, abonnement juridique.</div>
+      </div>
+      <div class="row">
+        <div class="nb">iii.</div>
+        <div class="text"><b>J&minus;8 : Lexora annonce une attaque IA pure-play.</b> Sur la rétention (AGO obligatoire des 450 000 SASU). La couche que ni LegalPlace ni Legalstart ne surveillent.</div>
+      </div>
+    </div>
+
+    <div style="flex:1"></div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig">
+      <div class="name">Paul Roulleau</div>
+      <div class="firm">Brantham Partners — M&amp;A distressed</div>
+    </div>
+    <div class="meta">
+      <div><b>Source</b> · Day One · communiqué officiel</div>
+      <div><b>Voir</b> · app.branthampartners.fr / sectors</div>
+    </div>
+  </footer>
+
+</div>
+
+</body>
+</html>

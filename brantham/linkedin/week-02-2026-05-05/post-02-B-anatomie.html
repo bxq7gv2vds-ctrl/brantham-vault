@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Brantham — Anatomie du deal — Option B</title>
+<link rel="stylesheet" href="_shared.css">
+<style>
+  .pb .body { padding-top: 40px; }
+  .pb .kicker { margin-bottom: 26px; }
+
+  .pb .h1 {
+    font-size: 50px;
+    line-height: 1.06;
+    letter-spacing: -0.022em;
+    max-width: 880px;
+    color: var(--ink);
+    font-weight: 400;
+  }
+  .pb .h1 .it { font-style: italic; }
+
+  .pb .lede {
+    font-size: 16.5px;
+    line-height: 1.55;
+    max-width: 800px;
+    margin-top: 22px;
+    color: var(--ink-soft);
+  }
+  .pb .lede b { color: var(--ink); font-weight: 600; }
+
+  .pb .table {
+    margin-top: 38px;
+    border-top: 1px solid var(--ink);
+  }
+  .pb .table .head-row {
+    display: grid;
+    grid-template-columns: 28px 1fr 220px 1fr;
+    column-gap: 24px;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--ink);
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+  }
+  .pb .table .row {
+    display: grid;
+    grid-template-columns: 28px 1fr 220px 1fr;
+    column-gap: 24px;
+    align-items: baseline;
+    padding: 18px 0;
+    border-bottom: 0.5px solid var(--rule);
+  }
+  .pb .table .row:last-of-type { border-bottom: 0; }
+  .pb .table .num {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 16px;
+    color: var(--ink-mute);
+    text-align: right;
+  }
+  .pb .table .label {
+    font-family: var(--serif);
+    font-size: 19px;
+    font-weight: 500;
+    color: var(--ink);
+  }
+  .pb .table .value {
+    font-family: var(--serif);
+    font-size: 26px;
+    font-weight: 400;
+    letter-spacing: -0.015em;
+    color: var(--ink);
+    text-align: right;
+    font-variant-numeric: lining-nums tabular-nums;
+  }
+  .pb .table .desc {
+    font-family: var(--serif);
+    font-size: 13.5px;
+    line-height: 1.45;
+    font-style: italic;
+    color: var(--ink-soft);
+  }
+  .pb .table .row.flag .value { color: #8C7728; }
+
+  .pb .pull {
+    margin-top: 30px;
+    padding: 22px 0 0;
+    border-top: 0.5px solid var(--rule);
+    display: grid;
+    grid-template-columns: 4px 1fr;
+    gap: 22px;
+  }
+  .pb .pull .bar { background: var(--ink); height: 100%; min-height: 64px; }
+  .pb .pull .quote {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 19px;
+    line-height: 1.4;
+    color: var(--ink);
+    max-width: 760px;
+  }
+</style>
+</head>
+<body>
+
+<div class="post pb">
+
+  <header class="head">
+    <div class="brand"><img src="logo.png" alt="Brantham Partners"></div>
+    <div class="ref"><b>Le décryptage</b> · n°01 · Mai 2026</div>
+  </header>
+
+  <div class="body">
+
+    <div class="kicker">M&amp;A · Legaltech · France · Mai 2026</div>
+
+    <h1 class="h1">
+      100&nbsp;M€ pro-forma annoncés. <span class="it">Deux tiers ne sont pas dans le communiqué.</span>
+    </h1>
+
+    <p class="lede">
+      Le rachat de Legalstart par LegalPlace est présenté comme une consolidation horizontale. La vraie thèse du deal, glissée par l'actionnaire historique, dit autre chose : <b>67 M€ d'ARR</b>, et un canal d'acquisition de <b>450 000 SASU par an</b>.
+    </p>
+
+    <div class="table">
+      <div class="head-row">
+        <div></div><div>Poste</div><div>Valeur</div><div>Ce que ça signifie</div>
+      </div>
+      <div class="row">
+        <div class="num">i.</div>
+        <div class="label">CA pro-forma annoncé</div>
+        <div class="value">100 M€</div>
+        <div class="desc">Communiqué officiel post-rachat.</div>
+      </div>
+      <div class="row flag">
+        <div class="num">ii.</div>
+        <div class="label">dont ARR récurrent</div>
+        <div class="value">≈ 67 M€</div>
+        <div class="desc">Information non reprise dans la presse.</div>
+      </div>
+      <div class="row">
+        <div class="num">iii.</div>
+        <div class="label">Ticket création SASU</div>
+        <div class="value">≈ 200 €</div>
+        <div class="desc">One-shot. Le canal, pas le produit.</div>
+      </div>
+      <div class="row">
+        <div class="num">iv.</div>
+        <div class="label">SASU créées par an (FR)</div>
+        <div class="value">450 000</div>
+        <div class="desc">Funnel d'acquisition vers SaaS.</div>
+      </div>
+    </div>
+
+    <div class="pull">
+      <div class="bar"></div>
+      <div class="quote">
+        Le rachat achète moins une part de marché qu'un funnel de clients vers du SaaS récurrent. La métrique qui compte n'est plus le volume de créations. C'est le taux de conversion création vers ARR.
+      </div>
+    </div>
+
+    <div style="flex:1"></div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig">
+      <div class="name">Paul Roulleau</div>
+      <div class="firm">Brantham Partners — M&amp;A distressed</div>
+    </div>
+    <div class="meta">
+      <div><b>Source</b> · Day One · communiqué officiel</div>
+      <div><b>Voir</b> · app.branthampartners.fr / sectors</div>
+    </div>
+  </footer>
+
+</div>
+
+</body>
+</html>

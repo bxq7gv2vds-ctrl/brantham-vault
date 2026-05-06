@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Brantham — Recto / Verso — Option C</title>
+<link rel="stylesheet" href="_shared.css">
+<style>
+  .pc .body { padding-top: 32px; padding-bottom: 0; display: flex; flex-direction: column; }
+
+  .pc .kicker { margin-bottom: 18px; }
+
+  .pc .h1 {
+    font-size: 46px;
+    line-height: 1.05;
+    letter-spacing: -0.022em;
+    max-width: 880px;
+    color: var(--ink);
+    font-weight: 400;
+    margin-bottom: 36px;
+  }
+  .pc .h1 .it { font-style: italic; }
+
+  .pc .split {
+    flex: 1;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border-top: 1px solid var(--ink);
+  }
+  .pc .col {
+    padding: 26px 32px 24px 0;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+  }
+  .pc .col + .col {
+    padding-left: 32px;
+    padding-right: 0;
+    border-left: 1px solid var(--ink);
+  }
+  .pc .col .label {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    margin-bottom: 22px;
+  }
+  .pc .col.right .label { color: #8C7728; }
+
+  .pc .col .pt {
+    padding: 16px 0;
+    border-bottom: 0.5px solid var(--rule);
+  }
+  .pc .col .pt:last-of-type { border-bottom: 0; }
+  .pc .col .pt .num {
+    font-family: var(--serif);
+    font-size: 28px;
+    font-weight: 400;
+    letter-spacing: -0.015em;
+    color: var(--ink);
+    font-variant-numeric: lining-nums tabular-nums;
+    margin-bottom: 6px;
+  }
+  .pc .col.right .pt .num { color: #8C7728; }
+  .pc .col .pt .desc {
+    font-family: var(--serif);
+    font-size: 14.5px;
+    line-height: 1.45;
+    color: var(--ink-soft);
+  }
+  .pc .col .pt .desc b { color: var(--ink); font-weight: 600; }
+
+  .pc .coda-wrap {
+    margin-top: 22px;
+    padding: 18px 0 0;
+    border-top: 0.5px solid var(--rule);
+  }
+  .pc .coda {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 17px;
+    line-height: 1.4;
+    color: var(--ink);
+    max-width: 880px;
+  }
+</style>
+</head>
+<body>
+
+<div class="post pc">
+
+  <header class="head">
+    <div class="brand"><img src="logo.png" alt="Brantham Partners"></div>
+    <div class="ref"><b>Le décryptage</b> · n°01 · Mai 2026</div>
+  </header>
+
+  <div class="body">
+
+    <div class="kicker">M&amp;A · Legaltech · LegalPlace × Legalstart</div>
+
+    <h1 class="h1">
+      Le deal qu'on a annoncé. <span class="it">Le deal qui s'est joué.</span>
+    </h1>
+
+    <div class="split">
+      <div class="col left">
+        <div class="label">Ce qui est dit</div>
+        <div class="pt">
+          <div class="num">100 M€</div>
+          <div class="desc">CA pro-forma annoncé. Consolidation horizontale du marché de la création d'entreprise.</div>
+        </div>
+        <div class="pt">
+          <div class="num">≈ 200 €</div>
+          <div class="desc">Ticket création SASU. La <b>création</b> présentée comme cœur de marché.</div>
+        </div>
+        <div class="pt">
+          <div class="num">N°1</div>
+          <div class="desc">Position consolidée du nouveau leader sur la couche création.</div>
+        </div>
+      </div>
+
+      <div class="col right">
+        <div class="label">Ce qui n'est pas dit</div>
+        <div class="pt">
+          <div class="num">≈ 67 M€</div>
+          <div class="desc">en <b>ARR récurrent</b>. Information glissée par Day One sur LinkedIn. Absente du communiqué et de la presse.</div>
+        </div>
+        <div class="pt">
+          <div class="num">450 000</div>
+          <div class="desc">SASU créées par an. La création n'est pas le produit, c'est <b>le funnel</b> vers le SaaS.</div>
+        </div>
+        <div class="pt">
+          <div class="num">J&minus;8</div>
+          <div class="desc">Lexora annonce une attaque IA pure-play sur la rétention (AGO). Huit jours avant le deal.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="coda-wrap">
+      <div class="coda">
+        La consolidation horizontale d'aujourd'hui sur la couche création n'empêche pas une attaque verticale demain par un acteur IA pure-play sur la couche rétention.
+      </div>
+    </div>
+
+  </div>
+
+  <footer class="foot">
+    <div class="sig">
+      <div class="name">Paul Roulleau</div>
+      <div class="firm">Brantham Partners — M&amp;A distressed</div>
+    </div>
+    <div class="meta">
+      <div><b>Source</b> · Day One · communiqué officiel</div>
+      <div><b>Voir</b> · app.branthampartners.fr / sectors</div>
+    </div>
+  </footer>
+
+</div>
+
+</body>
+</html>

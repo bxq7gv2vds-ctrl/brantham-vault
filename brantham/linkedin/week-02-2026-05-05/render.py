@@ -4,7 +4,9 @@ from playwright.async_api import async_playwright
 
 HERE = Path(__file__).parent
 FILES = [
-    "post-01-186-par-jour.html",
+    "post-02-D-stack.html",
+    "post-02-E-annote.html",
+    "post-02-F-frontpage.html",
 ]
 
 async def main():
