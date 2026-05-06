@@ -48,6 +48,7 @@ Modele hybride : **15-30k upfront** (1ere offre) + **15-30k** (offre finale) + *
 
 - [[brantham/playbooks/call-introduction-repreneur]] — Framework call cold repreneur (cadrage NDA, 6 blocs, closing avec next step)
 - [[brantham/playbooks/call-script-verbatim]] — Script verbatim phrases prêtes à dire pour chaque bloc du call
+- [[brantham/playbooks/call-trame-visuelle-deal]] — **Trame visuelle 7 phases du deal** (timeline, tableau, carte mentale, 60 sec pour le raconter au repreneur)
 
 ## Polymarket Hedge Fund (side project trading)
 
