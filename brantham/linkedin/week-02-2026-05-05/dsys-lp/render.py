@@ -7,12 +7,6 @@ TPL = HERE / "templates"
 
 FILES = [
     "funnel-lp.html",
-    "myth-reality-lp.html",
-    "annotated-stat-lp.html",
-    "stacked-bar-lp.html",
-    "data-ledger-lp.html",
-    "timeline-lp.html",
-    "waterfall-lp.html",
 ]
 
 async def main():
