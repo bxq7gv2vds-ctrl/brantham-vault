@@ -31,11 +31,22 @@ Modele hybride : **15-30k upfront** (1ere offre) + **15-30k** (offre finale) + *
 
 ## Contexte & Process (LIRE EN PRIORITE)
 
+- [[brantham/context/business-profile/_PROFILE]] — **Living business profile** (mis à jour à chaque vocal Paul)
 - [[brantham/context/realite-business]] — La verite du business sans bullshit
 - [[brantham/context/process-end-to-end]] — Workflow complet de A a Z (10 phases)
 - [[brantham/context/sow]] — Statement of Work, tous les chantiers par priorite
 - [[brantham/context/roles-et-responsabilites]] — Qui fait quoi
 - [[brantham/COWORK-PROMPT]] — Prompt pour agents Cowork
+
+## Protocoles Claude (instructions persistantes)
+
+- [[brantham/protocols/_MOC]] — Index des protocoles
+- [[brantham/protocols/work-in-vault-only]] — Tout Brantham vit dans le vault (pas en memory)
+- [[brantham/protocols/voice-notes-continues]] — Workflow vocaux Paul → business profile
+
+## Playbooks
+
+- [[brantham/playbooks/call-introduction-repreneur]] — Framework call cold repreneur (cadrage NDA, 6 blocs, closing avec next step)
 
 ## Polymarket Hedge Fund (side project trading)
 
