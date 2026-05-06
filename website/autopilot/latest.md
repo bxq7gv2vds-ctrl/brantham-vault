@@ -1,1 +1,1 @@
-/Users/paul/vault/website/autopilot/2026-05-04.md
+/Users/paul/vault/website/autopilot/2026-05-06.md
