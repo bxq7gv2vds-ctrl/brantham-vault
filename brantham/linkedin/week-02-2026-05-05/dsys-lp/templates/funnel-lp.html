@@ -122,6 +122,19 @@
     color: var(--accent);
     letter-spacing: -0.02em;
     font-weight: 500;
+    display: flex;
+    align-items: baseline;
+    gap: 14px;
+  }
+  .funnel-final .v .pct {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 52px;
+    letter-spacing: -0.03em;
+  }
+  .funnel-final .v .lbl {
+    font-style: italic;
+    font-size: 30px;
   }
 </style>
 </head>
@@ -176,7 +189,7 @@
 
     <div class="funnel-final">
       <div class="l">— ce que le communiqué ne dit pas&nbsp;:</div>
-      <div class="v">deux tiers en récurrent</div>
+      <div class="v"><span class="pct">67&thinsp;%</span> <span class="lbl">en récurrent</span></div>
     </div>
   </div>
 
