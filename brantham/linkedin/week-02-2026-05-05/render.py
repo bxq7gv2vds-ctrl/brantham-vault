@@ -3,21 +3,21 @@ from pathlib import Path
 from playwright.async_api import async_playwright
 
 HERE = Path(__file__).parent
+
+# (file, viewport_width, viewport_height)
 FILES = [
-    "post-02-D-stack.html",
-    "post-02-E-annote.html",
-    "post-02-F-frontpage.html",
+    ("post-02-A-signal.html", 1080, 1080),
 ]
 
 async def main():
     async with async_playwright() as p:
         browser = await p.chromium.launch()
-        ctx = await browser.new_context(
-            viewport={"width": 1080, "height": 1080},
-            device_scale_factor=2,
-        )
-        page = await ctx.new_page()
-        for f in FILES:
+        for f, w, h in FILES:
+            ctx = await browser.new_context(
+                viewport={"width": w, "height": h},
+                device_scale_factor=2,
+            )
+            page = await ctx.new_page()
             url = f"file://{HERE / f}"
             await page.goto(url, wait_until="networkidle")
             await page.wait_for_timeout(800)
@@ -25,6 +25,7 @@ async def main():
             out = HERE / f.replace(".html", ".png")
             await card.screenshot(path=str(out), omit_background=False)
             print("rendered", out)
+            await ctx.close()
         await browser.close()
 
 asyncio.run(main())

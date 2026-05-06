@@ -17,11 +17,17 @@
   .pa .signal .num {
     font-family: var(--serif);
     font-weight: 300;
-    font-size: 220px;
+    font-size: 240px;
     line-height: 0.86;
     letter-spacing: -0.045em;
     color: currentColor;
     font-variant-numeric: lining-nums tabular-nums;
+  }
+  .pa .signal .num .pct {
+    font-size: 0.55em;
+    margin-left: -0.05em;
+    vertical-align: 0.18em;
+    font-weight: 300;
   }
   .pa .signal .unit {
     font-family: var(--serif);
@@ -110,24 +116,24 @@
     <div class="kicker">M&amp;A · Legaltech · LegalPlace × Legalstart</div>
 
     <div class="signal">
-      <div class="num">67 M€</div>
-      <div class="unit">en ARR récurrent.<br>Non communiqué.</div>
+      <div class="num">67<span class="pct"> %</span></div>
+      <div class="unit">de l'opération<br>en revenu récurrent.<br>Non communiqué.</div>
     </div>
 
     <h1 class="h1">
-      Sur les 100&nbsp;M€ de CA pro-forma annoncés, <span class="it">deux tiers</span> sont en revenu récurrent.
+      Sur les 100&nbsp;M€ de CA pro-forma annoncés, <span class="it">deux tiers</span> sont en ARR.
     </h1>
 
     <div class="stats">
       <div class="cell">
-        <div class="label">CA annoncé</div>
+        <div class="label">CA pro-forma</div>
         <div class="value">100 M€</div>
-        <div class="sub">pro-forma post-rachat. Communiqué officiel.</div>
+        <div class="sub">annoncé post-rachat. Communiqué officiel.</div>
       </div>
       <div class="cell">
-        <div class="label">Ticket création</div>
-        <div class="value">≈ 200 €</div>
-        <div class="sub">one-shot. Pas le produit, le canal.</div>
+        <div class="label">dont ARR</div>
+        <div class="value">≈ 67 M€</div>
+        <div class="sub">domiciliation, compta, abonnement juridique.</div>
       </div>
       <div class="cell">
         <div class="label">Marché amont</div>

@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Brantham — Vertical magazine — Option I</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&family=DM+Mono:wght@400;500&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { background: #b7b3aa; }
+  body { padding: 60px; display: flex; justify-content: center; }
+
+  .post {
+    width: 1080px;
+    height: 1350px;
+    background: #0e0e10;
+    color: #f5f1e6;
+    position: relative;
+    overflow: hidden;
+    font-family: 'Source Serif 4', serif;
+  }
+
+  /* horizontal noise lines */
+  .lines {
+    position: absolute;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(255,255,255,0.025) 1px, transparent 1px);
+    background-size: 100% 8px;
+    pointer-events: none;
+  }
+
+  .top {
+    position: absolute;
+    top: 60px; left: 64px; right: 64px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    z-index: 2;
+  }
+  .top .left {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: rgba(245,241,230,0.65);
+    line-height: 1.6;
+  }
+  .top .left b { color: #f5f1e6; font-weight: 500; }
+  .top .right {
+    font-family: 'Source Serif 4', serif;
+    font-size: 13.5px;
+    color: rgba(245,241,230,0.65);
+    text-align: right;
+    line-height: 1.45;
+    font-style: italic;
+  }
+  .top .right b { color: #f5f1e6; font-weight: 600; font-style: normal; }
+
+  /* big number splash */
+  .num-splash {
+    position: absolute;
+    top: 200px;
+    left: 64px;
+    right: 64px;
+    z-index: 1;
+  }
+  .num-splash .big {
+    font-family: 'Source Serif 4', serif;
+    font-weight: 300;
+    font-size: 600px;
+    line-height: 0.78;
+    letter-spacing: -0.06em;
+    color: #C8B97A;
+    text-align: center;
+    font-variant-numeric: lining-nums tabular-nums;
+    text-shadow: 0 0 80px rgba(200,185,122,0.15);
+  }
+  .num-splash .pct {
+    font-size: 380px;
+    line-height: 0.86;
+  }
+  .num-splash .legend {
+    margin-top: -40px;
+    text-align: center;
+    font-family: 'Source Serif 4', serif;
+    font-style: italic;
+    font-size: 24px;
+    color: rgba(245,241,230,0.85);
+    letter-spacing: -0.005em;
+  }
+
+  /* lower section : verdict + table */
+  .lower {
+    position: absolute;
+    bottom: 60px;
+    left: 64px;
+    right: 64px;
+    z-index: 2;
+  }
+
+  .verdict {
+    font-family: 'Source Serif 4', serif;
+    font-size: 38px;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    color: #f5f1e6;
+    font-weight: 400;
+    margin-bottom: 28px;
+    max-width: 920px;
+  }
+  .verdict .it { font-style: italic; color: #C8B97A; }
+
+  .meta {
+    border-top: 1px solid rgba(245,241,230,0.25);
+    padding-top: 22px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+  .meta .cell .l {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: rgba(245,241,230,0.55);
+    margin-bottom: 6px;
+  }
+  .meta .cell .v {
+    font-family: 'Source Serif 4', serif;
+    font-size: 22px;
+    color: #f5f1e6;
+    letter-spacing: -0.012em;
+    font-variant-numeric: lining-nums tabular-nums;
+  }
+  .meta .cell .v .it { font-style: italic; }
+
+  .sig {
+    margin-top: 28px;
+    border-top: 0.5px solid rgba(245,241,230,0.25);
+    padding-top: 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+  .sig .name {
+    font-family: 'Source Serif 4', serif;
+    font-size: 14px;
+    color: #f5f1e6;
+  }
+  .sig .name b { font-weight: 600; }
+  .sig .name .firm { color: rgba(245,241,230,0.55); display: block; font-size: 12.5px; }
+  .sig .ref {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: rgba(245,241,230,0.55);
+    text-align: right;
+    line-height: 1.7;
+  }
+  .sig .ref b { color: #f5f1e6; font-weight: 500; }
+</style>
+</head>
+<body>
+
+<div class="post">
+
+  <div class="lines"></div>
+
+  <div class="top">
+    <div class="left">
+      <b>Brantham Data</b><br>
+      Le décryptage · n°01<br>
+      Mai 2026
+    </div>
+    <div class="right">
+      <b>LegalPlace × Legalstart</b><br>
+      M&amp;A · Legaltech FR
+    </div>
+  </div>
+
+  <div class="num-splash">
+    <div class="big pct">67<span style="font-size: 220px; vertical-align: 0.3em;"> %</span></div>
+    <div class="legend">de l'opération est en revenu récurrent.<br>Aucun communiqué ne le mentionne.</div>
+  </div>
+
+  <div class="lower">
+    <div class="verdict">
+      Le rachat n'achète pas une part de marché. <span class="it">Il achète un funnel</span> de 450 000 SASU par an vers du SaaS.
+    </div>
+
+    <div class="meta">
+      <div class="cell">
+        <div class="l">CA pro-forma</div>
+        <div class="v">100 M€</div>
+      </div>
+      <div class="cell">
+        <div class="l">dont ARR</div>
+        <div class="v">≈ 67 M€</div>
+      </div>
+      <div class="cell">
+        <div class="l">Ticket création</div>
+        <div class="v">≈ 200 €</div>
+      </div>
+    </div>
+
+    <div class="sig">
+      <div class="name">
+        <b>Paul Roulleau</b>
+        <span class="firm">Brantham Partners — M&amp;A distressed</span>
+      </div>
+      <div class="ref">
+        <b>Source</b> · Day One · LinkedIn<br>
+        app.branthampartners.fr / sectors
+      </div>
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>

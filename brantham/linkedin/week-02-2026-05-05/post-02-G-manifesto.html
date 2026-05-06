@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Brantham — Manifesto — Option G</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,500;1,8..60,400&family=DM+Mono:wght@400;500&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { background: #b7b3aa; }
+  body { padding: 60px; display: flex; justify-content: center; }
+
+  .post {
+    width: 1080px;
+    height: 1080px;
+    background: #001F54;
+    color: #F5F1E6;
+    position: relative;
+    overflow: hidden;
+    font-family: 'Source Serif 4', serif;
+    font-feature-settings: "kern" 1, "liga" 1;
+  }
+
+  .post::before {
+    content: "";
+    position: absolute;
+    inset: 36px;
+    border: 0.5px solid rgba(245,241,230,0.28);
+    pointer-events: none;
+  }
+
+  .corner-tl, .corner-br {
+    position: absolute;
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: rgba(245,241,230,0.55);
+    z-index: 2;
+  }
+  .corner-tl { top: 60px; left: 64px; }
+  .corner-br { bottom: 60px; right: 64px; text-align: right; }
+
+  .corner-tl b, .corner-br b { color: #F5F1E6; font-weight: 500; }
+
+  .ml {
+    position: absolute;
+    top: 50%;
+    left: 64px;
+    transform: translateY(-50%);
+    max-width: 950px;
+  }
+
+  .pre {
+    font-family: 'DM Mono', monospace;
+    font-size: 13px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: rgba(245,241,230,0.6);
+    margin-bottom: 36px;
+  }
+
+  .h {
+    font-family: 'Source Serif 4', serif;
+    font-weight: 300;
+    font-size: 124px;
+    line-height: 0.94;
+    letter-spacing: -0.035em;
+    color: #F5F1E6;
+  }
+  .h .it { font-style: italic; font-weight: 400; color: #C8B97A; }
+  .h em { font-style: italic; font-weight: 400; }
+
+  .post-mark {
+    position: absolute;
+    bottom: 60px;
+    left: 64px;
+    font-family: 'Source Serif 4', serif;
+    font-size: 14px;
+    line-height: 1.45;
+    color: #F5F1E6;
+  }
+  .post-mark .name { font-weight: 600; }
+  .post-mark .firm { color: rgba(245,241,230,0.55); }
+
+  .star {
+    position: absolute;
+    top: 60px;
+    right: 64px;
+    width: 22px;
+    height: 22px;
+    z-index: 2;
+  }
+  .star svg { width: 100%; height: 100%; display: block; }
+</style>
+</head>
+<body>
+
+<div class="post">
+
+  <div class="corner-tl"><b>Le décryptage</b> · n°01 · Mai 2026</div>
+
+  <div class="star">
+    <svg viewBox="0 0 24 24" fill="none" stroke="#F5F1E6" stroke-width="1">
+      <path d="M12 2 L13.5 10.5 L22 12 L13.5 13.5 L12 22 L10.5 13.5 L2 12 L10.5 10.5 Z" fill="#F5F1E6" stroke="none"/>
+    </svg>
+  </div>
+
+  <div class="ml">
+    <div class="pre">Sur 100 M€ pro-forma annoncés</div>
+    <div class="h">
+      Deux tiers <span class="it">ne sont pas</span><br>
+      dans le<br>
+      communiqué.
+    </div>
+  </div>
+
+  <div class="post-mark">
+    <div class="name">Paul Roulleau</div>
+    <div class="firm">Brantham Partners</div>
+  </div>
+
+  <div class="corner-br">
+    <b>Source</b> · Day One · LinkedIn<br>
+    <span style="opacity: 0.7">app.branthampartners.fr / sectors</span>
+  </div>
+
+</div>
+
+</body>
+</html>
