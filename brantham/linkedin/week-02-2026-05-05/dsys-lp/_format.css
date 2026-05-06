@@ -1,0 +1,19 @@
+/* Format 1080×1080 — carré LinkedIn standard */
+.post {
+  width: 1080px;
+  height: 1080px;
+  --t-pad-x: 80px;
+  --t-pad-y: 60px;
+  --t-pad-body: 130px;
+  --t-h1: 54px;
+  --t-h1-line: 1.05;
+  --t-lede: 16px;
+  --t-stamp: 10px;
+  --t-watermark: 9.5px;
+  --t-kicker: 10px;
+  --t-meta: 9px;
+  --t-row-name: 18px;
+  --t-row-pct: 18px;
+  --t-foot-sig: 13px;
+  --t-foot-credit: 9px;
+}
