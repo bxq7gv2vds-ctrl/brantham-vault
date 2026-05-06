@@ -1,4 +1,53 @@
 # Pipeline QUEUE — Opportunités
+_Mise à jour : 2026-05-06 — Auto-enrichment_
+
+---
+
+## Nouvelles opportunités — 2026-05-06
+
+### 1. Fibre Excellence
+- **CA** : 297,7 M€ | **Source** : Abitbol & Rousselet | **Procédure** : redressement
+- **Slug** : `abitbol-rousselet-fibre-excellence` | **Statut** : Enrichi (pappers OK)
+
+### 2. Commerce de détail textiles (75016)
+- **CA** : 19,4 M€ | **Source** : Ascagne | **Procédure** : cession
+- **Slug** : `ascagne-commerce-de-detail-de-textiles-en-magasi` | **Statut** : Enrichi
+
+### 3. Cabinet de conseil en management
+- **CA** : 8,2 M€ | **Source** : Abitbol & Rousselet | **Procédure** : redressement
+- **Slug** : `abitbol-rousselet-conseil` | **Statut** : Enrichi
+
+### 4. Clinique SMR (Eguilles 13510)
+- **CA** : 6,6 M€ | **Source** : Abitbol & Rousselet | **Procédure** : redressement
+- **Slug** : `abitbol-rousselet-smr` | **Statut** : Enrichi
+
+### 5. Traitement de surfaces métalliques (grenaillage/peinture industrielle)
+- **CA** : 2,0 M€ | **Source** : STAR Administrateurs | **Procédure** : cession
+- **Slug** : `star-administrateurs-traitement-de-surfaces-metalliques-grena` | **Statut** : Enrichi
+
+### 6. Equipements thermiques
+- **CA** : 1,4 M€ | **Source** : Abitbol & Rousselet | **Procédure** : redressement
+- **Slug** : `abitbol-rousselet-equipements-thermiques` | **Statut** : Enrichi
+
+### 7. Restaurant (franchise)
+- **CA** : 1,2 M€ | **Source** : Abitbol & Rousselet | **Procédure** : redressement
+- **Slug** : `abitbol-rousselet-restaurant` | **Statut** : Enrichi
+
+### 8. Agence publicité sport (Paris 75016)
+- **CA** : 1,2 M€ | **Source** : Ascagne | **Procédure** : redressement
+- **Slug** : `ascagne-agence-de-publicite-specialisee-dans-l-u` | **Statut** : Enrichi
+
+### 9. Traitement de surfaces / revêtements métalliques
+- **CA** : 891 K€ | **Source** : Maydaymag | **Procédure** : redressement
+- **Slug** : `maydaymag-traitement-de-surfaces-revetements-chrom` | **Statut** : Enrichi
+
+### 10. Nettoyage cabines d'avions
+- **CA** : 787 K€ | **Source** : Maydaymag | **Procédure** : redressement
+- **Slug** : `maydaymag-nettoyage-de-cabines-d-avions` | **Statut** : Enrichi
+
+---
+_Précédentes opportunités :_
+
 _Mise à jour : 2026-04-29 18:52_
 
 ---
