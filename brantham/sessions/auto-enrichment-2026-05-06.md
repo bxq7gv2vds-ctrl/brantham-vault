@@ -40,3 +40,7 @@ tags: [auto-enrichment, pipeline, deals]
 
 - [[brantham/_MOC]]
 - [[brantham/pipeline/QUEUE]]
+
+## Cycle 18:43
+
+- **Scrape AJ** : lancement...
