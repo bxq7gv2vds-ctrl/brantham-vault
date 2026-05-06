@@ -36,6 +36,7 @@ COUCHE 6 — Cas pratiques           (J29-J30) → callable face à n'importe qu
 - [[brantham/mastery/curriculum]] — programme jour par jour
 - [[brantham/mastery/drill-quotidien]] — protocole 30 min/jour
 - [[brantham/mastery/lexique-pro]] — vocabulaire à manier
+- [[brantham/mastery/bibliographie]] — **livres à acheter** (Le Corre, Saint-Alary-Houin, Vallansan, etc.)
 - [[brantham/mastery/quiz/_index]] — quiz par couche
 - [[brantham/mastery/fiches/_index]] — fiches mémo 1-page
 - [[brantham/mastery/cas-pratiques/_index]] — cas pratiques
