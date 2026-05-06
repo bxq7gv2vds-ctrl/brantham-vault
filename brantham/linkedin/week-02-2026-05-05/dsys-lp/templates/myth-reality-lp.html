@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>myth-reality — Brantham</title>
+<link rel="stylesheet" href="../base/tokens.css">
+<link rel="stylesheet" href="../base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { padding-top: 40px; }
+  .post .h1 { font-size: 44px; line-height: 1.06; max-width: 760px; }
+  .post .lede { margin-top: 18px; max-width: 700px; }
+  .duel { margin-top: 36px; border-top: 2px solid var(--ink); }
+  .duel-head {
+    display: grid;
+    grid-template-columns: 60px 1fr 1fr;
+    column-gap: 32px;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--ink);
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+  }
+  .duel-row {
+    display: grid;
+    grid-template-columns: 60px 1fr 1fr;
+    column-gap: 32px;
+    align-items: baseline;
+    padding: 18px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .duel-row:last-child { border-bottom: 0; }
+  .duel-row .num {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    color: var(--ink);
+    font-weight: 500;
+  }
+  .duel-row .myth {
+    font-family: var(--serif);
+    font-size: 17px;
+    line-height: 1.4;
+    color: var(--ink-mute);
+    font-style: italic;
+    text-decoration: line-through;
+    text-decoration-color: var(--accent);
+    text-decoration-thickness: 1px;
+  }
+  .duel-row .truth {
+    font-family: var(--serif);
+    font-size: 17px;
+    line-height: 1.4;
+    color: var(--ink);
+    font-weight: 500;
+  }
+  .duel-row .truth::before {
+    content: "▸ ";
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .duel-row .truth b { color: var(--accent); font-weight: 600; }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°01/2026</div>
+  <div class="stamp">Décryptage<b>N°01·2026</b><span class="x">05 · Mai</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div class="kicker">M&amp;A Legaltech · Lecture critique du communiqué</div>
+    <h1 class="h1">Trois choses que <span class="it">le communiqué</span> ne vous a pas dites.</h1>
+    <p class="lede">Le rachat de Legalstart par LegalPlace est présenté comme une consolidation. Voici ce qui se joue réellement, glissé par l'actionnaire historique sur LinkedIn.</p>
+
+    <div class="duel">
+      <div class="duel-head">
+        <div>Réf.</div>
+        <div>Ce qu'on vous a dit</div>
+        <div>Ce qui se joue</div>
+      </div>
+      <div class="duel-row">
+        <div class="num">D-01</div>
+        <div class="myth">100 M€ de CA pro-forma.</div>
+        <div class="truth">Sur ces 100 M€, environ <b>67 M€ sont en ARR récurrent</b>. Information absente du communiqué et de la presse.</div>
+      </div>
+      <div class="duel-row">
+        <div class="num">D-02</div>
+        <div class="myth">Consolidation horizontale du marché de la création.</div>
+        <div class="truth">La création à 200 € est <b>le canal d'acquisition</b>, pas le produit. Funnel vers domiciliation, compta, abonnement juridique.</div>
+      </div>
+      <div class="duel-row">
+        <div class="num">D-03</div>
+        <div class="myth">Le nouvel ensemble revendique la position de leader.</div>
+        <div class="truth">Huit jours plus tôt, <b>Lexora</b> annonçait une attaque IA pure-play sur la rétention (AGO des 450&nbsp;000 SASU). La couche que ni LegalPlace ni Legalstart ne surveillent.</div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Source</b> · Day One · LinkedIn</div><div><b>Voir</b> · app.branthampartners.fr/sectors</div></div>
+  </footer>
+</div>
+
+</body>
+</html>

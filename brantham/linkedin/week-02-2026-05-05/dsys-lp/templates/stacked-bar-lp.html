@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>stacked-bar — Brantham</title>
+<link rel="stylesheet" href="../base/tokens.css">
+<link rel="stylesheet" href="../base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { padding-top: 36px; }
+  .post .h1 { font-size: 38px; line-height: 1.06; max-width: 720px; }
+  .post .lede { margin-top: 14px; max-width: 660px; font-size: 14px; }
+
+  .legend {
+    display: flex;
+    gap: 22px;
+    margin-top: 22px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid var(--ink);
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink);
+  }
+  .legend .swatch {
+    display: inline-block;
+    width: 18px; height: 10px;
+    margin-right: 8px;
+    vertical-align: middle;
+  }
+  .legend .lj  .swatch { background: #7A1D17; }
+  .legend .rj  .swatch { background: #C8896E; }
+  .legend .sg  .swatch { background: #E5C9A8; border: 1px solid var(--rule); }
+
+  .stk {
+    margin-top: 6px;
+    padding-top: 0;
+  }
+  .stk-head {
+    display: grid;
+    grid-template-columns: 60px 220px 1fr 100px;
+    column-gap: 18px;
+    padding: 6px 0;
+    border-bottom: 1px solid var(--ink);
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+  }
+  .stk-row {
+    display: grid;
+    grid-template-columns: 60px 220px 1fr 100px;
+    column-gap: 18px;
+    align-items: center;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .stk-row:last-child { border-bottom: 0; }
+  .stk-row .num {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    color: var(--ink);
+    font-weight: 500;
+  }
+  .stk-row .label {
+    font-family: var(--serif);
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--ink);
+    line-height: 1.2;
+  }
+  .stk-row .stack {
+    display: flex;
+    height: 22px;
+    width: 100%;
+    overflow: hidden;
+  }
+  .stk-row .seg {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--paper);
+    letter-spacing: 0.04em;
+    white-space: nowrap;
+  }
+  .stk-row .seg.lj { background: #7A1D17; }
+  .stk-row .seg.rj { background: #C8896E; color: var(--ink); }
+  .stk-row .seg.sg { background: #E5C9A8; color: var(--ink); }
+  .stk-row .seg.tiny { color: transparent; }
+  .stk-row .total {
+    font-family: var(--mono);
+    font-size: 13px;
+    text-align: right;
+    color: var(--ink);
+    font-weight: 500;
+  }
+
+  .insight {
+    margin-top: 28px;
+    padding-top: 14px;
+    border-top: 1px solid var(--ink);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 24px;
+  }
+  .insight .cell .k {
+    font-family: var(--mono);
+    font-size: 9.5px;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    margin-bottom: 6px;
+  }
+  .insight .cell .v {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 24px;
+    line-height: 1.05;
+    color: var(--accent);
+    font-weight: 400;
+  }
+  .insight .cell .h {
+    margin-top: 6px;
+    font-family: var(--serif);
+    font-size: 13px;
+    color: var(--ink-soft);
+    line-height: 1.4;
+  }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°01/2026</div>
+  <div class="stamp">Décryptage<b>N°01·2026</b><span class="x">05 · Mai</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div class="kicker">M&amp;A Legaltech · Architecture du revenu</div>
+    <h1 class="h1">100 M€ pro-forma. <span class="it">67 % en récurrent</span>, et personne n'en parle.</h1>
+    <p class="lede">Répartition des 100 M€ entre couche one-shot (création SASU à 200 €) et couche ARR (domiciliation, compta, abonnement juridique). Base 100 %.</p>
+
+    <div class="legend">
+      <div class="lj"><span class="swatch"></span>Création one-shot</div>
+      <div class="rj"><span class="swatch"></span>Domiciliation · ARR</div>
+      <div class="sg"><span class="swatch"></span>Compta + abonnement · ARR</div>
+    </div>
+
+    <div class="stk">
+      <div class="stk-head">
+        <div>Réf.</div>
+        <div>Couche</div>
+        <div>Mix · 100 M€</div>
+        <div>Valeur</div>
+      </div>
+
+      <div class="stk-row">
+        <div class="num">LP-01</div>
+        <div class="label">Acquisition · création SASU</div>
+        <div class="stack"><div class="seg lj" style="width:100%">33&nbsp;%</div></div>
+        <div class="total">≈ 33 M€</div>
+      </div>
+      <div class="stk-row">
+        <div class="num">LP-02</div>
+        <div class="label">Domiciliation</div>
+        <div class="stack"><div class="seg rj" style="width:100%">15&nbsp;%</div></div>
+        <div class="total">≈ 15 M€</div>
+      </div>
+      <div class="stk-row">
+        <div class="num">LP-03</div>
+        <div class="label">Compta + formalités annuelles</div>
+        <div class="stack"><div class="seg sg" style="width:100%">24&nbsp;%</div></div>
+        <div class="total">≈ 24 M€</div>
+      </div>
+      <div class="stk-row">
+        <div class="num">LP-04</div>
+        <div class="label">Abonnement juridique annuel</div>
+        <div class="stack"><div class="seg sg" style="width:100%">28&nbsp;%</div></div>
+        <div class="total">≈ 28 M€</div>
+      </div>
+      <div class="stk-row">
+        <div class="num">LP-Σ</div>
+        <div class="label">dont ARR cumulé</div>
+        <div class="stack"><div class="seg lj" style="width:33%">33</div><div class="seg sg" style="width:67%">67&nbsp;% ARR récurrent</div></div>
+        <div class="total">≈ 67 M€</div>
+      </div>
+    </div>
+
+    <div class="insight">
+      <div class="cell">
+        <div class="k">Couche one-shot</div>
+        <div class="v">200 € × 450k</div>
+        <div class="h">Création comme canal d'entrée</div>
+      </div>
+      <div class="cell">
+        <div class="k">Couche récurrente</div>
+        <div class="v">≈ 67 M€</div>
+        <div class="h">Forte rétention · contrat 12 mois</div>
+      </div>
+      <div class="cell">
+        <div class="k">Signal faible</div>
+        <div class="v">J&minus;8 · Lexora</div>
+        <div class="h">Attaque IA pure-play sur AGO</div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Source</b> · Day One · LinkedIn</div><div><b>Voir</b> · app.branthampartners.fr/sectors</div></div>
+  </footer>
+</div>
+
+</body>
+</html>

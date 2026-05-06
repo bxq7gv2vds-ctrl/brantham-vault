@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>timeline — Brantham</title>
+<link rel="stylesheet" href="../base/tokens.css">
+<link rel="stylesheet" href="../base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { padding-top: 40px; }
+  .post .h1 { font-size: 44px; line-height: 1.06; max-width: 760px; }
+  .post .lede { margin-top: 18px; max-width: 700px; }
+
+  .timeline {
+    margin-top: 36px;
+    border-top: 2px solid var(--ink);
+    padding-top: 22px;
+    position: relative;
+  }
+  .tl-axis {
+    position: absolute;
+    top: 22px;
+    bottom: 0;
+    left: 22px;
+    width: 1px;
+    background: var(--rule);
+  }
+  .tl-step {
+    display: grid;
+    grid-template-columns: 44px 110px 1fr;
+    column-gap: 28px;
+    align-items: baseline;
+    padding: 14px 0;
+    border-bottom: 1px solid var(--rule);
+    position: relative;
+  }
+  .tl-step:last-child { border-bottom: 0; }
+  .tl-step .dot {
+    width: 10px; height: 10px;
+    background: var(--paper);
+    border: 2px solid var(--accent);
+    border-radius: 50%;
+    margin-left: 16px;
+    margin-top: 6px;
+    position: relative;
+    z-index: 1;
+  }
+  .tl-step.done .dot { background: var(--accent); }
+  .tl-step .when {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 500;
+    padding-top: 2px;
+  }
+  .tl-step .what {
+    font-family: var(--serif);
+    font-size: 19px;
+    line-height: 1.4;
+    color: var(--ink);
+    font-weight: 500;
+    letter-spacing: -0.005em;
+  }
+  .tl-step .what .meta {
+    display: block;
+    font-family: var(--serif);
+    font-style: italic;
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--ink-mute);
+    margin-top: 4px;
+    letter-spacing: 0;
+  }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°01/2026</div>
+  <div class="stamp">Décryptage<b>N°01·2026</b><span class="x">05 · Mai</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div class="kicker">M&amp;A Legaltech · Chronologie du deal</div>
+    <h1 class="h1">Huit jours avant l'annonce du rachat, <span class="it">le signal faible</span> était déjà posté.</h1>
+    <p class="lede">Reconstitution publique de la séquence LegalPlace × Legalstart. Le deal n'arrive pas seul&nbsp;: un nouvel entrant IA s'est positionné juste avant, et le vrai chiffre est sorti après.</p>
+
+    <div class="timeline">
+      <div class="tl-axis"></div>
+
+      <div class="tl-step done">
+        <div class="dot"></div>
+        <div class="when">J − 8</div>
+        <div class="what">Lexora poste sur X <span class="meta">450&nbsp;000 SASU créées par an, AGO obligatoire dans les 6 mois, ni LegalPlace ni Legalstart ne les surveillent. Eux oui, avec de l'IA.</span></div>
+      </div>
+      <div class="tl-step done">
+        <div class="dot"></div>
+        <div class="when">J · 0</div>
+        <div class="what">Annonce officielle du rachat <span class="meta">Communiqué&nbsp;: 100 M€ de CA pro-forma, consolidation horizontale, leader européen de la création.</span></div>
+      </div>
+      <div class="tl-step done">
+        <div class="dot"></div>
+        <div class="when">J · 0</div>
+        <div class="what">Reprise presse <span class="meta">L'angle "consolidation" est repris partout. Aucune décomposition du chiffre.</span></div>
+      </div>
+      <div class="tl-step">
+        <div class="dot"></div>
+        <div class="when">J + 1</div>
+        <div class="what">Day One sur LinkedIn <span class="meta">Michel de Guilhermier, premier actionnaire LegalPlace depuis 2017, glisse&nbsp;: « deux tiers en ARR récurrent ».</span></div>
+      </div>
+      <div class="tl-step">
+        <div class="dot"></div>
+        <div class="when">J + n</div>
+        <div class="what">Lecture Brantham <span class="meta">Le rachat n'achète pas une part de marché. Il achète un funnel de 450&nbsp;000 entrées par an vers du SaaS.</span></div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Source</b> · Day One · X · communiqué</div><div><b>Voir</b> · app.branthampartners.fr/sectors</div></div>
+  </footer>
+</div>
+
+</body>
+</html>

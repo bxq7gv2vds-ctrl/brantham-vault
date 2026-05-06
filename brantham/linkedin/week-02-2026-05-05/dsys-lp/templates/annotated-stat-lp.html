@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>annotated-stat — Brantham</title>
+<link rel="stylesheet" href="../base/tokens.css">
+<link rel="stylesheet" href="../base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { padding-top: 36px; }
+  .post .h1 { font-size: 36px; line-height: 1.08; max-width: 720px; }
+
+  .annot {
+    margin-top: 32px;
+    border-top: 2px solid var(--ink);
+    padding-top: 28px;
+    display: grid;
+    grid-template-columns: 1.1fr 1fr;
+    column-gap: 48px;
+    align-items: start;
+  }
+  .annot-figure {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .annot-figure .label {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+  }
+  .annot-figure .big {
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: 142px;
+    line-height: 0.95;
+    letter-spacing: -0.045em;
+    color: var(--ink);
+    white-space: nowrap;
+  }
+  .annot-figure .big .tag {
+    font-style: italic;
+    font-size: 0.32em;
+    color: var(--accent);
+    margin-left: 10px;
+    vertical-align: 0.55em;
+  }
+  .annot-figure .desc {
+    margin-top: 14px;
+    font-family: var(--serif);
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--ink-soft);
+    max-width: 380px;
+  }
+  .annot-figure .desc b { color: var(--ink); font-weight: 600; }
+
+  .annot-breakdown {
+    border-left: 1px solid var(--rule);
+    padding-left: 32px;
+  }
+  .annot-breakdown .head {
+    font-family: var(--mono);
+    font-size: 9.5px;
+    letter-spacing: 0.26em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--ink);
+    margin-bottom: 4px;
+  }
+  .annot-breakdown .sub {
+    display: grid;
+    grid-template-columns: 110px 1fr 60px;
+    column-gap: 14px;
+    align-items: baseline;
+    padding: 16px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .annot-breakdown .sub .v { white-space: nowrap; }
+  .annot-breakdown .sub:last-child { border-bottom: 0; }
+  .annot-breakdown .sub .v {
+    font-family: var(--serif);
+    font-style: italic;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 1;
+    color: var(--accent);
+    letter-spacing: -0.02em;
+  }
+  .annot-breakdown .sub .lbl {
+    font-family: var(--serif);
+    font-size: 16px;
+    line-height: 1.35;
+    color: var(--ink);
+    font-weight: 500;
+  }
+  .annot-breakdown .sub .lbl .meta {
+    display: block;
+    font-style: italic;
+    font-weight: 400;
+    color: var(--ink-mute);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .annot-breakdown .sub .pct {
+    font-family: var(--mono);
+    font-size: 12px;
+    text-align: right;
+    color: var(--ink-mute);
+    letter-spacing: 0.04em;
+  }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°01/2026</div>
+  <div class="stamp">Décryptage<b>N°01·2026</b><span class="x">05 · Mai</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div class="kicker">M&amp;A Legaltech · Décomposition</div>
+    <h1 class="h1">100 M€ pro-forma annoncés, mais <span class="it">deux natures</span> de revenu très différentes.</h1>
+
+    <div class="annot">
+      <div class="annot-figure">
+        <div class="label">CA pro-forma · LegalPlace × Legalstart</div>
+        <div class="big">100&thinsp;M€<span class="tag">annoncé</span></div>
+        <p class="desc">Communiqué officiel post-rachat. Présenté comme une <b>consolidation horizontale</b> sur la création d'entreprise. La nature du revenu n'apparaît nulle part.</p>
+      </div>
+
+      <div class="annot-breakdown">
+        <div class="head">Décomposition par nature de revenu</div>
+        <div class="sub">
+          <div class="v">≈ 67 M€</div>
+          <div class="lbl">ARR récurrent <span class="meta">Domiciliation · compta · abonnement juridique</span></div>
+          <div class="pct">67&nbsp;%</div>
+        </div>
+        <div class="sub">
+          <div class="v">≈ 33 M€</div>
+          <div class="lbl">Création one-shot <span class="meta">≈ 200 € par SASU · canal, pas produit</span></div>
+          <div class="pct">33&nbsp;%</div>
+        </div>
+        <div class="sub">
+          <div class="v">450 000</div>
+          <div class="lbl">SASU créées par an <span class="meta">Volume amont · funnel vers SaaS</span></div>
+          <div class="pct">FR</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Source</b> · Day One · LinkedIn</div><div><b>Voir</b> · app.branthampartners.fr/sectors</div></div>
+  </footer>
+</div>
+
+</body>
+</html>
