@@ -1,0 +1,18 @@
+---
+name: Paper Session 1 — Day 16 / 15
+description: Incremental status of 15-day paper trading session
+type: report
+generated: 2026-05-07
+---
+
+# Paper Session #1
+
+- **Elapsed**: 16.72 / 15 days
+- **Bankroll**: $88.77 (started $1,000.00)
+- **Total ROI**: -91.12%
+- **Daily compound rate**: -14.046%
+- **Peak / Trough**: $1,000.00 / $1,000.00
+- **P&L cumulative**: $-911.23
+
+## Projection at current rate
+- Daily compound rate ≤ 0 — no positive compounding yet.
