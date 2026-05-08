@@ -16,3 +16,4 @@ generated: 2026-05-05
 
 ## Projection at current rate
 - Daily compound rate ≤ 0 — no positive compounding yet.
+## Related
