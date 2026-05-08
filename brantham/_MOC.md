@@ -1,7 +1,7 @@
 ---
 type: moc
 project: brantham
-updated: 2026-03-30
+updated: 2026-05-08
 ---
 
 # Brantham Partners -- Map of Content
@@ -12,22 +12,25 @@ Cabinet M&A AI-powered specialise dans les PME en difficulte en France. On accom
 
 ## Revenue Model
 
-Modele hybride : **15-30k upfront** (1ere offre) + **15-30k** (offre finale) + **variable** (% ou forfait negocie). Pre-revenue.
+Grille reviswée (decision 2026-04-24) :
+- CA cible <1M€ : **7k upfront + 7k success** = 14k HT
+- CA cible 1-3M€ : 10-15k + 10-15k
+- CA cible >3M€ : 15-30k + 15-30k + variable
+Voir [[founder/decisions/2026-04-24-pricing-7k-7k-petits-tickets]].
 
 ## Equipe
 
 - **Paul Roulleau** : co-fondateur, tech/infra/product/strategie
 - **Soren** : co-fondateur, commercial/outreach/closing (role a activer)
 
-## Statut (27 mars 2026)
+## Statut (8 mai 2026)
 
-- **Revenue** : 0 EUR (pre-revenue, bootstrapped, 300$/mois infra)
-- **Deals traites end-to-end** : 0
-- **Repreneurs contactes** : 0 (bloque par absence de plaquette)
-- **Mandats signes** : 0
-- **Data rooms obtenues** : 0 (AJ refusent sans mandat repreneur)
-- Pipeline tech : operationnel (scraping, agents construits, pas en prod autonome)
-- Knowledge base : 49 sujets, complete
+- **Premier deal signe** : Magic Form Levallois (24/04/2026, deadline offre 21/05) — voir [[brantham/deals/active/magic-form-levallois/_MOC]]
+- **Deal en cours** : Groupe ITFI (audit 05/05, plan cession 21/05) — voir [[brantham/deals/active/itfi-groupe/_MOC]]
+- **Deals actifs** : Magic Form, ITFI, Ingebime, MLD, SAS Fitness Levallois, Alphosa
+- **Revenue signe** : 14k HT (Magic Form) — encaissement sur closing
+- Pipeline tech : Cockpit web Next.js operationnel (459 opps, 200 actives) — voir [[brantham/sessions/2026-04-28-cockpit-minimalisme-outreach]]
+- Knowledge base : 49+ sujets, complete
 
 ## Contexte & Process (LIRE EN PRIORITE)
 
