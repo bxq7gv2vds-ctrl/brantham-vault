@@ -7,6 +7,7 @@ TPL = HERE / "templates"
 
 FILES = [
     "funnel-lp.html",
+    "dispositif-lp.html",
 ]
 
 async def main():
