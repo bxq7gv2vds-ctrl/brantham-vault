@@ -7,7 +7,8 @@ week: 2
 hook: paradoxe-direct
 status: ready-to-ship
 characters: 1755
-visual: TBD
+visual: post-04-meme-anakin.png (cream) + post-04-meme-anakin-navy.png
+visual_format: meme Anakin/Padme 4 cases · 1080×1080 · logo Brantham seul en bas
 piliers: [methode, education, cas-ecole]
 ---
 
