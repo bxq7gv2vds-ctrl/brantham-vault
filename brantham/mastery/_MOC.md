@@ -35,11 +35,14 @@ COUCHE 6 — Cas pratiques           (J29-J30) → callable face à n'importe qu
 
 - [[brantham/mastery/curriculum]] — programme jour par jour
 - [[brantham/mastery/drill-quotidien]] — protocole 30 min/jour
+- [[brantham/mastery/programme-intensif-1h30]] — **programme 1h30/jour** (6×15 min)
 - [[brantham/mastery/lexique-pro]] — vocabulaire à manier
 - [[brantham/mastery/bibliographie]] — **livres à acheter** (Le Corre, Saint-Alary-Houin, Vallansan, etc.)
 - [[brantham/mastery/quiz/_index]] — quiz par couche
 - [[brantham/mastery/fiches/_index]] — fiches mémo 1-page
-- [[brantham/mastery/cas-pratiques/_index]] — cas pratiques
+- [[brantham/mastery/finance/_MOC]] — **module Finance distressed** (bilan, P&L, BFR, EBITDA, multiples, red flags)
+- [[brantham/mastery/data-marche/stats-2025]] — chiffres marché 2025 à connaître
+- [[brantham/mastery/cas-pratiques/_index]] — cas pratiques (Magic Form, etc.)
 
 ## Knowledge base existante (lecture profonde)
 
