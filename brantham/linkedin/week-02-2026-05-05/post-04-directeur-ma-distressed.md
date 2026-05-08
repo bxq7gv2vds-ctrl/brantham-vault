@@ -70,6 +70,7 @@ Rendre l'acquisition distressed sexy en France. Documenter, vulgariser, former. 
 - C · contre-intuitif court (refusé)
 - E · adresse directe lecteur (non retenu)
 - F · verbatim opener (non retenu)
+- **D · paradoxe direct (RETENU)** — *Le rêve de tout acheteur en M&A : reprendre les actifs sans reprendre le passif. En France, ça existe. C'est encadré par la loi. Et personne ne le fait.*
 
 ## Visuel — meme Anakin/Padme 4 cases (validé)
 
