@@ -143,4 +143,4 @@ date_doc: 2024-06-17
 ## Related
 - [[brantham/deals/active/ingebime/docs/25-contrat-emaging-grenke]]
 - [[brantham/deals/active/ingebime/docs/04-jugement-ouverture]]
-- [[brantham/deals/active/ingebime/docs/53-etat-passif]]
+- [[brantham/deals/active/ingebime/docs/53-etat-du-passif]]

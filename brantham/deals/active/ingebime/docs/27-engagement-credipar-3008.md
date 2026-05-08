@@ -101,4 +101,4 @@ date_doc: 2025-06-11
 - [[brantham/deals/active/ingebime/docs/17-assurance-peugeot-3008]]
 - [[brantham/deals/active/ingebime/docs/24-synthese-flotte-allianz]]
 - [[brantham/deals/active/ingebime/docs/04-jugement-ouverture]]
-- [[brantham/deals/active/ingebime/docs/53-etat-passif]]
+- [[brantham/deals/active/ingebime/docs/53-etat-du-passif]]

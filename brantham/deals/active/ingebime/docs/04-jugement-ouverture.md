@@ -153,4 +153,4 @@ date_doc: 2025-05-06
 - [[brantham/deals/active/ingebime/docs/03-etat-endettement]]
 - [[brantham/deals/active/ingebime/docs/05-jugement-poursuite-po]]
 - [[brantham/deals/active/ingebime/docs/06-jugement-renouvellement-po]]
-- [[brantham/deals/active/ingebime/docs/53-etat-passif]]
+- [[brantham/deals/active/ingebime/docs/53-etat-du-passif]]

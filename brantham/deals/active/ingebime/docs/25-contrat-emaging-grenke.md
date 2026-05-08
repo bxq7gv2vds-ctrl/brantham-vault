@@ -122,5 +122,5 @@ date_doc: 2024-12-23
 ## Related
 - [[brantham/deals/active/ingebime/docs/26-contrat-locam-diffuseur]]
 - [[brantham/deals/active/ingebime/docs/27-engagement-credipar-3008]]
-- [[brantham/deals/active/ingebime/docs/53-etat-passif]]
+- [[brantham/deals/active/ingebime/docs/53-etat-du-passif]]
 - [[brantham/deals/active/ingebime/docs/04-jugement-ouverture]]

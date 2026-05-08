@@ -293,5 +293,5 @@ Les categories suivantes n'ont AUCUNE inscription :
 - [[brantham/deals/active/ingebime/docs/27-engagement-credipar-3008]]
 - [[brantham/deals/active/ingebime/docs/14-assurance-mercedes-FJ-805-BK]]
 - [[brantham/deals/active/ingebime/docs/16-assurance-mini-cooper]]
-- [[brantham/deals/active/ingebime/docs/53-etat-passif]]
+- [[brantham/deals/active/ingebime/docs/53-etat-du-passif]]
 - [[brantham/deals/active/ingebime/docs/04-jugement-ouverture]]

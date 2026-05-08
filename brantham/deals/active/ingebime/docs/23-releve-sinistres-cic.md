@@ -127,4 +127,4 @@ date_doc: 2025-04-29 (releve) + 2025-12-02 (courrier suite)
 - [[brantham/deals/active/ingebime/docs/14-assurance-mercedes-FJ-805-BK]]
 - [[brantham/deals/active/ingebime/docs/15-assurance-mercedes-FJ-826-BK]]
 - [[brantham/deals/active/ingebime/docs/16-assurance-mini-cooper-FW-027-LP]]
-- [[brantham/deals/active/ingebime/docs/53-etat-passif]]
+- [[brantham/deals/active/ingebime/docs/53-etat-du-passif]]
