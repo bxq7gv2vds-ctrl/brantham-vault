@@ -3,49 +3,26 @@
 <head>
 <meta charset="UTF-8">
 <title>meme anakin — Brantham</title>
-<link rel="stylesheet" href="../base/tokens.css">
-<link rel="stylesheet" href="../base/base.css">
-<link rel="stylesheet" href="_format.css">
 <style>
-  .post .head .brand img { height: 32px; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1080px; height: 1080px; }
+  body { background: #efebe0; }
 
-  .post .body { padding-top: 18px; }
-
-  .mm-kicker {
-    font-family: var(--mono);
-    font-size: 10px;
-    letter-spacing: 0.28em;
-    text-transform: uppercase;
-    color: var(--ink-mute);
-    margin-bottom: 10px;
-  }
-  .mm-kicker b { color: var(--accent); font-weight: 500; }
-
-  .mm-h1 {
-    font-family: var(--serif);
-    font-size: 22px;
-    line-height: 1.2;
-    color: var(--ink);
-    font-weight: 500;
-    letter-spacing: -0.005em;
-    max-width: 800px;
-    margin-bottom: 14px;
-  }
-  .mm-h1 .it { font-style: italic; font-weight: 400; }
-  .mm-h1 b { color: var(--accent); font-weight: 600; }
-
-  .mm-frame {
+  .post {
     position: relative;
-    width: 720px;
-    margin: 0 auto;
-    border: 2px solid var(--ink);
+    width: 1080px;
+    height: 1080px;
+    background: #efebe0;
   }
+  .post.dark { background: #0e1a2b; }
 
   .mm-grid {
-    position: relative;
-    width: 100%;
-    aspect-ratio: 1 / 1;
-    background: #000;
+    position: absolute;
+    top: 40px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 960px;
+    height: 960px;
   }
   .mm-grid img {
     width: 100%;
@@ -59,8 +36,8 @@
     width: 50%;
     height: 50%;
     display: flex;
-    padding: 14px 18px;
-    box-sizing: border-box;
+    padding: 24px 28px;
+    align-items: flex-end;
   }
   .mm-cell .txt {
     width: 100%;
@@ -71,85 +48,53 @@
     text-transform: uppercase;
     letter-spacing: 0.01em;
     line-height: 1.05;
-    -webkit-text-stroke: 1.5px #000;
+    -webkit-text-stroke: 1.8px #000;
     text-shadow:
-      2px 2px 0 #000,
-      -2px -2px 0 #000,
-      2px -2px 0 #000,
-      -2px 2px 0 #000,
-      0 0 6px rgba(0,0,0,0.85);
+      2.5px 2.5px 0 #000,
+      -2.5px -2.5px 0 #000,
+      2.5px -2.5px 0 #000,
+      -2.5px 2.5px 0 #000,
+      0 0 8px rgba(0,0,0,0.85);
   }
 
-  .mm-cell.tl { top: 0; left: 0; align-items: flex-end; }
-  .mm-cell.tr { top: 0; left: 50%; align-items: flex-end; }
-  .mm-cell.bl { top: 50%; left: 0; align-items: flex-end; }
-  .mm-cell.br { top: 50%; left: 50%; align-items: flex-end; }
+  .mm-cell.tl { top: 0; left: 0; }
+  .mm-cell.tr { top: 0; left: 50%; }
+  .mm-cell.bl { top: 50%; left: 0; }
+  .mm-cell.br { top: 50%; left: 50%; }
 
-  .mm-cell.tl .txt { font-size: 19px; }
-  .mm-cell.tr .txt { font-size: 22px; }
-  .mm-cell.bl .txt { font-size: 38px; opacity: 0.85; padding-bottom: 4px; }
-  .mm-cell.br .txt { font-size: 22px; }
+  .mm-cell.tl .txt { font-size: 28px; }
+  .mm-cell.tr .txt { font-size: 32px; }
+  .mm-cell.bl .txt { font-size: 56px; opacity: 0.9; padding-bottom: 8px; }
+  .mm-cell.br .txt { font-size: 32px; }
 
-  .mm-coda {
-    margin-top: 16px;
-    padding-top: 14px;
-    border-top: 1px solid var(--rule);
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    font-family: var(--serif);
-    gap: 24px;
+  .logo {
+    position: absolute;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 5;
   }
-  .mm-coda .l {
-    font-style: italic;
-    font-size: 15px;
-    color: var(--ink);
+  .logo img {
+    height: 38px;
+    display: block;
   }
-  .mm-coda .v {
-    font-family: var(--serif);
-    font-style: italic;
-    font-size: 22px;
-    color: var(--accent);
-    letter-spacing: -0.01em;
-    font-weight: 500;
-    flex-shrink: 0;
+  .post.dark .logo img {
+    filter: brightness(0) invert(1) drop-shadow(0 1px 2px rgba(0,0,0,0.4));
   }
 </style>
 </head>
 <body>
 
 <div class="post">
-  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°01/2026</div>
-  <div class="stamp">Décryptage<b>N°01·2026</b><span class="x">08 · Mai</span></div>
-
-  <header class="head">
-    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
-  </header>
-
-  <div class="body">
-    <div class="mm-kicker">§ M&amp;A Distressed · <b>Le distressed français en quatre cases</b></div>
-    <h1 class="mm-h1">Le rêve de tout acheteur en M&amp;A. <span class="it">En France, ça existe.</span></h1>
-
-    <div class="mm-frame">
-      <div class="mm-grid">
-        <img src="../anakin.png" alt="">
-        <div class="mm-cell tl"><div class="txt">On a un dispositif voté par l'État pour racheter une boîte sans le passif</div></div>
-        <div class="mm-cell tr"><div class="txt">Donc la corp dev française l'utilise ?</div></div>
-        <div class="mm-cell bl"><div class="txt">…</div></div>
-        <div class="mm-cell br"><div class="txt">Donc la corp dev française l'utilise ?</div></div>
-      </div>
-    </div>
-
-    <div class="mm-coda">
-      <div class="l">— le distressed M&amp;A français, en quatre cases.</div>
-      <div class="v">angle mort</div>
-    </div>
+  <div class="mm-grid">
+    <img src="../anakin.png" alt="">
+    <div class="mm-cell tl"><div class="txt">On a un dispositif voté par l'État pour racheter une boîte sans le passif</div></div>
+    <div class="mm-cell tr"><div class="txt">Donc la corp dev française l'utilise ?</div></div>
+    <div class="mm-cell bl"><div class="txt">…</div></div>
+    <div class="mm-cell br"><div class="txt">Donc la corp dev française l'utilise ?</div></div>
   </div>
 
-  <footer class="foot">
-    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
-    <div class="credit"><div><b>Source</b> · Code de commerce · L631 et suivants</div><div><b>Voir</b> · branthampartners.fr</div></div>
-  </footer>
+  <div class="logo"><img src="../logo.png" alt="Brantham Partners"></div>
 </div>
 
 </body>
