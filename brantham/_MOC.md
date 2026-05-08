@@ -224,10 +224,15 @@ Voir [[founder/decisions/2026-04-24-pricing-7k-7k-petits-tickets]].
 
 | Deal | Statut | Deadline | Next Step |
 |---|---|---|---|
-| MLD (Multi Loisirs Distribution) | teaser_redige | 17/03/2026 | Pret pour Hunter |
+| Magic Form Levallois | mandat signe | 21/05/2026 12h | Depot offre |
+| Groupe ITFI / ITFACTO | rapport audit livre | 21/05/2026 | Suivi offres |
+| Ingebime | en analyse | — | Etat passif |
+| MLD (Multi Loisirs Distribution) | teaser redige | 17/03/2026 | Reaffecter ou closer |
+| SAS Fitness Levallois | en analyse | — | — |
+| Alphosa | sourcing buyers | — | — |
 
 - 600+ deals archives dans `/Users/paul/brantham-vault/`
-- Dernier scan AJ: [[brantham/sessions/auto-enrichment-2026-03-25]] -- 456 opportunites (24/31 sites), 75 avec CA>=1M, top pick: Papier & electricite (204M), Commerce sport (deadline 07/04)
+- Cockpit web : 459 opps · 200 actives · 47 J-7 (snapshot 28/04) — voir [[brantham/sessions/2026-04-28-cockpit-minimalisme-outreach]]
 
 ---
 
