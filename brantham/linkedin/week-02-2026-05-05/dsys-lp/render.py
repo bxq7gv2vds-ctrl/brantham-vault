@@ -6,7 +6,7 @@ HERE = Path(__file__).parent
 TPL = HERE / "templates"
 
 FILES = [
-    "manifesto-lp.html",
+    "meme-anakin-lp.html",
 ]
 
 async def main():

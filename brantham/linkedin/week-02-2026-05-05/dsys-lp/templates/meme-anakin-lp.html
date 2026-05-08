@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>meme anakin — Brantham</title>
+<link rel="stylesheet" href="../base/tokens.css">
+<link rel="stylesheet" href="../base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .head .brand img { height: 36px; }
+
+  .post .body { padding-top: 28px; }
+
+  .mm-kicker {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    margin-bottom: 16px;
+  }
+  .mm-kicker b { color: var(--accent); font-weight: 500; }
+
+  .mm-h1 {
+    font-family: var(--serif);
+    font-size: 28px;
+    line-height: 1.15;
+    color: var(--ink);
+    font-weight: 500;
+    letter-spacing: -0.01em;
+    max-width: 800px;
+    margin-bottom: 20px;
+  }
+  .mm-h1 .it { font-style: italic; font-weight: 400; }
+
+  .mm-frame {
+    position: relative;
+    width: 100%;
+    border-top: 2px solid var(--ink);
+    border-bottom: 2px solid var(--ink);
+    padding: 14px 0;
+  }
+
+  .mm-grid {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    background: #000;
+  }
+  .mm-grid img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+  }
+
+  .mm-cell {
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    display: flex;
+    padding: 16px 20px;
+    box-sizing: border-box;
+  }
+  .mm-cell .txt {
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-family: "Impact", "Haettenschweiler", "Arial Narrow Bold", sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.01em;
+    line-height: 1.05;
+    -webkit-text-stroke: 2px #000;
+    text-shadow:
+      2px 2px 0 #000,
+      -2px -2px 0 #000,
+      2px -2px 0 #000,
+      -2px 2px 0 #000,
+      0 0 6px rgba(0,0,0,0.7);
+  }
+
+  .mm-cell.tl { top: 0; left: 0; align-items: flex-end; }
+  .mm-cell.tr { top: 0; left: 50%; align-items: flex-end; }
+  .mm-cell.bl { top: 50%; left: 0; align-items: flex-end; }
+  .mm-cell.br { top: 50%; left: 50%; align-items: flex-end; }
+
+  .mm-cell.tl .txt { font-size: 22px; }
+  .mm-cell.tr .txt { font-size: 24px; }
+  .mm-cell.bl .txt { font-size: 24px; font-style: italic; opacity: 0.85; }
+  .mm-cell.br .txt { font-size: 24px; }
+
+  .mm-coda {
+    margin-top: 22px;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-family: var(--serif);
+    gap: 24px;
+  }
+  .mm-coda .l {
+    font-style: italic;
+    font-size: 16px;
+    color: var(--ink);
+  }
+  .mm-coda .v {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 22px;
+    color: var(--accent);
+    letter-spacing: -0.01em;
+    font-weight: 500;
+    flex-shrink: 0;
+  }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°01/2026</div>
+  <div class="stamp">Décryptage<b>N°01·2026</b><span class="x">08 · Mai</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div class="mm-kicker">§ M&amp;A Distressed · <b>Le distressed français en quatre cases</b></div>
+    <h1 class="mm-h1">Le rêve de tout acheteur en M&amp;A. <span class="it">En France, ça existe. Et personne ne le fait.</span></h1>
+
+    <div class="mm-frame">
+      <div class="mm-grid">
+        <img src="../anakin.png" alt="">
+        <div class="mm-cell tl"><div class="txt">On a un dispositif voté par l'État pour racheter une boîte sans le passif</div></div>
+        <div class="mm-cell tr"><div class="txt">Donc la corp dev française l'utilise ?</div></div>
+        <div class="mm-cell bl"><div class="txt">…</div></div>
+        <div class="mm-cell br"><div class="txt">Donc la corp dev française l'utilise ?</div></div>
+      </div>
+    </div>
+
+    <div class="mm-coda">
+      <div class="l">— le distressed M&amp;A français, en quatre cases.</div>
+      <div class="v">angle mort</div>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Source</b> · Code de commerce · L631 et suivants</div><div><b>Voir</b> · branthampartners.fr</div></div>
+  </footer>
+</div>
+
+</body>
+</html>
