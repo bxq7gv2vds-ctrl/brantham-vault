@@ -71,9 +71,36 @@ Rendre l'acquisition distressed sexy en France. Documenter, vulgariser, former. 
 - E · adresse directe lecteur (non retenu)
 - F · verbatim opener (non retenu)
 
-## Visuel
+## Visuel — meme Anakin/Padme 4 cases (validé)
 
-À fabriquer. Piste recommandée : carte 1080×1080 avec les 4 lignes "Tu reprends / Tu choisis / Tu négocies / Tu paies" en Source Serif 4, kicker `§ M&A DISTRESSED · CE QU'ON OUBLIE`, headline courte type *Le dispositif que personne ne lit.* Cream + accent bordeaux, signature Brantham.
+**Fichiers** : `post-04-meme-anakin.png` (cream) + `post-04-meme-anakin-navy.png`
+**Source HTML** : `dsys-lp/templates/meme-anakin-lp.html`
+**Image template** : `dsys-lp/anakin.png` (Imgflip Anakin Padme 4 Panel · 768×768)
+
+### Texte des 4 cases
+
+- TL · Anakin : « On a un dispositif voté par l'État pour racheter une boîte sans le passif »
+- TR · Padme : « Donc la corp dev française l'utilise ? »
+- BL · Anakin (silence) : « … »
+- BR · Padme (inquiète) : « Donc la corp dev française l'utilise ? »
+
+### Choix de mise en cadre
+
+- Pas de frame Brantham · pas de watermark · pas de kicker · pas de coda
+- Logo Brantham Partners seul, centré en bas, 38px
+- Le meme reste lisible et viral, le rattachement Brantham reste discret mais identifiable
+
+## Variantes explorées (non retenues)
+
+- **Dispositif-lp** (`dsys-lp/templates/dispositif-lp.html`) — 4 lignes "Tu reprends / Tu choisis / Tu négocies / Tu paies" + sub-text + références Code de commerce. Trop dense.
+- **Manifesto-lp** (`dsys-lp/templates/manifesto-lp.html`) — version épurée des 4 lignes. Pas retenue.
+- **G · Quote-card pur** — verbatim plein cadre. Pas fabriqué.
+- **H · Headline-only magazine** — titre seul plein cadre. Pas fabriqué.
+- **I · Asymmetrique mythe/réalité** — deux blocs. Pas fabriqué.
+- **1 · Galaxy brain progressif** — 4 niveaux d'illumination. Pas fabriqué.
+- **2 · Drake reject/approve** — Drake meme. Pas fabriqué.
+- **4 · Iceberg** — surface vs profondeur. Pas fabriqué.
+- **5 · Tableau Excel ironique** — tableur stylisé. Pas fabriqué.
 
 ## Related
 
