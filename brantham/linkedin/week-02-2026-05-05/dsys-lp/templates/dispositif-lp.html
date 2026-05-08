@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>dispositif — Brantham</title>
+<link rel="stylesheet" href="../base/tokens.css">
+<link rel="stylesheet" href="../base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .head .brand img { height: 36px; }
+
+  .post .body { padding-top: 36px; }
+  .post .h1 {
+    font-size: 44px;
+    line-height: 1.04;
+    max-width: 780px;
+    letter-spacing: -0.01em;
+  }
+  .post .lede {
+    margin-top: 18px;
+    max-width: 720px;
+    font-size: 15px;
+    line-height: 1.55;
+  }
+
+  .disp {
+    margin-top: 32px;
+    border-top: 2px solid var(--ink);
+    padding-top: 18px;
+  }
+  .disp-head {
+    display: grid;
+    grid-template-columns: 70px 1fr;
+    column-gap: 28px;
+    padding: 8px 0 14px;
+    border-bottom: 1px solid var(--ink);
+    font-family: var(--mono);
+    font-size: 9.5px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+  }
+
+  .disp-row {
+    display: grid;
+    grid-template-columns: 70px 1fr;
+    column-gap: 28px;
+    align-items: baseline;
+    padding: 22px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .disp-row:last-of-type { border-bottom: 0; }
+
+  .disp-row .num {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.16em;
+    color: var(--accent);
+    font-weight: 500;
+  }
+  .disp-row .stmt {
+    font-family: var(--serif);
+    font-size: 26px;
+    line-height: 1.25;
+    color: var(--ink);
+    font-weight: 500;
+    letter-spacing: -0.005em;
+  }
+  .disp-row .stmt b {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .disp-row .stmt .meta {
+    display: block;
+    margin-top: 6px;
+    font-family: var(--serif);
+    font-style: italic;
+    font-weight: 400;
+    font-size: 14.5px;
+    color: var(--ink-soft);
+    line-height: 1.45;
+    letter-spacing: 0;
+  }
+
+  .disp-final {
+    margin-top: 28px;
+    padding-top: 22px;
+    border-top: 2px solid var(--ink);
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-family: var(--serif);
+    gap: 24px;
+  }
+  .disp-final .l {
+    font-style: italic;
+    font-size: 17px;
+    color: var(--ink);
+    max-width: 520px;
+    line-height: 1.45;
+  }
+  .disp-final .v {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 26px;
+    color: var(--accent);
+    letter-spacing: -0.01em;
+    font-weight: 500;
+    text-align: right;
+    flex-shrink: 0;
+  }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°01/2026</div>
+  <div class="stamp">Décryptage<b>N°01·2026</b><span class="x">08 · Mai</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div class="kicker">M&amp;A Distressed · Ce qu'on oublie</div>
+    <h1 class="h1">Le rêve de tout acheteur en M&amp;A. <span class="it">En France, ça existe.</span></h1>
+    <p class="lede">Le plan de cession en redressement judiciaire est un dispositif voté par le législateur pour rendre la reprise attractive. Encadré par la loi. Appliqué chaque jour dans les tribunaux de commerce. Et quasiment jamais travaillé par la corporate dev française.</p>
+
+    <div class="disp">
+      <div class="disp-head">
+        <div>Réf.</div>
+        <div>Ce que la loi française permet à l'acheteur</div>
+      </div>
+
+      <div class="disp-row">
+        <div class="num">01</div>
+        <div class="stmt">Tu reprends les actifs <b>sans le passif</b>.<span class="meta">Le tribunal arrête le périmètre. Les dettes restent dans la procédure.</span></div>
+      </div>
+
+      <div class="disp-row">
+        <div class="num">02</div>
+        <div class="stmt">Tu choisis les <b>contrats que tu veux garder</b>.<span class="meta">Article L642-7 du Code de commerce. Le repreneur retient les contrats utiles à l'activité.</span></div>
+      </div>
+
+      <div class="disp-row">
+        <div class="num">03</div>
+        <div class="stmt">Tu négocies face à <b>un tribunal</b>, pas à un cédant émotif.<span class="meta">Le juge arbitre selon des critères publics. Pas de chantage, pas de surenchère affective.</span></div>
+      </div>
+
+      <div class="disp-row">
+        <div class="num">04</div>
+        <div class="stmt">Tu paies un prix bâti sur la <b>valeur d'usage</b>, pas sur les multiples du marché.<span class="meta">Souvent un pourcentage du CA, parfois la seule reprise du passif salarial.</span></div>
+      </div>
+    </div>
+
+    <div class="disp-final">
+      <div class="l">— et pourtant, la quasi-totalité des directions M&amp;A des grands groupes français ne sait pas comment ça marche.</div>
+      <div class="v">angle mort</div>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Source</b> · Code de commerce · L631 et suivants</div><div><b>Voir</b> · branthampartners.fr</div></div>
+  </footer>
+</div>
+
+</body>
+</html>
