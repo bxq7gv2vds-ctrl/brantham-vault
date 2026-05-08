@@ -9,5 +9,5 @@
 ## Related
 
 - [[brantham/_MOC]]
-- [[founder/daily/2026-04-04-auto-brief.md|Daily — 2026-04-04]]
+- [[founder/daily/2026-04-04-auto-brief|Daily — 2026-04-04]]
 - [[website/_MOC]]

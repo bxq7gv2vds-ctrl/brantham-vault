@@ -16,5 +16,5 @@
 ## Related
 
 - [[brantham/_MOC]]
-- [[founder/daily/2026-03-29-auto-brief.md|Daily — 2026-03-29]]
+- [[founder/daily/2026-03-29-auto-brief|Daily — 2026-03-29]]
 - [[website/_MOC]]
