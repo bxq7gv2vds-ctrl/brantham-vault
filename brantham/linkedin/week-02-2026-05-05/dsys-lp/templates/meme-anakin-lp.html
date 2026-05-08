@@ -7,9 +7,9 @@
 <link rel="stylesheet" href="../base/base.css">
 <link rel="stylesheet" href="_format.css">
 <style>
-  .post .head .brand img { height: 36px; }
+  .post .head .brand img { height: 32px; }
 
-  .post .body { padding-top: 28px; }
+  .post .body { padding-top: 18px; }
 
   .mm-kicker {
     font-family: var(--mono);
@@ -17,28 +17,28 @@
     letter-spacing: 0.28em;
     text-transform: uppercase;
     color: var(--ink-mute);
-    margin-bottom: 16px;
+    margin-bottom: 10px;
   }
   .mm-kicker b { color: var(--accent); font-weight: 500; }
 
   .mm-h1 {
     font-family: var(--serif);
-    font-size: 28px;
-    line-height: 1.15;
+    font-size: 22px;
+    line-height: 1.2;
     color: var(--ink);
     font-weight: 500;
-    letter-spacing: -0.01em;
+    letter-spacing: -0.005em;
     max-width: 800px;
-    margin-bottom: 20px;
+    margin-bottom: 14px;
   }
   .mm-h1 .it { font-style: italic; font-weight: 400; }
+  .mm-h1 b { color: var(--accent); font-weight: 600; }
 
   .mm-frame {
     position: relative;
-    width: 100%;
-    border-top: 2px solid var(--ink);
-    border-bottom: 2px solid var(--ink);
-    padding: 14px 0;
+    width: 720px;
+    margin: 0 auto;
+    border: 2px solid var(--ink);
   }
 
   .mm-grid {
@@ -59,7 +59,7 @@
     width: 50%;
     height: 50%;
     display: flex;
-    padding: 16px 20px;
+    padding: 14px 18px;
     box-sizing: border-box;
   }
   .mm-cell .txt {
@@ -71,13 +71,13 @@
     text-transform: uppercase;
     letter-spacing: 0.01em;
     line-height: 1.05;
-    -webkit-text-stroke: 2px #000;
+    -webkit-text-stroke: 1.5px #000;
     text-shadow:
       2px 2px 0 #000,
       -2px -2px 0 #000,
       2px -2px 0 #000,
       -2px 2px 0 #000,
-      0 0 6px rgba(0,0,0,0.7);
+      0 0 6px rgba(0,0,0,0.85);
   }
 
   .mm-cell.tl { top: 0; left: 0; align-items: flex-end; }
@@ -85,14 +85,14 @@
   .mm-cell.bl { top: 50%; left: 0; align-items: flex-end; }
   .mm-cell.br { top: 50%; left: 50%; align-items: flex-end; }
 
-  .mm-cell.tl .txt { font-size: 22px; }
-  .mm-cell.tr .txt { font-size: 24px; }
-  .mm-cell.bl .txt { font-size: 24px; font-style: italic; opacity: 0.85; }
-  .mm-cell.br .txt { font-size: 24px; }
+  .mm-cell.tl .txt { font-size: 19px; }
+  .mm-cell.tr .txt { font-size: 22px; }
+  .mm-cell.bl .txt { font-size: 38px; opacity: 0.85; padding-bottom: 4px; }
+  .mm-cell.br .txt { font-size: 22px; }
 
   .mm-coda {
-    margin-top: 22px;
-    padding-top: 16px;
+    margin-top: 16px;
+    padding-top: 14px;
     border-top: 1px solid var(--rule);
     display: flex;
     justify-content: space-between;
@@ -102,7 +102,7 @@
   }
   .mm-coda .l {
     font-style: italic;
-    font-size: 16px;
+    font-size: 15px;
     color: var(--ink);
   }
   .mm-coda .v {
@@ -128,7 +128,7 @@
 
   <div class="body">
     <div class="mm-kicker">§ M&amp;A Distressed · <b>Le distressed français en quatre cases</b></div>
-    <h1 class="mm-h1">Le rêve de tout acheteur en M&amp;A. <span class="it">En France, ça existe. Et personne ne le fait.</span></h1>
+    <h1 class="mm-h1">Le rêve de tout acheteur en M&amp;A. <span class="it">En France, ça existe.</span></h1>
 
     <div class="mm-frame">
       <div class="mm-grid">
