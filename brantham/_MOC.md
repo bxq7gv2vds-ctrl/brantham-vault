@@ -256,7 +256,7 @@ Voir [[founder/decisions/2026-04-24-pricing-7k-7k-petits-tickets]].
 
 ## Revenue
 
-**0 EUR** — pre-revenue. Fee structure definie : 15-30k upfront x2 + variable. Objectif premier revenu : fin mai 2026.
+**14k HT signe** (Magic Form Levallois, 24/04/2026) — encaissement sur closing si depot offre confirme. Objectif T2 2026 : 3-5 deals signes.
 
 ## Related
 
