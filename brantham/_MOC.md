@@ -101,7 +101,8 @@ Voir [[founder/decisions/2026-04-24-pricing-7k-7k-petits-tickets]].
 
 ## Sessions récentes
 
-- [[brantham/sessions/2026-04-26-cockpit-tui-supabase-hunters]] — **Cockpit v2** : Supabase Postgres + Hunters concurrents api.gouv + Todo Manager + 5 onglets TUI. Décision migrer vers app web Next.js
+- [[brantham/sessions/2026-04-28-cockpit-minimalisme-outreach]] — **Cockpit web v2** : refonte minimaliste, outreach tracker, landing Aujourd'hui, cron daily relances
+- [[brantham/sessions/2026-04-26-cockpit-tui-supabase-hunters]] — Cockpit v2 TUI : Supabase + Hunters api.gouv (deprecie au profit web)
 - [[brantham/sessions/2026-04-26-cockpit-aj]] — Cockpit Phase A (TUI triage AJ, scraper fixes, DLDO 91%)
 - [[brantham/sessions/2026-03-30-bp-tui-sourcing]] — TUI sourcing repreneur + pipeline contacts multi-sources
 
