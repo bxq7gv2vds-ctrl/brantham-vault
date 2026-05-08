@@ -7,8 +7,8 @@ date: 2026-05-06
 # Quiz mastery — Index
 
 ## Quiz par couche
-- [[brantham/mastery/quiz/quiz-couche-0]] — Fondations (J7)
-- Quiz Couche 1 (J12) — à créer
+- [[brantham/mastery/quiz/quiz-couche-0]] — Fondations (J7) ✅
+- [[brantham/mastery/quiz/quiz-couche-1]] — Plan de cession (J12) ✅
 - Quiz Couche 2 (J17) — à créer
 - Quiz Couche 3 (J21) — à créer
 - Quiz Couche 4 (J25) — à créer

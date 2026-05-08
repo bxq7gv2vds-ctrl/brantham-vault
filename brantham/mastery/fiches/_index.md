@@ -14,11 +14,11 @@ date: 2026-05-06
 - [[brantham/mastery/fiches/05-acteurs]] — Acteurs (AJ, MJ, tribunal, etc.)
 - [[brantham/mastery/fiches/06-calendrier-rj]] — Calendrier d'un RJ
 
-## Couche 1 — Plan de cession (à créer J8-J11)
-- 07 — Plan de cession mécanisme
-- 08 — 9 mentions L642-2
-- 09 — Critères L642-5
-- 10 — Surenchère, audience, offre revisée
+## Couche 1 — Plan de cession (J8-J11) ✅
+- [[brantham/mastery/fiches/07-plan-cession-mecanisme]] — Mécanisme L642
+- [[brantham/mastery/fiches/08-9-mentions-l642-2]] — Les 9 mentions L642-2
+- [[brantham/mastery/fiches/09-criteres-tribunal-l642-5]] — Critères L642-5
+- [[brantham/mastery/fiches/10-surenchere-audience]] — Surenchère, audience, offre revisée
 
 ## Couche 2 — Acteurs & process (à créer J13-J16)
 ## Couche 3 — Volet social (à créer J18-J20)

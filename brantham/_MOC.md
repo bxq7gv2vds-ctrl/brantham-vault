@@ -54,8 +54,13 @@ Modele hybride : **15-30k upfront** (1ere offre) + **15-30k** (offre finale) + *
 
 - [[brantham/mastery/_MOC]] — **Programme 30 jours** pour devenir le mec le plus calé en distressed M&A FR
 - [[brantham/mastery/curriculum]] — Curriculum jour par jour (6 couches, J1-J30)
-- [[brantham/mastery/drill-quotidien]] — Protocole 30 min/jour (5×6 phases)
+- [[brantham/mastery/drill-quotidien]] — Protocole 30 min/jour
+- [[brantham/mastery/programme-intensif-1h30]] — **Programme intensif 1h30/jour** (6×15 min)
 - [[brantham/mastery/lexique-pro]] — Vocabulaire à manier sans hésiter
+- [[brantham/mastery/bibliographie]] — Livres à acheter (Le Corre, Saint-Alary-Houin, Vallansan)
+- [[brantham/mastery/finance/_MOC]] — **Module Finance distressed** (bilan, P&L, BFR, EBITDA, multiples, red flags)
+- [[brantham/mastery/data-marche/stats-2025]] — Chiffres marché 2025
+- [[brantham/mastery/cas-pratiques/_index]] — Cas pratiques (Magic Form)
 - [[brantham/mastery/log-mastery]] — Journal de drill quotidien
 
 ## Polymarket Hedge Fund (side project trading)
