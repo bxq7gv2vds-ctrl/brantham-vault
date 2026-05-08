@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>manifesto — Brantham</title>
+<link rel="stylesheet" href="../base/tokens.css">
+<link rel="stylesheet" href="../base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .head .brand img { height: 36px; }
+
+  .post .body {
+    padding-top: 80px;
+    padding-bottom: 40px;
+  }
+
+  .mf-kicker {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    margin-bottom: 36px;
+  }
+  .mf-kicker b { color: var(--accent); font-weight: 500; }
+
+  .mf-block {
+    border-top: 2px solid var(--ink);
+    padding-top: 32px;
+  }
+  .mf-block .lead {
+    font-family: var(--serif);
+    font-size: 30px;
+    line-height: 1.18;
+    color: var(--ink);
+    font-weight: 500;
+    letter-spacing: -0.01em;
+    max-width: 760px;
+    margin-bottom: 56px;
+  }
+  .mf-block .lead .it { font-style: italic; font-weight: 400; }
+
+  .mf-list {
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap: 22px;
+  }
+  .mf-list .item {
+    display: grid;
+    grid-template-columns: 60px 1fr;
+    column-gap: 28px;
+    align-items: baseline;
+    padding-bottom: 22px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .mf-list .item:last-child { border-bottom: 0; }
+  .mf-list .item .num {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.16em;
+    color: var(--accent);
+    font-weight: 500;
+  }
+  .mf-list .item .stmt {
+    font-family: var(--serif);
+    font-size: 32px;
+    line-height: 1.15;
+    color: var(--ink);
+    font-weight: 500;
+    letter-spacing: -0.015em;
+  }
+  .mf-list .item .stmt b { color: var(--accent); font-weight: 600; }
+
+  .mf-coda {
+    margin-top: 56px;
+    padding-top: 22px;
+    border-top: 2px solid var(--ink);
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 24px;
+  }
+  .mf-coda .l {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 17px;
+    color: var(--ink);
+    max-width: 560px;
+    line-height: 1.45;
+  }
+  .mf-coda .v {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 26px;
+    color: var(--accent);
+    letter-spacing: -0.01em;
+    font-weight: 500;
+    text-align: right;
+    flex-shrink: 0;
+  }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°01/2026</div>
+  <div class="stamp">Décryptage<b>N°01·2026</b><span class="x">08 · Mai</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="body">
+    <div class="mf-kicker">§ M&amp;A Distressed · <b>Le dispositif que personne ne lit</b></div>
+
+    <div class="mf-block">
+      <div class="lead">Le rêve de tout acheteur en M&amp;A. <span class="it">En France, ça existe.</span></div>
+
+      <div class="mf-list">
+        <div class="item">
+          <div class="num">01</div>
+          <div class="stmt">Les actifs <b>sans le passif</b>.</div>
+        </div>
+        <div class="item">
+          <div class="num">02</div>
+          <div class="stmt">Les contrats <b>que tu choisis</b>.</div>
+        </div>
+        <div class="item">
+          <div class="num">03</div>
+          <div class="stmt">Un <b>tribunal</b>, pas un cédant émotif.</div>
+        </div>
+        <div class="item">
+          <div class="num">04</div>
+          <div class="stmt">Un prix bâti sur la <b>valeur d'usage</b>.</div>
+        </div>
+      </div>
+
+      <div class="mf-coda">
+        <div class="l">— et pourtant, la quasi-totalité des directions M&amp;A des grands groupes français ne sait pas comment ça marche.</div>
+        <div class="v">angle mort</div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Source</b> · Code de commerce · L631 et suivants</div><div><b>Voir</b> · branthampartners.fr</div></div>
+  </footer>
+</div>
+
+</body>
+</html>
