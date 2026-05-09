@@ -1,12 +1,15 @@
 ---
-name: Post 05 — Casino × Kretinsky
-description: Post LinkedIn 9 mai 2026. Décryptage de la prise de contrôle Casino par Kretinsky via sauvegarde accélérée. Angle "le distressed n'est pas une niche pour PME".
-type: linkedin-post
+name: Post 05 — Casino · Plan série 3 posts
+description: Méta-plan série Casino. Décision 9 mai 2026 : produire 3 posts pédagogiques (récit · mécanisme · portée) plutôt qu'un post unique. Mission Brantham mise en avant par émergence, pas par déclaration.
+type: linkedin-plan
 date: 2026-05-09
 week: 2
-status: draft-pending
-hook: TBD (4 angles proposés, vote angle 3)
-visual: TBD
+status: drafts-ready
+serie: casino-3-posts
+posts:
+  - post-05A-casino-recit.md (1/3 · récit chronologique · 9 mai)
+  - post-05B-casino-mecanisme.md (2/3 · pyramide + classes parties affectées · 12 mai)
+  - post-05C-casino-portee.md (3/3 · signal général distressed M&A · 14 mai)
 piliers: [methode, education, cas-ecole]
 sources_vault:
   - vault/brantham/knowledge/market/cas-casino-groupe.md
@@ -15,9 +18,47 @@ sources_vault:
   - vault/brantham/knowledge/legal/rang-des-creances.md
 ---
 
-# Post 05 — Casino × Kretinsky : décryptage du mécanisme
+# Post 05 · Plan série Casino (3 posts)
 
-> Sujet validé par Paul ("go sur casino je travaille sur le sujet"). 4 angles proposés, vote Angle 3 ("le distressed n'est pas une niche pour PME"). À drafter en ouverture de prochaine conversation.
+> Décision 9 mai 2026. Le sujet Casino est trop dense pour un post unique. Trois angles pédagogiques séquencés, qui font émerger la sensation que le distressed M&A est un canal majeur sans jamais le déclarer. Les 3 drafts sont ready, vérifications faits-clés à faire avant publi.
+
+## Décision : 3 posts plutôt qu'un
+
+**Pourquoi pas un seul post (angle 3 initialement voté)** : un seul post oblige à choisir entre densité narrative et vulgarisation. Trois posts permettent de construire un arc qui tient ensemble sans saturer chaque pièce.
+
+**Pourquoi pas plus de 3** : au-delà, dilution du sujet et perte de cohérence narrative. Trois posts couvrent les trois questions que se pose un lecteur normal : *comment ça s'est passé · pourquoi c'était possible · qu'est-ce que ça change*.
+
+**Critère de réussite** : un lecteur qui ne connaît pas le distressed M&A doit ressortir des 3 posts en se disant « j'ai compris, et c'est plus important que je le pensais ». Sans avoir lu le mot « sexy » nulle part. Sans avoir vu Brantham se vendre.
+
+## Arc narratif
+
+| # | Post | Angle | Révélation |
+|---|------|-------|------------|
+| 1/3 | [[post-05A-casino-recit\|Le récit]] | Comment ça s'est passé | « Aucune action n'a été échangée sur Euronext. » |
+| 2/3 | [[post-05B-casino-mecanisme\|Le mécanisme]] | Pourquoi c'était possible | Avant 2021 : Naouri pouvait bloquer. Après 2021 : non. |
+| 3/3 | [[post-05C-casino-portee\|La portée]] | Ce que ça change | Le distressed M&A n'est pas une niche, c'est un canal majeur en angle mort. |
+
+## Calendrier publi
+
+- **Vendredi 9 mai 2026, 8h00** · Post 05A (récit)
+- **Lundi 12 mai 2026, 8h00** · Post 05B (mécanisme)
+- **Mercredi 14 mai 2026, 8h00** · Post 05C (portée)
+
+Espacement de 2-3 jours pour permettre absorption sans dilution. Audience LinkedIn voit la série émerger sur une semaine sans saturation.
+
+## Vérifications transverses avant publi
+
+1. **Ordonnance n°2021-1193 du 15 septembre 2021** transposant directive UE 2019/1023 (Légifrance). Citée formulation neutre « depuis 2021 » dans les drafts ; à confirmer si on veut nommer l'ordonnance.
+2. **Statut juridique exact Casino juillet-octobre 2023** : conciliation ou mandat ad hoc. Drafts utilisent « négocié leur restructuration », formulation défendable dans tous les cas.
+3. **Pourcentages capital post-restructuration** : 53 % consortium / 46 % créanciers / 1 % anciens actionnaires. Vault marque « estimé » ; recroiser communiqué officiel groupe-casino.fr.
+4. **Date du vote des classes** : 11-12 janvier 2024. Vault, à recroiser.
+5. **Pourcentage Naouri 25 % capital économique → 63 % votes** : vault donne ces chiffres, à recroiser source primaire (Foncière Euris / Rallye / The Conversation).
+
+## Mission Brantham servie par émergence
+
+Le mot « distressed M&A » apparaît une seule fois dans la série, dans le post 05C. Avant cela, on raconte une mécanique. Après cela, le lecteur a déjà associé ce mot à du concret, à de la vitesse, à un cadre légal qui fonctionne. C'est ce qui produit la sensation que le sujet est sérieux, professionnel, sous-exploité. Sans qu'on l'ait dit.
+
+Brantham n'est pas mentionné dans les textes des 3 posts. La signature est dans la précision et la posture, pas dans la marque.
 
 ## Contexte stratégique
 
