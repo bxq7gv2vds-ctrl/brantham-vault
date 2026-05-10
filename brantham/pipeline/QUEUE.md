@@ -38,3 +38,18 @@
 
 - [[brantham/_MOC]]
 - [[brantham/pipeline/BOARD]]
+
+## Ajout auto — 2026-05-10
+
+| Slug | Entreprise | CA | Effectif | Source AJ |
+|------|-----------|-----|----------|-----------|
+| ajrs-la-sarl-james-chague-a-ete-creee-en-7913 | La SARL JAMES CHAGUE | 415.89M | 32 | AJRS |
+| aj-specialis-viand-oc-249 | VIAND OC | 199.69M | 9 | AJ Spécialisés |
+| meynet-oogarden-13010 | OOGARDEN | 54.00M | 100-199 | Meynet |
+| meynet-centre-est-peintures-distribution-14029 | CENTRE EST PEINTURES DISTRIBUTION | 30.38M | 100-199 | Meynet |
+| meynet-b-t-t-p-13420 | B.T.T.P. | 24.05M | 20-49 | Meynet |
+| meynet-industrie-12518-12518 | Industrie #12518 | 20.00M | 100-199 | Meynet |
+| meynet-sas-b-m-c-12457 | SAS B.M.C. | 19.00M | 0-5 | Meynet |
+| meynet-commerce-de-detail-14160-14160 | Commerce de détail #14160 | 16.60M | 6-19 | Meynet |
+| meynet-via-transports-14177 | VIA TRANSPORTS | 10.00M | 20-49 | Meynet |
+| meynet-beaute-services-et-innovation-13241 | BEAUTE SERVICES ET INNOVATION | 9.83M | 6-19 | Meynet |
