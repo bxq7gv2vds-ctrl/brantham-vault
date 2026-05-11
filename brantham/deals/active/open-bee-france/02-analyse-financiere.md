@@ -31,14 +31,17 @@ Groupe Doxsa (Open Bee + Doxense + Veectoria) ≈ **15 M€ CA** et **~200 ETP**
 
 ### Hypothèses prix d'offre Brantham (plan de cession)
 
-Le prix d'offre dans un plan de cession est **plafonné par le marché et le passif repris**, pas par le CA. Mais en référence à la grille RJ standard et au feedback Brantham :
+**Règle Brantham (feedback Paul)** : prix d'offre plan de cession RJ ≤ **12 % du CA de référence**. Jamais au-dessus.
+
+CA de référence retenu : 9 M€ → plafond d'offre **1,08 M€**.
 
 | Scénario | Hypothèse | Prix actifs | Logique |
 |---|---|---|---|
-| Plancher (offre min crédible AJ) | 4-6 % du CA | **350-550 k€** | Marque + base clients + équipe |
-| Médian (offre stratège défensif) | 8-12 % du CA | **700 k€-1,1 M€** | + agrément PA + canal MFP |
-| Cible Brantham (intermédiation repreneur) | 10-15 % du CA + reprise contrats | **0,9-1,4 M€ + ~30 contrats salariés repris** | Offre crédible avec emplois |
-| Plafond stratège | Jusqu'à 0,3-0,5x CA | **2,7-4,5 M€** | Si bataille concurrentielle 2-3 stratèges |
+| Plancher (offre min crédible AJ) | 3-5 % du CA | **270-450 k€** | Marque + base clients + équipe |
+| Médian (offre stratège défensif) | 6-9 % du CA | **540-810 k€** | + agrément PA + canal MFP |
+| Cible Brantham haute (intermédiation repreneur) | 10-12 % du CA | **900 k€-1,08 M€** | Offre crédible avec emplois, bataille de stratèges |
+
+Au-delà de 12 % CA = sortir de la zone de raison Brantham. Si le marché s'emballe (3 stratèges en compétition), le dossier ne sera plus pour nous mais pour les banques d'affaires mid-cap.
 
 **Référence d'arbitrage du tribunal** : meilleur prix + meilleur projet social + meilleures garanties. Le passif chirographaire (créanciers non privilégiés) est purgé dans le plan de cession — pas de reprise de dette.
 
