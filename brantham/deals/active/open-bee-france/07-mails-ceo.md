@@ -3,7 +3,7 @@ type: deal-outreach
 deal: open-bee-france
 status: prêt à envoyer
 date: 2026-05-11
-version: v2 (intro Brantham + ton réchauffé)
+version: v3 (anonymisé + close NDA)
 ---
 
 # Mails outreach CEO — Open Bee France
