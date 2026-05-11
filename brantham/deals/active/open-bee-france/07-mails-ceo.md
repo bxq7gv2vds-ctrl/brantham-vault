@@ -3,7 +3,7 @@ type: deal-outreach
 deal: open-bee-france
 status: prêt à envoyer
 date: 2026-05-11
-version: v4 (anonymisé + close NDA + vouvoiement)
+version: v5 (close simplifiée — pas de mémo NDA)
 ---
 
 # Mails outreach CEO — Open Bee France
@@ -22,7 +22,7 @@ Un dossier en cours peut vous intéresser : éditeur GED français (~9 M€ CA, 
 
 Vu votre logique d'agrégation autour d'ArgonOS (Sinequa, Bertin IT, Coheris), les briques agents IA + GED + base clients pourraient compléter le périmètre.
 
-Si l'angle est pertinent, je vous adresse le mémo confidentiel sous NDA par retour.
+Dites-moi si cela peut faire sens pour vous.
 
 Paul Roulleau — Brantham Partners
 07 68 36 25 63
@@ -39,7 +39,7 @@ Un dossier en cours peut intéresser Sharp : éditeur GED français de 22 ans (~
 
 Pour un constructeur MFP comme Sharp, c'est un raccourci unique pour acquérir une stack logicielle GED complète et l'agrément PA (instruction DGFIP > 6 mois) en amont de l'obligation légale du 1er septembre 2026 — alors que vos concurrents directs l'ont déjà déployé.
 
-Si l'opportunité mérite un examen, je transmets le mémo sous NDA par retour.
+Dites-moi si l'angle peut intéresser vos équipes.
 
 Paul Roulleau — Brantham Partners
 07 68 36 25 63
@@ -54,9 +54,9 @@ Je dirige Brantham Partners, un cabinet qui accompagne des repreneurs sur des PM
 
 Un de vos partenaires GED historiques est actuellement en plan de cession devant le tribunal de commerce. Dépôt des offres avant le **3 juin 2026 16h00**.
 
-L'enjeu pour Toshiba TEC est direct : continuité produit, base clients commune et agrément Plateforme Agréée DGFIP à 3 mois de l'obligation légale. Je voulais m'assurer que vous puissiez vous positionner si une reprise (totale ou partielle) peut faire sens.
+L'enjeu pour Toshiba TEC est direct : continuité produit, base clients commune et agrément Plateforme Agréée DGFIP à 3 mois de l'obligation légale.
 
-Un retour de votre part suffit, je vous envoie le mémo confidentiel.
+Dites-moi si vous souhaitez en savoir plus.
 
 Paul Roulleau — Brantham Partners
 07 68 36 25 63
@@ -71,9 +71,9 @@ Brantham Partners est un cabinet spécialisé dans l'accompagnement de repreneur
 
 Un de vos partenaires GED historiques (~3 000 clients PME, **agrément Plateforme Agréée DGFIP**) est en plan de cession. Dépôt des offres avant le **3 juin 2026 16h00**.
 
-Selon la part de cette stack sous-jacente à votre offre KOMI Doc, l'enjeu peut être significatif sur la continuité produit et l'agrément PA à 3 mois de l'obligation légale. Je préfère vous informer pour que la décision soit prise en connaissance de cause.
+Selon la part de cette stack sous-jacente à votre offre KOMI Doc, l'enjeu peut être significatif sur la continuité produit et l'agrément PA à 3 mois de l'obligation légale.
 
-Si l'angle vous intéresse, je vous adresse le mémo confidentiel sous NDA par retour.
+Dites-moi si vous voulez creuser.
 
 Paul Roulleau — Brantham Partners
 07 68 36 25 63
