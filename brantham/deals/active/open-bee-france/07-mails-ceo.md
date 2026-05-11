@@ -54,9 +54,9 @@ Je dirige Brantham Partners, un cabinet qui accompagne des repreneurs sur des PM
 
 Un de vos partenaires GED historiques est actuellement en plan de cession devant le tribunal de commerce. Dépôt des offres avant le **3 juin 2026 16h00**.
 
-L'enjeu pour Toshiba TEC est direct : continuité produit, base clients commune et agrément Plateforme Agréée DGFIP à 3 mois de l'obligation légale. Je voulais m'assurer que tu puisses te positionner si une reprise (totale ou partielle) peut faire sens.
+L'enjeu pour Toshiba TEC est direct : continuité produit, base clients commune et agrément Plateforme Agréée DGFIP à 3 mois de l'obligation légale. Je voulais m'assurer que vous puissiez vous positionner si une reprise (totale ou partielle) peut faire sens.
 
-Un retour de ta part suffit, je t'envoie le mémo confidentiel.
+Un retour de votre part suffit, je vous envoie le mémo confidentiel.
 
 Paul Roulleau — Brantham Partners
 07 68 36 25 63
@@ -84,13 +84,13 @@ Paul Roulleau — Brantham Partners
 
 Bonjour Arthur,
 
-Chez Brantham Partners, on accompagne des repreneurs sur des PME françaises en plan de cession — sourcing, structuration d'offre, coordination avec l'administrateur judiciaire.
+Chez Brantham Partners, nous accompagnons des repreneurs sur des PME françaises en plan de cession — sourcing, structuration d'offre, coordination avec l'administrateur judiciaire.
 
-Un dossier qui peut t'intéresser : éditeur GED français (~9 M€ CA, **agrément Plateforme Agréée DGFIP**, ~3 000 clients PME, filiale agents IA) en plan de cession. Dépôt des offres avant le **3 juin 2026 16h00**.
+Un dossier qui peut vous intéresser : éditeur GED français (~9 M€ CA, **agrément Plateforme Agréée DGFIP**, ~3 000 clients PME, filiale agents IA) en plan de cession. Dépôt des offres avant le **3 juin 2026 16h00**.
 
-Le fit avec Pennylane est net : ~3 000 entreprises PME pré-équipées en GED + archivage probant + workflow documentaire = la brique manquante au-dessus de la facture électronique, sur ton cœur de cible. Ticket marginal par rapport à ton dernier tour.
+Le fit avec Pennylane est net : ~3 000 entreprises PME pré-équipées en GED + archivage probant + workflow documentaire = la brique manquante au-dessus de la facture électronique, sur votre cœur de cible. Ticket marginal par rapport à votre dernier tour.
 
-Si ça t'intéresse, je t'envoie le pack confidentiel par retour.
+Si cela vous intéresse, je vous envoie le pack confidentiel par retour.
 
 Paul Roulleau — Brantham Partners
 07 68 36 25 63
