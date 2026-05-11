@@ -3,7 +3,12 @@ type: linkedin-post
 source: rsc-cdp
 source_file: 20260511T125532-01eb574f.rsc.txt
 rsc_line_id: 24d
-captured_at: '2026-05-11T13:04:56.506257+00:00'
+captured_at: '2026-05-11T13:08:56.756856+00:00'
+author_name: Pierrebeunardeau
+author_slug: pierrebeunardeau
+author_kind: person
+author_url: https://www.linkedin.com/in/pierrebeunardeau/
+content_tracking_id: PkrMYNXTR4KigB9bLXkS+w==
 niches:
 - ai
 author_tier: unknown

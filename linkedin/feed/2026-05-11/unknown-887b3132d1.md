@@ -3,7 +3,12 @@ type: linkedin-post
 source: rsc-cdp
 source_file: 20260511T125559-a21c51a2.rsc.txt
 rsc_line_id: 24c
-captured_at: '2026-05-11T13:04:56.605443+00:00'
+captured_at: '2026-05-11T13:08:57.300900+00:00'
+author_name: ''
+author_slug: ''
+author_kind: ''
+author_url: ''
+content_tracking_id: vBbsG2mdSI+G4UD8/Oa5Qw==
 niches:
 - ai
 - finance

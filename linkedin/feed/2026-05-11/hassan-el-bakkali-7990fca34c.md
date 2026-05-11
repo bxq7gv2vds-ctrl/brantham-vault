@@ -3,7 +3,12 @@ type: linkedin-post
 source: rsc-cdp
 source_file: 20260511T125551-664a884e.rsc.txt
 rsc_line_id: '284'
-captured_at: '2026-05-11T13:04:56.574094+00:00'
+captured_at: '2026-05-11T13:08:57.119748+00:00'
+author_name: Hassan El Bakkali
+author_slug: hassan-el-bakkali
+author_kind: person
+author_url: https://www.linkedin.com/in/hassan-el-bakkali/
+content_tracking_id: CDQKaoyLTt6L9svVkpN8gg==
 niches:
 - ai
 - finance

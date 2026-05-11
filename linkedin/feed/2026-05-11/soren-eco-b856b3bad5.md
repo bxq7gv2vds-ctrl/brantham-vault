@@ -3,7 +3,12 @@ type: linkedin-post
 source: rsc-cdp
 source_file: 20260511T125542-ff21f805.rsc.txt
 rsc_line_id: 2ab
-captured_at: '2026-05-11T13:04:56.543129+00:00'
+captured_at: '2026-05-11T13:08:56.945454+00:00'
+author_name: Soren Eco
+author_slug: soren-eco
+author_kind: company
+author_url: https://www.linkedin.com/company/soren-eco/
+content_tracking_id: 3fQNCgDLSwWWcH+yIYmgrw==
 niches:
 - ai
 - finance
