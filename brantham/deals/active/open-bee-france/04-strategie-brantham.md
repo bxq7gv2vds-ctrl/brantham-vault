@@ -73,7 +73,9 @@ Recommandation : option A pour les industriels (Konica, Xerox), option B pour fo
 3. Top 5 cibles validées ?
 4. Qui pilote l'outreach industriels (Soren) vs fonds (Paul) ?
 
-**Recommandation Claude** : GO sur le deal avec focus exclusif sur **Konica Minolta + Yooz + Tessi** (3 cibles, 3 angles différents, taux de succès cumulé > 50 %). Forfait 15+15. Si pas de signal d'intérêt avant J+7 → pivot ou abandon.
+**Recommandation Claude (mise à jour v2)** : GO sur le deal avec focus exclusif sur **ChapsVision (Olivier Dellenbach) + Sharp Business Systems France (Shigenobu Nagao) + Toshiba TEC France (Didier Halbique)** comme tier 1, et **Konica Minolta (Jonathan Leyva) + Pennylane (Arthur Waller)** en tier 2. Forfait 15+15. Si pas de signal d'intérêt avant J+7 → pivot ou abandon.
+
+Voir [[03-mapping-repreneurs]] pour la liste détaillée avec noms des CEOs.
 
 ## Related
 

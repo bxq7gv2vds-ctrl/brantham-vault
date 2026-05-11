@@ -1,127 +1,179 @@
 ---
 type: deal-repreneurs
 deal: open-bee-france
+version: v2 (priorisation honnête + CEOs)
+updated: 2026-05-11
 ---
 
-# Mapping repreneurs — OPEN BEE FRANCE
+# Mapping repreneurs — OPEN BEE FRANCE (v2)
 
-## Logique de tri
+## Critères de tri honnêtes
 
-Le prix d'offre crédible (700 k€-2,5 M€) + l'asset agrément PA + le portefeuille de 3 000 clients = cible **mid-market stratégique**, **pas un PE traditionnel**. Priorité absolue aux acteurs qui :
-1. Cherchent un agrément PA et n'en ont pas (raccourci de 6+ mois)
-2. Ont besoin d'une brique GED dans leur stack
-3. Sont déjà partenaires (canal MFP) → menace si concurrent rachète
-4. Peuvent capter le portefeuille de 3 000 PME
+Pour qu'un acquéreur soit pertinent **et capable de boucler en 3 semaines**, il faut cumuler :
+1. **Pas d'agrément Plateforme Agréée** (le raccourci PA = vrai levier de valeur)
+2. **Présence commerciale France** (canal de vente prêt à activer)
+3. **Décision rapide possible** (PME française, mid-cap entrepreneurial, ou fonds buy-and-build aguerri RJ)
+4. **Capacité financière > 1 M€** (le ticket n'est jamais le problème pour cette liste)
+5. **Appétit stratégique évident** sur GED / dématérialisation / facture électronique
 
-## Top 5 cibles prioritaires (à contacter en priorité)
+## Tier 1 — vraiment chaudes (focus exclusif Brantham)
 
-### 1. Konica Minolta France — défensif
-- **Pourquoi** : partenaire historique, Open Bee est leur GED label-blanc « KOMI Doc Essential/Advanced ». Si Ricoh (qui a déjà DocuWare) rachète Open Bee, KM perd un fournisseur stratégique. **Achat défensif évident.**
-- **Contact cible** : Direction générale France + Direction Solutions Documentaires France. Siège : Carrières-sur-Seine (78).
-- **Angle pitch** : « Sécurisez votre stack GED + capturez l'agrément PA avant Ricoh »
+### 1. ChapsVision — buy-and-build IA + data
+- **CEO** : **Olivier Dellenbach** (fondateur, ex-eFront)
+- **Siège** : Suresnes (92)
+- **Profil** : groupe IA/data français acquisitif. Acquisitions récentes : Coheris (CRM), Elektron (data intelligence), Bertin IT (cyber veille), Vecsys (reconnaissance vocale), **Sinequa** (Nov 2024 + levée 85 M€, valorisation $90M). ArgonOS = plateforme cœur.
+- **Pourquoi pertinent** :
+  - Pas d'agrément PA → raccourci 6 mois
+  - Stratégie buy-and-build agressive, sait gérer des actifs distressed
+  - Open Bee = brique GED qui complète ArgonOS + Sinequa (enterprise search) + Veectoria (agents IA)
+  - Veectoria seule justifie probablement l'opération pour eux
+- **Cycle décision** : court (4-6 semaines mini), CEO décideur
+- **Verdict** : **prio absolue**, contact direct Dellenbach via LinkedIn
 
-### 2. Yooz (groupe Sword) — fusion P2P + GED
-- **Pourquoi** : Yooz = leader OCR fact fournisseurs (P2P), déjà PA. Manque la brique GED complète + clientèle PME indirecte MFP. Fusion = leader fact élec PME France.
-- **Contact cible** : Magali Michel (CEO Yooz) + Stéphane Le Hen (DG Sword Group).
-- **Angle** : « Synergie P2P+GED = leader incontesté PME, Open Bee apporte canal MFP que vous n'avez pas »
+### 2. Sharp Business Systems France — défense canal MFP
+- **Président** : **Yoichi TOMOTA** (Japonais)
+- **DG délégué** : **Shigenobu NAGAO** (depuis 01/10/2024)
+- **Direction ventes indirectes** : Pascal Grenard (ancien, à vérifier)
+- **Siège** : 244 Route de Seysses, 31100 Toulouse
+- **Profil** : constructeur MFP japonais, n'a pas développé sa propre GED maison (contrairement à Konica avec KOMI Doc)
+- **Pourquoi pertinent** :
+  - Pas d'agrément PA → raccourci 6 mois
+  - Pas de stack GED propriétaire forte → vrai besoin
+  - Open Bee a un canal MFP éprouvé avec ses concurrents (Konica/Xerox/Toshiba) → Sharp pourrait l'utiliser pour rattraper le retard
+- **Cycle décision** : direction japonaise = lent, mais NAGAO est DG délégué et peut potentiellement déclencher un go-fast
+- **Verdict** : **prio 1 défensive**, contact direct via NAGAO
 
-### 3. Sages Informatique (Zeendoc) — consolidation #1 GED PME
-- **Pourquoi** : Zeendoc = LE concurrent français, marché PME. Fusion = position dominante.
-- **Contact cible** : Direction Sages Informatique (Aix-en-Provence).
-- **Angle** : « Position dominante sur le marché GED PME France, économies d'échelle R&D et support »
+### 3. Toshiba TEC France — partenaire existant, défense de stack
+- **DG** : **Didier HALBIQUE** (depuis 2024-2025, ex-VP Ventes Directes & Indirectes)
+- **Profil** : déjà partenaire Open Bee, distribue probablement Open Bee en label-blanc
+- **Pourquoi pertinent** :
+  - Pas d'agrément PA → raccourci 6 mois
+  - **Risque existentiel** si Open Bee meurt : perd produit + clients
+  - Plus petit que Konica → décision plus rapide
+  - DG français, profil commercial, comprend l'urgence
+- **Cycle décision** : 4-6 semaines possible si Tokyo donne le feu vert sur principe
+- **Verdict** : **prio 1**, contact direct Halbique
 
-### 4. Tessi (HLD)
-- **Pourquoi** : groupe dématérialisation B2B sous LBO HLD, stratégie buy-and-build claire, force de frappe financière. Open Bee = brique GED PME manquante.
-- **Contact cible** : Christophe Eouzan (CEO Tessi) + équipe M&A HLD.
-- **Angle** : « Asset distressed, multiple d'entrée bas, complète votre offre PME »
+## Tier 2 — chaudes (sondage actif)
 
-### 5. Cegid — défense base clients compta
-- **Pourquoi** : Cegid = leader compta + paie PME France, est déjà PA depuis août 2024. Acquérir Open Bee = cross-sell GED sur leur base existante.
-- **Contact cible** : Pascal Houillon (CEO Cegid).
-- **Angle** : « Cross-sell GED sur votre base compta, intégration native Cegid Compta + Open Bee »
+### 4. Konica Minolta Business Solutions France
+- **Président** : **Jonathan LEYVA** (depuis avril 2026)
+- **Directeur Commercial France** : Jean-Christophe Pin
+- **Directrice Marketing/Comm** : Sophie Groussard
+- **Notes** : a sa marque maison KOMI Doc Essential/Advanced — **à vérifier si label-blanc Open Bee**. Si oui = défense critique. Sinon = bascule possible vers M-Files/DocuWare.
+- **Cycle décision** : validation Tokyo nécessaire = 8-12 semaines (probablement hors timing)
+- **Verdict** : **prio 2**, contact Leyva via LinkedIn — vérifier d'abord nature KOMI Doc
 
-## Cibles secondaires stratégiques (priorité 2)
+### 5. Pennylane
+- **CEO** : **Arthur WALLER** (co-fondateur)
+- **Valorisation** : 3,5 Mds€ (levée 175 M€ janv. 2026, après 75 M€ avril 2025)
+- **Profil** : licorne compta SaaS, 60 M€ ARR, 350 000 entreprises clientes, 4 500 cabinets partenaires
+- **Pourquoi pertinent** :
+  - **PA agréé en cours** mais offre fact élec encore jeune
+  - Pas de stack GED → Open Bee pourrait servir d'archivage + workflow
+  - Cash en excès post-levée
+  - Décision rapide possible (start-up tech)
+- **Mais** :
+  - Modèle B2B SaaS pure-play, intégration techno hybride d'Open Bee = friction
+  - Pas habitué procédure RJ
+- **Cycle décision** : 4-8 semaines, Arthur Waller décideur direct
+- **Verdict** : **prio 2**, sondage Arthur Waller
 
-### 6. Xerox France — défensif (jumeau Konica)
-- Partenaire actuel, même menace que Konica si Ricoh rachète.
-- Contact : DG France + responsable Software/Solutions.
+### 6. Tessi (HLD)
+- **CEO** : **Alain de LAMBILLY** (depuis avril 2025, succède Claire Fistarol)
+- **HLD M&A** : Jean-Hubert Vial (Associate HLD)
+- **Co-actionnaire** : Dentressangle (Jean-Louis Savoye)
+- **Profil** : groupe dématérialisation B2B 350 M€ CA, buy-and-build LBO
+- **Cycle décision** : 8-12 semaines (process HLD lourd)
+- **Verdict** : **prio 2**, contact Lambilly + HLD en parallèle
 
-### 7. Toshiba TEC France — défensif
-- Partenaire MFP, même logique.
+## Tier 3 — lettres de courtoisie, pas du vrai outreach
 
-### 8. Docaposte (La Poste) — leader PA, fonds publics
-- Déjà PA #0020, capacité financière, mission « tiers de confiance ».
-- Contact : Olivier Vallet (CEO Docaposte).
+### 7. Yooz (groupe Sword)
+- **CEO Yooz Group** : **Laurent CHARPENTIER**
+- **COO EMEA Yooz** : Magali Michel
+- **CEO Sword Group** : **Jacques MOTTARD** (fondateur 2000, Lyon)
+- **Réalité** : déjà PA → notre levier #1 tombe. Tickets habituels Sword = 50-200 M€, deal 1 M€ sous radar.
+- **Verdict** : email Charpentier en courtoisie, faible probabilité
 
-### 9. Sage France — fusion compta+GED
-- PA agréé, base clients PME énorme, manque la GED.
-- Contact : Klaus-Michael Vogelberg (CTO Sage) + DG France.
+### 8. Cegid
+- **CEO** : **Bruno VAFFIER** (depuis avril 2025, succède Pascal Houillon)
+- **Actionnaires** : Silver Lake + KKR
+- **Réalité** : déjà PA (août 2024), priorisation interne dominée par cross-sell compta, deal 1 M€ insignifiant pour eux.
+- **Verdict** : courtoisie
 
-### 10. Pennylane — startup compta haute croissance
-- Levée massive 2024-2025, ambition PDP, base PME en expansion.
-- Contact : Arthur Waller (CEO Pennylane).
+### 9. Docaposte
+- **PDG** : **Olivier VALLET** (depuis 2017)
+- **Réalité** : déjà PA #0020, gouvernance La Poste lourde
+- **Verdict** : courtoisie, mais Vallet est connu et accessible
 
-### 11. Esker (Bridgepoint + General Atlantic)
-- Vient d'être délisté pour LBO en mars 2025 → potentiel buy-and-build, mais focus international plus que PME France.
-- Contact : Jean-Michel Bérard (CEO Esker) + équipes M&A Bridgepoint Paris.
+### 10. Sages Informatique (Zeendoc)
+- **DG** : **Pierre-Emeric CHABANNE** (récemment nommé)
+- **Fondateurs/actionnaires** : Charly DELSOL + Mathieu DONZEL (Ajaccio)
+- **Profil** : 200+ salariés, 10 000 clients, 380 000 utilisateurs, croissance +40 %/an
+- **Réalité** : indépendant familial, capacité financière 1 M€ plus tendue, concurrence frontale = motivation forte mais friction culturelle élevée
+- **Verdict** : courtoisie
 
-### 12. M-Files (Bridgepoint capital)
-- Challenger nordique, peu présent en France.
-- Contact : Antti Nivala (CEO M-Files) + Direction France.
+### 11. Quadient
+- **CEO** : **Geoffrey GODET** (depuis 2018)
+- **Profil** : 1,2 Md€ CA, communication client + courrier + GED light
+- **Verdict** : courtoisie
 
-### 13. Itesoft (Suresnes) — P2P concurrent Yooz
-- Acteur français B2B fact fournisseurs.
-- Contact : Direction Itesoft.
+### 12. Esker (Bridgepoint + General Atlantic)
+- **Président du Directoire** : **Jean-Michel BÉRARD** (fondateur, 63 ans)
+- **Profil** : 200 M€ CA, LBO 1,62 Md€ fév 2025 fresh, dry powder massif, focus international
+- **Réalité** : juste sorti d'un LBO, focus intégration post-OPA, pas en mode shopping immédiat
+- **Verdict** : courtoisie
 
-### 14. Quadient
-- Communication client + dématérialisation.
-- Contact : Geoffrey Godet (CEO Quadient).
+### 13. Iron Mountain France
+- **DG actuel** : **Serge IMBEAULT** (VP & DG) — gouvernance complexe (anciennement Dominique Charrière démissionné juin 2025, remplacé par Jacques-Edouard de Foulhiac de Padirac au niveau participations)
+- **Verdict** : courtoisie
 
-### 15. Iron Mountain France
-- Archivage légal + GED en croissance.
-- Contact : Direction France.
+### 14-20. Bas de liste (envoi groupé mail unique)
+- **M-Files** — Antti Nivala (Finlande, peu présent FR)
+- **DocuWare** — propriété de Ricoh, conflit d'intérêt potentiel
+- **Sage France** — Klaus-Michael Vogelberg (CTO Sage)
+- **Itesoft / ABBYY**
+- **Spigraph / GEDIA**
+- **Xerox France** — partenaire existant mais cycle décision US lent
+- **Orange Business** — partenaire mais hors stratégie M&A GED
 
-## Cibles tertiaires (priorité 3)
+## Top 5 cibles à contacter cette semaine
 
-### 16. Doxsa (maison-mère) elle-même
-- Vincent Lemaire pourrait porter une **offre de plan de cession partielle** via Doxense pour récupérer les actifs sans le passif (split asset deal). Stratégie classique distressed.
-- Risque conflit d'intérêt mais possible (avec accord AJ et tribunal).
+| # | Cible | CEO | Type contact | Urgence |
+|---|---|---|---|---|
+| 1 | **ChapsVision** | Olivier Dellenbach | LinkedIn + email direct | J+1 |
+| 2 | **Sharp Business Systems FR** | Shigenobu Nagao | LinkedIn + courrier direct | J+1 |
+| 3 | **Toshiba TEC France** | Didier Halbique | LinkedIn + email | J+2 |
+| 4 | **Konica Minolta BS France** | Jonathan Leyva | LinkedIn (Pin + Leyva) | J+2 |
+| 5 | **Pennylane** | Arthur Waller | LinkedIn + intro warm si dispo | J+3 |
 
-### 17-20. Fonds tech distressed
-- **Andera Mid Cap** — buy-out 5-30 M€, équipes tech
-- **IK Partners France** — small/mid cap, secteur software
-- **Keensight Capital** — tech profitable
-- **M Capital** — small cap, régional Auvergne-Rhône-Alpes (proche siège)
-- **Tikehau Special Opportunities** — distressed sophistiqué
-- **EMZ Partners** — small/mid cap français
-- **Naxicap** — tech mid cap
-- **RAISE Sherpas** — small cap, intérêt social
+Si **aucune réponse à J+7** sur ces 5 cibles → pivot ou abandon du dossier.
 
-## Plan d'outreach (3 semaines avant deadline 03/06/2026)
+## Plan d'outreach révisé
 
 | Semaine | Action |
 |---|---|
-| **S1 (12-18 mai)** | Validation pitch + teaser confidentiel finalisés. Contact AJ Me Labis (courrier + appel) pour accès data room. Outreach top 5 (Konica, Yooz, Sages, Tessi, Cegid) : 1er touch email + LinkedIn. |
-| **S2 (19-25 mai)** | Visios suite top 5. Outreach priorité 2 (Xerox, Toshiba, Docaposte, Sage, Pennylane). Si data room accessible : NDA signés, accès partagé. |
-| **S3 (26 mai-02 juin)** | Q&A intensif, préparation offres avec candidats engagés. Finalisation dossier offre AJ (formalisme strict). |
-| **03/06 16h00** | Dépôt offres au tribunal. |
+| **S1 (12-18 mai)** | Validation pack + courrier AJ Me Labis envoyé J+1. LinkedIn warm touch Dellenbach + Nagao + Halbique. Si réponse positive ≥ 1 cible → NDA. |
+| **S2 (19-25 mai)** | Visios. Q&A intensif. Lancement DD allégée pour candidat engagé. Préparation offre formelle. |
+| **S3 (26 mai-02 juin)** | Finalisation offre art. L. 642-2, dépôt physique tribunal Lille avant 03/06 16h00. |
 
-## Documents nécessaires pour dépôt offre (rappel)
+## Documents nécessaires pour dépôt offre (art. L. 642-2 C. com.)
 
-Une offre de plan de cession doit contenir (art. L. 642-2 C. com.) :
-- Désignation précise des biens, droits et contrats repris
-- Prévisions d'activité et de financement
-- Prix offert et modalités de paiement
-- Date de prise d'effet
-- **Niveau et perspectives d'emploi justifiés par l'activité** (point politique majeur)
-- Garanties souscrites en vue d'assurer l'exécution
-- Prévision de cession d'actifs au cours des 2 années suivantes
-- Durée des engagements
+- Désignation précise biens/droits/contrats repris
+- Prévisions activité et financement
+- Prix offert et modalités paiement
+- Date prise d'effet
+- Niveau et perspectives d'emploi justifiés
+- Garanties souscrites
+- Prévision cession actifs 2 années suivantes
+- Durée engagements
 - Cautions, sûretés
 
 ## Related
 
 - [[_MOC]]
+- [[01-fiche-cible]]
 - [[04-strategie-brantham]]
 - [[06-teaser-repreneur]]
 - [[brantham/patterns/onboarding-distressed-ma]]
