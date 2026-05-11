@@ -88,9 +88,9 @@ Chez Brantham Partners, nous accompagnons des repreneurs sur des PME françaises
 
 Un dossier qui peut vous intéresser : éditeur GED français (~9 M€ CA, **agrément Plateforme Agréée DGFIP**, ~3 000 clients PME, filiale agents IA) en plan de cession. Dépôt des offres avant le **3 juin 2026 16h00**.
 
-Le fit avec Pennylane est net : ~3 000 entreprises PME pré-équipées en GED + archivage probant + workflow documentaire = la brique manquante au-dessus de la facture électronique, sur votre cœur de cible. Ticket marginal par rapport à votre dernier tour.
+Le fit avec Pennylane est net : ~3 000 entreprises PME pré-équipées en GED + archivage probant + workflow documentaire = la brique manquante au-dessus de la facture électronique, sur votre cœur de cible.
 
-Si cela vous intéresse, je vous envoie le pack confidentiel par retour.
+Dites-moi si l'angle vous parle.
 
 Paul Roulleau — Brantham Partners
 07 68 36 25 63
