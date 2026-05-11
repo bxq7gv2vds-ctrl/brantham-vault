@@ -3,7 +3,7 @@ type: deal-outreach
 deal: open-bee-france
 status: prêt à envoyer
 date: 2026-05-11
-version: v3 (anonymisé + close NDA)
+version: v4 (anonymisé + close NDA + vouvoiement)
 ---
 
 # Mails outreach CEO — Open Bee France
@@ -97,7 +97,7 @@ Paul Roulleau — Brantham Partners
 
 ## Notes d'envoi
 
-- Personnalise le **Bonjour [prénom]** : tutoyer Dellenbach (entrepreneur fr), Halbique, Waller, Leyva. Vouvoyer Nagao (Japonais, plus formel).
+- **Vouvoyer tous** les destinataires. Bonjour [Prénom] sauf Nagao = Monsieur Nagao.
 - Envoyer **lundi matin 12/05 entre 8h30 et 10h** pour maximiser l'ouverture.
 - Suivi LinkedIn le même jour avec connexion + message court : « Je viens de vous envoyer un email sur Open Bee France (plan de cession deadline 03/06). Disponible si question rapide. »
 - Si pas de retour à J+3 : relance courte « Mon mail a-t-il atterri ? La fenêtre se ferme. »
