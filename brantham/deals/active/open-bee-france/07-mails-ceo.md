@@ -3,17 +3,20 @@ type: deal-outreach
 deal: open-bee-france
 status: prêt à envoyer
 date: 2026-05-11
+version: v2 (intro Brantham + ton réchauffé)
 ---
 
 # Mails outreach CEO — Open Bee France
 
-Pack 5 mails personnalisés pour les CEOs tier 1 et 2 du mapping repreneurs.
+Pack 5 mails personnalisés pour les CEOs tier 1 et 2 du mapping repreneurs. Intro courte sur Brantham Partners avant l'accroche dossier.
 
 ## 1. ChapsVision — Olivier Dellenbach
 
 **Sujet** : Open Bee France — brique GED + Veectoria (IA) en plan de cession — deadline 03/06
 
 Bonjour Olivier,
+
+Chez Brantham Partners, nous accompagnons des repreneurs sur des PME françaises en procédure collective — sourcing dossier, structuration d'offre, coordination avec l'administrateur judiciaire.
 
 SAS Open Bee France (9 M€ CA, agrément Plateforme Agréée DGFIP, filiale Veectoria — agents IA) est en plan de cession au tribunal de commerce de Lille Métropole. Dépôt des offres avant le **3 juin 2026 16h00**.
 
@@ -30,6 +33,8 @@ Paul Roulleau — Brantham Partners
 
 Bonjour Monsieur Nagao,
 
+Brantham Partners est un cabinet français qui accompagne des repreneurs (industriels et financiers) sur des reprises de PME en procédure collective.
+
 SAS Open Bee France, éditeur GED français de 22 ans (9 M€ CA, 3 000 clients PME, **agrément Plateforme Agréée facture électronique DGFIP**), est en plan de cession à Lille. Dépôt des offres avant le **3 juin 2026 16h00**.
 
 Pour un constructeur MFP comme Sharp, c'est un raccourci unique pour acquérir une stack GED logicielle complète et l'agrément PA (instruction DGFIP de 6+ mois minimum) en amont de l'obligation légale du 1er septembre 2026.
@@ -44,6 +49,8 @@ Paul Roulleau — Brantham Partners
 **Sujet** : Open Bee France — plan de cession en cours, votre partenaire historique
 
 Bonjour Didier,
+
+Je dirige Brantham Partners, un cabinet qui accompagne des repreneurs sur des PME françaises en plan de cession ou redressement judiciaire (sourcing, structuration d'offre, coordination AJ).
 
 SAS Open Bee France, votre partenaire GED, est en plan de cession au tribunal de commerce de Lille Métropole. Dépôt des offres avant le **3 juin 2026 16h00**.
 
@@ -60,6 +67,8 @@ Paul Roulleau — Brantham Partners
 
 Bonjour Jonathan,
 
+Brantham Partners est un cabinet français spécialisé dans l'accompagnement de repreneurs sur des PME en procédure collective — sourcing de dossiers et structuration d'offres devant les tribunaux de commerce.
+
 SAS Open Bee France, partenaire historique de Konica Minolta (3 000 clients communs PME, agrément Plateforme Agréée DGFIP), est en plan de cession au tribunal de commerce de Lille Métropole. Dépôt des offres avant le **3 juin 2026 16h00**.
 
 Selon la part d'Open Bee sous-jacente à votre offre KOMI Doc, l'enjeu peut être significatif sur la continuité produit et l'agrément PA à 3 mois de l'obligation légale. Je préfère vous informer pour que la décision soit prise en connaissance de cause.
@@ -74,6 +83,8 @@ Paul Roulleau — Brantham Partners
 **Sujet** : Open Bee France — éditeur GED + agrément PA en plan de cession — deadline 03/06
 
 Bonjour Arthur,
+
+Chez Brantham Partners, on accompagne des repreneurs sur des PME françaises en plan de cession — sourcing du dossier, structuration de l'offre, coordination avec l'administrateur judiciaire.
 
 SAS Open Bee France (9 M€ CA, 3 000 clients PME, agrément Plateforme Agréée DGFIP, filiale agents IA Veectoria) est en plan de cession au tribunal de commerce de Lille Métropole. Dépôt des offres avant le **3 juin 2026 16h00**.
 
