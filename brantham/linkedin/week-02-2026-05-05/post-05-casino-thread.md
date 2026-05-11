@@ -176,6 +176,19 @@ C'est dans cet angle mort que se font, aujourd'hui, certaines des plus grosses o
 
 ---
 
+## Visuels (carrés 1080×1080, DA navy minimaliste)
+
+Rendus via `render.py` (Playwright). Quatre cartes, à attacher au choix sous le post principal ou à diffuser une par une en illustration des commentaires :
+
+| Carte | Fichier | Commentaire associé |
+|-------|---------|---------------------|
+| V1 · La pyramide de contrôle | `post-05-V1-pyramide.png` | 1/7 |
+| V2 · Le verrou de 2021 (avant / après) | `post-05-V2-verrou.png` | 5/7 — la plus screenshotable |
+| V3 · Six mois, zéro action Euronext (chronologie) | `post-05-V3-chronologie.png` | 6/7 |
+| V4 · Le partage du capital 53 / 46 / 1 | `post-05-V4-resultat.png` | 6/7 |
+
+Recommandé : V2 en image du post principal (insight central, autonome hors contexte), V1 / V3 / V4 en illustrations des commentaires 1 et 6.
+
 ## Notes ship
 
 - Heure cible : 11 mai 2026, créneau 8h-9h (audience FR business / corp dev / avocats d'affaires connectée en début de matinée)

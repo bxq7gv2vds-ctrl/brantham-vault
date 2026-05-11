@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Brantham — Casino · Le verrou de 2021</title>
+<link rel="stylesheet" href="_shared.css">
+<style>
+  .vr {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 96px;
+  }
+
+  .vr .title {
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 1.16;
+    letter-spacing: -0.02em;
+    color: #F8F7F4;
+    margin-bottom: 72px;
+    max-width: 780px;
+  }
+  .vr .title .it { font-style: italic; }
+
+  .vr .cols {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 56px;
+  }
+  .vr .col { display: flex; flex-direction: column; }
+  .vr .col + .col {
+    padding-left: 56px;
+    border-left: 1px solid rgba(248,247,244,0.16);
+  }
+
+  .vr .tag {
+    font-family: var(--mono);
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: rgba(248,247,244,0.45);
+    margin-bottom: 26px;
+  }
+  .vr .col.after .tag { color: #C8B97A; }
+
+  .vr .line {
+    font-family: var(--serif);
+    font-size: 22px;
+    line-height: 1.5;
+    color: #F8F7F4;
+    margin-bottom: 18px;
+  }
+  .vr .line .mute { color: rgba(248,247,244,0.55); }
+
+  .vr .verdict {
+    font-family: var(--mono);
+    font-size: 17px;
+    letter-spacing: 0.01em;
+    margin-top: 18px;
+  }
+  .vr .col.before .verdict { color: rgba(248,247,244,0.62); }
+  .vr .col.after .verdict { color: #C8B97A; }
+</style>
+</head>
+<body>
+
+<div class="post vr dark">
+
+  <div class="title">
+    Le verrou qui a sauté en <span class="it">2021</span>.
+  </div>
+
+  <div class="cols">
+
+    <div class="col before">
+      <div class="tag">Avant 2021</div>
+      <div class="line">Le plan passe par <span class="mute">l'assemblée générale</span>.</div>
+      <div class="line">Naouri pèse <span class="mute">63 % des votes</span>.</div>
+      <div class="verdict">→ veto absolu</div>
+    </div>
+
+    <div class="col after">
+      <div class="tag">Après 2021 · cram-down inter-classes</div>
+      <div class="line">Le plan se vote <span class="mute">classe par classe</span>.</div>
+      <div class="line">Naouri n'est <span class="mute">qu'une classe parmi d'autres</span>.</div>
+      <div class="verdict">→ veto disparu</div>
+    </div>
+
+  </div>
+
+</div>
+
+</body>
+</html>
