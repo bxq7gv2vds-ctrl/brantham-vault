@@ -2,7 +2,7 @@
 name: Post 05B — Casino · Le mécanisme
 description: Post LinkedIn 2/3 série Casino. Comprendre pourquoi ça a été possible. Pyramide Naouri + classes de parties affectées + cram-down inter-classes. Avant/après 2021.
 type: linkedin-post
-date: 2026-05-12
+date: 2026-05-11
 week: 2
 hook: question-technique
 status: draft-ready
@@ -48,7 +48,7 @@ Le 11 janvier 2024, les classes votent. Le 26 février, le tribunal valide. Le 2
 - La pyramide expliquée verbalement (pas en visuel uniquement) pour que le post tienne sans image. Le visuel renforce, ne dépend pas.
 - Concept clé nommé une seule fois : « classes de parties affectées ». Pas répété. Pas explicité au-delà du strict nécessaire.
 - L'avant/après 2021 est la révélation. Une phrase, deux temps. Le lecteur comprend qu'un changement réglementaire silencieux a redessiné le M&A français.
-- Heure cible : lundi 12 mai 2026, 8h00.
+- Heure cible : lundi 11 mai 2026 (avancé d'un jour à la demande).
 
 ## Pourquoi ça réagit
 
