@@ -116,18 +116,24 @@ C'est la pièce technique. Sans elle, rien de ce qui suit n'aurait été possibl
 
 ---
 
-## COMMENTAIRE 5/7 — Le verrou cassé
+## COMMENTAIRE 5/7 — Le verrou cassé (réécrit pour clarté)
 
 ```
 5/
 
-Avant 2021, Naouri pouvait bloquer. Après 2021, non.
+Avant 2021, Naouri pouvait dire non. Et son non bloquait tout.
 
-La France a transposé en 2021 la directive européenne 2019/1023 sur les cadres de restructuration préventive. Un nouvel outil entre dans le Code de commerce : le cram-down inter-classes.
+Pourquoi. Un plan de restructuration devait être approuvé par l'assemblée générale des actionnaires. À l'assemblée, ce sont les droits de vote qui décident. Avec 63 % des votes, Naouri avait un veto absolu, peu importe ce que voulaient les créanciers.
 
-En clair, un actionnaire majoritaire en votes ne peut plus s'opposer seul à un plan voté par les autres classes. Sa majorité à l'assemblée ne prime plus sur la majorité des classes au regard du plan.
+En 2021, la France transpose la directive européenne 2019/1023. Un outil nouveau entre dans le Code de commerce : le cram-down inter-classes.
 
-C'est ce changement, silencieux et technique, qui a redessiné les rapports de force du M&A français.
+À partir de là, le plan n'est plus voté par une assemblée unique. Il est voté classe par classe. Les banques votent entre elles. Les obligataires entre eux. Les actionnaires entre eux.
+
+Si une majorité des classes vote oui, le plan passe. Même si la classe des actionnaires vote non.
+
+Naouri n'est plus une majorité. Il est une classe parmi d'autres. Son veto a disparu.
+
+C'est ce changement, technique et passé presque inaperçu, qui a redessiné les rapports de force du M&A français.
 ```
 
 ---
