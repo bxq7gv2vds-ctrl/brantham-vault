@@ -53,3 +53,19 @@
 | meynet-commerce-de-detail-14160-14160 | Commerce de détail #14160 | 16.60M | 6-19 | Meynet |
 | meynet-via-transports-14177 | VIA TRANSPORTS | 10.00M | 20-49 | Meynet |
 | meynet-beaute-services-et-innovation-13241 | BEAUTE SERVICES ET INNOVATION | 9.83M | 6-19 | Meynet |
+
+## Batch auto-enrichment — 2026-05-11 14:03
+
+| Nom | CA | Effectif | Localisation | AJ | Statut |
+|-----|----|----|------|-------|--------|
+| VIAND OC                            | 1 996 851.00         | 9 salaries      |                           | AJ Spécialisés  | NOUVEAU |
+| EPIFURIEU                           | 733 000,00           | 11 salaries     |                           | AJ Spécialisés  | NOUVEAU |
+| BEL AIR REALISATIONS                | Plus de 50 M€        | 0 à 50 salariés | Ain, Auvergne-Rhône-Alpes | Maydaymag       | NOUVEAU |
+| AYEN                                | Plus de 50 M€        | 0 à 50 salariés | Bretagne, Morbihan        | Maydaymag       | NOUVEAU |
+| LE ROYAUME DES DELICES              | Plus de 50 M€        | 0 à 50 salariés | Ile de France, Seine-Sain | Maydaymag       | NOUVEAU |
+| AUTO SHINE                          | Plus de 50 M€        | Plus de 500 sal | Ile de France             | Maydaymag       | NOUVEAU |
+| YOHETSET                            | Plus de 50 M€        | Plus de 500 sal | Bouches-du-Rhône, Provenc | Maydaymag       | NOUVEAU |
+| PFI RAVALEMENTS                     | Plus de 50 M€        | 0 à 50 salariés | Ain, Auvergne-Rhône-Alpes | Maydaymag       | NOUVEAU |
+| KOUBA                               | Plus de 50 M€        | Plus de 500 sal | Ain, Auvergne-Rhône-Alpes | Maydaymag       | NOUVEAU |
+| OTHAYSSIE                           | Plus de 50 M€        | Plus de 500 sal | Ariège, Occitanie         | Maydaymag       | NOUVEAU |
+
