@@ -12,85 +12,85 @@ Pack 5 mails personnalisés pour les CEOs tier 1 et 2 du mapping repreneurs. Int
 
 ## 1. ChapsVision — Olivier Dellenbach
 
-**Sujet** : Open Bee France — brique GED + Veectoria (IA) en plan de cession — deadline 03/06
+**Sujet** : Éditeur GED français + filiale agents IA — plan de cession en cours
 
 Bonjour Olivier,
 
-Chez Brantham Partners, nous accompagnons des repreneurs sur des PME françaises en procédure collective — sourcing dossier, structuration d'offre, coordination avec l'administrateur judiciaire.
+Chez Brantham Partners, nous accompagnons des repreneurs sur des PME françaises en procédure collective — sourcing, structuration d'offre, coordination AJ.
 
-SAS Open Bee France (9 M€ CA, agrément Plateforme Agréée DGFIP, filiale Veectoria — agents IA) est en plan de cession au tribunal de commerce de Lille Métropole. Dépôt des offres avant le **3 juin 2026 16h00**.
+Un dossier en cours peut vous intéresser : éditeur GED français (~9 M€ CA, **agrément Plateforme Agréée DGFIP**, ~3 000 clients PME, filiale agents IA) en plan de cession. Dépôt des offres avant le **3 juin 2026 16h00**.
 
-Vu votre logique d'agrégation autour d'ArgonOS (Sinequa, Bertin IT, Coheris), Veectoria et la base GED de 3 000 clients PME pourraient compléter le périmètre. Je voulais m'assurer que vous soyez informé avant la deadline.
+Vu votre logique d'agrégation autour d'ArgonOS (Sinequa, Bertin IT, Coheris), les briques agents IA + GED + base clients pourraient compléter le périmètre.
 
-Disponible pour 15 min en visio cette semaine ?
+Si l'angle est pertinent, je vous adresse le mémo confidentiel sous NDA par retour.
 
 Paul Roulleau — Brantham Partners
 07 68 36 25 63
 
 ## 2. Sharp Business Systems France — Shigenobu Nagao
 
-**Sujet** : Open Bee France — opportunité reprise éditeur GED — deadline tribunal 03/06
+**Sujet** : Éditeur GED français — agrément Plateforme Agréée DGFIP — plan de cession
 
 Bonjour Monsieur Nagao,
 
-Brantham Partners est un cabinet français qui accompagne des repreneurs (industriels et financiers) sur des reprises de PME en procédure collective.
+Brantham Partners accompagne des repreneurs (industriels et financiers) sur des reprises de PME en procédure collective.
 
-SAS Open Bee France, éditeur GED français de 22 ans (9 M€ CA, 3 000 clients PME, **agrément Plateforme Agréée facture électronique DGFIP**), est en plan de cession à Lille. Dépôt des offres avant le **3 juin 2026 16h00**.
+Un dossier en cours peut intéresser Sharp : éditeur GED français de 22 ans (~9 M€ CA, **agrément Plateforme Agréée DGFIP**, ~3 000 clients PME) en plan de cession. Dépôt des offres avant le **3 juin 2026 16h00**.
 
-Pour un constructeur MFP comme Sharp, c'est un raccourci unique pour acquérir une stack GED logicielle complète et l'agrément PA (instruction DGFIP de 6+ mois minimum) en amont de l'obligation légale du 1er septembre 2026.
+Pour un constructeur MFP comme Sharp, c'est un raccourci unique pour acquérir une stack logicielle GED complète et l'agrément PA (instruction DGFIP > 6 mois) en amont de l'obligation légale du 1er septembre 2026 — alors que vos concurrents directs l'ont déjà déployé.
 
-Je peux organiser une visio courte avec vos équipes cette semaine ?
+Si l'opportunité mérite un examen, je transmets le mémo sous NDA par retour.
 
 Paul Roulleau — Brantham Partners
 07 68 36 25 63
 
 ## 3. Toshiba TEC France — Didier Halbique
 
-**Sujet** : Open Bee France — plan de cession en cours, votre partenaire historique
+**Sujet** : Un de vos partenaires GED — plan de cession en cours
 
 Bonjour Didier,
 
-Je dirige Brantham Partners, un cabinet qui accompagne des repreneurs sur des PME françaises en plan de cession ou redressement judiciaire (sourcing, structuration d'offre, coordination AJ).
+Je dirige Brantham Partners, un cabinet qui accompagne des repreneurs sur des PME françaises en plan de cession (sourcing, structuration d'offre, coordination AJ).
 
-SAS Open Bee France, votre partenaire GED, est en plan de cession au tribunal de commerce de Lille Métropole. Dépôt des offres avant le **3 juin 2026 16h00**.
+Un de vos partenaires GED historiques est actuellement en plan de cession devant le tribunal de commerce. Dépôt des offres avant le **3 juin 2026 16h00**.
 
-Sur les 60 partenaires distributeurs Open Bee, Toshiba TEC est exposé directement : continuité produit, agrément Plateforme Agréée DGFIP, base clients commune. Je voulais m'assurer que vous puissiez vous positionner si l'option d'une reprise (totale ou partielle) vous intéresse.
+L'enjeu pour Toshiba TEC est direct : continuité produit, base clients commune et agrément Plateforme Agréée DGFIP à 3 mois de l'obligation légale. Je voulais m'assurer que tu puisses te positionner si une reprise (totale ou partielle) peut faire sens.
 
-Disponible pour un point téléphonique rapide cette semaine ?
+Un retour de ta part suffit, je t'envoie le mémo confidentiel.
 
 Paul Roulleau — Brantham Partners
 07 68 36 25 63
 
 ## 4. Konica Minolta Business Solutions France — Jonathan Leyva
 
-**Sujet** : Open Bee France — partenaire GED en plan de cession — deadline 03/06
+**Sujet** : Un de vos partenaires GED — plan de cession en cours
 
 Bonjour Jonathan,
 
-Brantham Partners est un cabinet français spécialisé dans l'accompagnement de repreneurs sur des PME en procédure collective — sourcing de dossiers et structuration d'offres devant les tribunaux de commerce.
+Brantham Partners est un cabinet spécialisé dans l'accompagnement de repreneurs sur des PME en procédure collective — sourcing et structuration d'offres devant les tribunaux de commerce.
 
-SAS Open Bee France, partenaire historique de Konica Minolta (3 000 clients communs PME, agrément Plateforme Agréée DGFIP), est en plan de cession au tribunal de commerce de Lille Métropole. Dépôt des offres avant le **3 juin 2026 16h00**.
+Un de vos partenaires GED historiques (~3 000 clients PME, **agrément Plateforme Agréée DGFIP**) est en plan de cession. Dépôt des offres avant le **3 juin 2026 16h00**.
 
-Selon la part d'Open Bee sous-jacente à votre offre KOMI Doc, l'enjeu peut être significatif sur la continuité produit et l'agrément PA à 3 mois de l'obligation légale. Je préfère vous informer pour que la décision soit prise en connaissance de cause.
+Selon la part de cette stack sous-jacente à votre offre KOMI Doc, l'enjeu peut être significatif sur la continuité produit et l'agrément PA à 3 mois de l'obligation légale. Je préfère vous informer pour que la décision soit prise en connaissance de cause.
 
-15 minutes en visio possibles cette semaine ?
+Si l'angle vous intéresse, je vous adresse le mémo confidentiel sous NDA par retour.
 
 Paul Roulleau — Brantham Partners
 07 68 36 25 63
 
 ## 5. Pennylane — Arthur Waller
 
-**Sujet** : Open Bee France — éditeur GED + agrément PA en plan de cession — deadline 03/06
+**Sujet** : Éditeur GED français + agrément PA — plan de cession en cours
 
 Bonjour Arthur,
 
-Chez Brantham Partners, on accompagne des repreneurs sur des PME françaises en plan de cession — sourcing du dossier, structuration de l'offre, coordination avec l'administrateur judiciaire.
+Chez Brantham Partners, on accompagne des repreneurs sur des PME françaises en plan de cession — sourcing, structuration d'offre, coordination avec l'administrateur judiciaire.
 
-SAS Open Bee France (9 M€ CA, 3 000 clients PME, agrément Plateforme Agréée DGFIP, filiale agents IA Veectoria) est en plan de cession au tribunal de commerce de Lille Métropole. Dépôt des offres avant le **3 juin 2026 16h00**.
+Un dossier qui peut t'intéresser : éditeur GED français (~9 M€ CA, **agrément Plateforme Agréée DGFIP**, ~3 000 clients PME, filiale agents IA) en plan de cession. Dépôt des offres avant le **3 juin 2026 16h00**.
 
-Pour Pennylane, le timing colle : 3 000 entreprises PME pré-équipées en GED + archivage probant + workflow documentaire = la brique manquante au-dessus de la facture électronique, sur votre cœur de cible. Le ticket est marginal par rapport à votre dernier tour.
+Le fit avec Pennylane est net : ~3 000 entreprises PME pré-équipées en GED + archivage probant + workflow documentaire = la brique manquante au-dessus de la facture électronique, sur ton cœur de cible. Ticket marginal par rapport à ton dernier tour.
 
-Disponible pour 15 min en visio cette semaine ?
+Si ça t'intéresse, je t'envoie le pack confidentiel par retour.
 
 Paul Roulleau — Brantham Partners
 07 68 36 25 63
