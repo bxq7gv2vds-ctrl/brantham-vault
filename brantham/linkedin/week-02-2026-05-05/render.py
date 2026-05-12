@@ -7,10 +7,8 @@ HERE = Path(__file__).parent
 # (file, viewport_width, viewport_height)
 FILES = [
     ("post-02-A-signal.html", 1080, 1080),
-    ("post-05-V1-pyramide.html", 1080, 1080),
-    ("post-05-V2-verrou.html", 1080, 1080),
-    ("post-05-V3-chronologie.html", 1080, 1080),
-    ("post-05-V4-resultat.html", 1080, 1080),
+    ("post-05-pyramide-cream.html", 1280, 670),
+    ("post-05-resultat-cream.html", 1280, 670),
 ]
 
 async def main():
@@ -25,7 +23,7 @@ async def main():
             url = f"file://{HERE / f}"
             await page.goto(url, wait_until="networkidle")
             await page.wait_for_timeout(800)
-            card = page.locator(".post").first
+            card = page.locator(".card, .post").first
             out = HERE / f.replace(".html", ".png")
             await card.screenshot(path=str(out), omit_background=False)
             print("rendered", out)

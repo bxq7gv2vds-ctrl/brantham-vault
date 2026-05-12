@@ -176,18 +176,20 @@ C'est dans cet angle mort que se font, aujourd'hui, certaines des plus grosses o
 
 ---
 
-## Visuels (carrés 1080×1080, DA navy minimaliste)
+## Visuels (rectangle slim 1280×670, fond cream #EFEBE0, IBM Plex, logo Brantham)
 
-Rendus via `render.py` (Playwright). Quatre cartes, à attacher au choix sous le post principal ou à diffuser une par une en illustration des commentaires :
+Deux cartes retenues. Rendues via `render.py` (Playwright → PNG @2x). Format volontairement fin (≈ 1.91:1) pour ne pas occuper trop de hauteur dans le feed.
 
 | Carte | Fichier | Commentaire associé |
 |-------|---------|---------------------|
-| V1 · La pyramide de contrôle | `post-05-V1-pyramide.png` | 1/7 |
-| V2 · Le verrou de 2021 (avant / après) | `post-05-V2-verrou.png` | 5/7 — la plus screenshotable |
-| V3 · Six mois, zéro action Euronext (chronologie) | `post-05-V3-chronologie.png` | 6/7 |
-| V4 · Le partage du capital 53 / 46 / 1 | `post-05-V4-resultat.png` | 6/7 |
+| Pyramide de contrôle Naouri → Casino | `post-05-pyramide-cream.png` | 1/7 |
+| Le partage du capital 53 / 46 / 1 | `post-05-resultat-cream.png` | 6/7 |
 
-Recommandé : V2 en image du post principal (insight central, autonome hors contexte), V1 / V3 / V4 en illustrations des commentaires 1 et 6.
+Reco : pyramide en image du post principal (visuel d'entrée, lisible hors contexte), partage du capital sous le commentaire 6.
+
+DA : cream `#EFEBE0`, encre `#0A0A0A`, accent bordeaux `#7A1D17`, typo IBM Plex Sans + IBM Plex Mono, sans italique. Sources palette : `vault/brantham/linkedin/_design-system/base/tokens.css`.
+
+Abandonnés (non utilisés) : versions navy carrées `post-05-V1-pyramide`, `post-05-V2-verrou`, `post-05-V3-chronologie`, `post-05-V4-resultat`.
 
 ## Notes ship
 

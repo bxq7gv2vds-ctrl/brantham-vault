@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Brantham — Casino · La pyramide (cream)</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html, body { background:#cfcabb; }
+  body { padding:60px; display:flex; justify-content:center; }
+
+  .card {
+    width: 1280px;
+    height: 670px;
+    background: #EFEBE0;
+    color: #0A0A0A;
+    font-family: 'IBM Plex Sans', system-ui, -apple-system, sans-serif;
+    padding: 60px 72px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .top .logo img { height: 28px; width: auto; display: block; }
+  .top .ref {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #A8A296;
+  }
+
+  .main {
+    flex: 1;
+    display: grid;
+    grid-template-columns: 1fr 1.05fr;
+    column-gap: 64px;
+    align-items: center;
+  }
+
+  .lead .kicker {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    font-size: 11px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #9A958A;
+    margin-bottom: 22px;
+  }
+  .lead h1 {
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 1.24;
+    letter-spacing: -0.012em;
+    color: #0A0A0A;
+    max-width: 470px;
+  }
+
+  .tree {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    font-size: 19px;
+    line-height: 2.1;
+    color: #2D2D2D;
+    white-space: pre;
+  }
+  .tree .mute { color: #BDB7A8; }
+  .tree .root { color: #0A0A0A; }
+  .tree .leaf { color: #7A1D17; font-weight: 500; }
+
+  .foot {
+    margin-top: 0;
+    padding-top: 18px;
+    border-top: 1px solid #BDB7A8;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  .foot .sig { font-size: 12.5px; color: #6E6A5E; }
+  .foot .sig b { color: #0A0A0A; font-weight: 600; }
+  .foot .src {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    font-size: 10px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: #A8A296;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+
+  <div class="top">
+    <div class="logo"><img src="logo.png" alt="Brantham Partners"></div>
+    <div class="ref">Le décryptage · Casino</div>
+  </div>
+
+  <div class="main">
+    <div class="lead">
+      <div class="kicker">Structure de contrôle</div>
+      <h1>La pyramide Casino, avant la procédure.</h1>
+    </div>
+
+    <div class="tree"><span class="mute">●</span> <span class="root">Naouri</span>
+<span class="mute">└─</span> Euris
+   <span class="mute">└─</span> Finatis
+      <span class="mute">└─</span> Foncière Euris
+         <span class="mute">└─</span> Rallye
+            <span class="mute">└─</span> <span class="leaf">Casino</span></div>
+  </div>
+
+  <div class="foot">
+    <div class="sig"><b>Paul Roulleau</b> &nbsp;·&nbsp; Brantham Partners — M&amp;A distressed</div>
+    <div class="src">Source · groupe-casino.fr · greffes</div>
+  </div>
+
+</div>
+</body>
+</html>
