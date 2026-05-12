@@ -108,6 +108,19 @@ Diffusion : envoi direct aux journalistes de la liste + 1 fil de diffusion peu c
 ### 3f. Tribunes signées (lien d'autorité)
 Proposer 1 tribune / 2 mois à : Le Village de la Justice, Maddyness, Les Échos "Idées", La Tribune "Opinions", L'Agefi. Sujets : "Pourquoi 2026 sera l'année des reprises à la barre", "Reprendre une entreprise en redressement : les 5 erreurs qui coulent une offre", "Plan de cession : ce que le repreneur doit comprendre du Code de commerce". Auteur identifié = Paul Roulleau, avec bio + lien.
 
+Email de proposition (template) :
+> **Objet : Proposition de tribune — « Pourquoi 2026 sera l'année des reprises à la barre »**
+>
+> Bonjour,
+>
+> Je suis Paul Roulleau, fondateur de Brantham Partners, cabinet spécialisé dans le rachat d'entreprises en difficulté en France. Au vu de la hausse des défaillances depuis début 2026 (transport, BTP, restauration en première ligne), je vous propose une tribune sur la reprise d'entreprises en procédure collective — sujet d'actualité, technique, mal compris des repreneurs.
+>
+> Angle : « Reprendre une entreprise en redressement judiciaire : les erreurs qui coulent une offre de reprise » (ou, selon votre ligne : « 2026, l'année des reprises à la barre : ce que dit le Code de commerce et ce que regardent les juges »). Format 4 000–6 000 signes, ton analytique et concret, exemples anonymisés. Je peux l'envoyer sous [délai].
+>
+> Seriez-vous intéressé(e) ?
+>
+> Paul Roulleau — Brantham Partners — 07 68 36 25 63 — paul.roulleau@branthampartners.fr — branthampartners.fr
+
 ---
 
 ## BLOC 4 — Partenariats & échanges naturels (récurrent)
