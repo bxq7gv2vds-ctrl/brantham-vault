@@ -3,7 +3,7 @@ type: linkedin-content-perf-report
 date: 2026-05-12
 monthly_projection: 42986
 goal: 1000000
-generated_at: 2026-05-12T16:37:22.912834
+generated_at: 2026-05-12T16:37:40.959151
 ---
 
 # LinkedIn — Performance de contenu — 2026-05-12
@@ -93,13 +93,13 @@ Followers : **1581** · reach moyen/post (mesuré) : **3,084** · médian : **67
 | Reach ratio (impressions d'un post / nb de followers) | 0.43× (médian) / 5.32× (meilleur) | faible (<0.5) < moyen (<1.5) < bon (<3.0) < viral | **faible** |
 | Cadence de publication (posts / semaine) | 3.0 | trop peu (<1.5) < minimum croissance (<3.0) < rythme créateur (<5.0) < élevé | **rythme créateur** |
 | Croissance followers (%/mois) | ~8.1 %/mois (sur 7j, bruité) | stagnant (<2.0) < correct (<5.0) < forte (<10.0) < explosive | **forte** |
-| Commentaires / post | 15.0 engagements/post (proxy) | faible (<1.0) < moyen (<3.0) < bon (<8.0) < fort | **fort** |
+| Engagements / post (likes+comments+reposts) | 15.0/post | faible (<8.0) < moyen (<25.0) < bon (<60.0) < fort | **moyen** |
 
 - _Taux d'engagement (engagements / impressions)_ : Médiane d'un post perso ~1,5-2,5 %. Sous 1 % = le contenu ne retient pas malgré le reach.
 - _Reach ratio (impressions d'un post / nb de followers)_ : Petit compte (<2k followers) : un post 'normal' touche ~0,3-0,8× tes followers. >3× = post qui sort de ta bulle.
 - _Cadence de publication (posts / semaine)_ : L'algo récompense la régularité plus que le volume brut. 3-5/sem est le sweet spot des créateurs en croissance.
 - _Croissance followers (%/mois)_ : Créateur actif : ~3-8 %/mois. Une seule semaine de données = chiffre très bruité.
-- _Commentaires / post_ : Un commentaire pèse beaucoup plus qu'un like pour l'algo. Pose des questions, réponds aux 1ers commentaires dans l'heure.
+- _Engagements / post (likes+comments+reposts)_ : Un commentaire pèse bien plus qu'un like pour l'algo : vise des commentaires, pas des likes. Réponds aux 1ers commentaires dans l'heure. (Si tu captures tes posts via le userscript, on séparera likes/comments/reposts.)
 
 **Contexte objectif 1M/mois.** 1M impressions/mois = territoire top ~1 % des créateurs FR. Repère : ça correspond grosso modo à un compte de ~15-40k followers engagés publiant 4-5×/semaine à 1-3× le reach/follower, ou à un compte plus petit qui devient viral très régulièrement. Toi : 1581 followers, reach médian 0.43× tes followers → l'écart se comble par (1) volume ×3-5, (2) reach/post ×3-5 (hooks, format, sortir de ta bulle via commentaires sur gros comptes), (3) croissance followers. Aucun des trois seul ne suffit.
 
