@@ -32,14 +32,14 @@ visuels:
 
 ---
 
-## TITRE
+## TITRE (retenu)
 
 ```
-33 milliards d'euros ont changé de mains sans une seule action échangée sur Euronext. Voici comment.
+Le plus gros changement de contrôle d'un groupe français récent ne s'est pas joué en Bourse. Il s'est joué dans un tribunal de commerce.
 ```
 
-Alternatives de titre (si besoin) :
-- `Le plus gros transfert de contrôle d'un groupe français récent ne s'est pas joué en Bourse. Il s'est joué dans un tribunal de commerce.`
+Alternatives (si besoin) :
+- `33 milliards d'euros ont changé de mains sans une seule action échangée sur Euronext. Voici comment.`
 - `Casino, Kretinsky, et le mécanisme à trois ans dont presque personne ne parle`
 
 ## SOUS-TITRE / CHAPÔ (premier paragraphe, sert d'accroche dans le feed)
