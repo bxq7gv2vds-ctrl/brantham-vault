@@ -43,6 +43,7 @@ Bonus utile si dispo :
 ## Journal des points
 <!-- Ajouter une ligne par rapport : [[reports/YYYY-MM-DD-point]] — avg pos X.X → Y.Y -->
 - 2026-05-12 — [[brantham/seo/reports/2026-05-12-point-01|Point #1 baseline]] — position France **13.3** (global ~10.5), 333 clics / 15.8k impr / 90j. Breakout cluster transport. Prochain : 2026-05-15.
+- 2026-05-12 — [[brantham/seo/reports/2026-05-12-actions-batch-01|Batch actions #1]] — fix www→non-www (vercel.json), de-orphaning 21 pages (section maillage sur rachat-entreprise-difficulte), suppression page cassée rachat-entreprise-0, nettoyage robots/sitemap. Non déployé.
 
 ## Related
 - [[brantham/_MOC]]
