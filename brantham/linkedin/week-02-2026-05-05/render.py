@@ -6,9 +6,8 @@ HERE = Path(__file__).parent
 
 # (file, viewport_width, viewport_height)
 FILES = [
-    ("post-05-resultat-A-newsreader.html", 1280, 670),
-    ("post-05-resultat-B-spectral.html", 1280, 670),
-    ("post-05-resultat-C-hanken.html", 1280, 670),
+    ("post-05-pyramide.html", 1280, 670),
+    ("post-05-resultat.html", 1280, 670),
 ]
 
 async def main():

@@ -176,20 +176,18 @@ C'est dans cet angle mort que se font, aujourd'hui, certaines des plus grosses o
 
 ---
 
-## Visuels (rectangle slim 1280×670, fond cream #EFEBE0, IBM Plex, logo Brantham)
+## Visuels (rectangle slim 1280×670, fond cream, logo Brantham monochrome)
 
-Deux cartes retenues. Rendues via `render.py` (Playwright → PNG @2x). Format volontairement fin (≈ 1.91:1) pour ne pas occuper trop de hauteur dans le feed.
+Deux cartes. Rendues via `render.py` (Playwright → PNG @2x). Format fin (≈ 1.91:1) pour ne pas occuper trop de hauteur dans le feed.
 
 | Carte | Fichier | Commentaire associé |
 |-------|---------|---------------------|
-| Pyramide de contrôle Naouri → Casino | `post-05-pyramide-cream.png` | 1/7 |
-| Le partage du capital 53 / 46 / 1 | `post-05-resultat-cream.png` | 6/7 |
+| Pyramide de contrôle Naouri → Casino | `post-05-pyramide.png` | 1/7 |
+| Le partage du capital 53 / 46 / 1 | `post-05-resultat.png` | 6/7 |
 
-Reco : pyramide en image du post principal (visuel d'entrée, lisible hors contexte), partage du capital sous le commentaire 6.
+Reco : pyramide en image du post principal, partage du capital sous le commentaire 6.
 
-DA : cream `#EFEBE0`, encre `#0A0A0A`, accent bordeaux `#7A1D17`, typo IBM Plex Sans + IBM Plex Mono, sans italique. Sources palette : `vault/brantham/linkedin/_design-system/base/tokens.css`.
-
-Abandonnés (non utilisés) : versions navy carrées `post-05-V1-pyramide`, `post-05-V2-verrou`, `post-05-V3-chronologie`, `post-05-V4-resultat`.
+DA : fond cream `#EFEBE0`, encre `#1A1A1A`, accent bordeaux `#7A1D17`, typo **Newsreader** (serif éditorial, aucun italique), logo Brantham en noir monochrome (`logo-ink.svg`, dérivé de `logo.svg` sans le fond navy), source discrète en bas à droite, pas de barre signature. Palette : `vault/brantham/linkedin/_design-system/base/tokens.css`.
 
 ## Notes ship
 

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Brantham — Casino · La pyramide</title>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,300;6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html, body { background:#cfcabb; }
+  body { padding:60px; display:flex; justify-content:center; }
+
+  .card {
+    width:1280px; height:670px; background:#EFEBE0; color:#1A1A1A;
+    font-family:'Newsreader', Georgia, 'Times New Roman', serif;
+    padding:64px 76px; display:flex; flex-direction:column; position:relative;
+  }
+  .logo { height:40px; width:auto; align-self:flex-start; display:block; margin-bottom:44px; }
+
+  .main {
+    flex:1; display:grid; grid-template-columns:1fr 1.05fr; column-gap:72px; align-items:center;
+  }
+
+  h1 {
+    font-weight:400; font-size:35px; line-height:1.18; letter-spacing:-0.005em;
+    color:#1A1A1A; max-width:440px; margin-bottom:24px;
+  }
+  .cap {
+    font-size:17px; line-height:1.5; color:#5C594E; max-width:400px;
+  }
+  .cap b { color:#1A1A1A; font-weight:600; }
+
+  .tree { padding-left:8px; }
+  .node {
+    font-size:23px; line-height:1.95; color:#1A1A1A;
+    margin-left: calc(var(--d) * 30px);
+  }
+  .node .mk { color:#B0AA9A; margin-right:8px; }
+  .node.leaf { color:#7A1D17; font-weight:500; }
+  .node.leaf .mk { color:#C8A9A4; }
+
+  .src {
+    position:absolute; right:76px; bottom:42px;
+    font-size:11px; letter-spacing:0.06em; color:#A29C8C;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <img class="logo" src="logo-ink.svg" alt="Brantham Partners">
+
+  <div class="main">
+    <div class="lead">
+      <h1>La pyramide Casino, avant la procédure.</h1>
+      <div class="cap">Au sommet, Jean-Charles Naouri détient environ <b>25 %</b> du capital économique réel. Mais la mécanique pyramidale lui donne <b>63 %</b> des droits de vote.</div>
+    </div>
+
+    <div class="tree">
+      <div class="node" style="--d:0"><span class="mk">●</span>Naouri</div>
+      <div class="node" style="--d:1"><span class="mk">└</span>Euris</div>
+      <div class="node" style="--d:2"><span class="mk">└</span>Finatis</div>
+      <div class="node" style="--d:3"><span class="mk">└</span>Foncière Euris</div>
+      <div class="node" style="--d:4"><span class="mk">└</span>Rallye</div>
+      <div class="node leaf" style="--d:5"><span class="mk">└</span>Casino</div>
+    </div>
+  </div>
+
+  <div class="src">groupe-casino.fr · greffes</div>
+</div>
+</body>
+</html>
