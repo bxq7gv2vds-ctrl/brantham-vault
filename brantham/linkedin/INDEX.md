@@ -29,6 +29,38 @@ Régénérer : `cd vault/brantham/linkedin/week-01-2026-04-28 && python3 render.
 
 ---
 
+## Pack — Week 2 du 5 mai 2026 (v2 active)
+
+Dossier : `vault/brantham/linkedin/week-02-2026-05-05/`
+
+| Post | Sujet | Format | Fichiers clés |
+|---|---|---|---|
+| 01 | 186 défaillances par jour | Visuel + texte | `post-01-186-par-jour.{html,png}` |
+| 02 | LegalPlace × Legalstart (signal M&A) | Visuel (variantes A→I) + texte | `post-02-*.{html,png}` |
+| 04 | Le directeur M&A qui ne connaît pas le distressed | Texte + meme Anakin | `post-04-directeur-ma-distressed.md`, `post-04-meme-anakin{,-navy}.png` |
+| 05 | Casino × Kretinsky | Voir bloc ci-dessous | `post-05-*` |
+
+### Post 05 — Casino × Kretinsky
+
+Un même sujet décliné en deux formats publiables (ne pas publier les deux le même jour) :
+
+| Fichier | Format | Statut |
+|---|---|---|
+| `post-05-casino-thread.md` | Thread feed : post hook + 7 commentaires en chaîne | ready-to-publish |
+| `post-05-casino-article.md` | Article long-form (titre + chapô + 3 mouvements + CTA repreneurs) | ready-to-publish |
+| `post-05-casino-kretinsky.md` | Plan d'origine (4 angles + vote) | archive |
+| `post-05A/05B/05C-casino-*.md` | Drafts d'origine (récit / mécanisme / portée) avant fusion | archive |
+
+Visuels (HTML/CSS → PNG via `render.py`, DA cream Brantham, Newsreader) :
+- `post-05-casino-cover.png` — couverture de l'article, ratio 1.91:1, logo Casino + titre serif
+- `post-05-pyramide.png` — pyramide de contrôle Naouri → Casino (1280×670)
+- `post-05-resultat.png` — partage du capital 53 / 46 / 1 (1280×670)
+
+Régénérer les visuels : `cd vault/brantham/linkedin/week-02-2026-05-05 && python3 render.py`.
+Avant publi : faire les 5 vérifications factuelles listées dans le frontmatter de `post-05-casino-article.md`.
+
+---
+
 ## Semaine 1 — Archive v1 (mars 2026)
 
 | # | Jour | Titre | Format | Fichiers |
