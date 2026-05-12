@@ -76,7 +76,7 @@ En 2021, la France transpose une directive européenne sur l'insolvabilité. Un 
 
 Le 11 janvier 2024, les classes votent. Le 26 février, le tribunal valide le plan. Le 27 mars, il est exécuté. Le consortium Kretinsky injecte 1,2 milliard d'euros et prend 53 % du capital. 4,9 milliards d'euros de dette sont convertis en actions, donnant 46 % du capital aux anciens créanciers. Les anciens actionnaires sont dilués à 99 %. Naouri, aux commandes depuis trente ans, quitte la présidence. Le groupe change de contrôle sans qu'une seule action n'ait été achetée en Bourse, six mois après l'ouverture de la procédure.
 
-Casino n'est pas un cas isolé. C'est un signal. Le canal qui a permis ce transfert porte un nom : distressed M&A, en français le rachat d'entreprises en difficulté. Le mot « difficulté » induit en erreur — il ne s'agit plus seulement de PME en liquidation. C'est devenu, depuis 2021, le canal légal pour transférer le contrôle de groupes que personne d'autre ne peut bouger, y compris à plusieurs dizaines de milliards d'euros de chiffre d'affaires. Il est rapide, il est encadré, il fonctionne. Et il ne fait presque jamais l'actualité, parce que les négociations qui le préparent restent confidentielles. C'est dans cet angle mort que se font, aujourd'hui, certaines des plus grosses opérations européennes.
+Casino n'est pas un cas isolé. C'est un signal. Le canal qui a permis ce transfert porte un nom : distressed M&A, en français le rachat d'entreprises en difficulté. Le mot « difficulté » induit en erreur : il ne s'agit plus seulement de PME en liquidation. C'est devenu, depuis 2021, le canal légal pour transférer le contrôle de groupes que personne d'autre ne peut bouger, y compris à plusieurs dizaines de milliards d'euros de chiffre d'affaires. Il est rapide, il est encadré, il fonctionne. Et il ne fait presque jamais l'actualité, parce que les négociations qui le préparent restent confidentielles. C'est dans cet angle mort que se font, aujourd'hui, certaines des plus grosses opérations européennes.
 
 ---
 
@@ -88,19 +88,15 @@ Chez Brantham Partners, on accompagne les repreneurs qui veulent racheter une en
 
 | Élément | Contenu |
 |---------|---------|
-| Image de couverture | `post-05-casino-cover.png` (1280×720, prêt à l'emploi) |
+| Image de couverture | `post-05-casino-cover.png` (1.91:1, prêt à l'emploi) |
 | Titre | Voir bloc TITRE ci-dessus |
 | Premier paragraphe | Le chapô (sert d'extrait dans le feed) |
-| Section 1 | La pyramide |
-| Image dans la section 1 | `post-05-pyramide.png` |
-| Section 2 | L'accord, avant la procédure |
-| Section 3 | L'ouverture de la procédure |
-| Section 4 | Le mécanisme |
-| Section 5 | Le verrou cassé |
-| Image en cours d'article | `post-05-resultat.png`, juste avant la section "Le résultat" |
-| Section 6 | Le résultat |
-| Section 7 | Ce que ça change |
-| Section 8 (CTA) | Si vous regardez une reprise — accompagnement repreneurs Brantham Partners |
+| Section 1 (H2) | Ce qui s'est passé |
+| Image dans la section 1 | `post-05-pyramide.png` (après le 1er paragraphe de la section) |
+| Section 2 (H2) | Pourquoi c'était possible |
+| Section 3 (H2) | Le résultat, et ce que ça change |
+| Image dans la section 3 | `post-05-resultat.png` (après le 1er paragraphe de la section) |
+| CTA de clôture | Paragraphe Brantham Partners, séparé par un trait |
 
 ## Notes ship
 
