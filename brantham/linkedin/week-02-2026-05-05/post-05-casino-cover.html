@@ -7,65 +7,36 @@
 <style>
   * { margin:0; padding:0; box-sizing:border-box; }
   html, body { background:#cfcabb; }
-  body { padding:48px; display:flex; justify-content:center; }
+  body { padding:0; display:flex; justify-content:center; }
 
+  /* Ratio 1.91:1 — format cover article LinkedIn (1200x627 affiché). Rendu @2x. */
   .card {
-    width:1280px; height:720px; background:#EFEBE0; color:#1A1A1A;
+    width:1280px; height:670px; background:#EFEBE0; color:#1A1A1A;
     font-family:'Newsreader', Georgia, 'Times New Roman', serif;
-    padding:54px 84px 46px; display:flex; flex-direction:column; position:relative;
+    padding:56px 96px; display:flex; flex-direction:column;
+    align-items:center; justify-content:center; text-align:center;
+    gap:28px; position:relative; overflow:hidden;
   }
 
-  /* bandeau haut */
-  .top {
-    display:flex; justify-content:space-between; align-items:baseline;
-    padding-bottom:18px; border-bottom:1px solid #C9C2B0;
-    font-size:14px; letter-spacing:0.22em; text-transform:uppercase; color:#857F71;
-  }
-  .top .l { color:#7A1D17; font-weight:600; }
+  .logo-casino img { width:330px; height:auto; display:block; }
 
-  /* coeur : logo Casino + titre */
-  .core { flex:1; display:flex; flex-direction:column; justify-content:center; gap:40px; }
-  .logo { display:flex; }
-  .logo img { width:430px; height:auto; display:block; }
   h1 {
-    font-weight:400; font-size:52px; line-height:1.16; letter-spacing:-0.008em;
-    color:#1A1A1A; max-width:920px;
+    font-weight:400; font-size:48px; line-height:1.14; letter-spacing:-0.01em;
+    color:#1A1A1A; max-width:1040px;
   }
-  h1 em { font-style:italic; color:#7A1D17; }
+  h1 .red { color:#7A1D17; }
 
-  /* sous-ligne */
-  .deck {
-    font-size:21px; line-height:1.45; color:#5C594E; max-width:780px; margin-top:-12px;
+  .sub {
+    font-size:20px; line-height:1.45; color:#5C594E; max-width:720px;
   }
-
-  /* bandeau bas */
-  .bot {
-    display:flex; justify-content:space-between; align-items:baseline;
-    padding-top:18px; border-top:1px solid #C9C2B0;
-    font-size:15px; color:#857F71;
-  }
-  .bot b { color:#1A1A1A; font-weight:600; letter-spacing:0.04em; }
-  .bot .r { letter-spacing:0.06em; }
 </style>
 </head>
 <body>
 <div class="card">
 
-  <div class="top">
-    <span class="l">Dossier · Opérations distressed</span>
-    <span>Étude de cas</span>
-  </div>
-
-  <div class="core">
-    <div class="logo"><img src="casino-logo.svg" alt="Casino"></div>
-    <h1>33 milliards d'euros ont changé de mains <em>sans passer par la Bourse.</em></h1>
-    <div class="deck">D'octobre 2023 à mars 2024. Une procédure de droit français, un tribunal de commerce, et un mécanisme qui n'a que trois ans. Le récit, le mécanisme, et ce que ça change.</div>
-  </div>
-
-  <div class="bot">
-    <span><b>Brantham Partners</b> · accompagnement au rachat d'entreprises en difficulté</span>
-    <span class="r">branthampartners.fr</span>
-  </div>
+  <div class="logo-casino"><img src="casino-logo.svg" alt="Casino"></div>
+  <h1>33 milliards d'euros ont changé de mains. <span class="red">Pas une action échangée en Bourse.</span></h1>
+  <div class="sub">Comment le contrôle du groupe Casino a basculé entre octobre 2023 et mars 2024, et ce que ça nous dit sur le rachat d'entreprises en difficulté.</div>
 
 </div>
 </body>

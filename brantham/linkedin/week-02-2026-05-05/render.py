@@ -8,7 +8,7 @@ HERE = Path(__file__).parent
 FILES = [
     ("post-05-pyramide.html", 1280, 670),
     ("post-05-resultat.html", 1280, 670),
-    ("post-05-casino-cover.html", 1280, 720),
+    ("post-05-casino-cover.html", 1280, 670),
 ]
 
 async def main():
