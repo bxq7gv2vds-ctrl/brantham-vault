@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Brantham — Casino · Le partage du capital · C · Hanken Grotesk</title>
+<link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html, body { background:#cfcabb; }
+  body { padding:60px; display:flex; justify-content:center; }
+
+  .card {
+    width:1280px; height:670px; background:#EFEBE0; color:#1A1A1A;
+    font-family:'Hanken Grotesk', system-ui, -apple-system, sans-serif;
+    padding:66px 76px; display:flex; flex-direction:column; position:relative;
+  }
+  .logo { height:27px; width:auto; align-self:flex-start; display:block; margin-bottom:46px; }
+
+  h1 {
+    font-weight:600; font-size:32px; line-height:1.18; letter-spacing:-0.018em;
+    color:#1A1A1A; margin-bottom:4px;
+  }
+
+  .rows { flex:1; display:flex; flex-direction:column; justify-content:center; }
+  .row {
+    display:grid; grid-template-columns:1fr 180px; align-items:baseline; column-gap:32px;
+    padding:21px 0; border-top:1px solid #C9C2B0;
+  }
+  .rows .row:last-child { border-bottom:1px solid #C9C2B0; }
+  .who { font-size:19px; font-weight:600; color:#1A1A1A; }
+  .who span { display:block; font-size:14px; font-weight:400; color:#857F71; margin-top:6px; }
+  .pct {
+    font-weight:300; font-size:60px; line-height:1; letter-spacing:-0.012em; text-align:right;
+    color:#1A1A1A; font-variant-numeric:tabular-nums lining-nums;
+  }
+  .pct .u { font-size:0.36em; font-weight:400; margin-left:0.12em; }
+  .row.hl .who, .row.hl .pct { color:#7A1D17; }
+  .row.dim .who, .row.dim .pct { color:#A29C8C; }
+  .row.dim .who span { color:#B8B2A1; }
+
+  .coda {
+    margin-top:30px; font-size:16px; line-height:1.5; color:#5C594E; max-width:780px;
+  }
+  .coda b { color:#1A1A1A; font-weight:600; }
+
+  .src {
+    position:absolute; right:76px; bottom:42px;
+    font-size:11px; letter-spacing:0.06em; color:#A29C8C;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <img class="logo" src="logo-ink.svg" alt="Brantham Partners">
+
+  <h1>Le capital de Casino, après le plan.</h1>
+
+  <div class="rows">
+    <div class="row hl">
+      <div class="who">Consortium Kretinsky<span>1,2 Md€ d'argent frais injecté</span></div>
+      <div class="pct">53<span class="u">%</span></div>
+    </div>
+    <div class="row">
+      <div class="who">Anciens créanciers<span>4,9 Mds€ de dette convertis en actions</span></div>
+      <div class="pct">46<span class="u">%</span></div>
+    </div>
+    <div class="row dim">
+      <div class="who">Anciens actionnaires<span>dont la galaxie Naouri · Rallye</span></div>
+      <div class="pct">1<span class="u">%</span></div>
+    </div>
+  </div>
+
+  <div class="coda">Anciens actionnaires dilués à <b>99 %</b>. Le PDG de 30 ans, sorti. Aucune offre publique.</div>
+
+  <div class="src">groupe-casino.fr · communiqués officiels</div>
+</div>
+</body>
+</html>
