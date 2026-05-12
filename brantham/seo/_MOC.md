@@ -48,6 +48,8 @@ Bonus utile si dispo :
 - 2026-05-12 — Batch actions #2 — bloc fraîcheur "mai 2026" + maillage régional + lastmod/priorité bumpés sur rachat-transport-logistique-redressement.html ; blocs AEO "En bref" + dates rafraîchies sur redressement-judiciaire / liquidation-judiciaire / procedure-collective. Non déployé.
 - 2026-05-12 — [[brantham/seo/plan-link-building|Plan link building]] — playbook off-page (citations/annuaires, contenu linkable, newsjacking/RP, partenariats AJ-MJ). À exécuter.
 - 2026-05-12 — [[brantham/seo/plan-consolidation-pages-villes|Plan consolidation villes]] — 28 pages villes → 12 régionales + 16 × 301. Mapping défini. À exécuter (gros chantier rédactionnel).
+- 2026-05-12 — **Déploiement prod fait** (vercel --prod) : www→non-www 308, redirect rachat-entreprise-0, sitemap à jour, blocs AEO, fraîcheur transport — tout vérifié live. Reste : soumettre sitemap + demander indexation dans GSC.
+- 2026-05-12 — [[brantham/seo/off-page-kit|Kit off-page clé en main]] + [[brantham/seo/journalistes|fichier journalistes]] — tout rédigé (NAP, fiches/annuaires, baromètre mensuel, modèles téléchargeables, pitchs presse, CP, tribunes, partenariats). À exécuter par Paul/Soren (comptes requis).
 
 ## Related
 - [[brantham/_MOC]]
