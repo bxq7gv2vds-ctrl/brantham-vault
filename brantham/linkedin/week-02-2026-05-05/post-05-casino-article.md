@@ -132,6 +132,10 @@ La plupart des dirigeants, des repreneurs et des conseils M&A n'ont jamais regar
 
 C'est dans cet angle mort que se font, aujourd'hui, certaines des plus grosses opérations européennes.
 
+### Si vous regardez une reprise
+
+Chez Brantham Partners, on accompagne les repreneurs qui veulent racheter une entreprise en difficulté : identifier les dossiers ouverts, comprendre le passif réellement transféré, structurer une offre crédible et tenir les délais d'un tribunal de commerce. Les actifs sans le passif, c'est encadré par la loi. Encore faut-il savoir s'en servir. Si vous travaillez sur une reprise, écrivez-moi.
+
 ---
 
 ## STRUCTURE DE PUBLICATION (LinkedIn "Écrire un article")
