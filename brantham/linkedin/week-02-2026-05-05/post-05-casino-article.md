@@ -154,7 +154,7 @@ Chez Brantham Partners, on accompagne les repreneurs qui veulent racheter une en
 | Image en cours d'article | `post-05-resultat.png`, juste avant la section "Le résultat" |
 | Section 6 | Le résultat |
 | Section 7 | Ce que ça change |
-| Fin | Pas de CTA. Pas de bio promotionnelle dans le corps. |
+| Section 8 (CTA) | Si vous regardez une reprise — accompagnement repreneurs Brantham Partners |
 
 ## Notes ship
 
