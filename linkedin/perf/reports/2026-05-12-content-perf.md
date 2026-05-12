@@ -3,7 +3,7 @@ type: linkedin-content-perf-report
 date: 2026-05-12
 monthly_projection: 42986
 goal: 1000000
-generated_at: 2026-05-12T15:34:27.032039
+generated_at: 2026-05-12T16:11:26.220967
 ---
 
 # LinkedIn — Performance de contenu — 2026-05-12
@@ -66,21 +66,30 @@ _Basé sur 3 posts observés. Le levier réaliste est d'augmenter le reach/post,
 | Sat | 0 | 0 | 0 |
 | Sun | 0 | 0 | 0 |
 
+## Heure de publication (UTC — heure FR = UTC +1h hiver / +2h été)
+
+_L'export LinkedIn ne contient pas l'heure de publication. Pour l'obtenir : profil → onglet Activité (linkedin.com/in/<toi>/recent-activity/all/) et scrolle avec le userscript actif → le `posted_at` exact de chaque post est capturé._
+
+## Analyse de contenu — pourquoi les top posts marchent
+
+_Seulement 0 post mesuré avec texte capturé. Capture plus de tes posts (userscript sur ton activité) pour faire émerger des patterns._
+
 ## Audience (au 2026-05-12)
 
-- **Companies** : Revolut (0%), EDHEC Business School (0%), Societe Generale Corporate and Investment Banking - SGCIB (0%), BNP Paribas CIB (0%)
-- **Company size** : 1-10 employees (16%), 11-50 employees (15%), 10,001+ employees (9%), 51-200 employees (8%)
-- **Industries** : Financial Services (21%), Business Consulting and Services (6%), Non-profit Organizations (5%), IT Services and IT Consulting (5%)
-- **Job titles** : Co-Founder (5%), Founder (5%), Chief Executive Officer (3%), President (2%)
-- **Locations** : Greater Paris Metropolitan Region (39%), Greater Lille Metropolitan Area (12%), Greater Nice Metropolitan Area (2%), Greater Lyon Area (2%)
-- **Seniority** : Senior (28%), Entry (14%), CXO (8%), Director (8%)
+- **Companies** : Revolut (0.5%), EDHEC Business School (0.5%), Societe Generale Corporate and Investment Banking - SGCIB (0.5%), BNP Paribas CIB (0.5%)
+- **Company size** : 1-10 employees (16.2%), 11-50 employees (15.3%), 10,001+ employees (9.1%), 51-200 employees (8.0%)
+- **Industries** : Financial Services (21.2%), Business Consulting and Services (5.8%), Non-profit Organizations (5.1%), IT Services and IT Consulting (4.8%)
+- **Job titles** : Co-Founder (4.9%), Founder (4.7%), Chief Executive Officer (2.8%), President (1.6%)
+- **Locations** : Greater Paris Metropolitan Region (39.0%), Greater Lille Metropolitan Area (12.1%), Greater Nice Metropolitan Area (1.9%), Greater Lyon Area (1.9%)
+- **Seniority** : Senior (27.9%), Entry (14.1%), CXO (7.9%), Director (7.7%)
 
 ## Recommandations
 
 - Tu es à ~42,986 impressions/mois projetées. Pour 1M il faut x23.3 (33,333/jour vs 1,433 actuel).
 - Taux d'engagement 30j = 0.67% (faible). Hooks plus tranchés en ligne 1, questions ouvertes, et réponds vite aux 1ers commentaires (boost algo).
 - Ton meilleur post (8,410 impressions, 2026-05-08) fait x12.4 la médiane (678). Décortique-le (format, hook, sujet) et refais 3 variantes — la distribution LinkedIn est power-law, 1 post viral > 10 tièdes.
-- Aucun `meta.yaml` rempli : ajoute `vault/linkedin/perf/meta.yaml` ({urn: {title, format, theme, hook}}) pour que l'analyse corrèle reach × format/thème au prochain rapport.
+- 3 post(s) mesuré(s) sans texte capturé → l'analyse de patterns est partielle. Va sur ton profil → 'Activité' (linkedin.com/in/<toi>/recent-activity/all/) et scrolle avec le userscript actif : ça capture le texte + l'heure exacte de publication de tes posts.
+- Heure de publication inconnue : l'export LinkedIn ne donne pas l'heure. Capture tes posts via le userscript (profil → Activité) pour débloquer l'analyse horaire.
 - Cadence visée (au reach médian 678) : ~49.2 posts/jour ≈ 339.5/semaine. Irréaliste seul → mix : (a) +volume, (b) +reach/post (carrousels, vidéo native, hooks), (c) commentaires stratégiques sur gros comptes (le LinkedIn Machine sert à ça : `lkm top`).
 - Génère des angles dans ta voice : `/tweet-gen` (writing-vault) ou `/write draft` — branche les top posts comme références.
 
