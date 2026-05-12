@@ -32,6 +32,10 @@ Objectif: ameliorer les informations extraites directement depuis les annonces, 
 - Backfill localisation rendu plus conservateur: rejet des fragments de montant/effectif/rue et des codes postaux seuls non contextualises.
 - Helpers localisation: extraction departement `(38)`, code postal `(13510)`, et `dans le 06`.
 - Import: archivage automatique des anciennes opportunites `nouveau` d'une source qui repond OK/empty mais ne les renvoie plus.
+- Quality gate `cockpit.scrape_quality`:
+  - pre-import sur JSON de scan (`--scan`) pour detecter erreurs/chutes avant auto-archive;
+  - post-import DB pour verifier coverage DLDO/secteur/localisation/CA/effectif;
+  - branche dans `daily_scrape.sh` en `--warn-only` avant import et apres purge.
 
 ## Dernier run
 
@@ -57,10 +61,12 @@ Points notables:
 - `AJ Spécialisés`: 6/6 actifs avec DLDO, secteur, localisation, CA, effectif.
 - `Abitbol & Rousselet`: 4/4 actifs avec DLDO, secteur, CA, effectif; 3/4 localisation.
 - Aucun faux positif localisation detecte (`ETP`, `Mail`, `Salariés Voir`).
+- Quality gate pre-import: OK.
+- Quality gate DB: OK.
 
 ## Verification
 
-- Tests subset pipeline: 76 passed (`hunters_pipeline`, `postparse_notes`, `scraper_extractors`, `cron_outreach_idempotence`).
+- Tests subset pipeline: 82 passed (`scrape_quality`, `hunters_pipeline`, `postparse_notes`, `scraper_extractors`, `cron_outreach_idempotence`).
 
 ## Related
 
