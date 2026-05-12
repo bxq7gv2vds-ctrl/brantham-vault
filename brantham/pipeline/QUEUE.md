@@ -34,6 +34,21 @@
 - Enrichissement Pappers : à réaliser (SIREN non disponibles dans le scrape AJ)
 - Matching repreneurs : à réaliser (API locale non démarrée)
 
+## Batch auto-enrichment — 2026-05-12
+
+| Slug | Entreprise | CA | Effectif | Localisation | AJ | Pappers | Repreneurs |
+|------|-----------|-----|----------|--------------|-----|---------|------------|
+| ajilink-ihdf-pse-ar-val | PSE AR.VAL | Plus de 10M€ | De 50 à 250 | 56 Morbihan | Ajilink IHDF | Non | 0 |
+| ajilink-provence-prepack-cession | PREPACK CESSION | Plus de 10M€ | N/A | 13 Bouches-du-Rhône | Ajilink Provence | Non | 1 |
+| ajup-transpaumance | TRANSPAUMANCE | De 3 à 10M€ | De 10 à 50 | 03 Allier | AJUP | Oui (477582902) | 5 |
+| ajire-auroit | AUROIT (Intermarché) | De 3 à 10M€ | De 10 à 50 | 72 Sarthe | AjIRE | Oui (401278379) | 5 |
+| ajilink-grandest-ks-securite | KS SECURITE | De 3 à 10M€ | Plus de 250 | 67 Bas-Rhin | Ajilink Grand Est | Oui (792935694) | 5 |
+| ajup-recherche-partenaires-dans-le-cadre-d-une-procedure-de- | SAS TROUILLET & CIE | De 3 à 10M€ | De 10 à 50 | 42 Loire | AJUP | Non | 0 |
+| ajilink-ihdf-ikomobi | IKOMOBI | De 1 à 3M€ | De 10 à 50 | 59 Nord | Ajilink IHDF | Oui (514418748) | 5 |
+| ajup-a-b-loisirs | A-B LOISIRS | De 1 à 3M€ | De 10 à 50 | 42 Loire | AJUP | Oui (380370395) | 0 |
+| ajup-secat | SECAT (abattoir) | De 1 à 3M€ | De 10 à 50 | 69 Rhône | AJUP | Oui (523167062) | 0 |
+| ajilink-grandest-debos-style | DEBOS'STYLE | De 1 à 3M€ | Moins de 10 | 67 Bas-Rhin | Ajilink Grand Est | Oui (525159877) | 0 |
+
 ## Related
 
 - [[brantham/_MOC]]
