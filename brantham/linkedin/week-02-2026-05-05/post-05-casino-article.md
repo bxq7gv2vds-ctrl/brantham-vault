@@ -142,6 +142,7 @@ C'est dans cet angle mort que se font, aujourd'hui, certaines des plus grosses o
 | Titre | Voir bloc TITRE ci-dessus |
 | Premier paragraphe | Le chapô (sert d'extrait dans le feed) |
 | Section 1 | La pyramide |
+| Image dans la section 1 | `post-05-pyramide.png` |
 | Section 2 | L'accord, avant la procédure |
 | Section 3 | L'ouverture de la procédure |
 | Section 4 | Le mécanisme |
