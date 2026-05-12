@@ -42,7 +42,7 @@ Bonus utile si dispo :
 
 ## Journal des points
 <!-- Ajouter une ligne par rapport : [[reports/YYYY-MM-DD-point]] — avg pos X.X → Y.Y -->
-- _(en attente du premier export GSC)_
+- 2026-05-12 — [[brantham/seo/reports/2026-05-12-point-01|Point #1 baseline]] — position France **13.3** (global ~10.5), 333 clics / 15.8k impr / 90j. Breakout cluster transport. Prochain : 2026-05-15.
 
 ## Related
 - [[brantham/_MOC]]
