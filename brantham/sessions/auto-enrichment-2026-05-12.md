@@ -26,3 +26,5 @@
   - OK
 - **Cycle termine** a 16:17
 ---
+
+## Deep Enrichment 19:20
