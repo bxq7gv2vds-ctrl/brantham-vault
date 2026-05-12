@@ -28,3 +28,11 @@
 ---
 
 ## Deep Enrichment 19:20
+
+## Cycle 21:12
+
+- **Scrape AJ** : lancement...
+  - ERREUR scraping (voir /tmp/bp-scrape-err.log)
+- **Enrichissement Pappers** : lancement...
+  - 0 procedures enrichies
+- **Re-scoring** : lancement...
