@@ -21,7 +21,8 @@ verifications_avant_publi:
   - Vote des classes 11 janvier 2024 (vault, recroiser)
   - 25 % capital économique / 63 % votes Naouri (vault, recroiser Foncière Euris / Rallye)
 visuels:
-  - post-05-pyramide.png (pyramide de contrôle Naouri → Casino) — image de couverture
+  - post-05-casino-cover.png (chiffre-héros 33 Mds € + timeline 6 mois) — image de couverture de l'article
+  - post-05-pyramide.png (pyramide de contrôle Naouri → Casino) — inséré dans la section "La pyramide"
   - post-05-resultat.png (partage du capital 53 / 46 / 1) — inséré avant la section "Le résultat"
 ---
 	 
@@ -137,7 +138,7 @@ C'est dans cet angle mort que se font, aujourd'hui, certaines des plus grosses o
 
 | Élément | Contenu |
 |---------|---------|
-| Image de couverture | `post-05-pyramide.png` (recadrer en 1280×720 si l'outil l'exige) |
+| Image de couverture | `post-05-casino-cover.png` (1280×720, prêt à l'emploi) |
 | Titre | Voir bloc TITRE ci-dessus |
 | Premier paragraphe | Le chapô (sert d'extrait dans le feed) |
 | Section 1 | La pyramide |
