@@ -1,0 +1,137 @@
+{
+  "as_of": "2026-05-12",
+  "data": {
+    "Companies": [
+      {
+        "pct": 0.005,
+        "value": "Revolut"
+      },
+      {
+        "pct": 0.005,
+        "value": "EDHEC Business School"
+      },
+      {
+        "pct": 0.005,
+        "value": "Societe Generale Corporate and Investment Banking - SGCIB"
+      },
+      {
+        "pct": 0.005,
+        "value": "BNP Paribas CIB"
+      },
+      {
+        "pct": 0.005,
+        "value": "EDHEC Investment Club"
+      }
+    ],
+    "Company size": [
+      {
+        "pct": 0.16186819970607758,
+        "value": "1-10 employees"
+      },
+      {
+        "pct": 0.15291106700897217,
+        "value": "11-50 employees"
+      },
+      {
+        "pct": 0.0914907231926918,
+        "value": "10,001+ employees"
+      },
+      {
+        "pct": 0.07997440546751022,
+        "value": "51-200 employees"
+      },
+      {
+        "pct": 0.06397952884435654,
+        "value": "1001-5000 employees"
+      }
+    ],
+    "Industries": [
+      {
+        "pct": 0.21177223324775696,
+        "value": "Financial Services"
+      },
+      {
+        "pct": 0.05822136998176575,
+        "value": "Business Consulting and Services"
+      },
+      {
+        "pct": 0.05054382607340813,
+        "value": "Non-profit Organizations"
+      },
+      {
+        "pct": 0.04798464477062225,
+        "value": "IT Services and IT Consulting"
+      },
+      {
+        "pct": 0.04030710086226463,
+        "value": "Higher Education"
+      }
+    ],
+    "Job titles": [
+      {
+        "pct": 0.04926423728466034,
+        "value": "Co-Founder"
+      },
+      {
+        "pct": 0.04734484851360321,
+        "value": "Founder"
+      },
+      {
+        "pct": 0.027511196210980415,
+        "value": "Chief Executive Officer"
+      },
+      {
+        "pct": 0.015994882211089134,
+        "value": "President"
+      },
+      {
+        "pct": 0.005,
+        "value": "Financial Analyst"
+      }
+    ],
+    "Locations": [
+      {
+        "pct": 0.39027512073516846,
+        "value": "Greater Paris Metropolitan Region"
+      },
+      {
+        "pct": 0.1209213063120842,
+        "value": "Greater Lille Metropolitan Area"
+      },
+      {
+        "pct": 0.018554063513875008,
+        "value": "Greater Nice Metropolitan Area"
+      },
+      {
+        "pct": 0.018554063513875008,
+        "value": "Greater Lyon Area"
+      },
+      {
+        "pct": 0.017914267256855965,
+        "value": "London Area, United Kingdom"
+      }
+    ],
+    "Seniority": [
+      {
+        "pct": 0.2789507210254669,
+        "value": "Senior"
+      },
+      {
+        "pct": 0.1413947492837906,
+        "value": "Entry"
+      },
+      {
+        "pct": 0.07933460921049118,
+        "value": "CXO"
+      },
+      {
+        "pct": 0.0767754316329956,
+        "value": "Director"
+      },
+      {
+        "pct": 0.07101727277040482,
+        "value": "Owner"
+      }
+    ]
+  }
+}

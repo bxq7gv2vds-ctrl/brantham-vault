@@ -1,0 +1,234 @@
+{
+  "demographics": {
+    "Companies": [
+      {
+        "pct": 0.005,
+        "value": "Revolut"
+      },
+      {
+        "pct": 0.005,
+        "value": "EDHEC Business School"
+      },
+      {
+        "pct": 0.005,
+        "value": "Societe Generale Corporate and Investment Banking - SGCIB"
+      },
+      {
+        "pct": 0.005,
+        "value": "BNP Paribas CIB"
+      },
+      {
+        "pct": 0.005,
+        "value": "EDHEC Investment Club"
+      }
+    ],
+    "Company size": [
+      {
+        "pct": 0.16186819970607758,
+        "value": "1-10 employees"
+      },
+      {
+        "pct": 0.15291106700897217,
+        "value": "11-50 employees"
+      },
+      {
+        "pct": 0.0914907231926918,
+        "value": "10,001+ employees"
+      },
+      {
+        "pct": 0.07997440546751022,
+        "value": "51-200 employees"
+      },
+      {
+        "pct": 0.06397952884435654,
+        "value": "1001-5000 employees"
+      }
+    ],
+    "Industries": [
+      {
+        "pct": 0.21177223324775696,
+        "value": "Financial Services"
+      },
+      {
+        "pct": 0.05822136998176575,
+        "value": "Business Consulting and Services"
+      },
+      {
+        "pct": 0.05054382607340813,
+        "value": "Non-profit Organizations"
+      },
+      {
+        "pct": 0.04798464477062225,
+        "value": "IT Services and IT Consulting"
+      },
+      {
+        "pct": 0.04030710086226463,
+        "value": "Higher Education"
+      }
+    ],
+    "Job titles": [
+      {
+        "pct": 0.04926423728466034,
+        "value": "Co-Founder"
+      },
+      {
+        "pct": 0.04734484851360321,
+        "value": "Founder"
+      },
+      {
+        "pct": 0.027511196210980415,
+        "value": "Chief Executive Officer"
+      },
+      {
+        "pct": 0.015994882211089134,
+        "value": "President"
+      },
+      {
+        "pct": 0.005,
+        "value": "Financial Analyst"
+      }
+    ],
+    "Locations": [
+      {
+        "pct": 0.39027512073516846,
+        "value": "Greater Paris Metropolitan Region"
+      },
+      {
+        "pct": 0.1209213063120842,
+        "value": "Greater Lille Metropolitan Area"
+      },
+      {
+        "pct": 0.018554063513875008,
+        "value": "Greater Nice Metropolitan Area"
+      },
+      {
+        "pct": 0.018554063513875008,
+        "value": "Greater Lyon Area"
+      },
+      {
+        "pct": 0.017914267256855965,
+        "value": "London Area, United Kingdom"
+      }
+    ],
+    "Seniority": [
+      {
+        "pct": 0.2789507210254669,
+        "value": "Senior"
+      },
+      {
+        "pct": 0.1413947492837906,
+        "value": "Entry"
+      },
+      {
+        "pct": 0.07933460921049118,
+        "value": "CXO"
+      },
+      {
+        "pct": 0.0767754316329956,
+        "value": "Director"
+      },
+      {
+        "pct": 0.07101727277040482,
+        "value": "Owner"
+      }
+    ]
+  },
+  "overall": {
+    "impressions": 10030.0,
+    "members_reached": 6437.0
+  },
+  "posts": [
+    {
+      "engagements": 33,
+      "impressions": 8410,
+      "publish_date": "2026-05-08",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7458490134121021440",
+      "urn": "7458490134121021440"
+    },
+    {
+      "engagements": 21,
+      "impressions": 714,
+      "publish_date": "2026-05-05",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7457423427818221569",
+      "urn": "7457423427818221569"
+    },
+    {
+      "engagements": 10,
+      "impressions": 678,
+      "publish_date": "2026-05-06",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7457829138050134016",
+      "urn": "7457829138050134016"
+    },
+    {
+      "engagements": 2,
+      "impressions": 163,
+      "publish_date": "2026-05-12",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7459936004074967041",
+      "urn": "7459936004074967041"
+    },
+    {
+      "engagements": 1,
+      "impressions": 4,
+      "publish_date": "2025-01-16",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7285690530691190784",
+      "urn": "7285690530691190784"
+    },
+    {
+      "impressions": 21,
+      "publish_date": "2025-12-13",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7405634388958269440",
+      "urn": "7405634388958269440"
+    },
+    {
+      "impressions": 12,
+      "publish_date": "2025-12-01",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7401254746638032896",
+      "urn": "7401254746638032896"
+    },
+    {
+      "impressions": 7,
+      "publish_date": "2025-11-05",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7391824488650420226",
+      "urn": "7391824488650420226"
+    },
+    {
+      "impressions": 6,
+      "publish_date": "2025-11-18",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7396497019093139456",
+      "urn": "7396497019093139456"
+    },
+    {
+      "impressions": 3,
+      "publish_date": "2025-01-21",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7287491345185701888",
+      "urn": "7287491345185701888"
+    },
+    {
+      "impressions": 3,
+      "publish_date": "2025-06-12",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7338932432080957441",
+      "urn": "7338932432080957441"
+    },
+    {
+      "impressions": 2,
+      "publish_date": "2025-10-22",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7386775694116167680",
+      "urn": "7386775694116167680"
+    },
+    {
+      "impressions": 2,
+      "publish_date": "2025-10-20",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7386004278496378881",
+      "urn": "7386004278496378881"
+    },
+    {
+      "impressions": 1,
+      "publish_date": "2025-09-10",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7371432250846117888",
+      "urn": "7371432250846117888"
+    }
+  ],
+  "source_file": "Content_2026-05-06_2026-05-12_PaulRoulleau.xlsx",
+  "window_end": "2026-05-12",
+  "window_start": "2026-05-06"
+}
