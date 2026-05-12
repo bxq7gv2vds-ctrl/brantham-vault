@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Brantham — Casino · Cover article</title>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,300;6..72,400;6..72,500;6..72,600;6..72,700&display=swap" rel="stylesheet">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html, body { background:#cfcabb; }
+  body { padding:48px; display:flex; justify-content:center; }
+
+  .card {
+    width:1280px; height:720px; background:#EFEBE0; color:#1A1A1A;
+    font-family:'Newsreader', Georgia, 'Times New Roman', serif;
+    padding:64px 80px 56px; display:flex; flex-direction:column;
+    position:relative; overflow:hidden;
+  }
+
+  /* pyramide fantôme qui s'effondre, en filigrane à droite */
+  .ghost {
+    position:absolute; right:-60px; top:50%; transform:translateY(-50%);
+    display:flex; flex-direction:column; align-items:flex-end; gap:18px;
+    opacity:0.07; pointer-events:none;
+  }
+  .ghost span { display:block; height:30px; background:#1A1A1A; border-radius:2px; }
+  .ghost span:nth-child(1){ width:120px; }
+  .ghost span:nth-child(2){ width:200px; }
+  .ghost span:nth-child(3){ width:300px; }
+  .ghost span:nth-child(4){ width:420px; transform:rotate(-3deg); }
+  .ghost span:nth-child(5){ width:560px; transform:translateX(40px) rotate(-6deg); }
+  .ghost span:nth-child(6){ width:700px; transform:translateX(110px) rotate(-9deg); background:#7A1D17; }
+
+  /* kicker */
+  .kicker {
+    font-size:15px; letter-spacing:0.28em; text-transform:uppercase;
+    color:#7A1D17; font-weight:600; margin-bottom:auto;
+  }
+  .kicker .dot { color:#B0AA9A; margin:0 12px; }
+
+  /* headline */
+  .head { position:relative; z-index:2; max-width:880px; }
+  .big {
+    font-weight:700; font-size:118px; line-height:0.96; letter-spacing:-0.02em;
+    color:#7A1D17; font-variant-numeric:tabular-nums lining-nums;
+  }
+  .big .eur { font-weight:300; }
+  .sub {
+    margin-top:22px; font-weight:400; font-size:38px; line-height:1.22;
+    letter-spacing:-0.005em; color:#1A1A1A; max-width:760px;
+  }
+  .sub .strike {
+    position:relative; white-space:nowrap;
+  }
+  .sub .strike::after {
+    content:""; position:absolute; left:-2px; right:-2px; top:54%;
+    height:3px; background:#7A1D17; transform:rotate(-1.5deg);
+  }
+
+  /* timeline bas */
+  .tl { margin-top:auto; padding-top:34px; }
+  .tl-line { position:relative; height:1px; background:#C9C2B0; margin:0 4px; }
+  .tl-line .seg { position:absolute; left:0; right:0; top:0; height:1px; background:#1A1A1A; }
+  .tl-dot {
+    position:absolute; top:50%; width:9px; height:9px; border-radius:50%;
+    background:#EFEBE0; border:1.5px solid #1A1A1A; transform:translate(-50%,-50%);
+  }
+  .tl-dot.x { background:#7A1D17; border-color:#7A1D17; width:11px; height:11px; }
+  .tl-labels {
+    display:flex; justify-content:space-between; margin-top:14px;
+    font-size:15px; color:#5C594E;
+  }
+  .tl-labels b { color:#1A1A1A; font-weight:600; }
+  .tl-mid {
+    position:absolute; left:50%; transform:translateX(-50%);
+    font-size:15px; color:#7A1D17; font-weight:600; letter-spacing:0.02em;
+    top:-2px;
+  }
+
+  /* logo */
+  .brand {
+    position:absolute; bottom:30px; right:80px; z-index:3;
+    font-size:14px; letter-spacing:0.24em; text-transform:uppercase;
+    color:#857F71; font-weight:500;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+
+  <div class="ghost">
+    <span></span><span></span><span></span><span></span><span></span><span></span>
+  </div>
+
+  <div class="kicker">Étude de cas <span class="dot">/</span> Casino <span class="dot">/</span> 2023 — 2024</div>
+
+  <div class="head">
+    <div class="big">33&nbsp;Mds<span class="eur">&nbsp;€</span></div>
+    <div class="sub">de chiffre d'affaires ont changé de contrôle sans une seule action échangée sur <span class="strike">Euronext</span>.</div>
+  </div>
+
+  <div class="tl">
+    <div class="tl-line">
+      <div class="seg"></div>
+      <div class="tl-dot" style="left:0"></div>
+      <div class="tl-dot" style="left:32%"></div>
+      <div class="tl-dot" style="left:58%"></div>
+      <div class="tl-dot x" style="left:100%"></div>
+      <div class="tl-mid">6 mois</div>
+    </div>
+    <div class="tl-labels">
+      <span><b>25 oct. 2023</b> · ouverture de la procédure</span>
+      <span><b>27 mars 2024</b> · changement de contrôle</span>
+    </div>
+  </div>
+
+  <div class="brand">Brantham Partners</div>
+
+</div>
+</body>
+</html>

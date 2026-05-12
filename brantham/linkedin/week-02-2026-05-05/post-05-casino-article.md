@@ -24,7 +24,7 @@ visuels:
   - post-05-pyramide.png (pyramide de contrôle Naouri → Casino) — image de couverture
   - post-05-resultat.png (partage du capital 53 / 46 / 1) — inséré avant la section "Le résultat"
 ---
-
+	 
 # Post 05 · Article Casino (format long-form)
 
 > Dérivé du thread `post-05-casino-thread.md`. Même matière, même voix, réagencée en article LinkedIn natif : un titre, une image de couverture, un corps en sections. À publier depuis "Écrire un article" (pas un post de feed). Le terme « distressed M&A » n'apparaît qu'une fois, dans la dernière section. Brantham n'est pas nommé.
