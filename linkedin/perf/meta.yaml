@@ -1,0 +1,29 @@
+# Metadonnees posts LinkedIn -- remplis format/theme/hook pour enrichir l'analyse perf.
+# format: text | carousel | video | image | document | poll | repost
+# theme: ton vocabulaire (ex: m_and_a, ai, founder-journal, polymarket...)
+# hook: 1ere ligne ou type de hook (question, stat, contrarian, story...)
+
+'7458490134121021440':
+  title: ''
+  format: ''
+  theme: ''
+  hook: ''
+  url: https://www.linkedin.com/feed/update/urn:li:activity:7458490134121021440
+  publish_date: '2026-05-08'
+  impressions: 8410
+'7457829138050134016':
+  title: ''
+  format: ''
+  theme: ''
+  hook: ''
+  url: https://www.linkedin.com/feed/update/urn:li:activity:7457829138050134016
+  publish_date: '2026-05-06'
+  impressions: 678
+'7459936004074967041':
+  title: ''
+  format: ''
+  theme: ''
+  hook: ''
+  url: https://www.linkedin.com/feed/update/urn:li:activity:7459936004074967041
+  publish_date: '2026-05-12'
+  impressions: 163

@@ -23,6 +23,19 @@ Capture du feed LinkedIn via userscript Tampermonkey, parsing voyager JSON, scor
 - `reports/` — rapport quotidien (top reply targets, niche cartography)
 - `drafts/` — drafts de réponses générées
 - `_raw/` — payloads voyager bruts (debug, re-parse)
+- `perf/` — analyse de **tes propres** posts (objectif 1M impressions/mois) : `daily.json` (série temporelle impressions/engagements/followers), `post_windows.json`, `followers.json`, `demographics.json`, `exports/`, `meta.yaml` (format/thème par post à remplir), `reports/*-content-perf.md`
+
+## Analyse de ses propres posts — objectif 1M impressions/mois
+
+Ingérer les exports XLSX d'analytics LinkedIn (page Analytics → Export, hebdo) :
+
+```bash
+uv run python -m analyzer.cli perf-ingest ~/Downloads/Content_<dates>_<nom>.xlsx
+uv run python -m analyzer.cli perf          # vue console : run rate, leaderboard, cadence, recos
+uv run python -m analyzer.cli perf-report   # -> perf/reports/YYYY-MM-DD-content-perf.md
+```
+
+Module : `analyzer/content_perf.py`. Remplir `perf/meta.yaml` ({urn: {title, format, theme, hook}}) pour corréler reach × format/thème.
 
 ## Commandes
 
