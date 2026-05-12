@@ -68,7 +68,7 @@ Pour comprendre, il faut une question simple : comment dilue-t-on à 99 % un act
 
 Avant 2021, on ne pouvait pas. Un plan de restructuration devait être approuvé par l'assemblée générale des actionnaires, et à l'assemblée, ce sont les droits de vote qui décident. Avec 63 % des votes, Naouri avait un veto absolu, quoi qu'en pensent les créanciers.
 
-En 2021, la France transpose une directive européenne sur l'insolvabilité. Un mécanisme nouveau entre dans le Code de commerce : le vote par classes de parties affectées. Les créanciers et les actionnaires sont répartis en classes selon leur rang juridique — banques, obligataires senior, porteurs de titres hybrides, fournisseurs, actionnaires — et chaque classe vote séparément. Si une majorité de classes approuve le plan, il s'impose aux classes dissidentes. Y compris à celle des actionnaires.
+En 2021, la France transpose une directive européenne sur l'insolvabilité. Un mécanisme nouveau entre dans le Code de commerce : le vote par classes de parties affectées. Les créanciers et les actionnaires sont répartis en classes selon leur rang juridique (banques, obligataires senior, porteurs de titres hybrides, fournisseurs, actionnaires) et chaque classe vote séparément. Si une majorité de classes approuve le plan, il s'impose aux classes dissidentes. Y compris à celle des actionnaires.
 
 À partir de là, Naouri n'est plus une majorité qui décide. Il est une classe parmi d'autres. Son veto a disparu. C'est ce changement, technique et passé presque inaperçu, qui a rendu l'opération Casino possible.
 
