@@ -44,6 +44,8 @@ Bonus utile si dispo :
 <!-- Ajouter une ligne par rapport : [[reports/YYYY-MM-DD-point]] — avg pos X.X → Y.Y -->
 - 2026-05-12 — [[brantham/seo/reports/2026-05-12-point-01|Point #1 baseline]] — position France **13.3** (global ~10.5), 333 clics / 15.8k impr / 90j. Breakout cluster transport. Prochain : 2026-05-15.
 - 2026-05-12 — [[brantham/seo/reports/2026-05-12-actions-batch-01|Batch actions #1]] — fix www→non-www (vercel.json), de-orphaning 21 pages (section maillage sur rachat-entreprise-difficulte), suppression page cassée rachat-entreprise-0, nettoyage robots/sitemap. Non déployé.
+- 2026-05-12 — [[brantham/seo/reverse-engineering-pourquoi-pas-premier|Reverse engineering]] — pourquoi pas #1 : domaine 2 mois + 0 backlink + pages villes programmatiques + pas de fraîcheur. On-page déjà bon. Plan Tier 1 (codable) / Tier 2 (contenu) / Tier 3 (off-page = goulot).
+- 2026-05-12 — Batch actions #2 — bloc fraîcheur "mai 2026" + maillage régional + lastmod/priorité bumpés sur rachat-transport-logistique-redressement.html (cluster breakout). Non déployé.
 
 ## Related
 - [[brantham/_MOC]]
