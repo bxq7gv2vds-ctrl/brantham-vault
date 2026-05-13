@@ -4,47 +4,66 @@ deal: open-bee-france
 repreneur: efalia
 document: email-couverture-pack
 created: 2026-05-13
+updated: 2026-05-13
 ---
 
 # Email de couverture du pack documentaire
 
 ## Envoi à Pascal Charrier, PDG Efalia
 
+> Cet email est structuré pour répondre point par point aux engagements pris dans l'échange du 13 mai 2026 : calendrier de procédure, modalités du process de reprise, documents disponibles, et matériaux préparatoires au call de cadrage (présentation détaillée + modalités de collaboration).
+
 ---
 
 ## Sujet
 
-Pack d'information process de reprise — Open Bee France
+Open Bee France — Pack d'information process de reprise
 
 ## Corps du message
 
 Bonjour Monsieur Charrier,
 
-En complément du mandat de représentation transmis ce matin, je vous adresse un pack documentaire qui vous permettra d'appréhender le format de la reprise distressed et les jalons opérationnels du dossier Open Bee France.
+Je reviens vers vous comme promis avec le pack documentaire qui vous permettra d'appréhender complètement le format de la reprise distressed et les jalons opérationnels du dossier Open Bee France.
 
-Ce pack comprend trois documents méthodologiques et un calendrier personnalisé :
+Conformément à mon précédent message, ce pack couvre quatre volets :
 
-1. **Comprendre une reprise en plan de cession** : mémo pédagogique présentant le mécanisme du plan de cession, ses différences avec une acquisition classique, les critères d'arbitrage du tribunal et les étapes types du process.
+**1. Le calendrier de la procédure**
 
-2. **Foire aux questions** : quinze questions courantes sur la reprise en redressement judiciaire (passif, salariés, contrats, financement, fiscalité, audience d'arbitrage, post-closing).
+Un rétro-planning détaillé reconstruit à partir de la date limite de dépôt des offres du 3 juin 2026, jusqu'au closing prévu en juillet ou août. Vous y trouverez la séquence semaine par semaine, les étapes clés, et les jalons d'engagement attendus côté Efalia.
 
-3. **Check-list repreneur** : éléments à préparer côté Efalia, structurés par phase, depuis l'ouverture du dossier jusqu'au closing.
+**2. Les modalités du process de reprise**
 
-4. **Calendrier indicatif du process** : rétro-planning détaillé jusqu'au dépôt d'offre du 3 juin, puis jusqu'au closing prévu en juillet ou août 2026.
+Trois documents méthodologiques qui couvrent l'intégralité du format :
 
-Quelques points méritent d'être soulignés dès à présent :
+- Un mémo pédagogique « Comprendre une reprise en plan de cession » qui présente le mécanisme, ses différences avec une acquisition classique, les critères d'arbitrage du tribunal et les étapes du process
+- Une foire aux questions de quinze entrées sur les sujets les plus fréquents (passif antérieur, salariés, contrats, prix, fiscalité, audience d'arbitrage, post-closing)
+- Une check-list des éléments à préparer côté repreneur, structurée par phase, depuis l'ouverture du dossier jusqu'au plan des 100 jours post-reprise
 
-- Le **passif antérieur n'est pas repris** par Efalia. Le repreneur sélectionne les actifs, contrats et salariés qu'il souhaite reprendre. Le périmètre est homologué par jugement, ce qui assure une sécurité juridique opposable à tous les tiers.
-- Le **prix d'offre** n'est qu'un des critères d'arbitrage. La crédibilité du projet industriel, le maintien de l'emploi et la solidité financière du repreneur pèsent au moins autant.
-- Le **rythme du process** est court (environ trois semaines entre signature de mandat et dépôt d'offre) mais cadré. Une cellule projet réduite côté Efalia permettra de tenir le calendrier sereinement.
+**3. Les documents disponibles**
 
-Une fois le mandat signé et la liasse fiscale du dernier exercice clos transmise, nous pourrons :
+Un index complet de l'information accessible à Efalia : documents transmis dès aujourd'hui, documents Brantham mis à disposition après extension du NDA, contenu attendu de la data room ouverte par l'administrateur judiciaire, et liste des éléments que nous solliciterons en retour pour instruire le dossier.
 
-- engager l'extension du NDA auprès de Me Labis ;
-- ouvrir l'accès complet à la data room sous 48 à 72 heures ;
-- programmer un call de cadrage stratégique de 90 minutes à votre convenance, durant lequel je vous présenterai en détail le périmètre cible, les options de scenarii, et les premiers angles de construction d'offre.
+**4. Présentation détaillée de l'opportunité et modalités de collaboration**
 
-Je reste évidemment disponible par téléphone si vous souhaitez échanger en amont sur l'un des points du pack.
+Deux documents préparatoires au call de cadrage stratégique que nous évoquions ensemble :
+
+- Une présentation détaillée de l'opportunité Open Bee France, avec les angles de convergence stratégique avec votre positionnement et plusieurs scenarii de reprise envisageables
+- Une note synthétique sur les modalités de collaboration Brantham Partners, qui constituera le support de discussion économique du call de cadrage. La lettre de mission formelle sera adressée à l'issue de cet échange, après alignement sur les conditions.
+
+Quelques points méritent d'être soulignés dès à présent, pour cadrer votre lecture :
+
+- Le **passif antérieur n'est pas repris** par le repreneur. Le périmètre exact (actifs, contrats, salariés) est choisi par Efalia et homologué par le tribunal, ce qui assure une sécurité juridique opposable à tous les tiers.
+- Le **prix d'offre** n'est qu'un des critères d'arbitrage. La crédibilité du projet industriel, le maintien de l'emploi et la solidité financière du repreneur pèsent au moins autant. Sur ce dossier, le positionnement d'Efalia constitue un atout industriel naturel.
+- Le **calendrier est cadencé** : moins de quatre semaines entre la signature du mandat et le dépôt d'offre du 3 juin. Le pack documentaire est construit pour que vous puissiez avancer sereinement dans ce timing.
+
+Pour engager les étapes suivantes, nous avons besoin :
+
+- du mandat de représentation signé (que je vous ai transmis ce matin) ;
+- de la liasse fiscale du dernier exercice clos d'Efalia.
+
+À réception de ces deux éléments, j'engagerai immédiatement l'extension du NDA auprès de Maître Labis, administrateur judiciaire, et je vous proposerai trois créneaux pour le call de cadrage stratégique de 90 minutes.
+
+Je reste évidemment disponible par téléphone si vous souhaitez échanger en amont sur l'un des éléments du pack, ou si vous préférez un premier échange court avant signature.
 
 Bien cordialement,
 
@@ -56,26 +75,39 @@ T +33 7 68 35 25 63
 paul.roulleau@branthampartners.fr
 
 *Brantham Partners SAS — RCS Paris 101 953 891 — Siège : 59 rue de Ponthieu, 75008 Paris*
-*Ce message et ses pièces jointes sont strictement confidentiels et à l'attention exclusive de son destinataire.*
+*Ce message et ses pièces jointes sont strictement confidentiels et à l'attention exclusive de son destinataire. Toute utilisation, diffusion ou reproduction non autorisée est interdite.*
 
 ---
 
-## Pièces jointes recommandées (PDF générés depuis les .md)
+## Pièces jointes (7 PDF générés depuis les .md)
 
-1. `process-docs/01-memo-comprendre-plan-de-cession.pdf`
-2. `process-docs/02-faq-reprise-distressed.pdf`
-3. `process-docs/03-checklist-repreneur.pdf`
-4. `repreneurs/efalia/01-calendrier-process.pdf`
+1. `01-calendrier-process.pdf` — Calendrier indicatif du process
+2. `02-memo-comprendre-plan-de-cession.pdf` — Mémo pédagogique
+3. `03-faq-reprise-distressed.pdf` — FAQ 15 questions
+4. `04-checklist-repreneur.pdf` — Check-list par phase
+5. `05-presentation-opportunite-open-bee.pdf` — Présentation détaillée de l'opportunité
+6. `06-modalites-collaboration-brantham.pdf` — Modalités de collaboration
+7. `07-index-documents-disponibles.pdf` — Index des documents disponibles
 
-## Conseil d'envoi
+## Conseils d'envoi et timing
 
-Privilégier un envoi en une seule fois, **après réception du mandat signé** par Charrier, pour valoriser le pack comme contrepartie immédiate de son engagement. Cela installe un rythme de réciprocité professionnelle.
+**Quand envoyer** : idéalement après réception du mandat signé et de la liasse fiscale. Cela installe la réciprocité professionnelle (il s'engage, on lui livre une valeur immédiate).
 
-Si Charrier tarde à renvoyer le mandat, ne pas envoyer le pack en relance simple ; envoyer plutôt un message court de relance polie sous 72h, puis le pack au moment où il signe.
+**Variante envoi anticipé** : si tu juges que Charrier traîne sur le mandat ou a besoin d'être rassuré pour signer, envoie le pack sans la note `06-modalites-collaboration-brantham.pdf` (qui contient les chiffres). Tu gardes la note modalités pour le moment de la signature du mandat ou le call de cadrage. Cela évite d'effrayer sur les honoraires avant qu'il soit accroché stratégiquement.
+
+**À valider avant envoi** :
+
+- [ ] Montants Phase 1 / Phase 2 / Success fee dans `06-modalites-collaboration-brantham.md`
+- [ ] Nom complet de Soren dans `06-modalites-collaboration-brantham.md` section équipe
+- [ ] Vérifier qu'on est OK pour communiquer la fourchette indicative de prix (450k-1,08M€) dans `05-presentation-opportunite-open-bee.md`
+- [ ] Confirmer le nom du fichier Kbis Brantham à joindre éventuellement en signature de crédibilité
 
 ## Related
 
 - [[01-calendrier-process]]
+- [[03-presentation-opportunite-open-bee]]
+- [[04-modalites-collaboration-brantham]]
+- [[05-index-documents-disponibles]]
 - [[../../process-docs/01-memo-comprendre-plan-de-cession]]
 - [[../../process-docs/02-faq-reprise-distressed]]
 - [[../../process-docs/03-checklist-repreneur]]
