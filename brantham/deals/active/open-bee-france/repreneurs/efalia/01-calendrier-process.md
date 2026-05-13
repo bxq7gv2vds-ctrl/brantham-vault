@@ -145,27 +145,6 @@ La Phase 2 fait l'objet d'un engagement et de modalités économiques propres, d
 
 Cette cellule se réunit en point hebdomadaire pendant la phase d'analyse, puis en point rapproché pendant la construction de l'offre.
 
-## Synthèse visuelle
-
-```
-J0                  S+1               S+2               S+3        S+3/S+4
-│                    │                 │                 │              │
-├── Étape 1 ────────┤                 │                 │              │
-│   Cadrage          │                 │                 │              │
-│   data room ouverte                  │                 │              │
-│                    ├── Étape 2 ─────────────────────┤                │
-│                    │   Analyse de la cible            │              │
-│                    │   six axes en parallèle          │              │
-│                                                       ├── Étape 3 ──┤
-│                                                       │   Offre      │
-│                                                       │   rédigée    │
-│                                                                      ├── Étape 4
-│                                                                      │   Dépôt
-│                                                                      │   formel
-└───────────────────────────────────────────────────────────────────── ┘
-                    Phase 1 du process — 3 à 4 semaines
-```
-
 ---
 
 *Document confidentiel. Brantham Partners SAS, RCS Paris 101 953 891. Le présent calendrier est indicatif et sera précisé en fonction des dates effectives fixées par le tribunal et l'administrateur judiciaire.*
