@@ -23,12 +23,15 @@ meme:
   alt_files:
     - vautour-split/vautour-split-v5a.jpg
     - vautour-split/vautour-split-v5c.jpg
-chiffres_a_verifier:
-  - "Frank & Sudarshan, AER 2024 — ~500 000 morts humaines en Inde post-disparition vautours"
-  - "France 2024 : 45 000 entreprises liquidées (Conseil National des AJ)"
-  - "280 000 emplois détruits (BPI)"
-  - "12 000 emplois sauvés via M&A distressed (estimation)"
-  - "Ratios 5/15/5/75% RJ (vérifier INSEE)"
+chiffres_sourcés:
+  - "Frank & Sudarshan, AER 2024 — ~500 000 morts humaines en Inde post-disparition vautours (à vérifier ordre de grandeur exact)"
+  - "France 2025 : 69 957 défaillances (Altares, record absolu)"
+  - "47 078 liquidations judiciaires directes (67%) — Altares"
+  - "21 336 redressements judiciaires (30%) — Altares"
+  - "1 543 sauvegardes (2%) — Altares"
+  - "267 200 emplois menacés en 2025 — Altares"
+  - "~6 000 plans de cession (30% des RJ aboutissent à cession) — estimation Brantham/Altares"
+  - Source vault : "[[brantham/knowledge/market/stats-defaillances-2025]]"
 crédits_image:
   - "Vautour : Gyps fulvus in flight, Spain — Wikimedia Commons (CC BY-SA, à créditer auteur exact)"
   - "Repreneur : Unsplash photo-1507679799987-c73779587ccf"
