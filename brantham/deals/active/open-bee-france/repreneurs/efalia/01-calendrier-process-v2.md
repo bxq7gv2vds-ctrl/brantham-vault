@@ -112,7 +112,7 @@ L'offre est ensuite rédigée conformément aux neuf mentions obligatoires de l'
 
 ## Étape 4. Dépôt formel de l'offre
 
-> **Fin S+3 ou début S+4 — Déposer dans les délais et le formalisme attendus.**
+> **Fin S+3 ou début S+4. Déposer dans les délais et le formalisme attendus.**
 
 Le dépôt est assuré physiquement ou électroniquement auprès de l'administrateur judiciaire, accompagné de l'ensemble des annexes. Le récépissé de dépôt et la confirmation d'inscription au dossier de procédure sont obtenus dans la foulée. L'administrateur judiciaire informe ensuite Brantham Partners du nombre et de la nature des offres concurrentes déposées.
 
