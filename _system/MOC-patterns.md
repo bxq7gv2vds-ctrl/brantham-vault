@@ -67,3 +67,4 @@ Reusable technical patterns. Check here before solving a problem.
 | **Todo Manager Auto + Manuel** | **productivity/todos** | **[[brantham/patterns/todos-manager-suggestions-auto-plus-manuel]]** |
 | **Mayday Mag Detail Parsing** | **scraping/aj** | **[[brantham/patterns/mayday-mag-detail-parsing]]** |
 | **Data Room PageIndex** | **rag/data-room** | **[[brantham/patterns/data-room-pageindex]]** |
+| **OSINT Deanon Cession Anonyme** | **osint/intel** | **[[brantham/patterns/osint-deanon-cession-anonyme]]** |
