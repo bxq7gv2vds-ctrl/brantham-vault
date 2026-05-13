@@ -90,9 +90,9 @@ Pendant que la France débat de la moralité du métier, 47 000 entreprises sont
 Sans vautour, la savane pourrit.
 Sans repreneur, l'entreprise meurt. Et les emplois aussi.
 
-Le vautour, en Inde, est aujourd'hui espèce protégée. Le repreneur PME, en France, attend toujours.
+Le vautour, en Inde, est aujourd'hui une espèce protégée. Le repreneur PME, en France, attend toujours.
 
-Si vous êtes repreneur ou dirigeant d'une PME en difficulté, c'est exactement ce qu'on accompagne chez Brantham Partners.
+Si vous dirigez une entreprise qui regarde la croissance externe, le distressed est un terrain massif et sous-exploité. C'est exactement ce qu'on accompagne chez Brantham Partners.
 ```
 
 ## Premier commentaire (sources)
