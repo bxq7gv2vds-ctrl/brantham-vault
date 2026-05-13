@@ -14,7 +14,6 @@ updated: 2026-05-13
 
 *Brantham Partners, Conseil en M&A distressed*
 
----
 
 ## Lecture du calendrier
 
@@ -29,7 +28,6 @@ Les jalons sont exprimés en **semaines relatives** par rapport au point de dép
 | Engagement du repreneur | **Forfait ferme et défini** |
 | Suite éventuelle | **Phase 2 traitée séparément** |
 
----
 
 ## Vue d'ensemble en quatre étapes
 
@@ -40,7 +38,6 @@ Les jalons sont exprimés en **semaines relatives** par rapport au point de dép
 | 3 | Construction et rédaction de l'offre | S+3 | Projet d'offre validé par le repreneur |
 | 4 | Dépôt formel de l'offre | Fin S+3 ou début S+4 | Récépissé de dépôt de l'AJ |
 
----
 
 ## Étape 1. Cadrage et ouverture du dossier
 
@@ -56,7 +53,6 @@ Les jalons sont exprimés en **semaines relatives** par rapport au point de dép
 
 **Le call de cadrage stratégique.** Un échange de 90 minutes est organisé entre le dirigeant repreneur et l'équipe Brantham Partners pour préciser la thèse industrielle, identifier les points de vigilance prioritaires et constituer la cellule projet côté repreneur.
 
----
 
 ## Étape 2. Analyse approfondie de la cible
 
@@ -79,7 +75,6 @@ L'analyse se déroule en parallèle sur six axes complémentaires, qui couvrent 
 
 **Cadence de validation.** Un point hebdomadaire est tenu avec la cellule projet du repreneur, pour valider les arbitrages au fil de la maîtrise du dossier.
 
----
 
 ## Étape 3. Construction et rédaction de l'offre
 
@@ -104,7 +99,6 @@ L'analyse se déroule en parallèle sur six axes complémentaires, qui couvrent 
 
 **Le point de validation final.** Une réunion de validation est tenue avec le repreneur, idéalement à J-3 du dépôt, en présence de ses conseils juridiques et financiers.
 
----
 
 ## Étape 4. Dépôt formel de l'offre
 
@@ -120,7 +114,6 @@ L'analyse se déroule en parallèle sur six axes complémentaires, qui couvrent 
 
 **L'information sur la concurrence.** L'administrateur judiciaire informe Brantham Partners du nombre et de la nature des offres concurrentes déposées.
 
----
 
 ## Et après le dépôt
 
@@ -135,7 +128,6 @@ Une **Phase 2** distincte peut alors être engagée conjointement, si le reprene
 
 La Phase 2 fait l'objet d'un engagement et de modalités économiques propres, décidés conjointement à l'issue de la Phase 1, en pleine connaissance du dossier et du paysage concurrentiel.
 
----
 
 ## Points d'attention
 
@@ -147,7 +139,6 @@ La Phase 2 fait l'objet d'un engagement et de modalités économiques propres, d
 
 **Première offre, pas offre finale.** La date d'offre initiale n'est que la première étape. Une short-list est généralement constituée par l'AJ, suivie d'une amélioration des offres avant arbitrage. La bonne pratique consiste à prendre date avec une **offre initiale à prix mesuré et périmètre contenu**, assortie de conditions suspensives raisonnables, plutôt qu'à jouer son meilleur prix dès le premier tour.
 
----
 
 ## Cellule projet recommandée côté repreneur
 
@@ -161,7 +152,6 @@ La Phase 2 fait l'objet d'un engagement et de modalités économiques propres, d
 
 Cette cellule se réunit en point hebdomadaire pendant la phase d'analyse, puis en point rapproché pendant la construction de l'offre.
 
----
 
 *Document confidentiel. Brantham Partners SAS, RCS Paris 101 953 891. Le présent calendrier est indicatif et sera précisé en fonction des dates effectives fixées par le tribunal et l'administrateur judiciaire.*
 
