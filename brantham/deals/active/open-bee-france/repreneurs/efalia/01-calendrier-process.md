@@ -76,7 +76,7 @@ Les jalons sont exprimés en **semaines relatives** par rapport au point de dép
 
 **Livrable de fin d'étape :** synthèse analytique complète, identification des points de vigilance, premier projet de périmètre cible soumis à validation du repreneur.
 
-## Étape 3 — Construction et rédaction de l'offre
+## Étape 3. Construction et rédaction de l'offre
 
 **Durée indicative : S+3**
 
