@@ -3,11 +3,12 @@ type: process-doc
 deal: open-bee-france
 repreneur: efalia
 document: calendrier-pedagogique
+scope: phase-1-jusqu-au-depot-offre-initiale
 created: 2026-05-13
 updated: 2026-05-13
 ---
 
-# Calendrier indicatif du process de reprise
+# Calendrier indicatif jusqu'au dépôt de l'offre initiale
 
 ## Dossier confidentiel à destination du repreneur
 
@@ -17,84 +18,85 @@ updated: 2026-05-13
 
 ## Lecture du calendrier
 
-Ce calendrier est construit en **jalons relatifs** par rapport au point de départ du process pour le repreneur (J0 = signature du mandat de représentation et accès au dossier).
+Ce calendrier couvre la **première phase du process de reprise**, du démarrage de la mission jusqu'au dépôt formel de l'offre initiale auprès de l'administrateur judiciaire. Il correspond à l'engagement initial du repreneur.
 
-Une seule date est fixée par le tribunal et **s'impose à tous** : la date limite de dépôt des offres de reprise. Toutes les autres échéances sont calibrées en rétro-planning à partir de cette date butoir.
+Les jalons sont exprimés en **semaines relatives** par rapport au point de départ effectif (J0 = signature du mandat de représentation et accès au dossier). Une seule date est imposée par le tribunal et s'impose à tous : la **date limite de dépôt des offres de reprise**. Tous les autres jalons sont calibrés en rétro-planning à partir de cette échéance.
 
 | Donnée | Statut |
 |---|---|
 | Date limite de dépôt des offres | **Imposée par le tribunal** |
-| Durée totale du process (J0 jusqu'au closing) | **8 à 10 semaines** typiques |
-| Engagement initial du repreneur | **Phase 1 uniquement** (3 à 4 semaines) |
+| Durée typique de la Phase 1 | **3 à 4 semaines** |
+| Engagement du repreneur sur cette phase | **Forfait ferme et défini** |
+| Suite éventuelle | **Phase 2 (audience, jugement, closing) traitée séparément** |
 
-## Vue d'ensemble
+## Vue d'ensemble en quatre étapes
 
-Le process de reprise se déroule en **six phases** clairement séquencées. Chaque phase a un livrable défini et un point de validation conjoint avec le repreneur.
+| Étape | Intitulé | Durée indicative | Livrable |
+|---|---|---|---|
+| 1 | Cadrage et ouverture du dossier | Semaine S0 | Accès complet à la data room |
+| 2 | Analyse approfondie de la cible | S+1 à S+2 | Synthèse analytique et premier projet de périmètre |
+| 3 | Construction et rédaction de l'offre | S+3 | Projet d'offre validé par le repreneur |
+| 4 | Dépôt formel de l'offre | Fin S+3 ou début S+4 | Récépissé de dépôt de l'AJ |
 
-| Phase | Intitulé | Durée indicative |
-|---|---|---|
-| 1 | Cadrage et ouverture du dossier | Semaine S0 |
-| 2 | Analyse approfondie de la cible | S+1 à S+2 |
-| 3 | Construction et rédaction de l'offre | S+3 |
-| 4 | Dépôt formel de l'offre | Fin S+3 ou début S+4 |
-| 5 | Audience d'arbitrage des offres | S+4 à S+6 |
-| 6 | Jugement, closing et entrée en jouissance | S+6 à S+10 |
-
-## Phase 1 — Cadrage et ouverture du dossier
+## Étape 1 — Cadrage et ouverture du dossier
 
 **Durée indicative : Semaine S0**
 
-**Objectif :** poser les fondations du dossier et accéder à l'information confidentielle.
+**Objectif :** poser les fondations du dossier et accéder à l'information confidentielle de la cible.
 
 **Actions clés :**
 
 - Signature du mandat de représentation entre le repreneur et Brantham Partners
 - Transmission de la liasse fiscale du dernier exercice clos du repreneur
 - Extension du NDA auprès de l'administrateur judiciaire
-- Ouverture de l'accès complet à la data room
+- Ouverture de l'accès complet à la data room sous 48 à 72 heures après réception du NDA signé
 - Call de cadrage stratégique de 90 minutes entre le repreneur et Brantham Partners
+- Constitution de la cellule projet côté repreneur
 
-**Livrable :** dossier d'accès ouvert, périmètre d'analyse cadré, équipe projet constituée.
+**Livrable de fin d'étape :** dossier d'accès ouvert, périmètre d'analyse cadré, équipe projet constituée et opérationnelle.
 
-## Phase 2 — Analyse approfondie de la cible
+## Étape 2 — Analyse approfondie de la cible
 
 **Durée indicative : S+1 à S+2**
 
-**Objectif :** maîtriser intégralement les données financières, sociales, contractuelles et techniques de la cible pour construire une offre crédible.
+**Objectif :** maîtriser intégralement les données financières, sociales, contractuelles et techniques de la cible pour construire une offre crédible et bien calibrée.
 
-**Travaux menés en parallèle :**
+**Travaux menés en parallèle sur six axes :**
 
 | Axe d'analyse | Contenu |
 |---|---|
 | Comptable et financier | Comptes des trois derniers exercices, retraitements, situation intermédiaire |
-| Social | Effectifs, contrats de travail, accords collectifs, contentieux prud'homaux |
-| Contractuel | Contrats clients top 20, partenaires de distribution, fournisseurs critiques, baux |
-| Fiscal | TVA, IS, contentieux fiscaux antérieurs |
-| Technique et propriété intellectuelle | Marques, brevets, code source, licences, agréments |
-| Passif | État du passif déclaré au mandataire judiciaire |
+| Social | Effectifs, contrats de travail, accords collectifs, contentieux prud'homaux, accords de procédure |
+| Contractuel | Contrats clients clés, partenaires de distribution, fournisseurs critiques, baux commerciaux |
+| Fiscal | TVA, IS, contentieux fiscaux antérieurs, droits d'enregistrement applicables |
+| Technique et propriété intellectuelle | Marques, brevets, code source, licences, agréments réglementaires, certifications |
+| Passif déclaré | État du passif déclaré au mandataire judiciaire, créances privilégiées, nantissements |
 
-**Livrable :** synthèse analytique complète, identification des points de vigilance, premier projet de périmètre cible.
+**Réunions de point d'étape :** un point hebdomadaire avec la cellule projet du repreneur, pour valider les arbitrages au fil de la maîtrise du dossier.
 
-## Phase 3 — Construction et rédaction de l'offre
+**Livrable de fin d'étape :** synthèse analytique complète, identification des points de vigilance, premier projet de périmètre cible soumis à validation du repreneur.
+
+## Étape 3 — Construction et rédaction de l'offre
 
 **Durée indicative : S+3**
 
-**Objectif :** transformer l'analyse en projet industriel chiffré et opposable.
+**Objectif :** transformer l'analyse en projet industriel chiffré et juridiquement opposable, conforme aux exigences de l'article L.642-2 du Code de commerce.
 
 **Composantes de l'offre :**
 
-- Définition du périmètre repris (actifs, contrats, salariés)
-- Construction du prix d'offre et du plan de financement
+- Définition précise du périmètre repris : actifs, contrats, salariés
+- Construction du prix d'offre et du plan de financement détaillé
 - Rédaction du projet industriel et plan de développement à 24 mois
 - Définition du plan social et des engagements de maintien d'emploi
-- Préparation des annexes (Kbis, comptes, attestation bancaire, statuts)
-- Rédaction de l'offre conforme à l'article L.642-2 du Code de commerce
+- Préparation des annexes : Kbis, comptes du repreneur, attestation bancaire, statuts, organigramme
+- Rédaction de l'offre selon les neuf mentions obligatoires de l'article L.642-2
+- Attestation sur l'honneur prévue à l'article L.642-3
 
-**Validation conjointe :** réunion de validation de l'offre avec le repreneur en amont du dépôt.
+**Point de validation conjoint :** réunion de validation finale de l'offre avec le repreneur, idéalement à J-3 du dépôt, en présence des conseils juridiques et financiers du repreneur.
 
-**Livrable :** projet d'offre signé par le mandataire social du repreneur, prêt au dépôt.
+**Livrable de fin d'étape :** projet d'offre signé par le mandataire social du repreneur, prêt à être déposé.
 
-## Phase 4 — Dépôt formel de l'offre
+## Étape 4 — Dépôt formel de l'offre
 
 **Durée indicative : fin S+3 ou début S+4, avant l'heure limite imposée par le tribunal**
 
@@ -102,46 +104,24 @@ Le process de reprise se déroule en **six phases** clairement séquencées. Cha
 
 **Actions :**
 
-- Dépôt physique ou électronique auprès de l'administrateur judiciaire
-- Confirmation de réception et inscription au dossier de procédure
-- Information du repreneur sur le nombre et la nature des offres concurrentes
+- Dépôt physique ou électronique auprès de l'administrateur judiciaire, accompagné de l'ensemble des annexes
+- Obtention du récépissé de dépôt et confirmation de l'inscription au dossier de procédure
+- Information du repreneur sur le nombre et la nature des offres concurrentes annoncées par l'AJ
 
-**Livrable :** récépissé de dépôt et accusé de prise en compte par l'AJ.
+**Livrable de fin d'étape :** récépissé de dépôt et accusé formel de prise en compte par l'AJ.
 
-## Phase 5 — Audience d'arbitrage des offres
+## Et après le dépôt
 
-**Durée indicative : S+4 à S+6**
+Le dépôt de l'offre initiale marque la **fin de la Phase 1** et la fin de l'engagement initial du repreneur sur la mission.
 
-**Objectif :** présenter et défendre l'offre devant le tribunal, en concurrence avec les autres candidats.
+Une **Phase 2** distincte peut alors être engagée conjointement, si le repreneur souhaite poursuivre. Elle couvre :
 
-**Préparation :**
+- l'analyse des offres concurrentes et la construction du tableau comparatif ;
+- l'amélioration éventuelle de l'offre (possibilité légale jusqu'à 48 heures avant l'audience) ;
+- la préparation et la soutenance à l'audience d'arbitrage du tribunal ;
+- l'accompagnement jusqu'au jugement et au closing.
 
-- Consultation des offres concurrentes (au greffe ou via la synthèse AJ)
-- Construction du tableau comparatif des offres
-- Possibilité légale d'améliorer l'offre jusqu'à 48 heures avant l'audience (article R.642-1 du Code de commerce, modifications à la hausse uniquement)
-- Préparation du mémoire de présentation orale (10 à 15 minutes)
-- Anticipation des questions probables du tribunal et du parquet
-
-**Présence à l'audience :** dirigeant du repreneur, conseil avocat éventuel, équipe Brantham Partners.
-
-**Livrable :** soutenance orale, mémoire de présentation remis au tribunal.
-
-## Phase 6 — Jugement, closing et entrée en jouissance
-
-**Durée indicative : S+6 à S+10**
-
-**Objectif :** finaliser l'opération et engager la continuité opérationnelle.
-
-**Séquence :**
-
-| Étape | Délai indicatif |
-|---|---|
-| Jugement de cession rendu par le tribunal | Dans la foulée de l'audience ou sous huitaine |
-| Préparation des actes définitifs avec l'AJ | 2 à 3 semaines |
-| Closing : signature et paiement du prix | 15 à 30 jours après le jugement |
-| Entrée en jouissance et lancement du plan des 100 jours | À compter du closing |
-
-**Livrable :** acte de cession signé, transfert effectif des actifs, démarrage opérationnel.
+La Phase 2 fait l'objet d'un engagement et de modalités économiques propres, décidés conjointement à l'issue de la Phase 1, en pleine connaissance du dossier et du paysage concurrentiel.
 
 ## Points d'attention
 
@@ -151,25 +131,40 @@ Le process de reprise se déroule en **six phases** clairement séquencées. Cha
 
 **Date butoir non négociable.** La date limite de dépôt des offres fixée par le tribunal est ferme. Toute offre déposée hors délai est irrecevable.
 
-**Audience à date variable.** La date exacte de l'audience d'arbitrage est fixée par le tribunal après dépôt des offres. Elle nécessite une disponibilité ferme du dirigeant repreneur et de ses conseils.
+**Première offre, pas offre finale.** Conformément à la pratique de la procédure de plan de cession, la date d'offre initiale n'est que la première étape. Une short-list est généralement constituée par l'AJ, suivie d'une amélioration des offres avant arbitrage. La bonne pratique consiste donc à prendre date avec une **offre initiale à prix mesuré et périmètre contenu**, assortie de conditions suspensives raisonnables, plutôt qu'à jouer son meilleur prix dès le premier tour.
 
 ## Cellule projet recommandée côté repreneur
 
 | Rôle | Responsabilité |
 |---|---|
 | Sponsor exécutif | Décision finale sur le périmètre, le prix et les engagements |
-| Responsable financier | Construction du plan de financement, attestations bancaires |
-| Responsable opérationnel | Futur intégrateur de l'activité, plan des 100 jours |
-| Conseil juridique | Avocat en restructuring, revue des clauses de l'offre |
+| Responsable financier | Construction du plan de financement, attestation bancaire |
+| Responsable opérationnel | Futur intégrateur de l'activité, vision projet industriel |
+| Conseil juridique externe | Avocat en restructuring, revue des clauses de l'offre |
 | Coordinateur Brantham | Interface unique sur l'ensemble du process |
 
-Cette cellule se réunit en point hebdomadaire pendant la phase d'analyse et la construction de l'offre, puis en bi-hebdomadaire après dépôt.
+Cette cellule se réunit en point hebdomadaire pendant la phase d'analyse, puis en point rapproché pendant la construction de l'offre.
 
-## Engagement initial du repreneur
+## Synthèse visuelle
 
-L'engagement initial du repreneur porte **uniquement sur la Phase 1**, qui correspond au cadrage et à l'analyse du dossier. Le passage en Phase 2 (construction d'offre) est décidé conjointement à l'issue de la Phase 1, en pleine connaissance des éléments de la data room.
-
-Cette structuration en phases permet au repreneur de **réévaluer son engagement** au fil de la maîtrise progressive du dossier, sans engagement irrévocable dès la signature initiale.
+```
+J0                  S+1               S+2               S+3        S+3/S+4
+│                    │                 │                 │              │
+├── Étape 1 ────────┤                 │                 │              │
+│   Cadrage          │                 │                 │              │
+│   data room ouverte                  │                 │              │
+│                    ├── Étape 2 ─────────────────────┤                │
+│                    │   Analyse de la cible            │              │
+│                    │   six axes en parallèle          │              │
+│                                                       ├── Étape 3 ──┤
+│                                                       │   Offre      │
+│                                                       │   rédigée    │
+│                                                                      ├── Étape 4
+│                                                                      │   Dépôt
+│                                                                      │   formel
+└───────────────────────────────────────────────────────────────────── ┘
+                    Phase 1 du process — 3 à 4 semaines
+```
 
 ---
 
