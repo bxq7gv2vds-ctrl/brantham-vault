@@ -41,11 +41,9 @@ Les jalons sont exprimés en **semaines relatives** par rapport au point de dép
 
 ## Étape 1. Cadrage et ouverture du dossier
 
-| | |
-|---|---|
-| **Durée** | Semaine S0 |
-| **Objectif** | Poser les fondations du dossier, accéder à l'information confidentielle |
-| **Livrable** | Accès complet à la data room, équipe projet constituée |
+**Durée :** Semaine S0. **Livrable :** accès complet à la data room et équipe projet constituée.
+
+L'objectif de cette première étape est de poser les fondations du dossier et de permettre au repreneur d'accéder à l'information confidentielle de la cible.
 
 **Le démarrage.** La semaine S0 ouvre par la signature du mandat de représentation et la transmission, par le repreneur, de la liasse fiscale de son dernier exercice clos.
 
