@@ -67,7 +67,9 @@ Pas de vautours = carcasses non nettoyées = rage et bactéries dans les nappes 
 
 Le truc qu'on méprise nous protégeait tous.
 
-En France en 2024 : 45 000 entreprises liquidées. 280 000 emplois détruits. Le M&A distressed en a sauvé 12 000.
+En France en 2025 : 69 957 défaillances d'entreprises. Record absolu. 267 200 emplois menacés.
+
+47 078 liquidations sèches. Et seulement 21 336 redressements judiciaires, dont à peine 6 000 aboutissent à un plan de cession qui sauve les emplois.
 
 Et on appelle ça les vautours.
 
@@ -77,17 +79,13 @@ Je ne nie pas qu'il existe des prédateurs. Certains font de l'asset stripping p
 
 Mais ce narratif a contaminé tout le débat. Aujourd'hui, sauver une PME en redressement judiciaire est perçu comme moralement suspect.
 
-Le Code de Commerce prévoit 4 issues pour une PME en RJ :
-1. Continuation autonome (5%)
-2. Plan de continuation avec créanciers (15%)
-3. Plan de cession à un repreneur (5%)
-4. Liquidation pure (75%)
+Sur les 70 000 procédures de l'an dernier, 67 % sont parties en liquidation directe. Trop tard, plus rien à faire. Seulement 30 % en redressement, où une reprise est encore possible. Et 2 % en sauvegarde, anticipée.
 
 Le job d'un cabinet de M&A distressed honnête : transformer ces liquidations potentielles en plans de cession. Trouver le repreneur qui sauve les emplois quand le dirigeant n'en a plus la force.
 
 Le repreneur en plan de cession arrive avant la mort, pas après. Il garde les emplois, pas seulement les actifs. Il prend des risques personnels que les commentateurs ne prendront jamais.
 
-Pendant que la France débat de la moralité du métier, des PME viables continuent de mourir. Et personne ne compte ces morts-là.
+Pendant que la France débat de la moralité du métier, 47 000 entreprises sont mortes en silence l'an dernier. Et personne ne compte ces morts-là.
 
 Sans vautour, la savane pourrit.
 Sans repreneur, l'entreprise meurt. Et les emplois aussi.
