@@ -75,15 +75,11 @@ En parallèle, un call de cadrage stratégique de 90 minutes est organisé entre
 
 **Objectif :** transformer l'analyse en projet industriel chiffré et juridiquement opposable, conforme aux exigences de l'article L.642-2 du Code de commerce.
 
-**Composantes de l'offre :**
+Cette étape porte la construction de l'offre dans toutes ses dimensions. Le périmètre repris est défini précisément (actifs, contrats désignés nommément, salariés repris), le prix d'offre est arrêté en cohérence avec la trésorerie disponible et les charges augmentatives anticipées, et le plan de financement est documenté de manière détaillée.
 
-- Définition précise du périmètre repris : actifs, contrats, salariés
-- Construction du prix d'offre et du plan de financement détaillé
-- Rédaction du projet industriel et plan de développement à 24 mois
-- Définition du plan social et des engagements de maintien d'emploi
-- Préparation des annexes : Kbis, comptes du repreneur, attestation bancaire, statuts, organigramme
-- Rédaction de l'offre selon les neuf mentions obligatoires de l'article L.642-2
-- Attestation sur l'honneur prévue à l'article L.642-3
+Le projet industriel et le plan de développement à 24 mois sont rédigés pour démontrer la crédibilité économique de la reprise au tribunal. Le plan social précise les engagements de maintien d'emploi, qui pèsent fortement dans l'arbitrage. Les annexes obligatoires sont préparées et collectées : Kbis, comptes du repreneur, attestation bancaire, statuts, organigramme.
+
+L'offre est rédigée conformément aux neuf mentions obligatoires de l'article L.642-2 du Code de commerce, et accompagnée de l'attestation sur l'honneur prévue à l'article L.642-3.
 
 **Point de validation conjoint :** réunion de validation finale de l'offre avec le repreneur, idéalement à J-3 du dépôt, en présence des conseils juridiques et financiers du repreneur.
 
