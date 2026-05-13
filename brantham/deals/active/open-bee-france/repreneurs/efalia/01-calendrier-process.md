@@ -12,7 +12,7 @@ updated: 2026-05-13
 
 ## Dossier confidentiel à destination du repreneur
 
-*Brantham Partners — Conseil en M&A distressed*
+*Brantham Partners, Conseil en M&A distressed*
 
 ---
 
@@ -38,7 +38,7 @@ Les jalons sont exprimés en **semaines relatives** par rapport au point de dép
 | 3 | Construction et rédaction de l'offre | S+3 | Projet d'offre validé par le repreneur |
 | 4 | Dépôt formel de l'offre | Fin S+3 ou début S+4 | Récépissé de dépôt de l'AJ |
 
-## Étape 1 — Cadrage et ouverture du dossier
+## Étape 1. Cadrage et ouverture du dossier
 
 **Durée indicative : Semaine S0**
 
@@ -55,7 +55,7 @@ Les jalons sont exprimés en **semaines relatives** par rapport au point de dép
 
 **Livrable de fin d'étape :** dossier d'accès ouvert, périmètre d'analyse cadré, équipe projet constituée et opérationnelle.
 
-## Étape 2 — Analyse approfondie de la cible
+## Étape 2. Analyse approfondie de la cible
 
 **Durée indicative : S+1 à S+2**
 
