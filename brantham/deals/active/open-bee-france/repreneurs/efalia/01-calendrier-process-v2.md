@@ -48,7 +48,7 @@ Les jalons sont exprimés en **semaines relatives** par rapport au point de dép
 
 ## Étape 1. Cadrage et ouverture du dossier
 
-> **Semaine S0 — Poser les fondations du dossier.**
+> **Semaine S0. Poser les fondations du dossier.**
 
 La semaine S0 se déroule au rythme du repreneur. Elle démarre par la signature du mandat de représentation entre le repreneur et Brantham Partners, et par la transmission de la liasse fiscale du dernier exercice clos du repreneur. Ces deux éléments déclenchent immédiatement l'extension du NDA auprès de l'administrateur judiciaire, qui ouvre à son tour l'accès complet à la data room sous 48 à 72 heures.
 
@@ -60,7 +60,7 @@ En parallèle, un call de cadrage stratégique de 90 minutes est organisé entre
 
 ## Étape 2. Analyse approfondie de la cible
 
-> **Semaines S+1 à S+2 — Maîtriser intégralement le dossier.**
+> **Semaines S+1 à S+2. Maîtriser intégralement le dossier.**
 
 L'analyse se déroule en parallèle sur six axes complémentaires, qui couvrent l'ensemble des dimensions économiques, juridiques et opérationnelles de la cible.
 
@@ -96,7 +96,7 @@ Lecture critique de l'état du passif déclaré au mandataire judiciaire, identi
 
 ## Étape 3. Construction et rédaction de l'offre
 
-> **Semaine S+3 — Transformer l'analyse en projet industriel opposable.**
+> **Semaine S+3. Transformer l'analyse en projet industriel opposable.**
 
 Cette étape porte la construction effective de l'offre dans toutes ses dimensions. Le périmètre repris est défini précisément (actifs, contrats désignés nommément, salariés repris), le prix d'offre est arrêté en cohérence avec la trésorerie disponible et les charges augmentatives anticipées, et le plan de financement est documenté de manière détaillée.
 
