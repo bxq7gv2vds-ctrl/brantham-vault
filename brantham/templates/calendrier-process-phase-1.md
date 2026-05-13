@@ -1,0 +1,211 @@
+---
+type: template
+project: brantham
+category: client-deliverable
+purpose: Calendrier indicatif Phase 1 (cadrage jusqu'au dépôt offre initiale), à joindre au pack documentaire repreneur
+created: 2026-05-13
+tags: [template, calendrier, phase-1, repreneur, distressed]
+---
+
+# Template — Calendrier indicatif Phase 1
+
+> **Mode d'emploi**
+>
+> 1. Copier ce fichier dans `vault/brantham/deals/active/<deal-slug>/repreneurs/<repreneur-slug>/01-calendrier-process.md`
+> 2. Remplacer les placeholders `{{...}}` ci-dessous par les valeurs du deal et du repreneur
+> 3. Vérifier qu'il n'y a plus aucun tiret cadratin `—` (utiliser virgule, deux-points, ou parenthèses)
+> 4. Générer le PDF avec le pipeline `/tmp/build_pdfs.py` (rapport corporate Brantham, CSS aéré + signature)
+>
+> **Placeholders à remplir avant envoi**
+> - `{{REPRENEUR}}` : nom du repreneur (ex. "Efalia")
+> - `{{CIBLE}}` : nom de la société cible (ex. "Open Bee France")
+> - `{{DATE_DOC}}` : date d'émission du document (ex. "Paris, le 13 mai 2026")
+>
+> **Principes de mise en forme**
+> - Style corporate Brantham : police Computer Modern, monochrome, sobre
+> - Aucun tiret cadratin, même dans les titres
+> - Aucun séparateur horizontal `---` dans le corps
+> - Aération CSS : `line-height: 1.55`, padding cellules `0.45em 0.7em`
+> - Pas de listes à puces, prose continue avec leads inline en gras
+> - Tableaux uniquement pour synthèses utiles (lecture, vue d'ensemble, six axes, cellule projet)
+> - Bloc signature automatique en fin de doc (Bien à vous, Paul Roulleau, Associé gérant)
+
+---
+
+## Frontmatter du fichier généré
+
+```yaml
+---
+type: process-doc
+deal: {{DEAL_SLUG}}
+repreneur: {{REPRENEUR_SLUG}}
+document: calendrier-pedagogique
+scope: phase-1-jusqu-au-depot-offre-initiale
+created: {{DATE_ISO}}
+---
+```
+
+---
+
+## Corps du document à générer
+
+# Calendrier indicatif jusqu'au dépôt de l'offre initiale
+
+## Dossier confidentiel à destination du repreneur
+
+*Brantham Partners, Conseil en M&A distressed*
+
+## Lecture du calendrier
+
+Ce calendrier couvre la **première phase du process de reprise**, du démarrage de la mission jusqu'au dépôt formel de l'offre initiale auprès de l'administrateur judiciaire. Il correspond à l'engagement initial du repreneur.
+
+Les jalons sont exprimés en **semaines relatives** par rapport au point de départ effectif (J0 = signature du mandat de représentation et accès au dossier). Une seule date est imposée par le tribunal et s'impose à tous : la **date limite de dépôt des offres de reprise**. Tous les autres jalons sont calibrés en rétro-planning à partir de cette échéance.
+
+| Donnée | Statut |
+|---|---|
+| Date limite de dépôt des offres | **Imposée par le tribunal** |
+| Durée typique de la Phase 1 | **3 à 4 semaines** |
+| Engagement du repreneur sur cette phase | **Forfait ferme et défini** |
+| Suite éventuelle | **Phase 2 (audience, jugement, closing) traitée séparément** |
+
+## Vue d'ensemble en quatre étapes
+
+| Étape | Intitulé | Durée indicative | Livrable |
+|---|---|---|---|
+| 1 | Cadrage et ouverture du dossier | Semaine S0 | Accès complet à la data room |
+| 2 | Analyse approfondie de la cible | S+1 à S+2 | Synthèse analytique et premier projet de périmètre |
+| 3 | Construction et rédaction de l'offre | S+3 | Projet d'offre validé par le repreneur |
+| 4 | Dépôt formel de l'offre | Fin S+3 ou début S+4 | Récépissé de dépôt de l'AJ |
+
+## Étape 1. Cadrage et ouverture du dossier
+
+**Durée indicative : Semaine S0.**
+
+**Objectif :** poser les fondations du dossier et accéder à l'information confidentielle de la cible.
+
+La semaine S0 ouvre par la signature du mandat de représentation entre le repreneur et Brantham Partners, et par la transmission de la liasse fiscale du dernier exercice clos du repreneur. Ces deux éléments déclenchent l'extension du NDA auprès de l'administrateur judiciaire et l'ouverture de l'accès complet à la data room sous 48 à 72 heures.
+
+En parallèle, un call de cadrage stratégique de 90 minutes est organisé entre le dirigeant repreneur et l'équipe Brantham Partners, pour préciser la thèse industrielle, identifier les points de vigilance prioritaires et constituer la cellule projet côté repreneur.
+
+**Livrable de fin d'étape :** dossier d'accès ouvert, périmètre d'analyse cadré, équipe projet constituée et opérationnelle.
+
+## Étape 2. Analyse approfondie de la cible
+
+**Durée indicative : S+1 à S+2.**
+
+**Objectif :** maîtriser intégralement les données financières, sociales, contractuelles et techniques de la cible pour construire une offre crédible.
+
+L'analyse se déroule en parallèle sur six axes complémentaires, qui couvrent l'ensemble des dimensions économiques, juridiques et opérationnelles de la cible.
+
+| Axe d'analyse | Contenu |
+|---|---|
+| Comptable et financier | Comptes des trois derniers exercices, retraitements, situation intermédiaire |
+| Social | Effectifs, contrats de travail, accords collectifs, contentieux prud'homaux |
+| Contractuel | Contrats clients top 20, partenaires de distribution, fournisseurs critiques, baux |
+| Fiscal | TVA, IS, contentieux fiscaux antérieurs |
+| Technique et propriété intellectuelle | Marques, brevets, code source, licences, agréments |
+| Passif déclaré | État du passif déclaré au mandataire judiciaire |
+
+**Cadence de validation :** un point hebdomadaire est tenu avec la cellule projet du repreneur, pour valider les arbitrages au fil de la maîtrise du dossier.
+
+**Livrable de fin d'étape :** synthèse analytique complète, identification des points de vigilance, premier projet de périmètre cible.
+
+## Étape 3. Construction et rédaction de l'offre
+
+**Durée indicative : S+3.**
+
+**Objectif :** transformer l'analyse en projet industriel chiffré et juridiquement opposable, conforme aux exigences de l'article L.642-2 du Code de commerce.
+
+Cette étape porte la construction effective de l'offre dans toutes ses dimensions. Le périmètre repris est défini précisément (actifs, contrats désignés nommément, salariés repris), le prix d'offre est arrêté en cohérence avec la trésorerie disponible et les charges augmentatives anticipées, et le plan de financement est documenté de manière détaillée.
+
+Le projet industriel et le plan de développement à 24 mois sont rédigés pour démontrer la crédibilité économique de la reprise au tribunal. Le plan social précise les engagements de maintien d'emploi, qui pèsent fortement dans l'arbitrage. Les annexes obligatoires sont préparées et collectées (Kbis du repreneur, comptes des trois derniers exercices, attestation bancaire, statuts, organigramme du groupe).
+
+L'offre est ensuite rédigée conformément aux neuf mentions obligatoires de l'article L.642-2 du Code de commerce, et accompagnée de l'attestation sur l'honneur prévue à l'article L.642-3.
+
+**Point de validation conjoint :** une réunion de validation finale est tenue avec le repreneur, idéalement à J-3 du dépôt, en présence des conseils juridiques et financiers du repreneur.
+
+**Livrable de fin d'étape :** projet d'offre signé par le mandataire social du repreneur, prêt au dépôt.
+
+## Étape 4. Dépôt formel de l'offre
+
+**Durée indicative : fin S+3 ou début S+4, avant l'heure limite imposée par le tribunal.**
+
+**Objectif :** déposer l'offre dans les délais et selon le formalisme attendu par l'administrateur judiciaire.
+
+Le dépôt est assuré physiquement ou électroniquement auprès de l'administrateur judiciaire, accompagné de l'ensemble des annexes. Le récépissé de dépôt et la confirmation d'inscription au dossier de procédure sont obtenus dans la foulée. L'administrateur judiciaire informe ensuite Brantham Partners du nombre et de la nature des offres concurrentes déposées.
+
+**Livrable de fin d'étape :** récépissé de dépôt et accusé formel de prise en compte par l'AJ.
+
+## Et après le dépôt
+
+Le dépôt de l'offre initiale marque la **fin de la Phase 1** et la fin de l'engagement initial du repreneur sur la mission.
+
+Une **Phase 2** distincte peut alors être engagée conjointement, si le repreneur souhaite poursuivre. Elle couvre l'analyse des offres concurrentes et la construction du tableau comparatif, l'amélioration éventuelle de l'offre (possibilité légale jusqu'à 48 heures avant l'audience), la préparation et la soutenance à l'audience d'arbitrage du tribunal, ainsi que l'accompagnement jusqu'au jugement et au closing.
+
+La Phase 2 fait l'objet d'un engagement et de modalités économiques propres, décidés conjointement à l'issue de la Phase 1, en pleine connaissance du dossier et du paysage concurrentiel.
+
+## Points d'attention
+
+**Rythme contraint.** Le format distressed impose un calendrier resserré, sans temps morts. La disponibilité d'une cellule projet réduite côté repreneur conditionne le respect du planning.
+
+**Continuité d'exploitation.** Pendant toute la durée du process, la cible reste en période d'observation. Tout retard significatif du repreneur peut dégrader la trésorerie disponible et la valeur du périmètre repris.
+
+**Date butoir non négociable.** La date limite de dépôt des offres fixée par le tribunal est ferme. Toute offre déposée hors délai est irrecevable.
+
+**Première offre, pas offre finale.** Conformément à la pratique de la procédure de plan de cession, la date d'offre initiale n'est que la première étape. Une short-list est généralement constituée par l'AJ, suivie d'une amélioration des offres avant arbitrage. La bonne pratique consiste donc à prendre date avec une **offre initiale à prix mesuré et périmètre contenu**, assortie de conditions suspensives raisonnables, plutôt qu'à jouer son meilleur prix dès le premier tour.
+
+## Cellule projet recommandée côté repreneur
+
+| Rôle | Responsabilité |
+|---|---|
+| Sponsor exécutif | Décision finale sur le périmètre, le prix et les engagements |
+| Responsable financier | Construction du plan de financement, attestation bancaire |
+| Responsable opérationnel | Futur intégrateur de l'activité, vision projet industriel |
+| Conseil juridique externe | Avocat en restructuring, revue des clauses de l'offre |
+| Coordinateur Brantham | Interface unique sur l'ensemble du process |
+
+Cette cellule se réunit en point hebdomadaire pendant la phase d'analyse, puis en point rapproché pendant la construction de l'offre.
+
+*Document confidentiel. Brantham Partners SAS, RCS Paris 101 953 891. Le présent calendrier est indicatif et sera précisé en fonction des dates effectives fixées par le tribunal et l'administrateur judiciaire.*
+
+---
+
+## Métadonnées de génération PDF
+
+### Cover du PDF
+
+- **Titre** : "Calendrier indicatif du process de reprise"
+- **Sous-titre** : "{{CIBLE}}, Dossier confidentiel {{REPRENEUR}}"
+- **Contexte** : "Brantham Partners, Conseil M&A distressed"
+- **Date** : "{{DATE_DOC}}"
+- **Mention** : "Document strictement confidentiel"
+
+### Pipeline de génération
+
+Source markdown : `vault/brantham/deals/active/<deal-slug>/repreneurs/<repreneur-slug>/01-calendrier-process.md`
+
+Build : `python /tmp/build_pdfs.py` (ou `build_one.py 01-calendrier-process` pour ce doc spécifique)
+
+Sortie PDF : `vault/brantham/deals/active/<deal-slug>/repreneurs/<repreneur-slug>/pdf-pack/01-calendrier-process.pdf`
+
+CSS aération appliqué automatiquement via `DEFAULT_EXTRA_CSS` dans `build_pdfs.py`.
+
+Signature corporate ajoutée automatiquement en fin de doc via `HTML_TMPL`.
+
+### Rendu attendu
+
+- **Pages** : 5 à 6 selon densité
+- **Police** : Computer Modern (CMU Serif) 11pt
+- **Couleur** : monochrome strict
+- **Aucun** tiret cadratin
+- **Aucun** séparateur horizontal `<hr>` dans le corps
+- **Tableaux** : 4 conservés (synthèse, vue d'ensemble, six axes, cellule projet)
+- **Signature** : "Bien à vous, Paul Roulleau, Associé gérant, Brantham Partners" en bas à droite
+
+## Related
+
+- [[lettre-de-mission|Lettre de mission Brantham]]
+- [[note-cadrage-deal|Note de cadrage deal]]
+- [[courrier-extension-nda-aj|Courrier extension NDA AJ]]
+- [[../patterns/onboarding-distressed-ma]]
+- [[../_MOC]]
