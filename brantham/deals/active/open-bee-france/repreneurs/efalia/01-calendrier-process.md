@@ -96,7 +96,7 @@ Les jalons sont exprimés en **semaines relatives** par rapport au point de dép
 
 **Livrable de fin d'étape :** projet d'offre signé par le mandataire social du repreneur, prêt à être déposé.
 
-## Étape 4 — Dépôt formel de l'offre
+## Étape 4. Dépôt formel de l'offre
 
 **Durée indicative : fin S+3 ou début S+4, avant l'heure limite imposée par le tribunal**
 
