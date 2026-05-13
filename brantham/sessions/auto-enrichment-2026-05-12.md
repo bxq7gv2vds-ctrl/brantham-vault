@@ -36,3 +36,6 @@
 - **Enrichissement Pappers** : lancement...
   - 0 procedures enrichies
 - **Re-scoring** : lancement...
+  - ERREUR (voir /tmp/bp-rescore-err.log)
+- **Cycle termine** a 21:12
+---
