@@ -54,13 +54,9 @@ L'objectif de cette première étape est de poser les fondations du dossier et d
 
 ## Étape 2. Analyse approfondie de la cible
 
-| | |
-|---|---|
-| **Durée** | Semaines S+1 à S+2 |
-| **Objectif** | Maîtriser intégralement le dossier pour construire une offre crédible |
-| **Livrable** | Synthèse analytique complète, premier projet de périmètre cible |
+**Durée :** Semaines S+1 à S+2. **Livrable :** synthèse analytique complète et premier projet de périmètre cible.
 
-L'analyse se déroule en parallèle sur six axes complémentaires, qui couvrent l'ensemble des dimensions économiques, juridiques et opérationnelles de la cible.
+L'objectif de cette étape est de maîtriser intégralement le dossier pour construire une offre crédible. L'analyse se déroule en parallèle sur six axes complémentaires, qui couvrent l'ensemble des dimensions économiques, juridiques et opérationnelles de la cible.
 
 | Axe d'analyse | Contenu |
 |---|---|
@@ -76,11 +72,9 @@ L'analyse se déroule en parallèle sur six axes complémentaires, qui couvrent 
 
 ## Étape 3. Construction et rédaction de l'offre
 
-| | |
-|---|---|
-| **Durée** | Semaine S+3 |
-| **Objectif** | Transformer l'analyse en projet industriel chiffré et juridiquement opposable |
-| **Livrable** | Projet d'offre signé par le mandataire social du repreneur |
+**Durée :** Semaine S+3. **Livrable :** projet d'offre signé par le mandataire social du repreneur.
+
+L'objectif de cette étape est de transformer l'analyse en projet industriel chiffré et juridiquement opposable, conforme aux exigences de l'article L.642-2 du Code de commerce.
 
 **Le cœur économique de l'offre.** Le périmètre repris est défini précisément (actifs, contrats désignés nommément, salariés repris), le prix d'offre est arrêté en cohérence avec la trésorerie disponible et les charges augmentatives anticipées, et le plan de financement est documenté de manière détaillée.
 
@@ -100,11 +94,9 @@ L'analyse se déroule en parallèle sur six axes complémentaires, qui couvrent 
 
 ## Étape 4. Dépôt formel de l'offre
 
-| | |
-|---|---|
-| **Durée** | Fin S+3 ou début S+4, avant l'heure limite imposée par le tribunal |
-| **Objectif** | Déposer l'offre dans les délais et selon le formalisme attendu |
-| **Livrable** | Récépissé de dépôt et accusé formel de prise en compte par l'AJ |
+**Durée :** Fin S+3 ou début S+4, avant l'heure limite imposée par le tribunal. **Livrable :** récépissé de dépôt et accusé formel de prise en compte par l'AJ.
+
+L'objectif de cette étape est de déposer l'offre dans les délais et selon le formalisme attendu par l'administrateur judiciaire.
 
 **Le dépôt.** Réalisé physiquement ou électroniquement auprès de l'administrateur judiciaire, accompagné de l'ensemble des annexes.
 
