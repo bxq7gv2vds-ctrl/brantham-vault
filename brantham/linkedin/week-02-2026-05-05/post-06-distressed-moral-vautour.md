@@ -95,20 +95,21 @@ Le vautour, en Inde, est aujourd'hui espèce protégée. Le repreneur PME, en Fr
 Si vous êtes repreneur ou dirigeant d'une PME en difficulté, c'est exactement ce qu'on accompagne chez Brantham Partners.
 ```
 
-## Premier commentaire (lien)
+## Premier commentaire (sources)
 
 ```
-Source étude : Frank & Sudarshan, "The Social Costs of Keystone Species Collapse: Evidence from the Decline of Vultures in India", American Economic Review, 2024.
+Sources :
+— Frank & Sudarshan, "The Social Costs of Keystone Species Collapse: Evidence from the Decline of Vultures in India", American Economic Review, 2024.
+— Bilan défaillances 2025 : Altares (https://www.altares.com/fr/statistiques-defaillance-entreprises-france/bilan-2025/), repris par EY, Allianz Trade, Banque de France.
 ```
 
 ## Checklist pré-publication
 
 - [ ] Vérifier le chiffre exact de l'étude Frank & Sudarshan 2024 (~500 000 morts excédentaires)
-- [ ] Sourcer 45 000 / 280 000 / 12 000 via Conseil National des AJ et BPI
-- [ ] Vérifier les ratios 5/15/5/75% sur stats INSEE 2024
+- [x] Chiffres défaillances 2025 sourcés Altares (69 957 / 47 078 LJ / 21 336 RJ / 1 543 sauvegardes / 267 200 emplois)
 - [ ] Hook tient dans les 210 premiers caractères avant troncature LinkedIn
 - [ ] Aucun emoji
-- [ ] Aucun tiret cadratin
+- [ ] Aucun tiret cadratin (vérifier — remplacer par ":" ou "." si besoin)
 - [ ] Accents présents partout
 - [ ] CTA Brantham en fin
 - [ ] Image v5b attachée
