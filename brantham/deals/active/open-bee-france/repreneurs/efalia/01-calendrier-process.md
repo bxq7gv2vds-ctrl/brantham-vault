@@ -91,11 +91,7 @@ L'offre est rédigée conformément aux neuf mentions obligatoires de l'article 
 
 **Objectif :** déposer l'offre dans les délais et selon le formalisme attendu par l'administrateur judiciaire.
 
-**Actions :**
-
-- Dépôt physique ou électronique auprès de l'administrateur judiciaire, accompagné de l'ensemble des annexes
-- Obtention du récépissé de dépôt et confirmation de l'inscription au dossier de procédure
-- Information du repreneur sur le nombre et la nature des offres concurrentes annoncées par l'AJ
+Le dépôt est assuré physiquement ou électroniquement auprès de l'administrateur judiciaire, accompagné de l'ensemble des annexes. Le récépissé de dépôt et la confirmation d'inscription au dossier de procédure sont obtenus dans la foulée. L'administrateur judiciaire informe ensuite Brantham Partners du nombre et de la nature des offres concurrentes déposées.
 
 **Livrable de fin d'étape :** récépissé de dépôt et accusé formel de prise en compte par l'AJ.
 
