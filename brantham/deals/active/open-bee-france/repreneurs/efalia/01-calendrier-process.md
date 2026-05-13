@@ -99,12 +99,7 @@ Le dépôt est assuré physiquement ou électroniquement auprès de l'administra
 
 Le dépôt de l'offre initiale marque la **fin de la Phase 1** et la fin de l'engagement initial du repreneur sur la mission.
 
-Une **Phase 2** distincte peut alors être engagée conjointement, si le repreneur souhaite poursuivre. Elle couvre :
-
-- l'analyse des offres concurrentes et la construction du tableau comparatif ;
-- l'amélioration éventuelle de l'offre (possibilité légale jusqu'à 48 heures avant l'audience) ;
-- la préparation et la soutenance à l'audience d'arbitrage du tribunal ;
-- l'accompagnement jusqu'au jugement et au closing.
+Une **Phase 2** distincte peut alors être engagée conjointement, si le repreneur souhaite poursuivre. Elle couvre l'analyse des offres concurrentes et la construction du tableau comparatif, l'amélioration éventuelle de l'offre (possibilité légale jusqu'à 48 heures avant l'audience), la préparation et la soutenance à l'audience d'arbitrage du tribunal, ainsi que l'accompagnement jusqu'au jugement et au closing.
 
 La Phase 2 fait l'objet d'un engagement et de modalités économiques propres, décidés conjointement à l'issue de la Phase 1, en pleine connaissance du dossier et du paysage concurrentiel.
 
