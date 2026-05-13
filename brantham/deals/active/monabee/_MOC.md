@@ -8,7 +8,7 @@ secteur: photovoltaique-autoconsommation
 geo: lyon-69-isere-38-finistere-29
 tags: [brantham, deal, MOC]
 ---
-
+@
 # MOC, MONABEE
 
 Dossier identifié via Actify n° 14566, cible désanonymisée via méthode OSINT (BODACC + SIRENE + cross-check teaser).
