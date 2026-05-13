@@ -42,14 +42,9 @@ Les jalons sont exprimés en **semaines relatives** par rapport au point de dép
 
 **Objectif :** poser les fondations du dossier et accéder à l'information confidentielle de la cible.
 
-**Actions clés :**
+La semaine S0 ouvre par la signature du mandat de représentation entre le repreneur et Brantham Partners, et par la transmission de la liasse fiscale du dernier exercice clos du repreneur. Ces deux éléments déclenchent l'extension du NDA auprès de l'administrateur judiciaire et l'ouverture de l'accès complet à la data room sous 48 à 72 heures.
 
-- Signature du mandat de représentation entre le repreneur et Brantham Partners
-- Transmission de la liasse fiscale du dernier exercice clos du repreneur
-- Extension du NDA auprès de l'administrateur judiciaire
-- Ouverture de l'accès complet à la data room sous 48 à 72 heures après réception du NDA signé
-- Call de cadrage stratégique de 90 minutes entre le repreneur et Brantham Partners
-- Constitution de la cellule projet côté repreneur
+En parallèle, un call de cadrage stratégique de 90 minutes est organisé entre le dirigeant repreneur et l'équipe Brantham Partners, pour préciser la thèse industrielle, identifier les points de vigilance prioritaires et constituer la cellule projet côté repreneur.
 
 **Livrable de fin d'étape :** dossier d'accès ouvert, périmètre d'analyse cadré, équipe projet constituée et opérationnelle.
 
