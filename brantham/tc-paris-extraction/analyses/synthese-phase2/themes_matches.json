@@ -1,0 +1,60 @@
+{
+  "winners": {
+    "prix_superieur": [],
+    "emplois_max": [],
+    "perennite": [
+      "Continuite activite sante visuelle mobile, expertise sectorielle du repreneur, gouvernances Sym/LOM restent independantes (source Acuite + L'Informe)",
+      "Continuite activite sante visuelle mobile, expertise sectorielle du repreneur, gouvernances Sym/LOM restent independantes (source Acuite + L'Informe)",
+      "Continuite activite sante visuelle mobile, expertise sectorielle du repreneur, gouvernances Sym/LOM restent independantes (source Acuite + L'Informe)",
+      "Demantelement accepte par tribunal quand offres consolidees par lots coherents (gestion directe Seasonova vs franchises Maeva). Repreneur sectoriel strategique avec continuite emploi.",
+      "Projet cooperatif local coherent ; capacite de stockage Les Vergers d'Anjou passe de 36 000 t a 49 000 t. Repreneur sectoriel strategique avec continuite d'emploi.",
+      "Projet coop\u00e9ratif local coh\u00e9rent ; continuit\u00e9 sectorielle ; capacit\u00e9 de stockage Vergers d'Anjou passe de 36.000 t \u00e0 49.000 t ; voisinage imm\u00e9diat <5km station Oc\u00e9ane ; financement comptant garanti CRCAM + CIC ; 200k\u20ac accompagnement social volontaire ; facult\u00e9 de substitution CELHER pour SCEA agrico",
+      "Projet coop\u00e9ratif local coh\u00e9rent ; continuit\u00e9 fili\u00e8re fruits ; ancrage Val de Loire ; capacit\u00e9 financi\u00e8re d\u00e9montr\u00e9e 26M\u20ac CP ; rapport qualit\u00e9-prix sup\u00e9rieur (75k\u20ac vs 40k\u20ac consortium).",
+      "Facult\u00e9 de substitution de Vergers d'Anjou au profit de CELHER (Boujuau) : exploitants agricoles depuis 1998, partenariat coop\u00e9rative+producteurs locaux, ancrage p\u00e9rennit\u00e9 fili\u00e8re.",
+      "Substitution Vergers d'Anjou vers CELHER (Boujuau) \u2014 exploitants agricoles depuis 1998, partenariat coop\u00e9rative+producteurs locaux assurant p\u00e9rennit\u00e9."
+    ],
+    "credibilite_financiere": [
+      "Projet coop\u00e9ratif local coh\u00e9rent ; continuit\u00e9 fili\u00e8re fruits ; ancrage Val de Loire ; capacit\u00e9 financi\u00e8re d\u00e9montr\u00e9e 26M\u20ac CP ; rapport qualit\u00e9-prix sup\u00e9rieur (75k\u20ac vs 40k\u20ac consortium)."
+    ],
+    "experience_secteur": [
+      "Continuite activite sante visuelle mobile, expertise sectorielle du repreneur, gouvernances Sym/LOM restent independantes (source Acuite + L'Informe)",
+      "Continuite activite sante visuelle mobile, expertise sectorielle du repreneur, gouvernances Sym/LOM restent independantes (source Acuite + L'Informe)",
+      "Continuite activite sante visuelle mobile, expertise sectorielle du repreneur, gouvernances Sym/LOM restent independantes (source Acuite + L'Informe)"
+    ],
+    "industriel": [],
+    "synergies": [],
+    "garanties": [],
+    "absence_cs": [],
+    "soutien_external": [],
+    "preservation_marque": []
+  },
+  "losers": {
+    "prix_superieur": [
+      "Bien que FEMINA STYL soit deja franchise Camping Paradis et reprenne 7 salaries (100%) \u2014 repreneur ecarte. Prix 150 000 EUR superieur a Seasonova mais indivisibilite globale ILO + 4 SCI complexe."
+    ],
+    "emplois_max": [],
+    "perennite": [],
+    "credibilite_financiere": [
+      "Prix symbolique 1 EUR sur 2 sites. Porteur individuel sans groupe \u2014 capacite financiere non demontree au regard de l'enjeu groupe (15 sites).",
+      "Offre PP non documentee financierement (3M EUR credit court terme demandes mais pas d'engagement bancaire), CS sur financement"
+    ],
+    "experience_secteur": [],
+    "industriel": [],
+    "synergies": [],
+    "garanties": [],
+    "absence_cs": [],
+    "soutien_external": [
+      "Doublon physique de offre_02 (REGOLI Stephane - meme contenu, meme date 06/01/2026, memes annexes LOI MIKCHA 50k + soutien Vachier-Lagrave)",
+      "Simple lettre d'intention 2 pages \u2014 pas de d\u00e9tail prix incorporels/corporels, ni p\u00e9rim\u00e8tre actifs d\u00e9taill\u00e9, ni effectifs repris pr\u00e9cis\u00e9ment, ni financi\u00e8res repreneur.",
+      "Lettre d'intention uniquement (10 pages) \u2014 pas d'offre ferme. Sollicite delai supplementaire pour b\u00e2tir projets de reprise serieux et viables.",
+      "Cession isol\u00e9e de droit au bail unique (1 site Avignon sur 21). Lettre d'intention non engageante au sens strict. Aucune reprise de salari\u00e9s. Reconversion en terminal de cuisson boulangerie La Mie C\u00e2line (perte d'activit\u00e9 chaussures)."
+    ],
+    "preservation_marque": [
+      "Perimetre 18 mag pour 80k EUR + CS multiples (accord bailleurs, audit marque) vs AA Investments sans CS, 25 mag, 185 emplois",
+      "Offre partielle marque Bouchara seule (sans reseau physique) - non integree au plan AA Investments",
+      "Offre partielle marque BOUCHARA Collection seule. IDGIFT (filiale BEN'S) deja licenciee exclusive depuis 16/05/2012. Non integree au plan AA Investments.",
+      "Cession isol\u00e9e droit au bail 1 site Paris Ternes uniquement. Reconversion enseigne Father & Sons. Aucun contrat de travail repris.",
+      "Cession isol\u00e9e 2 droits au bail indivisibles (Ternes + Mac-Mahon) \u2014 1 point de vente sur 21. Reconversion enseigne MAJE pr\u00eat-\u00e0-porter f\u00e9minin. Aucun contrat de travail repris."
+    ]
+  }
+}
