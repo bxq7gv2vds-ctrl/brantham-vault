@@ -1,85 +1,29 @@
 # Session auto-enrichment — 2026-05-15
 
-**Date** : 2026-05-15 14h00
-**Type** : Cycle 3h (scrape + enrich + update)
+## Résumé exécutif
+- **Scrape AJ** : 123 opportunités actives (691 expirées supprimées), 23 sites OK
+- **Opportunités traitées** : 8 (CA > 500K, sans dossier existant)
+- **Dossiers créés** : 8 dans `/Users/paul/brantham-pipeline/deals/`
+- **SIRENs résolus** : 2/8 (SOLAK ENERGIE: 535364798, RFI SAS: 818024317)
+- **Analyses générées** : 8 (analyse.md + enrichment.json)
+- **Repreneurs identifiés** : 0 (API 400 — slugs non en base Brantham)
+- **Erreurs** : Pappers bilans absents (données disponibles: dirigeants seulement)
 
----
+## Opportunités urgentes (deadline < 10j)
+1. **meynet-repreneurs-activit** — 1.1M€ RH — deadline 2026-05-21 (6j)
+2. **meynet-soci-t-lucca** — 569K€ HCR — deadline 2026-05-28 (13j)
+3. **meynet-rfi-sas** — 1.3M€ BTP — deadline 2026-05-26 (11j)
 
-## Résumé exécution
+## Actions recommandées
+- Contacter mandataire Meynet pour les 3 urgents
+- Lancer enrich_v2.py --slug sur chaque dossier pour enrichissement complet
+- Ajouter les 8 deals à la base PostgreSQL pour activer le matching 4D
 
-| Étape | Statut | Détail |
-|-------|--------|--------|
-| Scrape AJ | OK | 116 opportunités (22 sites actifs / 30) — 691 expirées supprimées |
-| Copie aj_annonces.json | OK | `/api/aj_annonces.json` mis à jour |
-| Identification opportunités | OK | 10 trouvées (CA > 500K, sans dossier existant) |
-| Création dossiers | OK | 10 dossiers créés dans `deals/` |
-| Enrichment.json | OK | 10 fichiers (données scrape AJ) |
-| Analyse.md | OK | 10 analyses préliminaires générées |
-| Repreneurs (acheteurs.json) | Partiel | 6/10 avec 5 repreneurs (API gouvernement) |
-| API FastAPI :8000 | DOWN | Non démarré — endpoints matching non utilisables |
-| Pappers enrichissement | Non fait | Rate limit préservé — SIREN manquants pour la plupart |
-
----
-
-## Opportunités traitées (10)
-
-1. Commerce détail #14160 — 16,6 M€ — Meynet
-2. Industrie #14566 — 8,2 M€ — Meynet
-3. Commerce détail #13552 — 6,6 M€ — Meynet
-4. SMR Clinique — 6,6 M€ — Abitol & Rousselet
-5. Anonyme — 6,2 M€ — Meynet
-6. Anonyme — 5 M€ — Meynet
-7. Majolane Construction — 4,3 M€ — Meynet
-8. Appel offres AJRS — 4,1 M€ — AJRS
-9. Industrie #12545 — 4 M€ — Meynet
-10. Transports Gevaux — 4 M€ — Meynet
-
----
-
-## Stats scraper
-
-- Sites OK : 22/30
-- Sites vides : 8
-- Erreurs : 0
-- Opportunités fraîches : 116
-- Expirées supprimées : 691
-
----
-
-## Points d'attention
-
-- **API FastAPI DOWN** : redémarrer avant prochaine session
-- **SIREN manquants** : la plupart des annonces Meynet sont anonymisées
-- **Enrichissement Pappers** : à faire lors du cycle 6h quand SIRENs identifiés
-- **SMR Clinique** : deadline 2026-05-17 — priorité urgente
-
----
+## Infrastructure
+- Scraper : OK (23 sites OK, 0 erreur)
+- API locale 8000 : running mais matching-repreneurs 400 (slugs inconnus)
+- Pappers : OK mais bilans non renseignés pour ces sociétés
 
 ## Related
-
-[[brantham/_MOC]]
-[[brantham/pipeline/QUEUE]]
-
-## Cycle 16:57
-
-- **Scrape AJ** : lancement...
-  - ERREUR scraping (voir /tmp/bp-scrape-err.log)
-- **Enrichissement Pappers** : lancement...
-  - 0 procedures enrichies
-- **Re-scoring** : lancement...
-  - ERREUR (voir /tmp/bp-rescore-err.log)
-- **Cycle termine** a 16:57
----
-
-## Cycle 19:57
-
-- **Scrape AJ** : lancement...
-  - ERREUR scraping (voir /tmp/bp-scrape-err.log)
-- **Enrichissement Pappers** : lancement...
-  - 0 procedures enrichies
-- **Re-scoring** : lancement...
-  - ERREUR (voir /tmp/bp-rescore-err.log)
-- **Cycle termine** a 19:57
----
-
-## Deep Enrichment 20:03
+- [[brantham/_MOC]]
+- [[brantham/pipeline/QUEUE]]
