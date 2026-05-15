@@ -101,6 +101,7 @@ Voir [[founder/decisions/2026-04-24-pricing-7k-7k-petits-tickets]].
 
 ## Sessions récentes
 
+- [[brantham/sessions/2026-05-15-cockpit-opportunities-detail-ux]] — Cockpit opportunites active-only : UX simple, coverage AJ/Mayday, detail fiche structure
 - [[brantham/sessions/2026-04-28-cockpit-minimalisme-outreach]] — **Cockpit web v2** : refonte minimaliste, outreach tracker, landing Aujourd'hui, cron daily relances
 - [[brantham/sessions/2026-04-26-cockpit-tui-supabase-hunters]] — Cockpit v2 TUI : Supabase + Hunters api.gouv (deprecie au profit web)
 - [[brantham/sessions/2026-04-26-cockpit-aj]] — Cockpit Phase A (TUI triage AJ, scraper fixes, DLDO 91%)
