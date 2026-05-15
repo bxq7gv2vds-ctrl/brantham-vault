@@ -232,7 +232,86 @@ D'après les **18 cas d'amélioration mesurés**, voici les patterns gagnants :
 | Faculté substitution sans précision actionnariat | Tribunal demande complément | Plusieurs |
 | Prix élevé mais 0 emploi | Tribunal défavorable si offre concurrente avec emplois | Common pattern retail |
 
-## 11. Brantham — Checklist opérationnelle
+## 11. ⭐ Règles d'arbitrage du tribunal — confirmées par les jugements (vague 1)
+
+Source : [[gagnants-tribunal]] (7 dossiers tracés). Patterns confirmés par jugements publiés au BODACC et presse sectorielle.
+
+### Règle #1 — Repreneur sectoriel stratégique avec continuité d'emploi > prix le plus haut
+**Confirmé par 4 cas sur 7** :
+- **COSA** : Agence IF retenue (16 emplois, prix non publié) vs DataSolution (cash 50k€, 28 emplois, doc complet). Agence IF avait moins d'emplois mais profil sectoriel et continuité.
+- **SYM Group** : Matthieu Gerber (fondateur LOM) retenu — expertise sectorielle santé visuelle mobile.
+- **INNATIS** : Les Vergers d'Anjou (coop locale, 7 M€) retenu vs Consortium CASTEL+LEROY+VCAPITAL (offre groupée 11 entités).
+- **COSA** : Agence IF retenue alors que DATASOLUTION (CA 25 M€, groupe DATAGROUP) avait un dossier plus solide financièrement.
+
+**Implication pour nos clients-repreneurs** : si on a un profil sectoriel + un track record dans le métier, il faut LE METTRE EN AVANT dans le préambule de l'offre. Pas juste mentionner. Démontrer avec 1-2 paragraphes spécifiques (références reprises distressed, expertise opérationnelle, plan d'intégration crédible).
+
+### Règle #2 — Offres partielles sans engagement global = LIQUIDATION
+**Confirmé par MINELLI** (cas iconique 13/05/2026) :
+- 6 offres déposées, **TOUTES REFUSÉES** :
+  - Jimmy Fairly : 1 M€ sur 2 baux uniquement, 0 emploi
+  - MAJE/SMCP : 550 k€ sur 2 baux indivisibles Mac-Mahon+Ternes, 0 emploi
+  - Father & Sons : 450 k€ sur 1 droit au bail Ternes, 0 emploi
+  - La Mie Câline : 150 k€ sur bail Avignon, 0 emploi
+  - Holding Baghaira : 300 k€ + 9 emplois sur pôle digital uniquement
+  - Sayada : 2 € symbolique (offre globale mais peu crédible)
+- **Résultat** : Liquidation totale, fermeture le 30/05, 86 emplois perdus, 21 boutiques fermées.
+
+**LEÇON CRITIQUE** : sur le retail multi-sites en RJ, le tribunal **n'arbitrera PAS un démantèlement partiel sans offre globale crédible**. Si on conseille un repreneur sur un dossier retail, soit :
+- L'offre couvre **tout le périmètre** (avec engagement emplois proportionnel), ou
+- On accepte la liquidation et on rachète des **baux isolés** post-LJ via le mandataire (process différent, plus tard, prix plus bas).
+
+### Règle #3 — Démantèlement multi-repreneurs accepté si lots cohérents
+**Confirmé par NEOCAMP** :
+- Le tribunal a découpé le groupe en 2 lots sectoriels cohérents :
+  - **Alpha Camping (15 sites gestion directe)** → **SEASONOVA**
+  - **Franchises (Camping Paradis, Ushuaïa Villages, Mistercamp)** → **MAEVA** (Pierre & Vacances via 5C Développement)
+- Femina Styl, Homair, Campaldia ÉCARTÉS malgré leurs offres globales.
+
+**Implication** : pour un groupe en RJ, il est possible de proposer une offre sur un sous-lot **MAIS** la cohérence sectorielle doit être démontrée et il faut idéalement coordonner avec d'autres candidats pour couvrir l'ensemble. À défaut : risque liquidation (Minelli).
+
+### Règle #4 — Le tribunal regarde le ratio prix/emploi mais surtout l'ENGAGEMENT social total
+- Médiane prix/emploi observée : **10 000 €/emploi** (sur 178 offres avec data)
+- **MAIS** : ce ratio n'est pas mécanique. Le tribunal regarde aussi :
+  - Engagement non-licenciement chiffré (durée 12-24 mois)
+  - Priorité réembauche pour les non-repris
+  - Plan d'intégration social (CSE, communication, formation)
+  - Cohérence avec le BP (un BP prévoyant des licenciements implicites = défavorable)
+
+### Règle #5 — Profil repreneur récurrent = signal positif
+- **AA Investments (HK) Limited** : repreneur HK qui a gagné **Bouchara** + **EURODIF** + **Bonne Gueule** sur le retail mode FR. Le tribunal reconnaît un profil "professionnel du distressed" capable d'exécuter.
+- **MEDIVI / Place Dentaire** : 3 dossiers DENTEKA, profil consolidateur sectoriel.
+- **LOM Les Opticiens Mobiles** : SYM + références santé visuelle mobile.
+
+**Implication** : si le client n'a pas de track record, on doit le construire dans le préambule (sa holding, son groupe, ses références même indirectes). Ne JAMAIS arriver "froid" au tribunal.
+
+### Règle #6 — Délai DLDO → Jugement = 1 à 2 mois
+- INNATIS : DLDO 18/03/2026 → Jugement 30/04/2026 (~6 semaines)
+- EURODIF : RJ 30/01/2026 → Jugement 11/05/2026 (DLDO ~mars-avril, ~6 semaines)
+- COSA : DLDO ~01/2026 → Jugement 05/03/2026 (~5 semaines)
+- MINELLI : DLDO 11/05 → Jugement 13/05 (très rapide, 2 jours — cas spécifique liquidation)
+
+**Implication planning** : prévoir 6-8 semaines entre DLDO et closing potentiel. Bloquer le financement et la NewCo dès le dépôt de l'offre.
+
+### Règle #7 — Repreneur asiatique sur retail mode FR = pattern récurrent
+- **AA Investments (HK) Limited** (Bouchara, EURODIF, Bonne Gueule)
+- À surveiller comme cible de pipeline outreach Brantham pour les futurs deals retail mode en RJ.
+- Format d'approche : email anglais + français, focus sur multi-site retail >5 boutiques, distressed >30% pertes.
+
+## 12. Anti-patterns observés — ce qui FAIT PERDRE
+
+| Anti-pattern | Cas observé | Risque |
+|---|---|---|
+| Cherry-picking partiel sans cohérence globale | Minelli (5 offres refusées) | Liquidation totale |
+| Offre symbolique sans plan d'intégration crédible | Sayada/Minelli (2€), VERDOSO/CDP (11€) | Rejet pour défaut de sérieux |
+| Lien parenté non déclaré (L.642-3) | Buhi Buhi/UMAKAYU (frère dirigeant) — dérogation requise | Rejet ou délai supplémentaire |
+| Conditions suspensives auto-contradictoires | QASTI/DME ("aucune cond." + 4 listées) | Tribunal sceptique sur la fiabilité |
+| Prix laissé en placeholders | MEDIVI v1 sur CLAYE/ENGHIEN (`[3]€`) | Offre non chiffrée = écartée |
+| Concurrence frontale 3+ offrants sur le même bail | Minelli (Jimmy Fairly + Father&Sons + MAJE sur Ternes) | Le tribunal arbitre rarement entre 3 offres baux concurrents |
+| Faculté de substitution sans précision actionnariat | Plusieurs cas | Tribunal demande complément, perte de temps |
+| Repreneur étranger sans cabinet local | DELLEN/Pologne, Yource/Pays-Bas | Cred locale insuffisante |
+| Pas de track record distressed | Personnes physiques amateurs | Doute capacité d'exécution |
+
+## 13. Brantham — Checklist opérationnelle
 
 Quand on accompagne un client repreneur, on doit lui produire **AVANT dépôt** :
 
