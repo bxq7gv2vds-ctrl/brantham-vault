@@ -101,3 +101,24 @@
 | meynet-industrie-12545 | Industrie #12545 | 4 M€ | Meynet | dossier créé |
 | meynet-transports-gevaux-sas | Transports Gevaux | 4 M€ | Meynet | dossier créé |
 | meynet-anonyme (2) | Anonyme 5M€ | 5 M€ | Meynet | dossier créé |
+
+---
+
+## Batch 2026-05-15 — Nouvelles opportunités identifiées
+
+| Priorité | Deal | CA | Secteur | Localisation | Deadline | Statut |
+|----------|------|----|---------|-------------|---------|--------|
+| 1 | meynet-sas-groupe-flachet | 2.3M€ | BTP | VILLEURBANNE | 2026-06-01 | A qualifier |
+| 2 | aj-specialises-recherche-de-repreneurs-p-tisserie-chocolater | 3M€ | Alimentaire | Pays d'Aix | 2026-06-10 | A qualifier |
+| 3 | meynet-solak-energie | 2.5M€ | BTP/Energie | VAULX-EN-VELIN | 2026-06-09 | A qualifier |
+| 4 | aj-specialises-2268-reprise-de-deux-fonds-de-commerce-de-joa | 2.3M€ | Joaillerie | NICE | 2026-06-18 | A qualifier |
+| 5 | meynet-rfi-sas | 1.3M€ | BTP | Montagnat | 2026-05-26 | URGENT |
+| 6 | meynet-repreneurs-activit-de-recrutement-de-talents-et-d-acc | 1.1M€ | RH | Saint-Didier | 2026-05-21 | URGENT |
+| 7 | maydaymag-soci-t-sp-cialis-e-dans-l-dition-de-solutions-d-in | 939K€ | SaaS/SIG | N/A | 2026-06-02 | A qualifier |
+| 8 | meynet-soci-t-lucca-auberge-d-archamps | 569K€ | HCR | ARCHAMPS | 2026-05-28 | URGENT |
+
+**Actions requises** :
+- meynet-rfi-sas et meynet-repreneurs : deadline < 10j, contacter mandataire Meynet en priorité
+- meynet-soci-t-lucca : deadline 28/05, HCR avec emplacement à vérifier
+- 2 SIRENs résolus : SOLAK ENERGIE (535364798), RFI SAS (818024317)
+- Enrichissement Pappers : bilans non disponibles — vérifier INPI manuellement
