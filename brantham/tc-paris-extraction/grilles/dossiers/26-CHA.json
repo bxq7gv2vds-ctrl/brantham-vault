@@ -1,0 +1,37 @@
+{
+  "meta": {"dossier_id": "26-CHA", "dossier_folder": "26 - SCI C.H.A", "extracted_at": "2026-05-15", "extracted_by": "claude-agent", "confidence": "high"},
+  "identification": {
+    "cible_raison_sociale": "SCI C.H.A.",
+    "cible_siren": "423331776",
+    "naf_secteur": "68.20B Location de terrains et d'autres biens immobiliers",
+    "sous_secteur": "Foncier camping - Camping Soleil d'Oc 4* Narbonne Plage (197 emplacements, franchise Camping Paradis) - Groupe NEOCAMP Pôle Foncier",
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "date_audience_cession": "2026-04-02",
+    "aj_nom": "Me Lou Flechard ; Me Maxime Langet",
+    "aj_etude": "SCP CBF Associés ; SELAS BL & Associés",
+    "mj_nom": "Me Florian Lacour ; Me Camille Steiner",
+    "mj_etude": "SELAFA MJA ; SELARL Athena",
+    "juge_commissaire": "M. Franck Meynaud",
+    "causes_defaillance": "Filiale du Groupe NEOCAMP en RJ (7 procédures simultanées 12/11/2025) - 2 crédits Banque Courtois encore dus 38 033€ ; bail commercial Lormed 69 480€ HT/an échéance 30/10/2025",
+    "nb_offres_recues": 6,
+    "effectif_total": 0,
+    "actif_principal": "Terrain 46028 m² (4ha 60a 28ca) cadastré BV n64/76/BW n7/BV n5 à Narbonne Plage 11100 + bâti ~450m² + bail commercial avec SAS LORMED (Camping Paradis Soleil d'Oc 4* 197 empl.)",
+    "fourchette_offres_eur": "3€ symbolique (CAMPALDIA) à 1M€ (FEMINA STYL+MARENGO). HOMAIR offre 800k€ + 1,7M€ charges aug. HPA Méditerranéo 600k€. KBC 100k€ + 38k€ Banque Courtois. SEASONOVA lettre d'intention sans prix."
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Selon analyses-gagnants-tribunal : Groupe SEASONOVA (Guillaume Lemarchand) gagnant principal Alpha Camping 15 sites (audience 02/04/2026). Pour SCI CHA spécifiquement, issue cession sous SEASONOVA probable mais à confirmer.",
+    "nb_offres_concurrentes": 6,
+    "concurrents_resume": [
+      {"nom": "HPA MEDITERRANEO (Baumstark)", "positionnement_2lignes": "SAS 13480 Cabriès capital 6,24M€ - 4 campings depuis 2009 + BP Soleil d'Oc CA 1,17M→1,41M, capex 651k (parc aquatique+rénov), 600k€"},
+      {"nom": "HOMAIR VACANCES (ECG)", "positionnement_2lignes": "Leader européen HPA, PAI Partners+ADIA actionnaires - 800k€ murs + 400k€ fonds Lormed = 1,2M€, charges aug 1,7M€, 3 emplois, marque HOMAIR remplace Camping Paradis"},
+      {"nom": "FEMINA STYL+MARENGO", "positionnement_2lignes": "SAS conjointe 350976551+408567071 - Projet Global indivisible 26 entités NEOCAMP (Titres ILO préféré subsidiairement 4 offres Pôle Foncier) - 1M€"},
+      {"nom": "KBC SAS (George Molin)", "positionnement_2lignes": "SAS 814346300 Dijon capital 100k - 100k€ murs seuls + reprise Banque Courtois 38k - conserve bail Lormed - offre la plus basse"},
+      {"nom": "SLBC PERON (CAMPALDIA)", "positionnement_2lignes": "SAS 890876899 Bidart capital 5M€ - 5 campings + 1 résidence Côte basque/Oléron - 3€ symbolique indivisible 7 sociétés NEOCAMP+15 campings"},
+      {"nom": "GROUPE SEASONOVA", "positionnement_2lignes": "EURL 538695560 Normandie capital 600k - 20 campings Slow Life - GAGNANT principal Alpha Camping 15 sites - lettre d'intention sans prix pour Lormed+CHA+L'Escapade+Grande Lisse"}
+    ]
+  },
+  "notes_dossier": "Dossier NEOCAMP/Pôle Foncier - 7 procédures simultanées 12/11/2025. SCI CHA détient foncier du Camping Soleil d'Oc 4* loué à SAS LORMED (filiale NEOCAMP également en RJ). Offres très diverses : (a) opérateurs HPA stratégiques (HOMAIR/ECG, HPA Méditerranéo, SEASONOVA, CAMPALDIA) ; (b) investisseur murs-only (KBC) ; (c) consortium PE+immo (FEMINA STYL+MARENGO partenariat Royon). Pattern Neocamp validé : SEASONOVA gagnant Alpha 15 sites, MAEVA gagnant franchises. Pour SCI CHA spécifiquement, indivisibilité avec offres connexes Lormed+ACO est clé. Charges augmentatives chez HOMAIR (1,7M€ prêt+leasing+CP) montrent le vrai coût d'acquisition (~2,5M€ total)."
+}
