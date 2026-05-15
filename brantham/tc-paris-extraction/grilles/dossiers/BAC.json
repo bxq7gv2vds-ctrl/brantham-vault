@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "dossier_id": "BAC",
+    "dossier_folder": "19 - SAS BAC COMMUNICATION",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "BAC COMMUNICATION (PROGRESS VALUE)",
+    "cible_siren": "413830266",
+    "forme_juridique": "SAS",
+    "capital_social_eur": 21440,
+    "rcs": "413 830 266 RCS PARIS",
+    "adresse_siege": "41 rue Saint-Sabin, 75011 PARIS",
+    "naf_secteur": "Formation professionnelle / Santé / Enseignement supérieur",
+    "sous_secteur": "Centre QUALIOPI audioprothèse/électroradiologie/orthophonie + holding",
+    "ca_dernier_exercice_eur": null,
+    "effectif_total": 4,
+    "nb_sites": 3,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-10-29",
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Maître Florent HUNSINGER",
+    "aj_etude": "SCP HUNSINGER-BOUTON",
+    "mj_nom": "Maître Pablo CASTANON",
+    "mj_etude": "SELARL ASTEREN",
+    "juge_commissaire": null,
+    "tribunal": "Tribunal des activités économiques de PARIS",
+    "causes_defaillance": "Dirigeant Didier SITBON caution solidaire engagements bancaires PROGRESS SUP (~500k€), exigible suite RJ PROGRESS SUP 19/08/2025. Baisse inscriptions audioprothèse 220→80 étudiants entre 2024-2025 et 2025-2026.",
+    "broker_agence_mandate": null
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "date_jugement_issue": null,
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_synthese": null,
+    "nb_offres_concurrentes": 1,
+    "concurrents_resume": [
+      {"nom": "J.L 13 RUE DE LA GRANGE BATELIERE (Jean-Luc BERREBI / EURIMMOS Luxembourg)", "positionnement_2lignes": "Family office, cousin 2e degré dirigeant (L.642-3 obligatoire). 2 offres successives BAC-01 (6 janv, 2 emplois) → BAC-02 (30 janv, 1 emploi mais charge aug 67k Lyon + BP détaillé)."}
+    ],
+    "enseignement_clef": "Pattern unique : repreneur PARENT du dirigeant (cousin 2e degré) — applicabilité L.642-3 = requête parquet obligatoire (au lieu de cession à un tiers). Holding patrimoniale luxembourgeoise via EURIMMOS, hors secteur formation. Offre 'améliorée' réduit le volet social (2→1) mais ajoute charges augmentatives 67k€ pour gestion extinctive site Lyon. Filiales : PROGRESS SUP en RJ 19/08/2025, PROGRESS COM en LJ 11/09/2025. Indivisibilité offre BAC + PROGRESS SUP. Recul des inscriptions audioprothèse de 220 à 80 = quasi-disparition cœur métier."
+  },
+  "sources_externes": []
+}

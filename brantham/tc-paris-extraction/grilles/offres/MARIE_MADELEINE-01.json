@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "offre_id": "MARIE_MADELEINE-01",
+    "dossier_id": "MARIE_MADELEINE",
+    "dossier_folder": "22 - SCI MARIE MADELEINE",
+    "fichier_source_pdf": "22_SCI_MARIE_MADELEINE_offre1.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "partial_pdf_only"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI MARIE MADELEINE",
+    "cible_siren": null,
+    "naf_secteur": "Immobilier",
+    "effectif_total": 0,
+    "type_procedure": "RJ",
+    "dldo": "2026-03-02",
+    "aj_nom": "Me Hélène BOURBOULOUX",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Me Valérie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "M. Jean-François PONCET"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 5
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Victor COHEN — adresse 198 Avenue Victor Hugo 75116 Paris",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": ["Groupe foncier patrimonial MUVICO"],
+    "capacite_financiere_demontree": "NR",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "MUVICO",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 480000,
+    "decomposition": {
+      "incorporels_eur": null,
+      "corporels_eur": 480000,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": 480000,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "NR",
+    "garanties_paiement": null,
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "engagements_L642_12_al4": false
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 0,
+    "pct_reprise": null,
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": 0},
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "NR",
+    "diagnostic_resume": "PDF >5MB scanné non extrait — données limitées au CSV de référence",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "NR",
+    "maintien_site": "NR",
+    "maintien_marques_savoir_faire": "NR"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "NR",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {"incessibilite_temporaire_mois": null, "non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": null,
+    "items": [],
+    "agressivite_envers_dirigeants": "NR"
+  },
+  "forme_presentation": {
+    "structure_dominante": "NR",
+    "ton_dominant": "NR",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_business_plan": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["PDF >5MB scanné non extrait — données partielles uniquement"],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "MUVICO groupe foncier patrimonial — offre globale Foncière Melot Gouband 26 SCI",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": "Offre globale portefeuille FHBX",
+    "phrase_justification_prix": "Initiale 480k€ (09/02/2026) / Améliorée 500k€ (02/03/2026)"
+  }
+}

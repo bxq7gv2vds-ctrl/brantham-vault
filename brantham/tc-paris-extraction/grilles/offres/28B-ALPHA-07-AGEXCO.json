@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "offre_id": "28B-ALPHA-07-AGEXCO",
+    "dossier_id": "28B-ALPHA",
+    "dossier_folder": "28 - SAS a associe unique ALPHA CAMPING",
+    "fichier_source_pdf": "offre_07_gd71720923.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "ALPHA CAMPING",
+    "cible_siren": "793853128",
+    "naf_secteur": "Hotellerie de plein air / Camping",
+    "sous_secteur": "2 fonds Saint-Remy-sur-Durolle (63) : Demeures du Lac + Les Chanterelles (Camping Paradis 4*)",
+    "ca_dernier_exercice_eur": 14440357,
+    "effectif_total": 46,
+    "nb_sites": 2,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "date_audience_cession": "2026-04-02",
+    "aj_nom": "Maitre Maxime LANGET ; Maitre Lou FLECHARD",
+    "mj_nom": "Maitre Florian LACOUR ; Maitre Camille STEINER",
+    "juge_commissaire": "Monsieur Franck MEYNAUD"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Seasonova retenu (perimetre couvre Demeures+Chanterelles ?) + Maeva franchises. AGEXCO local — non retenu face a consolidateur.",
+    "motifs_rejet_verbatim": "Offre limitee 2 sites + 3 CDI + 20k EUR. Concurrence multi-sites preferable pour tribunal.",
+    "nb_offres_concurrentes": 8
+  },
+  "profil_repreneur": {
+    "forme": "holding_ad_hoc",
+    "age_parcours_dirigeant": "Pierre VAURS — expert-comptable installe a Thiers depuis 30 ans, gerant SARL AGEXCO (capital 120 000 EUR) et dirigeant plusieurs etablissements en Puy-de-Dome",
+    "experience_sectorielle_oui_non": "non",
+    "experience_sectorielle_annees": 0,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SARL",
+      "date_creation": "En cours d'immatriculation",
+      "capital_eur": 120000,
+      "rcs": "RCS Clermont-Ferrand (en cours)",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "newco"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 20000,
+    "decomposition": {
+      "incorporels_eur": 9000,
+      "corporels_eur": 10000,
+      "stocks_eur": 1000,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 535418.84,
+    "modalites_paiement": "NR",
+    "garanties_paiement": null,
+    "cheque_consignation_eur": null,
+    "note_prix": "Offre 20 000 EUR ventilee : Chanterelles 4500 incorp + 5000 corp + 500 stocks = 10 000 EUR ; Demeures du Lac 4500 incorp + 5000 corp + 500 stocks = 10 000 EUR. Engagement participation financiere travaux importants : Chanterelles 233 213,25 EUR + Demeures du Lac 302 205,59 EUR = 535 418,84 EUR (charges augmentatives)."
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail commercial Chanterelles (Commune Saint-Remy-sur-Durolle) — loyer 8500 EUR/an + 3% EBITDA + participation 233 213 EUR (26 351 EUR signature + annuites 2025-2035)", "Bail commercial Demeures du Lac (Commune Saint-Remy-sur-Durolle) — loyer 75-90k EUR/an + 3% EBITDA + participation 302 205 EUR (41 934 EUR signature + annuites)"],
+    "credit_bail_repris": ["Credit-bail chalets (Lorequip, CM CCLS, SG Sogelease) a confirmer"],
+    "contrats_clients_critiques_repris": ["Contrats commerciaux plateformes Campings.com/Booking/Maeva/Abritel/Airbnb/Mistercamp/Tripadvisor/Camping-and-co", "Contrats voyagistes et autocaristes"],
+    "contrats_fournisseurs_repris": ["Depots pain/repas/traiteur"],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Terminal carte bleue a negocier avec banque ; contrat franchise Camping Paradis exclu",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 3,
+    "nb_total_salaries": 46,
+    "pct_reprise": 6.52,
+    "categories_reprises": "3 CDI (les 3 contrats existants des 2 campings)",
+    "categories_non_reprises_raisons": "Perimetre limite 2 sites",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 0, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Reprise 2 fonds 4* — Chanterelles 168 emplacements + 8 chalets + 2 tentes lodge + piscine couverte chauffee + mini-golf + restaurant. Travaux engages 2022-2024 : 12 chalets remplaces, pompes a chaleur reversibles, classification 4* Demeures du Lac, 35 emplacements supplementaires Chanterelles.",
+    "vision_strategique_phrase": "Reprise 2 fonds 4* Puy-de-Dome — proximite expert-comptable local 30 ans",
+    "pivots_prevus": null,
+    "synergies_repreneur": "Pas de synergies HPA (expert-comptable, non sectoriel)",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": 535418.84,
+    "capex_calendrier": "Annuites 2025-2035 (10 ans)",
+    "capex_nature": "Participation financiere travaux importants 2 baux (Chanterelles 233k + Demeures du Lac 302k)",
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null, "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "partiel"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 120000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": true,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "Demande entree jouissance rapide",
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "technique",
+    "executive_summary_present": false,
+    "annexes_kbis": false, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false, "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false, "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": true,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Aucune experience sectorielle HPA (expert-comptable)"],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Expert-comptable Thiers 30 ans + dirigeant plusieurs etablissements Puy-de-Dome",
+    "phrase_engagement_social": "Reprise integrale 3 CDI existants",
+    "phrase_vision_strategique": "Caractere indissociable des 2 fonds",
+    "phrase_justification_prix": "Prix tient compte travaux importants a realiser (535k EUR participation travaux baux communaux)"
+  }
+}

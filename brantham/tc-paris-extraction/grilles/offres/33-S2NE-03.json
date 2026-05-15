@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "offre_id": "33-S2NE-03",
+    "dossier_id": "S2NE",
+    "dossier_folder": "33 - SA SOCIETE NOUVELLE DU NOUVEL ECONOMISTE (dite S2NE)",
+    "fichier_source_pdf": "offre_03_gd72569170.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "Societe Nouvelle du Nouvel Economiste",
+    "cible_siren": "809449234",
+    "naf_secteur": "Presse economique et financiere",
+    "sous_secteur": "Activites de presse + annonces legales",
+    "ca_dernier_exercice_eur": 1770000, "ebitda_eur": null, "effectif_total": 6, "nb_sites": 1,
+    "type_procedure": "RJ", "date_ouverture": "2025-12-09", "dldo": "2026-01-09", "date_audience_cession": null,
+    "aj_nom": "Lou Flechard", "aj_etude": "SCP CBF Associes",
+    "mj_nom": "Stephane Gorrias", "mj_etude": "SCP BTSG",
+    "juge_commissaire": "Patrick Armand",
+    "causes_defaillance": "RN 2024 -1,75M ; arret partenariat Le Revenu + chute abonnements + charges exceptionnelles 570k"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente", "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null, "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 5, "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Pierre-Yves Platini (via Platini Brothers SAS, President). Groupe mind specialiste digital market intelligence et evenementiel B2B. 5 secteurs verticaux (Medias/pub, Banque/finance/fintech, Sante/e-sante/biotech, RH/RSE, Commerce/Grande distribution). 340+ entreprises clientes. 32 collaborateurs dont 17 journalistes CDI titulaires cartes de presse. Membre Spiil (Pierre-Yves Platini = tresorier). Accueille deja les equipes du Nouvel Economiste dans ses locaux bd Sebastopol.",
+    "experience_sectorielle_oui_non": "oui", "experience_sectorielle_annees": 13,
+    "track_record_reprises": ["mind Media, mind Fintech, mind Retail, mind RH, mind Health (creations)"],
+    "capacite_financiere_demontree": "forte_documentee", "cautionnement_personnel": "NR",
+    "vehicule_reprise": {"forme_juridique": "SAS", "date_creation": null, "capital_eur": 3481, "rcs": "752467068", "kbis_present_en_annexe": true, "type_vehicule": "substitution_prevue"}
+  },
+  "structure_prix": {
+    "prix_total_eur": 6290,
+    "decomposition": {"incorporels_eur": 5000, "corporels_eur": 1290, "stocks_eur": null, "creances_clients_eur": null, "immeubles_eur": null, "titres_eur": null},
+    "charges_augmentatives_eur": 28907.60,
+    "modalites_paiement": "NR", "garanties_paiement": null, "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [], "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Habilitation annonces legales SPEL 2026"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false, "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Reprise de la dette abonnee (28 907,60 EUR)",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 3, "nb_total_salaries": 6, "pct_reprise": 50.0,
+    "categories_reprises": null, "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null, "sanction_non_respect_emplois": null, "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Frontline Media (Groupe mind) — nativement numerique, modele abonnement B2B (2/3 activite, ARPU 6 000 EUR/an), statut SPEL avec numero commission paritaire presse. CA 2024 : 2,9M dont 2M abonnements. BP previsionnel : CA 2026 1,72M, 2027 1,94M, 2028 2,06M. Retour aux benefices prevu en 2028 (+258K RN). Strategie : transition digitale, passage au mensuel papier, developpement evenementiel/legaltech/consulting.",
+    "vision_strategique_phrase": "Le modele conventionnel de la presse economique requiert une mutation vers une strategie multiforme, ou le numerique constitue le principal vecteur de developpement",
+    "pivots_prevus": "Transition hebdo->mensuel + developpement evenementiel/legaltech/consulting",
+    "synergies_repreneur": "Equipes Le Nouvel Economiste deja accueillies dans locaux Frontline bd Sebastopol",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null, "capex_calendrier": "BP 3 ans", "capex_nature": null,
+    "plan_affaires_3ans_present": true, "ca_an1_eur": 1720000, "ca_an2_eur": 1940000, "ca_an3_eur": 2060000, "ebitda_an3_eur": 258000,
+    "hypotheses_qualification": "realistes", "maintien_site": "oui_total", "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null, "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false, "dette_bancaire_lettre_confort": false, "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false, "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null, "tresorerie_securite_eur": null, "partenaires_financiers": ["Fonds propres"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null, "caution_dirigeant_montant_eur": null, "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null, "maintien_territoire_site_duree": null, "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false, "nb_conditions": 6,
+    "items": [
+      "Inexistence de surete transmissible L.642-12",
+      "Engagements fournisseurs a conditions normales",
+      "Confirmation habilitation annonces legales SPEL 2026",
+      "Precision charges mensuelles FNE pour mise a disposition de personnel",
+      "Absence de modification substantielle des actifs",
+      "Accord du Comite d'Administration de Frontline Media"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null, "nb_pages_corps_offre": null, "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille", "ton_dominant": "technique", "executive_summary_present": true,
+    "annexes_kbis": true, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true, "annexes_organigramme_cible": true, "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false, "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": false, "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false, "soutien_clients_cles": false, "soutien_banques_historiques": false,
+    "personnalisation_visite_site": true, "personnalisation_rencontre_equipes": true, "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent", "differenciation_concurrents_explicite": false, "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": false, "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Frontline MEDIA, editeur specialise dans l'information economique et financiere, propose un projet de reprise ambitieux visant a preserver l'heritage du Nouvel Economiste tout en le transformant",
+    "phrase_engagement_social": "3 emplois repris sur 6",
+    "phrase_vision_strategique": "Le numerique constitue le principal vecteur de developpement, tout en perpetuant une offre imprimee triee et haut de gamme et en developpant une activite evenementielle permettant de rentabiliser les actifs du Nouvel Economiste",
+    "phrase_justification_prix": "5 000 EUR incorporels + 1 290 EUR corporels = 6 290 EUR + reprise dette abonnee 28 907,60 EUR"
+  }
+}

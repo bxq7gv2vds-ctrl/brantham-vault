@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "dossier_id": "24",
+    "dossier_folder": "24 - SAS LA BELLE FORÊT",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS LA BELLE FORET",
+    "cible_siren": "899658983",
+    "naf_secteur": "Credits carbone / reforestation / Label Bas-Carbone",
+    "sous_secteur": "Developpement et commercialisation projets forestiers labellises LBC - sylviculture melangee a couvert continu",
+    "type_procedure": "sauvegarde",
+    "date_ouverture": "2025-11-10",
+    "dldo": "2025-12-12",
+    "date_audience_cession": null,
+    "aj_nom": "Maitre Charles-Henri CARBONI ; Maitre Jean BARON",
+    "aj_etude": "SELARL DETROIT ; SCP CBF ASSOCIES",
+    "mj_nom": "Me Sabine ROCHER",
+    "mj_etude": "SELARL ASTEREN (55 rue de Lyon 75012 Paris)",
+    "juge_commissaire": "M. Patrick Renouard",
+    "causes_defaillance": "Difficultes financieres en amont de la maturite du marche du carbone volontaire francais. RG 2025091177 / PC P202504377. Capital social 242.918 EUR. 87 rue de Reuilly Paris 12.",
+    "nb_offres_recues": 4,
+    "effectif_total": 8,
+    "actif_principal": "Portefeuille 31 contrats forestiers labellises ou en cours LBC - surface cumulee ~2.500 ha (Reforest'Action declare ~7.700 ha foret / ~6.300 ha projet) - tonnage cumule ~120.000 tCO2eq 2025-2030 / ~480.000 tCO2 sur 20 ans. Marque La Belle Foret. Materiel terrain : boussoles SUUNTO, GPS GARMIN, drones DJI Mini 3 Pro, telemetres NIKON/HAGLOF, tablettes SAMSUNG, vehicule DACIA Jogger.",
+    "specificites": "Methode 'Gestion forestière à stock continu' caractère PUBLIC et non cessible (limite la valorisation). 5 salaries pourvus sur 8 postes (3 partants declares). Dataroom electronique ouverte 02/12/2025."
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 4,
+    "concurrents_resume": [
+      {
+        "nom": "OKLIMA SAS (filiale 100% EDF, Thomas BLADIER President)",
+        "positionnement_2lignes": "Capital 1,837 ME - Neuilly. Prix 30.000 EUR (25k incorporels + 5k corporels). 0 emplois repris. Offre la moins-disante sur le social mais signature 'corporate' (EDF). 13 pages claires."
+      },
+      {
+        "nom": "Stock CO2 (Guillaume PANTHOU-BROCHARD, cofondateur)",
+        "positionnement_2lignes": "SAS independante 200+ projets labellises LBC, 600.000 tonnes CO2 ~ 8% du marche national. CA 125k 2021 -> 1,13 ME 2024, EBITDA 435k. Prix 10.000 EUR. Reprise majoritaire salaries (plafond 60k brut). Lettre d'intention non engageante 8 pages."
+      },
+      {
+        "nom": "Reforest'Action SAS (B Corp, Stephane HALLAIRE President)",
+        "positionnement_2lignes": "Acteur mondial reforestation 1.900+ projets 45 pays, CA 21,6 ME 2024-25, 76 salaries, 36 projets certifies LBC+VCS. Prix 50.000 EUR ferme et definitif. 0 reprise personnel. Offre la mieux structuree (B Corp). 11 pages."
+      },
+      {
+        "nom": "Piccolo 5 S.A. (Sylvain GOUPILLE)",
+        "positionnement_2lignes": "Holding patrimoniale familiale Luxembourg 14 ME bilan. Actionnaire de reference Le Printemps des Terres (BNP, CDC, Allianz, Generali, Abeille, Credit Mutuel AM), RESTORE, Biodiv'AM, Biota, Fronterra. Prix 23.432 EUR. Reprise 6 salaries sur 8 (exclusion 2 dirigeants). Plan d'affaires 2026-30 detaille. 9 pages."
+      }
+    ],
+    "note_concurrence": "Concurrence forte qualitativement (4 acteurs serieux du marche carbone). Prix tous tres bas (10k-50k) refletant la valorisation difficile : methode publique non cessible, projets long-terme, marche carbone immature. Differenciation principale : volet social (6 salaries Piccolo, majorite Stock CO2, 0 Oklima/Reforest) + capacite financiere + projet industriel."
+  },
+  "_related_offers": ["24-01", "24-02", "24-03", "24-04"]
+}

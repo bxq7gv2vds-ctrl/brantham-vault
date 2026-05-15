@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "offre_id": "CGB-03",
+    "dossier_id": "CGB",
+    "dossier_folder": "01 - SAS à associé unique CLUB GRANDS BOULEVARDS",
+    "fichier_source_pdf": "offre_03_gd66013817.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "CLUB GRANDS BOULEVARDS",
+    "cible_siren": "878867654",
+    "naf_secteur": "Salle de sport / Fitness",
+    "effectif_total": 11,
+    "type_procedure": "RJ",
+    "date_ouverture": "2024-10-02",
+    "dldo": "2025-09-17",
+    "aj_nom": "Me Marine PACE",
+    "aj_etude": "SELARL 2M&ASSOCIES",
+    "mj_nom": "Me Lucile JOUVE",
+    "mj_etude": "SELAFA MJA"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "nb_offres_concurrentes": 3
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Gilles LEBREUX (Président, né 07/03/1964 à Bourgoin-Jallieu) — ex-directeur logistique CASINO (1989), ex-président Easydis (filiale Casino CA 550M€, 3600 salariés), co-fondateur LANGA (cédé à Engie Green Holding 2018), fondateur LANGA INTERNATIONAL 2018 (12 pays, 180 salariés)",
+    "experience_sectorielle_oui_non": "non",
+    "experience_sectorielle_annees": 0,
+    "track_record_reprises": ["LANGA (cédé Engie Green Holding 2018)", "LANGA INTERNATIONAL (12 pays)", "Easydis (ex-président)"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "ALHIA GREEN SAS (faculté substitution filiale dédiée)",
+      "date_creation": null,
+      "capital_eur": 10080099.51,
+      "rcs": "492744925",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 70000,
+    "decomposition": {
+      "incorporels_eur": 60000,
+      "corporels_eur": 10000,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 395000,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds propres ALHIA GREEN. Prix comptant à signature. Coût total reprise estimé 465 000€ (70k prix + 395k charges).",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail commercial (négociation envisagée)"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Contrats abonnés"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": true,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Modalités transfert charge sûretés L.642-12 al.4 conditionnées à accord BNP PARIBAS et CRÉDIT AGRICOLE",
+    "retraites_chapeau_indemnites": "Droits sociaux 8k€ congés payés à fin août 2025"
+  },
+  "volet_social": {
+    "nb_salaries_repris": 11,
+    "nb_total_salaries": 11,
+    "pct_reprise": 100.0,
+    "categories_reprises": "Intégralité personnel : 9 CDI + 2 apprentis",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 0},
+    "engagement_maintien_emplois_duree_mois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "diagnostic_resume": "Holding ALHIA GREEN détient trentaine de participations. Nom commercial EAST.LOG. Pas d'expérience secteur fitness — diversification.",
+    "vision_strategique_phrase": "Acquisition diversification holding",
+    "pivots_prevus": null,
+    "synergies_repreneur": "Aucune synergie sectorielle (holding LOGISTIQUE/ENERGIE)",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 465000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["ALHIA GREEN (fonds propres)"]
+  },
+  "engagements_specifiques": {"incessibilite_temporaire_mois": null, "non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 2,
+    "items": [
+      "Accord SOCIETE IMMOBILIERE PAPILLON sur renégociation bail",
+      "Accord BNP PARIBAS et CRÉDIT AGRICOLE sur modalités et montant transfert charge sûretés L.642-12 al.4"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_business_plan": false,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_cni_dirigeants": true,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "incoherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Pas d'expérience secteur fitness — diversification holding logistique/énergie", "Offre indivisible CGB+PR — risque rejet si un seul retenu"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": "VALOREN", "avocat_nom": "Morgane VALLA"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Holding ALHIA GREEN — trentaine de participations, M. Lebreux ex-CASINO/Easydis/LANGA",
+    "phrase_engagement_social": "Intégralité du personnel (9 CDI + 2 contrats apprentissage) — 8k€ congés payés repris",
+    "phrase_vision_strategique": "Offre indivisible CLUB GRANDS BOULEVARDS + CLUB PALAIS ROYAL (PR : 70k€ identique, 7 emplois, charges aug 444k€, total 514k€)",
+    "phrase_justification_prix": "Coût total reprise estimé 465 000€ (70k prix + 395k charges augmentatives)"
+  }
+}

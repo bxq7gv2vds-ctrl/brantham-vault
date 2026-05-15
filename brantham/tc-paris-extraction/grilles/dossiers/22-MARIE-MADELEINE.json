@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "dossier_id": "MARIE_MADELEINE",
+    "dossier_folder": "22 - SCI MARIE MADELEINE",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "partial_pdf_only"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI MARIE MADELEINE",
+    "cible_siren": null,
+    "forme_juridique": "SCI",
+    "capital_social_eur": null,
+    "rcs": null,
+    "adresse_siege": null,
+    "nom_commercial": null,
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "Société SCI — détention d'actifs immobiliers (description précise non extraite, PDFs >5MB scannés)",
+    "ca_dernier_exercice_eur": null,
+    "effectif_total": 0,
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": "2026-03-02",
+    "date_audience_cession": null,
+    "aj_nom": "Me Hélène BOURBOULOUX (avec François RAYBAUD et Paul CHARREY)",
+    "aj_etude": "SELARL FHBX",
+    "adresse_aj": "176 avenue Charles-de-Gaulle, 92200 Neuilly-sur-Seine",
+    "mj_nom": "Me Valérie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "M. Jean-François PONCET",
+    "tribunal": "Tribunal des Activités Économiques de Paris",
+    "appartenance_groupe": "Dossier consolidé FHBX 'Foncière Melot Gouband / Affaire Balthazar' (26 entités). Voir CSV INSULA pour détail portefeuille consolidé.",
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "date_jugement_issue": null,
+    "repreneur_retenu": null,
+    "prix_retenu_eur": null,
+    "emplois_repris_retenu": 0,
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_synthese": null,
+    "nb_offres_concurrentes": 5,
+    "concurrents_resume": [
+      {"nom": "MUVICO (Victor COHEN)", "positionnement_2lignes": "Groupe foncier patrimonial. Initiale 480k€ (09/02/2026) → Améliorée 500k€ (02/03/2026). 5 offres déposées via MUVICO sur 26 entités FHBX."}
+    ],
+    "enseignement_clef": "Dossier foncière SCI consolidée FHBX 26 entités. Données PDF >5MB scannés non extraits. Repreneur principal apparent : MUVICO (Victor COHEN). Recommandation : extraction PDF offline par OCR puis re-traitement pour précision."
+  },
+  "sources_externes": []
+}

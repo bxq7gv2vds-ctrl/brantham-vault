@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "offre_id": "58-01",
+    "dossier_id": "58",
+    "dossier_folder": "58 - SCA DE LAUNAY",
+    "fichier_source_pdf": "58_SCA_DE_LAUNAY_offre1.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCA DE LAUNAY",
+    "cible_siren": "383723699",
+    "naf_secteur": "Arboriculture / Pommes",
+    "sous_secteur": "Filiale INNATIS Pole Val de Loire (Branche Angevine 49)",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 3,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-16",
+    "dldo": "2026-03-18",
+    "date_audience_cession": "2026-04-13",
+    "aj_nom": "Me Marine PACE / Me Paul-Henri AUDRAS",
+    "aj_etude": "SELARL 2M&Associes / SELAS AJ UP",
+    "mj_nom": "Me Valerie LELOUP-THOMAS / Me Charlotte THIRION",
+    "mj_etude": "SELAFA MJA / SELARL ATHENA",
+    "juge_commissaire": null,
+    "causes_defaillance": "Baisse production HoneyCrunch 2023-2025 (60% surfaces, recoltes 40% commercialisable vs 70% requis) + station Verrieres-en-Anjou 30M EUR sous-utilisee + echec restructuration dette 2024"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": "Concurrent ecarte (Les Echos / Reussir Fruits & Legumes : Les Vergers d'Anjou retiennent le pole ligerien pour 7M EUR vs consortium CASTEL+LEROY+VCAPITAL)",
+    "nb_offres_concurrentes": 1,
+    "concurrents_resume": [
+      {"nom": "SARL CELHER (BOUJUAU)", "positionnement_2lignes": "Groupe Boujuau familial arboricole 49, apporteurs cooperative Vergers d'Anjou, offre 50000 EUR amelioree avec reprise 3/3 salaries — RETENUE car alignee Vergers d'Anjou repreneur final."}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "James LAUNAY (President CASTEL INVEST, ex-dirigeant SAS LES VERGERS LAUNAY fusionnee dans LVL POMANJOU, salarie LVL POMANJOU gestion sites 37/72) + Pierre LEROY (LEROY FRERES ET SOEUR via PL INVEST, Maison Leroy 200 ans, fondateur Paysans Resistants) + Nicolas VERGER (VCAPITAL, arboriculteur + avocat)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 25,
+    "track_record_reprises": ["AGI-SERRE", "Reseau Les Halles du Verger (Le Mans, Vannes, Tours)", "Paysans Resistants (sauvetage 10 exploitations en 2 ans)", "Maison Leroy bicentenaire"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "NewCo SCEA LVL ANJOU (a constituer)",
+      "date_creation": null,
+      "capital_eur": 1000,
+      "rcs": null,
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 50000,
+    "decomposition": {
+      "incorporels_eur": 1000,
+      "corporels_eur": 24000,
+      "stocks_eur": 1000,
+      "creances_clients_eur": null,
+      "immeubles_eur": 24000,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 500000,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Attestations dispo des fonds promises au 09/04/2026. Fonds propres via avances en compte-courant des holdings.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": 190000,
+    "passif_privilegie_repris": "Echeances bancaires posterieures Credit Agricole Touraine Poitou 190000 EUR si L.642-12 al.4 applicable. Passif bancaire LVL POMANJOU titres 2000000 EUR.",
+    "retraites_chapeau_indemnites": "500000 EUR conges payes/RTT/repos compensateurs (mention introduite dans l'offre amelioree)"
+  },
+  "volet_social": {
+    "nb_salaries_repris": 2,
+    "nb_total_salaries": 3,
+    "pct_reprise": 66.7,
+    "categories_reprises": "2 ouvriers arboricoles CDI",
+    "categories_non_reprises_raisons": "Assistante administrative CDI 1984 non reprise (a demissionne 10/04/2026)",
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": 1, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Offre AMELIOREE consortium familial : reprise integrale actifs (corp + incorp + immobiliers) + tous baux ruraux + materiel + plantations + installations techniques. Cout total Repreneur pour les 11 Offres Innatis : 6490000 EUR (2M prix cession + 1.8M BFR + 500K conges + 2M passif bancaire titres + 190K echeances bancaires). Embauche prevue 380 saisonniers juillet-decembre.",
+    "vision_strategique_phrase": "Sauvegarde 300 ha vergers (210 Angevine + 90 Touraine), production cible 15000 T/saison a 50T/ha, redynamisation outils stockage/conditionnement.",
+    "pivots_prevus": "Restructuration outils production + transfert licences HoneyCrunch/Zingy/Choupette/Kikoka + emballage Pink Lady/Juliet",
+    "synergies_repreneur": "Groupe consolide ~40M EUR CA, 200 collaborateurs, 150+ ha vergers + 7 ha serres. Maison Leroy + Paysans Resistants + Reseau Les Halles du Verger + AGI-SERRE. James LAUNAY connait deja les sites (salarie LVL POMANJOU).",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": 1800000,
+    "capex_calendrier": null,
+    "capex_nature": "BFR redemarrage",
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "partiel"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 6490000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": 1800000,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["CASTEL INVEST (CP 4214K)", "LEROY FRERES ET SOEUR (CP 1593K)", "VCAPITAL (CP 80K)", "SAS BBM (holding NewCo)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 7,
+    "items": [
+      "Absence garantie/emprunts L.642-12 al.4-5 ou accord derogatoire",
+      "Accord Organes de la Procedure (purge compte-courant LVL POMANJOU 500000 EUR + renonciation sommes dues par SCEA LES VERGERS LAUNAY et BOUTINIERES)",
+      "Accord avec INNATIS DEVELOPPEMENT pour transfert licences HONEY CRUNCH, ZINGY, CHOUPETTE et KIKOKA (kiwi)",
+      "Autorisation emballage/conditionnement pommes PINK LADY et JULIET en soutien avec CARDELL EXPORT",
+      "Transfert licence Pink Lady Import via carte commerciale station OCEANE (Angers)",
+      "Confirmation acces informatiques et transfert effectif donnees informatiques",
+      "Confirmation transfert effectif trieur optique"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": true,
+    "annexes_attest_bancaire": true,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": true,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": true,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["7 CS conditionnant la realisation effective (vs 0 CS pour Vergers d'Anjou cooperative — argument decisif du tribunal en faveur du concurrent)"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": "Cabinet Fidal",
+    "avocat_nom": "Me Antoine BISDORFF, Delphine BRUNET, Sabrina DJELTI"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe consolide ~40M EUR CA, 200 collaborateurs, 150+ ha vergers + 7 ha serres. Maison Leroy 200 ans en 2024.",
+    "phrase_engagement_social": "Total Innatis : 116 salaries conserves / 140 (72 sur structures en plan de cession + 35 GE AZUR + 9 SCEA LES VERGERS LAUNAY)",
+    "phrase_vision_strategique": "Sauvegarde 300 ha vergers, production cible 15000 T/saison a 50T/ha",
+    "phrase_justification_prix": "Repartition prix 1000 incorporels + 24000 corporels + 1000 stocks + 24000 immobiliers = 50000 EUR"
+  }
+}

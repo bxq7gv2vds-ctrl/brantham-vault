@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "dossier_id": "18",
+    "dossier_folder": "18 - SARL 3S OPTIC",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SARL 3S OPTIC (enseigne EYESHOW)",
+    "cible_siren": "978996601",
+    "forme_juridique": "SARL",
+    "capital_social_eur": null,
+    "rcs": "978 996 601 RCS Paris",
+    "adresse_siege": "126 rue de Rennes, 75006 Paris",
+    "naf_secteur": "Optique / Lunetterie",
+    "sous_secteur": "Magasin franchisé EYESHOW (Paris 6e)",
+    "ca_dernier_exercice_eur": null,
+    "effectif_total": null,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-10-16",
+    "dldo": null,
+    "date_audience_cession": "2026-01-16",
+    "aj_nom": "Me Jérôme CABOOTER",
+    "aj_etude": "SELARL AJ LINK LABIS CABOOTER",
+    "mj_nom": "Me Charlotte THIRION",
+    "mj_etude": "SELARL ATHENA",
+    "juge_commissaire": "Monsieur Guillaume SIMON",
+    "tribunal": "Tribunal des activités économiques de Paris",
+    "causes_defaillance": null,
+    "broker_agence_mandate": null
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "date_jugement_issue": null,
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_synthese": null,
+    "nb_offres_concurrentes": 1,
+    "concurrents_resume": [
+      {"nom": "SAS LEV / SAS EYES ONE (Ilan LEVY — déjà franchisé EYESHOW Boulogne)", "positionnement_2lignes": "Franchisé existant du réseau cible, courrier soutien fondateur Cohen (annexe 9). Prix 1k€ symbolique mais charges aug 120k€ dépôt bail. Reprise 100% salariés."}
+    ],
+    "enseignement_clef": "Pattern fort : repreneur déjà franchisé du même réseau enseigne → soutien explicite du fondateur du réseau en annexe (lettre Cohen) = signal massif crédibilité. Audience fixée seulement 7 jours après le dépôt (9 janv → 16 janv) — timing extrêmement tendu. Prix symbolique 1k€ mais coût économique réel = dépôt bail 120k€."
+  },
+  "sources_externes": []
+}

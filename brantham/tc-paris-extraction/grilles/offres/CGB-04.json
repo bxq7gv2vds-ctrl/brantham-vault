@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "offre_id": "CGB-04",
+    "dossier_id": "CGB",
+    "dossier_folder": "01 - SAS à associé unique CLUB GRANDS BOULEVARDS",
+    "fichier_source_pdf": "offre_04_gd66013437.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "CLUB GRANDS BOULEVARDS",
+    "cible_siren": "878867654",
+    "naf_secteur": "Salle de sport / Fitness",
+    "effectif_total": 11,
+    "type_procedure": "RJ",
+    "date_ouverture": "2024-10-02",
+    "dldo": "2025-09-17",
+    "aj_nom": "Me Marine PACE",
+    "aj_etude": "SELARL 2M&ASSOCIES",
+    "mj_nom": "Me Lucile JOUVE",
+    "mj_etude": "SELAFA MJA"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_rejet_verbatim": "Offre initiale 17/09/2025 — améliorée par CGB-01 (10/10/2025) à 105 000€",
+    "nb_offres_concurrentes": 3
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Abdenbi AMIRACHE — fondateur J.2.A. HOLDING (2009, 14 marques), relance NEONESS 2021",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": ["J.2.A. HOLDING (14 marques)", "NEONESS (relance 2021)"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "WS HOLDING SAS (faculté substitution WS GRANDS BOULEVARDS)",
+      "date_creation": "2025",
+      "capital_eur": 609084.50,
+      "rcs": "989077763",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 50000,
+    "decomposition": {
+      "incorporels_eur": 45000,
+      "corporels_eur": 5000,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Virement bancaire au jour signature. Chèque AJ à l'audience.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail IMMOBILIERE PAPILLON"],
+    "credit_bail_repris": ["DE LAGE LANDEN LEASING (TECHNOGYM)"],
+    "contrats_clients_critiques_repris": ["Contrats abonnés"],
+    "contrats_fournisseurs_repris": ["PEAC FINANCE"],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Accord BNP+CA conditionné",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 11,
+    "nb_total_salaries": 11,
+    "pct_reprise": 100.0,
+    "categories_reprises": "11 contrats (9 CDI + 2 apprentis)",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 0},
+    "engagement_maintien_emplois_duree_mois": 24,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "WELLNEST SOCIETY soutenu par groupe MARTEK fitness/bien-être",
+    "vision_strategique_phrase": "Consolidation WS HOLDING",
+    "synergies_repreneur": "Groupe MARTEK + J.2.A. HOLDING",
+    "plan_affaires_3ans_present": true,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": true,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Fonds propres", "MARTEK"]
+  },
+  "engagements_specifiques": {"incessibilite_temporaire_mois": null, "non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 4,
+    "items": [
+      "Absence de litiges relatifs au bail / IMMOBILIERE PAPILLON",
+      "Accord BNP PARIBAS et CRÉDIT AGRICOLE sur prêts",
+      "Confirmation poursuite mise à disposition matériel PEAC FINANCE",
+      "Absence de révélation d'élément affectant l'équilibre économique"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_business_plan": true,
+    "annexes_cni_dirigeants": true,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": "SCP Hadengue & Associés", "avocat_nom": "Me François DUPUY"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Offre initiale du 17/09/2025 (DLDO)",
+    "phrase_engagement_social": "Aucun licenciement économique pendant 24 mois post-Date d'Entrée en Jouissance",
+    "phrase_vision_strategique": "WELLNEST SOCIETY avec soutien groupe MARTEK",
+    "phrase_justification_prix": "Offre initiale 50 000€ — améliorée à 105 000€ via CGB-01"
+  },
+  "bilan_repreneur": {
+    "capitaux_propres_eur": 6125350.75,
+    "exercice_clos": null
+  }
+}

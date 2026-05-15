@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "offre_id": "BAC-02",
+    "dossier_id": "BAC",
+    "dossier_folder": "19 - SAS BAC COMMUNICATION",
+    "fichier_source_pdf": "offre_01_gd74075745.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "BAC COMMUNICATION (PROGRESS VALUE)",
+    "cible_siren": "413830266",
+    "naf_secteur": "Formation professionnelle / Enseignement supérieur",
+    "sous_secteur": "Centre QUALIOPI audioprothèse / électroradiologie / orthophonie",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 4,
+    "nb_sites": 3,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-10-29",
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Maître Florent HUNSINGER",
+    "aj_etude": "SCP HUNSINGER-BOUTON",
+    "mj_nom": "Maître Pablo CASTANON",
+    "mj_etude": "SELARL ASTEREN",
+    "juge_commissaire": null,
+    "causes_defaillance": "Mêmes causes — caution PROGRESS SUP 500k€, recul audioprothèse 220→80 étudiants"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "amelioree_puis_retenue",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 0,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "family_office",
+    "age_parcours_dirigeant": "Jean-Luc BERREBI via EURIMMOS Luxembourg (Laurent GODINEAU). Cousin 2e degré SITBON.",
+    "experience_sectorielle_oui_non": "non",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": null,
+      "capital_eur": 64000,
+      "rcs": "582058657",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 10000,
+    "decomposition": {
+      "incorporels_eur": 9000,
+      "corporels_eur": 1000,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 67000,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Virement compte CDC MJ Castanon",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["17 rue Louis Blanc, Paris 75010"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Université Européenne de Madrid"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 1,
+    "nb_total_salaries": 4,
+    "pct_reprise": 25.0,
+    "categories_reprises": "1 salarié BAC repris (vs 2 dans offre initiale)",
+    "categories_non_reprises_raisons": "Réduction effectif sur BAC. PARALLÈLEMENT : 17 salariés maintenus à Lyon pendant gestion extinctive jusqu'en juin 2026 (80 étudiants à boucler).",
+    "maintien_conditions_anciennete_salaire_lieu": "partiel",
+    "plan_licenciement": {"nb": 3, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Offre améliorée détaillée : recentrage Paris/Nice/Lyon activités pérennes (BTS Bio-médical, BTS Prothésiste dentaire, audioprothèse, orthophonie). Gestion extinctive Lyon jusqu'en juin 2026 (80 étudiants, 17 salariés maintenus). Apport trésorerie 26000€. Plan relance commercial 200000€. Investissement e-learning 40000€ (plateformes Pascale.ai, Ed Build.ai).",
+    "vision_strategique_phrase": "Recentrage sur sites Paris, Nice et Lyon (activités pérennes uniquement : BTS Bio-médical, BTS Prothésiste dentaire, audioprothèse, orthophonie) — objectif 500 étudiants horizon 2029",
+    "pivots_prevus": "Recentrage 3 sites + abandon programmes non rentables + investissement plateformes e-learning IA",
+    "synergies_repreneur": "Indivisibilité avec PROGRESS SUP — fonctions supports BAC mutualisées",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": 240000,
+    "capex_calendrier": "26k€ trésorerie + 200k€ plan commercial + 40k€ e-learning au démarrage",
+    "capex_nature": "Apport trésorerie 26k€, plan relance commercial 200k€, investissement e-learning 40k€",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 1445000,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": 459000,
+    "hypotheses_qualification": "agressives",
+    "maintien_site": "partiel",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 266000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": 26000,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["EURIMMOS Luxembourg"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 4,
+    "items": [
+      "Transfert ou octroi nouvelles autorisations formation (QUALIOPI 24FOR00721.1, rectorat, CARIF-OREF, OPCO)",
+      "Autorisation parquet art. L.642-3 C. com. (cousin 2e degré SITBON)",
+      "Actifs libres de toute sûreté ou garantie",
+      "Absence de modification substantielle des actifs entre le dépôt et l'audience"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": ["Volet social RÉDUIT : 2→1 emplois — paradoxal pour une offre 'améliorée'", "Charge augmentative 67k€ Lyon = gestion extinctive non-reprise — pattern intéressant (repreneur paye fermeture activité non reprise)", "BP très optimiste : EBITDA 459k€ sur CA 1,445M€ = 32% marge sur seulement 4 mois (mars-juin 2026)"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Bénéficiaire effectif ultime: Jean-Luc BERREBI (président du CA de SOTHEBY'S, ancien associé Deloitte Paris)",
+    "phrase_engagement_social": "Charge augmentative globale: 67.000€ pour continuité pédagogique Lyon. Gestion extinctive activités non reprises Lyon jusqu'en juin 2026 (80 étudiants, 17 salariés maintenus).",
+    "phrase_vision_strategique": "Investissement technologique e-learning 40.000€ (plateformes Pascale.ai et Ed Build.ai). Objectif 500 étudiants horizon 2029.",
+    "phrase_justification_prix": "Actifs incorporels 9000€ + Actifs corporels 1000€ = 10000€ (vs 999/9000 dans offre initiale — inversion incorporels/corporels)"
+  }
+}

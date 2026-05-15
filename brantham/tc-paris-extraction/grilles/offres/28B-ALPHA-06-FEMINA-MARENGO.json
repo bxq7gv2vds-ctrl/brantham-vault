@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "offre_id": "28B-ALPHA-06-FEMINA-MARENGO",
+    "dossier_id": "28B-ALPHA",
+    "dossier_folder": "28 - SAS a associe unique ALPHA CAMPING",
+    "fichier_source_pdf": "offre_06_gd71720990.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "ALPHA CAMPING",
+    "cible_siren": "793853128",
+    "naf_secteur": "Hotellerie de plein air / Camping",
+    "sous_secteur": "12 campings Perimetre Cible (ESC, ALB, LGI, LEB, PDR, BDP, GHB, LCH, LDL, LPV, BAI, LAC)",
+    "ca_dernier_exercice_eur": 14440357,
+    "effectif_total": 46,
+    "nb_sites": 12,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "date_audience_cession": "2026-04-02",
+    "aj_nom": "Maitre Maxime LANGET ; Maitre Lou FLECHARD",
+    "mj_nom": "Maitre Florian LACOUR ; Maitre Camille STEINER",
+    "juge_commissaire": "Monsieur Franck MEYNAUD"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "FEMINA STYL+MARENGO explicitement cite comme concurrent ecarte au profit de Seasonova (Alpha 15 sites) + Maeva (franchises). Source : analyses/gagnants-tribunal.md.",
+    "motifs_rejet_verbatim": "Offre indivisible avec Offre Titres ILO + Offres Pole Foncier — schema complexe. Tribunal a prefere demantelement par lots coherents (Seasonova exploitation directe + Maeva franchises).",
+    "nb_offres_concurrentes": 8
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Marc HUBLE (President FEMINA STYL — Famille HUBLE depuis 1980) + Alain WAJSBROT (President MARENGO). Partenariat 20 ans 'Groupe Le Royon'.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 20,
+    "track_record_reprises": ["16 campings 4900 emplacements", "9 hotels 740 chambres Ibis/Mercure/Best Western", "13 boutiques Mango/Lacoste/Gemo/Etam", "SECOVI 260 collab"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS conjoint (FEMINA STYL + MARENGO)",
+      "date_creation": null,
+      "capital_eur": 7199312,
+      "rcs": "FEMINA STYL: 350976551 RCS Amiens / MARENGO: 408567071 RCS Metz",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue",
+      "actionnariat": "FEMINA STYL 50% SNC WH, mere 100% SAS WHCP (actionnaire minoritaire dormant ILO, president d'ALPHA CAMPING)"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 2000000,
+    "decomposition": {
+      "incorporels_eur": null,
+      "corporels_eur": 2000000,
+      "stocks_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "NR",
+    "garanties_paiement": "Fonds propres + soutien financier actionnaires actuels (pas d'emprunt bancaire)",
+    "cheque_consignation_eur": null,
+    "note_prix": "Prix le plus eleve : 2 000 000 EUR. Indivisibilite avec Offre ACO (ALPHA CAMPING OCCITANIE) a titre principal + Offre Titres (ILO + filiales pole foncier LORMED, L'ESCAPADE, SCI CHA, GRANDE LISSE + participations minoritaires Holdings)."
+  },
+  "reprise_passif": {
+    "baux_repris": ["12 baux/DSP/concessions/affermages/location-gerance"],
+    "credit_bail_repris": ["Renegociation prevue"],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": true,
+    "engagement_L642_12_montant_eur": 1410000,
+    "passif_privilegie_repris": "Sûretes inscrites : nantissement FC siege Paris 450k EUR Societe Generale (06/11/2023) + nantissement FC Demeures du Lac 960k EUR Caisse Epargne Bretagne Pays de Loire (08/03/2023) — possible application L.642-12 al.4 sous reserve audit",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 19,
+    "nb_total_salaries": 46,
+    "pct_reprise": 41.30,
+    "categories_reprises": "Memoire — tous salaries des 12 Campings du Perimetre Cible soit 19 salaries",
+    "categories_non_reprises_raisons": "Perimetre 12 sites — salaries hors sites cibles non reprise",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 0, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "FEMINA STYL : CA 2024 4,4 M EUR (4,37 M 2023 ; 4,10 M 2022) — RE 577k — RN 6,2 M. MARENGO : CA 2024 5 M EUR (4,53 M 2023 ; 3,33 M 2022) — RE 680k — RN 704k. CA cumule 9,4 M. Projet Le Royon commun depuis 20 ans (Hauts-de-France + Bretagne + Vendee + Dordogne + PACA + Occitanie). Travaux importants prevus : mise en securite reglementaire, modernisation parcs aquatiques, remplacement hebergements obsoletes, embellissement/vegetalisation.",
+    "vision_strategique_phrase": "Projet 'Groupe Le Royon' commun depuis 20 ans (campings Hauts-de-France + Bretagne + Vendee + Dordogne + PACA + Occitanie)",
+    "pivots_prevus": "Renegociation crédits-baux + modernisation parcs aquatiques",
+    "synergies_repreneur": "Integration 16 campings 4900 emplacements existants + reseau hôtelier urbain 9 hotels 740 chambres",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": "Mise en securite reglementaire + modernisation parcs aquatiques + remplacement hebergements + embellissement",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 4430455,
+    "ca_an2_eur": 4369805,
+    "ca_an3_eur": 4103650,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": true,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Actionnaires actuels (soutien financier)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 5,
+    "items": [
+      "Libre transferabilite conventions d'occupation (DSP, baux commerciaux, contrats affermage, concession, location-gerance)",
+      "Reconduction Contrat Cadre 5C Developpement (franchise Camping Paradis, terme 31/12/2025) sans changement controle",
+      "Renegociation credits-baux",
+      "Communication liste salaries par camping et categorie SP, conges payes acquis et avantages",
+      "Communication charges augmentatives de prix"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": false,
+    "annexes_kbis": false, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true, "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": true, "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["FEMINA STYL = actionnaire minoritaire dormant ILO (president d'ALPHA CAMPING) — potentiel risque L.642-3 a verifier"],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Familles HUBLE + WAJSBROT — partenariat 20 ans 'Groupe Le Royon' : Hauts-de-France, Bretagne, Vendee, Dordogne, PACA, Occitanie",
+    "phrase_engagement_social": "Reprise integrale 19 salaries des 12 campings du perimetre cible",
+    "phrase_vision_strategique": "Travaux importants prevus : mise en securite reglementaire, modernisation parcs aquatiques, remplacement hebergements obsoletes, embellissement/vegetalisation",
+    "phrase_justification_prix": "2 000 000 EUR — l'enveloppe la plus elevee sur ALPHA"
+  }
+}

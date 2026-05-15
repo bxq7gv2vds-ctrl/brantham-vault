@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "offre_id": "13-01",
+    "dossier_id": "13",
+    "dossier_folder": "13 - SARL PROGRESS SUP",
+    "fichier_source_pdf": "offre_01_gd74074406.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SARL PROGRESS SUP",
+    "cible_siren": "482647278",
+    "naf_secteur": "Enseignement supérieur privé santé",
+    "sous_secteur": "PROGRESS SANTE - 5 établissements - 1000 étudiants",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 110,
+    "nb_sites": 6,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-08-19",
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Me Florent HUNSINGER",
+    "aj_etude": "SCP HUNSINGER-BOUTON",
+    "mj_nom": "Me Sabine ROCHER",
+    "mj_etude": "SELARL ASTEREN",
+    "juge_commissaire": null,
+    "causes_defaillance": "Expansion 2022-2024 mal maîtrisée (LYON 2023, LILLE/REIMS/BORDEAUX 2024) - explosion masse salariale (+85%) et leasing (+600%). Marché plus concurrentiel (CFA 900→3700), baisse aides État."
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "amelioree_puis_retenue",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 2,
+    "concurrents_resume": [
+      {"nom": "Aucun concurrent externe", "positionnement_2lignes": "Doublon offres 13-02 et 13-03 sont des offres initiales du même candidat"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Jean-Luc BERREBI (bénéficiaire effectif ultime) - Président Conseil d'administration SOTHEBY'S, pôle stratégie/dév marque immobilier/éducation/expansion internationale, ancien associé DELOITTE Paris, NY 6 ans. Cousin au 2e degré de M. Didier SITBON dirigeant PROGRESS SUP",
+    "experience_sectorielle_oui_non": "partielle",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["SOTHEBY'S (immobilier/éducation)", "EURIMMOS Sàrl Luxembourg"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS J.L 13 RUE DE LA GRANGE BATELIERE avec faculté de substitution",
+      "date_creation": null,
+      "capital_eur": 64000,
+      "rcs": "582058657",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 100000,
+    "decomposition": {
+      "incorporels_eur": 80000,
+      "corporels_eur": 20000,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 93000,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Apport en fonds propres du Candidat. Prix de cession effectif ~193 000€ (avec charges).",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail Paris (sous-location BAC COMMUNICATION)", "Bail Nice", "Bail 11 place Croix Paquet 69001 LYON", "Convention sous-location FOUCAULD SUP 6 rue Bara 69003 LYON"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Coopération EPSUN, Paris-Saclay, UNIR"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Charges augmentatives min 93 000€ : (i) hébergement Activités Non-Reprises LYON jusqu'à fin juin 2026 = 60 000€ ; (ii) abondement trésorerie ANR LYON = 7 000€ ; (iii) abondement trésorerie Société impasse février 2026 = 26 000€",
+    "retraites_chapeau_indemnites": "Prise en charge congés payés repris"
+  },
+  "volet_social": {
+    "nb_salaries_repris": 44,
+    "nb_total_salaries": 110,
+    "pct_reprise": 40.0,
+    "categories_reprises": "44 CDI : PARIS 17 (1 admin + 13 profs + 3 ref péda) ; NICE 12 (1 admin + 9 profs + 2 ref péda) ; LYON 15 (1 compta + 2 admin + 10 profs + 2 ref péda)",
+    "categories_non_reprises_raisons": "17 salariés LYON ANR maintenus jusqu'à juin 2026 (1 directeur + 16 profs, dont Didier SITBON directeur péda LYON). Activités Non-Reprises LYON : optique, diététique, économie sociale et familiale (80 étudiants).",
+    "maintien_conditions_anciennete_salaire_lieu": "partiel",
+    "plan_licenciement": {
+      "nb": null,
+      "calendrier": "Site LYON Activités Non-Reprises : gestion extinctive jusqu'au 30/06/2026",
+      "indemnites": null,
+      "accompagnement": null
+    },
+    "engagement_maintien_emplois_duree_mois": 24,
+    "sanction_non_respect_emplois": "Engagement maintien emploi 24 mois sauf variation inscriptions",
+    "relations_irp_cse_mention": true
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Reprise fonds de commerce sites PARIS + NICE + activités pérennes LYON (BTS Bio-médical, BTS Prothésiste dentaire, audioprothèse, orthophonie). Non-reprise activités LYON : optique, diététique, économie sociale. Plan de relance 200k€ janv-juil 2026.",
+    "vision_strategique_phrase": "Cible 500 étudiants horizon 2029 - partenariats exclusifs EPSUM, UNIR (Espagne)",
+    "pivots_prevus": "Sortie de LYON optique/diététique/économie sociale (perte 17 salariés)",
+    "synergies_repreneur": "Réseau SOTHEBY'S - holdings Luxembourg EURIMMOS / Lynor's",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": 240000,
+    "capex_calendrier": "Mars-Juin 2026 + injection 100K€ envisagée",
+    "capex_nature": "Plan de relance 200 000€ : 55k€ Google/Social Ads + 90k€ téléprospection externe. Investissement e-learning Pascale.ai + Ed Build.ai 40 000€. Apport trésorerie 26 000€ impasse février 2026.",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 1445000,
+    "ca_an2_eur": 1344000,
+    "ca_an3_eur": 1867000,
+    "ebitda_an3_eur": 292000,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "partiel",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 193000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": 26000,
+    "tresorerie_securite_eur": 100000,
+    "partenaires_financiers": ["EURIMMOS Sàrl Luxembourg", "Lynor's Sàrl (B153309 Luxembourg)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "PARIS + NICE maintenus ; LYON extinctif jusqu'à 30/06/2026 pour ANR",
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 6,
+    "items": [
+      "Renonciation par tout créancier bénéficiant de sûretés spéciales (art. L.642-12 al.4) et condition résolutoire en absence de constat par le Tribunal",
+      "Transfert ou octroi nouvelles autorisations indispensables (QUALIOPI cert. 25-07-959 valable 03/07/2028, rectorat, CARIF-OREF, OPCO)",
+      "Transfert marque PROGRESS SANTE",
+      "Requête conforme Ministère Public autorisant cession (art. L.642-3 — Jean-Luc BERREBI cousin 2e degré du dirigeant) et autorisation spécifique du Tribunal",
+      "Actifs libres de toute sûreté",
+      "Absence de modification substantielle entre dépôt et jugement"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": true,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": true,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": true,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": true,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": true,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Lien familial dirigeant (L.642-3) - cousin 2e degré nécessite autorisation Procureur", "Offre indivisible BAC COMMUNICATION (RJ également)"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Jean-Luc BERREBI (SOTHEBY'S) - cousin au 2e degré du dirigeant PROGRESS SUP",
+    "phrase_engagement_social": "44 salariés repris sur 110 - engagement maintien emploi 24 mois sauf variation inscriptions",
+    "phrase_vision_strategique": "Cible 500 étudiants horizon 2029 - partenariats EPSUM, UNIR (Espagne) - investissement e-learning Pascale.ai + Ed Build.ai 40 000€",
+    "phrase_justification_prix": "Charges augmentatives min 93 000€ - prix effectif ~193 000€ ; plan de relance 200K€ + apport 100K€"
+  }
+}

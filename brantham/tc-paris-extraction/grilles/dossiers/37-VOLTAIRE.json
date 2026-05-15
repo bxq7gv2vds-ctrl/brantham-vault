@@ -1,0 +1,27 @@
+{
+  "meta": {"dossier_id": "37-VOLTAIRE", "dossier_folder": "37 - SAS VOLTAIRE", "extracted_at": "2026-05-15", "extracted_by": "claude-agent-batch08", "confidence": "high"},
+  "identification": {
+    "cible_raison_sociale": "VOLTAIRE",
+    "cible_siren": "848755088",
+    "naf_secteur": null,
+    "sous_secteur": "Conception/commercialisation vélos électriques premium",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 9,
+    "nb_sites": 4,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-01-21",
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Me Marine PACE",
+    "aj_etude": "2M&Associés",
+    "mj_nom": "Me Valérie LELOUP THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": null,
+    "causes_defaillance": "Marché mobilité douce -25%/an depuis 2022. Assemblage délégué à RE-CYCLES (Groupe REBIRTH) — non-paiement créance 298K€ + stocks invendables 453K€."
+  },
+  "groupe_dossiers_lies": [],
+  "nb_offres_recues": 3,
+  "notes": "9 salariés. 4 boutiques (Marais, Saint-Germain, Sentier, Levallois). Stocks Romilly : 28K€ vélos + 424K€ composants. Site voltaire.bike. Fondateur : Grégoire Lieurade. 3 offres distinctes : UTO/Lion Distribution 50K€, RE-CYCLES 10K€, Amsterdam Air 27,6K€. Offres 04 et 05 = DOUBLON strict de 03 (même Docusign envelope 14E85F2C). Pas dans gagnants-tribunal.md à date.",
+  "issue_globale_dossier": "en_attente"
+}

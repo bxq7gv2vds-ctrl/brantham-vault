@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "offre_id": "CGB-05",
+    "dossier_id": "CGB",
+    "dossier_folder": "01 - SAS à associé unique CLUB GRANDS BOULEVARDS",
+    "fichier_source_pdf": "offre_05_gd66008469.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "CLUB GRANDS BOULEVARDS",
+    "cible_siren": "878867654",
+    "naf_secteur": "Salle de sport / Fitness",
+    "effectif_total": 11,
+    "type_procedure": "RJ",
+    "date_ouverture": "2024-10-02",
+    "dldo": "2025-09-17",
+    "aj_nom": "Me Marine PACE",
+    "aj_etude": "SELARL 2M&ASSOCIES",
+    "mj_nom": "Me Lucile JOUVE",
+    "mj_etude": "SELAFA MJA"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_rejet_verbatim": "Offre initiale 17/09/2025 PP solo — améliorée par CGB-02 (10/10/2025) à 105 000€ via co-entreprise BELLA AIR",
+    "nb_offres_concurrentes": 3
+  },
+  "profil_repreneur": {
+    "forme": "pp_seule",
+    "age_parcours_dirigeant": "Karim BELARBI (né 06/06/1983 à Champigny-sur-Marne) — Entrepreneur franchisé ON AIR / Mobalpa / Perene / SoCoo'c. Exploite salle ON AIR Pré-Saint-Gervais (BELLA FITNESS, RCS Bobigny 932207038, cap. 300k€, ouverte mai 2025, 2 500 abonnés).",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": ["BELLA FITNESS (ON AIR Pré-Saint-Gervais)"],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "Karim BELARBI (PP) — structure de reprise non précisée à ce stade",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "NR"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 50000,
+    "decomposition": {
+      "incorporels_eur": 20000,
+      "corporels_eur": 30000,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "NR",
+    "garanties_paiement": "Dépôts de garantie remboursés et/ou reconstitués",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail IMMOBILIERE PAPILLON"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Contrats abonnés"],
+    "contrats_fournisseurs_repris": ["Contrats d'énergies"],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Sous réserve d'analyse des prêts L.642-12 — position communiquée ultérieurement"
+  },
+  "volet_social": {
+    "nb_salaries_repris": null,
+    "nb_total_salaries": 11,
+    "pct_reprise": null,
+    "categories_reprises": "Sort des contrats de travail à définir et communiquer ultérieurement",
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "absent",
+    "diagnostic_resume": "Lettre 11 pages scannée OCR. Offre initiale solo BELARBI couvrant CGB+CLUB PALAIS ROYAL.",
+    "vision_strategique_phrase": null,
+    "synergies_repreneur": null,
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "NR",
+    "maintien_marques_savoir_faire": "NR"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "non",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {"incessibilite_temporaire_mois": null, "non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": null,
+    "items": [],
+    "agressivite_envers_dirigeants": "NR"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 11,
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "commercial",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_business_plan": false,
+    "annexes_cni_dirigeants": true,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Solo PP — structure de reprise non précisée, sort contrats de travail à définir, position prêts à communiquer ultérieurement"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {"cabinet": "Cabinet POINT DE VENTE (SARL MICKAEL KURTIS)", "avocat_nom": "Catherine BILLOET"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Karim BELARBI personne physique — franchisé ON AIR/Mobalpa/Perene/SoCoo'c",
+    "phrase_engagement_social": "Sort des contrats de travail à définir et communiquer ultérieurement",
+    "phrase_vision_strategique": "Offre couvrant CLUB GRANDS BOULEVARDS et CLUB PALAIS ROYAL",
+    "phrase_justification_prix": "Offre initiale du 17/09/2025 — améliorée par CGB-02 (105k€ co-entreprise BELLA AIR)"
+  }
+}

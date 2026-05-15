@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "offre_id": "33-S2NE-06",
+    "dossier_id": "S2NE",
+    "dossier_folder": "33 - SA SOCIETE NOUVELLE DU NOUVEL ECONOMISTE (dite S2NE)",
+    "fichier_source_pdf": "offre_06_gd72568611.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "Societe Nouvelle du Nouvel Economiste",
+    "cible_siren": "809449234",
+    "naf_secteur": "Presse economique",
+    "sous_secteur": null,
+    "ca_dernier_exercice_eur": 1770000, "ebitda_eur": null, "effectif_total": 6, "nb_sites": 1,
+    "type_procedure": "RJ", "date_ouverture": "2025-12-09", "dldo": "2026-01-09", "date_audience_cession": null,
+    "aj_nom": "Lou Flechard", "aj_etude": "SCP CBF Associes",
+    "mj_nom": "Stephane Gorrias", "mj_etude": "SCP BTSG",
+    "juge_commissaire": "Patrick Armand",
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente", "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null, "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 5, "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Gaspard de Monclin (President). Avocat et entrepreneur. MF 113 detenue a 55% par Gaspard de Monclin et 45% par sa famille. Overlord Group : MF 113 > Overlord Group > Overlord SAS + Overlord Media (editeur du Revenu et de La Decision Bourse).",
+    "experience_sectorielle_oui_non": "oui", "experience_sectorielle_annees": null,
+    "track_record_reprises": ["Le Revenu (reprise reussie)"],
+    "capacite_financiere_demontree": "forte_documentee", "cautionnement_personnel": "NR",
+    "vehicule_reprise": {"forme_juridique": "SAS Overlord Media S2NE a constituer", "date_creation": null, "capital_eur": 100, "rcs": null, "kbis_present_en_annexe": false, "type_vehicule": "substitution_prevue"}
+  },
+  "structure_prix": {
+    "prix_total_eur": 5000,
+    "decomposition": {"incorporels_eur": 2500, "corporels_eur": 2000, "stocks_eur": 500, "creances_clients_eur": null, "immeubles_eur": null, "titres_eur": null},
+    "charges_augmentatives_eur": null, "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "350 000 EUR a injecter dans les 3 premiers mois. Tresorerie du groupe superieure a 1M.", "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail commercial (relocalisation au 67 rue Anatole France, Levallois-Perret, 92300)"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Reprise abonnements mensuels et annuels"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false, "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Reprise conges payes acquis avant et apres RJ", "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 3, "nb_total_salaries": 6, "pct_reprise": 50.0,
+    "categories_reprises": "3 postes + previsions embauche 4 contrats",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": "Priorite reembauchage 2 ans pour non-repris"},
+    "engagement_maintien_emplois_duree_mois": 24,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Overlord Group editeur du Revenu (reprise reussie) + La Decision Bourse. 45 collaborateurs dont 25 CDI. CA 2023 90k -> 2024 513k -> 2025 (14 mois) 2,43M. RN 2024 208k / 2025 604k. Prevision a l'equilibre en 2026, objectif 10% RN ensuite.",
+    "vision_strategique_phrase": "Repositionnement editorial, passage hebdo->mensuel, developpement digital/evenementiel/formations",
+    "pivots_prevus": "Hebdo -> mensuel + relocalisation Levallois",
+    "synergies_repreneur": "Synergies avec Le Revenu (editorial, abonnes, evenementiel, technologie)",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": 350000, "capex_calendrier": "3 premiers mois",
+    "capex_nature": "Injection capital",
+    "plan_affaires_3ans_present": true, "ca_an1_eur": null, "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null,
+    "hypotheses_qualification": "realistes", "maintien_site": "non", "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 350000, "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false, "dette_bancaire_lettre_confort": false, "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false, "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null, "tresorerie_securite_eur": 1000000, "partenaires_financiers": ["Fonds propres"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24, "caution_dirigeant_montant_eur": null, "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null, "maintien_territoire_site_duree": null, "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false, "nb_conditions": 1,
+    "items": ["Reintegration de la marque Le Nouvel Economiste dans le perimetre de la reprise"],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null, "nb_pages_corps_offre": null, "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille", "ton_dominant": "commercial", "executive_summary_present": true,
+    "annexes_kbis": false, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true, "annexes_organigramme_cible": false, "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false, "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": false, "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false, "soutien_clients_cles": false, "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false, "personnalisation_rencontre_equipes": false, "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent", "differenciation_concurrents_explicite": true, "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [], "declaration_L642_3_signee": false, "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Overlord Group — editeur du Revenu (reprise reussie) et La Decision Bourse, croissance CA 90k->2,43M en 2 ans",
+    "phrase_engagement_social": "Engagement maintien emplois 24 mois. Priorite reembauchage 2 ans pour non-repris. Previsions d'embauche : 4 contrats",
+    "phrase_vision_strategique": "Repositionnement editorial, passage hebdo->mensuel, developpement digital/evenementiel/formations",
+    "phrase_justification_prix": "5 000 EUR (2 500 incorporels + 2 000 corporels + 500 stocks). 350 000 EUR a injecter dans les 3 premiers mois"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "offre_id": "LE_LOFT-06",
+    "dossier_id": "19",
+    "dossier_folder": "19 - SCI LE LOFT",
+    "fichier_source_pdf": "19_SCI_LE_LOFT_offre6.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high",
+    "note_dedup": "LABRAX INVEST offre finale 02/03/2026 - portefeuille global 21.000.000 EUR + ajout appartement Paris 16e (lot 35, 54-56 av Theophile Gautier). Reitere offre initiale 09/02 sous garanties ordinaires."
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI LE LOFT (inclus dans portefeuille global Melot-Gouband)",
+    "cible_siren": null,
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "Portefeuille global FHBX + appartement Paris 16e (lot 35, 54-56 av Theophile Gautier, cadastre BX 36)",
+    "effectif_total": 0,
+    "type_procedure": "RJ",
+    "dldo": "2026-03-02",
+    "aj_nom": "Me Helene BOURBOULOUX",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Me Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "M. Jean-Francois PONCET",
+    "causes_defaillance": "Defaillance groupe Melot-Gouband"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 7,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "family_office",
+    "age_parcours_dirigeant": "Edouard LAMY (Labrax) + Jean-Charles Nocera (Vanves) + Nicolas Boucon (Ovalstone)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 12,
+    "track_record_reprises": ["Labrax 3 ME patrimoine", "SCI Gevrey 7,5 ME", "Vanves 25 ME patrimoine immobilier + supermarches CA 50 ME+ 100 salaries", "Ovalstone 100 ME patrimoine famille Boucon-Duval"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS Labrax Invest + ad-hoc",
+      "date_creation": "2022",
+      "capital_eur": 10000,
+      "rcs": "901813741",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 21000000,
+    "decomposition": {
+      "immeubles_eur": 21000000
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Prix net vendeur. Pas de versement amont. Eventuel depot garantie 5% sur promesse de vente.",
+    "cheque_consignation_eur": null,
+    "prix_options": {
+      "option_globale_eur": 21000000,
+      "option_amiral_corot_eur": 1300000,
+      "option_amiral_seul_eur": 1025000
+    },
+    "note_prix": "Offre 'finale, ferme et indivisible' 21 ME pour le portefeuille global incluant ajout appartement Paris 16e. Options divisibles si vente globale impossible : Amiral Maigret + Corot 1,3 ME ou Amiral Maigret seul 1,025 ME. Caducite 30 avril 2026."
+  },
+  "reprise_passif": {
+    "baux_repris": ["Tous baux existants"],
+    "engagements_L642_12_al4": false,
+    "passif_privilegie_repris": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 0,
+    "pct_reprise": null,
+    "categories_reprises": "Asset deal"
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Reitere offre initiale + ajout periemtre appartement Paris 16e. Logique conservation patrimoniale long-terme.",
+    "vision_strategique_phrase": "Detention patrimoniale long-terme",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total"
+  },
+  "financement": {
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "partenaires_financiers": ["Banque Populaire", "Credit Agricole", "Caisse d'Epargne", "SG CIB", "SG Private Banking"]
+  },
+  "engagements_specifiques": {
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": ["Sauf conditions de droit applicables en matière de vente d'immeuble"],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 2,
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "commercial",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_business_plan": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": true,
+    "personnalisation_visite_site": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true,
+    "erreurs_apparentes": []
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Offre finale, ferme et indivisible (...) Compte tenu du montant du Prix, de l'absence de toutes conditions suspensives (sauf les conditions de droit applicables en matière de vente d'immeuble) de notre Offre Finale, de la qualite de signature de chacun des associes de l'Acquereur",
+    "phrase_justification_prix": "21 millions d'euros pour le portefeuille global incluant ajout appartement Paris 16e"
+  }
+}

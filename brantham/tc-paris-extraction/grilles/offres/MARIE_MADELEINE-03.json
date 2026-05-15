@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "offre_id": "MARIE_MADELEINE-03",
+    "dossier_id": "MARIE_MADELEINE",
+    "dossier_folder": "22 - SCI MARIE MADELEINE",
+    "fichier_source_pdf": "22_SCI_MARIE_MADELEINE_offre3.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "partial_pdf_only"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI MARIE MADELEINE",
+    "naf_secteur": "Immobilier",
+    "effectif_total": 0,
+    "type_procedure": "RJ",
+    "dldo": "2026-03-02",
+    "aj_nom": "Me Hélène BOURBOULOUX",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Me Valérie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "M. Jean-François PONCET"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "nb_offres_concurrentes": 5
+  },
+  "profil_repreneur": {
+    "forme": "NR",
+    "age_parcours_dirigeant": "Repreneur non identifié — type UNKNOWN au CSV",
+    "experience_sectorielle_oui_non": "NR",
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "NR",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": null,
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "NR"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": null,
+    "decomposition": {},
+    "modalites_paiement": "NR"
+  },
+  "reprise_passif": {"baux_repris": [], "engagements_L642_12_al4": false},
+  "volet_social": {
+    "nb_salaries_repris": 0, "nb_total_salaries": 0, "pct_reprise": null,
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": 0}, "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "NR",
+    "diagnostic_resume": "PDF non extrait — Type repreneur non reconnu",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "NR",
+    "maintien_site": "NR",
+    "maintien_marques_savoir_faire": "NR"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null, "apport_origine_documentee": "NR",
+    "dette_bancaire_engagement_ferme": false, "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false, "partenaires_financiers": []
+  },
+  "engagements_specifiques": {"incessibilite_temporaire_mois": null, "non_demembrement": false},
+  "conditions_suspensives": {"aucune_cs": false, "nb_conditions": null, "items": [], "agressivite_envers_dirigeants": "NR"},
+  "forme_presentation": {
+    "structure_dominante": "NR", "ton_dominant": "NR",
+    "executive_summary_present": false, "annexes_kbis": false,
+    "signature_docusign": false, "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false, "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false, "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR", "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Type repreneur non reconnu (UNKNOWN) — PDF non extrait"],
+    "declaration_L642_3_signee": false, "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": null,
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": null,
+    "phrase_justification_prix": null
+  }
+}

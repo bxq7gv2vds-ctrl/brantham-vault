@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "offre_id": "LE_LOFT-08",
+    "dossier_id": "19",
+    "dossier_folder": "19 - SCI LE LOFT",
+    "fichier_source_pdf": "19_SCI_LE_LOFT_offre8.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high",
+    "note_dedup": "HOUSEBASE (Philippe ZERR) offre dediee SCI LE LOFT 02/03/2026 - 10.000 EUR pour 1 loft + 1 studio Bagnolet. Lettre courte 1 page."
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI LE LOFT",
+    "cible_siren": null,
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "1 loft + 1 studio Bagnolet (15 rue Jules Ferry)",
+    "effectif_total": 0,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "dldo": "2026-03-02",
+    "aj_nom": "Me Helene BOURBOULOUX",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Me Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "M. Jean-Francois PONCET",
+    "causes_defaillance": "Defaillance groupe Melot-Gouband"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 7,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Philippe ZERR (Directeur General)",
+    "experience_sectorielle_oui_non": "NR",
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "intention_seule",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS HOUSEBASE",
+      "date_creation": null,
+      "capital_eur": 49780,
+      "rcs": "908068331",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 10000,
+    "decomposition": {
+      "immeubles_eur": 10000
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Net Vendeur. Comptant signature acte cession. Fonds propres + comptes courants associes. Sans condition suspensive d'obtention d'un pret bancaire.",
+    "cheque_consignation_eur": null,
+    "note_prix": "Montant 'conservatoire' tenant compte des informations parcellaires disponibles a ce stade dans la data room."
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "engagements_L642_12_al4": false,
+    "passif_privilegie_repris": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 0,
+    "pct_reprise": null,
+    "categories_reprises": "Asset deal"
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "diagnostic_resume": "Informations parcellaires data room - prix conservatoire 10k.",
+    "vision_strategique_phrase": null,
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "NR"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Visite sur site complete de l'actif immobilier",
+      "Audits techniques (DDT complet a jour ne revelant aucune anomalie redhibitoire)",
+      "Audit juridique exhaustif (etat des dettes, servitudes, situation locative, contrats en cours)"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 1,
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_business_plan": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true,
+    "erreurs_apparentes": [
+      "Lettre 1 page seulement, sans annexes (pas de Kbis, pas d'attestation bancaire, pas de CV dirigeant)",
+      "Prix 10k tres faible vs ARCANGE 460k et MUVICO 270k sur meme actif - probablement non competitif",
+      "Pas de visite effectuee, pas d'audit prealable - offre 'a l'aveugle' conservatoire"
+    ]
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {
+    "phrase_positionnement": null,
+    "phrase_justification_prix": "Ce montant conservatoire tient compte des informations parcellaires dont nous disposons a ce stade dans la data room"
+  }
+}

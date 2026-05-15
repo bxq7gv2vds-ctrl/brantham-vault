@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "offre_id": "59-02",
+    "dossier_id": "59",
+    "dossier_folder": "59 - SCA LA REINETTE D ANJOU",
+    "fichier_source_pdf": "59_SCA_LA_REINETTE_D_ANJOU_offre2.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCEA LA REINETTE D'ANJOU (+ SCA LA PLESSE)",
+    "cible_siren": "786159152",
+    "naf_secteur": "Production agricole — pommes",
+    "sous_secteur": "Pôle Val de Loire INNATIS",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 1,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-16",
+    "dldo": "2026-03-18",
+    "date_audience_cession": "2026-04-13",
+    "aj_nom": "Marine PACE / Paul-Henri AUDRAS",
+    "aj_etude": "SELARL 2M&Associés ; SELAS AJ UP",
+    "mj_nom": "Valérie LELOUP-THOMAS / Charlotte THIRION",
+    "mj_etude": "SELAFA MJA ; SELARL ATHENA",
+    "juge_commissaire": null,
+    "causes_defaillance": "INNATIS Pôle Val de Loire"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "amelioree_puis_retenue",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Substitution Vergers d'Anjou vers CELHER (Boujuau) — exploitants agricoles depuis 1998, partenariat coopérative+producteurs locaux assurant pérennité.",
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 2,
+    "concurrents_resume": [
+      {"nom": "CASTEL/LEROY/VCAPITAL", "positionnement_2lignes": "10k€, 1 emploi, indivisibilité 11 offres, 11 conditions suspensives."}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Hervé BOUJUAU (né 11/03/1974 Saumur) + Céline BOUJUAU née DELHOMME (née 02/03/1975 Saint-Malo) — gérants 50/50",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 28,
+    "track_record_reprises": ["Le Fouquet 2008", "Le Clos du Verger 2011", "Jannière 2022", "Serveau Soyer 2023"],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SCEA LA NOUVELLE PLESSE (substitution, 1% H Boujuau + 1% C Boujuau + 98% CELHER)",
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": null,
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "newco"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 90000,
+    "decomposition": {
+      "incorporels_eur": 1000,
+      "corporels_eur": 45000,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": 44000,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Chèque de banque à l'ordre SELAS Adjust avec attestation banque émettrice mentionnant origine des fonds (Annexe Crédit Mutuel BFR)",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Baux ruraux REINETTE et PLESSE"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 1,
+    "pct_reprise": 0,
+    "categories_reprises": "REINETTE : 0 salarié repris sur 1 présent (poste responsable vente directe non aligné). PLESSE : 1/1 (chef de culture).",
+    "categories_non_reprises_raisons": "Responsable vente directe REINETTE — non aligné avec profil agricole NewCo",
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": 1, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Consolidation arboricole groupe Boujuau + diversification + intégration coopérative Vergers d'Anjou. ~12 salariés permanents + ~270 saisonniers répartis sur les sociétés.",
+    "vision_strategique_phrase": null,
+    "pivots_prevus": null,
+    "synergies_repreneur": "Groupe BOUJUAU/CELHER : SCEA LE CLOS DU VERGER, VERGERS DES ROUSSIERES, SERVEAU SOYER, JANNIERE, SCEA LE FOUQUET, ETA BOUJUAU, GFA LA FONTAINE, SCI DES CHENES, SAS Roussières Environnement",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "prudentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 90000,
+    "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": true,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Convention trésorerie intra-groupe Vergers d'Anjou", "Comptes bancaires CELHER", "Crédit Mutuel BFR"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": ["Pas de section conditions suspensives détaillées (mention article L.642-12 al.4-5 si applicable)"],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": true,
+    "annexes_attest_bancaire": true,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": true,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": true,
+    "annexes_rib": true,
+    "annexes_cni_dirigeants": true,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": true,
+    "soutien_banques_historiques": true,
+    "personnalisation_visite_site": true,
+    "personnalisation_rencontre_equipes": true,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": "SELARL LEXCAP Avocats",
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Offre globale Pôle Val de Loire Pomanjou — Annexes 1-16 (Kbis, IDs, statuts, organigramme, CVs, 3 bilans, attestations, prévisionnel)",
+    "phrase_engagement_social": "REINETTE : aucun salarié repris sur 1 (responsable vente directe non aligné). PLESSE : 1/1 chef de culture.",
+    "phrase_vision_strategique": "Exploitants agricoles depuis 1998, production pommes/poires/cassis/prunes/cerises/semences/céréales — apporteur coopérative Vergers d'Anjou",
+    "phrase_justification_prix": "1.000€ incorporels + 45.000€ corporels + 44.000€ immeubles = 90.000€ pour REINETTE + PLESSE"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "offre_id": "35-DME-01",
+    "dossier_id": "35-DME",
+    "dossier_folder": "35 - SARL DME",
+    "fichier_source_pdf": "46_SARL_DME_offre1.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SARL DME",
+    "cible_siren": "925209926",
+    "naf_secteur": "Restauration / boulangerie-patisserie",
+    "sous_secteur": "Enseigne DONATIEN MAITRE ECLAIR",
+    "ca_dernier_exercice_eur": null, "ebitda_eur": null, "effectif_total": 1, "nb_sites": 1,
+    "type_procedure": "RJ", "date_ouverture": "2025-12-23", "dldo": "2026-02-02", "date_audience_cession": null,
+    "aj_nom": "Isabelle DIDIER", "aj_etude": "SELAS SPE O3 PARTNERS",
+    "mj_nom": "Jerome PIERREL", "mj_etude": "SELAS ETUDE JP",
+    "juge_commissaire": "Antoine GUINET",
+    "causes_defaillance": "Nantissements Banque Postale 670 310,46 EUR"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente", "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null, "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 2,
+    "concurrents_resume": [
+      {"nom": "LOUTSA FRANCE (Guillaume LANGLOY)", "positionnement_2lignes": "Lettre d'intention non engageante 3k torrefacteur Lyon"},
+      {"nom": "QASTI CHAWARMA AND GRILL (Chef Alan Geaam, 1 etoile Michelin)", "positionnement_2lignes": "5k exige abandon 50% creance Banque Postale 335k"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "AYAD Fares (President SAS LINAS). Experience >10 ans restauration/hotellerie. SAS LINAS immatriculee 01/06/2010.",
+    "experience_sectorielle_oui_non": "oui", "experience_sectorielle_annees": 10,
+    "track_record_reprises": [], "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {"forme_juridique": "SAS", "date_creation": "2010-06-01", "capital_eur": 200000, "rcs": "521858688", "kbis_present_en_annexe": true, "type_vehicule": "existante"}
+  },
+  "structure_prix": {
+    "prix_total_eur": 350030,
+    "decomposition": {"incorporels_eur": 10, "corporels_eur": 10, "stocks_eur": 10, "creances_clients_eur": null, "immeubles_eur": null, "titres_eur": null},
+    "charges_augmentatives_eur": 350000,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds propres : apport en compte courant des associes / augmentation de capital 350 030 EUR ; garantie bancaire 100 000 EUR a fournir avant l'audience", "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail commercial 72 rue Rambuteau 75001 Paris"],
+    "credit_bail_repris": [], "contrats_clients_critiques_repris": [], "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": true,
+    "engagement_L642_12_montant_eur": 350000,
+    "passif_privilegie_repris": "Reprise des echeances a echoir plafonnee a 350 000 EUR (Banque Postale 670 310,46 EUR)",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": null, "nb_total_salaries": 1, "pct_reprise": null,
+    "categories_reprises": "Champs effectif vides dans l'offre", "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null, "sanction_non_respect_emplois": null, "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "diagnostic_resume": "Offre tres legere sur corporels/incorporels (10 EUR symboliques chacun) — structure : prix de cession net 30 EUR + reprise echeances a echoir 350 000 EUR.",
+    "vision_strategique_phrase": null, "pivots_prevus": null,
+    "synergies_repreneur": null, "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null, "capex_calendrier": null, "capex_nature": null,
+    "plan_affaires_3ans_present": false, "ca_an1_eur": null, "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes", "maintien_site": "oui_total", "maintien_marques_savoir_faire": "NR"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 350030, "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false, "dette_bancaire_lettre_confort": false, "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false, "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null, "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Apport compte courant associes + augmentation capital", "Garantie bancaire 100 000 EUR avant audience"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null, "caution_dirigeant_montant_eur": null, "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null, "maintien_territoire_site_duree": null, "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false, "nb_conditions": 6,
+    "items": [
+      "Reprises des echeances a echoir plafonnee a 350 000 EUR",
+      "Bail autorisant les activites de bar, restaurant, sandwicherie sur place et a emporter",
+      "Prix de cession 10 EUR pour elements corporels et incorporels",
+      "Charge de la surete",
+      "Signature par le syndic de copropriete de l'autorisation d'elargissement de l'extraction de 300 a 400 (accord oral existant)",
+      "Despecialisation du bail (accord ecrit obtenu, redaction en cours)"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null, "nb_pages_corps_offre": null, "nb_pages_annexes": null,
+    "structure_dominante": "mix", "ton_dominant": "juridique", "executive_summary_present": false,
+    "annexes_kbis": true, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false, "annexes_organigramme_cible": false, "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false, "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": false, "qualite_redactionnelle": "confuse"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false, "soutien_clients_cles": false, "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false, "personnalisation_rencontre_equipes": false, "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR", "differenciation_concurrents_explicite": false, "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Prix exotique : 10+10+10 EUR symboliques + reprise dette 350k = montage de reprise de passif deguisee", "Effectif repris non chiffre"],
+    "declaration_L642_3_signee": false, "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "AYAD Fares (SAS LINAS, restauration/hotellerie >10 ans)",
+    "phrase_engagement_social": "Effectif repris non chiffre (champs vides dans offre)",
+    "phrase_vision_strategique": null,
+    "phrase_justification_prix": "Prix cession 30 EUR (10 incorporels + 10 corporels + 10 stocks) + reprise echeances a echoir plafonnee 350 000 EUR"
+  }
+}

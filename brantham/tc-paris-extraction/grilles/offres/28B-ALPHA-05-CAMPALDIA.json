@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "offre_id": "28B-ALPHA-05-CAMPALDIA",
+    "dossier_id": "28B-ALPHA",
+    "dossier_folder": "28 - SAS a associe unique ALPHA CAMPING",
+    "fichier_source_pdf": "offre_05_gd71721855.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "ALPHA CAMPING",
+    "cible_siren": "793853128",
+    "naf_secteur": "Hotellerie de plein air / Camping",
+    "sous_secteur": "14 campings (Lac de Cazaux, Roscoff, Albret, Chanterelles, Brabois, Pre du Verdon, 2 Iles, Escapade, Demeures du Lac, Rives d'Olt, Giessen, Plan d'Eau, Coiroux + reserves)",
+    "ca_dernier_exercice_eur": 14440357,
+    "effectif_total": 46,
+    "nb_sites": 14,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "date_audience_cession": "2026-04-02",
+    "aj_nom": "Maitre Maxime LANGET ; Maitre Lou FLECHARD",
+    "mj_nom": "Maitre Florian LACOUR ; Maitre Camille STEINER",
+    "juge_commissaire": "Monsieur Franck MEYNAUD"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Seasonova retenu (15 sites) + Maeva franchises. CAMPALDIA ecarte. Source analyses/gagnants-tribunal.md.",
+    "motifs_rejet_verbatim": "Prix symbolique 3 EUR vs Seasonova ameliore. Offre indivisible 7 entites groupe Neocamp — moins flexible pour le tribunal.",
+    "nb_offres_concurrentes": 8
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Loic PERON-MAGNAN (President) + Stephane PERON-MAGNAN (DG). Loic = President syndicat HPA Pyrenees-Atlantiques + President chaine nationale Airotel.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 50,
+    "track_record_reprises": ["Camping Oyam Bidart (50 ans)", "Embruns d'Oleron", "Pins d'Oleron", "Ocean Vacances", "Le Dauphin Saint-Georges-de-Didonne", "Residence Izarpean", "Projet Dordogne"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": null,
+      "capital_eur": 5000900,
+      "rcs": "890876899",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue",
+      "actionnariat": "Loic Peron-Magnan 50,16% / Stephane 24,92% / Bruno 24,92%"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 3,
+    "decomposition": {"incorporels_eur": 1, "corporels_eur": 1, "stocks_eur": 1, "immeubles_eur": null, "titres_eur": null},
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "NR",
+    "garanties_paiement": null,
+    "cheque_consignation_eur": null,
+    "note_prix": "Prix provisoire 3 EUR (a augmenter des retour organes procedure sur transfert conventions personnes publiques). Offre indivisible avec ILO + ALPHA CAMPING OCCITANIE + LA GRANDE LISSE + LORMED + L'ESCAPADE + SCI CHA = 15 campings groupe NEOCAMP."
+  },
+  "reprise_passif": {
+    "baux_repris": ["Multiples DSP/baux/concessions a confirmer"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Reprise des dettes exclue ; contrats location financiere mobil-homes exclus",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": null,
+    "nb_total_salaries": 46,
+    "pct_reprise": null,
+    "categories_reprises": "A preciser (salaries necessaires a l'activite des Campings Repris ; liste par categorie a venir)",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Groupe CAMPALDIA : 30 salaries permanents jusqu'a 180 haute saison. Capital social 5 000 900 EUR. CA 2025 10,1 M EUR (vs 9,4 M 2024 ; 5,6 M 2023 ; 3,8 M 2022). REX 2,1 M ; RN 1,2 M.",
+    "vision_strategique_phrase": "Hotellerie plein air haut de gamme 4* — reprise globale 15 campings groupe NEOCAMP",
+    "pivots_prevus": "Transition marque CAMPALDIA",
+    "synergies_repreneur": "Reseau 5 campings + 1 residence + projet Dordogne existants",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": 4000000,
+    "capex_calendrier": "3 a 5 M EUR financement reprise ensemble groupe NEOCAMP",
+    "capex_nature": "Capex modernisation + transition marque",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 10109034,
+    "ca_an2_eur": 9366347,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "partiel"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 4,
+    "items": [
+      "Due diligence financiere/juridique/fiscale/commerciale/sociale satisfaisante",
+      "Accord personnes publiques pour transfert contrats DSP/concession",
+      "Obtention financements necessaires",
+      "Absence modification substantielle entre depot et audience"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": false,
+    "annexes_kbis": false, "annexes_cv_dirigeants": true, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true, "annexes_organigramme_cible": true,
+    "annexes_comptes_sociaux_3ans": true, "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "incoherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Perimetre 14 campings avec reserves (Baie de Ploemeur, Cabestan, Belles Rives sortis avant RJ) — impacte la fermete"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Hotellerie plein air haut de gamme 4* — 50 ans Bidart cote basque (Loic Peron-Magnan, President syndicat HPA Pyrenees-Atlantiques + chaine Airotel)",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": "Reprise globale 15 campings groupe NEOCAMP — extension verticale du groupe",
+    "phrase_justification_prix": "Prix provisoire 3 EUR — a augmenter des retour organes procedure sur transfert conventions personnes publiques"
+  }
+}

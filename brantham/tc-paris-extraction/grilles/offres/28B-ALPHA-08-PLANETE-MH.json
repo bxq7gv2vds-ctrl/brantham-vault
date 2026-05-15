@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "offre_id": "28B-ALPHA-08-PLANETE-MH",
+    "dossier_id": "28B-ALPHA",
+    "dossier_folder": "28 - SAS a associe unique ALPHA CAMPING",
+    "fichier_source_pdf": "offre_08_gd71720811.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "ALPHA CAMPING",
+    "cible_siren": "793853128",
+    "naf_secteur": "Hotellerie de plein air / Camping",
+    "sous_secteur": "3 campings : BRABOIS (54) Bel Air Villages + GIESSEN (67) Camping Paradis + Pointe de Roscoff (29)",
+    "ca_dernier_exercice_eur": 14440357,
+    "effectif_total": 46,
+    "nb_sites": 3,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "date_audience_cession": "2026-04-02",
+    "aj_nom": "Maitre Maxime LANGET ; Maitre Lou FLECHARD",
+    "mj_nom": "Maitre Florian LACOUR ; Maitre Camille STEINER",
+    "juge_commissaire": "Monsieur Franck MEYNAUD"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Seasonova retenu (perimetre incluant Brabois+Giessen+Roscoff dans son lot de 9). Source : offre Seasonova explicite.",
+    "motifs_rejet_verbatim": "Perimetre 3 sites limitee face a Seasonova 9 sites. Prix 11 025 EUR vs offre Seasonova amelioree.",
+    "nb_offres_concurrentes": 8
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Bassam EL ISMAHIL (President) + Marie LE CORRE (co-fondatrice). Experience plusieurs annees Tour Operateur HPA.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 12,
+    "track_record_reprises": ["Camping de MAILLAC a SARLAT (exploite en propre)"],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": "2013",
+      "capital_eur": null,
+      "rcs": "791468325",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 11025,
+    "decomposition": {
+      "incorporels_eur": 9000,
+      "corporels_eur": 1500,
+      "stocks_eur": 525,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "NR",
+    "garanties_paiement": null,
+    "cheque_consignation_eur": null,
+    "note_prix": "Prix total 11 025 EUR : incorporels 9 000 + corporels 1 500 + stocks 525. Indivisibilite avec offre POINTE DE ROSCOFF + BARBEROUSSE (ALPHA CAMPING OCCITANIE)."
+  },
+  "reprise_passif": {
+    "baux_repris": ["DSP Perharidy Roscoff (Metropole Grand Nancy 12/12/2017, avenant n°3)", "DSP Brabois Villers-les-Nancy (Metropole Grand Nancy)", "DSP Giessen Bassemberg"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Contrats fournisseurs fluides (eau/electricite/gaz/telephone)", "Contrats clients/reservation"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Exclusions : actifs greves sûretes/reserve propriete non payes ; titres de participation ; immobilisations incorporelles financieres ; immeubles ; contrats eSeason/SEPTEO",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 3,
+    "nb_total_salaries": 46,
+    "pct_reprise": 6.52,
+    "categories_reprises": "3 CDI a temps plein — 1 par site",
+    "categories_non_reprises_raisons": "Perimetre limite 3 sites",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 0, "calendrier": null, "indemnites": null, "accompagnement": "Conges payes/RTT acquis maintenus"},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "PLANETE MOBIL HOMES exploite Camping de Maillac a Sarlat + location de Mobil-Homes XXL haut de gamme (600 mobil-homes places en 2024, CA 2024 = 4,1 M EUR). Concept Mobil-Home XXL : hebergement 10 personnes, cuisine equipee, lave-vaisselle, 2 salles de bains, grande terrasse.",
+    "vision_strategique_phrase": "Reprise 3 campings ALPHA pour deployer Mobil-Home XXL haut de gamme",
+    "pivots_prevus": "Deploiement marque Planete Mobil Homes + concept XXL",
+    "synergies_repreneur": "Centrale reservation Camping Maillac + 600 mobil-homes places 2024",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": 4100000,
+    "ca_an2_eur": null, "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "partiel"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "Maintien services clients et outil exploitation pour eviter impact negatif",
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Transfert par Tribunal des autorisations d'occupation, concessions et DSP : (1) DSP Perharidy Roscoff (2) DSP Brabois (3) DSP Le Giessen",
+      "Reprise activites impose maintien services clients et outil exploitation",
+      "Indivisibilite avec offre POINTE DE ROSCOFF + BARBEROUSSE (ALPHA CAMPING OCCITANIE)"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "technique",
+    "executive_summary_present": false,
+    "annexes_kbis": false, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false, "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false, "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Planete Mobil Homes — Camping Maillac Sarlat + 600 mobil-homes XXL places 2024 (CA 4,1 M EUR)",
+    "phrase_engagement_social": "3 CDI repris a temps plein — 1 par site + conges/RTT maintenus",
+    "phrase_vision_strategique": "Deployer concept Mobil-Home XXL haut de gamme sur 3 sites ALPHA",
+    "phrase_justification_prix": null
+  }
+}

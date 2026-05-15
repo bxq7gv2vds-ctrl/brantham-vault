@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "offre_id": "33-S2NE-04",
+    "dossier_id": "S2NE",
+    "dossier_folder": "33 - SA SOCIETE NOUVELLE DU NOUVEL ECONOMISTE (dite S2NE)",
+    "fichier_source_pdf": "offre_04_gd72568774.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "Societe Nouvelle du Nouvel Economiste",
+    "cible_siren": "809449234",
+    "naf_secteur": "Presse economique",
+    "sous_secteur": null,
+    "ca_dernier_exercice_eur": 1770000, "ebitda_eur": null, "effectif_total": 6, "nb_sites": 1,
+    "type_procedure": "RJ", "date_ouverture": "2025-12-09", "dldo": "2026-01-09", "date_audience_cession": null,
+    "aj_nom": "Lou Flechard", "aj_etude": "SCP CBF Associes",
+    "mj_nom": "Stephane Gorrias", "mj_etude": "SCP BTSG",
+    "juge_commissaire": "Patrick Armand",
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente", "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null, "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 5, "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Jean-Rene Tancrede (President et associe unique). A dirige pendant 35 ans (1980-2015) Les Annonces de la Seine, La Revue de Jurisprudence Commerciale, Le Collectionneur Francais. Groupe Tancrede diversifie : France Annonces, Edifimundi, JRT Services, SCI Jitson, Holding 12 NDV, Legiteam, EVO Entreprendre, Juris Hebdo, Clic Formalites.",
+    "experience_sectorielle_oui_non": "oui", "experience_sectorielle_annees": 45,
+    "track_record_reprises": ["Les Annonces de la Seine (35 ans)", "La Revue de Jurisprudence Commerciale", "Le Collectionneur Francais"],
+    "capacite_financiere_demontree": "moyenne_documentee", "cautionnement_personnel": "NR",
+    "vehicule_reprise": {"forme_juridique": "SAS unipersonnelle ad hoc", "date_creation": null, "capital_eur": 50050, "rcs": "339349888", "kbis_present_en_annexe": true, "type_vehicule": "substitution_prevue"}
+  },
+  "structure_prix": {
+    "prix_total_eur": 1,
+    "decomposition": {"incorporels_eur": 1, "corporels_eur": 0, "stocks_eur": null, "creances_clients_eur": null, "immeubles_eur": null, "titres_eur": null},
+    "charges_augmentatives_eur": null, "modalites_paiement": "NR",
+    "garanties_paiement": "Apports en compte courant de l'associe unique. Pas de recours a l'emprunt.", "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [], "credit_bail_repris": [], "contrats_clients_critiques_repris": [], "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false, "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null, "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 5, "nb_total_salaries": 6, "pct_reprise": 83.3,
+    "categories_reprises": "Tous salaries repris sauf Jacques Secondi (arret Cour appel Paris 18/02/2025)",
+    "categories_non_reprises_raisons": "M. Jacques Secondi (arret Cour d'appel de Paris 18/02/2025)",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 1, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": 24,
+    "sanction_non_respect_emplois": "Engagement 2 ans : maintien activite, emploi, non-cession du fonds",
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "diagnostic_resume": "Bilan au 31/03/2025 : total actif 1,19M / capitaux propres 1,17M / tresorerie 729k / resultat exercice 79k. Pas de previsionnel d'exploitation ('pas assez de temps'). Date de transfert de propriete souhaitee : 1er avril 2026.",
+    "vision_strategique_phrase": "Maintien activite, emploi, non-cession du fonds pendant 2 ans",
+    "pivots_prevus": null, "synergies_repreneur": "Groupe diversifie presse juridique + formalites + immobilier",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null, "capex_calendrier": null, "capex_nature": null,
+    "plan_affaires_3ans_present": false, "ca_an1_eur": null, "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes", "maintien_site": "NR", "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null, "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false, "dette_bancaire_lettre_confort": false, "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false, "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null, "tresorerie_securite_eur": 729000, "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24, "caution_dirigeant_montant_eur": null, "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null, "maintien_territoire_site_duree": "24 mois", "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false, "nb_conditions": 1,
+    "items": ["Acquisition prealable de la marque Le Nouvel Economiste par France Annonces"],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null, "nb_pages_corps_offre": null, "nb_pages_annexes": null,
+    "structure_dominante": "mix", "ton_dominant": "juridique", "executive_summary_present": false,
+    "annexes_kbis": true, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false, "annexes_organigramme_cible": false, "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false, "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": false, "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false, "soutien_clients_cles": false, "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false, "personnalisation_rencontre_equipes": false, "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR", "differenciation_concurrents_explicite": false, "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Prix 1 EUR symbolique + offre exclut materiels/equipements/contrats", "Pas de previsionnel ('pas assez de temps')"],
+    "declaration_L642_3_signee": false, "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": "Cabinet Regis Bautian (12 place Henri-Bergson, 75008 Paris, toque P 41)", "avocat_nom": "Regis Bautian"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Jean-Rene Tancrede — 35 ans direction Les Annonces de la Seine, La Revue de Jurisprudence Commerciale",
+    "phrase_engagement_social": "Tous salaries repris sauf Jacques Secondi. Engagements 2 ans : maintien activite, emploi, non-cession du fonds",
+    "phrase_vision_strategique": null,
+    "phrase_justification_prix": "1 EUR — l'offre ne comporte pas la reprise des materiels, equipements et contrats attaches"
+  }
+}

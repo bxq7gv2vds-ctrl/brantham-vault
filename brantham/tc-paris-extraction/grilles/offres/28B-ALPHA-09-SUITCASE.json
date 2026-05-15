@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "offre_id": "28B-ALPHA-09-SUITCASE",
+    "dossier_id": "28B-ALPHA",
+    "dossier_folder": "28 - SAS a associe unique ALPHA CAMPING",
+    "fichier_source_pdf": "offre_09_gd71720625.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "ALPHA CAMPING",
+    "cible_siren": "793853128",
+    "naf_secteur": "Hotellerie de plein air / Camping",
+    "sous_secteur": "1 site : CAMPING PERHARIDY a Roscoff (offre partielle)",
+    "ca_dernier_exercice_eur": 14440357,
+    "effectif_total": 46,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "date_audience_cession": "2026-04-02",
+    "aj_nom": "Maitre Maxime LANGET ; Maitre Lou FLECHARD",
+    "mj_nom": "Maitre Florian LACOUR ; Maitre Camille STEINER",
+    "juge_commissaire": "Monsieur Franck MEYNAUD"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Seasonova retenu (Roscoff couvert dans lot 9 sites). SUITCASE non retenu — offre 1 site face a consolidateur.",
+    "motifs_rejet_verbatim": "Offre partielle 1 site. Pattern tribunal : preferer consolidation multi-sites pour preserver coherence groupe.",
+    "nb_offres_concurrentes": 8
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "PFL (President) + JBM HOSPITALITY MANAGEMENT (DG controlee par Jean-Baptiste MARTIN) — co-fondee par Jean-Baptiste MARTIN (HELIMMO 33%) et Vincent LEGENDRE (PFL/Groupe LEGENDRE 67%)",
+    "experience_sectorielle_oui_non": "partielle",
+    "experience_sectorielle_annees": 11,
+    "track_record_reprises": ["Domaine Parc des Chenes La Croix Valmer (repris plan cession Tribunal Bobigny fevrier 2025, reouverture juin 2025 — 150 emplacements + 62 appartements + 3 villas)"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": "2015",
+      "capital_eur": 300000,
+      "rcs": "811368372",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue",
+      "actionnariat": "Groupe LEGENDRE (1Md EUR CA 2024, 2300 collab, 109 M EUR capitaux propres) + HELIMMO (J-B Martin)"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 20000,
+    "decomposition": {
+      "incorporels_eur": 5000,
+      "corporels_eur": 15000,
+      "stocks_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "NR",
+    "garanties_paiement": "Reinvestissement systematique tresorerie depuis creation — endettement faible",
+    "cheque_consignation_eur": null,
+    "note_prix": "Prix 20 000 EUR (5K incorp + 15K corp). Soutien financier actionnaires : 50 M EUR/investissement."
+  },
+  "reprise_passif": {
+    "baux_repris": ["Concession Service Public 02/12/2021 (commune Roscoff)"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Exclusions : stocks (a defaut connaitre consistance) ; actifs greves inscription L.642-12 al.4 et 5 ; actifs faisant objet revendication",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 1,
+    "nb_total_salaries": 46,
+    "pct_reprise": 2.17,
+    "categories_reprises": "1 salarie (titulaire CDI rattache au fonds CAMPING PERHARIDY de Roscoff)",
+    "categories_non_reprises_raisons": "Perimetre 1 site",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 0, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Groupe SUITCASE HOSPITALITY : holding hotelier co-fonde 2015 par Jean-Baptiste MARTIN (HELIMMO) + Groupe LEGENDRE (PFL). Capital 300k. Croissance 2015-2028 : de 1 hotel/112 chambres a 16 hotels/1833 chambres prevues 2028. CA 2024 : 45 M EUR ; CA 2023 : 40,4 M. EBITDA 2024 : 3,9 M ; EBITDA 2023 : 4,5 M. 300 salaries. CA projete 2028 : 70 M.",
+    "vision_strategique_phrase": "Camping = priorite d'investissement actuelle. Marques exploitees : ACCORHOTELS, MARRIOT, BEST WESTERN, MAMA SHELTER.",
+    "pivots_prevus": "Renovation Perharidy : mobilier, normes, marketing, label ESUS/Clef Verte",
+    "synergies_repreneur": "Integration hotelier 12 hotels 1400 chambres + 1 camping Croix Valmer + 62 appartements + 3 villas",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": "Travaux prevus renovation Perharidy : mobilier, normes, marketing, label ESUS/Clef Verte",
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": 45000000,
+    "ca_an2_eur": 40407000,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "partiel"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Groupe LEGENDRE (actionnaire 67% via PFL)", "HELIMMO (actionnaire 33% via J-B Martin)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "Entree jouissance 1er jour du mois suivant jugement plan",
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 8,
+    "items": [
+      "Documentation complementaire verifiant capacite business plan (postes charges, autorisations administratives, commandes clients, inventaire actifs Roscoff)",
+      "Accord Commune Roscoff (proprietaire) perennisation exploitation et transfert DSP",
+      "Obtention autorisations administratives",
+      "Documentation complementaire concession (annexes)",
+      "Absence de litiges avec riverains ou collectivite",
+      "Documentation droits acquis salaries a audience",
+      "Visite site et obtention informations techniques/reglementaires",
+      "Entree jouissance 1er jour du mois suivant jugement plan"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "commercial",
+    "executive_summary_present": false,
+    "annexes_kbis": false, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false, "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false, "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Track record HPA limite (1 reprise La Croix Valmer 2025 — autres etablissements = hotellerie urbaine)"],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe LEGENDRE (1Md EUR CA 2024, 2300 collab) + HELIMMO (J-B Martin) — 16 hotels/1833 chambres prevues 2028",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": "Camping = priorite d'investissement actuelle — reprise Domaine Parc des Chenes (Bobigny 2025) puis Perharidy",
+    "phrase_justification_prix": "Reinvestissement systematique tresorerie depuis creation — endettement faible"
+  }
+}

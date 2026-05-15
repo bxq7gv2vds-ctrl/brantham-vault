@@ -1,0 +1,150 @@
+{
+  "meta": {"offre_id": "26-CHA-01", "dossier_id": "26", "dossier_folder": "26 - SCI C.H.A", "fichier_source_pdf": "offre_01_gd71722711.pdf", "extracted_at": "2026-05-15", "extracted_by": "claude-agent", "confidence": "high"},
+  "identification": {
+    "cible_raison_sociale": "SCI C.H.A.",
+    "cible_siren": "423331776",
+    "naf_secteur": "68.20B Location terrains et autres biens immobiliers",
+    "sous_secteur": "Foncier camping - Camping Soleil d'Oc 4 étoiles Narbonne Plage (197 emplacements, franchise Camping Paradis)",
+    "ca_dernier_exercice_eur": 69480, "ebitda_eur": null, "effectif_total": 0, "nb_sites": 1,
+    "type_procedure": "RJ", "date_ouverture": "2025-11-12", "dldo": "2025-12-17", "date_audience_cession": null,
+    "aj_nom": "Me Lou Flechard ; Me Maxime Langet", "aj_etude": "SCP CBF Associés ; SELAS BL & Associés",
+    "mj_nom": "Me Florian Lacour ; Me Camille Steiner", "mj_etude": "SELAFA MJA ; SELARL Athena",
+    "juge_commissaire": "M. Franck Meynaud",
+    "causes_defaillance": "Filiale du Groupe NEOCAMP en RJ (7 procédures simultanées 12/11/2025) — 2 crédits Banque Courtois encore dus 38 033€"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 6,
+    "concurrents_resume": [
+      {"nom": "HOMAIR VACANCES (ECG)", "positionnement_2lignes": "800k€ murs + 400k€ fonds Lormed = 1,2M€, 3 emplois CDI, charges aug 1,7M€"},
+      {"nom": "FEMINA STYL+MARENGO", "positionnement_2lignes": "1M€ (Projet Global indivisible 26 entités NEOCAMP), partenariat capitalistique ILO"},
+      {"nom": "KBC SAS", "positionnement_2lignes": "100k€ murs seuls, conserve bail Lormed existant"},
+      {"nom": "SLBC PERON (CAMPALDIA)", "positionnement_2lignes": "3€ symbolique, indivisible 7 sociétés NEOCAMP"},
+      {"nom": "GROUPE SEASONOVA", "positionnement_2lignes": "Lettre d'intention sans prix - gagnant connu sur Alpha Camping principal selon analyses"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Romain Baumstark (Président), Virgil Baumstark (DG), Glen Baumstark (DG délégué) - actionnariat familial Baumstark",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 17,
+    "track_record_reprises": ["Antipolis Antibes 2009", "Domaine de Verdagne Gassin", "Lou Pibols/Maiana Montpellier", "Château de l'Hom Cévennes"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": null,
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 600000,
+    "decomposition": {"incorporels_eur": 0, "corporels_eur": 0, "stocks_eur": null, "creances_clients_eur": null, "immeubles_eur": 600000, "titres_eur": null},
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "NR",
+    "garanties_paiement": null,
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail commercial avec SAS LORMED (loyer 69 480€ HT/an, échéance initiale 30/10/2025)"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Franchise Camping Paradis"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 0,
+    "pct_reprise": null,
+    "categories_reprises": "Non applicable SCI (3 salariés Lormed via offre connexe ACO)",
+    "categories_non_reprises_raisons": "SCI non employeuse",
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Camping Soleil d'Oc 4* - 197 emplacements, situé entre établissements existants Groupe HPA Mediterraneo (La Grande-Motte, Saumane, Château de l'Hom)",
+    "vision_strategique_phrase": "Intégration au groupe familial HPA Mediterraneo - mutualisation avec 4 campings existants depuis 2009",
+    "pivots_prevus": "Désamiantage total + projet parc aquatique + rénovation mobil-homes",
+    "synergies_repreneur": "Maintien équipe terrain + conformité Loi Littoral zone NL (sans augmentation capacité)",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": 651000,
+    "capex_calendrier": "Premières années post-reprise",
+    "capex_nature": "Parc aquatique 300K€ + rénovation mobil-homes 351K€",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 1166735,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "partiel"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": true,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Lignes de crédit bancaires mobilisables"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "Conformité Loi Littoral zone NL (pas d'augmentation capacité)",
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 2,
+    "items": ["Caractère indivisible et indissociable avec offres connexes Lormed et Alpha Camping Occitanie", "Conditions détaillées article 4.7 (non explicité)"],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null, "nb_pages_corps_offre": null, "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille", "ton_dominant": "mixte", "executive_summary_present": false,
+    "annexes_kbis": false, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false, "annexes_business_plan": true,
+    "annexes_organigramme_cible": false, "annexes_comptes_sociaux_3ans": true, "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false, "annexes_cni_dirigeants": false, "signature_docusign": false, "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": true,
+    "personnalisation_rencontre_equipes": true,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": "cbfassocies.com", "avocat_nom": "Mehdi Ourhim"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe HPA Méditerranéo - 4 campings acquis depuis 2009 (familial Baumstark)",
+    "phrase_engagement_social": "Maintien équipe terrain",
+    "phrase_vision_strategique": "Camping Soleil d'Oc situé entre établissements existants du groupe - intégration géographique cohérente",
+    "phrase_justification_prix": "Prévisions Soleil d'Oc CA 2025/26 1,17M€ → 2029 1,41M€ ; EBE 2026 194K€ (16,7%) → 2029 376K€ (26,8%)"
+  }
+}

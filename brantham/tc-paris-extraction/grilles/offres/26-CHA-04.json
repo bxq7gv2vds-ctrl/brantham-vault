@@ -1,0 +1,130 @@
+{
+  "meta": {"offre_id": "26-CHA-04", "dossier_id": "26", "dossier_folder": "26 - SCI C.H.A", "fichier_source_pdf": "offre_04_gd71722018.pdf", "extracted_at": "2026-05-15", "extracted_by": "claude-agent", "confidence": "high"},
+  "identification": {
+    "cible_raison_sociale": "SCI C.H.A.", "cible_siren": "423331776",
+    "naf_secteur": "68.20B Location terrains et autres biens immobiliers",
+    "sous_secteur": "Foncier camping - Camping Soleil d'Oc Narbonne Plage (acquisition murs seuls)",
+    "ca_dernier_exercice_eur": 69480, "ebitda_eur": null, "effectif_total": 0, "nb_sites": 1,
+    "type_procedure": "RJ", "date_ouverture": "2025-11-12", "dldo": "2025-12-17", "date_audience_cession": null,
+    "aj_nom": "Me Lou Flechard ; Me Maxime Langet", "aj_etude": "SCP CBF Associés ; SELAS BL & Associés",
+    "mj_nom": "Me Florian Lacour ; Me Camille Steiner", "mj_etude": "SELAFA MJA ; SELARL Athena",
+    "juge_commissaire": "M. Franck Meynaud",
+    "causes_defaillance": "Filiale Groupe NEOCAMP"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": "Offre la plus basse (100k€) - acquisition murs SCI sans reprise exploitation Lormed",
+    "nb_offres_concurrentes": 6,
+    "concurrents_resume": [
+      {"nom": "HPA MEDITERRANEO", "positionnement_2lignes": "600k€"},
+      {"nom": "HOMAIR (ECG)", "positionnement_2lignes": "800k€ + 1,7M€ charges aug"},
+      {"nom": "FEMINA STYL+MARENGO", "positionnement_2lignes": "1M€ Projet Global"},
+      {"nom": "CAMPALDIA", "positionnement_2lignes": "3€ symbolique"},
+      {"nom": "SEASONOVA", "positionnement_2lignes": "Lettre d'intention - gagnant principal"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "George Molin (Président)",
+    "experience_sectorielle_oui_non": "NR",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["KBC SAS - non communiqué"],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": null,
+      "capital_eur": 100000,
+      "rcs": "814346300",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 100000,
+    "decomposition": {"incorporels_eur": 0, "corporels_eur": 100000, "stocks_eur": null, "creances_clients_eur": null, "immeubles_eur": 100000, "titres_eur": null},
+    "charges_augmentatives_eur": 38033,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Paiement comptant à la signature acte authentique - virement compte séquestre notaire - garantie 10% sur première demande Tribunal",
+    "cheque_consignation_eur": 10000
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail commercial existant avec Lormed (69 480€ HT/an, reconduit échéance 30/10/2025)"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": true,
+    "engagement_L642_12_montant_eur": 38033,
+    "passif_privilegie_repris": "Reprise 2 engagements Banque Courtois : 28 866,38€ + 9 167,04€ = 38 033,42€",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0, "nb_total_salaries": 0, "pct_reprise": null,
+    "categories_reprises": null,
+    "categories_non_reprises_raisons": "Acquisition murs seule - non reprise de la SCI ni de l'exploitation Lormed",
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null, "sanction_non_respect_emplois": null, "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "diagnostic_resume": "Acquisition murs seule du Camping Paradis Soleil d'Oc - conserve bail Lormed existant",
+    "vision_strategique_phrase": "Acquisition immobilière isolée - conserve l'exploitation existante via bail Lormed",
+    "pivots_prevus": null,
+    "synergies_repreneur": null,
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null, "capex_calendrier": null, "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null, "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 138033,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {"incessibilite_temporaire_mois": null, "caution_dirigeant_montant_eur": null, "caution_dirigeant_duree_mois": null, "penalites_non_respect_social_eur": null, "maintien_territoire_site_duree": null, "non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": false, "nb_conditions": 4,
+    "items": [
+      "Autorisation cession actif par Tribunal compétent",
+      "Non-préemption par la commune",
+      "Signature acte authentique au plus tard 30/07/2026",
+      "Vérification conformité bail vs éléments data room"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null, "nb_pages_corps_offre": null, "nb_pages_annexes": null,
+    "structure_dominante": "lettre_simple", "ton_dominant": "juridique", "executive_summary_present": false,
+    "annexes_kbis": false, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false, "annexes_business_plan": false,
+    "annexes_organigramme_cible": false, "annexes_comptes_sociaux_3ans": false, "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false, "annexes_cni_dirigeants": false, "signature_docusign": true, "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false, "soutien_clients_cles": false, "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false, "personnalisation_rencontre_equipes": false, "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "incoherent", "differenciation_concurrents_explicite": false, "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Offre la plus basse — pattern Minelli : cherry-picking sans engagement global"],
+    "declaration_L642_3_signee": false, "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "KBC SAS - acquisition murs uniquement",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": "Acquisition immobilière isolée conservant bail Lormed (69 480€ HT/an)",
+    "phrase_justification_prix": "100 000€ + reprise 2 engagements Banque Courtois 38 033€ = 138 033€ total. Sollicite convocation à audience pour amélioration éventuelle"
+  }
+}

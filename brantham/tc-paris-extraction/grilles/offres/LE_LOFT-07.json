@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "offre_id": "LE_LOFT-07",
+    "dossier_id": "19",
+    "dossier_folder": "19 - SCI LE LOFT",
+    "fichier_source_pdf": "19_SCI_LE_LOFT_offre7.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high",
+    "note_dedup": "CSV original mentionnait 'offre amelioree a identifier'. Identification : GROUPE ARCANGE (SARL Michael SFEDJ) - offre amelioree 02/03/2026 portefeuille global 8.713.000 EUR TTC (vs 8.245.000 initial). SCI LE LOFT inchange 460.000 EUR."
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI LE LOFT (inclus dans portefeuille 19 actifs SC BALTHAZAR + groupe Melot-Gouband)",
+    "cible_siren": null,
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "Portefeuille FHBX 19 actifs - SCI LE LOFT (15 rue Jules Ferry Bagnolet 'Activite - 1 Loft/1 Studio') a l'unite 460.000 EUR. Offre eventuellement divisible.",
+    "effectif_total": 0,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-04-29",
+    "dldo": "2026-03-02",
+    "aj_nom": "Me Helene BOURBOULOUX",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Me Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "M. Jean-Francois PONCET",
+    "causes_defaillance": "Defaillance groupe Melot-Gouband (43+ societes du groupe de fait en RJ)"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 7,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Michael SFEDJ (fondateur, 20 ans expert immobilier - acquisition/developpement/valorisation actifs)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 20,
+    "track_record_reprises": ["Groupe ARCANGE fonde 20 ans - investissement immobilier Paris + 1ere couronne", "Partenariats Banque Populaire Val de France (BPCE) depuis 2010 + Neuflize OBC-ABN AMRO depuis 2014 (FCPR)"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SARL GROUPE ARCANGE avec faculte substitution",
+      "date_creation": null,
+      "capital_eur": 5000000,
+      "rcs": "392939872",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 460000,
+    "decomposition": {
+      "immeubles_eur": 460000
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Prix amelioré global 8.713.000 EUR TTC (initial 8.245.000 EUR). Versement par virement/cheque selon modalites tribunal. Pas de condition suspensive de financement. SCI LE LOFT 460.000 EUR (inchange initial=amelioré).",
+    "cheque_consignation_eur": null,
+    "prix_portefeuille_global_eur": 8713000,
+    "note_prix": "Prix plafond integrant transferts suretes/gages/hypothèques/nantissements. TVA inclus si applicable."
+  },
+  "reprise_passif": {
+    "baux_repris": ["Integralite des baux afferents a chaque actif immobilier repris (sous reserve verification, contentieux, arrieres locatifs)"],
+    "credit_bail_repris": [],
+    "engagements_L642_12_al4": true,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Prix 'plafond' integrant les transferts de suretes/gages/hypothèques/nantissements - quantum a determiner",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 0,
+    "pct_reprise": null,
+    "categories_reprises": "Asset deal - aucun salarie. Si plan de cession impose : aucun salarie repris (priorite reembauche 1 an L.1233-45)."
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Strategie 'asset deal' privilegiee mais ouvert au plan de cession partiel. Detention moyen-long terme 5 ans (pas court terme acquisition-revente). Gestion 'bon père de famille' : encaissement loyers, relocation, optimisation portefeuille, travaux, mise en conformite.",
+    "vision_strategique_phrase": "Reprendre une partie des actifs immobiliers appartenant a MM. Melot et Gouband via le groupe de fait pour une detention a moyen-long terme, pour un repositionnement au mieux des actifs",
+    "synergies_repreneur": "Integration dans portefeuille immobilier existant Groupe ARCANGE (Paris + 1ere couronne) + savoir-faire renovation/rehabilitation/transformation immeubles",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "prudentes",
+    "maintien_site": "oui_total"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "partenaires_financiers": ["Banque Populaire Val de France (BPCE) + VAL DE FRANCE IMMO depuis 2010", "Neuflize OBC - ABN AMRO + FCPR depuis 2014"]
+  },
+  "engagements_specifiques": {
+    "non_demembrement": false,
+    "maintien_territoire_site_duree": "Conservation 5 ans environ moyen-long terme"
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 8,
+    "items": [
+      "Visite des actifs (sine qua non)",
+      "Validation analyse titres propriete, baux, affectations/usage",
+      "Analyse suretes, gages, nantissements, hypothèques permettant valorisation",
+      "Analyse litiges, contentieux, precontentieux",
+      "Analyse sinistres declares ou non",
+      "Surfaces exactes des actifs",
+      "Analyse etats des impayes locatifs",
+      "Etat obligations reglementaires, environnementales, autorisations, DPE"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 14,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "technique",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": true,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": true,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": true,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": true,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [
+      "Amelioration SCI LE LOFT = 0 (460k initial = 460k amelioré) - amelioration concentree sur Atelier Urbain, Marie Madeleine, Atelier Montreuil etc",
+      "Offre toujours conditionnee a visites - pas une offre 'sans condition' au sens stricte malgre le label"
+    ],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Entite independante fondee il y a plus de 20 ans par son president Monsieur Michael SFEDJ, le groupe ARCANGE a acquis un savoir-faire dans la gestion des immeubles, en asset management, dans la renovation, la rehabilitation et la transformation d'immeubles",
+    "phrase_vision_strategique": "L'objectif etant de reprendre les biens immobiliers, pour une detention a moyen long terme, pour un repositionnement au mieux des actifs. Avec l'objectif d'une bonne gestion du type 'bon père de famille'",
+    "phrase_justification_prix": "Le prix de l'offre a ete globalement amélioré, avec un prix global initial de 8 245 000 euros TTC porte a 8 713 000 euros TTC, toutefois, et pour rappel, sous condition"
+  }
+}
