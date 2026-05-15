@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "dossier_id": "23",
+    "dossier_folder": "23 - SAS A J CONSEIL",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS A J CONSEIL (AJ CONSEIL / AJILINK)",
+    "cible_siren": null,
+    "naf_secteur": "Recrutement / Intérim / Conseil RH",
+    "sous_secteur": "Mise à disposition de personnel — tourisme, hôtellerie, tertiaire",
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": "2025-12-05",
+    "date_audience_cession": null,
+    "aj_nom": null,
+    "aj_etude": null,
+    "mj_nom": null,
+    "mj_etude": null,
+    "juge_commissaire": null,
+    "causes_defaillance": null,
+    "nb_offres_recues": 4,
+    "effectif_total": 4,
+    "actif_principal": "Fonds de commerce AJ CONSEIL — marque INPI n°174393736 + ATS/CRM + clientèle tourisme/hôtellerie/tertiaire + LinkedIn AJ CONSEIL"
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 4,
+    "concurrents_resume": [
+      {"nom": "HUMAN LOG (initiale)", "positionnement_2lignes": "SAS Sully-sur-Loire 06/2024, Saloua ZAHOT Présidente. 10 001€ pour 2 emplois — offre du 25/11/2025"},
+      {"nom": "HUMAN LOG (améliorée)", "positionnement_2lignes": "Même véhicule 09/02/2026 améliorée : 20 000€ pour 2 emplois — sans condition suspensive"},
+      {"nom": "MS GROUP", "positionnement_2lignes": "SARL Paris 9 (cap. 100k€, holding MSCB Investissements 1,9M€), CA 3,14M€/RN 396k. 5 000€ pour 1 emploi — CS Office Manager présentiel"},
+      {"nom": "EL HOURFI / JOURNO / HACHIBA / TACHFINE", "positionnement_2lignes": "Consortium PP via SAS à constituer 'AJ Conseil NEW'. 1 000€ + stock 10k forfaitaire pour 1 emploi — 8 CS"}
+    ]
+  },
+  "notes_dossier": "Pattern majeur : HUMAN LOG porté par consortium EL HOURFI / JOURNO / HACHIBA / TACHFINE qui dépose AUSSI une offre concurrente en PP (AJ-04). HUMAN LOG améliore son offre de 10k→20k. MS GROUP est l'opérateur le plus solide (financiers documentés CA 3,14M€) mais offre la plus chère par emploi (5k€/emploi) avec CS gênante. La compétition se joue sur 2 axes : prix + emplois ET niveau de structuration repreneur."
+}

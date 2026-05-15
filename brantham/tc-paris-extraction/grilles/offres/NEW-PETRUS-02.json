@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "offre_id": "NEW-PETRUS-02",
+    "dossier_id": "NEW-PETRUS",
+    "dossier_folder": "NEW_46 - SAS PETRUS",
+    "fichier_source_pdf": "offre_02_gd79305354.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS PETRUS",
+    "cible_siren": "308757970",
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-01-16",
+    "dldo": "2026-04-23",
+    "aj_nom": "Maître Marine PACE",
+    "mj_nom": "Maître Sabine ROCHER",
+    "effectif_total": 9
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "nb_offres_concurrentes": 5
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Ceqian XU, Président. Groupe 8 restaurants Paris (SPHERE, PASSIONNÉ, AOIZAKAYA, LE TO RESTAURANT, MOOM MAM, SHIRO, JANDARA, ONYX).",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "SASU",
+      "capital_eur": 7802000,
+      "rcs": "981253925",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 50000,
+    "decomposition": {
+      "incorporels_eur": 30000,
+      "corporels_eur": 20000,
+      "stocks_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds propres"
+  },
+  "reprise_passif": {
+    "baux_repris": ["12 place du Maréchal Juin 75017 Paris (loyer 46374,92€ HT/HC selon avis T1 2025)"],
+    "engagements_L642_12_al4": false,
+    "passif_privilegie_repris": "Repreneur envisage négocier remboursement anticipé prêt BNP avec l'établissement bancaire"
+  },
+  "volet_social": {
+    "nb_salaries_repris": null,
+    "nb_total_salaries": 9,
+    "pct_reprise": null,
+    "categories_reprises": "Liste non nominative postes repris à communiquer ultérieurement",
+    "engagement_maintien_emplois_duree_mois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "vision_strategique_phrase": "Intégration au groupe restauration parisien (8 enseignes existantes)",
+    "synergies_repreneur": "Mutualisation avec 8 restaurants existants du groupe",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "partiel"
+  },
+  "financement": {
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false
+  },
+  "engagements_specifiques": {"non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "commercial",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "personnalisation_visite_site": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Pas d'engagement chiffré sur emplois", "Substitution sur filiale 'à constituer' aux caractéristiques non arrêtées"],
+    "faculte_substitution_precise": false,
+    "declaration_L642_3_signee": false
+  },
+  "avocat_repreneur": {"cabinet": "Agence POINT DE VENTE (MICKAEL KURTIS)", "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe restauration Ceqian XU — 8 restaurants Paris",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": null,
+    "phrase_justification_prix": null
+  }
+}

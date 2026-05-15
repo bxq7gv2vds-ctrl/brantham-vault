@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "offre_id": "NEW-MINELLI-05",
+    "dossier_id": "NEW-MINELLI",
+    "dossier_folder": "NEW_26 - SA MAISON MINELLI",
+    "fichier_source_pdf": "offre_05_gd80123969.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "MAISON MINELLI",
+    "cible_siren": "983323957",
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-03",
+    "dldo": "2026-05-11",
+    "aj_nom": "Me Carole Martinez + Me Céline Pelzer",
+    "mj_nom": "Me Stéphane Gorrias",
+    "effectif_total": 86,
+    "nb_sites": 21
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "liquidation",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": "Offre partielle digitale: 9 emplois siège seulement (10,5% effectif), aucun des 21 baux repris, 77 salariés magasins non repris. Modèle 100% digital incompatible avec maintien réseau retail.",
+    "nb_offres_concurrentes": 5
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Augustin DUFAURE DE LAJARTE — né 02/09/2001 à Chambéry (~24 ans), Gérant HOLDING BAGHAIRA",
+    "experience_sectorielle_oui_non": "partielle",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SARL puis NewCo SAS 100% Baghaira",
+      "date_creation": "2023-02-27",
+      "capital_eur": 100,
+      "rcs": "949300479",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 300000,
+    "decomposition": {
+      "incorporels_eur": 50000,
+      "corporels_eur": 250000,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "500 K€ injectés NewCo (300k prix + 150k inv/BFR + 50k réserve)"
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "passif_privilegie_repris": "Pas de bail repris — modèle 100% digital",
+    "retraites_chapeau_indemnites": "Prise en charge CP/RTT accumulés des 9 salariés repris"
+  },
+  "volet_social": {
+    "nb_salaries_repris": 9,
+    "nb_total_salaries": 86,
+    "pct_reprise": 10.5,
+    "categories_reprises": "9 salariés siège Gémenos : Responsable achats, Responsable création/image, Responsable admin/financier, Social Media Manager, Responsable gestion stock, Responsable opérations, Responsable service client, E-store Manager, Assistant(e) styliste",
+    "categories_non_reprises_raisons": "77 salariés magasins non repris (modèle 100% digital — aucun bail repris)",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 77, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": 24,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Stock 154 528 pièces (PA 2,68 M€, 80% chaussures femme). Analyse fine cession via e-commerce + déstockeurs (Veepee, Showroomprivé) + marketplaces (Zalando, Sarenza, La Redoute).",
+    "vision_strategique_phrase": "Modèle de relance 100% digital — site e-commerce + marketplaces + corners grands magasins à terme",
+    "pivots_prevus": "Bascule retail physique → 100% digital; corners grands magasins phase 3",
+    "synergies_repreneur": "Logistique internalisée groupe Baghaira (CA 5 M€ FR — Galeries Lafayette, BHV, LVMH, Stellantis, Mousquetaires)",
+    "synergies_chiffrees_eur": 170000,
+    "capex_montant_eur": 150000,
+    "capex_calendrier": "An1",
+    "capex_nature": "Investissements + BFR",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 1780000,
+    "ca_an2_eur": 2200000,
+    "ca_an3_eur": 2800000,
+    "ebitda_an3_eur": 280000,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "partiel",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 500000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": 150000,
+    "tresorerie_securite_eur": 50000,
+    "partenaires_financiers": ["Groupe Baghaira", "Partenaire sourcing industriel (Portugal/Italie/Espagne/Asie)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "maintien_territoire_site_duree": "Maintien 9 emplois 24 mois minimum"
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 5,
+    "items": [
+      "Transfert effectif marques + noms domaine + réseaux sociaux + fichiers clients",
+      "Absence modification substantielle actifs entre offre et entrée jouissance",
+      "Transmission liste personnel à jour",
+      "Absence opposition tierce sur actifs incorporels stratégiques",
+      "Confirmation absence sûreté/réserve propriété sur actifs et stocks"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "technique",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": true,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Repreneur 24 ans — risque expérience", "Modèle digital pure plays sur marque retail historique — pari risqué", "Pas de bail repris = perte fonds de commerce physique"],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": "Maître Mickaël BENMUSSA"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe BAGHAIRA — groupe français transport et logistique, opérant pour Galeries Lafayette, BHV, LVMH, Stellantis, Les Mousquetaires",
+    "phrase_engagement_social": "Maintien 9 emplois minimum 24 mois. Prise en charge CP/RTT accumulés.",
+    "phrase_vision_strategique": "Plan 3 phases : M1-M9 liquidation stock, M6-M18 lancement collection capsule 'Nouveau Minelli', Année 2-3 corners grands magasins",
+    "phrase_justification_prix": "500 K€ injectés dans NewCo : 300 K€ prix de cession + 150 K€ investissements/BFR + 50 K€ réserve sécurité"
+  }
+}

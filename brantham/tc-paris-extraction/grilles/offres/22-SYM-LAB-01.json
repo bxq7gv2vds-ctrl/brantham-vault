@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "offre_id": "22-SYM-LAB-01",
+    "dossier_id": "22-SYM-LAB",
+    "dossier_folder": "22 - SAS SYM LAB GROUP",
+    "fichier_source_pdf": "offre_01_gd74944468.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS SYM LAB GROUP (holding du groupe SYM GROUP)",
+    "cible_siren": null,
+    "naf_secteur": "Optique mobile / tech sante visuelle",
+    "sous_secteur": "Medicobus ophtalmologiques / sante visuelle",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": null,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-04",
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Charles-Henri CARBONI",
+    "aj_etude": "SELARL DETROIT",
+    "mj_nom": "Florian LACOUR",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "Penelope DE WULF",
+    "causes_defaillance": "Start-up consommatrice de cash, encore en phase d'investissement. Le repreneur lui-meme : 'il s'agit encore d'une start up, c'est a dire un sujet d'investissement, et pas immediatement un sujet de profit'."
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "amelioree_puis_retenue",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Continuite activite sante visuelle mobile, expertise sectorielle du repreneur, gouvernances Sym/LOM restent independantes (source Acuite + L'Informe)",
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 0,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Matthieu GERBER, fondateur et dirigeant de SAS Les Opticiens Mobiles. Egalement actionnaire personnel direct 2,08% + via MY DEVELOPMENT 49,60%.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS (deux SAS ad hoc : SYM OPTIC France + SYM TECH France)",
+      "date_creation": null,
+      "capital_eur": 100000,
+      "rcs": "RCS Paris (a immatriculer)",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "newco"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 50000,
+    "decomposition": {
+      "incorporels_eur": 15000,
+      "corporels_eur": 30000,
+      "stocks_eur": 5000,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Cheque de banque 50 000 EUR (ou virement) remis avant audience. Garantie d'execution 48h ouvrees avant audience.",
+    "cheque_consignation_eur": 50000
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [
+      "Tous contrats L 622-13 et contrats clients portes a la connaissance du proposant, perimetre modifiable 48h avant audience"
+    ],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Aucun (actifs greves sureté L642-12 exclus)",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 23,
+    "nb_total_salaries": 29,
+    "pct_reprise": 79.31,
+    "categories_reprises": "20 salaries SYM OPTIC + 3 salaries SYM TECH (23 CDI)",
+    "categories_non_reprises_raisons": "6 salaries non repris ; priorite reembauche 2 ans. Analyse en cours pour amelioration du perimetre.",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {
+      "nb": 6,
+      "calendrier": null,
+      "indemnites": null,
+      "accompagnement": "Priorite de reembauche 2 ans"
+    },
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": true
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Diagnostic articule autour de 4 axes de synergies (achats -5/-10% COGS, operationnelles back-office + camions + IT, strategiques ROF/SNOF/Ministere sante, commerciales B2B/B2C + cross-selling audio+optique). Plan de deploiement industriel chiffre (1 camion/mois oct 2026 puis 2/mois fev 2027). Repreneur reconnait que la societe reste en phase d'investissement.",
+    "vision_strategique_phrase": "Les Opticiens Mobiles et Le Groupe SYM sont tous deux acteurs de la prise en charge de la sante visuelle en dehors d'un magasin d'optique traditionnel, mais au-dela de ce point commun, d'autres synergies existent.",
+    "pivots_prevus": "Deploiement camion/mois oct 2026 puis 2/mois fev 2027. Mutualisation back-office. CRM/ERP unique LOM. Bail Chateaudun non repris (siege a renegocier).",
+    "synergies_repreneur": "Achats (-5 a -10% COGS) ; mutualisation HR back-office ; CRM/ERP partage ; cross-selling audio+optique +10-15% revenu/patient ; lobbying ROF/SNOF/CNAM combine",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": 1000000,
+    "capex_calendrier": "Investissements >1M EUR estimes ; deploiement progressif camions oct 2026 / fev 2027",
+    "capex_nature": "Camions opticiens mobiles + IT mutualisee + reseau opticiens",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 3105666,
+    "ca_an2_eur": 6564688,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "prudentes",
+    "maintien_site": "partiel",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 500000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": 1700000,
+    "partenaires_financiers": [
+      "AMUNDI Asset Management (fond impact)",
+      "EVOLEM (Family office April)",
+      "Impactivist (fond impact)",
+      "123 Investment Manager (Venture Capital)",
+      "FPS FINANCE ET SOLIDARITE",
+      "FCPI 123 MULTINOVA VI",
+      "INVESTIR&+"
+    ]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "Pas de cession d'actifs sur 2 ans sauf materiel vetuste ou inutilise",
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 10,
+    "nb_pages_corps_offre": 10,
+    "nb_pages_annexes": 0,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": true,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": [
+      "Caracteres encodage abimes ('MaÓtre', 'PÈnÈlope') - PDF possiblement OCR'e/converti",
+      "Bilan 31/06/2025 mentionne (date impossible : 31 juin n'existe pas - probablement 30/06/2025)",
+      "Repetition 'tous deux deux acteurs' page 4"
+    ],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Les Opticiens Mobiles est la premiere entreprise de l'optique reconnue Entreprise Solidaire d'Utilite Sociale par l'agrement ESUS et societe a mission. Elle constitue le 1er reseau national d'opticiens specialises pour intervenir sur les lieux de vie et de travail.",
+    "phrase_engagement_social": "23 contrats de travail (CDI) sont repris sur 29 portes a la connaissance du candidat repreneur, (analyse en cours pour une eventuelle amelioration de ce perimetre)",
+    "phrase_vision_strategique": "La raison d'etre des Opticiens Mobiles est de repondre a un enjeu de sante majeur : faciliter l'acces a la sante visuelle, pour toutes et tous, avec bienveillance, quels que soient l'age, le mode et le lieu de vie, et la volonte ou possibilite de se deplacer.",
+    "phrase_justification_prix": "Malgre la qualite des actifs et du fonds de commerce des societes du Groupe SYM, il s'agit encore d'une start up, c'est-a-dire un sujet d'investissement, et pas immediatement un sujet de profit. Outre les couts d'acquisition, il faudra prevoir des investissements evalues a plus de 1M EUR. Le Groupe continuera a realiser des pertes en 2026 et son cash-flow restera negatif en 2027. Cela impacte evidemment la valeur proposee pour les actifs."
+  }
+}

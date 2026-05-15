@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "offre_id": "NEW-MINELLI-06",
+    "dossier_id": "NEW-MINELLI",
+    "dossier_folder": "NEW_26 - SA MAISON MINELLI",
+    "fichier_source_pdf": "offre_06_gd80123904.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "MAISON MINELLI",
+    "cible_siren": "983323957",
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-03",
+    "dldo": "2026-05-11",
+    "aj_nom": "Me Carole Martinez + Me Céline Pelzer",
+    "mj_nom": "Me Stéphane Gorrias",
+    "effectif_total": 86,
+    "nb_sites": 21
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "liquidation",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": "Cession isolée 2 droits au bail indivisibles (Ternes + Mac-Mahon) — 1 point de vente sur 21. Reconversion enseigne MAJE prêt-à-porter féminin. Aucun contrat de travail repris.",
+    "nb_offres_concurrentes": 5
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_concurrent",
+    "age_parcours_dirigeant": "Présidente JUDITH MILGROM SAS, DG Lamprini KOUSOURNA, DG délégué Patricia THEVENIN — détention 100% SMCP Group (coté)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": null,
+      "capital_eur": 100000,
+      "rcs": "382544310",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 550000,
+    "decomposition": {
+      "incorporels_eur": 550000,
+      "corporels_eur": null,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds propres MAJE"
+  },
+  "reprise_passif": {
+    "baux_repris": ["29-31 av Ternes + 22 av Mac-Mahon (renouvellement 23/01/2017)", "24 av Mac-Mahon + 33 av Ternes 75017 Paris (renouvellement 16/11/1987)"],
+    "credit_bail_repris": [],
+    "engagements_L642_12_al4": false,
+    "passif_privilegie_repris": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 86,
+    "pct_reprise": 0,
+    "categories_non_reprises_raisons": "Cession actifs isolés — aucun contrat de travail",
+    "maintien_conditions_anciennete_salaire_lieu": "non",
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "absent",
+    "vision_strategique_phrase": "Développement enseigne MAJE en France — acquisition emplacement Ternes",
+    "pivots_prevus": "Reconversion chaussures Minelli → prêt-à-porter Maje",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "partiel",
+    "maintien_marques_savoir_faire": "non"
+  },
+  "financement": {
+    "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": false,
+    "partenaires_financiers": ["Fonds propres MAJE (groupe SMCP coté)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 4,
+    "items": [
+      "Agrément de chacun des bailleurs à la cession avec renonciation droit de préférence",
+      "Accord bailleur local 29/31 av Ternes (SCI HIGH STREET RETAIL 1) : loyer 75 000 € avec allègement An1-An3",
+      "Accord bailleurs 24 av Mac Mahon + 33 av Ternes (M. TEBOUL, M. et Mme COHEN) : loyer 90 000 €",
+      "Accord bailleurs sur travaux d'aménagement sous concept MAJE — réalisation 31/05/2026 max"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_organigramme_cible": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "personnalisation_visite_site": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Cherry-picking 1 point de vente sur 21", "Zéro emploi repris", "Cession concurrent direct (SMCP/Maje) sur même secteur"],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {"cabinet": "Cabinet ELKAIM avocats", "avocat_nom": "Me Philippe ELKAIM"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "MAJE — marque créée par Judith MILGROM, prêt-à-porter féminin haut de gamme prix accessibles, grande notoriété nationale et internationale",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": "Acquisition pour développement enseigne MAJE en France — transfert jouissance 1er juillet 2026",
+    "phrase_justification_prix": "Pas de cession d'actif prévue dans 2 ans suivant cession (engagement incessibilité)"
+  }
+}

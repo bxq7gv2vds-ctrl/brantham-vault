@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "dossier_id": "NEW-MINELLI",
+    "dossier_folder": "NEW_26 - SA MAISON MINELLI",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "MAISON MINELLI",
+    "cible_siren": "983323957",
+    "forme_juridique": "Société anonyme à conseil d'administration",
+    "capital_social_eur": 100000,
+    "rcs": "983323957",
+    "adresse_siege": "1 Impasse Saint-Eustache, 75001 Paris",
+    "naf_secteur": "Mode / Prêt-à-porter / Chaussures / Maroquinerie",
+    "sous_secteur": "Retail chaussures femme (80% PA stock)",
+    "ca_dernier_exercice_eur": null,
+    "effectif_total": 86,
+    "nb_sites": 21,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-03",
+    "dldo": "2026-05-11",
+    "date_audience_cession": "2026-05-13",
+    "aj_nom": "Me Carole Martinez + Me Céline Pelzer",
+    "aj_etude": "2M & Associés / P2G",
+    "mj_nom": "Me Stéphane Gorrias",
+    "mj_etude": "SCP BTSG²",
+    "juge_commissaire": "Joseph Wehbi",
+    "tribunal": "Tribunal des activités économiques de Paris",
+    "causes_defaillance": "Échec du précédent plan de reprise (San Marina 2022, DS Invest/Mes Demoiselles 2024). 3,7 M€ de pertes en 14 mois. CA en baisse de -43% en 2026. Passif: dette fournisseurs ~7,3 M€, fiscal/social ~2,5 M€, associés ~2 M€.",
+    "broker_agence_mandate": "NEWMARK (Pascal Karsenty)"
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "liquidation",
+    "date_jugement_issue": "2026-05-13",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_synthese": "Aucune offre globale crédible avec garantie d'emplois. Une seule offre totale (Sayada — personne physique sans véhicule, pas d'engagement chiffré sur emplois, offre plancher sans accès data room) ; une offre partielle digitale (Baghaira — 9/86 emplois, aucun bail repris) ; quatre offres de droit au bail isolées cherry-picking sur 4 magasins sur 21 (Jimmy Fairly, Father & Sons, Maje, La Mie Câline). Tribunal a refusé en bloc faute de couverture globale avec engagement social.",
+    "nb_offres_concurrentes": 6,
+    "concurrents_resume": [
+      {"nom": "Philippe SAYADA", "positionnement_2lignes": "Offre globale plancher PP sans véhicule, audit non fait, pas d'engagement chiffré emploi."},
+      {"nom": "MONTS FOURNIL (La Mie Câline)", "positionnement_2lignes": "Droit au bail Avignon seul (150k€), reconversion boulangerie."},
+      {"nom": "JIMMY FAIRLY", "positionnement_2lignes": "Droits au bail Paris Ternes + Bordeaux (1,002 M€), reconversion optique sans contrats de travail."},
+      {"nom": "FATHER & SONS", "positionnement_2lignes": "Droit au bail Ternes (450k€) reconversion prêt-à-porter homme."},
+      {"nom": "HOLDING BAGHAIRA", "positionnement_2lignes": "Plan partiel digital 300k€, 9 emplois siège Gémenos uniquement, 21 boutiques fermées."},
+      {"nom": "MAJE (SMCP)", "positionnement_2lignes": "Deux droits au bail Ternes/Mac-Mahon (550k€), reconversion prêt-à-porter Maje."}
+    ],
+    "enseignement_clef": "Pattern de refus tribunal : offres partielles cherry-picking sur retail multi-sites sans engagement emploi global = liquidation systématique. Reproduit le pattern Minelli déjà identifié dans gagnants-tribunal.md."
+  },
+  "sources_externes": [
+    "https://fr.fashionnetwork.com/news/Minelli-une-demi-douzaine-d-offres-de-reprise-essentiellement-partielles,1831604.html",
+    "https://www.lsa-conso.fr/liquidation-l-enseigne-minelli-brade-ses-chaussures-avant-de-fermer-definitivement-le-30-mai-2026,465752",
+    "https://www.ecommercemag.fr/retail-1220/minelli-ferme-definitivement-ses-boutiques-le-30-mai-2026-apres-son-redressement-judiciaire-57638"
+  ]
+}

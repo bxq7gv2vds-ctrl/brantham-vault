@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "offre_id": "SSH-01",
+    "dossier_id": "SSH",
+    "dossier_folder": "17 - SARL à associé unique S S H",
+    "fichier_source_pdf": "39_SARL___associ__unique_S_S_H_offre1.pdf (offre détaillée 45k€ sans substitution)",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SARL à associé unique SSH (Cordonnerie du bonheur)",
+    "cible_siren": "514217330",
+    "naf_secteur": "Cordonnerie / Métiers du cuir",
+    "sous_secteur": "Cordonnerie artisanale Paris 5",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 1,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-10-16",
+    "dldo": "2026-03-13",
+    "date_audience_cession": null,
+    "aj_nom": "Maître Jean-Baptiste ALBERTINI",
+    "aj_etude": "SELARL DETROIT",
+    "mj_nom": "Maître Jérôme PIERREL",
+    "mj_etude": "SELAS ETUDE JP",
+    "juge_commissaire": null,
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 0,
+    "concurrents_resume": [
+      {"nom": "Corentin KY (versions concurrentes du même repreneur)", "positionnement_2lignes": "Mêmes repreneur PP, versions à 40k avec faculté substitution KC Services"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "pp_seule",
+    "age_parcours_dirigeant": "Corentin KY, né le 02/07/2001 à Paris 14 (24 ans), nationalité française, demeurant 28 rue de la Tombe Issoire 75014 Paris",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 2,
+    "track_record_reprises": ["Aucune reprise antérieure — fils du cordonnier Bundith KY (marché Saint-Germain Paris 6 depuis 2009), formation Compagnons du Devoir 2 ans + Bac pro juillet 2024"],
+    "capacite_financiere_demontree": "faible_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "Personne physique (sans substitution)",
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": null,
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 45000,
+    "decomposition": {
+      "incorporels_eur": 32000,
+      "corporels_eur": 13000,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Chèque de banque libellé à l'ordre de la SELARL DETROIT remis au plus tard à l'audience statuant sur les offres",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail commercial 3 rue Frédéric Sauton 75005 Paris"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": ["Contrat de fourniture d'électricité"],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": null,
+    "nb_total_salaries": 1,
+    "pct_reprise": null,
+    "categories_reprises": null,
+    "categories_non_reprises_raisons": "Non précisé — prend acte des contraintes salariés protégés (Inspection du Travail)",
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "diagnostic_resume": "Reprise et redéploiement activité avec nouvelle dynamique. Pas de business plan chiffré.",
+    "vision_strategique_phrase": "Faire du commerce autrement, au service du bien commun — amplifier l'âme du lieu, ancrage local Paris 5",
+    "pivots_prevus": null,
+    "synergies_repreneur": "Continuité savoir-faire artisanal (Compagnons du Devoir + activité paternelle marché Saint-Germain depuis 2009)",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 45000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": ["Offre ferme et définitive — pas de CS explicite ; sous réserve de poursuite du bail commercial en cours"],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 13,
+    "nb_pages_corps_offre": 13,
+    "nb_pages_annexes": 0,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "narratif",
+    "executive_summary_present": true,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": true,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": "Maître GOUGET (Avocat à la Cour)"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "« Le profil du Repreneur fait état d'une véritable expérience dans le domaine de la cordonnerie. »",
+    "phrase_engagement_social": "« Pérenniser une activité artisanale dans le quartier »",
+    "phrase_vision_strategique": "« En reprenant SSH, le Repreneur ne cherche pas à transformer un lieu, mais à en amplifier l'âme, en s'appuyant sur son histoire, sur les forces vives du quartier, et sur une vision claire : faire du commerce autrement, au service du bien commun. »",
+    "phrase_justification_prix": "« Le financement de l'acquisition se fera sur fonds propres du repreneur. Il est prévu que l'activité s'autofinance dès la première année d'exploitation. »"
+  }
+}

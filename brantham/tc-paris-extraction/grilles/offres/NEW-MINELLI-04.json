@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "offre_id": "NEW-MINELLI-04",
+    "dossier_id": "NEW-MINELLI",
+    "dossier_folder": "NEW_26 - SA MAISON MINELLI",
+    "fichier_source_pdf": "offre_04_gd80124027.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "MAISON MINELLI",
+    "cible_siren": "983323957",
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-03",
+    "dldo": "2026-05-11",
+    "aj_nom": "Me Carole Martinez + Me Céline Pelzer",
+    "mj_nom": "Me Stéphane Gorrias",
+    "effectif_total": 86,
+    "nb_sites": 21
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "liquidation",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": "Cession isolée droit au bail 1 site Paris Ternes uniquement. Reconversion enseigne Father & Sons. Aucun contrat de travail repris.",
+    "nb_offres_concurrentes": 5
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Thierry HERBE (DG) — Président GRANDFATHER SAS (RCS 802 673 848 Nanterre)",
+    "experience_sectorielle_oui_non": "non",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": null,
+      "capital_eur": 3050000,
+      "rcs": "421619594",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 450000,
+    "decomposition": {
+      "incorporels_eur": 450000,
+      "corporels_eur": null,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Offre ferme et définitive non soumise à condition de financement"
+  },
+  "reprise_passif": {
+    "baux_repris": ["33 avenue des Ternes 75017 Paris (Minelli Ternes)"],
+    "credit_bail_repris": [],
+    "engagements_L642_12_al4": false
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 86,
+    "pct_reprise": 0,
+    "categories_non_reprises_raisons": "Cession actif isolé — aucun contrat de travail repris",
+    "maintien_conditions_anciennete_salaire_lieu": "non",
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "absent",
+    "vision_strategique_phrase": "Exploitation locaux sous enseignes Father & Sons (prêt-à-porter homme)",
+    "pivots_prevus": "Reconversion: chaussures femme → prêt-à-porter homme",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "partiel",
+    "maintien_marques_savoir_faire": "non"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": false,
+    "partenaires_financiers": ["Compte courant et trésorerie de l'entreprise"]
+  },
+  "engagements_specifiques": {"non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 7,
+    "items": [
+      "Agrément du bailleur sur la cession du droit au bail",
+      "Agrément du bailleur sur l'activité Father & Sons",
+      "2 baux commerciaux aux loyers et taxes foncières précisés",
+      "Accord sur date cession et état des lieux d'entrée",
+      "Validation par bailleur des travaux d'aménagement et de l'enseigne",
+      "Curage de la coque pris en charge par Father & Sons",
+      "Frais avocats : chaque partie son Conseil"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "commercial",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_rib": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "personnalisation_visite_site": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Cherry-picking 1 site", "Zéro emploi repris"],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {"cabinet": "Richard & Sons", "avocat_nom": "Laura BLONDIN"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Société à mission — Father & Sons enseigne prêt-à-porter homme avec ~40 implantations France",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": "Demande gestion entreprise dès jugement arrêtant le plan; reprise engagements fournisseurs procédure; charge normes environnementales",
+    "phrase_justification_prix": null
+  }
+}

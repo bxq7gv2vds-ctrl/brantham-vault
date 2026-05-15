@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "offre_id": "NEW-PETRUS-05",
+    "dossier_id": "NEW-PETRUS",
+    "dossier_folder": "NEW_46 - SAS PETRUS",
+    "fichier_source_pdf": "offre_05_gd79305029.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS PETRUS",
+    "cible_siren": "308757970",
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-01-16",
+    "dldo": "2026-04-23",
+    "aj_nom": "Maître Marine PACE",
+    "mj_nom": "Maître Sabine ROCHER",
+    "effectif_total": 9
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "nb_offres_concurrentes": 5
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Jean-Paul BOU ANTOUN, Gérant, né 03/1954 au Liban. Groupe NOURA — restauration libanaise depuis 1989 (premier restaurant 350m² avenue Marceau, Place de Beyrouth Paris, Noura Pavillon 1991).",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 37,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "SARL",
+      "date_creation": "2013-05-21",
+      "capital_eur": 10000,
+      "rcs": "792814592",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 50000,
+    "decomposition": {
+      "incorporels_eur": 40000,
+      "corporels_eur": 8000,
+      "stocks_eur": 2000
+    },
+    "charges_augmentatives_eur": 718778,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Deniers personnels sans recours à l'emprunt"
+  },
+  "reprise_passif": {
+    "baux_repris": ["12 place du Maréchal Juin 75017 Paris"],
+    "engagements_L642_12_al4": true,
+    "engagement_L642_12_montant_eur": 682112,
+    "passif_privilegie_repris": "Reprise prêt BNP au 24/02/2026 : 682 112€. Reconstitution dépôt garantie 36 666€. Total : 768 778€."
+  },
+  "volet_social": {
+    "nb_salaries_repris": 5,
+    "nb_total_salaries": 9,
+    "pct_reprise": 55.6,
+    "categories_reprises": "2 chef cuisine, 1 chef partie, 2 chef rang",
+    "categories_non_reprises_raisons": "Sommelier, directeur sommellerie, plongeurs (4 non repris)",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "engagement_maintien_emplois_duree_mois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "vision_strategique_phrase": "Intégration au groupe Noura — restauration libanaise haut de gamme",
+    "synergies_repreneur": "Groupe Noura existant (restaurants libanais Paris)",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "partiel"
+  },
+  "financement": {
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "partenaires_financiers": ["Deniers personnels"]
+  },
+  "engagements_specifiques": {"non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "commercial",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "personnalisation_visite_site": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "erreurs_apparentes": ["Trame identique à offre 04 (mêmes prix, mêmes valeurs L.642-12) — agence Century 21 Horeca Paris template recyclé pour 2 clients", "Pivot cuisine libanaise vs bistrot gastronomique français — perte ADN Petrus"],
+    "faculte_substitution_precise": true,
+    "declaration_L642_3_signee": false
+  },
+  "avocat_repreneur": {"cabinet": "Agence CENTURY 21 Horeca Paris", "avocat_nom": "Jean-Paul EUSEBIO (intermédiaire)"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe NOURA — restauration libanaise depuis 1989, restaurant gastronomique Noura Pavillon",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": "Intégration nouveau site groupe Noura",
+    "phrase_justification_prix": "Total général engagement : 768 778€"
+  }
+}

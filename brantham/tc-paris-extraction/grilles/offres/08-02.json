@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "offre_id": "08-02",
+    "dossier_id": "08",
+    "dossier_folder": "08 - SAS HAWKSWELL",
+    "fichier_source_pdf": "02_SAS_HAWKSWELL_offre2.pdf (= offre_02_gd73251725.pdf, doublons identiques)",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS HAWKSWELL (HAWKSELL STUDIOS)",
+    "cible_siren": "899973994",
+    "naf_secteur": "Jeu vidéo",
+    "sous_secteur": "Studio de développement jeu vidéo narratif",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 9,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Maître Jean-Baptiste ALBERTINI",
+    "aj_etude": "SELARL DETROIT",
+    "mj_nom": null,
+    "mj_etude": null,
+    "juge_commissaire": null,
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 2,
+    "concurrents_resume": [
+      {"nom": "ARTEFACTS STUDIO", "positionnement_2lignes": "Studio Villeurbanne, 1500€, 1-4 emplois"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_concurrent",
+    "age_parcours_dirigeant": "Florian Le Gouriellec (CEO 25%), Colomban Ciceron (Game Director 25%), Valentin Vigneron (Art Director 25%), Baptiste Dupy (Tech Director 25%) — 4 anciens d'Amplitude Studio / Ubisoft",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 8,
+    "track_record_reprises": [
+      "Fallback (2019)",
+      "UFO Grendizer/Goldorak (2023, édité par Microids)",
+      "Suite DUST (2024+, lauréat France 2030 'La Grande Fabrique de l'Image')"
+    ],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": "2017",
+      "capital_eur": 25000,
+      "rcs": "814787717",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "newco"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 2000,
+    "decomposition": {
+      "incorporels_eur": 1000,
+      "corporels_eur": 1000,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": null,
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Contrat de financement CDC / France 2030 'La Grande Fabrique de l'Image' projet 'Des Histoires sans fin'"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 9,
+    "pct_reprise": 0,
+    "categories_reprises": "Aucune reprise",
+    "categories_non_reprises_raisons": "Aucun emploi repris — équipe assurée par les 4 associés opérationnels Endroad + recrutements post-jugement éventuels",
+    "maintien_conditions_anciennete_salaire_lieu": "non",
+    "plan_licenciement": {"nb": 9, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Reprise PI + technologies via NewCo dédiée + 3 postes corporels. Plan affaires 5 ans détaillé.",
+    "vision_strategique_phrase": "Conduire le projet France 2030 'Des Histoires sans fin' via NewCo dédiée (100k€ capital), pas de cession d'actifs prévue sur 2 ans",
+    "pivots_prevus": "Création NewCo dédiée 100% Endroad",
+    "synergies_repreneur": "Maison-mère Endroad (4 associés ex-Amplitude/Ubisoft), savoir-faire jeux narratifs (Fallback, UFO Grendizer)",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 400000,
+    "ca_an2_eur": null,
+    "ca_an3_eur": 450000,
+    "ebitda_an3_eur": 250000,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "non",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 100000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 100000,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Investisseur privé 100k€", "Endroad 100k€ en industrie sur 2 ans", "Emprunt bancaire 100k€", "Contrat France 2030 CDC"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 2,
+    "items": [
+      "Pas de dérangement substantiel de l'activité jusqu'au jugement",
+      "Toute substitution par NewCo devra être autorisée par le Tribunal — cessionnaire reste garant"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "technique",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["CA Endroad 2025 = 26 110€ seulement (vs 1,25M€ en 2023) — déclin marqué"],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Studio fondé 2017 à Nantes par 4 anciens d'Amplitude Studio / Ubisoft. Lauréat France 2030 'La Grande Fabrique de l'Image' sur projet DUST",
+    "phrase_engagement_social": "0 salariés repris sur 9. Aucune cession d'actifs prévue sur 2 ans",
+    "phrase_vision_strategique": "Création NewCo dédiée (100% Endroad, capital 100k€) pour porter le projet France 2030. An1 CA 400k (France 2030) RN -234k / An3 CA 450k RN 250k (60 000 unités × 15€ Steam, comparable Fallback) / An5 CA 550k RN 350k",
+    "phrase_justification_prix": "Mix : apport capital 100k + financement privé 100k + emprunt bancaire 100k + 100k en industrie sur 2 ans = total 400k€"
+  }
+}

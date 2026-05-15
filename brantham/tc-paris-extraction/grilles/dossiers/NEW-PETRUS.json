@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "dossier_id": "NEW-PETRUS",
+    "dossier_folder": "NEW_46 - SAS PETRUS",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS PETRUS",
+    "cible_siren": "308757970",
+    "forme_juridique": "SAS",
+    "capital_social_eur": 91469.41,
+    "rcs": "308757970",
+    "adresse_siege": "12 place du Maréchal Juin, 75017 Paris",
+    "naf_secteur": "Restauration haut de gamme",
+    "sous_secteur": "Bistrot parisien de luxe (fruits de mer, vins, gastronomie)",
+    "ca_dernier_exercice_eur": 1023000,
+    "effectif_total": 9,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-01-16",
+    "dldo": "2026-04-23",
+    "date_audience_cession": null,
+    "aj_nom": "Maître Marine PACE",
+    "aj_etude": "SELARL 2M & ASSOCIES",
+    "mj_nom": "Maître Sabine ROCHER",
+    "mj_etude": "SELARL ASTEREN",
+    "juge_commissaire": "Monsieur Philippe BONTEMPS",
+    "tribunal": "Tribunal des Activités Économiques de Paris",
+    "causes_defaillance": "Travaux fermeture déc 2023 (1,5M€ coût, retard 4 mois), litige marque Petrus avec société Vin Pétrus (jugement TJ Paris 30/01/2026 — interdiction usage signe Petrus pour vin), désaccord actionnaires. CA en baisse 2022(1678k) → 2023(1191k) → 2024(1023k). Résultat exploitation -536k€ en 2024. RN -786k€ en 2024."
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "date_jugement_issue": null,
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_synthese": null,
+    "nb_offres_concurrentes": 6,
+    "concurrents_resume": [
+      {"nom": "7 RODIER / Loulou Groupe (Gilles Malafosse)", "positionnement_2lignes": "Ex-exploitant Petrus 2006-2018 ET actionnaire du Bailleur SCI Petrus Immobilier. Offre plancher 10k€, 1 emploi."},
+      {"nom": "MARKI & CO (Ceqian XU)", "positionnement_2lignes": "Groupe 8 restaurants Paris (asiatique). 50k€ via filiale à constituer, pas de précision emplois."},
+      {"nom": "CHLOE DEVELOPPEMENT / MAXXILOT (Polito)", "positionnement_2lignes": "Holding Polito MAXXILOT + diversification resto bistronomique. 3€ symbolique, 1 emploi (plongeur)."},
+      {"nom": "FINANCIERE DAUNOU 9 (Guillaume DE BOIS)", "positionnement_2lignes": "Bar-Restaurant-Club ex-Calavados Paris 8. 50k€, 5 emplois sur 9, reprise BNP L.642-12."},
+      {"nom": "NOURA BEAUGRENELLE (Jean-Paul BOU ANTOUN)", "positionnement_2lignes": "Groupe Noura libanais depuis 1989. 50k€ (template identique à Daunou 9 — même agence), 5 emplois."},
+      {"nom": "SBM PARIS / Berkeley (Paul BOUILLIN-TARDY)", "positionnement_2lignes": "Brasserie Le Berkeley Champs-Élysées. 60k€, 9 emplois (intégrale), nom Petrus exclu de la reprise."}
+    ],
+    "enseignement_clef": "Dossier restauration mono-site avec litige de marque (Petrus interdit pour vin) — décote forte. Pattern intéressant : ex-exploitant Malafosse cumulant casquette repreneur + bailleur via SCI = conflit d'intérêts potentiel. Offre SBM/Berkeley exclut explicitement le nom Petrus — reconnaissance de la perte de valeur de marque."
+  },
+  "specificites": {
+    "litige_marque": "Jugement TJ Paris 30/01/2026 : interdiction d'usage du signe Petrus pour le vin (litige avec société Vin Pétrus).",
+    "pret_BNP_L642_12_al4": "Prêt BNP Paribas 08/01/2024, montant initial 900K€, capital restant dû 08/05/2026 : 691998,08€ (alt: 731155,82€) — garanti par nantissement fonds de commerce.",
+    "bail_commercial": "SCI PETRUS IMMOBILIER (Gilles Malafosse), tacite prolongation depuis avril 2025. Arriérés 46988,87€ déclarés au passif. Loyer ambigu : 110000€ HT/HC (offre 06) vs 46374,92€ T1 2025 (offre 02). Licence IV n°15798."
+  }
+}

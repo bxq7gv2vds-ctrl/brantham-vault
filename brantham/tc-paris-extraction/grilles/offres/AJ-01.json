@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "offre_id": "AJ-01",
+    "dossier_id": "AJ",
+    "dossier_folder": "23 - SAS A J CONSEIL",
+    "fichier_source_pdf": "offre_01_gd74657761.pdf (HUMAN LOG améliorée 09/02/2026)",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS AJ CONSEIL / AJILINK",
+    "cible_siren": null,
+    "naf_secteur": "Recrutement / Intérim / Conseil RH",
+    "sous_secteur": "Mise à disposition personnel tourisme/hôtellerie/tertiaire",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 4,
+    "nb_sites": null,
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": "2025-12-05",
+    "date_audience_cession": null,
+    "aj_nom": null,
+    "aj_etude": null,
+    "mj_nom": null,
+    "mj_etude": null,
+    "juge_commissaire": null,
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 4,
+    "concurrents_resume": [
+      {"nom": "MS GROUP", "positionnement_2lignes": "5 000€ / 1 emploi avec CS Office Manager présentiel"},
+      {"nom": "EL HOURFI consortium PP", "positionnement_2lignes": "1 000€ / 1 emploi avec 8 CS"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_concurrent",
+    "age_parcours_dirigeant": "ZAHOT Saloua (Présidente) + ACERBIS Loris Alberto Massimo",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 2,
+    "track_record_reprises": ["HUMAN LOG — mise à disposition RH, chargés de recrutement (créée 18/06/2024)"],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": "2024-06-18",
+      "capital_eur": 10000,
+      "rcs": "928068907",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 20000,
+    "decomposition": {
+      "incorporels_eur": 15000,
+      "corporels_eur": 5000,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Virement bancaire sur comptes AJ CONSEIL CDC au plus tard à l'audience",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail commercial AJ CONSEIL (data room AJ)"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Intégralité des contrats en cours (data room AJ)"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Aucun passif antérieur",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 2,
+    "nb_total_salaries": 4,
+    "pct_reprise": 50,
+    "categories_reprises": "1 chargé de recrutement + 1 consultant (Reims)",
+    "categories_non_reprises_raisons": "Non précisé",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 2, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": 24,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Prévisionnel Cabinet COGEP en annexe — aucune cession d'actifs prévue dans les 2 ans",
+    "vision_strategique_phrase": "Stabilisation et redynamisation activité historique AJ CONSEIL",
+    "pivots_prevus": null,
+    "synergies_repreneur": "Synergies opérationnelles avec HUMAN LOG (mise à disposition RH)",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "NR",
+    "maintien_site": "NR",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 20000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": ["Offre ferme et définitive — aucune condition suspensive"],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": "Maître Younse ELAISATI — Avocat Restructuring, Barreau de Lille"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "HUMAN LOG (créée 18/06/2024, RCS Orléans) — activité mise à disposition de ressources humaines, chargés de recrutement",
+    "phrase_engagement_social": "2 salariés repris (1 chargé de recrutement + 1 consultant Reims) avec droits acquis (congés payés + prime 13e mois) à compter de l'ouverture du RJ",
+    "phrase_vision_strategique": "Stabilisation et redynamisation activité historique — aucune cession d'actifs prévue dans les 2 ans",
+    "phrase_justification_prix": "Offre améliorée 09/02/2026 (vs offre initiale 25/11/2025 à 10 001€) — prix doublé"
+  }
+}

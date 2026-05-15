@@ -1,0 +1,660 @@
+[
+  {
+    "batch_id": 1,
+    "size_class": "SMALL",
+    "dossiers": [
+      {
+        "folder": "01 - SARL FRAN AND JO",
+        "n_pdfs": 1,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "04 - SAS DUE TORRI",
+        "n_pdfs": 1,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "20 - SAS à associé unique SYM TECH",
+        "n_pdfs": 1,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "21 - SAS à associé unique SYM OPTIC FRANCE",
+        "n_pdfs": 1,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "22 - SAS SYM LAB GROUP",
+        "n_pdfs": 1,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "31 - SAS CSA CONSULTING",
+        "n_pdfs": 1,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "32 - SARL AJA",
+        "n_pdfs": 1,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "32 - SAS associé unique SOPI",
+        "n_pdfs": 1,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 2,
+    "size_class": "SMALL",
+    "dossiers": [
+      {
+        "folder": "38 - SAS CHOUETTE",
+        "n_pdfs": 1,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "41 - SAS associé unique LA PETITE PARISIENNE",
+        "n_pdfs": 1,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "42 - SARL associé unique DIXIE FROG",
+        "n_pdfs": 1,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "52 - SAS PPA",
+        "n_pdfs": 1,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "53 - SARL DAVY",
+        "n_pdfs": 1,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "54 - SAS MAISON SOLAIRE VOLTALIA",
+        "n_pdfs": 1,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "55 - SAS MYWINDPARTS",
+        "n_pdfs": 1,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "64 - SAS BLACK TIGER FRANCE",
+        "n_pdfs": 1,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 3,
+    "size_class": "SMALL",
+    "dossiers": [
+      {
+        "folder": "NEW_32 - SARL SCOOT PARIS 16",
+        "n_pdfs": 1,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises Nouveaux 2026-05-15"
+      },
+      {
+        "folder": "NEW_47 - SAS MGL",
+        "n_pdfs": 1,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises Nouveaux 2026-05-15"
+      },
+      {
+        "folder": "NEW_57 - SAS ARANA FACILITIES",
+        "n_pdfs": 1,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises Nouveaux 2026-05-15"
+      },
+      {
+        "folder": "NEW_62 - SAS AXIOVAL",
+        "n_pdfs": 1,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises Nouveaux 2026-05-15"
+      },
+      {
+        "folder": "11 - ASSOCIATION MEDICO DENTAIRE CLAYE SOUILLY",
+        "n_pdfs": 2,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "12 - SAS ALDADDY",
+        "n_pdfs": 2,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "18 - SARL 3S OPTIC",
+        "n_pdfs": 2,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "19 - SAS BAC COMMUNICATION",
+        "n_pdfs": 2,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 4,
+    "size_class": "SMALL",
+    "dossiers": [
+      {
+        "folder": "25 - SAS ILO",
+        "n_pdfs": 2,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "56 - SAS YOGOSHA",
+        "n_pdfs": 2,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "NEW_52 - SARL DES PLANCHES",
+        "n_pdfs": 2,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises Nouveaux 2026-05-15"
+      },
+      {
+        "folder": "NEW_59 - SARL ARLO",
+        "n_pdfs": 2,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises Nouveaux 2026-05-15"
+      },
+      {
+        "folder": "NEW_61 - SAS DIGITAL COLLEGE",
+        "n_pdfs": 2,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises Nouveaux 2026-05-15"
+      },
+      {
+        "folder": "02 - SAS à associé unique CLUB PALAIS ROYAL",
+        "n_pdfs": 3,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "07 - SAS CHEPOOKA",
+        "n_pdfs": 3,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "13 - SARL PROGRESS SUP",
+        "n_pdfs": 3,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 5,
+    "size_class": "SMALL",
+    "dossiers": [
+      {
+        "folder": "14 - SARL HEAD BODY BEST SECURITE",
+        "n_pdfs": 3,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "16 - SAS à associé unique UMAKAYU",
+        "n_pdfs": 3,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "36 - SAS D&N ASSOCIES",
+        "n_pdfs": 3,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "58 - SCA DE LAUNAY",
+        "n_pdfs": 3,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "65 - SAS LA LOCO",
+        "n_pdfs": 3,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "66 - SCA DU DOMAINE DE VAULEARD",
+        "n_pdfs": 3,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "NEW_40 - SAS FAIRSPACE",
+        "n_pdfs": 3,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises Nouveaux 2026-05-15"
+      }
+    ]
+  },
+  {
+    "batch_id": 6,
+    "size_class": "MEDIUM",
+    "dossiers": [
+      {
+        "folder": "06 - SAS à associé unique SOREMI FORGE ROYALE",
+        "n_pdfs": 4,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "08 - SAS HAWKSWELL",
+        "n_pdfs": 4,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "17 - SARL à associé unique S S H",
+        "n_pdfs": 4,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "23 - SAS A J CONSEIL",
+        "n_pdfs": 4,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "28 - SNC PRIMEL TREGASTEL LOCATIONS",
+        "n_pdfs": 4,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 7,
+    "size_class": "MEDIUM",
+    "dossiers": [
+      {
+        "folder": "29 - SAS à associé unique L'ESCAPADE",
+        "n_pdfs": 4,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "51 - SARL BOULANGERIE BO",
+        "n_pdfs": 4,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "61 - SCA SOCIETE D EXPLOITATION DU DOMAINE DE BEAUVALLO",
+        "n_pdfs": 4,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "01 - SAS à associé unique CLUB GRANDS BOULEVARDS",
+        "n_pdfs": 5,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "22 - SCI MARIE MADELEINE",
+        "n_pdfs": 5,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 8,
+    "size_class": "MEDIUM",
+    "dossiers": [
+      {
+        "folder": "30 - SAS à associé unique LORMED",
+        "n_pdfs": 5,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "33 - SAS JEFFREY CAGNES PARIS",
+        "n_pdfs": 5,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "34 - SAS LPC",
+        "n_pdfs": 5,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "37 - SAS VOLTAIRE",
+        "n_pdfs": 5,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "38 - SAS à associé unique URIOS",
+        "n_pdfs": 5,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 9,
+    "size_class": "MEDIUM",
+    "dossiers": [
+      {
+        "folder": "48 - SCI MILORD",
+        "n_pdfs": 5,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "49 - SCI SAINT SULPICE",
+        "n_pdfs": 5,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "14 - ASSOCIATION MEDICO DENTAIRE COLMAR 68",
+        "n_pdfs": 6,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "26 - SCI C.H.A",
+        "n_pdfs": 6,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "27 - SCI OKABE",
+        "n_pdfs": 6,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 10,
+    "size_class": "MEDIUM",
+    "dossiers": [
+      {
+        "folder": "29 - SCI RHEA",
+        "n_pdfs": 6,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "31 - SAS ALPHA CAMPING OCCITANIE",
+        "n_pdfs": 6,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "33 - SA SOCIETE NOUVELLE DU NOUVEL ECONOMISTE (dite S2NE)",
+        "n_pdfs": 6,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "35 - SARL DME",
+        "n_pdfs": 6,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "35 - Société d intérêt collectif agricole par actions s",
+        "n_pdfs": 6,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 11,
+    "size_class": "MEDIUM",
+    "dossiers": [
+      {
+        "folder": "36 - SAS associé unique LVL POMANJOU",
+        "n_pdfs": 6,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "37 - Société Coopérative agricole capital variable AR",
+        "n_pdfs": 6,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "57 - SCA SOCIETE CIVILE AGRICOLE DE LA PLESSE",
+        "n_pdfs": 6,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "59 - SCA LA REINETTE D ANJOU",
+        "n_pdfs": 6,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "60 - SCA SEA DE DENIOLAY PEROUSSAY",
+        "n_pdfs": 6,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 12,
+    "size_class": "MEDIUM",
+    "dossiers": [
+      {
+        "folder": "NEW_26 - SA MAISON MINELLI",
+        "n_pdfs": 6,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises Nouveaux 2026-05-15"
+      },
+      {
+        "folder": "NEW_46 - SAS PETRUS",
+        "n_pdfs": 6,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises Nouveaux 2026-05-15"
+      },
+      {
+        "folder": "09 - SAS à associé unique EZIN & STRAUUS CP - Sigle E&S CP",
+        "n_pdfs": 7,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "13 - SCI GM IMMO",
+        "n_pdfs": 7,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "34 - SAS COSA",
+        "n_pdfs": 7,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 13,
+    "size_class": "MEDIUM",
+    "dossiers": [
+      {
+        "folder": "62 - SCA SOCIETE D EXPLOITATION DE LA CHAUSSEE",
+        "n_pdfs": 7,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 14,
+    "size_class": "LARGE",
+    "dossiers": [
+      {
+        "folder": "05 - SARL à associé unique MY LITTLE FINGER",
+        "n_pdfs": 8,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "07 - SCI 43-45 RUE PIERRE VALETTE",
+        "n_pdfs": 8,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "10 - SCI ISIS",
+        "n_pdfs": 8,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 15,
+    "size_class": "LARGE",
+    "dossiers": [
+      {
+        "folder": "15 - ASSOCIATION MEDICO DENTAIRE D'ENGHIEN LES BAINS",
+        "n_pdfs": 8,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "19 - SCI LE LOFT",
+        "n_pdfs": 8,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "24 - SAS LA BELLE FORÊT",
+        "n_pdfs": 8,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 16,
+    "size_class": "LARGE",
+    "dossiers": [
+      {
+        "folder": "06 - SCI LES ATELIERS VILLEJUIF GENTILLY",
+        "n_pdfs": 9,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "10 - SARL LE CHINON",
+        "n_pdfs": 9,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "18 - SCI JEAN RENAUDIE",
+        "n_pdfs": 9,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 17,
+    "size_class": "LARGE",
+    "dossiers": [
+      {
+        "folder": "21 - SCI AEDES",
+        "n_pdfs": 9,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "27 - SCI LA GRANDE LISSE",
+        "n_pdfs": 9,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "28 - SAS à associé unique ALPHA CAMPING",
+        "n_pdfs": 9,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 18,
+    "size_class": "LARGE",
+    "dossiers": [
+      {
+        "folder": "04 - SCI DANTON - LILAS",
+        "n_pdfs": 10,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "05 - SNC ADONIA",
+        "n_pdfs": 10,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "20 - SCI 60 RUE MARCEL BONNET",
+        "n_pdfs": 10,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 19,
+    "size_class": "LARGE",
+    "dossiers": [
+      {
+        "folder": "12 - SCI MAUDAPHNE",
+        "n_pdfs": 11,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "23 - SCI ATELIER URBAIN",
+        "n_pdfs": 11,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "03 - SCI INSULA",
+        "n_pdfs": 12,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 20,
+    "size_class": "LARGE",
+    "dossiers": [
+      {
+        "folder": "08 - SCI ARCUEIL MONTREUIL",
+        "n_pdfs": 12,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "16 - SNC COROT",
+        "n_pdfs": 12,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "47 - SC FS ET CIE",
+        "n_pdfs": 12,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 21,
+    "size_class": "LARGE",
+    "dossiers": [
+      {
+        "folder": "11 - SCI L ATELIER DE MONTREUIL",
+        "n_pdfs": 13,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "17 - SCCV 121 HENRI GINOUX",
+        "n_pdfs": 13,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "63 - Association FEDERATION UNIE DES AUBERGES DE JEUNES",
+        "n_pdfs": 14,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 22,
+    "size_class": "LARGE",
+    "dossiers": [
+      {
+        "folder": "50 - SAS associé unique EURODIF",
+        "n_pdfs": 15,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "09 - SNC AMIRAL MAIGRET",
+        "n_pdfs": 16,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "30 - SCI ADELE ET FIRMIN",
+        "n_pdfs": 18,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  },
+  {
+    "batch_id": 23,
+    "size_class": "LARGE",
+    "dossiers": [
+      {
+        "folder": "03 - société de droit suisse D'EXPLOITATION ET DE GESTION IMMOBILIERES (SEGI)",
+        "n_pdfs": 19,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      },
+      {
+        "folder": "45 - SAS associé unique COLLEGE DE PARIS",
+        "n_pdfs": 26,
+        "root": "/Users/paul/Downloads/Dossiers Entreprises"
+      }
+    ]
+  }
+]

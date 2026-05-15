@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "dossier_id": "17",
+    "dossier_folder": "17 - SARL à associé unique S S H",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SARL à associé unique SSH (Cordonnerie du bonheur)",
+    "cible_siren": "514217330",
+    "naf_secteur": "Artisanat / Cordonnerie",
+    "sous_secteur": "Cordonnerie / Métiers du cuir",
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-10-16",
+    "dldo": "2026-03-13",
+    "date_audience_cession": null,
+    "aj_nom": "Maître Jean-Baptiste ALBERTINI",
+    "aj_etude": "SELARL DETROIT",
+    "mj_nom": "Maître Jérôme PIERREL",
+    "mj_etude": "SELAS ETUDE JP",
+    "juge_commissaire": null,
+    "causes_defaillance": null,
+    "nb_offres_recues": 3,
+    "effectif_total": 1,
+    "actif_principal": "Fonds de commerce 3 rue Frédéric Sauton Paris 5ème — bail commercial + agencements + outillages"
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 3,
+    "concurrents_resume": [
+      {"nom": "Corentin KY (offre 1, PP directe)", "positionnement_2lignes": "Fils du cordonnier voisin marché Saint-Germain, formation Compagnons du Devoir. 45 000€ sans substitution"},
+      {"nom": "Corentin KY (offre 2, faculté substitution KC Services)", "positionnement_2lignes": "Même repreneur PP avec substitution future SAS 'KC Services'. 40 000€"},
+      {"nom": "Corentin KY (offre 3, version initiale)", "positionnement_2lignes": "Version courte 1-page initiale. 40 000€"}
+    ]
+  },
+  "notes_dossier": "Cas particulier : les 3 'offres' correspondent au même repreneur unique (Corentin KY) à des stades différents (lettre d'intention 29/01 + offre détaillée PP 45k + offre détaillée avec substitution KC Services 40k). Avocat dossier : Maître GOUGET. Bénéficie d'un soutien familial fort (père cordonnier depuis 2009 marché Saint-Germain). Pas de concurrence externe — repreneur quasi-unique."
+}

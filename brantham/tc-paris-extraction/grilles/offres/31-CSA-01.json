@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "offre_id": "31-CSA-01",
+    "dossier_id": "31-CSA",
+    "dossier_folder": "31 - SAS CSA CONSULTING",
+    "fichier_source_pdf": "31_SAS_CSA_CONSULTING_offre1.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS CSA CONSULTING",
+    "cible_siren": null,
+    "naf_secteur": "Conseil / cabinet de conseil",
+    "sous_secteur": "Conseil specialise banque de detail et assurance",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 9,
+    "nb_sites": 0,
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Lou Flechard",
+    "aj_etude": "SCP CBF Associes",
+    "mj_nom": null,
+    "mj_etude": null,
+    "juge_commissaire": null,
+    "causes_defaillance": "Capitaux propres negatifs -1 048 K EUR au 31/12/2025. Mali de fusion incorporels 210 K sans valeur economique."
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 0,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_concurrent",
+    "age_parcours_dirigeant": "OAKLEN CONSULTING (ex Patrick Wajsbrot Consultants PWC), president Foalks Group represente par Remi Gitzinger. Groupe Foalks : conseil paiements et tresorerie, 86 consultants (Oaklen 64 + Utsil 19 + Singapour 3), CA 2025 15M EUR, EBITDA 1,1M EUR, dette financiere nette 4M EUR. Capital 65% associes operationnels, 35% Entrepreneur Invest.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": null,
+      "capital_eur": 27230,
+      "rcs": "439455890",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 10000,
+    "decomposition": {
+      "incorporels_eur": 7000,
+      "corporels_eur": 1000,
+      "stocks_eur": null,
+      "creances_clients_eur": 2000,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 76345.68,
+    "modalites_paiement": "sequestre",
+    "garanties_paiement": "Depot garantie 10% = 1000 EUR a Caisse des Depots, solde 9000 EUR vire 2 jours ouvres avant audience",
+    "cheque_consignation_eur": 1000
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["7 contrats clients en cours : SG, BNP, Groupama Gan Vie, HSBC, Oney Bank"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Reprise conges payes / RTT / repos compensateurs 76 345,68 EUR (charge augmentative)",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 7,
+    "nb_total_salaries": 9,
+    "pct_reprise": 77.78,
+    "categories_reprises": "7 salaries (6 consultants experimentes - 1 demissionne sortie avril 2026, 1 consultant, 1 Directeur de mission/Resp dev). Salaires fixes bruts annuels 324 024 EUR + variable 23 280 EUR. Convention Syntec.",
+    "categories_non_reprises_raisons": "DAF/DRH non repris (fonctions support deja existantes chez Foalks Group). Consultant experimente 5 demissionne sortie avril 2026.",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {
+      "nb": 2,
+      "calendrier": null,
+      "indemnites": null,
+      "accompagnement": "Priorite reembauche 12 mois"
+    },
+    "engagement_maintien_emplois_duree_mois": 24,
+    "sanction_non_respect_emplois": "Engagement non-licenciement economique 24 mois",
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Diagnostic operationnel structure : reprise contrats clients (SG, BNP, Groupama, HSBC, Oney), retention 7 consultants cles, mutualisation fonctions support (DAF/DRH Foalks). Lieu execution : 38 rue Le Peletier 75008 Paris (Foalks). Societe CSA en teletravail.",
+    "vision_strategique_phrase": "Cabinet de conseil specialise banque de detail et assurance depuis 30 ans, plus de 500 projets menes.",
+    "pivots_prevus": "Usage nom CSA Consulting 12 mois a titre gratuit puis bascule sous marque Oaklen (site internet redirige vers Oaklen apres 6 mois). Pas de locaux (teletravail integral).",
+    "synergies_repreneur": "Mutualisation fonctions support (DAF/DRH) avec Foalks Group ; integration referencement panels banques/assurances ; bascule marque Oaklen 6-12 mois",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": 50000,
+    "capex_calendrier": "Couts integration 50K EUR ponctuel",
+    "capex_nature": "Couts integration Oaklen / Foalks Group",
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "NR",
+    "maintien_site": "non",
+    "maintien_marques_savoir_faire": "partiel"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 180000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": 120000,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Foalks Group (autofinancement)", "Entrepreneur Invest (35% capital Foalks)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "Aucune cession d'actifs prevue sur 24 mois",
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 6,
+    "items": [
+      "Absence de modification substantielle de la Societe jusqu'a audience",
+      "Finalisation audit juridique/financier/industriel satisfaisant",
+      "Obtention integralite contrats clients/fournisseurs/sous-traitants/portage",
+      "Obtention droits acquis pour 7 salaries repris",
+      "Possibilite d'echanges directs avec clients >70% CA et sous-traitants",
+      "Accord de principe principaux clients >70% CA sur poursuite contrats"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 94,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": true,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "OAKLEN CONSULTING - groupe Foalks Group, conseil paiements et tresorerie, 86 consultants (Oaklen 64 + Utsil 19 + Singapour 3), 15M EUR CA, 1,1M EUR EBITDA",
+    "phrase_engagement_social": "Engagement non-licenciement economique 24 mois, priorite de reembauche 12 mois",
+    "phrase_vision_strategique": "Usage nom CSA Consulting 12 mois a titre gratuit, aucune cession d'actifs prevue sur 24 mois",
+    "phrase_justification_prix": "Prix 10 000 EUR + reprise conges/RTT/repos compensateurs 76 345,68 EUR (charge augmentative). Total enveloppe Foalks 180K EUR = prix 10K + BFR 120K + couts integration 50K, sans recours emprunt."
+  }
+}

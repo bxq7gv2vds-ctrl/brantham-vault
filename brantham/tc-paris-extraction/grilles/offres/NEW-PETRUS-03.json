@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "offre_id": "NEW-PETRUS-03",
+    "dossier_id": "NEW-PETRUS",
+    "dossier_folder": "NEW_46 - SAS PETRUS",
+    "fichier_source_pdf": "offre_03_gd79304716.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS PETRUS",
+    "cible_siren": "308757970",
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-01-16",
+    "dldo": "2026-04-23",
+    "aj_nom": "Maître Marine PACE",
+    "mj_nom": "Maître Sabine ROCHER",
+    "effectif_total": 9
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "nb_offres_concurrentes": 5
+  },
+  "profil_repreneur": {
+    "forme": "holding_ad_hoc",
+    "age_parcours_dirigeant": "Laurent POLITO, Président. Holding familiale POLITO — enseigne MAXXILOT (déstockage marque, 35 PDV France, 26 magasins en propre). Diversifié restauration depuis 2023 (resto bistronomique rue Legendre 75017, Crêperie du Port Pontoise).",
+    "experience_sectorielle_oui_non": "partielle",
+    "experience_sectorielle_annees": 3,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "SARL puis SAS ad hoc",
+      "capital_eur": 1000,
+      "rcs": "892439670",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 3,
+    "decomposition": {
+      "incorporels_eur": 1,
+      "corporels_eur": 1,
+      "stocks_eur": 1
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds propres (intégralité BFR)"
+  },
+  "reprise_passif": {
+    "baux_repris": ["12 place du Maréchal Juin 75017 Paris"],
+    "engagements_L642_12_al4": false,
+    "passif_privilegie_repris": "Pas de reprise du prêt BNP — actifs grevés exclus"
+  },
+  "volet_social": {
+    "nb_salaries_repris": 1,
+    "nb_total_salaries": 9,
+    "pct_reprise": 11.1,
+    "categories_reprises": "1 contrat salarié (plongeur)",
+    "categories_non_reprises_raisons": "Restructuration équipe",
+    "maintien_conditions_anciennete_salaire_lieu": "partiel",
+    "engagement_maintien_emplois_duree_mois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "vision_strategique_phrase": "Conservation enseigne Petrus avec mutualisation achats avec autres restos POLITO",
+    "synergies_repreneur": "Mutualisation achats inter-restaurants POLITO",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false
+  },
+  "engagements_specifiques": {"non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 1,
+    "items": ["Stock vins équivalent à l'inventaire du Commissaire de justice"],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "commercial",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "qualite_redactionnelle": "confuse"
+  },
+  "signaux_faibles": {
+    "personnalisation_visite_site": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "erreurs_apparentes": [
+      "Prix 3€ symbolique (1+1+1) — sur restaurant haut de gamme 1M€ CA",
+      "Attestation sincérité d'offres améliorées les 24/02/2026 et 12/03/2026 alors que offre datée 23/04/2026 — réutilisation template incohérente",
+      "1 emploi sur 9 = 11%",
+      "Pas de reprise BNP = position défavorable face aux offres reprenant L.642-12"
+    ],
+    "faculte_substitution_precise": true,
+    "declaration_L642_3_signee": false
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Holding familiale POLITO — enseigne MAXXILOT (déstockage produits de marque) — 35 points de vente France",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": "Conservation enseigne Petrus, mutualisation achats avec autres restos POLITO",
+    "phrase_justification_prix": null
+  }
+}

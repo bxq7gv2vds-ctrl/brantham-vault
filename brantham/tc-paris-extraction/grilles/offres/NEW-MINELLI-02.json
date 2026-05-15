@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "offre_id": "NEW-MINELLI-02",
+    "dossier_id": "NEW-MINELLI",
+    "dossier_folder": "NEW_26 - SA MAISON MINELLI",
+    "fichier_source_pdf": "offre_02_gd80124325.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "MAISON MINELLI",
+    "cible_siren": "983323957",
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-03",
+    "dldo": "2026-05-11",
+    "aj_nom": "Me Carole Martinez + Me Céline Pelzer",
+    "mj_nom": "Me Stéphane Gorrias",
+    "effectif_total": 86,
+    "nb_sites": 21
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "liquidation",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": "Cession isolée de droit au bail unique (1 site Avignon sur 21). Lettre d'intention non engageante au sens strict. Aucune reprise de salariés. Reconversion en terminal de cuisson boulangerie La Mie Câline (perte d'activité chaussures).",
+    "nb_offres_concurrentes": 5
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "David GIRAUDEAU, Directeur Général SAS MONTS FOURNIL",
+    "experience_sectorielle_oui_non": "non",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": null,
+      "capital_eur": 1129600,
+      "rcs": "338298219",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 150000,
+    "decomposition": {
+      "incorporels_eur": 150000,
+      "corporels_eur": null,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "NR",
+    "garanties_paiement": null,
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["8 rue de la République Avignon (84) — bail 9 ans nouveau au 01/01/2027"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 86,
+    "pct_reprise": 0,
+    "categories_reprises": null,
+    "categories_non_reprises_raisons": "Cession isolée de droit au bail — aucun contrat de travail repris",
+    "maintien_conditions_anciennete_salaire_lieu": "non",
+    "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "absent",
+    "diagnostic_resume": "Pas de diagnostic Minelli — reconversion locaux en terminal de cuisson La Mie Câline",
+    "vision_strategique_phrase": "Implantation enseigne La Mie Câline à Avignon",
+    "pivots_prevus": "Changement total d'activité — chaussures → boulangerie",
+    "synergies_repreneur": null,
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "non",
+    "maintien_marques_savoir_faire": "non"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "NR",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 5,
+    "items": [
+      "Autorisation cession par TAE Paris ou Juge-Commissaire",
+      "Accord bailleur nouveau bail 9 ans au 01/01/2027 max, clause destination terminal cuisson La Mie Câline, loyer 60 591,28 € révisable ILC",
+      "Autorisation bailleur sur aménagement, façade, enseignes (2 mois après promesse)",
+      "Autorisation AG copropriétaires sur destination, VMC, enseignes (15/08/2026 max)",
+      "Autorisations administratives + Architectes Bâtiments de France (15/12/2026 max)"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "commercial",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_business_plan": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Lettre d'intention non engageante explicitement notée 'ne constate ni engagement d'acquérir ni de vendre'", "Cherry-picking 1 site sur 21"],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Enseigne nationale de boulangerie La Mie Câline",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": "Implantation terminal de cuisson La Mie Câline rue de la République à Avignon",
+    "phrase_justification_prix": null
+  }
+}

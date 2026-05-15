@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "offre_id": "NEW-PETRUS-06",
+    "dossier_id": "NEW-PETRUS",
+    "dossier_folder": "NEW_46 - SAS PETRUS",
+    "fichier_source_pdf": "offre_06_gd79269762.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS PETRUS",
+    "cible_siren": "308757970",
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-01-16",
+    "dldo": "2026-04-23",
+    "aj_nom": "Maître Marine PACE",
+    "mj_nom": "Maître Sabine ROCHER",
+    "effectif_total": 9
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "nb_offres_concurrentes": 5
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Paul BOUILLIN-TARDY, Président. Exploitant Brasserie LE BERKELEY — 7 avenue de Matignon 75008 (Champs-Élysées), CA 3,3M€, 30 collaborateurs, gérance libre.",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "forte_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "capital_eur": 60000,
+      "rcs": null,
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 60000,
+    "decomposition": {
+      "incorporels_eur": 40000,
+      "corporels_eur": 20000,
+      "stocks_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Chèque de banque 100% du prix joint le jour de l'audience"
+  },
+  "reprise_passif": {
+    "baux_repris": ["12 place du Maréchal Juin 75017 Paris (loyer annuel 110 000€ HT HC, mensuel 11 568,06€ + 500€ provision charges, dépôt garantie 4 mois)"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": ["France Telecom", "EDF GDF", "Compagnie des eaux"],
+    "engagements_L642_12_al4": true,
+    "engagement_L642_12_montant_eur": 691998.08,
+    "passif_privilegie_repris": "Transfert prêt BNP L.642-12 al.4 (initial 900K€, capital restant dû 08/05/2026 : 691 998,08€, échéance 12 589,83€/mois, fin 08/07/2051). Dépôt garantie bail à reconstituer 36 666€."
+  },
+  "volet_social": {
+    "nb_salaries_repris": 9,
+    "nb_total_salaries": 9,
+    "pct_reprise": 100,
+    "categories_reprises": "9 contrats à l'étude : 2 cuisiniers, 1 chef de partie, 2 chef de rang, 1 directrice, 2 plongeurs, 1 sommelier",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "engagement_maintien_emplois_duree_mois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "vision_strategique_phrase": "Reprise totale équipe + bail + ligne BNP, transformation décoration/agencement (150-200k€) — sans usage du nom Petrus",
+    "pivots_prevus": "Nom 'PETRUS' ne fait pas partie des actifs (litige marque purgé) — réenseigne probable",
+    "synergies_repreneur": "Brasserie Le Berkeley Champs-Élysées (3,3M€ CA) — savoir-faire restauration parisienne haut de gamme",
+    "capex_montant_eur": 175000,
+    "capex_calendrier": "Post-cession",
+    "capex_nature": "Transformation décoration/agencements",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "non"
+  },
+  "financement": {
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "partenaires_financiers": ["Fonds propres SBM PARIS"]
+  },
+  "engagements_specifiques": {"non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 1,
+    "items": ["Réserve : audit approfondi de la situation"],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "commercial",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_business_plan": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "personnalisation_visite_site": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Offre 22/01/2026 — très en amont DLDO 23/04/2026 (3 mois)", "Dossier complet (CV, financement, prévisionnels) annoncé pour 'les jours suivants' mais non joint à la LOI"],
+    "faculte_substitution_precise": true,
+    "declaration_L642_3_signee": false
+  },
+  "avocat_repreneur": {"cabinet": "Agence KRAFT Michel (intermédiaire)", "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Brasserie LE BERKELEY 7 avenue de Matignon 75008 — secteur Champs-Élysées — CA annuel moyen 3 300 000€, 30 collaborateurs en gérance libre",
+    "phrase_engagement_social": "Reprise de 9 contrats à l'étude (100% effectif)",
+    "phrase_vision_strategique": "Transformation décoration/agencements (150-200K€) — nom Petrus non repris (litige marque purgé)",
+    "phrase_justification_prix": null
+  }
+}

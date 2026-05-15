@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "dossier_id": "06",
+    "dossier_folder": "06 - SAS à associé unique SOREMI FORGE ROYALE",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS à associé unique SOREMI FORGE ROYALE",
+    "cible_siren": null,
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "Détention d'actif immobilier à réhabiliter",
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-02-11",
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Maître Xavier BROUARD / Valentin Bortoli",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": null,
+    "mj_etude": null,
+    "juge_commissaire": null,
+    "causes_defaillance": "Cession d'actif immobilier isolé (non plan de cession d'entreprise) — immeubles 14-16 rue de la Forge Royale 75011 Paris à réhabiliter",
+    "nb_offres_recues": 4,
+    "effectif_total": null,
+    "actif_principal": "Ensemble immobilier 14-16 rue de la Forge Royale 75011 Paris — pleine propriété, libre d'occupation, 1493 m² existant / 1658 m² prévus, permis de construire 14/08/2025, cadastré CV n°75",
+    "fourchette_offres_eur": "100 000 - 3 500 000"
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 4,
+    "concurrents_resume": [
+      {"nom": "GROUPE TERROT", "positionnement_2lignes": "Holding immo (depuis 1949). Offre la plus élevée à 3,5M€ via véhicule ad hoc"},
+      {"nom": "IMMOBAIL", "positionnement_2lignes": "SAS Fontainebleau (cap. 200k). Offre 1,4M€ ferme sans CS"},
+      {"nom": "UL IMMO", "positionnement_2lignes": "Promoteur SAS Paris 8 (cap. 1,84M€), groupe UL Investments (Useldinger, >300M€ AUM). 1,25M€ avec exclusivité 6 sem."},
+      {"nom": "ACCOLADE PROMOTION", "positionnement_2lignes": "Groupe Accolade Paris 8. Offre la plus basse 100k€"}
+    ]
+  },
+  "notes_dossier": "Dossier immobilier pur, fourchette de prix exceptionnellement large (×35 entre la plus basse et la plus haute). Cession d'actif isolé ; pas de volet emploi. Notaire de Terrot : Me MAURIN (BL Notaires Toulouse/Paris 16)."
+}

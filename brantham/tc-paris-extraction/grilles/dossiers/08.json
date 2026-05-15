@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "dossier_id": "08",
+    "dossier_folder": "08 - SAS HAWKSWELL",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS HAWKSWELL (HAWKSELL STUDIOS)",
+    "cible_siren": "899973994",
+    "naf_secteur": "Jeu vidéo",
+    "sous_secteur": "Studio de développement — projet narratif 'Legends of Awen: Rise of The Fianna'",
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Maître Jean-Baptiste ALBERTINI",
+    "aj_etude": "SELARL DETROIT",
+    "mj_nom": null,
+    "mj_etude": null,
+    "juge_commissaire": null,
+    "causes_defaillance": null,
+    "nb_offres_recues": 2,
+    "effectif_total": 9,
+    "actif_principal": "Projet 'Legends of Awen: Rise of The Fianna' — bénéficiaire France 2030 / 'La Grande Fabrique de l'Image' CDC pour le projet 'Des Histoires sans fin'"
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 2,
+    "concurrents_resume": [
+      {"nom": "ARTEFACTS STUDIO", "positionnement_2lignes": "Studio indé Villeurbanne 2003, CA 2024 4,4M€, 59 salariés + 30 free-lance. Clients Nacon, Ubisoft, Kalypso. 1500€ pour 1-4 emplois repris"},
+      {"nom": "ENDROAD", "positionnement_2lignes": "Studio Nantes (4 fondateurs ex-Amplitude/Ubisoft), lauréat France 2030 sur projet DUST. 2000€ via NewCo, 0 salarié repris"}
+    ]
+  },
+  "notes_dossier": "Gagnant inconnu à date 2026-05-15. Dossier France 2030 — l'enjeu réel est le transfert du contrat CDC 'La Grande Fabrique de l'Image' (subvention publique). Offres financièrement symboliques (1,5-2k€) mais asymétrie majeure sur l'emploi : ARTEFACTS conserve 1-4 emplois, ENDROAD aucun. Endroad propose NewCo dédiée 100k€ capital + 400k€ tour financement. Artefacts annonce audit prérepriseaux 3-6 mois post-cession."
+}

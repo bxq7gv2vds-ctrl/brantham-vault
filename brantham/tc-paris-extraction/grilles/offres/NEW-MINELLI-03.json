@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "offre_id": "NEW-MINELLI-03",
+    "dossier_id": "NEW-MINELLI",
+    "dossier_folder": "NEW_26 - SA MAISON MINELLI",
+    "fichier_source_pdf": "offre_03_gd80124169.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "MAISON MINELLI",
+    "cible_siren": "983323957",
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-03",
+    "dldo": "2026-05-11",
+    "aj_nom": "Me Carole Martinez + Me Céline Pelzer",
+    "mj_nom": "Me Stéphane Gorrias",
+    "effectif_total": 86,
+    "nb_sites": 21
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "liquidation",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": "Cessions d'actifs isolés sur 2 magasins seulement (Paris Ternes + Bordeaux). Reconversion en magasins d'optique — perte totale d'activité chaussures. Aucun contrat de travail repris (cession actifs isolés n'emporte pas transfert L.642-12).",
+    "nb_offres_concurrentes": 5
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Léo PAUGAM signataire ; Président Jimmy Fairly Group SAS (RCS 901 890 186 Paris) ; fondateur Antonin CHARTIER",
+    "experience_sectorielle_oui_non": "non",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": null,
+      "capital_eur": 59890,
+      "rcs": "530422427",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 1002000,
+    "decomposition": {
+      "incorporels_eur": 1002000,
+      "corporels_eur": null,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "NR",
+    "garanties_paiement": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bordeaux — Place St Projet / rue Sainte Catherine (251 000 €)", "Paris — Avenue des Ternes (751 000 €)"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 86,
+    "pct_reprise": 0,
+    "categories_non_reprises_raisons": "Aucun contrat de travail repris — cession actifs isolés. Conséquences pécuniaires résiliation à charge MAISON MINELLI.",
+    "maintien_conditions_anciennete_salaire_lieu": "non",
+    "engagement_maintien_emplois_duree_mois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "absent",
+    "diagnostic_resume": null,
+    "vision_strategique_phrase": "Ouverture magasin Paris 17ème (avenue des Ternes) pour clientèle 17ème + transfert/agrandissement magasin Bordeaux rue Sainte-Catherine",
+    "pivots_prevus": "Reconversion totale: chaussures → optique solaire",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "partiel",
+    "maintien_marques_savoir_faire": "non"
+  },
+  "financement": {
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false
+  },
+  "engagements_specifiques": {"non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Agrément préalable de la cession par les bailleurs",
+      "Accord du bailleur pour signer nouveau bail (Paris Ternes loyer max 170 000 € HT HC/an, Bordeaux loyer max 240 000 € HT HC/an)",
+      "Agrément de chacun des bailleurs sur travaux cessionnaire"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "commercial",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "personnalisation_visite_site": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Cherry-picking 2 sites sur 21", "Zéro emploi repris"],
+    "declaration_L642_3_signee": false
+  },
+  "avocat_repreneur": {"cabinet": "AARPI / Conseil JIMMY FAIRLY", "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Jimmy Fairly : marque française optique solaire fondée en 2010 à Paris (Antonin Chartier), modèle direct-to-consumer, programme Buy One Give One. 165 boutiques Europe + USA + Japon.",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": "Ouverture magasin Paris 17ème + transfert/agrandissement magasin Bordeaux",
+    "phrase_justification_prix": null
+  }
+}

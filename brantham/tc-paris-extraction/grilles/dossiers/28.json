@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "dossier_id": "28",
+    "dossier_folder": "28 - SNC PRIMEL TREGASTEL LOCATIONS",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SNC PRIMEL TREGASTEL LOCATIONS",
+    "cible_siren": null,
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "SNC de détention immobilière — portefeuille consolidé FHBX 'Foncière Melot Gouband / Affaire Balthazar' (26 entités)",
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": "2026-03-02",
+    "date_audience_cession": null,
+    "aj_nom": "Maître Hélène BOURBOULOUX (avec François RAYBAUD et Paul CHARREY)",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maître Valérie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "Monsieur Jean-François PONCET",
+    "causes_defaillance": null,
+    "nb_offres_recues": 4,
+    "effectif_total": 0,
+    "actif_principal": "SNC de détention immobilière (bien immobilier rattaché à préciser)",
+    "portefeuille_consolide": "26 SCI/SNC du groupe FHBX 'Foncière Melot Gouband' (Affaire Balthazar) — voir 03-INSULA pour table complète"
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 4,
+    "concurrents_resume": [
+      {"nom": "MUVICO (Victor COHEN) — initiale", "positionnement_2lignes": "Groupe foncier patrimonial Paris 16, offre globale multi-SCI. Portion PRIMEL TREGASTEL 450 000€"},
+      {"nom": "MUVICO (Victor COHEN) — améliorée 02/03/2026", "positionnement_2lignes": "Améliorée portion PRIMEL TREGASTEL 470 000€"},
+      {"nom": "VERDOSO SAS (par déduction portefeuille INSULA)", "positionnement_2lignes": "Offre globale 26 entités — prix individualisé non extrait"},
+      {"nom": "Offre 4 (à identifier)", "positionnement_2lignes": "PDF type UNKNOWN — non identifié dans CSV"}
+    ]
+  },
+  "notes_dossier": "Dossier dépendant du portefeuille consolidé FHBX. PDFs MUVICO >10MB non extraits intégralement — prix issus de table de référence CSV INSULA. PDF offre4 non typé. La portion PRIMEL TREGASTEL s'inscrit dans un schéma global multi-entités où le repreneur (MUVICO ou VERDOSO) propose une enveloppe globale avec prix individualisés par SCI/SNC. Pattern type 'foncière distressed' Bourbouloux/FHBX."
+}
