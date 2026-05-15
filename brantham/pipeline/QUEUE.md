@@ -84,3 +84,20 @@
 | KOUBA                               | Plus de 50 M€        | Plus de 500 sal | Ain, Auvergne-Rhône-Alpes | Maydaymag       | NOUVEAU |
 | OTHAYSSIE                           | Plus de 50 M€        | Plus de 500 sal | Ariège, Occitanie         | Maydaymag       | NOUVEAU |
 
+
+---
+
+## Batch auto-enrichment — 2026-05-15
+
+| Slug | Entreprise | CA | AJ | Statut |
+|------|-----------|-----|-----|--------|
+| meynet-commerce-de-d-tail-14160 | Commerce détail #14160 | 16,6 M€ | Meynet | dossier créé |
+| meynet-industrie-14566 | Industrie #14566 | 8,2 M€ | Meynet | dossier créé |
+| meynet-commerce-de-d-tail-13552 | Commerce détail #13552 | 6,6 M€ | Meynet | dossier créé |
+| abitol-and-rousselet-smr | SMR (clinique) | 6,6 M€ | Abitol | dossier créé |
+| meynet-anonyme | Anonyme Meynet | 6,2 M€ | Meynet | dossier créé |
+| meynet-majolane-de-construction | Majolane Construction | 4,3 M€ | Meynet | dossier créé |
+| ajrs-appel-d-offres-dans-le-cadre-d | Appel offres AJRS | 4,1 M€ | AJRS | dossier créé |
+| meynet-industrie-12545 | Industrie #12545 | 4 M€ | Meynet | dossier créé |
+| meynet-transports-gevaux-sas | Transports Gevaux | 4 M€ | Meynet | dossier créé |
+| meynet-anonyme (2) | Anonyme 5M€ | 5 M€ | Meynet | dossier créé |
