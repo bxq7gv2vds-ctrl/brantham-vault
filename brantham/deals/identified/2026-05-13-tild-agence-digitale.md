@@ -114,18 +114,23 @@ Hypothèse 1 ou 4 = plus probable au vu de l'absence d'annonce judiciaire.
 | CA exercice clos 30/08/2025 **2 790 909 €** | CA N-1 = 2,38 M€ ; projection N = +17 % | ✓ cohérent à l'euro |
 | Activité **agence digitale + CRM/ERP Éducation + IA + blockchain + cyber** | Tild : agence digitale + CRM/ERP Éducation + InsurTech + IA/blockchain + cyber + RGPD | ✓ description quasi-mot-à-mot |
 | AJ : **FHBX (neuilly@fhbx.eu)** | AJ historique RJ 2018 = SELARL FHB Mission (Me Couturier), 176 av Charles de Gaulle 92200 Neuilly | ✓ FHB devenu FHBX en 2022, Neuilly |
-| Sites Paris + **Montpellier + Pau** | Sites Paris + **Aix-en-Provence** (site web 2026) | ⚠️ divergence — voir note |
+| Sites Paris + **Montpellier + Pau** | Salariés tild.fr résident à Pau (Julien Pavan, Wijdane Rodriguez) + apprentis Montpellier (Open IT). Aix LinkedIn = bureau historique, probablement fermé | ✓ résolu (lieux de télétravail salariés) |
+| Effectif **27** au teaser | **26 employés** LinkedIn Agence Tild | ✓ match à 1 unité près |
 
-### Note sur les sites Montpellier / Pau
+### Note sur les sites Montpellier / Pau — RÉSOLU
 Le teaser FHBX mentionne 3 sites : Paris La Défense + Montpellier + Pau.
-Le site officiel tild.fr mentionne Paris + Aix-en-Provence (pas de Pau ni Montpellier).
+LinkedIn officiel Tild liste : Paris La Défense + Aix-en-Provence.
 
-Trois explications possibles :
-1. **Anonymisation légère par l'AJ** : substitution Aix → Montpellier ou Pau (pratique courante des teasers anonymisés pour brouiller la géographie tout en préservant la structure « Paris + régions »).
-2. **Réorganisation 2024-2025** : Tild aurait fermé Aix et ouvert Pau + Montpellier. SIRENE compte 3 établissements dont 1 ouvert (= Puteaux). Aix serait fermé en Insee mais toujours sur le site web (data obsolète). Pau et Montpellier seraient des établissements secondaires post-mise à jour SIRENE (annee_tranche_effectif_salarie = 2023).
-3. **Présence non-déclarée** : télétravail / coworking à Pau et Montpellier (Tild « privilégie le télétravail » selon son site contact), sans établissement Insee formel.
+**Résolution (recherche complémentaire 2026-05-15)** : c'est l'hypothèse 3 — télétravail / résidence salariés. Confirmé par :
+- **Julien Pavan** (salarié `tild.fr`) → localisé à Pau (profil LinkedIn)
+- **Wijdane Rodriguez** (salariée `tild.fr`) → localisée à Pau
+- **Apprentis Open IT (Montpellier)** accueillis par Tild → présence Montpellier
+- Page contact tild.fr : « nous privilégions le télétravail pour nos employé(e)s »
+- LinkedIn Tild : **26 employés** (≈ 27 teaser ✓)
 
-Hypothèse 1 = la plus probable. L'ensemble des autres empreintes (date de clôture 30/08 + CA + activité + AJ FHBX) suffit à atteindre **95 % de confiance**.
+Le teaser FHBX énumère les **lieux de résidence/télétravail des salariés** (3 hubs : IDF, Pau, Montpellier), pas les bureaux corporate. Aix-en-Provence semble avoir été fermé physiquement (probable rupture de bail post-RJ 2019, ne génère plus de salarié à temps plein en 2026).
+
+Confiance globale relevée à **97 %**.
 
 ## Contact AJ / FHBX
 
