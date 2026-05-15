@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: brantham-vault
+created: 2026-05-15T11:42:15+02:00
