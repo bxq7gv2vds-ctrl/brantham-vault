@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "dossier_id": "12",
+    "dossier_folder": "12 - SAS ALDADDY",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS ALDADDY (marque NUS)",
+    "cible_siren": null,
+    "forme_juridique": "SAS",
+    "capital_social_eur": null,
+    "rcs": null,
+    "adresse_siege": null,
+    "naf_secteur": "Textile / Mode premium (lin)",
+    "sous_secteur": "Marque NUS — BtoB hôtellerie/restauration/viticulture/corporate",
+    "ca_dernier_exercice_eur": null,
+    "effectif_total": 0,
+    "nb_sites": null,
+    "type_procedure": "plan_cession",
+    "date_ouverture": null,
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Me Jean-Baptiste ALBERTINI",
+    "aj_etude": "SELARL DETROIT",
+    "mj_nom": null,
+    "mj_etude": null,
+    "juge_commissaire": null,
+    "tribunal": "Tribunal des activités économiques de Paris",
+    "causes_defaillance": "Société sans salariés à la date du dépôt — coquille à marque",
+    "broker_agence_mandate": null
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "date_jugement_issue": null,
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_synthese": null,
+    "nb_offres_concurrentes": 1,
+    "concurrents_resume": [
+      {"nom": "BRUMES SAS (Charles YVON / Cherbourg)", "positionnement_2lignes": "Holding ad hoc créée 6 mois avant l'offre, 3 associés (LA HORSE/YNOVA/BNG). Reprise marque NUS pour relance BtoB premium. BP agressif (280→710k€/3ans). Prix 9k€."}
+    ],
+    "enseignement_clef": "Pattern 'coquille à marque' : société sans salariés, périmètre = marque + stocks + PI. Volet social neutralisé. Évaluation = potentiel commercial. Repreneur holding ad hoc fresh (cap 1k€) avec BP optimiste — TC évaluera essentiellement la crédibilité du business plan."
+  },
+  "sources_externes": []
+}

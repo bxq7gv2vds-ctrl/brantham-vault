@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "offre_id": "33-S2NE-01",
+    "dossier_id": "S2NE",
+    "dossier_folder": "33 - SA SOCIETE NOUVELLE DU NOUVEL ECONOMISTE (dite S2NE)",
+    "fichier_source_pdf": "offre_01_gd72570735.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "Societe Nouvelle du Nouvel Economiste",
+    "cible_siren": "809449234",
+    "naf_secteur": "Presse economique et financiere",
+    "sous_secteur": "Edition + annonces legales",
+    "ca_dernier_exercice_eur": 1770000, "ebitda_eur": null, "effectif_total": 6, "nb_sites": 1,
+    "type_procedure": "RJ", "date_ouverture": "2025-12-09", "dldo": "2026-01-09", "date_audience_cession": null,
+    "aj_nom": "Lou Flechard", "aj_etude": "SCP CBF Associes",
+    "mj_nom": "Stephane Gorrias", "mj_etude": "SCP BTSG",
+    "juge_commissaire": "Patrick Armand",
+    "causes_defaillance": "Arret partenariat diffusion avec Le Revenu (fin 2023), RJ Le Revenu debut 2025, chute des abonnements, charges exceptionnelles condamnations judiciaires ~570 000 EUR. RN 2024 deficitaire -1,75M."
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente", "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null, "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 5,
+    "concurrents_resume": [
+      {"nom": "Robert Lafont Participation", "positionnement_2lignes": "10k 1 emploi a parfaire"},
+      {"nom": "Frontline Media (Groupe mind)", "positionnement_2lignes": "6 290 EUR 3 emplois — projet industriel"},
+      {"nom": "France Annonces (Tancrede)", "positionnement_2lignes": "1 EUR tous salaries sauf un, exige acquisition prealable marque"},
+      {"nom": "Economie Matin", "positionnement_2lignes": "10k 3 emplois"},
+      {"nom": "Overlord Group", "positionnement_2lignes": "5k 3 emplois, croissance CA 2,4M"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Georges-Guillaume Louapre-Pottier (Gerant). Groupe de presse familial Editions du Kapokier fonde 1970 a La Reunion (17 salaries CDI). Editeur du mensuel Memento, radios (100% Jazz, Plus FM, NRJ Mayotte). Habilite annonces legales pour Paris (75) et La Reunion (974). Proprietaire de ses locaux.",
+    "experience_sectorielle_oui_non": "oui", "experience_sectorielle_annees": 55,
+    "track_record_reprises": [], "capacite_financiere_demontree": "moyenne_documentee", "cautionnement_personnel": "NR",
+    "vehicule_reprise": {"forme_juridique": "SARL Miracle Editions", "date_creation": null, "capital_eur": 4350, "rcs": "528642010", "kbis_present_en_annexe": false, "type_vehicule": "existante"}
+  },
+  "structure_prix": {
+    "prix_total_eur": 10000,
+    "decomposition": {"incorporels_eur": null, "corporels_eur": null, "stocks_eur": null, "creances_clients_eur": null, "immeubles_eur": null, "titres_eur": null},
+    "charges_augmentatives_eur": null, "modalites_paiement": "NR",
+    "garanties_paiement": "Tresorerie disponible du groupe EDK. Absence d'endettement bancaire du groupe.", "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [], "credit_bail_repris": [], "contrats_clients_critiques_repris": [], "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false, "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Reprise de la dette abonnes",
+    "retraites_chapeau_indemnites": "Anciennetes anterieures non reprises. Droits et credits de conges payes non repris."
+  },
+  "volet_social": {
+    "nb_salaries_repris": 22, "nb_total_salaries": 6, "pct_reprise": null,
+    "categories_reprises": "22 postes repris : 20 journalistes pigistes + 1 redacteur en chef + 1 secretaire de redaction",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "non",
+    "plan_licenciement": {"nb": 0, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null, "sanction_non_respect_emplois": null, "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Groupe EDK familial 55 ans presse + radios + annonces legales. Reprise integrale activite editoriale, papier+numerique, abonnements, publicite, annonces legales.",
+    "vision_strategique_phrase": "Reprise integralite activite avec investissement 100k EUR minimum",
+    "pivots_prevus": null, "synergies_repreneur": "Habilitation annonces legales 75+974, infrastructure groupe", "synergies_chiffrees_eur": null,
+    "capex_montant_eur": 100000, "capex_calendrier": "Des realisation cession",
+    "capex_nature": "Investissement minimum 100k post-reprise",
+    "plan_affaires_3ans_present": false, "ca_an1_eur": null, "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null,
+    "hypotheses_qualification": "NR", "maintien_site": "NR", "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null, "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false, "dette_bancaire_lettre_confort": false, "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false, "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null, "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Tresorerie du groupe EDK"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null, "caution_dirigeant_montant_eur": null, "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null, "maintien_territoire_site_duree": null, "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false, "nb_conditions": 2,
+    "items": [
+      "Cession effective du titre de presse Le Nouvel Economiste (detenu par FNE/AMARADIA)",
+      "Cession effective des noms de domaine associes"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null, "nb_pages_corps_offre": null, "nb_pages_annexes": null,
+    "structure_dominante": "lettre_simple", "ton_dominant": "commercial", "executive_summary_present": true,
+    "annexes_kbis": false, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false, "annexes_organigramme_cible": false, "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false, "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": false, "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false, "soutien_clients_cles": false, "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false, "personnalisation_rencontre_equipes": false, "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR", "differenciation_concurrents_explicite": false, "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["22 emplois 'repris' sur 6 effectif total — flou : reprise pigistes externes"],
+    "declaration_L642_3_signee": false, "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe de presse familial EDK fonde 1970 a La Reunion",
+    "phrase_engagement_social": "22 postes repris : 20 journalistes pigistes + 1 redacteur en chef + 1 secretaire de redaction",
+    "phrase_vision_strategique": null,
+    "phrase_justification_prix": "10 000 EUR + engagement investissement 100 000 EUR minimum des realisation cession"
+  }
+}
