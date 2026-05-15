@@ -218,17 +218,70 @@ Voir [[brantham/deals/identified/2026-05-15-tech-valley]] (à créer).
 - Index MOC-patterns mis à jour
 - Entry MEMORY.md ajoutée
 
+## 3. Cas n°3 — DORéMI (annonce Actify n°48982)
+
+### Input
+URL : `https://actify.fr/entreprises-liquidation-judiciaire/recherche-de-repreneurs-entreprise-de-leconomie-sociale-et-solidaire-travaux-formations-et-etudes-renovation-energetique/`
+
+Annonce anonymisée : "Recherche de repreneurs — entreprise de l'ESS,
+travaux, formations et études rénovation énergétique", deadline offres
+04/06/2026 12h00, AJ AJPARTENAIRES (Estelle BARRE, 04.78.60.00.30),
+CA 4 686 K€, effectif 11-50, ancienneté 5-10 ans, 6 implantations
+(Alixan/Lyon/Blois/Paris/Rennes/Bordeaux).
+
+### Identification
+**DORéMI SAS** (SIREN 823 549 522)
+- Siège : 1 rue Marc Seguin, **26300 Alixan** (Drôme, Rovaltain)
+- Création : 18/10/2016 (9 ans)
+- Forme : SAS, ESS, Qualiopi, organisme de formation 84260253626
+- APE : 85.59A (formation continue d'adultes)
+- Président SAS : **INSTITUT NÉGAWATT** (SIREN 512 726 472)
+- DG : Arthur BRAC DE LA PERRIERE (1979)
+- CA 2024 : 4 521 447 € / Résultat net : +157 512 €
+- Aide ADEME en cours
+
+### Procédure
+- Tribunal : TC Romans
+- **Sauvegarde** (pas RJ) — jugement 08/04/2026
+- AJ : SELARL AJ Partenaires — Me Didier Lapierre (Romans-sur-Isère)
+- MJ : SELARL SBCMJ — Me Alexandre Banc (Valence)
+- Deadline offres : 04/06/2026 12h00
+- Filiale **Cléo rénov** (SIREN 951 114 693) en sauvegarde simultanée
+
+### Preuves
+- Siège Alixan (26) = empreinte unique parmi les 6 sites annoncés
+- BODACC 2026-04-17 unique match ESS + rénovation énergétique + AJ Partenaires
+- CA teaser 4 686 K€ vs SIRENE 2024 4 521 K€ → cohérence ±3,6 %
+- Jumelage avec Cléo rénov (même siège, même AJ, même date) = signature groupe
+
+### Angle Brantham
+Sauvegarde = adossement plutôt que reprise pure. Cibles repreneur :
+énergéticiens (EDF/ENGIE Solutions/Dalkia), foncières sociales, opérateurs
+MaPrimeRénov' (Hellio, Effy, IDF Énergies), groupes BTP rénovation, BE
+énergie (Greenflex, Egis). Levier négaWatt + aide ADEME.
+
+Voir [[brantham/deals/identified/2026-05-15-doremi]].
+
 ## Bugs / Pièges nouveaux
 
 Aucun bug logiciel — tous les pièges sont déjà documentés dans le playbook
 du skill.
 
+Nouveau piège noté : sur DORéMI, le téléphone affiché 04.78.60.00.30 mène
+au bureau **Lyon** de l'étude AJ Partenaires (Estelle Barre), alors que
+l'AJ réel désigné est Me Didier Lapierre du bureau **Romans-sur-Isère**.
+Convention déjà documentée mais bonne piqûre de rappel.
+
 ## Next steps
 
 - [ ] Créer fiche deal `[[brantham/deals/identified/2026-05-13-monabee]]`
 - [ ] Créer fiche deal `[[brantham/deals/identified/2026-05-15-tech-valley]]`
+- [x] Créer fiche deal `[[brantham/deals/identified/2026-05-15-doremi]]`
 - [ ] Si confirmation user : note d'opportunité Brantham + outreach repreneurs
-  pour MONABEE (deadline 19/06/2026) et TECH VALLEY (deadline 05/06/2026)
+  pour MONABEE (deadline 19/06/2026), TECH VALLEY (deadline 05/06/2026) et
+  DORéMI (deadline 04/06/2026)
+- [ ] DORéMI — sourcer 3-5 cibles repreneurs (énergéticiens + foncières sociales)
+- [ ] DORéMI — vérifier statut filiale Cléo rénov (951 114 693)
 - [ ] Si scope élargi demandé : v2 du skill OSINT (UK/US/personnes/infra)
 
 ## Related
