@@ -18,9 +18,9 @@ Extraction structurée des offres de reprise déposées au Greffe du Tribunal de
 
 | Fichier | Description | Lignes |
 |---|---|---|
-| `master-offres.csv` | Toutes les offres consolidées | 545 |
-| `master-dossiers.csv` | Métadonnées des sociétés débitrices | 97 |
-| `raw-csv/` | Archive des CSV individuels par dossier | 188 |
+| `master-offres.csv` | Toutes les offres consolidées | 570 |
+| `master-dossiers.csv` | Métadonnées des sociétés débitrices | 107 |
+| `raw-csv/` | Archive des CSV individuels par dossier | 208 |
 | `_merge.py` | Script de consolidation (rejouable) | — |
 
 ### Schéma `master-offres.csv` (30 colonnes)
@@ -34,6 +34,7 @@ Extraction structurée des offres de reprise déposées au Greffe du Tribunal de
 - [[analyses/repreneurs-recurrents]] — Top repreneurs actifs (foncières, consolidateurs, fonds)
 - [[analyses/groupes-distressed]] — Groupes en difficulté multi-entités (INNATIS, NEOCAMP, DENTEKA, SYM, COLLEGE DE PARIS)
 - [[analyses/data-quality]] — Anomalies, doublons, OCR à refaire, scans illisibles
+- [[analyses/vague-2026-05-15]] — Vague 2 : 11 nouveaux dossiers (MINELLI, PETRUS, MGL/Lolly's, DIGITAL COLLEGE, AXIOVAL, ARANA, FAIRSPACE, ARLO, DES PLANCHES, SCOOT PARIS 16, TEHTRI)
 
 ## Stats clés
 
