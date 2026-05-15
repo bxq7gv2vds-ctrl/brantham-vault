@@ -28,7 +28,11 @@ Voir [[founder/decisions/2026-04-24-pricing-7k-7k-petits-tickets]].
 - **Premier deal signe** : Magic Form Levallois (24/04/2026, deadline offre 21/05) — voir [[brantham/deals/active/magic-form-levallois/_MOC]]
 - **Deal en cours** : Groupe ITFI (audit 05/05, plan cession 21/05) — voir [[brantham/deals/active/itfi-groupe/_MOC]]
 - **Deals actifs** : Magic Form, ITFI, Ingebime, MLD, SAS Fitness Levallois, Alphosa
-- **Deals identifiés (OSINT, non engagés)** : TILD (agence digitale Éducation, FHBX 16304, deadline 27/05/2026) — voir [[brantham/deals/identified/2026-05-13-tild-agence-digitale]]
+- **Deals identifiés (OSINT, non engagés)** :
+  - TILD (agence digitale Éducation, FHBX 16304, deadline 27/05/2026) — voir [[brantham/deals/identified/2026-05-13-tild-agence-digitale]]
+  - DORéMI (SAS ESS rénovation énergétique, sauvegarde TC Romans, deadline 04/06/2026) — voir [[brantham/deals/identified/2026-05-15-doremi]]
+  - TECH VALLEY (FHBX, deadline 05/06/2026) — voir [[brantham/deals/identified/2026-05-15-tech-valley]]
+  - MONABEE (panneaux photovoltaïques, RJ TAE Lyon, deadline 19/06/2026) — voir [[brantham/deals/identified/2026-05-13-monabee]]
 - **Revenue signe** : 14k HT (Magic Form) — encaissement sur closing
 - Pipeline tech : Cockpit web Next.js operationnel (459 opps, 200 actives) — voir [[brantham/sessions/2026-04-28-cockpit-minimalisme-outreach]]
 - Knowledge base : 49+ sujets, complete
