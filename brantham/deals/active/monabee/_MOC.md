@@ -61,3 +61,6 @@ Dossier identifié via Actify n° 14566, cible désanonymisée via méthode OSIN
 - [[brantham/_MOC]]
 - [[_system/MOC-deals]]
 - [[brantham/patterns/teaser-patterns]]
+- [[brantham/patterns/teaser-pre-nda-anonymisation]]
+- [[brantham/patterns/osint-deanon-cession-anonyme]]
+- [[brantham/sessions/2026-05-15-monabee-teaser-prenda]]
