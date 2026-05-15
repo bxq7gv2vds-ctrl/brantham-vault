@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "offre_id": "24-01",
+    "dossier_id": "24",
+    "dossier_folder": "24 - SAS LA BELLE FORÊT",
+    "fichier_source_pdf": "offre_01_gd72889015.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS LA BELLE FORET",
+    "cible_siren": "899658983",
+    "naf_secteur": "Credits carbone Label Bas-Carbone",
+    "sous_secteur": "Sylviculture melangee a couvert continu",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 8,
+    "nb_sites": 2,
+    "type_procedure": "sauvegarde",
+    "date_ouverture": "2025-11-10",
+    "dldo": "2025-12-12",
+    "date_audience_cession": null,
+    "aj_nom": "Me Charles-Henri CARBONI ; Me Jean BARON",
+    "aj_etude": "SELARL DETROIT ; SCP CBF ASSOCIES",
+    "mj_nom": "Me Sabine ROCHER",
+    "mj_etude": "SELARL ASTEREN",
+    "juge_commissaire": "M. Patrick Renouard",
+    "causes_defaillance": "Difficultes financieres marche carbone volontaire francais"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 3,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Thomas BLADIER (President OKLIMA SAS)",
+    "experience_sectorielle_oui_non": "partielle",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["Oklima : filiale 100% groupe EDF", "Developpeur projets contribution/compensation carbone francais sous Label Bas-Carbone (boisement/reboisement)"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SASU OKLIMA SAS",
+      "date_creation": null,
+      "capital_eur": 1837000,
+      "rcs": "908036932",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 30000,
+    "decomposition": {
+      "incorporels_eur": 25000,
+      "corporels_eur": 5000,
+      "stocks_eur": 0
+    },
+    "charges_augmentatives_eur": 0,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Paiement 30.000 EUR par cheque de banque a la signature. Hors TVA et droits d'enregistrement.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "engagements_L642_12_al4": false,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 8,
+    "pct_reprise": 0,
+    "categories_reprises": "ZERO poste sur 8 (5 pourvus, 3 partants declares)",
+    "categories_non_reprises_raisons": "Aucun engagement de reprise. Conformement a la loi, MJ doit licencier les salaries non repris.",
+    "maintien_conditions_anciennete_salaire_lieu": "non",
+    "plan_licenciement": {
+      "nb": 8,
+      "calendrier": "Apres jugement",
+      "indemnites": "Charge MJ / Procedure (salaries proteges)",
+      "accompagnement": "Clause de reembauche prioritaire 1 an pour salaries non repris en faisant la demande expresse"
+    },
+    "engagement_maintien_emplois_duree_mois": 0,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Oklima dispose des competences (ecologues, techniciens, ingenieurs forestiers) mais ne developpe pas a ce jour de projets sylviculture melangee a couvert continu (qui est l'activite cle de La Belle Foret).",
+    "vision_strategique_phrase": "Reprise des actifs incorporels (denominations LA BELLE FORET, clientele, sigles, PI, ISO 9001, permis administratifs, sites internet) + corporels (materiel/mobilier bureau + biens Annexe 1 detaillee : drones DJI, GPS Garmin, telemetres Nikon/Haglof, tablettes Samsung, vehicule DACIA Jogger)",
+    "pivots_prevus": "Aucun - integration dans activite Oklima existante (boisement/reboisement standard, pas sylviculture stock continu)",
+    "synergies_repreneur": "Synergies fortes avec groupe EDF (reseau clients corporate carbone)",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "NR",
+    "maintien_marques_savoir_faire": "partiel"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 30000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Groupe EDF (actionnaire 100% Oklima)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 4,
+    "items": [
+      "Accord formel du conseil d'administration de Oklima sur la reprise",
+      "Disposer d'elements permettant d'evaluer les risques juridiques notamment risques de contentieux sur veracite/qualite des credits carbone",
+      "Informations sur avancement discussions commerciales avec prospects/entreprises demarchees",
+      "Assurance qu'aucune information cle (etat discussions clients, outils, codes informatiques) n'a ete reprise de facon deloyale par concurrents via embauche de personnes de l'equipe avant finalisation"
+    ],
+    "agressivite_envers_dirigeants": "forte_clause_non_sollicitation"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 13,
+    "nb_pages_corps_offre": 10,
+    "nb_pages_annexes": 3,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": true,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": true,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Oklima est une filiale a 100% du groupe EDF. Oklima est un developpeur de projets de contribution ou compensation carbone francais. Oklima developpe des projets sous le Label Bas Carbone mis en place par les pouvoirs publics francais.",
+    "phrase_engagement_social": "Le Repreneur s'engage a faire beneficier d'une clause de reembauche prioritaire les salaries non repris qui en feraient la demande expresse pendant une duree d'un an",
+    "phrase_vision_strategique": "Oklima developpe des projets suivant des methodologies agricoles ou forestieres. Les projets forestiers sont de type 'boisement' ou 'reboisement'. Oklima ne developpe pas a ce jour de projets forestiers de type 'sylviculture melangee a couvert continu' comme le fait La Belle Foret, mais dispose des competences permettant de le faire",
+    "phrase_justification_prix": "Le prix propose s'eleve a 30 000 EUR (trente mille euros en lettres) et se decompose forfaitairement comme suit : Immobilisations incorporelles 25.000 EUR + Immobilisations corporelles 5.000 EUR + Stocks 0 EUR"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "offre_id": "65-01",
+    "dossier_id": "65",
+    "dossier_folder": "65 - SAS LA LOCO",
+    "fichier_source_pdf": "65_SAS_LA_LOCO_offre1.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS LA LOCO",
+    "cible_siren": "810930123",
+    "naf_secteur": "EdTech / Formation professionnelle",
+    "sous_secteur": "Bootcamps numerique (Le Wagon)",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 20,
+    "nb_sites": 2,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-24",
+    "dldo": "2026-04-08",
+    "date_audience_cession": null,
+    "aj_nom": "Maitre Catherine POLI",
+    "aj_etude": "SELARL AJRS",
+    "mj_nom": "Maitre Pablo CASTANON",
+    "mj_etude": "SELARL Asteren",
+    "juge_commissaire": null,
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 2,
+    "concurrents_resume": [
+      {"nom": "FORMAPRIV", "positionnement_2lignes": "Groupe formation sante/juridique/HEC 30M CA 2026, 30 acquisitions en 12 ans dont 5 a la barre, offre preliminaire 50000 EUR, 5 emplois repris."},
+      {"nom": "SIMPLON.CO", "positionnement_2lignes": "ESS/ESUS, deja repris Innov'Educ/Wild Code School 07/2025, 30M CA 2025, offre symbolique 2 EUR avec engagement 12 mois sans licenciement contraint, CS audit."}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_concurrent",
+    "age_parcours_dirigeant": "Pierre Charvet (President de Studi). Groupe Galileo Global Education (GGE) detenu par CPPIB 36.39%, Tethys (Bettencourt) 34.59%, Montagu 16.13%, BPI 9.89%. CA consolide GGE : 1423M EUR (FY 06/2025). 65 institutions, 110 campus, 20 pays, 300000 eleves.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 25,
+    "track_record_reprises": ["Studi (25 ans, 59000 apprenants)", "Groupe GGE multi-acquisitions (ESG, Hetic, Elije, Digital Campus, LISAA, Naratiiv, Cours Florent)"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "NewCo Galileo Global Education 4 (GGE 4) SAS",
+      "date_creation": null,
+      "capital_eur": 5000000,
+      "rcs": null,
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 200003,
+    "decomposition": {
+      "incorporels_eur": 100000,
+      "corporels_eur": 40000,
+      "stocks_eur": null,
+      "creances_clients_eur": 60003,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "5M EUR finances par Studi (200K prix + 2.1M BFR + 2.7M investissements ERP/programmes) + 1M EUR frais/honoraires + Financement Relais 1.25M EUR (dont 625K Studi + 625K obligations convertibles FPCI Sino French SME Fund II + Fonds Franco-Africain) consenti depuis ouverture RJ.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["24 rue Louis Blanc 75010 Paris (SDM)"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Association des diplomes ESSEC", "TechWagon Hub (Inde)", "Land Ho Trainamento (Bresil)", "Ocean Coding (Indonesie)", "One Point", "Dataiku", "Le wagon Tech Academy (Singapour)", "Boot Camp Chile SPA", "Honoris Holding", "EMSI", "Red & Yellow Creative", "Honoris Education Network", "HEC alumni", "Kodama GK (Japon)", "9994017 Canada Inc."],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 14,
+    "nb_total_salaries": 20,
+    "pct_reprise": 70.0,
+    "categories_reprises": "14 contrats de travail repris sur 20 chez La Loco + 3 minimum au Portugal + ~52 salaries en France incluant filiales",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "partiel",
+    "plan_licenciement": {"nb": 6, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Reprise complete fonds de commerce La Loco + 100% titres filiales reprises (Le Wagon SAS 50000 EUR, Le Wagon For Business SAS 1 EUR — CP negatifs 2M EUR, Le Wagon Spain SLU 1 EUR, Le Wagon GmbH 10000 EUR, Le Wagon Australia PTY Ltd 1 EUR). Discussions in bonis engagees novembre 2025 entre Studi et La Loco avant ouverture RJ. Cout total reprise estime 5M EUR + 1M EUR honoraires.",
+    "vision_strategique_phrase": "Integration dans Galileo Global Education : 65 institutions, 110 campus, 20 pays, 300000 eleves. Synergies avec Studi (59000 apprenants, 300+ formations CAP-Bac+5).",
+    "pivots_prevus": "Investissements 2.7M EUR ERP/programmes",
+    "synergies_repreneur": "GGE = leader mondial formation. Studi a 17 filieres, partenariats academiques (ESG, Hetic, Elije, Digital Campus, LISAA, Naratiiv, Cours Florent), labels Engage RSE + Responsibility Europe AFNOR, Qualiopi, ISO 26000, habilitee Directte 33 titres pro, 3 titres RNCP.",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": 2700000,
+    "capex_calendrier": null,
+    "capex_nature": "Investissements ERP / programmes",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "partiel",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 5000000,
+    "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 625000,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": 2100000,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Studi (5M EUR + financement relais)", "FPCI Sino French SME Fund II (625K obligataire)", "FPCI Fonds Franco-Africain (625K obligataire)", "Tresorerie consolidee GGE 479.4M EUR + RCF 180M EUR non tirees"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 4,
+    "items": [
+      "Finalisation due diligence sans element substantiellement defavorable",
+      "Confirmation absence de nantissement sur titres Filiales Reprises",
+      "Autorisation substitution par NewCo (art. L.642-9 al.3)",
+      "Purge eventuels droits de preemption statutaires des Filiales Reprises non communiques (Spain, Australia)"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": true,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": true,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": true,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": true,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": "AARPI MVS Cabinet d'avocats RESCUE",
+    "avocat_nom": "Maitre Virginie VERFAILLIE (17 rue Dumont d'Urville 75116 Paris)"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "GGE CA consolide 1423M EUR (FY 06/2025), 65 institutions, 110 campus, 20 pays, 300000 eleves. Tresorerie 479.4M EUR + 180M RCF non tirees.",
+    "phrase_engagement_social": "14 contrats de travail repris sur 20 chez La Loco + 3 minimum au Portugal + ~52 salaries en France (incluant filiales) + 69 emplois preserves total",
+    "phrase_vision_strategique": "Discussions in bonis engagees novembre 2025 entre Studi et La Loco avant ouverture RJ — repreneur en pourparlers depuis l'amont avec une preparation approfondie",
+    "phrase_justification_prix": "Offre la plus elevee (200003 EUR vs 50000 EUR Formapriv vs 2 EUR Simplon). Cout total reprise estime a 5M EUR + 1M EUR honoraires Studi."
+  }
+}

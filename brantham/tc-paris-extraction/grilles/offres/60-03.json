@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "offre_id": "60-03",
+    "dossier_id": "60",
+    "dossier_folder": "60 - SCA SEA DE DENIOLAY PEROUSSAY",
+    "fichier_source_pdf": "60_SCA_SEA_DE_DENIOLAY_PEROUSSAY_offre3.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCEA DE LA DENIOLAY PEROUSSAY (+ SCEA DE LA CHAUSSEE)",
+    "cible_siren": "320401987",
+    "naf_secteur": "Production agricole — pommes",
+    "sous_secteur": "Pôle Val de Loire INNATIS",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 2,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-16",
+    "dldo": "2026-03-18",
+    "date_audience_cession": "2026-04-13",
+    "aj_nom": "Marine PACE / Paul-Henri AUDRAS",
+    "aj_etude": "SELARL 2M&Associés ; SELAS AJ UP",
+    "mj_nom": "Valérie LELOUP-THOMAS / Charlotte THIRION",
+    "mj_etude": "SELAFA MJA ; SELARL ATHENA",
+    "juge_commissaire": null,
+    "causes_defaillance": "INNATIS Pôle Val de Loire"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": "0 emploi repris pour Deniolay (les 2 CDI ne sont pas repris) ; offre dépend du jeune agriculteur PENCHENAT (priorité L.642-1 al.3) qui n'a pas suffi face à projet coopératif Vergers d'Anjou.",
+    "nb_offres_concurrentes": 3,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Hervé BOUJUAU + Céline DELHOMME BOUJUAU (CELHER, gérants). Substitution par AGRILAND NORD SAS (RCS Arras 829979231, cap 50.000€, 100% Agriland SA Belgique) + Jonathan PENCHENAT (né 28/04/1991 Libourne, salarié SCA Chaussée depuis 2018, CDI 2022, jeune agriculteur primo-installation rang 1 L.642-1).",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 28,
+    "track_record_reprises": ["AGRILAND SA fondée 1996 Belgique, filiale française 2015", "Famille de l'Escaille de Lier"],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "NewCo SCEA (siège 9 rue de Vaucanson, 49100 Angers — gérant Jonathan PENCHENAT)",
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": null,
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "newco"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 70000,
+    "decomposition": {
+      "incorporels_eur": 1000,
+      "corporels_eur": 19000,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 306000,
+    "modalites_paiement": "NR",
+    "garanties_paiement": null,
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Tous les baux ruraux", "Baux emphytéotiques"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 2,
+    "pct_reprise": 0,
+    "categories_reprises": "Aucun salarié Deniolay (les 2 CDI ne sont pas repris). Chaussée : 4/6 salariés repris.",
+    "categories_non_reprises_raisons": "Périmètre AGRILAND NORD/PENCHENAT centré sur Chaussée, Deniolay traité comme actifs uniquement",
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": 2, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Jonathan PENCHENAT primo-installation (jeune agriculteur arrêté 28/11/2024 SDREA art.3-2) — priorité rang 1 L.642-1 al.3. AGRILAND NORD : prestations coordination/gestion exploitations. Souhaite adhérer Vergers d'Anjou pour gestion post-récolte (Pink Lady, Juliet). BFR évalué 1,076M€ ; 770k€ recettes prévues, 306k€ apport fonds propres résiduel.",
+    "vision_strategique_phrase": "Primo-installation jeune agriculteur priorité rang 1 + adhésion coopérative Vergers d'Anjou",
+    "pivots_prevus": "Pas de cession actif prévue 2 ans après cession (sauf renouvellement)",
+    "synergies_repreneur": "AGRILAND SA Belgique 1996, gestion exploitations agricoles consolidée",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "prudentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 306000,
+    "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": 1076000,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["AGRILAND NORD (sans emprunt bancaire — fonds propres uniquement)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "Pas de cession actif prévue 2 ans après cession (sauf renouvellement)",
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Communication AJ intégralité contrats à céder (baux emphytéotiques, baux ruraux, bulletins de salaire) 1 mois avant audience",
+      "Justification détention DPB",
+      "Analyse financière/juridique/technique des contrats satisfaisante (faculté de levée par l'Offrant)"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": true,
+    "annexes_attest_bancaire": true,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": true,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": true,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": true,
+    "personnalisation_rencontre_equipes": true,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": [
+      "0 salarié repris Deniolay alors que 4/6 Chaussée — déséquilibre criant"
+    ],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": "SELARL LEXCAP",
+    "avocat_nom": "Rédacteurs d'actes de cession"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Jonathan PENCHENAT, salarié SCA de la Chaussée depuis 06/06/2018 (saisonnier) puis CDI 01/01/2022, jeune agriculteur primo-installation art.3-2 SDREA arrêté 28/11/2024 → priorité de rang 1 art. L642-1 al.3",
+    "phrase_engagement_social": "Aucun salarié repris pour Deniolay ; 4/6 pour Chaussée",
+    "phrase_vision_strategique": "Adhésion coopérative Vergers d'Anjou pour gestion post-récolte (Pink Lady, Juliet)",
+    "phrase_justification_prix": "Incorporels 1.000€ + Corporels 19.000€ + DPB/PAC 20.000€ + Avances aux cultures 30.000€ = 70.000€ Deniolay (offre globale 220.000€ avec Chaussée 150.000€)"
+  }
+}

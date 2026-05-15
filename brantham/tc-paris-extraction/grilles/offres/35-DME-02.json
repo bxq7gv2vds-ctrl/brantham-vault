@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "offre_id": "35-DME-02",
+    "dossier_id": "35-DME",
+    "dossier_folder": "35 - SARL DME",
+    "fichier_source_pdf": "46_SARL_DME_offre2.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SARL DME",
+    "cible_siren": "925209926",
+    "naf_secteur": "Restauration",
+    "sous_secteur": "DONATIEN MAITRE ECLAIR",
+    "ca_dernier_exercice_eur": null, "ebitda_eur": null, "effectif_total": 1, "nb_sites": 1,
+    "type_procedure": "RJ", "date_ouverture": "2025-12-23", "dldo": "2026-02-02", "date_audience_cession": null,
+    "aj_nom": "Isabelle DIDIER", "aj_etude": "SELAS SPE O3 PARTNERS",
+    "mj_nom": "Jerome PIERREL", "mj_etude": "SELAS ETUDE JP",
+    "juge_commissaire": "Antoine GUINET", "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente", "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null, "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 2, "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Guillaume LANGLOY (President via HESTIA SC, RCS Lyon 908563778, capital 3 661 515 EUR). Actionnaires LOUTSA : Langloy 45,79% / ARAC 14,27% / HELEA FINANCIERE 14,27% / Holding FOLLIET 7,41% / Thomas ROBERT 6,86% / FOODARA 6,86%. Activite LOUTSA : torrefaction artisanale cafes specialite, 8 boutiques (5 Lyon, 3 Paris) + usine urbaine place d'Albon Lyon (08/2023), 44 salaries, 400 clients pro Lyon.",
+    "experience_sectorielle_oui_non": "partielle", "experience_sectorielle_annees": null,
+    "track_record_reprises": [], "capacite_financiere_demontree": "faible_documentee", "cautionnement_personnel": "NR",
+    "vehicule_reprise": {"forme_juridique": "SAS LOUTSA FRANCE", "date_creation": null, "capital_eur": 11691, "rcs": "842429185", "kbis_present_en_annexe": true, "type_vehicule": "substitution_prevue"}
+  },
+  "structure_prix": {
+    "prix_total_eur": 3000,
+    "decomposition": {"incorporels_eur": null, "corporels_eur": null, "stocks_eur": null, "creances_clients_eur": null, "immeubles_eur": null, "titres_eur": null},
+    "charges_augmentatives_eur": null, "modalites_paiement": "NR",
+    "garanties_paiement": "Fonds propres integralement (renegociation prets eventuellement repris exigee)", "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Contrat de bail SCI RAMBUTO sous reserve diminution loyer + despecialisation"],
+    "credit_bail_repris": [], "contrats_clients_critiques_repris": ["Contrats clients juges perennes (art. L.642-7)"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": true,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Nantissements Banque Postale 670 310,46 EUR connus : LOUTSA se reserve 3 options L.642-12 al.4 (reprise actif greve / exclusion / accord credit)",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 1, "nb_total_salaries": 1, "pct_reprise": 100.0,
+    "categories_reprises": "Unique salarie", "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 0, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null, "sanction_non_respect_emplois": null, "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "diagnostic_resume": "Lettre d'intention non engageante. LOUTSA Resultats : CA 2024 3 831 189 EUR (REX -376 351, RN -304 923) ; CA 2023 3 090 665 (REX -1 030 906, RN -1 038 313) ; CA 2022 1 974 652 (REX -486 103, RN -442 363). Mention F25/071141 du 24/07/2025 : decision de non-dissolution malgre capitaux propres < moitie du capital social.",
+    "vision_strategique_phrase": null, "pivots_prevus": "Diversification cafes specialite -> patisserie",
+    "synergies_repreneur": "Synergies torrefaction + retail Paris", "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null, "capex_calendrier": null, "capex_nature": null,
+    "plan_affaires_3ans_present": false, "ca_an1_eur": null, "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes", "maintien_site": "oui_total", "maintien_marques_savoir_faire": "non"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null, "apport_origine_documentee": "non",
+    "dette_bancaire_engagement_ferme": false, "dette_bancaire_lettre_confort": false, "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false, "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null, "tresorerie_securite_eur": null, "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null, "caution_dirigeant_montant_eur": null, "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null, "maintien_territoire_site_duree": null, "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false, "nb_conditions": 7,
+    "items": [
+      "Finalisation due diligence satisfaisante",
+      "Communication contrats de prets et inventaire commissaire de justice",
+      "Absence garanties/emprunts eligibles L.642-12 al.4 ou al.5 (ou accord derogatoire)",
+      "Confirmation ecrite SCI RAMBUTO de la diminution du loyer annuel et de l'agrement a la despecialisation",
+      "Absence d'action en revendication sur stocks",
+      "Autorisation par les organes sociaux du Repreneur",
+      "Absence de modification substantielle ou evenement notable"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null, "nb_pages_corps_offre": null, "nb_pages_annexes": null,
+    "structure_dominante": "lettre_simple", "ton_dominant": "commercial", "executive_summary_present": false,
+    "annexes_kbis": true, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false, "annexes_organigramme_cible": false, "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false, "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": false, "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false, "soutien_clients_cles": false, "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false, "personnalisation_rencontre_equipes": false, "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR", "differenciation_concurrents_explicite": false, "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Lettre d'intention non engageante", "Repreneur en perte 3 ans consecutifs (-1M en 2023)", "Capitaux propres < moitie capital social (decision non-dissolution F25/071141)"],
+    "declaration_L642_3_signee": false, "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "LOUTSA — torrefaction artisanale cafes specialite, 8 boutiques (5 Lyon, 3 Paris), 44 salaries",
+    "phrase_engagement_social": "1 unique salarie repris (= tout l'effectif DME)",
+    "phrase_vision_strategique": null,
+    "phrase_justification_prix": "Prix forfaitaire provisoire 3 000 EUR (montants incorporels/corporels non ventiles) — Lettre d'intention non engageante"
+  }
+}
