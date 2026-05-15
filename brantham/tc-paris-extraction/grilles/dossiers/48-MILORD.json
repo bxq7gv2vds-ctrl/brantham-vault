@@ -1,0 +1,36 @@
+{
+  "meta": {"dossier_id": "48-MILORD", "dossier_folder": "48 - SCI MILORD", "extracted_at": "2026-05-15", "extracted_by": "claude-agent", "confidence": "medium"},
+  "identification": {
+    "cible_raison_sociale": "SCI MILORD",
+    "cible_siren": null,
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "SCI - portefeuille consolidé FHBX Foncière Melot-Gouband (26 entités, 'Affaire Balthazar')",
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": "2026-03-02",
+    "date_audience_cession": null,
+    "aj_nom": "Maître Hélène BOURBOULOUX (avec François RAYBAUD et Paul CHARREY)",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maître Valérie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "Monsieur Jean-François PONCET",
+    "causes_defaillance": "Défaillance consolidée FHBX 'Foncière Melot Gouband / Affaire Balthazar' - 26 entités SCI/SNC en RJ",
+    "nb_offres_recues": 5,
+    "effectif_total": 0,
+    "actif_principal": "Bien immobilier MILORD (non précisé dans PDFs extractibles - tarif prouvant un actif > 900k€)",
+    "fourchette_offres_eur": "900k (MUVICO initiale) - 910k (MUVICO améliorée). Offres globales 13,9M€ (MUVICO portefeuille 28 actifs) et 21M€ (LABRAX portefeuille Melot-Gouband)"
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 5,
+    "concurrents_resume": [
+      {"nom": "MUVICO (Victor COHEN)", "positionnement_2lignes": "Groupe foncier patrimonial 75116 - offre globale 26 entités, portion MILORD : 900k initiale → 910k améliorée"},
+      {"nom": "VERDOSO SAS", "positionnement_2lignes": "Plan cession global 26 entités 02/03/2026"},
+      {"nom": "LABRAX INVEST", "positionnement_2lignes": "Offre finale ferme indivisible 21M€ portefeuille global Melot-Gouband + appartement Paris 16e"},
+      {"nom": "CORTONA FRANCE (Alexandre MOLIMARD)", "positionnement_2lignes": "EURL 75008 filiale CORTONA - offre globale 27 biens 09/01 sous CS multiples"},
+      {"nom": "HOUSEBASE (mal classée)", "positionnement_2lignes": "Offre cible SNC ADONIA (Cachan 501,6k€) - PDF physiquement classé MILORD mais hors périmètre"}
+    ]
+  },
+  "notes_dossier": "Dossier FHBX 'Affaire Balthazar' consolidé 26 SCI/SNC Melot-Gouband. SCI MILORD pas d'actif individualisé clairement précisé dans PDFs extractibles - prix 900k€ suggère un immeuble parisien valeur moyenne du portefeuille. MUVICO confirme prix 900k initiale → 910k améliorée. PDFs offres 1+5 = doublons physiques HOUSEBASE pour SNC ADONIA mal classés. PDF offre 1 non extrait. Offres 2+3+4 = MUVICO. Pattern : portefeuille typique Melot-Gouband - asset deal sans dettes, vocation patrimoniale, CS limitées à audit/visite/transfert libre de charges."
+}
