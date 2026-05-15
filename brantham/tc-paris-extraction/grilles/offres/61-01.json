@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "offre_id": "61-01",
+    "dossier_id": "61",
+    "dossier_folder": "61 - SCA SOCIETE D EXPLOITATION DU DOMAINE DE BEAUVALLO",
+    "fichier_source_pdf": "61_SCA_SOCIETE_D_EXPLOITATION_DU_DOMAINE_DE_BEAUVALLO_offre1.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCEA DU DOMAINE DE BEAUVALLON",
+    "cible_siren": "786213702",
+    "naf_secteur": "Production agricole fruits à pépin",
+    "effectif_total": 2,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-16",
+    "dldo": "2026-03-18",
+    "date_audience_cession": "2026-04-13",
+    "aj_nom": "Me Marine PACE / Me Paul-Henri AUDRAS",
+    "aj_etude": "SELARL 2M&Associés / SELAS AJ UP",
+    "mj_nom": "Me Valérie LELOUP-THOMAS / Me Charlotte THIRION",
+    "mj_etude": "SELAFA MJA / SELARL ATHENA"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 4,
+    "concurrents_resume": [
+      {"nom": "SARL CELHER (BOUJUAU/Vergers d'Anjou)", "positionnement_2lignes": "GAGNANT — 125k€/31 emplois — projet coopératif local."}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "James LAUNAY (CASTEL INVEST) / Pierre LEROY via PL INVEST (LEROY FRERES ET SŒUR) / Nicolas VERGER (VCAPITAL). Famille LAUNAY/LEROY/VERGER — groupe agricole.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [
+      "Maison Leroy",
+      "Paysans Résistants",
+      "Réseau Les Halles du Verger (Vannes/Le Mans/Tours)",
+      "AGI-SERRE",
+      "LHDV"
+    ],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SCEA LVL ANJOU (NewCo cap. 1000€ — Gérants SAS BBM + Pierre LEROY ; BBM = 33,34% CASTEL + 44,44% LEROY + 22,22% VCAPITAL, cap. 10k€)",
+      "date_creation": null,
+      "capital_eur": 1000,
+      "rcs": "103157244",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "newco"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 50000,
+    "decomposition": {
+      "incorporels_eur": 1000,
+      "corporels_eur": 18000,
+      "stocks_eur": 1000,
+      "creances_clients_eur": null,
+      "immeubles_eur": 30000,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 500000,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds propres via avances en compte-courant holding Repreneurs. Total ensemble 11 offres INNATIS : 6 490 000€ (prix cessions 2M + BFR 1,8M + droits CP/RTT 500k + passif bancaire titres LVL POMANJOU 2M + emprunt nanti L642-12 al.4 190k).",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": true,
+    "engagement_L642_12_montant_eur": 190000,
+    "passif_privilegie_repris": "Emprunt nanti L.642-12 al.4 — 190k€ (passif bancaire titres LVL POMANJOU 2M ensemble)",
+    "retraites_chapeau_indemnites": "Reprise droits CP/RTT/repos compensateurs (estimation 500k€ pour ensemble 11 offres INNATIS)"
+  },
+  "volet_social": {
+    "nb_salaries_repris": 2,
+    "nb_total_salaries": 2,
+    "pct_reprise": 100.0,
+    "categories_reprises": "2 salariés Beauvallon — ensemble 11 offres : 72 contrats/96 + GE AZUR 35 + Vergers Launay 9 = 116 sur 140",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 0},
+    "engagement_maintien_emplois_duree_mois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Groupe agricole 200 collab CA consolidé ~40M€. Prévisions embauche : 380 saisonniers (180 SCEA Les Vergers Launay + 200 répartis sur 10 autres structures).",
+    "vision_strategique_phrase": "Reprise globale Pôle Val de Loire INNATIS (11 entités indivisibles)",
+    "pivots_prevus": "Transfert licences HONEY CRUNCH, ZINGY, CHOUPETTE, KIKOKA + autorisation marques PINK LADY/JULIET (CARDELL EXPORT) + station OCEANE Angers",
+    "synergies_repreneur": "Maison Leroy + Paysans Résistants + Réseau Les Halles du Verger + LHDV Vannes/Le Mans/Tours",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 6490000,
+    "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false,
+    "bfr_redemarrage_eur": 1800000,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["CASTEL INVEST", "LEROY FRERES ET SŒUR", "VCAPITAL"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 6,
+    "items": [
+      "Absence de modification substantielle (BIFFÉ dans version améliorée)",
+      "Absence de garantie/emprunts éligibles L.642-12 al.4/5 ou accord dérogatoire",
+      "Accord avec organes procédure compte-courant 500k€ LVL POMANJOU à SCEA Vergers Launay",
+      "Accord INNATIS DEVELOPPEMENT transfert licences HONEY CRUNCH/ZINGY/CHOUPETTE/KIKOKA",
+      "Autorisation marques PINK LADY/JULIET avec CARDELL EXPORT",
+      "Transfert Licence Pink Lady station OCEANE Angers"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": true,
+    "annexes_business_plan": false,
+    "annexes_comptes_sociaux_3ans": true,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Offre groupe-interne — repreneur lié aux dirigeants défaillants INNATIS"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": "Cabinet FIDAL", "avocat_nom": "Me Antoine BISDORFF & Me Delphine BRUNET & Me Sabrina DJELTI"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Repreneurs INNATIS — Famille LAUNAY/LEROY/VERGER groupe agricole 200 collab",
+    "phrase_engagement_social": "Reprise droits CP/RTT/repos compensateurs salariés",
+    "phrase_vision_strategique": "Indivisible avec 10 autres offres Innatis (LPC, LVL POMANJOU, SCICA POMANJOU, SCA DE LA CHAUSSEE, SCA DE LAUNAY, SCA REINETTE D'ANJOU, SCA DE LA DENIOLAY, SCEA DE VAULEARD, SCA DE LA PLESSE, CAVL)",
+    "phrase_justification_prix": "Total supporté ensemble 11 offres : 6 490 000€"
+  },
+  "bilan_repreneur": {
+    "ca_castel_2024_eur": 0,
+    "rn_castel_eur": 43000,
+    "cp_castel_eur": 4214000,
+    "ca_leroy_2024_eur": 26000,
+    "cp_leroy_eur": 1593000,
+    "ca_vcapital_2025_eur": 70000,
+    "cp_vcapital_eur": 80000,
+    "exercice_clos": "2024-2025"
+  }
+}

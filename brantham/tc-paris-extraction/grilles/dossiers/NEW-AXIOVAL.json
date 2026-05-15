@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "dossier_id": "NEW-AXIOVAL",
+    "dossier_folder": "NEW_62 - SAS AXIOVAL",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "AXIOVAL",
+    "cible_siren": "807450549",
+    "forme_juridique": "SAS",
+    "capital_social_eur": 150000,
+    "rcs": "807 450 549 RCS Paris",
+    "adresse_siege": "80 rue de Montmartre, 75002 PARIS",
+    "naf_secteur": "Conseil pour les affaires / RH / Organisation",
+    "sous_secteur": "Conseil aux collectivités locales / RH-organisation",
+    "ca_dernier_exercice_eur": null,
+    "effectif_total": 6,
+    "nb_sites": 1,
+    "type_procedure": "LJ_poursuite",
+    "date_ouverture": "2026-02-23",
+    "dldo": "2026-04-06",
+    "date_audience_cession": null,
+    "aj_nom": "Maître Laure SANCHEZ-SEPVAL (mandataire ad hoc → conciliatrice → liquidatrice)",
+    "aj_etude": "SELAFA MJA",
+    "mj_nom": "Maître Laure SANCHEZ-SEPVAL",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": null,
+    "tribunal": "Tribunal des Activités Économiques de PARIS",
+    "causes_defaillance": "Baisse activité, dépendance accords cadres non traduits en commandes. Aucun nouvel appel d'offres depuis mars 2026. Dirigeant Frédéric MALET a créé CAP2-PUBLIC (RCS Saint-Quentin 102011327) le 04/03/2026 — exclusion L.642-3 du dirigeant en place.",
+    "broker_agence_mandate": null
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "date_jugement_issue": null,
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_synthese": null,
+    "nb_offres_concurrentes": 1,
+    "concurrents_resume": [
+      {"nom": "FCL (FCL GERER LA CITE) — Isabelle BOCHER-KEBE / Alain PECHMAGRE-CAMINADE", "positionnement_2lignes": "Concurrent direct (conseil collectivités), co-traitant historique. 3 offres successives 13/04 → 22/04 → 24/04. Prix 30k€ constant. Emplois 4→5 (sur 6). Nantissement CIC 200k€ radiation demandée."}
+    ],
+    "enseignement_clef": "Cas d'école pré-pack cession en 3 itérations rapides : v1 critiquée par MJ (volet social, pérennité, prix) → v2 ajoute +1 emploi + engagement non-licenciement 24 mois (réponse formelle aux observations Sanchez-Sepval) → v3 confirme suite passage en LJ (déclaration cessation paiements dirigeant), redécompose prix incorporels/corporels (28/2 vs 20/10). Dirigeant créant société concurrente pendant la procédure = pattern récurrent (cf. MALET / CAP2-PUBLIC vs SITBON / J.L BAC). Sortie vraisemblable : plan de cession FCL retenu."
+  },
+  "sources_externes": []
+}
