@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "offre_id": "24-02",
+    "dossier_id": "24",
+    "dossier_folder": "24 - SAS LA BELLE FORÊT",
+    "fichier_source_pdf": "offre_02_gd72888810.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS LA BELLE FORET",
+    "cible_siren": "899658983",
+    "naf_secteur": "Credits carbone Label Bas-Carbone",
+    "sous_secteur": "Sylviculture melangee a couvert continu",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 8,
+    "nb_sites": 1,
+    "type_procedure": "sauvegarde",
+    "date_ouverture": "2025-11-10",
+    "dldo": "2025-12-12",
+    "aj_nom": "Me Charles-Henri CARBONI ; Me Jean BARON",
+    "aj_etude": "SELARL DETROIT ; SCP CBF ASSOCIES",
+    "mj_nom": "Me Sabine ROCHER",
+    "mj_etude": "SELARL ASTEREN",
+    "juge_commissaire": "M. Patrick Renouard"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 3,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_concurrent",
+    "age_parcours_dirigeant": "Guillaume PANTHOU-BROCHARD (Cofondateur et Directeur Commercial Stock CO2)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 5,
+    "track_record_reprises": ["Stock CO2 cree 2020 - 200+ projets labellises LBC (forestiers + agricoles)", "600.000 tonnes CO2 labellisees ~ 8% du marche LBC national", "Fiducie environnementale Caisse des Depots", "CA 125k 2021 -> 1,13 ME 2024, EBITDA 435k 2024", "Previsions 2025 : CA 1,3 ME / EBITDA 600k"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS Stock CO2",
+      "date_creation": "2020",
+      "capital_eur": 1304.30,
+      "rcs": "881081210",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 10000,
+    "decomposition": {
+      "incorporels_eur": null,
+      "corporels_eur": 0,
+      "stocks_eur": 0
+    },
+    "charges_augmentatives_eur": 0,
+    "modalites_paiement": "NR",
+    "garanties_paiement": "Prix ferme 10.000 EUR. Sans complement de prix, mecanisme d'indexation ni paiement differe. Finance sur fonds propres sans recours endettement externe.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Contrats clients lies aux projets repris (sous reserve cessibilite)"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "passif_privilegie_repris": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": null,
+    "nb_total_salaries": 8,
+    "pct_reprise": null,
+    "categories_reprises": "Reprise a priori MAJORITAIRE des salaries, sous reserve adequation besoins operationnels + volonte. Fonctions techniques/ingenierie de projet = enjeu prioritaire.",
+    "categories_non_reprises_raisons": "A determiner apres entretiens individuels et audit social",
+    "maintien_conditions_anciennete_salaire_lieu": "partiel",
+    "plan_licenciement": {
+      "nb": null,
+      "calendrier": null,
+      "indemnites": null,
+      "accompagnement": "Entretiens individuels avant reprise"
+    },
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false,
+    "remuneration_plafond_brut_eur": 60000
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Reprise progressive en 3 phases : (1) securisation immediate (info proprietaires, reprise pilotage), (2) integration 0-3 mois (outils + salaries + harmonisation docs), (3) stabilisation 3-12 mois (certification definitive + commercialisation). Methode publique 'stock continu' caractère non cessible souligne. Modèle commissions securisees durée via fiducie CDC.",
+    "vision_strategique_phrase": "Logique de consolidation du marche francais de la compensation carbone forestière. La reprise d'une activite existante par un operateur deja structure contribue a eviter une degradation de la valeur environnementale et economique des projets labellises",
+    "pivots_prevus": "Integration progressive sans maintien structure autonome - 'absorption maitrisee' de l'activite dans Stock CO2",
+    "synergies_repreneur": "200+ projets LBC existants Stock CO2 + base 8% marche national + fiducie CDC + processus suivi technique/reporting/tracabilite/relations administration",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "hypotheses_qualification": "prudentes",
+    "maintien_site": "partiel",
+    "maintien_marques_savoir_faire": "partiel"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 10000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Fiducie environnementale Caisse des Depots et Consignations"]
+  },
+  "engagements_specifiques": {
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 6,
+    "items": [
+      "Acces complet, sincère, exhaustif et a jour a la documentation (juridique, financier, social, fiscal, contractuel, operationnel) - a defaut retrait sans formalite",
+      "Audits juridiques/financiers/sociaux/fiscaux/operationnels satisfaisants (appreciation discretionnaire Stock CO2)",
+      "Confirmation cessibilite effective des contrats avec proprietaires forestiers, partenaires et clients (ou accords/autorisations/avenants)",
+      "Absence de tout passif significatif, engagement financier/social/fiscal/contentieux non identifie - droit retrait immediat",
+      "Validation par organes procedure collective et autorisation/homologation Tribunal",
+      "Signature documentation contractuelle definitive aux termes satisfaisants pour Stock CO2"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 8,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": [
+      "Lettre d'INTENTION NON ENGAGEANTE - ne constitue ni offre ferme, ni promesse, ni engagement de reprise (article preambule)",
+      "Aucune annexe jointe (Kbis, comptes, CV)",
+      "Plafond remuneration 60k bruts pourrait poser probleme pour salaries actuels > 60k"
+    ],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Stock CO2 est un operateur de compensation carbone labellisee Bas-Carbone, specialise dans le developpement, la labellisation, le pilotage et le reporting de projets de reduction et de sequestration des emissions de gaz a effet de serre en France. Depuis 2020, Stock CO2 s'est imposee comme un acteur de reference de la compensation carbone locale, pilotant plus de 200 projets labellises Bas-Carbone, forestiers et agricoles, representant environ 600 000 tonnes de CO2 labellisees, soit environ 8% des projets et des volumes du Label Bas-Carbone a l'echelle nationale.",
+    "phrase_engagement_social": "Le principe retenu est, a ce stade, celui d'une reprise a priori majoritaire des salaries, sous reserve de leur adequation aux besoins operationnels et de leur volonte de s'inscrire dans le projet collectif porte par Stock CO2",
+    "phrase_vision_strategique": "L'objectif principal de la reprise est d'eviter toute rupture dans le pilotage des projets forestiers deja labellises, lesquels reposent sur des engagements de gestion, de suivi et de reporting etales sur plusieurs decennies",
+    "phrase_justification_prix": "Ce prix a ete determine au regard, d'une part, du caractère public et non cessible de la methode 'Gestion forestière a stock continu', et, d'autre part, de l'etat d'avancement heterogène des projets composant le portefeuille repris. Il tient egalement compte des couts futurs significatifs"
+  }
+}

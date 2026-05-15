@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "offre_id": "35-DME-03",
+    "dossier_id": "35-DME",
+    "dossier_folder": "35 - SARL DME",
+    "fichier_source_pdf": "46_SARL_DME_offre3.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SARL DME",
+    "cible_siren": "925209926",
+    "naf_secteur": "Restauration",
+    "sous_secteur": "DONATIEN MAITRE ECLAIR",
+    "ca_dernier_exercice_eur": null, "ebitda_eur": null, "effectif_total": 1, "nb_sites": 1,
+    "type_procedure": "RJ", "date_ouverture": "2025-12-23", "dldo": "2026-02-02", "date_audience_cession": null,
+    "aj_nom": "Isabelle DIDIER", "aj_etude": "SELAS SPE O3 PARTNERS",
+    "mj_nom": "Jerome PIERREL", "mj_etude": "SELAS ETUDE JP",
+    "juge_commissaire": "Antoine GUINET", "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente", "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null, "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 2, "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Alan AL GEAAM (Chef etoile 1* Michelin 2018, restaurant ALAN GEAAM 19 rue Lauriston 75016). Groupe restauration Chef Alan Geaam : Auberge Nicolas Flamel + Boulangerie Nicolas Flamel + AG + bistrot Qasti + Saj + Qasti Shawarma & Grill. Holding AG INVEST (100%).",
+    "experience_sectorielle_oui_non": "oui", "experience_sectorielle_annees": null,
+    "track_record_reprises": ["Auberge Nicolas Flamel", "Boulangerie Nicolas Flamel", "Bistrot Qasti", "Saj"],
+    "capacite_financiere_demontree": "moyenne_documentee", "cautionnement_personnel": "NR",
+    "vehicule_reprise": {"forme_juridique": "SAS QASTI CHAWARMA AND GRILL", "date_creation": null, "capital_eur": 5000, "rcs": null, "kbis_present_en_annexe": false, "type_vehicule": "substitution_prevue"}
+  },
+  "structure_prix": {
+    "prix_total_eur": 5000,
+    "decomposition": {"incorporels_eur": 3000, "corporels_eur": 1500, "stocks_eur": 500, "creances_clients_eur": null, "immeubles_eur": null, "titres_eur": null},
+    "charges_augmentatives_eur": 355760,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Deniers personnels sans recours a l'emprunt ; virement de 1 000 EUR (20% du prix) effectue lors du depot ; solde a l'audience",
+    "cheque_consignation_eur": 1000
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail 72 rue Rambuteau 75001 Paris (avec avenant loyer progressif 84k-96k)"],
+    "credit_bail_repris": [], "contrats_clients_critiques_repris": [], "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": true,
+    "engagement_L642_12_montant_eur": 335115,
+    "passif_privilegie_repris": "Abandon de creances Banque Postale 50% sur 670 230 EUR soit 335 115 EUR (acceptation indispensable, a defaut caducite) + reconstitution depot garantie 20 645 EUR",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0, "nb_total_salaries": 1, "pct_reprise": 0.0,
+    "categories_reprises": null,
+    "categories_non_reprises_raisons": "Unique salarie = associe dirigeant (non repris)",
+    "maintien_conditions_anciennete_salaire_lieu": "non",
+    "plan_licenciement": {"nb": 1, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null, "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Chef etoile 1* Michelin 2018. 6 postes seront crees (3 salle + 3 cuisine) en prevision d'embauche. Groupe restauration parisien diversifie (haut de gamme + bistrot + boulangerie + shawarma).",
+    "vision_strategique_phrase": "Extraction diametre 400 (au lieu des deux extractions actuelles diametre 300) + bail loyer progressif",
+    "pivots_prevus": "Repositionnement shawarma+grill — extension activite Qasti",
+    "synergies_repreneur": "Integration au groupe Chef Alan Geaam", "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null, "capex_calendrier": null, "capex_nature": "Extraction diam.400 + bail progressif",
+    "plan_affaires_3ans_present": false, "ca_an1_eur": null, "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes", "maintien_site": "oui_total", "maintien_marques_savoir_faire": "non"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 5000, "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false, "dette_bancaire_lettre_confort": false, "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false, "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null, "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Century 21 Horeca Paris (Jean-Paul EUSEBIO, intermediaire)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null, "caution_dirigeant_montant_eur": null, "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null, "maintien_territoire_site_duree": null, "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false, "nb_conditions": 4,
+    "items": [
+      "Ajout des activites de Restauration et Vente a Emporter sur le bail",
+      "Baisse de loyer et signature d'un avenant pour loyer progressif : 84 000 EUR annee 1 et 2, 96 000 EUR annee 3",
+      "Autorisation du bailleur pour extraction diametre 400 (au lieu de 300)",
+      "Abandon de creances de la Banque Postale a hauteur de 50% sur les 670 230 EUR dus, soit 335 115 EUR (acceptation indispensable, a defaut caducite)"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null, "nb_pages_corps_offre": null, "nb_pages_annexes": null,
+    "structure_dominante": "lettre_simple", "ton_dominant": "commercial", "executive_summary_present": false,
+    "annexes_kbis": false, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false, "annexes_organigramme_cible": false, "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false, "annexes_rib": true, "annexes_cni_dirigeants": false,
+    "signature_docusign": true, "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false, "soutien_clients_cles": false, "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false, "personnalisation_rencontre_equipes": false, "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR", "differenciation_concurrents_explicite": false, "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Phrase 'La presente offre ne comporte aucune condition suspensive' contredit les 4 conditions explicitement listees plus haut", "Exige abandon 50% creance Banque Postale 335k — condition decisive"],
+    "declaration_L642_3_signee": false, "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": "Century 21 Horeca Paris (intermediaire, pas avocat)", "avocat_nom": "Jean-Paul EUSEBIO"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Chef Alan Geaam, 1 etoile Michelin 2018 — groupe restauration parisien",
+    "phrase_engagement_social": "0 salarie repris sur 1 (associe dirigeant non repris), 6 postes seront crees (3 salle + 3 cuisine) en prevision d'embauche",
+    "phrase_vision_strategique": "Extension activite Qasti Shawarma & Grill — extraction diam.400",
+    "phrase_justification_prix": "Prix global net vendeur 5 000 EUR (Incorporels 3 000 + Corporels 1 500 + Stocks 500). Total general avec depot garantie + abandon creance Banque Postale = 360 760 EUR"
+  }
+}
