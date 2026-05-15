@@ -1,0 +1,249 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Grille analyse offre de reprise — TC Paris",
+  "type": "object",
+  "description": "Une fiche par OFFRE. Voir _schema_dossier.json pour la fiche dossier.",
+  "required": ["meta", "identification", "issue_dossier", "profil_repreneur", "structure_prix", "volet_social", "plan_industriel", "financement", "forme_presentation"],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "properties": {
+        "offre_id": {"type": "string", "description": "ex: 34-01a, NEW-MINELLI-03"},
+        "dossier_id": {"type": "string"},
+        "dossier_folder": {"type": "string"},
+        "fichier_source_pdf": {"type": "string"},
+        "extracted_at": {"type": "string", "format": "date"},
+        "extracted_by": {"type": "string", "default": "claude-agent"},
+        "confidence": {"type": "string", "enum": ["high", "medium", "low", "partial_pdf_only"]}
+      }
+    },
+    "identification": {
+      "type": "object",
+      "properties": {
+        "cible_raison_sociale": {"type": "string"},
+        "cible_siren": {"type": ["string", "null"]},
+        "naf_secteur": {"type": ["string", "null"]},
+        "sous_secteur": {"type": ["string", "null"]},
+        "ca_dernier_exercice_eur": {"type": ["number", "null"]},
+        "ebitda_eur": {"type": ["number", "null"]},
+        "effectif_total": {"type": ["integer", "null"]},
+        "nb_sites": {"type": ["integer", "null"]},
+        "type_procedure": {"type": "string", "enum": ["RJ", "LJ", "LJ_poursuite", "sauvegarde", "plan_cession", "prepack", "NR"]},
+        "date_ouverture": {"type": ["string", "null"]},
+        "dldo": {"type": ["string", "null"]},
+        "date_audience_cession": {"type": ["string", "null"]},
+        "aj_nom": {"type": ["string", "null"]},
+        "aj_etude": {"type": ["string", "null"]},
+        "mj_nom": {"type": ["string", "null"]},
+        "mj_etude": {"type": ["string", "null"]},
+        "juge_commissaire": {"type": ["string", "null"]},
+        "causes_defaillance": {"type": ["string", "null"]}
+      }
+    },
+    "issue_dossier": {
+      "type": "object",
+      "properties": {
+        "cette_offre_retenue": {"type": "string", "enum": ["oui", "non", "amelioree_puis_retenue", "en_attente", "NR"]},
+        "issue_globale_dossier": {"type": "string", "enum": ["plan_cession_arrete", "liquidation", "plan_continuation", "en_attente", "NR"]},
+        "motifs_tribunal_verbatim": {"type": ["string", "null"]},
+        "motifs_rejet_verbatim": {"type": ["string", "null"]},
+        "nb_offres_concurrentes": {"type": ["integer", "null"]},
+        "concurrents_resume": {"type": "array", "items": {"type": "object", "properties": {"nom": {"type": "string"}, "positionnement_2lignes": {"type": "string"}}}}
+      }
+    },
+    "profil_repreneur": {
+      "type": "object",
+      "properties": {
+        "forme": {"type": "string", "enum": ["pp_seule", "dirigeant_historique", "salaries", "societe_existante_concurrent", "societe_existante_industriel", "societe_existante_client", "societe_existante_fournisseur", "holding_ad_hoc", "fonds_pe", "family_office", "repreneur_etranger", "asso_collectivite", "NR"]},
+        "age_parcours_dirigeant": {"type": ["string", "null"]},
+        "experience_sectorielle_oui_non": {"type": "string", "enum": ["oui", "non", "partielle", "NR"]},
+        "experience_sectorielle_annees": {"type": ["integer", "null"]},
+        "track_record_reprises": {"type": "array", "items": {"type": "string"}, "description": "ex: ['Smallable', 'Bonne Gueule', 'Bouchara']"},
+        "capacite_financiere_demontree": {"type": "string", "enum": ["forte_documentee", "moyenne_documentee", "faible_documentee", "intention_seule", "NR"]},
+        "cautionnement_personnel": {"type": "string", "enum": ["oui", "non", "NR"]},
+        "vehicule_reprise": {
+          "type": "object",
+          "properties": {
+            "forme_juridique": {"type": ["string", "null"]},
+            "date_creation": {"type": ["string", "null"]},
+            "capital_eur": {"type": ["number", "null"]},
+            "rcs": {"type": ["string", "null"]},
+            "kbis_present_en_annexe": {"type": "boolean"},
+            "type_vehicule": {"type": "string", "enum": ["existante", "newco", "substitution_prevue", "NR"]}
+          }
+        }
+      }
+    },
+    "structure_prix": {
+      "type": "object",
+      "properties": {
+        "prix_total_eur": {"type": ["number", "null"]},
+        "decomposition": {
+          "type": "object",
+          "properties": {
+            "incorporels_eur": {"type": ["number", "null"]},
+            "corporels_eur": {"type": ["number", "null"]},
+            "stocks_eur": {"type": ["number", "null"]},
+            "creances_clients_eur": {"type": ["number", "null"]},
+            "immeubles_eur": {"type": ["number", "null"]},
+            "titres_eur": {"type": ["number", "null"]}
+          }
+        },
+        "charges_augmentatives_eur": {"type": ["number", "null"]},
+        "modalites_paiement": {"type": "string", "enum": ["comptant_audience", "sequestre", "credit_vendeur_echeancier", "mixte", "NR"]},
+        "garanties_paiement": {"type": ["string", "null"]},
+        "cheque_consignation_eur": {"type": ["number", "null"]}
+      }
+    },
+    "reprise_passif": {
+      "type": "object",
+      "properties": {
+        "baux_repris": {"type": "array", "items": {"type": "string"}},
+        "credit_bail_repris": {"type": "array", "items": {"type": "string"}},
+        "contrats_clients_critiques_repris": {"type": "array", "items": {"type": "string"}},
+        "contrats_fournisseurs_repris": {"type": "array", "items": {"type": "string"}},
+        "engagements_L642_12_al4": {"type": "boolean", "description": "Reprise du prêt bancaire avec sûreté"},
+        "engagement_L642_12_montant_eur": {"type": ["number", "null"]},
+        "passif_privilegie_repris": {"type": ["string", "null"]},
+        "retraites_chapeau_indemnites": {"type": ["string", "null"]}
+      }
+    },
+    "volet_social": {
+      "type": "object",
+      "properties": {
+        "nb_salaries_repris": {"type": ["integer", "null"]},
+        "nb_total_salaries": {"type": ["integer", "null"]},
+        "pct_reprise": {"type": ["number", "null"]},
+        "categories_reprises": {"type": ["string", "null"]},
+        "categories_non_reprises_raisons": {"type": ["string", "null"]},
+        "maintien_conditions_anciennete_salaire_lieu": {"type": "string", "enum": ["oui_total", "partiel", "non", "NR"]},
+        "plan_licenciement": {
+          "type": "object",
+          "properties": {
+            "nb": {"type": ["integer", "null"]},
+            "calendrier": {"type": ["string", "null"]},
+            "indemnites": {"type": ["string", "null"]},
+            "accompagnement": {"type": ["string", "null"]}
+          }
+        },
+        "engagement_maintien_emplois_duree_mois": {"type": ["integer", "null"]},
+        "sanction_non_respect_emplois": {"type": ["string", "null"]},
+        "relations_irp_cse_mention": {"type": "boolean"}
+      }
+    },
+    "plan_industriel": {
+      "type": "object",
+      "properties": {
+        "diagnostic_qualification": {"type": "string", "enum": ["superficiel", "operationnel", "structurel", "absent", "NR"]},
+        "diagnostic_resume": {"type": ["string", "null"]},
+        "vision_strategique_phrase": {"type": ["string", "null"]},
+        "pivots_prevus": {"type": ["string", "null"]},
+        "synergies_repreneur": {"type": ["string", "null"]},
+        "synergies_chiffrees_eur": {"type": ["number", "null"]},
+        "capex_montant_eur": {"type": ["number", "null"]},
+        "capex_calendrier": {"type": ["string", "null"]},
+        "capex_nature": {"type": ["string", "null"]},
+        "plan_affaires_3ans_present": {"type": "boolean"},
+        "ca_an1_eur": {"type": ["number", "null"]},
+        "ca_an2_eur": {"type": ["number", "null"]},
+        "ca_an3_eur": {"type": ["number", "null"]},
+        "ebitda_an3_eur": {"type": ["number", "null"]},
+        "hypotheses_qualification": {"type": "string", "enum": ["prudentes", "realistes", "agressives", "absentes", "NR"]},
+        "maintien_site": {"type": "string", "enum": ["oui_total", "partiel", "non", "NR"]},
+        "maintien_marques_savoir_faire": {"type": "string", "enum": ["oui", "partiel", "non", "NR"]}
+      }
+    },
+    "financement": {
+      "type": "object",
+      "properties": {
+        "apport_fonds_propres_eur": {"type": ["number", "null"]},
+        "apport_origine_documentee": {"type": "string", "enum": ["oui_rib_attestation", "oui_simple_mention", "non", "NR"]},
+        "dette_bancaire_engagement_ferme": {"type": "boolean"},
+        "dette_bancaire_lettre_confort": {"type": "boolean"},
+        "dette_bancaire_montant_eur": {"type": ["number", "null"]},
+        "credit_bail_repris_oui_non": {"type": "boolean"},
+        "affacturage_dailly": {"type": "boolean"},
+        "bfr_redemarrage_eur": {"type": ["number", "null"]},
+        "tresorerie_securite_eur": {"type": ["number", "null"]},
+        "partenaires_financiers": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "engagements_specifiques": {
+      "type": "object",
+      "properties": {
+        "incessibilite_temporaire_mois": {"type": ["integer", "null"]},
+        "caution_dirigeant_montant_eur": {"type": ["number", "null"]},
+        "caution_dirigeant_duree_mois": {"type": ["integer", "null"]},
+        "penalites_non_respect_social_eur": {"type": ["number", "null"]},
+        "maintien_territoire_site_duree": {"type": ["string", "null"]},
+        "non_demembrement": {"type": "boolean"}
+      }
+    },
+    "conditions_suspensives": {
+      "type": "object",
+      "properties": {
+        "aucune_cs": {"type": "boolean"},
+        "nb_conditions": {"type": ["integer", "null"]},
+        "items": {"type": "array", "items": {"type": "string"}},
+        "agressivite_envers_dirigeants": {"type": "string", "enum": ["aucune", "moderee", "forte_clause_non_sollicitation", "NR"]}
+      }
+    },
+    "forme_presentation": {
+      "type": "object",
+      "properties": {
+        "nb_pages_total": {"type": ["integer", "null"]},
+        "nb_pages_corps_offre": {"type": ["integer", "null"]},
+        "nb_pages_annexes": {"type": ["integer", "null"]},
+        "structure_dominante": {"type": "string", "enum": ["sommaire_detaille", "lettre_simple", "mix", "NR"]},
+        "ton_dominant": {"type": "string", "enum": ["technique", "commercial", "juridique", "mixte", "narratif", "NR"]},
+        "executive_summary_present": {"type": "boolean"},
+        "annexes_kbis": {"type": "boolean"},
+        "annexes_cv_dirigeants": {"type": "boolean"},
+        "annexes_attest_bancaire": {"type": "boolean"},
+        "annexes_lettres_soutien_clients": {"type": "boolean"},
+        "annexes_lettres_soutien_collectivites": {"type": "boolean"},
+        "annexes_business_plan": {"type": "boolean"},
+        "annexes_organigramme_cible": {"type": "boolean"},
+        "annexes_comptes_sociaux_3ans": {"type": "boolean"},
+        "annexes_attest_fisc_sociale": {"type": "boolean"},
+        "annexes_rib": {"type": "boolean"},
+        "annexes_cni_dirigeants": {"type": "boolean"},
+        "signature_docusign": {"type": "boolean"},
+        "qualite_redactionnelle": {"type": "string", "enum": ["claire", "dense", "confuse", "ampoulee", "NR"]}
+      }
+    },
+    "signaux_faibles": {
+      "type": "object",
+      "properties": {
+        "soutien_collectivite_locale": {"type": "boolean"},
+        "soutien_clients_cles": {"type": "boolean"},
+        "soutien_banques_historiques": {"type": "boolean"},
+        "personnalisation_visite_site": {"type": "boolean"},
+        "personnalisation_rencontre_equipes": {"type": "boolean"},
+        "personnalisation_etude_contrats": {"type": "boolean"},
+        "coherence_prix_BP": {"type": "string", "enum": ["coherent", "incoherent", "NR"]},
+        "differenciation_concurrents_explicite": {"type": "boolean"},
+        "elements_emotionnels_sociaux": {"type": "boolean"},
+        "erreurs_apparentes": {"type": "array", "items": {"type": "string"}},
+        "declaration_L642_3_signee": {"type": "boolean"},
+        "faculte_substitution_precise": {"type": "boolean"}
+      }
+    },
+    "avocat_repreneur": {
+      "type": "object",
+      "properties": {
+        "cabinet": {"type": ["string", "null"]},
+        "avocat_nom": {"type": ["string", "null"]}
+      }
+    },
+    "extraits_remarquables": {
+      "type": "object",
+      "properties": {
+        "phrase_positionnement": {"type": ["string", "null"], "description": "Verbatim de la phrase de positionnement du repreneur"},
+        "phrase_engagement_social": {"type": ["string", "null"]},
+        "phrase_vision_strategique": {"type": ["string", "null"]},
+        "phrase_justification_prix": {"type": ["string", "null"]}
+      }
+    }
+  }
+}
