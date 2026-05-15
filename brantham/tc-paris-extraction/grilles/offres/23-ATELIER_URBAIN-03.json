@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "offre_id": "23-ATELIER_URBAIN-03",
+    "dossier_id": "23-ATELIER_URBAIN",
+    "dossier_folder": "23 - SCI ATELIER URBAIN",
+    "fichier_source_pdf": "23_SCI_ATELIER_URBAIN_offre11.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI ATELIER URBAIN (offre AEB INVEST dediee)",
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "Actif immobilier ATELIER URBAIN (asset deal dedie)",
+    "type_procedure": "RJ",
+    "dldo": "2026-03-02",
+    "aj_nom": "Maitre Helene BOURBOULOUX",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "causes_defaillance": "Defaillance groupe Melot-Gouband ('Affaire Balthazar')"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_rejet_verbatim": "Proposition indicative AEB INVEST dediee ATELIER URBAIN - prix net vendeur 1 000 000 EUR (vs 880k MUVICO globale amelioree). Faculte substitution filiale. Couts debouclage surete inclus.",
+    "nb_offres_concurrentes": 11
+  },
+  "profil_repreneur": {
+    "forme": "holding_ad_hoc",
+    "age_parcours_dirigeant": "Amine EL Bounaamani (President AEB Invest)",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "intention_seule",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "capital_eur": 2000,
+      "rcs": "951815414 RCS Paris",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 1000000,
+    "decomposition": {
+      "immeubles_eur": 1000000
+    },
+    "modalites_paiement": "NR",
+    "garanties_paiement": "Prix net vendeur. Couts debouclage surete inclus."
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "plan_licenciement": {}
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "vision_strategique_phrase": "Prise de participation dans entreprises immobilier France/etranger",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "NR"
+  },
+  "financement": {
+    "apport_origine_documentee": "non",
+    "dette_bancaire_engagement_ferme": false,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": null,
+    "items": ["Due diligences (ajustement possible si informations inexactes ou erronees)"],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": true,
+    "erreurs_apparentes": [],
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {
+    "phrase_positionnement": "AEB INVEST agit pour le compte d'un acquereur (qui pourra substituer une de ses filiales)",
+    "phrase_justification_prix": "Prix net vendeur 1 000 000 EUR. Frais notaire et droits de mutation a charge de l'Acquereur. Couts debouclage surete inclus."
+  }
+}

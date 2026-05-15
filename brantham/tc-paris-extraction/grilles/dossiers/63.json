@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "dossier_id": "63",
+    "dossier_folder": "63 - Association FEDERATION UNIE DES AUBERGES DE JEUNES",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "Federation Unie des Auberges de Jeunesse (FUAJ)",
+    "cible_siren": "775674260",
+    "naf_secteur": "Tourisme social / Hébergement / ESS",
+    "sous_secteur": "Reseau auberges de jeunesse (5000 lits / ~80 etablissements en propre + reseau Hostelling International)",
+    "ca_dernier_exercice_eur": 30600000,
+    "ebitda_eur": -996000,
+    "effectif_total": 317,
+    "nb_sites": 40,
+    "type_procedure": "LJ_poursuite",
+    "date_ouverture": "2026-03-02",
+    "dldo": "2026-04-10",
+    "date_audience_cession": null,
+    "aj_nom": "Me Lou FLECHARD / Me Manuel BOUYER",
+    "aj_etude": "SCP CBF Associes / SELAS BL & Associes",
+    "mj_nom": "Me Gilles PELLEGRINI / Me Stephane GORRIAS",
+    "mj_etude": "SCP BTSG2 (Gorrias) / Me Pellegrini",
+    "juge_commissaire": "Remi GRENIER (designe 17/03/2026)",
+    "causes_defaillance": "Echec du plan de redressement 2019 (modifie 2021, etendu 11 ans). 3e echeance non honoree 05/09/2024 (impact Covid + couts energie + echec cessions Seez 73 / Nice 06). Resolution du plan + LJ avec poursuite d'activite 3 mois par jugement 02/03/2026. EBITDA structurellement deficitaire (-996k€ 2024). Dette < 1 an : 11,3M€ en 2024 (ratio couv 0,13). Dette fiscale et sociale > 5M€.",
+    "tribunal": "Tribunal judiciaire de Paris (renvoi TAE Paris jugement du 17/03/2026)",
+    "nb_offres_recues": 14,
+    "actif_principal": "Reseau ~80 auberges (8 sites en pleine propriete, 36 etablissements secondaires en baux/conventions/emphyteoses). Capacite totale ~5000 lits / 40 etablissements en propre. Auberges propres notables : Nice Les Camelias, Paris Yves Robert, Paris Le D'Artagnan, Chamonix Mont-Blanc, Belle-Ile-en-Mer, Le Mont-Dore, Ile de Groix, La Clusaz, Serre-Chevalier, Beaulieu-sur-Dordogne, Annecy, Chamrousse, Brides-les-Bains, Boulogne-sur-Mer, Arles, Lille, Amiens, Poitiers, Paimpont, Cancale, Avignon, Nimes, Cahors, Grenoble, Clermont-Ferrand, Marseille, Strasbourg.",
+    "fourchette_offres_eur": "1 (ADVI PROM symbolique avec charge augmentative 457k€ / AAG56 sur Groix) - 1 830 000 (ADRET 1365 sur 3 sites)",
+    "filiales": "HI France Exploitation (SASU 990053644 — 2 auberges 15 ETP), HI France Services (SAS 995728439 — mutualisation), FUAJ Gestion (SAS 989695606 — holding), Fonciere HI France (SCA 992657403 — portage immo). Participations : Au 235 (SCIC 948062465) 50%, Hostel Vieux Lyon (SAS 510259486) 34%, La Grande Echelle (SAS 942986688) 5%, Hostel Rennes (SAS 950511189) 34%",
+    "ca_evolution": "CA 2024 ~30,6M€ / 2023 ~29M€ / 2022 ~23,6M€. EBITDA 2024 -996k€ / 2023 -786k€ / 2022 -2326k€"
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_recues_total": 14,
+    "audience_prevue": null,
+    "notes": "Dossier hôtellerie sociale très dense. 14 offres, fourchette 1€ (symbolique) à 1,83M€ (ADRET 1365). Patterns observés : (a) reprises partielles cherry-picking sur sites premium (Nice Camelias = 4 candidats : Delaforge 250k volet Nice, Femina Styl 200k, Cosmiques 200k, Atalante 500k) ; (b) reprises globales multi-sites (BRAXTON 100k sur 9+14 sites, ADVI PROM 1€ sur 7 sites + 457k charge augmentative, ADRET 1365 1,83M€ sur 3 sites premium montagne) ; (c) lettre d'intention co-investissement immobilier sans reprise exploitation (BreizhTourisme sur Belle-Ile) ; (d) collectivité publique (Commune Beaulieu-sur-Dordogne 70k€ sans reprise emplois) ; (e) association locale (FOL74 Annecy 20k+100k charges, AAG56 Groix 1€). Concurrence très forte sur Nice Camelias (4 offrants), Mont-Dore/La Clusaz/Serre-Chevalier (Adret 1365 vs BRAXTON). Tribunal devra arbitrer entre offres globales (sécurisation maillage national) et offres sectorielles partielles (cherry-picking sites rentables). Précédent Minelli (refus offres partielles) à surveiller — mais ici la FUAJ a 14 offres dont 3 globales (BRAXTON, ADVI PROM, ADRET 1365)."
+  },
+  "links_related_offres": [
+    "63-01",
+    "63-02",
+    "63-03",
+    "63-04",
+    "63-05",
+    "63-06",
+    "63-07",
+    "63-08",
+    "63-09",
+    "63-10",
+    "63-11",
+    "63-12",
+    "63-13",
+    "63-14"
+  ]
+}

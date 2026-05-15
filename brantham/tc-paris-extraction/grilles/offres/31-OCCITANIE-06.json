@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "offre_id": "31-OCCITANIE-06",
+    "dossier_id": "31-OCCITANIE",
+    "dossier_folder": "31 - SAS ALPHA CAMPING OCCITANIE",
+    "fichier_source_pdf": "offre_06_gd71720779.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS ALPHA CAMPING OCCITANIE",
+    "cible_siren": "912368370",
+    "naf_secteur": "Hotellerie de plein air (NAF 55.30Z)",
+    "sous_secteur": "Campings BARBEROUSSE (3*) + SOLEIL D'OC (4*) — exploites sous enseigne 'Seasonova'",
+    "ca_dernier_exercice_eur": 2197445, "ebitda_eur": -101873, "effectif_total": 7, "nb_sites": 3,
+    "type_procedure": "RJ", "date_ouverture": "2025-11-12", "dldo": "2025-12-17",
+    "date_audience_cession": "2026-04-02 (audience principale)",
+    "aj_nom": "Maxime LANGET / Lou FLECHARD", "aj_etude": "SELAS BL & ASSOCIES / SCP CBF ASSOCIES",
+    "mj_nom": "Florian LACOUR / Camille STEINER", "mj_etude": "SELAFA MJA / SELARL ATHENA",
+    "juge_commissaire": "Franck MEYNAUD",
+    "causes_defaillance": "Croissance non maitrisee, sous-performance saison 2024, frais siege disproportionnes"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "oui", "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Demantelement accepte par tribunal quand offres consolidees par lots coherents (gestion directe Seasonova vs franchises Maeva). Repreneur sectoriel strategique avec continuite emploi.",
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 5,
+    "concurrents_resume": [
+      {"nom": "HUTTOPIA SA", "positionnement_2lignes": "Barberousse seul, indivisible Alpha"},
+      {"nom": "HPA MEDITERRANEO (Baumstark)", "positionnement_2lignes": "Soleil d'Oc seul"},
+      {"nom": "PLANETE MOBIL HOMES", "positionnement_2lignes": "Barberousse cherry-picking"},
+      {"nom": "CAMPALDIA (Peron-Magnan)", "positionnement_2lignes": "3 EUR symbolique groupe 4* haut de gamme"},
+      {"nom": "FEMINA STYL + MARENGO", "positionnement_2lignes": "150k Groupe Le Royon, deja franchise Camping Paradis"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Guillaume Lemarchand (gerant et associe unique 100%). Master gestion entreprises + Master developpement touristique. Intervenant Universite Angers Reglementation environnement HPA 3e annee Licence. Jury Titre Professionnel Responsable Etablissement Touristique. Membre FNHPA. Premier camping Le Point du Jour Merville-Franceville (14) en 2008 — x3,5 le CA, meilleur camping 2012 Qualite Accueil. Groupe fonde 2011.",
+    "experience_sectorielle_oui_non": "oui", "experience_sectorielle_annees": 18,
+    "track_record_reprises": ["Le Point du Jour Merville-Franceville 2008 (CA x3,5)", "Veules-les-Roses 2009 (Cle Verte)", "20 campings groupe Seasonova"],
+    "capacite_financiere_demontree": "forte_documentee", "cautionnement_personnel": "NR",
+    "vehicule_reprise": {"forme_juridique": "EURL", "date_creation": "2011", "capital_eur": 600000, "rcs": "538695560", "kbis_present_en_annexe": true, "type_vehicule": "substitution_prevue"}
+  },
+  "structure_prix": {
+    "prix_total_eur": 2,
+    "decomposition": {"incorporels_eur": 1, "corporels_eur": 1, "stocks_eur": null, "creances_clients_eur": null, "immeubles_eur": null, "titres_eur": null},
+    "charges_augmentatives_eur": null, "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds propres", "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["DSP Office Tourisme Gruissan", "Location-Gerance SAS LORMED (Soleil d'Oc)"],
+    "credit_bail_repris": ["Liste precise des credits-bail poursuivis (condition suspensive)"],
+    "contrats_clients_critiques_repris": [], "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false, "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Confirmation AJ que Actifs Repris ne font pas l'objet de financements L.642-12 al.4 (condition suspensive)",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 5, "nb_total_salaries": 5, "pct_reprise": 100.0,
+    "categories_reprises": "Reprise integralite 5 salaries des 2 campings repris",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 0, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": 12, "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Groupe SEASONOVA (Campings Slow Life) — 20 campings 100-200 emplacements moyenne 150 empl/camping en France. Communaute Coq Vert + Cle Verte + Eco Label Europeen + Qualite Tourisme. Centrale reservation 20-55k visites/mois. Comptes consolides 2024 : CA 8,32M / EBITDA 1,685M / Capitaux propres 4,751M / Dettes financieres nettes 6,746M. Atterrissage 2025 : 9,8M. 60 salaries moyenne (jusqu'a 120 haute saison).",
+    "vision_strategique_phrase": "Reprise avec exploitation sous nouvelle enseigne 'Seasonova' (sortie franchises Camping Paradis/Ushuaia/Bel Air Villages)",
+    "pivots_prevus": "Sortie franchises retail + repositionnement Seasonova Slow Life",
+    "synergies_repreneur": "Centrale reservation commune + Ecologic Program (1,2 ha foret + 929 t CO2 fixe + 1 935 arbres plantes)",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null, "capex_calendrier": null,
+    "capex_nature": "Investissements post-reprise via partenaire financier (condition suspensive)",
+    "plan_affaires_3ans_present": false, "ca_an1_eur": null, "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null,
+    "hypotheses_qualification": "NR", "maintien_site": "oui_total", "maintien_marques_savoir_faire": "non"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null, "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false, "dette_bancaire_lettre_confort": true, "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": true, "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null, "tresorerie_securite_eur": null, "partenaires_financiers": ["Fonds propres"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null, "caution_dirigeant_montant_eur": null, "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null, "maintien_territoire_site_duree": null, "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false, "nb_conditions": 8,
+    "items": [
+      "Finalisation due diligence commerciales/financieres/techniques/fiscales/juridiques/sociales satisfaisantes",
+      "Communication declarations creances banques et credits-bailleurs au passif",
+      "Liste precise des credits-bail poursuivis",
+      "Liste a jour des contrats en cours",
+      "Confirmation AJ que Actifs Repris ne font pas l'objet de financements L.642-12 al.4",
+      "Transfert autorisations administratives Campings Repris",
+      "Accord partenaire financier pour investissements post-reprise",
+      "Absence modification substantielle alterant nature/consistance/valeur marchande"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null, "nb_pages_corps_offre": null, "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille", "ton_dominant": "narratif", "executive_summary_present": true,
+    "annexes_kbis": true, "annexes_cv_dirigeants": true, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false, "annexes_organigramme_cible": true, "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false, "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": true, "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false, "soutien_clients_cles": false, "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false, "personnalisation_rencontre_equipes": false, "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR", "differenciation_concurrents_explicite": true, "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": ["Prix 2 EUR provisoire — evoluera lors phase amelioration"],
+    "declaration_L642_3_signee": false, "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe SEASONOVA — Campings Slow Life, 20 campings, Communaute Coq Vert + Cle Verte + Eco Label Europeen",
+    "phrase_engagement_social": "Reprise integralite 5 salaries des 2 campings repris. Engagement aucun licenciement economique 12 mois apres entree en jouissance",
+    "phrase_vision_strategique": "Ecologic Program : 1,2 ha foret + 929 t CO2 fixe + 1 935 arbres plantes",
+    "phrase_justification_prix": "Prix provisoire 2 EUR (1 incorporels + 1 corporels) — evoluera lors phase amelioration selon perimetre definitif"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "offre_id": "12-01",
+    "dossier_id": "12",
+    "dossier_folder": "12 - SAS ALDADDY",
+    "fichier_source_pdf": "offre_01_gd74678673.pdf (+ 14 JPG par page)",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS ALDADDY (marque NUS)",
+    "cible_siren": null,
+    "naf_secteur": "Textile / Mode premium",
+    "sous_secteur": "Lin, fibres naturelles, accessoires de mode BtoB (hôtellerie/restauration/viticulture/corporate)",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 0,
+    "nb_sites": null,
+    "type_procedure": "plan_cession",
+    "date_ouverture": null,
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Me Jean-Baptiste ALBERTINI",
+    "aj_etude": "SELARL DETROIT",
+    "mj_nom": null,
+    "mj_etude": null,
+    "juge_commissaire": null,
+    "causes_defaillance": "Société cédée sans personnel salarié à la date du dépôt de l'offre — pattern 'coquille' avec marque comme principal actif"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 0,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "holding_ad_hoc",
+    "age_parcours_dirigeant": "Charles YVON (Président BRUMES SAS, né 02/10/1987 à Cherbourg-en-Cotentin, 38 ans). Aucun lien capitalistique avec dirigeants ALDADDY (déclaration L.642-3).",
+    "experience_sectorielle_oui_non": "NR",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": "2025-08-11",
+      "capital_eur": 1000,
+      "rcs": "989805064",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 9000,
+    "decomposition": {
+      "incorporels_eur": 5000,
+      "corporels_eur": null,
+      "stocks_eur": 4000,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Paiement comptant garanti par caution bancaire (Annexe 5) conforme modèle AJ",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 0,
+    "pct_reprise": null,
+    "categories_reprises": null,
+    "categories_non_reprises_raisons": "Société cédée sans personnel salarié à la date du dépôt de l'offre",
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": 0, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Reprise marque NUS pour relance BtoB premium : hôtellerie/restauration, viticulture/négoce, corporate. Personnalisation textile (broderie, marquage, capsules sur-mesure, séries limitées). Prévu site internet vitrine + BtoC complémentaire ciblé.",
+    "vision_strategique_phrase": "Relancer la marque NUS avec un positionnement BtoB premium textile lin (hôtellerie, restauration, viticulture, corporate) et complément BtoC ciblé via site internet",
+    "pivots_prevus": "Repositionnement clair BtoB premium + BtoC complémentaire",
+    "synergies_repreneur": null,
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 280000,
+    "ca_an2_eur": 505000,
+    "ca_an3_eur": 710000,
+    "ebitda_an3_eur": 57000,
+    "hypotheses_qualification": "agressives",
+    "maintien_site": "NR",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["LA HORSE SAS 40%", "YNOVA SAS 40%", "BNG INVESTISSEMENTS SAS 20%", "DG COMYFORM SARL (RCS Caen)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "Engagements durée minimale 3 ans à compter du jugement",
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 14,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "commercial",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": true,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Holding ad hoc créée 11/08/2025 — 6 mois avant offre, premier exercice non clos", "BP agressif (x2,5 en 3 ans : 280k→710k) sans historique BRUMES démontré", "Pas de salariés cible = pas de volet social débattable, mais aussi pas de continuité métier"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Cible BtoB premium : hôtellerie, restauration et métiers de bouche, domaines viticoles et maisons de négoce, entreprises, textile corporate premium et dotations professionnelles.",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": "Personnalisation textile (broderie, marquage, capsules sur-mesure, séries limitées). Prévu : site internet vitrine + BtoC complémentaire cible.",
+    "phrase_justification_prix": "Actifs incorporels marque NUS + droits PI : 5000€ + Stocks sélectionnés : 4000€ = 9000€"
+  }
+}

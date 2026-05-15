@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "offre_id": "ISIS-04",
+    "dossier_id": "ISIS",
+    "dossier_folder": "10 - SCI ISIS",
+    "fichier_source_pdf": "10_SCI_ISIS_offre4.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "low"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI ISIS",
+    "naf_secteur": "Immobilier",
+    "effectif_total": 0,
+    "type_procedure": "RJ",
+    "dldo": "2026-03-02",
+    "aj_nom": "Maitre Helene BOURBOULOUX",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_rejet_verbatim": "Doublon physique de ISIS-03 (MUVICO Victor COHEN)",
+    "nb_offres_concurrentes": 8
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Victor COHEN (MUVICO)",
+    "experience_sectorielle_oui_non": "oui",
+    "capacite_financiere_demontree": "NR",
+    "vehicule_reprise": {
+      "type_vehicule": "existante",
+      "kbis_present_en_annexe": false
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 240000,
+    "decomposition": {"immeubles_eur": 240000},
+    "modalites_paiement": "NR"
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "pct_reprise": null
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "NR"
+  },
+  "financement": {
+    "partenaires_financiers": []
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "agressivite_envers_dirigeants": "NR"
+  },
+  "forme_presentation": {
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "erreurs_apparentes": ["Doublon physique de ISIS-03 - PDF >5MB non extrait"]
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {}
+}

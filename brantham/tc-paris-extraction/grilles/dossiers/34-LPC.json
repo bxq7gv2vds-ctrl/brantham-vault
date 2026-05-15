@@ -1,0 +1,27 @@
+{
+  "meta": {"dossier_id": "34-LPC", "dossier_folder": "34 - SAS LPC", "extracted_at": "2026-05-15", "extracted_by": "claude-agent-batch08", "confidence": "high"},
+  "identification": {
+    "cible_raison_sociale": "LPC",
+    "cible_siren": "950445809",
+    "naf_secteur": null,
+    "sous_secteur": "Conditionnement ensachage transformation fruits/légumes (filière pommes Val de Loire INNATIS)",
+    "ca_dernier_exercice_eur": 4326631,
+    "ebitda_eur": null,
+    "effectif_total": 26,
+    "nb_sites": 3,
+    "type_procedure": "sauvegarde",
+    "date_ouverture": "2025-09-29",
+    "dldo": "2026-03-18",
+    "date_audience_cession": "2026-04-30",
+    "aj_nom": "Maître Marine PACE / Maître Paul-Henri AUDRAS",
+    "aj_etude": "SELARL 2M&ASSOCIES / SELAS AJ UP",
+    "mj_nom": "Maître Valérie LELOUP-THOMAS / Maître Marie-Charlotte THIRION",
+    "mj_etude": "SELAFA MJA / SELARL ATHENA",
+    "juge_commissaire": "Monsieur WEHBI Joseph",
+    "causes_defaillance": "Filiale INNATIS pôle Val de Loire — CA 4,3M€ / RN -905K€ / RE -965K€. Demande conversion sauvegarde → RJ."
+  },
+  "groupe_dossiers_lies": ["34-LPC", "LVL-POMANJOU", "SCICA-POMANJOU", "SCEA-CHAUSSEE", "SCEA-LAUNAY", "SCEA-REINETTE", "SCEA-VAULEARD", "SCEA-DENIOLAY", "SCEA-PLESSE", "SCEA-BEAUVALLON", "CAVL"],
+  "nb_offres_recues": 4,
+  "notes": "Filiale INNATIS (70,5% INNATIS SAS + 12,50% LVL POMANJOU). 3 sites : Océane (Verrières), La Chapelle (Aubrière 72300 — terrain 27247m² + bâtiment 5100m² 1,7M€), Ecoufflant. Lignes emballage VNC 2,5M€. Offres 03 et 04 = DOUBLON technique strict (même Docusign envelope 79E2E104). Source gagnants-tribunal.md confirme : Les Vergers d'Anjou retenu (audience 30/04/2026, prix 7M€ pour le pôle ligérien complet) ; consortium CASTEL+LEROY+VCAPITAL écarté.",
+  "issue_globale_dossier": "plan_cession_arrete"
+}

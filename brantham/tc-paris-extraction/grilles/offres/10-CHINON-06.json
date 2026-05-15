@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "offre_id": "10-CHINON-06",
+    "dossier_id": "10",
+    "dossier_folder": "10 - SARL LE CHINON",
+    "fichier_source_pdf": "offre_06_gd74427710.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SARL LE CHINON",
+    "cible_siren": "420429029",
+    "naf_secteur": "Restauration",
+    "sous_secteur": "Cafe, buvette, brasserie, restaurant - Montmartre (49 rue des Abbesses 75018)",
+    "ca_dernier_exercice_eur": 1200000,
+    "ebitda_eur": null,
+    "effectif_total": 8,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-06-11",
+    "dldo": "2026-02-03",
+    "date_audience_cession": "2026-03-30",
+    "aj_nom": "Maitre Nicolas LOYER",
+    "aj_etude": "SELARL AJ MEYNET & ASSOCIES",
+    "mj_nom": "Maitre Sabine ROCHER",
+    "mj_etude": "SELARL ASTEREN",
+    "juge_commissaire": "Monsieur Olivier DUBOUREAU",
+    "causes_defaillance": "Perte 65K EUR 2024 / capitaux propres negatifs / dirigeant historique Arnaud ATLAN depuis 2018"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "nb_offres_concurrentes": 9,
+    "concurrents_resume": [
+      {
+        "nom": "HIPPO SF (Pierre Jean Pouletty)",
+        "positionnement_2lignes": "501370 EUR - holding patrimoniale, ex-Rubik 18 ans + Cromology - reprise 8/8 + 2 embauches"
+      },
+      {
+        "nom": "Romain DI CRESCENZO",
+        "positionnement_2lignes": "100000 EUR - PP exploitant Cafe Gabrielle Paris 17 - reprise 4/8 - cheque banque audience"
+      },
+      {
+        "nom": "ANGELVY/BRIOUDE (BRIANGE)",
+        "positionnement_2lignes": "200000 EUR - groupe BRIANGE 4 etablissements Paris - reprise 8/8"
+      },
+      {
+        "nom": "Alain HAOUANOH",
+        "positionnement_2lignes": "350000 EUR - PP exploitant Le Voltigeur Paris 11 - reprise 8/8 - aucune CS"
+      },
+      {
+        "nom": "JEMA (famille ALBARET)",
+        "positionnement_2lignes": "500500 EUR - holding cafes/bars/brasseries - reprise 5/8"
+      },
+      {
+        "nom": "FINANCIERE DAUNOU 9 / FOUGEDOIRE",
+        "positionnement_2lignes": "400000 EUR - holding G. DE BOIS + Marc Fougedoire 4 etabl. Paris - reprise 8/8 - aucune CS"
+      },
+      {
+        "nom": "XB HOLDING (Xavier BOUDOUMA)",
+        "positionnement_2lignes": "500000 EUR - groupe XB 4 brasseries Paris dont XB Montmartre - reprise 8/8"
+      },
+      {
+        "nom": "PAMAJU (Arnaud WILHELM)",
+        "positionnement_2lignes": "550000 EUR - holding Le Nazir + Le Saint-Jean rue Abbesses - reprise 8/8 - 6 CS"
+      },
+      {
+        "nom": "4-M / CKM.18 (MONCAN+MAGNE)",
+        "positionnement_2lignes": "753000 EUR plus haute offre - groupe Cafe Benjamin + La Succursale - reprise 8/8 - 5 CS"
+      }
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "holding_ad_hoc",
+    "age_parcours_dirigeant": "Marc FOUGEDOIRE (4 etabl. Paris depuis 1990) + Guillaume DE BOIS (ne 15/09/1977 - 100% beneficiaire effectif via SASU Etablissements Guillaume de Bois)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 35,
+    "track_record_reprises": [
+      "Le Cafe du Commerce 75018 (2006-present)",
+      "Le Gutenberg/L'Imprimerie 75001 (1990-present)",
+      "Les Deux Moulins 75018 (1964-present)",
+      "La Calavados / Pierre 1er Hospitality (apport-cession 1,03M EUR)",
+      "Le Richelieu Restauration (recupere 2025 liquidation Saint-Honore Production / groupe DEMARLE)"
+    ],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS + PP (faculte substitution)",
+      "capital_eur": 600000,
+      "rcs": "990820623 (FINANCIERE DAUNOU 9 - immat. 05/09/2025)",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 400000,
+    "decomposition": {
+      "incorporels_eur": 350000,
+      "corporels_eur": 47000,
+      "stocks_eur": 3000
+    },
+    "charges_augmentatives_eur": 23200,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Deniers personnels sans recours emprunt - reconstitution depot garantie 23200 en sus = TOTAL 423200 EUR"
+  },
+  "reprise_passif": {
+    "baux_repris": [
+      "Bail + fluides EDF/GDF/eau/telephone"
+    ],
+    "engagements_L642_12_al4": false,
+    "passif_privilegie_repris": "Engagement non licenciement economique 2 ans apres jugement"
+  },
+  "volet_social": {
+    "nb_salaries_repris": 8,
+    "nb_total_salaries": 8,
+    "pct_reprise": 100.0,
+    "categories_reprises": "8 CDI: 2 serveurs, 1 serveuse, 2 responsables salle, 2 cuisiniers, 1 officier cuisine",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "engagement_maintien_emplois_duree_mois": 24,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Reprise par holding G. DE BOIS + operateur historique Marc FOUGEDOIRE (35 ans 4 etablissements Paris)",
+    "plan_affaires_3ans_present": false,
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui",
+    "hypotheses_qualification": "prudentes"
+  },
+  "financement": {
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "partenaires_financiers": [
+      "FINANCIERE DAUNOU 9 (capital 600K) + SASU Etablissements Guillaume de Bois"
+    ]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [
+      "Aucune condition suspensive explicite - offre ne comporte aucune CS"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": true,
+    "annexes_business_plan": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": "CENTURY 21 Horeca Paris",
+    "avocat_nom": "M. Jean-Paul EUSEBIO"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Holding G. DE BOIS + Marc FOUGEDOIRE - 4 etablissements Paris (Le Cafe du Commerce, Le Gutenberg/L'Imprimerie, Les Deux Moulins) depuis 1990",
+    "phrase_engagement_social": "Reprise 8/8 CDI - engagement non licenciement 2 ans apres jugement",
+    "phrase_justification_prix": "400K EUR + 23200 depot garantie reconstitue = 423200 EUR - deniers personnels sans emprunt - aucune CS"
+  }
+}

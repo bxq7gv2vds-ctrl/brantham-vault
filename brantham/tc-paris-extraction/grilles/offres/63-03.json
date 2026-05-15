@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "offre_id": "63-03",
+    "dossier_id": "63",
+    "dossier_folder": "63 - Association FEDERATION UNIE DES AUBERGES DE JEUNES",
+    "fichier_source_pdf": "63_Association_FEDERATION_UNIE_DES_AUBERGES_DE_JEUNES_offre3.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "Federation Unie des Auberges de Jeunesse (FUAJ)",
+    "cible_siren": "775674260",
+    "naf_secteur": "Tourisme social / Hébergement / ESS",
+    "sous_secteur": "Reseau auberges de jeunesse (5000 lits / ~80 etablissements en propre + reseau Hostelling International)",
+    "ca_dernier_exercice_eur": 30600000,
+    "ebitda_eur": -996000,
+    "effectif_total": 317,
+    "nb_sites": 40,
+    "type_procedure": "LJ_poursuite",
+    "date_ouverture": "2026-03-02",
+    "dldo": "2026-04-10",
+    "date_audience_cession": null,
+    "aj_nom": "Me Lou FLECHARD / Me Manuel BOUYER",
+    "aj_etude": "SCP CBF Associes / SELAS BL & Associes",
+    "mj_nom": "Me Gilles PELLEGRINI / Me Stephane GORRIAS",
+    "mj_etude": "SCP BTSG2 (Gorrias) / Me Pellegrini",
+    "juge_commissaire": "Remi GRENIER (designe 17/03/2026)",
+    "causes_defaillance": "Echec du plan de redressement 2019 (modifie 2021, etendu 11 ans). 3e echeance non honoree 05/09/2024 (impact Covid + couts energie + echec cessions Seez 73 / Nice 06). Resolution du plan + LJ avec poursuite d'activite 3 mois par jugement 02/03/2026. EBITDA structurellement deficitaire (-996k€ 2024). Dette < 1 an : 11,3M€ en 2024 (ratio couv 0,13). Dette fiscale et sociale > 5M€.",
+    "ca_dernier_exercice_eur_repreneur": 36500000
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": null,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "asso_collectivite",
+    "age_parcours_dirigeant": "Patrick KOLB (Président) — Stéphane BADEIGTS (Secrétaire Général)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [
+      "FOL74 / Ligue de l'Enseignement — affiliée 1866 — 20000 associations 200000 bénévoles 102 fédérations 140 centres de vacances"
+    ],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "Association loi 1901",
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": "77565450200100",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 20000,
+    "decomposition": {
+      "incorporels_eur": null,
+      "corporels_eur": 19500,
+      "stocks_eur": 500,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 100745,
+    "modalites_paiement": "NR",
+    "garanties_paiement": null,
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 9,
+    "nb_total_salaries": 317,
+    "pct_reprise": 2.84,
+    "categories_reprises": "7 CDI + 2 CDD en apprentissage — maintien droits acquis",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {
+      "nb": null,
+      "calendrier": null,
+      "indemnites": null,
+      "accompagnement": null
+    },
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Reprise exclusive auberge Annecy (4 rue du Semnoz) — intégralité incorporels + corporels + stocks. Reprise tous contrats en cours (L.642-7). Maintien droits acquis salariés.",
+    "vision_strategique_phrase": null,
+    "pivots_prevus": null,
+    "synergies_repreneur": null,
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "NR",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "NR"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": [
+      "Sur fonds propres (capitaux propres 8,2M€ FOL74)"
+    ]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": null,
+    "items": [],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": true,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "FOL74 / Ligue de l'Enseignement — mouvement éducation populaire 1866, reprise auberge Annecy en cohérence territoriale",
+    "phrase_engagement_social": "Reprise des 9 salariés (7 CDI + 2 CDD) avec maintien droits acquis",
+    "phrase_vision_strategique": null,
+    "phrase_justification_prix": "Charges augmentatives 100 745€ (CP/CET 38 745€ + abandon acomptes 42 000€)"
+  }
+}

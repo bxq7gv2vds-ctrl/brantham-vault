@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "offre_id": "11-CLAYE-01",
+    "dossier_id": "11-CLAYE",
+    "dossier_folder": "11 - ASSOCIATION MEDICO DENTAIRE CLAYE SOUILLY",
+    "fichier_source_pdf": "offre_01_gd72567866.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "ASSOCIATION MÉDICO-DENTAIRE DE CLAYE SOUILLY",
+    "cible_siren": "890148794",
+    "naf_secteur": "Santé / Pratique dentaire",
+    "sous_secteur": "Centre de santé dentaire (Claye-Souilly)",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": null,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-06-19",
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Me Sandra BELADJINE ; Me Isabelle DIDIER",
+    "aj_etude": "SELARL BCM ; SELAS SPE O3 PARTNERS",
+    "mj_nom": "Me Julie PERROT ; Me Pablo CASTANON",
+    "mj_etude": "SELARL ACTIS Mandataires Judiciaires ; SELARL ASTEREN",
+    "juge_commissaire": "Jean-Luc BOUR",
+    "causes_defaillance": "Cessation des paiements fixée au 1er mai 2025. Centre de santé associatif en difficulté — contexte général tendu des centres dentaires (rentabilité, réglementation ARS)."
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 0,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "David HADDOUK (Président, né 03/10/1986 Paris 14e, dom. 26 allée Georges Recipon 75019 Paris) + Sylvain HADDOUK (DG, né 14/05/1985 Paris 14e, dom. 28 allée Georges Recipon 75019 Paris). Frères, 50/50. Fondateurs réseau PLACE DENTAIRE (29 centres). Profession initiale : dentiste et médecin.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["Création/exploitation 29 centres PLACE DENTAIRE (11 IDF / 3 ARA / 6 Grand Est / 2 HDF / 4 Occitanie / 2 Normandie)"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": "2021-12-13",
+      "capital_eur": 17832600,
+      "rcs": "908193311",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": null,
+    "decomposition": {
+      "incorporels_eur": null,
+      "corporels_eur": null,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "20% minimum du prix garantis à la date de dépôt + solde 2 jours ouvrés avant audience. Chèque banque / virement CDC / garantie bancaire ferme.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail FREY SA (1 rue René Cassin 51430 Bezannes) — sous CS (nouveau bail ou accord bailleur)"],
+    "credit_bail_repris": ["Contrats crédit-bail équipements (Centre d'Enghien) — sous CS"],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": ["Électricité, eau, téléphonie"],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": null,
+    "nb_total_salaries": null,
+    "pct_reprise": null,
+    "categories_reprises": "Volonté de reprendre le maximum de salariés en place — intégralité des contrats de travail visée. Droits acquis pris à la charge du repreneur SANS prorata temporis (conforme cahier des charges).",
+    "categories_non_reprises_raisons": "Périmètre social précis non arrêté faute d'éléments CA praticiens dans data room",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 0, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "MEDIVI/PLACE DENTAIRE = expert national centres de santé. Maîtrise complète cadre réglementaire (ARS, FINESS, HAS), savoir-faire pilotage médical/social/économique. Politique prudente taux d'effort locatif : loyers systématiquement corrélés au CA des centres. Société sœur VIVA SANTE porte les baux du groupe.",
+    "vision_strategique_phrase": "Inscrire le centre de Claye-Souilly dans un modèle d'exploitation éprouvé, fondé sur une gestion prudente des charges, notamment immobilières, et un taux d'effort locatif compatible avec le chiffre d'affaires du centre",
+    "pivots_prevus": "Aucun pivot — intégration au réseau PLACE DENTAIRE (30e centre)",
+    "synergies_repreneur": "Mutualisation supports centres groupe, négociation bail FREY commune, recrutement praticiens via réseau, agrément ARS via expertise dédiée",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": true,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Fonds propres MEDIVI (cap 17,8M€)", "Réseau VIVA SANTE / PLACE DENTAIRE"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 2,
+    "items": [
+      "Conclusion d'un nouveau bail ou accord du bailleur FREY SA sur un nouveau projet de bail avec MEDIVI ou société substituée — levée au plus tard au jour de l'audience",
+      "Reprise des contrats de crédit-bail bénéficiant au Centre d'Enghien mais détenus par des sociétés de gestion (engagement groupe DENTEKA à faciliter)"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 10,
+    "nb_pages_corps_offre": 10,
+    "nb_pages_annexes": 0,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["CRITIQUE : prix laissé en placeholders [3]€ HT total / [1]€ incorporels / [1]€ corporels / [1]€ stocks — non chiffré au dépôt", "BP / prévisionnels promis 'en amont de l'audience' — non joints", "Faculté substitution large (toute structure dirigée par David/Sylvain ou détenue par eux)"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": "PZ Avocats", "avocat_nom": "Me Paul ZEITOUN (contact@pz-avocats.com) ; Me Delphine MENGEOT (dmengeot@pz-avocats.com)"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Messieurs David et Sylvain HADDOUK ont créé le Réseau Place Dentaire qui comprend aujourd'hui 29 centres de santé sur l'ensemble du territoire français. La réussite du Réseau PLACE DENTAIRE tient principalement à ses fondateurs qui exerçaient les fonctions de dentiste et médecin.",
+    "phrase_engagement_social": "Le projet du Candidat Repreneur poursuit la volonté de reprendre le maximum des salariés en place. Aucun licenciement pour motif économique n'est envisagé au titre du projet de reprise. Droits acquis : le Candidat Repreneur s'engage à prendre à sa charge les droits acquis par les salariés repris jusqu'à l'entrée en jouissance, sans prorata temporis.",
+    "phrase_vision_strategique": "Le Candidat Repreneur entend inscrire le centre de Claye-Souilly dans un modèle d'exploitation éprouvé, fondé sur une gestion prudente des charges, notamment immobilières, et un taux d'effort locatif compatible avec le chiffre d'affaires du centre.",
+    "phrase_justification_prix": "Le prix proposé pour la reprise des actifs dépendant de l'Association Médico-Dentaire de Claye-Souilly est fixé à : [3] € HT, net pour la procédure collective, hors droits, frais et honoraires."
+  }
+}

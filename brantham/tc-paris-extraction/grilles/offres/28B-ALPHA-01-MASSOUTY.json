@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "offre_id": "28B-ALPHA-01-MASSOUTY",
+    "dossier_id": "28B-ALPHA",
+    "dossier_folder": "28 - SAS a associe unique ALPHA CAMPING",
+    "fichier_source_pdf": "offre_01_gd71723133.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "ALPHA CAMPING",
+    "cible_siren": "793853128",
+    "naf_secteur": "Hotellerie de plein air / Camping",
+    "sous_secteur": "Camping Paradis Les Deux Iles + Camping Ushuaia Villages La Presqu'ile (Vassiviere)",
+    "ca_dernier_exercice_eur": 14440357,
+    "effectif_total": 46,
+    "nb_sites": 2,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "date_audience_cession": "2026-04-02",
+    "aj_nom": "Maitre Maxime LANGET ; Maitre Lou FLECHARD",
+    "mj_nom": "Maitre Florian LACOUR ; Maitre Camille STEINER",
+    "juge_commissaire": "Monsieur Franck MEYNAUD"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Niveau dossier : Seasonova retenu pour Alpha 15 sites + Maeva pour franchises. Offre Massouty (perimetre limite 2 sites Vassiviere) non retenue.",
+    "motifs_rejet_verbatim": "Prix symbolique 1 EUR sur 2 sites. Porteur individuel sans groupe — capacite financiere non demontree au regard de l'enjeu groupe (15 sites).",
+    "nb_offres_concurrentes": 8
+  },
+  "profil_repreneur": {
+    "forme": "dirigeant_historique",
+    "age_parcours_dirigeant": "Franck MASSOUTY — actuel Directeur des deux campings. Parcours : epicerie-tabac (2010-2018), Directeur Intermarche Thiers 2018-2022 (44 employes), adjoint Camping Paradis Les Chanterelles + Village Vacances Les Demeures du Lac (2 saisons), Directeur Camping Le Pre Issoire 2024.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 4,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "intention_seule",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS FM2C a constituer",
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": "Greffe Limoges (a immatriculer)",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "newco"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 1,
+    "decomposition": {"incorporels_eur": null, "corporels_eur": null, "stocks_eur": null, "immeubles_eur": null, "titres_eur": null},
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": null,
+    "cheque_consignation_eur": null,
+    "note_prix": "Offre symbolique 1 EUR pour 2 campings."
+  },
+  "reprise_passif": {
+    "baux_repris": ["Droits aux baux 2 sites Vassiviere"],
+    "credit_bail_repris": ["Leasings elements presents"],
+    "contrats_clients_critiques_repris": ["Contrats d'approvisionnement en cours"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 9,
+    "nb_total_salaries": 46,
+    "pct_reprise": 19.57,
+    "categories_reprises": "4 permanents + 5 saisonniers Mars-Octobre + ~12 saisonniers juillet-aout (2 sites Vassiviere)",
+    "categories_non_reprises_raisons": "Perimetre limite 2 sites — autres salaries hors perimetre",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": "Article L.1224-1 Code Travail"},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Projet de territoire soutenu par syndicat Lac de Vassiviere (proprietaire des sites). Demande entree en jouissance rapide (saison 2026 demarree). Repreneur = Directeur actuel.",
+    "vision_strategique_phrase": "Projet de territoire soutenu par syndicat Lac de Vassiviere",
+    "pivots_prevus": null,
+    "synergies_repreneur": "Connaissance terrain (Directeur actuel) + proximite syndicat Vassiviere",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null, "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "NR"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "non",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "narratif",
+    "executive_summary_present": false,
+    "annexes_kbis": false, "annexes_cv_dirigeants": true, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": true,
+    "annexes_business_plan": false, "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false, "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": true,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": true,
+    "personnalisation_rencontre_equipes": true,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": ["Pas de capital indique pour la SAS FM2C a constituer", "Pas de plan affaires chiffre"],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Repreneur = Directeur actuel des 2 sites Vassiviere",
+    "phrase_engagement_social": "Application Article L.1224-1 Code Travail (transfert automatique contrats de travail)",
+    "phrase_vision_strategique": "Projet de territoire soutenu par syndicat Lac de Vassiviere (proprietaire des sites)",
+    "phrase_justification_prix": "Offre symbolique 1 EUR — saison 2026 demarree, demande entree en jouissance rapide"
+  }
+}

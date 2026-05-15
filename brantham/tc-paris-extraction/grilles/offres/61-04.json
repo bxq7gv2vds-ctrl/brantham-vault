@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "offre_id": "61-04",
+    "dossier_id": "61",
+    "dossier_folder": "61 - SCA SOCIETE D EXPLOITATION DU DOMAINE DE BEAUVALLO",
+    "fichier_source_pdf": "61_SCA_SOCIETE_D_EXPLOITATION_DU_DOMAINE_DE_BEAUVALLO_offre3.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCEA DU DOMAINE DE BEAUVALLON",
+    "cible_siren": "786213702",
+    "naf_secteur": "Production agricole fruits à pépin",
+    "effectif_total": 2,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-16",
+    "dldo": "2026-03-18",
+    "date_audience_cession": "2026-04-13",
+    "aj_nom": "Me Marine PACE / Me Paul-Henri AUDRAS",
+    "aj_etude": "SELARL 2M&Associés / SELAS AJ UP",
+    "mj_nom": "Me Valérie LELOUP-THOMAS / Me Charlotte THIRION",
+    "mj_etude": "SELAFA MJA / SELARL ATHENA"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "amelioree_puis_retenue",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 4
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Hervé BOUJUAU et Céline BOUJUAU née DELHOMME",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [
+      "LE CLOS DU VERGER", "VERGER DES ROUSSIERES", "SERVEAU SOYER", "JANNIERE",
+      "ETA BOUJUAU", "SCI DES CHENES", "LE FOUQUET", "GFA LA FONTAINE"
+    ],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SCEA NOUVELLE BEAUVALLON (substitution — 1%/1%/98% CELHER)",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 125000,
+    "decomposition": {
+      "incorporels_eur": 1000,
+      "corporels_eur": 54000,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": 70000,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Chèque de banque jour audience. Fonds propres + convention trésorerie intra-groupe (Annexe 12) + fonds Vergers d'Anjou. Attestations LAB-FT (Annexe 10) + bénéficiaires effectifs (Annexe 11) + ABEILLE ASSURANCE (Annexe 13).",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Tous baux ruraux et conventions mise à disposition terres"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "retraites_chapeau_indemnites": "Reprise droits CP/RTT/repos compensateurs"
+  },
+  "volet_social": {
+    "nb_salaries_repris": 31,
+    "nb_total_salaries": null,
+    "pct_reprise": null,
+    "categories_reprises": "31 salariés (26 ETP + 5 ETP)",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 0},
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Site 108 ha en un seul tenant. Réglementation pesticides facilitée. Offre initiale même prix que 61-03, portée locale.",
+    "vision_strategique_phrase": "Consolidation arboricole + diversification kiwi/pomme + volume Vergers d'Anjou + surface grandes cultures + renouvellement vergers parcelles neuves",
+    "pivots_prevus": "Maintien intégral baux ruraux et conventions",
+    "synergies_repreneur": "Forces vives + technicité + mécanisation groupe BOUJUAU, réduction risque aléas climatiques",
+    "plan_affaires_3ans_present": true,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": true,
+    "credit_bail_repris_oui_non": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Groupe BOUJUAU", "Comptes coopérateurs Vergers d'Anjou", "Crédit Mutuel"]
+  },
+  "engagements_specifiques": {"incessibilite_temporaire_mois": null, "non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "technique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": true,
+    "annexes_attest_bancaire": true,
+    "annexes_business_plan": true,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_organigramme_cible": true,
+    "annexes_attest_fisc_sociale": true,
+    "annexes_rib": true,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": true,
+    "soutien_clients_cles": true,
+    "soutien_banques_historiques": true,
+    "personnalisation_visite_site": true,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": "SELARL LEXCAP Avocats — Angers", "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe BOUJUAU apporteurs coopérative LES VERGERS D'ANJOU",
+    "phrase_engagement_social": "Reprise 31 salariés droits acquis",
+    "phrase_vision_strategique": "Site 108 ha un seul tenant — synergies forces vives + technicité + mécanisation",
+    "phrase_justification_prix": "Incorporels 1k + Corporels 54k + Immeubles 70k = 125 000€"
+  },
+  "bilan_repreneur": {
+    "ca_eur": 204584,
+    "resultat_net_eur": 2336,
+    "exercice_clos": "2025-09-30"
+  }
+}

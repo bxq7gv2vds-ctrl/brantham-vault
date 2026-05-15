@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "offre_id": "10-CHINON-07",
+    "dossier_id": "10",
+    "dossier_folder": "10 - SARL LE CHINON",
+    "fichier_source_pdf": "offre_07_gd74426050.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SARL LE CHINON",
+    "cible_siren": "420429029",
+    "naf_secteur": "Restauration",
+    "sous_secteur": "Cafe, buvette, brasserie, restaurant - Montmartre (49 rue des Abbesses 75018)",
+    "ca_dernier_exercice_eur": 1200000,
+    "ebitda_eur": null,
+    "effectif_total": 8,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-06-11",
+    "dldo": "2026-02-03",
+    "date_audience_cession": "2026-03-30",
+    "aj_nom": "Maitre Nicolas LOYER",
+    "aj_etude": "SELARL AJ MEYNET & ASSOCIES",
+    "mj_nom": "Maitre Sabine ROCHER",
+    "mj_etude": "SELARL ASTEREN",
+    "juge_commissaire": "Monsieur Olivier DUBOUREAU",
+    "causes_defaillance": "Perte 65K EUR 2024 / capitaux propres negatifs / dirigeant historique Arnaud ATLAN depuis 2018"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "nb_offres_concurrentes": 9,
+    "concurrents_resume": [
+      {
+        "nom": "HIPPO SF (Pierre Jean Pouletty)",
+        "positionnement_2lignes": "501370 EUR - holding patrimoniale, ex-Rubik 18 ans + Cromology - reprise 8/8 + 2 embauches"
+      },
+      {
+        "nom": "Romain DI CRESCENZO",
+        "positionnement_2lignes": "100000 EUR - PP exploitant Cafe Gabrielle Paris 17 - reprise 4/8 - cheque banque audience"
+      },
+      {
+        "nom": "ANGELVY/BRIOUDE (BRIANGE)",
+        "positionnement_2lignes": "200000 EUR - groupe BRIANGE 4 etablissements Paris - reprise 8/8"
+      },
+      {
+        "nom": "Alain HAOUANOH",
+        "positionnement_2lignes": "350000 EUR - PP exploitant Le Voltigeur Paris 11 - reprise 8/8 - aucune CS"
+      },
+      {
+        "nom": "JEMA (famille ALBARET)",
+        "positionnement_2lignes": "500500 EUR - holding cafes/bars/brasseries - reprise 5/8"
+      },
+      {
+        "nom": "FINANCIERE DAUNOU 9 / FOUGEDOIRE",
+        "positionnement_2lignes": "400000 EUR - holding G. DE BOIS + Marc Fougedoire 4 etabl. Paris - reprise 8/8 - aucune CS"
+      },
+      {
+        "nom": "XB HOLDING (Xavier BOUDOUMA)",
+        "positionnement_2lignes": "500000 EUR - groupe XB 4 brasseries Paris dont XB Montmartre - reprise 8/8"
+      },
+      {
+        "nom": "PAMAJU (Arnaud WILHELM)",
+        "positionnement_2lignes": "550000 EUR - holding Le Nazir + Le Saint-Jean rue Abbesses - reprise 8/8 - 6 CS"
+      },
+      {
+        "nom": "4-M / CKM.18 (MONCAN+MAGNE)",
+        "positionnement_2lignes": "753000 EUR plus haute offre - groupe Cafe Benjamin + La Succursale - reprise 8/8 - 5 CS"
+      }
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Xavier BOUDOUMA ne 18/03/1983 Sartrouville - gerant + associe unique SARL XB HOLDING (immat. 03/09/2018)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [
+      "XB SAINT GERMAIN (CA 2024 1M EUR / RN 157K / 7 salaries)",
+      "XB MONTMARTRE (CA 2024 2,68M / RN 388K / 9 salaries - rue Tardieu 75018 = proximite Chinon)",
+      "XB SAINT LAZARE (CA 2025 1,16M EUR)",
+      "XB PERGOLESE",
+      "SC XB IMMOBILIER + SC XB CHAMONIX (participations 20%)",
+      "COSA acquise 2025 via apport cession 1,03M EUR"
+    ],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SARL XB HOLDING + substitution XB CHINON SAS a creer",
+      "capital_eur": 5000,
+      "rcs": "841615172 Versailles",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 500000,
+    "decomposition": {
+      "incorporels_eur": 489000,
+      "corporels_eur": 10000,
+      "stocks_eur": 1000
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "NR",
+    "garanties_paiement": "Fonds propres - precisions a fournir ulterieurement - reconstitution depot garantie entre mains du locataire principal"
+  },
+  "reprise_passif": {
+    "baux_repris": [
+      "Sous-bail commercial avec Societe Hoteliere de la Rue Audren"
+    ],
+    "engagements_L642_12_al4": false,
+    "passif_privilegie_repris": "Pas de transfert L.642-12 alinea 4 - exclusion dettes anterieures + creances + materiel roulant Yamaha TMAX"
+  },
+  "volet_social": {
+    "nb_salaries_repris": 8,
+    "nb_total_salaries": 8,
+    "pct_reprise": 100.0,
+    "categories_reprises": "8 CDI: 3 serveur/serveuse, 2 responsable salle, 2 cuisinier, 1 officier cuisine",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "engagement_maintien_emplois_duree_mois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Mutualisation avec XB Montmartre rue Tardieu 75018 (proximite immediate Chinon) - groupe 4 brasseries Paris + 2 participations immo",
+    "vision_strategique_phrase": "Mutualisation avec XB Montmartre rue Tardieu 75018 - proximite immediate Chinon",
+    "plan_affaires_3ans_present": false,
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui",
+    "hypotheses_qualification": "NR"
+  },
+  "financement": {
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "partenaires_financiers": [
+      "XB HOLDING (Total Actif 547766 EUR / CP 220242 EUR 31/12/2024) + filiales CA cumul ~5M EUR/an"
+    ]
+  },
+  "engagements_specifiques": {
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 1,
+    "items": [
+      "Absence de tout contentieux entre locataire principal et bailleur des locaux d'exploitation"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": true,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": true,
+    "annexes_business_plan": false,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": "Selarl Mader Avocat - 24 rue Erlanger 75016 Paris",
+    "avocat_nom": "Rodolphe MADER (rodolphe@mader-avocat.com - 06 71 34 44 23)"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Xavier BOUDOUMA professionnel restauration installe depuis nombreuses annees - exploitation a proximite immediate du Chinon (XB Montmartre rue Tardieu 75018) permet mutualisation",
+    "phrase_engagement_social": "Reprise totalite 8 salaries",
+    "phrase_vision_strategique": "Mutualisation operationnelle avec XB Montmartre adjacent - substitution XB CHINON SAS dediee",
+    "phrase_justification_prix": "500K EUR HT/HD = 489K incorporels (Licence IV incluse) + 10K corporels + 1K stock"
+  }
+}

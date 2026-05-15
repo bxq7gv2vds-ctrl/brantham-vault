@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "offre_id": "23-ATELIER_URBAIN-04",
+    "dossier_id": "23-ATELIER_URBAIN",
+    "dossier_folder": "23 - SCI ATELIER URBAIN",
+    "fichier_source_pdf": "23_SCI_ATELIER_URBAIN_offre2.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "low"
+  },
+  "identification": {
+    "cible_raison_sociale": "HORS PERIMETRE - PDF cible SNC ADONIA (immeuble Cachan)",
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "PDF mal classe - cible SNC ADONIA",
+    "type_procedure": "RJ",
+    "dldo": "2026-03-02",
+    "aj_nom": "Maitre Helene BOURBOULOUX",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "causes_defaillance": "Defaillance groupe Melot-Gouband ('Affaire Balthazar')"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "NR",
+    "issue_globale_dossier": "en_attente",
+    "motifs_rejet_verbatim": "PDF mal classe : offre HOUSEBASE cible SNC ADONIA (501,600 EUR immeuble Cachan), pas SCI ATELIER URBAIN.",
+    "nb_offres_concurrentes": 11
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Philippe ZERR",
+    "experience_sectorielle_oui_non": "NR",
+    "capacite_financiere_demontree": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "capital_eur": 49780,
+      "rcs": "908068331 RCS Rennes",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 501600,
+    "decomposition": {
+      "immeubles_eur": 501600
+    },
+    "modalites_paiement": "NR"
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "plan_licenciement": {}
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "NR",
+    "plan_affaires_3ans_present": false,
+    "maintien_site": "oui_total"
+  },
+  "financement": {
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "erreurs_apparentes": ["PDF mal classe - cible SNC ADONIA"]
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {}
+}

@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "dossier_id": "HENRI_GINOUX",
+    "dossier_folder": "17 - SCCV 121 HENRI GINOUX",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCCV 121 HENRI GINOUX",
+    "cible_siren": null,
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "SCCV - détention d'actif immobilier (portefeuille FHBX Foncière Melot Gouband / Affaire Balthazar)",
+    "type_procedure": "RJ",
+    "dldo": "2026-03-02",
+    "aj_nom": "Maître Hélène BOURBOULOUX (avec François RAYBAUD et Paul CHARREY)",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maître Valérie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "Monsieur Jean-François PONCET",
+    "causes_defaillance": "Société du portefeuille consolidé Foncière Melot Gouband (Affaire Balthazar) — 26 entités en RJ — détention immobilière",
+    "tribunal": "Tribunal des Activités Économiques de Paris",
+    "nb_offres_recues": 13,
+    "effectif_total": 0,
+    "actif_principal": "Bien immobilier rattaché à SCCV 121 HENRI GINOUX (description précise non extraite des PDFs MUVICO >5MB)",
+    "fourchette_offres_eur": "200 000 (MUVICO améliorée) - 800 000 (AEB INVEST dédiée)"
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_recues_total": 13,
+    "audience_prevue": null,
+    "notes": "Dossier consolidé FHBX (26 entités). Offres : MUVICO globale (3 versions, prix 200k améliorée), VERDOSO SAS globale (2 docusign), Groupe JADO, AEB INVEST offre dédiée 800k€ (la plus haute sur cet actif), HOUSEBASE (mal classé), Groupe LALEYE marchands de biens. Pattern : un acteur (AEB INVEST) propose un prix 4x supérieur en offre dédiée vs MUVICO globale améliorée — signal compétition sur actif Montrouge."
+  },
+  "links_related_offres": [
+    "HENRI_GINOUX-01",
+    "HENRI_GINOUX-02",
+    "HENRI_GINOUX-03",
+    "HENRI_GINOUX-04",
+    "HENRI_GINOUX-05",
+    "HENRI_GINOUX-06",
+    "HENRI_GINOUX-07",
+    "HENRI_GINOUX-08",
+    "HENRI_GINOUX-09",
+    "HENRI_GINOUX-10",
+    "HENRI_GINOUX-11",
+    "HENRI_GINOUX-12",
+    "HENRI_GINOUX-13"
+  ]
+}

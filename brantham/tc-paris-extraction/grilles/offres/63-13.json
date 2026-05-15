@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "offre_id": "63-13",
+    "dossier_id": "63",
+    "dossier_folder": "63 - Association FEDERATION UNIE DES AUBERGES DE JEUNES",
+    "fichier_source_pdf": "63_Association_FEDERATION_UNIE_DES_AUBERGES_DE_JEUNES_offre13.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "Federation Unie des Auberges de Jeunesse (FUAJ)",
+    "cible_siren": "775674260",
+    "naf_secteur": "Tourisme social / Hébergement / ESS",
+    "sous_secteur": "Reseau auberges de jeunesse (5000 lits / ~80 etablissements en propre + reseau Hostelling International)",
+    "ca_dernier_exercice_eur": 30600000,
+    "ebitda_eur": -996000,
+    "effectif_total": 317,
+    "nb_sites": 40,
+    "type_procedure": "LJ_poursuite",
+    "date_ouverture": "2026-03-02",
+    "dldo": "2026-04-10",
+    "date_audience_cession": null,
+    "aj_nom": "Me Lou FLECHARD / Me Manuel BOUYER",
+    "aj_etude": "SCP CBF Associes / SELAS BL & Associes",
+    "mj_nom": "Me Gilles PELLEGRINI / Me Stephane GORRIAS",
+    "mj_etude": "SCP BTSG2 (Gorrias) / Me Pellegrini",
+    "juge_commissaire": "Remi GRENIER (designe 17/03/2026)",
+    "causes_defaillance": "Echec du plan de redressement 2019 (modifie 2021, etendu 11 ans). 3e echeance non honoree 05/09/2024 (impact Covid + couts energie + echec cessions Seez 73 / Nice 06). Resolution du plan + LJ avec poursuite d'activite 3 mois par jugement 02/03/2026. EBITDA structurellement deficitaire (-996k€ 2024). Dette < 1 an : 11,3M€ en 2024 (ratio couv 0,13). Dette fiscale et sociale > 5M€."
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": null,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Remy ANGELO (ADVI PROM) — Michael BERNARD + François LAENNEC (futurs co-fondateurs ADVI PULSE)",
+    "experience_sectorielle_oui_non": "partielle",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [
+      "ADVI PROM — conduite opérations immobilières (logements/commerces/hôtels/maisons médicales/bureaux)",
+      "ADVI PULSE (en cours de création) — experts hôtellerie-restauration / Direction Opérations Auberges de Jeunesse"
+    ],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS (ADVI PROM porteur ; ADVI PULSE en cours de création)",
+      "date_creation": null,
+      "capital_eur": 10000,
+      "rcs": "79045821000024",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 1,
+    "decomposition": {
+      "incorporels_eur": 1,
+      "corporels_eur": null,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 457300,
+    "modalites_paiement": "NR",
+    "garanties_paiement": null,
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 75,
+    "nb_total_salaries": 317,
+    "pct_reprise": 23.7,
+    "categories_reprises": "75 CDI sur 7 sites : Amiens 21 + Annecy 10 + Arles 6 + Boulogne 5 + Chamrousse 8 + Brides 13 + Lille 12. Détail : 1 stagiaire + 51 employés + 15 agents maîtrise + 8 cadres",
+    "categories_non_reprises_raisons": "0 non repris sur ces 7 sites",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {
+      "nb": null,
+      "calendrier": null,
+      "indemnites": null,
+      "accompagnement": null
+    },
+    "engagement_maintien_emplois_duree_mois": 24,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Reprise globale 7 sites (913 lits) : Annecy 117 + Amiens 199 + Brides 85 + Boulogne 137 + Arles 109 + Chamrousse 70 + Lille 196. Mix baux civils/commerciaux/conventions. Reprise 75 CDI + part sociale SCIC AU 235 (Lille). Transition CCN HCR. Maintien adhésion réseau Hostelling International.",
+    "vision_strategique_phrase": "Modèle hybride hôtel/auberge — accessibilité + qualité + restauration + RSE/Clef Verte/écolabels",
+    "pivots_prevus": "Site Chamrousse identifié à redresser (rentabilité insuffisante court/moyen terme)",
+    "synergies_repreneur": null,
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": 269300,
+    "capex_calendrier": "5 ans",
+    "capex_nature": null,
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 3810000,
+    "ca_an2_eur": 6690000,
+    "ca_an3_eur": 6790000,
+    "ebitda_an3_eur": 467000,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 500000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": 500000,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": null,
+    "items": [
+      "Offre 'ferme et définitive sans condition suspensive ni résolutoire'"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "commercial",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "ADVI PROM (immo) + ADVI PULSE (exploitation en cours de création) — 7 sites/913 lits, 75 emplois repris, modèle hybride hôtel/auberge",
+    "phrase_engagement_social": "Maintien emploi 2 ans minimum + maintien activité + poursuite conventions/partenariats + modernisation",
+    "phrase_vision_strategique": null,
+    "phrase_justification_prix": "Prix 1€ symbolique + CHARGE AUGMENTATIVE MAJEURE 457 300€ (créances clients déclarées) — pattern atypique BP solide compense prix symbolique"
+  }
+}

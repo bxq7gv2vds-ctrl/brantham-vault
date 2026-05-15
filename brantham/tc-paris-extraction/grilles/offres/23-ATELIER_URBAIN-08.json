@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "offre_id": "23-ATELIER_URBAIN-08",
+    "dossier_id": "23-ATELIER_URBAIN",
+    "dossier_folder": "23 - SCI ATELIER URBAIN",
+    "fichier_source_pdf": "23_SCI_ATELIER_URBAIN_offre6.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "low"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI ATELIER URBAIN (offre globale MUVICO - 4eme PDF)",
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "Portefeuille FHBX 26 entites",
+    "type_procedure": "RJ",
+    "dldo": "2026-03-02",
+    "aj_nom": "Maitre Helene BOURBOULOUX",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "causes_defaillance": "Defaillance groupe Melot-Gouband ('Affaire Balthazar')"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_rejet_verbatim": "PDF non extrait (>5MB / 10MB). Prix issu table reference MUVICO 850k initiale / 880k amelioree.",
+    "nb_offres_concurrentes": 11
+  },
+  "profil_repreneur": {
+    "forme": "family_office",
+    "age_parcours_dirigeant": "Victor COHEN",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": ["Groupe foncier patrimonial diversifie"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "MUVICO",
+      "type_vehicule": "existante",
+      "kbis_present_en_annexe": false
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 850000,
+    "decomposition": {
+      "immeubles_eur": 850000
+    },
+    "modalites_paiement": "NR"
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "plan_licenciement": {}
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "vision_strategique_phrase": "Offre globale Fonciere Melot Gouband multi-SCI",
+    "plan_affaires_3ans_present": false,
+    "maintien_site": "oui_total"
+  },
+  "financement": {
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "erreurs_apparentes": ["4eme PDF MUVICO sur ce dossier - redondance importante"]
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {}
+}

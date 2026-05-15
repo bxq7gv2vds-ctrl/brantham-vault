@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "offre_id": "36-DN-02",
+    "dossier_id": "36-DN",
+    "dossier_folder": "36 - SAS D&N ASSOCIES",
+    "fichier_source_pdf": "offre_02_gd75052048.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS D&N ASSOCIES",
+    "cible_siren": "501170187",
+    "naf_secteur": "Indemnisation passagers aeriens / LegalTech",
+    "sous_secteur": "Reglement CE 261/2004",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 2,
+    "nb_sites": 1,
+    "type_procedure": "plan_cession",
+    "date_ouverture": "2026-01-13",
+    "dldo": "2026-02-09",
+    "date_audience_cession": null,
+    "aj_nom": "Maitre Christophe Thevenot",
+    "aj_etude": "SELARL Thevenot Partners",
+    "mj_nom": "Maitre Charlotte Thirion",
+    "mj_etude": "SELARL Athena",
+    "juge_commissaire": null,
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 2,
+    "concurrents_resume": [
+      {"nom": "INDEMNIFLIGHT", "positionnement_2lignes": "Concurrent FR direct (depuis 2016), 100000 EUR sur fonds complet, 1 salarie, sans CS."},
+      {"nom": "Yource BV", "positionnement_2lignes": "Concurrent NL (Vol-Retarde.fr), 100000 EUR sur fonds + stock 16K reclamations + 1 salarie, avec CS approbation Holland Capital."}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "repreneur_etranger",
+    "age_parcours_dirigeant": "Imanol Michelena Rodriguez (Directeur General). Societe espagnole constituee 07/03/2017 a Bilbao devant notaire. Associes fondateurs : Fernando Renedo Arenal (apport reclamaciondevuelos.com + SEO pour 26000 EUR, 52%), Javier Lopez Garcia (28%), Adrian San Martin Busturia, Rafael de la Pena Garcia-Franco.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 9,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SL (Sociedad Limitada droit espagnol)",
+      "date_creation": "2017-03-07",
+      "capital_eur": 50000,
+      "rcs": "B95875209 (CIF Espagne)",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 50000,
+    "decomposition": {
+      "incorporels_eur": 50000,
+      "corporels_eur": 0,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Cheque de banque francais OU versement sur compte CARPA avocat redacteur, deux jours ouvres avant audience",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": ["Microsoft Azure (frontend)", "AWS (frontend)", "Gandi (gestion air-indemnite.com)", "CookieFirst", "GitHub (depots frontend)"],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Aucune reprise de passif (commercial, financier, fiscal, social)",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 2,
+    "pct_reprise": 0.0,
+    "categories_reprises": null,
+    "categories_non_reprises_raisons": "Aucun salarie repris. Cession d'actifs isoles (pas L.642-7 transfert contrats globaux). Aucune embauche prevue.",
+    "maintien_conditions_anciennete_salaire_lieu": "non",
+    "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Reprise extremement minimale : qualifiee expressement 'cession d'actifs isoles' — marque + nom de domaine + frontend seulement. Aucun backend, aucune base donnees clients, aucun CRM, aucun dossier actif. Relance marque depuis l'Espagne via plateforme digitale propre.",
+    "vision_strategique_phrase": "Relancer et exploiter la marque 'Air Indemnite' depuis l'Espagne via une plateforme digitale avec developpement commercial progressif.",
+    "pivots_prevus": "Raccordement du frontend repris a infrastructure backend/CRM propre du repreneur, traitement exclusif des nouveaux dossiers initialises a compter de la cession.",
+    "synergies_repreneur": "Reclamaciones Generales exploite deja reclamaciondevuelos.com (apport en nature 26000 EUR a la creation) + reclamapormi.com",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "non",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 50000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Offre tres limitee (actifs isoles) qui evite L.642-7 transfert contrats — pattern 'asset stripping' marque only"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Cession d'actifs isoles non assimilable a cession de fonds de commerce ni de branche complete et autonome",
+    "phrase_engagement_social": "Aucun salarie repris, aucune embauche prevue",
+    "phrase_vision_strategique": "Relancer et exploiter la marque 'Air Indemnite' depuis l'Espagne via une plateforme digitale",
+    "phrase_justification_prix": "Ventilation prix : 25000 EUR marque + 25000 EUR nom de domaine et frontend"
+  }
+}

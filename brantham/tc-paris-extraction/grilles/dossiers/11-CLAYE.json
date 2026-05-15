@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "dossier_id": "11-CLAYE",
+    "dossier_folder": "11 - ASSOCIATION MEDICO DENTAIRE CLAYE SOUILLY",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "ASSOCIATION MÉDICO-DENTAIRE DE CLAYE SOUILLY",
+    "cible_siren": "890148794",
+    "forme_juridique": "Association (loi 1901, immatriculée RCS Paris)",
+    "capital_social_eur": null,
+    "rcs": "890 148 794 RCS Paris",
+    "adresse_siege": null,
+    "naf_secteur": "Santé / Pratique dentaire",
+    "sous_secteur": "Centre de santé dentaire (Claye-Souilly)",
+    "ca_dernier_exercice_eur": null,
+    "effectif_total": null,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-06-19",
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Me Sandra BELADJINE ; Me Isabelle DIDIER",
+    "aj_etude": "SELARL BCM ; SELAS SPE O3 PARTNERS",
+    "mj_nom": "Me Julie PERROT ; Me Pablo CASTANON",
+    "mj_etude": "SELARL ACTIS Mandataires Judiciaires ; SELARL ASTEREN",
+    "juge_commissaire": "Jean-Luc BOUR",
+    "tribunal": "Tribunal des activités économiques de Paris",
+    "causes_defaillance": "Cessation paiements au 1er mai 2025. Centre dentaire associatif en difficulté.",
+    "broker_agence_mandate": null
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "date_jugement_issue": null,
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_synthese": null,
+    "nb_offres_concurrentes": 1,
+    "concurrents_resume": [
+      {"nom": "MEDIVI (David & Sylvain HADDOUK — Réseau PLACE DENTAIRE 29 centres)", "positionnement_2lignes": "Industriel sectoriel de référence. Inventaire commissaire 7850€. Volonté reprise max salariés. CRITIQUE : prix laissé en placeholders [3]€/[1]€ — non chiffré au dépôt."}
+    ],
+    "enseignement_clef": "Centres de santé dentaires : numéro FINESS non transférable judiciairement = barrière à l'entrée majeure (agrément ARS à obtenir post-cession). Inventaire matériel symbolique (7850€ pour 77 lots) — la valeur est dans la patientèle + bail + agrément. Pattern offre 'à compléter' avec prix placeholder : à surveiller comme signal de risque (offre déposée sans diligence finalisée)."
+  },
+  "sources_externes": []
+}

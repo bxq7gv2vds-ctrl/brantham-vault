@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "dossier_id": "CGB",
+    "dossier_folder": "01 - SAS à associé unique CLUB GRANDS BOULEVARDS",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "CLUB GRANDS BOULEVARDS",
+    "cible_siren": "878867654",
+    "forme_juridique": "SAS à associé unique",
+    "capital_social_eur": null,
+    "rcs": "878867654",
+    "adresse_siege": "5-7 rue du Faubourg Poissonnière, 75009 Paris",
+    "nom_commercial": "EASYGYM",
+    "naf_secteur": "Salle de sport / Fitness",
+    "sous_secteur": "Club remise en forme, fitness, musculation, gymnastique",
+    "ca_dernier_exercice_eur": null,
+    "effectif_total": 11,
+    "type_procedure": "RJ",
+    "date_ouverture": "2024-10-02",
+    "dldo": "2025-09-17",
+    "date_audience_cession": null,
+    "aj_nom": "Me Marine PACE",
+    "aj_etude": "SELARL 2M&ASSOCIES (AJ2M)",
+    "mj_nom": "Me Lucile JOUVE",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": null,
+    "tribunal": "Tribunal des activités économiques de Paris",
+    "filiales": [],
+    "appartenance_groupe": "Enseigne EASYGYM. Bail commercial avec SOCIETE IMMOBILIERE PAPILLON (loyer 500k€ HT/HC). Effectif 11 = 9 CDI + 2 apprentis.",
+    "causes_defaillance": "Sûretés inscrites sur fonds : PEAC France 02/02/2022 (796 506,93€), crédit-bail DE LAGE LANDEN sur matériel TECHNOGYM 28/04/2021 (129 525€), nantissements BNP PARIBAS 23/02/2022 (81 600€) + IMMOBILIERE PAPILLON 11/05/2023 (782 578€) + CAISSE AGRICOLE 07/06/2023 (510 000€)."
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "date_jugement_issue": null,
+    "repreneur_retenu": null,
+    "prix_retenu_eur": null,
+    "emplois_repris_retenu": null,
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_synthese": null,
+    "nb_offres_concurrentes": 3,
+    "concurrents_resume": [
+      {"nom": "WS HOLDING / WELLNEST SOCIETY (Abdenbi AMIRACHE)", "positionnement_2lignes": "Améliorée 105k€ (vs initiale 50k€). 11 emplois repris. Groupe MARTEK / J.2.A. HOLDING. Engagement non-licenciement 24 mois."},
+      {"nom": "Karim BELARBI + Eddy BENKETIRA (BELLA AIR) — franchisés ON AIR", "positionnement_2lignes": "Améliorée 105k€ (vs initiale 50k€). 11 emplois. Co-entreprise 50/50 IDEA BELLA HOLDING/GE CONSULTING. Exploitation ON AIR. Couvre aussi CLUB PALAIS ROYAL."},
+      {"nom": "ALHIA GREEN (Gilles LEBREUX)", "positionnement_2lignes": "70k€. 11 emplois. Holding 30 participations. Offre indivisible CGB+CLUB PALAIS ROYAL. Charges augmentatives 395k€."}
+    ],
+    "enseignement_clef": "Dossier fitness Paris 9e — 5 offres reçues sur 3 candidats. 2 candidats améliorés à 105k€/11 emplois (WS HOLDING + BELLA AIR ON AIR). Profils différents : WS = chaîne fitness consolidé (AMIRACHE relance NEONESS) vs BELLA AIR = franchisés ON AIR voulant réseau. ALHIA GREEN = holding diversifiée moins cohérente sectoriellement. Issue probable : duel WS HOLDING vs BELLA AIR — facteur clé = relation bailleur IMMOBILIERE PAPILLON (BELLA AIR plus exigeant — renégo loyer 325k→375k progressif vs 500k actuel) et reprise emprunts BNP+CA (~270k€ restant)."
+  },
+  "sources_externes": []
+}

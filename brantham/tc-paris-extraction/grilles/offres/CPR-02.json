@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "offre_id": "CPR-02",
+    "dossier_id": "CPR",
+    "dossier_folder": "02 - SAS à associé unique CLUB PALAIS ROYAL",
+    "fichier_source_pdf": "offre_02_gd66014036.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "CLUB PALAIS ROYAL",
+    "cible_siren": "878794262",
+    "naf_secteur": "Salle de sport / Fitness",
+    "sous_secteur": "Enseigne EASYGYM",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 7,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2024-10-02",
+    "dldo": "2025-09-17",
+    "date_audience_cession": null,
+    "aj_nom": "Maître Marine PACE",
+    "aj_etude": "SELARL 2M&ASSOCIES (AJ2M)",
+    "mj_nom": "Maître Lucile JOUVE",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": null,
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 3,
+    "concurrents_resume": [
+      {"nom": "WS HOLDING (CPR-01 améliorée)", "positionnement_2lignes": "AMIRACHE - groupe MARTEK fitness - 105 000€ - 7 emplois"},
+      {"nom": "WS HOLDING (CPR-03 initiale)", "positionnement_2lignes": "Même candidat - 50 000€ initial"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Gilles LEBREUX (né 07/03/1964, Président Alhia Green, ex-CASINO/Easydis, fondateur LANGA puis LANGA INTERNATIONAL 12 pays 180 salariés)",
+    "experience_sectorielle_oui_non": "non",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["LANGA", "LANGA INTERNATIONAL (12 pays, 180 salariés)", "30+ participations Alhia Green"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS ALHIA GREEN (holding 30+ participations, nom commercial EAST.LOG)",
+      "date_creation": null,
+      "capital_eur": 10080099.51,
+      "rcs": "492744925 RCS Lyon",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 70000,
+    "decomposition": {
+      "incorporels_eur": 60000,
+      "corporels_eur": 10000,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 444000,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds propres - paiement comptant à la signature. Coût total reprise estimé 514 000€",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Contrat de bail 147 bis rue Saint-Honoré (négociation envisagée avec PEC MARENGO)"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": true,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Transfert de la charge des sûretés (art. L.642-12 al. 4) - BNP et Crédit Agricole",
+    "retraites_chapeau_indemnites": "Droits sociaux repris en totalité (estimés 7 k€ congés payés à fin août 2025)"
+  },
+  "volet_social": {
+    "nb_salaries_repris": 7,
+    "nb_total_salaries": 7,
+    "pct_reprise": 100.0,
+    "categories_reprises": "Intégralité du personnel (5 CDI + 2 apprentis)",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {
+      "nb": 0,
+      "calendrier": null,
+      "indemnites": null,
+      "accompagnement": null
+    },
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Offre indivisible CGB+CPR (sous forme commune). Holding Alhia Green 30+ participations.",
+    "vision_strategique_phrase": null,
+    "pivots_prevus": null,
+    "synergies_repreneur": "Holding Alhia Green (30+ participations)",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "NR",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 514000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 2,
+    "items": [
+      "Accord jugé satisfaisant du bailleur PEC MARENGO sur renégociation du bail",
+      "Accord jugé satisfaisant de BNP PARIBAS et CRÉDIT AGRICOLE sur transfert de la charge des sûretés (art. L.642-12 al. 4)"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "mix",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": true,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": true,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Offre indivisible CGB+CPR (réversibilité jusqu'à audience)", "Prix inférieur à CPR-01 (70k vs 105k)"],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": "VALOREN",
+    "avocat_nom": "Morgane VALLA"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Lebreux : ex-CASINO/Easydis, fondateur LANGA INTERNATIONAL (12 pays, 180 salariés)",
+    "phrase_engagement_social": "Intégralité du personnel (5 CDI + 2 apprentis) repris",
+    "phrase_vision_strategique": null,
+    "phrase_justification_prix": "Charges augmentatives estimées 444 000€ ; coût total reprise estimé 514 000€"
+  }
+}

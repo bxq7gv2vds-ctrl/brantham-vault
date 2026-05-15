@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "offre_id": "28B-ALPHA-03-HFB",
+    "dossier_id": "28B-ALPHA",
+    "dossier_folder": "28 - SAS a associe unique ALPHA CAMPING",
+    "fichier_source_pdf": "offre_03_gd71722632.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "ALPHA CAMPING",
+    "cible_siren": "793853128",
+    "naf_secteur": "Hotellerie de plein air / Camping",
+    "sous_secteur": "Camping Bel Air Village la Pointe de Roscoff (DSP Roscoff)",
+    "ca_dernier_exercice_eur": 14440357,
+    "effectif_total": 46,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "date_audience_cession": "2026-04-02",
+    "aj_nom": "Maitre Maxime LANGET ; Maitre Lou FLECHARD",
+    "mj_nom": "Maitre Florian LACOUR ; Maitre Camille STEINER",
+    "juge_commissaire": "Monsieur Franck MEYNAUD"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Niveau dossier : Seasonova 15 sites + Maeva franchises retenus. Perimetre Roscoff couvert dans le lot Seasonova.",
+    "motifs_rejet_verbatim": "Offre limitee 1 site. Tribunal a privilegie offres consolidees (Seasonova multi-sites).",
+    "nb_offres_concurrentes": 8
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Adrien GLOAGUEN (gerant et beneficiaire effectif) — fondateur Groupe Touriste 2008",
+    "experience_sectorielle_oui_non": "partielle",
+    "experience_sectorielle_annees": 2,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": null,
+      "capital_eur": 829600,
+      "rcs": "504618604",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue",
+      "actionnariat": "Financiere de Douarnenez 64,9% / BPI France 20,9% / Eternam 14,2%"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 3000,
+    "decomposition": {
+      "incorporels_eur": 1500,
+      "corporels_eur": 1500,
+      "stocks_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Garantie virement integral prix dans 24h post-depot",
+    "cheque_consignation_eur": null,
+    "note_prix": "3 000 EUR (1 500 incorp + 1 500 corp)"
+  },
+  "reprise_passif": {
+    "baux_repris": ["Contrat de Concession de Service Public camping municipal Perharidy (commune Roscoff, 02/12/2021, duree 20 ans, terme 31/12/2042)"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Exclusions : sûretes grevant les actifs ; pas de droit de retention/revendication",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": null,
+    "nb_total_salaries": 46,
+    "pct_reprise": null,
+    "categories_reprises": "A determiner (analyse des donnees sociales en cours)",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "diagnostic_resume": "HFB holding animatrice Groupe Touriste (boutique hotels Paris). CA 2024 : 1 004 643 EUR ; REX -549k ; RN -212k. Effectif 10. Lancement 2024 hotellerie plein air via Campings Liberte.",
+    "vision_strategique_phrase": "Lancement 2024 hotellerie plein air via Campings Liberte — Roscoff = premier camping",
+    "pivots_prevus": "Bail substituant la Concession a renegocier",
+    "synergies_repreneur": "Integration boutique-hotels Paris (Sophie Germain, Paradis, Panache, Beaurepaire, Bienvenue, Les Deux Gares, Beauregard, Boetie, Chateau d'Eau)",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": 1004643,
+    "ca_an2_eur": null, "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "NR",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "NR"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["BPI France (actionnaire 20,9%)", "Eternam (actionnaire 14,2%)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "Entree jouissance lendemain jugement plan",
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 5,
+    "items": [
+      "Audit satisfaisant : confirmation Contrat Concession Service Public en cours (L.642-7), credits-bail repris en cours, contrats de travail, mobil-homes credit-bail, tableau dette MLT par etablissement",
+      "Accord cocontractant Concession pour bail substituant la Concession",
+      "Absence droit de retention/revendication",
+      "Absence sûrete art. L.642-12 al.4",
+      "Absence modification substantielle/evenement entre depot et audience"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": false,
+    "annexes_kbis": false, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false, "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": true, "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "incoherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Groupe lourdement deficitaire 2024 (REX -549k, RN -212k) — capacite reprise HPA discutable"],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe Touriste — boutique hotels Paris depuis 2008 (Adrien Gloaguen), lancement hotellerie plein air 2024 via Campings Liberte",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": "Etendue verticale boutique-hotels vers hotellerie plein air",
+    "phrase_justification_prix": null
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "offre_id": "LE_LOFT-03",
+    "dossier_id": "19",
+    "dossier_folder": "19 - SCI LE LOFT",
+    "fichier_source_pdf": "19_SCI_LE_LOFT_offre3.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high",
+    "note_dedup": "CSV original mentionnait MUVICO 260k. Identification corrigee : CORTONA FRANCE (groupe NL) - lettre du 09/01/2026 pour 27 actifs incluant SCI LE LOFT 15 rue Jules Ferry Bagnolet 170 m2 - prix nominal 27 EUR (1 EUR/bien) avec charges augmentatives transfert hypothèques L.642-12 al.4 estimees 12.500.000 EUR."
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI LE LOFT (inclus dans 27 actifs Foncière Melot-Gouband)",
+    "cible_siren": null,
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "Portefeuille 27 actifs - 10.201 m2 cumules - loyer 1.972.403 EUR HT - SCI LE LOFT inclus 170 m2 bureaux+residentiel Bagnolet",
+    "effectif_total": 0,
+    "type_procedure": "RJ",
+    "dldo": "2026-03-02",
+    "aj_nom": "Me Helene BOURBOULOUX",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Me Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "M. Jean-Francois PONCET",
+    "causes_defaillance": "Defaillance groupe Melot-Gouband"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 7,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Alexandre MOLIMARD (gerant CORTONA France) - Philip de Haseth-Moller (proprietaire groupe CORTONA, fonciere 100%)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 40,
+    "track_record_reprises": ["Groupe CORTONA cree 1985 France+Pays-Bas", "Specialise locaux activites et batiments tertiaires", "Loyer annuel 4,0 ME HT HC en France"],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "EURL CORTONA FRANCE existante / substitution prevue SAS CORTONA BALTHAZAR (avec associes SAS BLAMAMA HOLDING + SAS VEKA) ou SAS CORTONA CRINOS en cours de creation",
+      "date_creation": null,
+      "capital_eur": 7622.45,
+      "rcs": "432340222",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 27,
+    "decomposition": {
+      "immeubles_eur": 27
+    },
+    "charges_augmentatives_eur": 12500000,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Prix nominal 1 EUR par bien (27 actifs). Valorisation economique declaree informativement : 17.300.000 EUR. Prix retraite des sommes dues L.642-12 al.4 (transfert hypothèques QUINTET PRIVATE BANK, CREDIT MUTUEL, CIC, BNP, SOCIETE GENERALE - 12.500.000 EUR de declarations de creances). Reconstitution depots de garantie 817.700 EUR a charge candidat.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Tous baux existants - 1.972.403 EUR loyer annuel total"],
+    "engagements_L642_12_al4": true,
+    "engagement_L642_12_montant_eur": 12500000,
+    "passif_privilegie_repris": "Transfert emprunts hypothecaires QUINTET PRIVATE BANK + CREDIT MUTUEL + CIC + BNP + SG - retraitement doublons et triples dans declarations de creances en cours par AJ. Estimation maximale 12.500.000 EUR."
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 0,
+    "pct_reprise": null,
+    "categories_reprises": "Asset deal - aucun salarie repris"
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Analyse fine du portefeuille avec tableau 27 actifs detailles (forme juridique, typologie, surface, fonciere, rent actuel). Identification exclusion SNC PRIMEL TREGASTEL (baux Idefisc). 12 emplacements stationnement SCI Insula consideres comme bien unique. Valorisation economique 17,3 ME. Charges augmentatives 12,5 ME hypotheques + 817.700 EUR depots garantie = total ~ 30 ME.",
+    "vision_strategique_phrase": "Detention patrimoniale longue terme, asset management actifs activites + tertiaires - rationalisation portefeuille existant 4 ME loyer France",
+    "synergies_repreneur": "Integration dans foncière existante CORTONA France + sociétés holding (~30 entites)",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "prudentes",
+    "maintien_site": "oui_total"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": true,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "partenaires_financiers": ["CIC Paris (lettre de confort jointe)"]
+  },
+  "engagements_specifiques": {
+    "non_demembrement": true,
+    "maintien_territoire_site_duree": "Conservation moyen-long terme"
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 4,
+    "items": [
+      "Realite et consistance des biens (proprietes exclusives, surfaces, baux, loyers minimum 1.972.000 EUR HT, absence conge locataire > 50.000 EUR)",
+      "Communication AJ informations completes sur emprunts L.642-12 al.4 (existence, encours residuel, tableaux amortissement, declarations creances, transferabilite juridique)",
+      "Faculte substitution pour toute societe du groupe CORTONA (creee ou a creer)",
+      "Pas de clause d'inalienabilite dans le plan de cession"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 7,
+    "structure_dominante": "mix",
+    "ton_dominant": "technique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": true,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": true,
+    "annexes_attest_fisc_sociale": true,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": true,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": true,
+    "personnalisation_visite_site": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "incoherent",
+    "differenciation_concurrents_explicite": true,
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true,
+    "erreurs_apparentes": [
+      "Prix 27 EUR symbolique - decalage majeur avec valorisation economique declaree 17,3 ME - strategie risquee transfert hypothèques",
+      "Encours residuel emprunts non determine au depot - dependance totale a la commutation d'informations par AJ"
+    ]
+  },
+  "avocat_repreneur": {
+    "cabinet": "VXL Notaires - Benjamin NOBLINSKI",
+    "avocat_nom": "Benjamin NOBLINSKI"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Cree en 1985, le groupe CORTONA est present en France et aux Pays-Bas. Il est specialise dans l'acquisition et la gestion de locaux d'activites et batiments tertiaires.",
+    "phrase_justification_prix": "Retraite du montant des sommes dues au titre de l'art. L.642-12 du code de commerce et du montant des depots de garantie dus aux locataires, le prix propose est de 27 EUR (vingt-sept euros), soit 1 (un) euro pour chacun des 27 biens"
+  }
+}
