@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "offre_id": "34-05",
+    "dossier_id": "34",
+    "dossier_folder": "34 - SAS COSA",
+    "fichier_source_pdf": "offre_05_gd72087445.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS COSA VOSTRA",
+    "cible_siren": "798459541",
+    "effectif_total": 29,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-12-10",
+    "dldo": "2026-01-06",
+    "date_audience_cession": "2026-03-05",
+    "aj_nom": "Me Sandra Beladjine",
+    "mj_nom": "Me Stéphane Gorrias"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "amelioree_puis_retenue",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_rejet_verbatim": "Offre initiale Agence IF (plancher 5k€/3 emplois) — améliorée le 13/02/2026 (34-01a) à 70k€/16 emplois. Version étendue (8,4MB) avec annexes volumineuses (présentation groupe).",
+    "nb_offres_concurrentes": 6
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Alfred Corchia",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": ["Ipso Facto", "Vital", "Welove", "Made for Com", "Armstrong", "Raison Pure", "Groupe Axxess", "Martine Leherpeur Conseil", "Parishanghai"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "SARL",
+      "capital_eur": 5000,
+      "rcs": "824813430",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 5000,
+    "decomposition": {
+      "incorporels_eur": 3000,
+      "corporels_eur": 2000
+    },
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds propres"
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "engagements_L642_12_al4": false
+  },
+  "volet_social": {
+    "nb_salaries_repris": 3,
+    "nb_total_salaries": 29,
+    "pct_reprise": 10.3,
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "vision_strategique_phrase": "Offre plancher à améliorer",
+    "synergies_repreneur": "WeThePeople-Group / ACB Group",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false
+  },
+  "engagements_specifiques": {"non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Pas de dégradation substantielle activité",
+      "Audit concluant",
+      "Rencontre salariés concluante"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_comptes_sociaux_3ans": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "coherence_prix_BP": "NR",
+    "erreurs_apparentes": ["Offre plancher"],
+    "faculte_substitution_precise": false,
+    "declaration_L642_3_signee": true
+  },
+  "avocat_repreneur": {"cabinet": "AGN Avocats Paris", "avocat_nom": "Me Valentin MANGENOT"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "ACB Group / WeThePeople-Group (Armstrong / Auguste et Louise)",
+    "phrase_vision_strategique": "Offre plancher à améliorer dans le délai d'amélioration",
+    "phrase_justification_prix": null
+  },
+  "bilan_repreneur": {
+    "ca_eur": 6500000,
+    "resultat_exploitation_eur": 421000
+  }
+}

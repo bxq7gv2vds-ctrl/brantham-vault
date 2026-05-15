@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "offre_id": "34-01b",
+    "dossier_id": "34",
+    "dossier_folder": "34 - SAS COSA",
+    "fichier_source_pdf": "offre_01_gd74768310.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS COSA VOSTRA",
+    "cible_siren": "798459541",
+    "naf_secteur": "Agences digitales / conseil",
+    "effectif_total": 29,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-12-10",
+    "dldo": "2026-01-06",
+    "date_audience_cession": "2026-03-05",
+    "aj_nom": "Me Sandra Beladjine",
+    "mj_nom": "Me Stéphane Gorrias",
+    "juge_commissaire": "M. Stéphane Catoire"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": "Prix encaissable inférieur (50k€ vs 70k€ Agence IF). Offre lourde (25 pages, 18 annexes) avec ton professoral. Charges augmentatives masquées (745k€ BFR/encours non facturés) non payées à la procédure. Demandes exorbitantes au tribunal : clause non-sollicitation clientèle 24 mois imposée aux 4 anciens dirigeants. Discrédite l'équipe sortante (§ p.7). Droits acquis salariés pré-jugement renvoyés à la procédure et à l'AGS (vs absorbés par Agence IF). Sur-justification du prix modeste paragraphe §3.3.3 'Si le prix proposé peut paraître modeste...'.",
+    "nb_offres_concurrentes": 6
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Jean-Claude NOGUES, Président. DATAGROUP : ~42M€ CA consolidé, 350 collaborateurs, 14 bureaux (Paris/Toulouse/Bordeaux/Montpellier/Lille/Lyon/Chambéry/Poitiers/NY/Sydney/Melbourne). Bénéficiaire effectif 82,68%.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["CANAL WEB (2017)", "AGENCE LES INDÉPENDANTS (2018)", "branche KEYRUS/BLACKSMITH (2025)"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "capital_eur": 973375,
+      "rcs": "445223852",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 50000,
+    "decomposition": {
+      "incorporels_eur": 40000,
+      "corporels_eur": 10000,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 745000,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds propres (trésorerie nette ~10M€ annexe 18 confidentielle)"
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "engagements_L642_12_al4": false,
+    "retraites_chapeau_indemnites": "Droits acquis antérieurs au jugement renvoyés à la procédure collective et organismes garantie (AGS)"
+  },
+  "volet_social": {
+    "nb_salaries_repris": 28,
+    "nb_total_salaries": 29,
+    "pct_reprise": 96.6,
+    "categories_reprises": "28 salariés (CDI complet hors alternant)",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "engagement_maintien_emplois_duree_mois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Acquéreur consolidateur expert M&A — intégration directe DATASOLUTION (renonciation faculté substitution)",
+    "vision_strategique_phrase": "Consolidation sectorielle agences digitales — DATAGROUP enseignes SHOPWEB/DS AGENCY/ACTIVE PUBLISHING/BLACKSMITH",
+    "synergies_repreneur": "14 bureaux mondiaux DATAGROUP, mutualisation moyens",
+    "plan_affaires_3ans_present": true,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 10000000,
+    "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": false,
+    "partenaires_financiers": ["DATAGROUP — trésorerie nette ~10M€"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 4,
+    "items": [
+      "Clause non-sollicitation clientèle 24 mois imposée à Laurent KRETZ, François DESFOSSEZ, Kevin COUVET, Louis DUMOULIN",
+      "Reconnaissance qualité de producteur des podcasts Le Panier / Mediarama / Un Podcast De Goûts par Laurent KRETZ, François DESFOSSEZ, Louis DUMOULIN",
+      "Cohérence dataroom au 31/12/2025",
+      "Aucun événement significatif avant jugement"
+    ],
+    "agressivite_envers_dirigeants": "forte_clause_non_sollicitation"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 25,
+    "nb_pages_corps_offre": 25,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": true,
+    "annexes_business_plan": true,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": true,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "incoherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [
+      "Discréditer l'équipe sortante (p.7) : 'il existe un risque réel sur la pérennité de l'activité cédée'",
+      "Sur-justification du modeste prix § 3.3.3 'Si le prix proposé peut paraître modeste...'",
+      "Demande exorbitante au tribunal : imposer clauses contractuelles à des tiers (anciens dirigeants)",
+      "Charges augmentatives qui ne tombent pas dans la procédure (745k€ BFR/encours)"
+    ],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": "Conseil choisi par DATASOLUTION"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "OFFRE DE REPRISE EN PLAN DE CESSION DES ACTIFS DE LA SOCIÉTÉ COSA VOSTRA — ARTICLE L.642-2 ET SUIVANTS DU CODE DE COMMERCE",
+    "phrase_engagement_social": "DATASOLUTION assurera, à compter de l'entrée en jouissance, l'exécution des contrats de travail transférés. Les droits acquis antérieurement au jugement d'ouverture et non réglés demeureront à la charge de la procédure collective et/ou des organismes de garantie",
+    "phrase_vision_strategique": "renonçant à toute faculté de substitution, de sorte que l'activité de COSA VOSTRA sera directement intégrée à DATASOLUTION",
+    "phrase_justification_prix": "Si le prix proposé peut paraître modeste, DATASOLUTION a identifié les charges augmentatives du prix de cession suivantes (~745k€)"
+  },
+  "bilan_repreneur": {
+    "ca_eur": 25761351,
+    "resultat_exploitation_eur": null,
+    "resultat_net_eur": null,
+    "total_actif_eur": null,
+    "capitaux_propres_eur": null
+  }
+}

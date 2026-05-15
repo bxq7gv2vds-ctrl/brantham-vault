@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "offre_id": "34-03",
+    "dossier_id": "34",
+    "dossier_folder": "34 - SAS COSA",
+    "fichier_source_pdf": "offre_03_gd72088095.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS COSA VOSTRA",
+    "cible_siren": "798459541",
+    "effectif_total": 29,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-12-10",
+    "dldo": "2026-01-06",
+    "date_audience_cession": "2026-03-05",
+    "aj_nom": "Me Sandra Beladjine",
+    "mj_nom": "Me Stéphane Gorrias"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_rejet_verbatim": "Cherry-picking e-commerce uniquement (hors bail, hors Tunisie, hors UK). 4 emplois CDI / 29. Actionnaire minoritaire 34% en position de conflit potentiel.",
+    "nb_offres_concurrentes": 6
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Cédric MASSONNAT (Président via Culture Cloud SAS 50%) + Maxime GARRIGUES (50%)",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "capital_eur": 50000,
+      "rcs": "907980973",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 25000,
+    "decomposition": {
+      "incorporels_eur": 24999,
+      "corporels_eur": 1
+    },
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "engagements_L642_12_al4": false,
+    "passif_privilegie_repris": "Hors bail, hors Tunisie, hors UK"
+  },
+  "volet_social": {
+    "nb_salaries_repris": 4,
+    "nb_total_salaries": 29,
+    "pct_reprise": 13.8,
+    "categories_reprises": "Directeur Commercial, Développeur Backend, Développeur Shopify, Production Podcast (4 CDI Paris)",
+    "categories_non_reprises_raisons": "0 à Bordeaux. Périmètre e-commerce uniquement.",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "vision_strategique_phrase": "Intégration e-commerce COSA dans HORREA — The Digital Commerce Company",
+    "synergies_repreneur": "HORREA 4M€ CA 2024 — pure player e-commerce",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 600000,
+    "ca_an2_eur": 750000,
+    "ebitda_an3_eur": 103000,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "partiel",
+    "maintien_marques_savoir_faire": "partiel"
+  },
+  "financement": {
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false
+  },
+  "engagements_specifiques": {"non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Communication informations complémentaires clients 2026",
+      "Accompagnement Laurent KRETZ + Kevin COUVET pendant 6 mois après entrée en jouissance",
+      "Pas d'événement significatif"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "commercial",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_business_plan": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "erreurs_apparentes": ["Actionnaire minoritaire (34%) — conflit d'intérêts apparent", "Cherry-picking e-commerce uniquement", "Démembrement de l'activité COSA"],
+    "faculte_substitution_precise": false,
+    "declaration_L642_3_signee": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": "Me Morgane VALLA"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "HORREA — The Digital Commerce Company",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": "Reprise scope e-commerce + accompagnement Kretz/Couvet 6 mois",
+    "phrase_justification_prix": null
+  },
+  "bilan_repreneur": {
+    "ca_eur": 4004000,
+    "resultat_net_eur": 303000
+  }
+}

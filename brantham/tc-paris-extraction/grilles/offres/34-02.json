@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "offre_id": "34-02",
+    "dossier_id": "34",
+    "dossier_folder": "34 - SAS COSA",
+    "fichier_source_pdf": "offre_02_gd74760004.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS COSA VOSTRA",
+    "cible_siren": "798459541",
+    "effectif_total": 29,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-12-10",
+    "dldo": "2026-01-06",
+    "date_audience_cession": "2026-03-05",
+    "aj_nom": "Me Sandra Beladjine",
+    "mj_nom": "Me Stéphane Gorrias"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_rejet_verbatim": "Repreneur trop petit (groupe PH7 4,5M€ CA, 35 collab) face à activité COSA VOSTRA (~7M€ CA). Prix faible 3k€. SAS à constituer cap 1000€.",
+    "nb_offres_concurrentes": 6
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Alexis HUET, DG Ingenius & Président Groupe PH7 (Paris/Bordeaux/Marseille)",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "capital_eur": 3000,
+      "rcs": "851736504",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 3000,
+    "decomposition": {
+      "incorporels_eur": 2500,
+      "corporels_eur": 500
+    },
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Emprunt 100K€ An1 + fonds propres"
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Kokori", "Villa Maria SAS Bordeaux"],
+    "engagements_L642_12_al4": false
+  },
+  "volet_social": {
+    "nb_salaries_repris": 12,
+    "nb_total_salaries": 29,
+    "pct_reprise": 41.4,
+    "categories_reprises": null,
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "vision_strategique_phrase": "Consolidation digitale Groupe PH7 (35 collab) + filiale tunisienne 100%",
+    "synergies_repreneur": "Groupe PH7 4,5M€ CA, 3 sites Paris/Bordeaux/Marseille",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 1325000,
+    "ca_an2_eur": 1471000,
+    "ca_an3_eur": 1647000,
+    "ebitda_an3_eur": 114000,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "partiel",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": true,
+    "dette_bancaire_montant_eur": 100000,
+    "bfr_redemarrage_eur": null
+  },
+  "engagements_specifiques": {"non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Pas de dégradation substantielle activité",
+      "Audit concluant",
+      "Rencontre salariés concluante"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "technique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_business_plan": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "personnalisation_visite_site": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "erreurs_apparentes": ["Repreneur trop petit (4,5M vs 7M cible)", "Prix dérisoire (3k€)"],
+    "faculte_substitution_precise": true,
+    "declaration_L642_3_signee": true
+  },
+  "avocat_repreneur": {"cabinet": "AARPI ROOM Avocats", "avocat_nom": "Frédéric SUEUR"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe PH7 — CA consolidé ~4,5M€, 35 collaborateurs, 3 sites Paris/Bordeaux/Marseille",
+    "phrase_vision_strategique": "Constitution COSA VOSTRA 2 (SAS dédiée Paris) avec reprise contrats Kokori + Villa Maria Bordeaux",
+    "phrase_justification_prix": null
+  }
+}
