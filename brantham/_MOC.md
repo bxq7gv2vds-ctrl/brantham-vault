@@ -37,6 +37,10 @@ Voir [[founder/decisions/2026-04-24-pricing-7k-7k-petits-tickets]].
 - Pipeline tech : Cockpit web Next.js operationnel (459 opps, 200 actives) — voir [[brantham/sessions/2026-04-28-cockpit-minimalisme-outreach]]
 - Knowledge base : 49+ sujets, complete
 
+## Deal intel & datasets
+
+- [[brantham/tc-paris-extraction/_MOC|TC Paris — Extraction Greffe]] — Dataset 94 dossiers / 545 offres, master CSV + analyses repreneurs récurrents & groupes distressed
+
 ## Contexte & Process (LIRE EN PRIORITE)
 
 - [[brantham/context/business-profile/_PROFILE]] — **Living business profile** (mis à jour à chaque vocal Paul)
