@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "offre_id": "50-04",
+    "dossier_id": "50",
+    "dossier_folder": "50 - SAS associé unique EURODIF",
+    "fichier_source_pdf": "50_SAS___associ__unique_EURODIF_offre4.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "low"
+  },
+  "identification": {
+    "cible_raison_sociale": "EURODIF SAS (enseigne Bouchara)",
+    "cible_siren": "408772101",
+    "naf_secteur": "Commerce de detail textile / linge de maison / decoration",
+    "sous_secteur": "Reseau de magasins Bouchara ~80 PdV France",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 524,
+    "nb_sites": 80,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-01-30",
+    "dldo": "2026-03-10",
+    "date_audience_cession": "2026-04-10",
+    "aj_nom": "Maitre Catherine POLI / Maitre Eric BAULAND",
+    "aj_etude": "SELARL AJRS / SELARL BCM",
+    "mj_nom": "Maitre Julia RUTH / Maitre Stephane GORRIAS",
+    "mj_etude": "SELARL ASTEREN / SCP BTSG2",
+    "juge_commissaire": null,
+    "causes_defaillance": "Difficultes de tresorerie, stock bloque au Havre ~2,4M EUR appartenant a 48 fournisseurs asiatiques, baisse activite linge de maison"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_rejet_verbatim": "Perimetre 18 mag pour 80k EUR + CS multiples (accord bailleurs, audit marque) vs AA Investments sans CS, 25 mag, 185 emplois",
+    "nb_offres_concurrentes": 13
+  },
+  "profil_repreneur": {
+    "forme": "holding_ad_hoc",
+    "track_record_reprises": [
+      "VERDOSO (Maurice BERREBI) : multiples deals distressed France"
+    ],
+    "capacite_financiere_demontree": "forte_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "NewCo SAS francaise a constituer",
+      "type_vehicule": "newco",
+      "kbis_present_en_annexe": false
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 80000,
+    "decomposition": {},
+    "modalites_paiement": "comptant_audience"
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "nb_salaries_repris": null,
+    "pct_reprise": null,
+    "categories_reprises": "Contrats de travail attaches aux 18 magasins repris"
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "NR",
+    "plan_affaires_3ans_present": false,
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 80000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "partenaires_financiers": [
+      "VERDOSO INVESTMENT (Maurice BERREBI)",
+      "Daniel TOME",
+      "BALMA",
+      "NJJ (Xavier NIEL)"
+    ]
+  },
+  "engagements_specifiques": {},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 2,
+    "items": [
+      "Accord bailleurs sur 18 magasins",
+      "Audit marque"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "erreurs_apparentes": []
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Consortium 4 partenaires : VERDOSO + Daniel TOME + BALMA + NJJ (Xavier NIEL)"
+  }
+}

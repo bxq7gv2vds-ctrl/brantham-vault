@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "offre_id": "50-06",
+    "dossier_id": "50",
+    "dossier_folder": "50 - SAS associé unique EURODIF",
+    "fichier_source_pdf": "50_SAS___associ__unique_EURODIF_offre6.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "low"
+  },
+  "identification": {
+    "cible_raison_sociale": "EURODIF SAS (enseigne Bouchara)",
+    "cible_siren": "408772101",
+    "naf_secteur": "Commerce de detail textile / linge de maison / decoration",
+    "sous_secteur": "Reseau de magasins Bouchara ~80 PdV France",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 524,
+    "nb_sites": 80,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-01-30",
+    "dldo": "2026-03-10",
+    "date_audience_cession": "2026-04-10",
+    "aj_nom": "Maitre Catherine POLI / Maitre Eric BAULAND",
+    "aj_etude": "SELARL AJRS / SELARL BCM",
+    "mj_nom": "Maitre Julia RUTH / Maitre Stephane GORRIAS",
+    "mj_etude": "SELARL ASTEREN / SCP BTSG2",
+    "juge_commissaire": null,
+    "causes_defaillance": "Difficultes de tresorerie, stock bloque au Havre ~2,4M EUR appartenant a 48 fournisseurs asiatiques, baisse activite linge de maison"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_rejet_verbatim": "Offre initiale amelioree par 50-04 (ajout NJJ, prix 30k -> 80k)",
+    "nb_offres_concurrentes": 13
+  },
+  "profil_repreneur": {
+    "forme": "holding_ad_hoc",
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "NewCo SAS francaise a constituer",
+      "type_vehicule": "newco",
+      "kbis_present_en_annexe": false
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 30000,
+    "decomposition": {},
+    "modalites_paiement": "NR"
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "plan_licenciement": {}
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "NR",
+    "plan_affaires_3ans_present": false
+  },
+  "financement": {
+    "partenaires_financiers": [
+      "VERDOSO INVESTMENT",
+      "Daniel TOME",
+      "BALMA"
+    ]
+  },
+  "engagements_specifiques": {},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Accord bailleurs",
+      "Audit marque",
+      "Financement"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "erreurs_apparentes": []
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {}
+}

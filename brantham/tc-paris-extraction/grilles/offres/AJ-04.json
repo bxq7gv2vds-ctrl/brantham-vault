@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "offre_id": "AJ-04",
+    "dossier_id": "AJ",
+    "dossier_folder": "23 - SAS A J CONSEIL",
+    "fichier_source_pdf": "offre_04_gd70965693.pdf (Consortium EL HOURFI / JOURNO / HACHIBA / TACHFINE)",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS AJ CONSEIL / AJILINK",
+    "cible_siren": null,
+    "naf_secteur": "Recrutement / Intérim / Conseil RH",
+    "sous_secteur": "Mise à disposition personnel tourisme/hôtellerie/tertiaire",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 4,
+    "nb_sites": null,
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": "2025-12-05",
+    "date_audience_cession": null,
+    "aj_nom": null,
+    "aj_etude": null,
+    "mj_nom": null,
+    "mj_etude": null,
+    "juge_commissaire": null,
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 4,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "holding_ad_hoc",
+    "age_parcours_dirigeant": "Consortium 4 personnes : Mohamed EL HOURFI (Président via holding) + Franck JOURNO (via NEO 26, né 19/02/1970) + Karim HACHIBA (DG via holding) + Youssef TACHFINE (minoritaire via holding)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["HUMAN LOG (Saloua ZAHOT côté EL HOURFI)", "NEO 26 (Franck JOURNO, créée 2017, RCS Nanterre 829931633, conseil/recrutement/RH/marketing)"],
+    "capacite_financiere_demontree": "faible_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS à constituer ('AJ Conseil NEW')",
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": null,
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "newco"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 1000,
+    "decomposition": {
+      "incorporels_eur": 1,
+      "corporels_eur": 1,
+      "stocks_eur": 10000,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Chèque de banque totalité du prix avant audience de cession. Financement bancaire du BFR en cours.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Baux commerciaux en cours d'étude — transfert envisagé pour réduire frais fixes"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Téléphonie reprise"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Stock lisses et échelles sous GAGE — repreneur interroge AJ sur qualification sûreté spéciale L.642-12 al.4",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 1,
+    "nb_total_salaries": 4,
+    "pct_reprise": 25,
+    "categories_reprises": "1 salarié (100% droits salariaux anté et post-RJ repris, mutuelle/prévoyance reprises)",
+    "categories_non_reprises_raisons": "3 non repris ; dirigeant actuel non repris",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 3, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": 24,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": true
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "diagnostic_resume": "Projet stabilisation et redynamisation activité historique — pas de reclassement intra-groupe",
+    "vision_strategique_phrase": "Stabilisation et redynamisation activité historique",
+    "pivots_prevus": "Transfert baux pour réduire frais fixes",
+    "synergies_repreneur": "HUMAN LOG + NEO 26 (consortium horizontal recrutement)",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "non",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 1000,
+    "apport_origine_documentee": "non",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": true,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["NEO 26 (Franck JOURNO)", "Financement bancaire BFR en cours"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 8,
+    "items": [
+      "Audit social — droits acquis des salariés",
+      "Bilan environnemental de l'AJ",
+      "Financement bancaire du BFR / prix de cession",
+      "Absence de transfert sûreté spéciale au repreneur (confirmation AJ + créancier gagiste)",
+      "Audit de la cible",
+      "Visite de la cible",
+      "Réunion IRP-RS",
+      "Réunion direction"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 3,
+    "nb_pages_corps_offre": 3,
+    "nb_pages_annexes": null,
+    "structure_dominante": "mix",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": true,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": true,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Offre 3 pages tableau — peu détaillée. 8 CS = signal de fragilité"],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": "Maître Younse ELAISATI — Avocat Restructuring, Barreau de Lille"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Consortium EL HOURFI (holding, Président) + JOURNO (NEO 26, recrutement) + HACHIBA (holding, DG) + TACHFINE (holding, minoritaire) — création AJ Conseil NEW",
+    "phrase_engagement_social": "1 salarié repris sur 4 (3 non repris). 100% droits salariaux anté et post-RJ repris",
+    "phrase_vision_strategique": "Stabilisation et redynamisation activité historique. Durée engagements : 2 ans. Pas de reclassement intra-groupe.",
+    "phrase_justification_prix": "Prix total 1 000€ (1€ corporels + 1€ incorporels + 10 000€ stock forfaitaire). Stock lisses et échelles sous gage — qualification sûreté à confirmer"
+  }
+}

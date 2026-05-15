@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "offre_id": "50-08",
+    "dossier_id": "50",
+    "dossier_folder": "50 - SAS associé unique EURODIF",
+    "fichier_source_pdf": "50_SAS___associ__unique_EURODIF_offre8.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "low"
+  },
+  "identification": {
+    "cible_raison_sociale": "EURODIF SAS (enseigne Bouchara)",
+    "cible_siren": "408772101",
+    "naf_secteur": "Commerce de detail textile / linge de maison / decoration",
+    "sous_secteur": "Reseau de magasins Bouchara ~80 PdV France",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 524,
+    "nb_sites": 80,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-01-30",
+    "dldo": "2026-03-10",
+    "date_audience_cession": "2026-04-10",
+    "aj_nom": "Maitre Catherine POLI / Maitre Eric BAULAND",
+    "aj_etude": "SELARL AJRS / SELARL BCM",
+    "mj_nom": "Maitre Julia RUTH / Maitre Stephane GORRIAS",
+    "mj_etude": "SELARL ASTEREN / SCP BTSG2",
+    "juge_commissaire": null,
+    "causes_defaillance": "Difficultes de tresorerie, stock bloque au Havre ~2,4M EUR appartenant a 48 fournisseurs asiatiques, baisse activite linge de maison"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_rejet_verbatim": "Offre partielle marque Bouchara seule (sans reseau physique) - non integree au plan AA Investments",
+    "nb_offres_concurrentes": 13
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [
+      "LINVOSGES (linge de maison francais historique)"
+    ],
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "type_vehicule": "existante",
+      "kbis_present_en_annexe": false
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": null,
+    "decomposition": {
+      "incorporels_eur": null
+    },
+    "modalites_paiement": "comptant_audience"
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "pct_reprise": 0
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "vision_strategique_phrase": "Complementarite strategique marque Bouchara / Linvosges",
+    "maintien_marques_savoir_faire": "oui",
+    "maintien_site": "non"
+  },
+  "financement": {
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 2,
+    "items": [
+      "Audit de la marque",
+      "Absence de nantissements"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "erreurs_apparentes": []
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {}
+}

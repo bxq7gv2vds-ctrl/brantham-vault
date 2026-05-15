@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "offre_id": "AJ-03",
+    "dossier_id": "AJ",
+    "dossier_folder": "23 - SAS A J CONSEIL",
+    "fichier_source_pdf": "offre_03_gd70965749.pdf (MS GROUP)",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS AJ CONSEIL / AJILINK",
+    "cible_siren": null,
+    "naf_secteur": "Recrutement / Intérim / Conseil RH",
+    "sous_secteur": "Mise à disposition personnel tourisme/hôtellerie/tertiaire",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 4,
+    "nb_sites": null,
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": "2025-12-05",
+    "date_audience_cession": null,
+    "aj_nom": null,
+    "aj_etude": null,
+    "mj_nom": null,
+    "mj_etude": null,
+    "juge_commissaire": null,
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 4,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_concurrent",
+    "age_parcours_dirigeant": "Carole BETITO (Gérante MS GROUP, holding MSCB INVESTISSEMENTS capital 1,9M€)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["MS GROUP — noms commerciaux MS VICTOIRE / MS TOURISME, secteurs tourisme/hôtellerie/tertiaire"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SARL",
+      "date_creation": null,
+      "capital_eur": 100000,
+      "rcs": "538713488",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 5000,
+    "decomposition": {
+      "incorporels_eur": 4500,
+      "corporels_eur": 500,
+      "stocks_eur": 0,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "NR",
+    "garanties_paiement": "Fonds propres (disponibilités issues résultats antérieurs, sans concours bancaire). BFR financé sur fonds propres.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Totalité des contrats clients"],
+    "contrats_fournisseurs_repris": ["Contrat téléphonie", "Contrat hébergement informatique", "Licences d'exploitation"],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Passif antérieur exclu",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 1,
+    "nb_total_salaries": 4,
+    "pct_reprise": 25,
+    "categories_reprises": "1 Office Manager (sous CS présentiel)",
+    "categories_non_reprises_raisons": "3 salariés non repris (raisons non précisées). Salariés accueillis dans locaux MS GROUP (bail commercial AJ non repris).",
+    "maintien_conditions_anciennete_salaire_lieu": "partiel",
+    "plan_licenciement": {"nb": 3, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Budget prévisionnel en cours d'élaboration — proposition accompagnement dirigeant actuel via contrat de prestation",
+    "vision_strategique_phrase": "Accueil salarié dans locaux MS GROUP (synergies infrastructure)",
+    "pivots_prevus": "Bail commercial AJ CONSEIL non repris — relocalisation chez MS GROUP",
+    "synergies_repreneur": "MS GROUP (3 salariés permanents + 47 intérimaires, CA 3,14M€, RN 396k€, CP 1,22M€) sur secteurs tourisme/hôtellerie/tertiaire",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "non",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 5000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["MSCB INVESTISSEMENTS (holding capital 1,9M€)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 1,
+    "items": [
+      "Confirmation du salarié repris (Office Manager) de reprendre en présentiel et non en télétravail — condition suspensive de l'offre globale"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 20,
+    "nb_pages_corps_offre": 20,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": "SELARL DORLEAC AZOULAY ASSOCIES",
+    "avocat_nom": "Maître Albert SERFATY (2 rue de Sontay 75116 Paris)"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "MS GROUP (cap. 100k€, holding MSCB INVESTISSEMENTS cap. 1,9M€) — Total actif 2 038K€ / CA 3 144K€ / RE 515K€ / RN 396K€ / CP 1 221K€",
+    "phrase_engagement_social": "1 salarié repris (Office Manager) sous condition de présentiel — 3 non repris",
+    "phrase_vision_strategique": "Accueil salarié dans locaux MS GROUP (bail AJ non repris). Proposition accompagnement dirigeant actuel via contrat de prestation",
+    "phrase_justification_prix": "Fonds propres (sans concours bancaire). BFR sur fonds propres."
+  }
+}

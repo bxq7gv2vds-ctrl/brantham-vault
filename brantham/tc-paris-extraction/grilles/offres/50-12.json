@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "offre_id": "50-12",
+    "dossier_id": "50",
+    "dossier_folder": "50 - SAS associé unique EURODIF",
+    "fichier_source_pdf": "50_SAS___associ__unique_EURODIF_offre12.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "EURODIF SAS (enseigne Bouchara)",
+    "cible_siren": "408772101",
+    "naf_secteur": "Commerce de detail textile / linge de maison / decoration",
+    "sous_secteur": "Reseau de magasins Bouchara ~80 PdV France",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 524,
+    "nb_sites": 80,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-01-30",
+    "dldo": "2026-03-10",
+    "date_audience_cession": "2026-04-10",
+    "aj_nom": "Maitre Catherine POLI / Maitre Eric BAULAND",
+    "aj_etude": "SELARL AJRS / SELARL BCM",
+    "mj_nom": "Maitre Julia RUTH / Maitre Stephane GORRIAS",
+    "mj_etude": "SELARL ASTEREN / SCP BTSG2",
+    "juge_commissaire": null,
+    "causes_defaillance": "Difficultes de tresorerie, stock bloque au Havre ~2,4M EUR appartenant a 48 fournisseurs asiatiques, baisse activite linge de maison"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_rejet_verbatim": "Offre partielle marque BOUCHARA Collection seule. IDGIFT (filiale BEN'S) deja licenciee exclusive depuis 16/05/2012. Non integree au plan AA Investments.",
+    "nb_offres_concurrentes": 13
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Catherine APRAHAMIAN + Thierry BENSAID (co-gerants)",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [
+      "IDGIFT SAS (licencie exclusif Bouchara Collection depuis 2012)",
+      "BARBACADO SAS"
+    ],
+    "vehicule_reprise": {
+      "forme_juridique": "SARL",
+      "capital_eur": 501000,
+      "rcs": "824037733 RCS Creteil",
+      "type_vehicule": "existante",
+      "kbis_present_en_annexe": true
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 7000,
+    "decomposition": {
+      "incorporels_eur": 7000,
+      "corporels_eur": 0
+    },
+    "modalites_paiement": "comptant_audience"
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "pct_reprise": 0,
+    "categories_reprises": "Aucune (offre asset)"
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "vision_strategique_phrase": "Acquisition pour assurer continuite d'exploitation et preserver valeur commerciale",
+    "maintien_marques_savoir_faire": "oui",
+    "maintien_site": "non"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 7000,
+    "apport_origine_documentee": "oui_simple_mention"
+  },
+  "engagements_specifiques": {},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 4,
+    "items": [
+      "Confirmation titularite de la marque",
+      "Absence de nantissements/suretes/litiges",
+      "Verification etat des inscriptions",
+      "Autorisation tribunal"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "juridique",
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "erreurs_apparentes": []
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {}
+}

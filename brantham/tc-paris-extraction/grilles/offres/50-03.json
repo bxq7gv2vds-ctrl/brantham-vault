@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "offre_id": "50-03",
+    "dossier_id": "50",
+    "dossier_folder": "50 - SAS associé unique EURODIF",
+    "fichier_source_pdf": "50_SAS___associ__unique_EURODIF_offre3.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "EURODIF SAS (enseigne Bouchara)",
+    "cible_siren": "408772101",
+    "naf_secteur": "Commerce de detail textile / linge de maison / decoration",
+    "sous_secteur": "Reseau de magasins Bouchara ~80 PdV France",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 524,
+    "nb_sites": 80,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-01-30",
+    "dldo": "2026-03-10",
+    "date_audience_cession": "2026-04-10",
+    "aj_nom": "Maitre Catherine POLI / Maitre Eric BAULAND",
+    "aj_etude": "SELARL AJRS / SELARL BCM",
+    "mj_nom": "Maitre Julia RUTH / Maitre Stephane GORRIAS",
+    "mj_etude": "SELARL ASTEREN / SCP BTSG2",
+    "juge_commissaire": null,
+    "causes_defaillance": "Difficultes de tresorerie, stock bloque au Havre ~2,4M EUR appartenant a 48 fournisseurs asiatiques, baisse activite linge de maison"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "amelioree_puis_retenue",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Source presse : plan de cession arrete au profit d'AA Investments HK — perimetre maximum 25 baux / 185 emplois CDI + mecanisme stock du Havre co-construit avec la procedure",
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 13,
+    "concurrents_resume": [
+      {
+        "nom": "TDU GROUP",
+        "positionnement_2lignes": "Famille BRUNON, 83 PdV existants, 11 magasins repris / 60 emplois / 190k EUR"
+      },
+      {
+        "nom": "AMONISS-Pimkie",
+        "positionnement_2lignes": "Groupe Amoniss (Pimkie/Christine Laure/Lepape), 7 magasins / 100 emplois / 300k EUR — business plan en cours d'elaboration"
+      },
+      {
+        "nom": "CASA IDEAS",
+        "positionnement_2lignes": "Pellegrin (ex-Maxi Bazar), 2 magasins / 20 emplois / 138k EUR"
+      },
+      {
+        "nom": "Consortium VERDOSO/TOME/BALMA/NJJ",
+        "positionnement_2lignes": "Niel + Berrebi + Tome, 18 magasins / 80k EUR"
+      },
+      {
+        "nom": "Jeremy JOVELET",
+        "positionnement_2lignes": "PP ex-DG IKKS Retail, 22 succursales + 1 franchise / 215 emplois / 60k EUR"
+      },
+      {
+        "nom": "LIDL",
+        "positionnement_2lignes": "Offre partielle droit au bail 1 magasin (strategie immobiliere)"
+      },
+      {
+        "nom": "LINVOSGES/ROSA",
+        "positionnement_2lignes": "Marque Bouchara seule (asset partiel)"
+      },
+      {
+        "nom": "BEN'S HOLDING",
+        "positionnement_2lignes": "Marque Bouchara Collection seule, 7k EUR — IDGIFT deja licencie depuis 2012"
+      },
+      {
+        "nom": "OTERA",
+        "positionnement_2lignes": "Droit au bail magasin isole (offre partielle)"
+      }
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "repreneur_etranger",
+    "age_parcours_dirigeant": "Morteza GOSHAYESHI (52%, co-dirigeant) + Arman GOSHAYESHI (16%, co-dirigeant) — famille (epouse + 2 enfants)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [
+      "SMALLABLE (07/2024 TC Paris)",
+      "WETHENEW (2024-2025)",
+      "L'EXCEPTION (2025)",
+      "BAZAR CHIC (ex-Galeries Lafayette, 2025)",
+      "ATLAS FOR MEN (12/2025 TAE Paris, inclut FRANCOISE SAGET)"
+    ],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "non",
+    "vehicule_reprise": {
+      "forme_juridique": "Private Company Limited by Shares (Hong Kong)",
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": "2675730 Hong Kong Companies Registry",
+      "type_vehicule": "substitution_prevue",
+      "kbis_present_en_annexe": true
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 700000,
+    "decomposition": {
+      "incorporels_eur": 45000,
+      "corporels_eur": 5000,
+      "stocks_eur": 300000
+    },
+    "charges_augmentatives_eur": 350000,
+    "modalites_paiement": "mixte",
+    "garanties_paiement": "Virement integral veille audience sur compte AJ ; mecanisme stock Havre : 1,4M EUR conserves par AJ post-audience, libere a la procedure si pas d'accord fournisseurs sous 60j",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [
+      "25 baux de boutiques Bouchara"
+    ],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [
+      "Contrats Google",
+      "Hebergement site internet"
+    ],
+    "contrats_fournisseurs_repris": [
+      "Accord a trouver sous 60j avec 48 fournisseurs asiatiques stock Havre"
+    ],
+    "engagements_L642_12_al4": false,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 185,
+    "nb_total_salaries": 524,
+    "pct_reprise": 35.3,
+    "categories_reprises": "185 salaries CDI selon detail par poste en Annexe 3.4",
+    "categories_non_reprises_raisons": "Salaries des magasins non repris (~339 salaries)",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {
+      "nb": null,
+      "calendrier": null,
+      "indemnites": null,
+      "accompagnement": null
+    },
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Calculs internes du repreneur permettant de considerer qu'une rentabilite retrouvee est envisageable sur les 25 boutiques retenues. Complementarite avec FRANCOISE SAGET (deja detenue via Atlas For Men) : VAD/e-commerce vs retail physique panier moyen plus eleve EURODIF.",
+    "vision_strategique_phrase": "Une large preservation de l'emploi, ce d'autant plus que le redeploiement projete vise a permettre de creer ou recreer a moyen terme de nouveaux emplois",
+    "pivots_prevus": "Mecanisme stock Havre : co-construction avec procedure (350k EUR repreneur + 1,4M EUR procedure si accord fournisseurs)",
+    "synergies_repreneur": "Plateforme logistique FRANCOISE SAGET (VAD), savoir-faire e-commerce Smallable/Wethenew/L'Exception, sourcing groupe HK",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "partiel",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 700000,
+    "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "partenaires_financiers": [
+      "AA INVESTMENTS HK groupe (fonds propres uniquement)"
+    ]
+  },
+  "engagements_specifiques": {},
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [
+      "Aucune (amelioration)"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 11,
+    "nb_pages_corps_offre": 10,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": true,
+    "annexes_business_plan": false,
+    "annexes_comptes_sociaux_3ans": true,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {
+    "phrase_positionnement": "En France, le Repreneur a notamment, en juillet 2024, presente une offre de reprise favorablement recue par le Tribunal de commerce de Paris portant sur les actifs de la societe SMALLABLE en plan de cession",
+    "phrase_engagement_social": "Le Repreneur propose de reprendre 185 salaries en CDI, selon le detail par poste qui figure en Annexe 3.4. Cette reprise permet une large preservation de l'emploi, ce d'autant plus que le redeploiement projete vise a permettre de creer ou recreer a moyen terme de nouveaux emplois",
+    "phrase_vision_strategique": "Le Repreneur reprend 25 baux des boutiques de EURODIF, pour lesquels les calculs du Repreneur permettent de considerer qu'une rentabilite retrouvee est envisageable",
+    "phrase_justification_prix": "Il s'agit d'un prix ferme, definitif, sans clause d'ajustement de prix posterieur"
+  }
+}

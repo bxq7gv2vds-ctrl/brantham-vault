@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "offre_id": "50-11",
+    "dossier_id": "50",
+    "dossier_folder": "50 - SAS associé unique EURODIF",
+    "fichier_source_pdf": "50_SAS___associ__unique_EURODIF_offre11.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "EURODIF SAS (enseigne Bouchara)",
+    "cible_siren": "408772101",
+    "naf_secteur": "Commerce de detail textile / linge de maison / decoration",
+    "sous_secteur": "Reseau de magasins Bouchara ~80 PdV France",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 524,
+    "nb_sites": 80,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-01-30",
+    "dldo": "2026-03-10",
+    "date_audience_cession": "2026-04-10",
+    "aj_nom": "Maitre Catherine POLI / Maitre Eric BAULAND",
+    "aj_etude": "SELARL AJRS / SELARL BCM",
+    "mj_nom": "Maitre Julia RUTH / Maitre Stephane GORRIAS",
+    "mj_etude": "SELARL ASTEREN / SCP BTSG2",
+    "juge_commissaire": null,
+    "causes_defaillance": "Difficultes de tresorerie, stock bloque au Havre ~2,4M EUR appartenant a 48 fournisseurs asiatiques, baisse activite linge de maison"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_rejet_verbatim": "Offre PP non documentee financierement (3M EUR credit court terme demandes mais pas d'engagement bancaire), CS sur financement",
+    "nb_offres_concurrentes": 13
+  },
+  "profil_repreneur": {
+    "forme": "pp_seule",
+    "age_parcours_dirigeant": "Jeremy JOVELET (ex-DG IKKS Retail)",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [
+      "Ex-DG IKKS Retail (operationnel, pas reprise)"
+    ],
+    "capacite_financiere_demontree": "faible_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "NewCo SAS a constituer",
+      "type_vehicule": "newco",
+      "kbis_present_en_annexe": false
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 60000,
+    "decomposition": {
+      "incorporels_eur": 5000,
+      "corporels_eur": 5000,
+      "stocks_eur": 50000
+    },
+    "modalites_paiement": "comptant_audience"
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "nb_salaries_repris": 215,
+    "nb_total_salaries": 524,
+    "pct_reprise": 41.0,
+    "categories_non_reprises_raisons": "PSE pour ~302 salaries",
+    "plan_licenciement": {
+      "indemnites": "PSE abondement 100 000 EUR"
+    }
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": null,
+    "ebitda_an3_eur": 3300000,
+    "hypotheses_qualification": "agressives",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "intention_seule",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": true,
+    "dette_bancaire_montant_eur": 3000000,
+    "partenaires_financiers": [
+      "Credit court terme 3M EUR (a trouver)"
+    ]
+  },
+  "engagements_specifiques": {},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 2,
+    "items": [
+      "Financement court terme 3M EUR",
+      "Audit"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": false,
+    "annexes_business_plan": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "erreurs_apparentes": []
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Jeremy JOVELET, ex-DG IKKS Retail",
+    "phrase_engagement_social": "Reprise 22 succursales + 1 magasin franchise Atlantique Interiors, 215 CDI sur 524, PSE abondement 100 000 EUR"
+  }
+}

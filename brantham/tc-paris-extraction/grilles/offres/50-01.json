@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "offre_id": "50-01",
+    "dossier_id": "50",
+    "dossier_folder": "50 - SAS associé unique EURODIF",
+    "fichier_source_pdf": "50_SAS___associ__unique_EURODIF_offre1.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "EURODIF SAS (enseigne Bouchara)",
+    "cible_siren": "408772101",
+    "naf_secteur": "Commerce de detail textile / linge de maison / decoration",
+    "sous_secteur": "Reseau de magasins Bouchara ~80 PdV France",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 524,
+    "nb_sites": 80,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-01-30",
+    "dldo": "2026-03-10",
+    "date_audience_cession": "2026-04-10",
+    "aj_nom": "Maitre Catherine POLI / Maitre Eric BAULAND",
+    "aj_etude": "SELARL AJRS / SELARL BCM",
+    "mj_nom": "Maitre Julia RUTH / Maitre Stephane GORRIAS",
+    "mj_etude": "SELARL ASTEREN / SCP BTSG2",
+    "juge_commissaire": null,
+    "causes_defaillance": "Difficultes de tresorerie, stock bloque au Havre ~2,4M EUR appartenant a 48 fournisseurs asiatiques, baisse activite linge de maison"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": "Perimetre limite a 11-13 magasins / 60 emplois vs AA Investments 25 magasins / 185 emplois (source presse + decortique)",
+    "nb_offres_concurrentes": 13,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_concurrent",
+    "age_parcours_dirigeant": "Famille BRUNON (multi-generationnel)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [
+      "TISSUS DES URSULES",
+      "TOTO TISSUS"
+    ],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS filiale dediee a constituer",
+      "type_vehicule": "newco",
+      "kbis_present_en_annexe": false
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 190000,
+    "decomposition": {
+      "incorporels_eur": 80000,
+      "corporels_eur": 55000,
+      "stocks_eur": 55000
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": null,
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "nb_salaries_repris": 60,
+    "nb_total_salaries": 524,
+    "pct_reprise": 11.5,
+    "categories_reprises": "CDI temps plein des 13 magasins repris",
+    "categories_non_reprises_raisons": "Temps partiel <30h non repris (selection sociale dure)",
+    "maintien_conditions_anciennete_salaire_lieu": "partiel",
+    "plan_licenciement": {},
+    "engagement_maintien_emplois_duree_mois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Reseau familial 83 PdV existant, marques TISSUS DES URSULES + TOTO TISSUS — complementarite avec Bouchara linge de maison",
+    "vision_strategique_phrase": "Coordination avec candidat n°1 pour offres complementaires (13+2 = 80 emplois cumules)",
+    "synergies_repreneur": "Mutualisation logistique tissus / linge de maison, achats coordonnes",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 12200000,
+    "ca_an2_eur": 13000000,
+    "ca_an3_eur": 13900000,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "partiel",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 190000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "partenaires_financiers": [
+      "TDU GROUP fonds propres"
+    ]
+  },
+  "engagements_specifiques": {},
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [
+      "Aucune (levees par rapport a offre initiale 50-09)"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 26,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "technique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_business_plan": true,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [
+      "8 pages detail baux (10-18) — verbiage nuisant a la lisibilite",
+      "Coordination avouee avec autre candidat = signal cartel"
+    ],
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {
+    "phrase_positionnement": "TDU GROUP, societe familiale BRUNON, 83 PdV, 525 salaries, marques TISSUS DES URSULES + TOTO TISSUS",
+    "phrase_engagement_social": "Reprise de 60 salaries CDI sur 13 magasins, hors temps partiel <30h",
+    "phrase_vision_strategique": "Coordination avec un autre candidat (candidat n°1) pour offres complementaires"
+  }
+}

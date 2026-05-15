@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "offre_id": "50-13",
+    "dossier_id": "50",
+    "dossier_folder": "50 - SAS associé unique EURODIF",
+    "fichier_source_pdf": "50_SAS___associ__unique_EURODIF_offre13.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "EURODIF SAS (enseigne Bouchara)",
+    "cible_siren": "408772101",
+    "naf_secteur": "Commerce de detail textile / linge de maison / decoration",
+    "sous_secteur": "Reseau de magasins Bouchara ~80 PdV France",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 524,
+    "nb_sites": 80,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-01-30",
+    "dldo": "2026-03-10",
+    "date_audience_cession": "2026-04-10",
+    "aj_nom": "Maitre Catherine POLI / Maitre Eric BAULAND",
+    "aj_etude": "SELARL AJRS / SELARL BCM",
+    "mj_nom": "Maitre Julia RUTH / Maitre Stephane GORRIAS",
+    "mj_etude": "SELARL ASTEREN / SCP BTSG2",
+    "juge_commissaire": null,
+    "causes_defaillance": "Difficultes de tresorerie, stock bloque au Havre ~2,4M EUR appartenant a 48 fournisseurs asiatiques, baisse activite linge de maison"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_rejet_verbatim": "Business plan en cours d'elaboration, liste salaries en cours, previsionnel en cours = 3 occurrences 'ultérieurement/en cours' = signal d'impréparation vs AA Investments offre prête",
+    "nb_offres_concurrentes": 13
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_concurrent",
+    "age_parcours_dirigeant": "Salih HALASSI (President 100%)",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [
+      "PIMKIE (Diramode, 200 magasins/150M EUR CA)",
+      "Christine Laure (100 mag/40M EUR)",
+      "Lepape (20M EUR CA, integre 22/01/2026)",
+      "Chevignon",
+      "Groupe Lemon Green",
+      "SAS Thyo"
+    ],
+    "capacite_financiere_demontree": "forte_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS a associe unique",
+      "capital_eur": 10000,
+      "rcs": "931825772 RCS Lille Metropole",
+      "type_vehicule": "newco",
+      "kbis_present_en_annexe": true
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 300000,
+    "decomposition": {
+      "incorporels_eur": 10000,
+      "corporels_eur": 10000,
+      "stocks_eur": 280000
+    },
+    "modalites_paiement": "comptant_audience"
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "nb_salaries_repris": 100,
+    "nb_total_salaries": 524,
+    "pct_reprise": 19.1,
+    "categories_reprises": "Tous salaries entrepot Buchères Troyes + a minima 25% siege Paris/Quimper + tous salaries des 7 magasins repris",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "engagement_maintien_emplois_duree_mois": null
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Plan en 2 phases : stabilisation 6 mois puis repositionnement linge de lit/rideaux/arts table/coussins. Refonte sourcing via Amoniss (Maroc/Turquie/Portugal) = -15 a 18% couts achat",
+    "vision_strategique_phrase": "Synergies Pimkie : sourcing, cross-merchandising, mutualisation IT/logistique",
+    "synergies_repreneur": "Groupe 1000 salaries, 5 enseignes. Stocks repris en franchise TVA art. 257bis CGI",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "NR",
+    "maintien_marques_savoir_faire": "oui",
+    "maintien_site": "partiel"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 300000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "partenaires_financiers": [
+      "Groupe Amoniss (fonds propres ou quasi-fonds propres)"
+    ]
+  },
+  "engagements_specifiques": {},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 2,
+    "items": [
+      "Accord bailleurs 7 magasins",
+      "Finalisation audit marques"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "narratif",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": [
+      "Previsionnel d'exploitation et plan de financement : En cours d'elaboration (p.7)",
+      "Business plan : En cours d'etablissement (p.8)",
+      "Liste precise des salaries : en cours d'elaboration (p.10)",
+      "Liste contrats : sera jointe ultérieurement (p.9)"
+    ]
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe Amoniss : Pimkie 200 magasins / 150M EUR CA, Christine Laure 100 magasins / 40M EUR, Lepape 20M EUR — 1000 salaries",
+    "phrase_engagement_social": "Le Repreneur entend reprendre a minima 100 salaries — la liste precise est en cours d'elaboration",
+    "phrase_vision_strategique": "Plan en 2 phases : stabilisation 6 mois puis repositionnement linge de lit/rideaux/arts table/coussins"
+  }
+}

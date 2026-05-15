@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "offre_id": "09-AMIRAL_MAIGRET-06",
+    "dossier_id": "09",
+    "dossier_folder": "09 - SNC AMIRAL MAIGRET",
+    "fichier_source_pdf": "09_SNC_AMIRAL_MAIGRET_offre14.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "low"
+  },
+  "identification": {
+    "cible_raison_sociale": "SNC AMIRAL MAIGRET (portefeuille FHBX 26 entites)",
+    "cible_siren": null,
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "Detention actif immobilier - portefeuille consolide FHBX Foncière Melot-Gouband 26 entites",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 0,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": "2026-03-02",
+    "date_audience_cession": null,
+    "aj_nom": "Maitre Helene BOURBOULOUX (avec Francois RAYBAUD et Paul CHARREY)",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "Monsieur Jean-Francois PONCET",
+    "causes_defaillance": "Defaillance groupe immobilier Melot-Gouband ('Affaire Balthazar') - 26 entites SCI/SNC en RJ consolide FHBX"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "NR",
+    "issue_globale_dossier": "en_attente",
+    "motifs_rejet_verbatim": "Identite candidat et prix a extraire (DDO 02/03/2026 avant minuit)",
+    "nb_offres_concurrentes": 16
+  },
+  "profil_repreneur": {
+    "forme": "NR",
+    "vehicule_reprise": {
+      "kbis_present_en_annexe": false
+    }
+  },
+  "structure_prix": {
+    "decomposition": {},
+    "modalites_paiement": "NR"
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "plan_licenciement": {}
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "NR",
+    "vision_strategique_phrase": "Offre amelioree actifs immobiliers (asset deal sauf si plan de cession impose)"
+  },
+  "financement": {
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "agressivite_envers_dirigeants": "NR"
+  },
+  "forme_presentation": {
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "erreurs_apparentes": []
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {}
+}

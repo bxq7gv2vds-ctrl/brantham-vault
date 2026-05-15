@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "offre_id": "30-ADELE_FIRMIN-16",
+    "dossier_id": "30",
+    "dossier_folder": "30 - SCI ADELE ET FIRMIN",
+    "fichier_source_pdf": "30_SCI_ADELE_ET_FIRMIN_offre7.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "low"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI ADELE ET FIRMIN (portefeuille FHBX 26 entites)",
+    "cible_siren": null,
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "Detention actif immobilier - portefeuille consolide FHBX Foncière Melot-Gouband 26 entites",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 0,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": "2026-03-02",
+    "date_audience_cession": null,
+    "aj_nom": "Maitre Helene BOURBOULOUX (avec Francois RAYBAUD et Paul CHARREY)",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "Monsieur Jean-Francois PONCET",
+    "causes_defaillance": "Defaillance groupe immobilier Melot-Gouband ('Affaire Balthazar') - 26 entites SCI/SNC en RJ consolide FHBX"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_rejet_verbatim": "Plan de cession global 26 entites FHBX. Docusign CC859BA0. Prix individualise non extrait.",
+    "nb_offres_concurrentes": 18
+  },
+  "profil_repreneur": {
+    "forme": "holding_ad_hoc",
+    "track_record_reprises": [
+      "VERDOSO - multiples deals distressed"
+    ],
+    "capacite_financiere_demontree": "forte_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "type_vehicule": "existante",
+      "kbis_present_en_annexe": false
+    }
+  },
+  "structure_prix": {
+    "decomposition": {},
+    "modalites_paiement": "NR"
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "plan_licenciement": {}
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "plan_affaires_3ans_present": false,
+    "maintien_site": "oui_total"
+  },
+  "financement": {
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "agressivite_envers_dirigeants": "aucune",
+    "items": [
+      "A detailler - section CS presente dans PDF original"
+    ]
+  },
+  "forme_presentation": {
+    "signature_docusign": true,
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "erreurs_apparentes": []
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {}
+}

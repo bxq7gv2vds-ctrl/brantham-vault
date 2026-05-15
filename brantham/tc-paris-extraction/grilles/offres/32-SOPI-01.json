@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "offre_id": "32-SOPI-01",
+    "dossier_id": "32-SOPI",
+    "dossier_folder": "32 - SAS associé unique SOPI",
+    "fichier_source_pdf": "32_SAS___associ__unique_SOPI_offre1.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS a associe unique SOPI",
+    "cible_siren": null,
+    "naf_secteur": "Restauration / bar / brasserie",
+    "sous_secteur": "Bar-brasserie concept americain Buvette (South Pigalle)",
+    "ca_dernier_exercice_eur": 986128,
+    "ebitda_eur": -90857,
+    "effectif_total": 6,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-09-16",
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Isabelle DIDIER",
+    "aj_etude": "SELAS O3 PARTNERS",
+    "mj_nom": "Yohann YANG-TING",
+    "mj_etude": "SELARL MONTRAVERS-YANG-TING",
+    "juge_commissaire": "Andre BELARD",
+    "causes_defaillance": "Modele Buvette 7j/7 horaires larges devenu non rentable post-Covid (couts d'exploitation eleves, teletravail, concurrence accrue South Pigalle, recettes decevantes JO 2024). Pertes ~40K EUR/an pendant 6 ans ont consomme les reserves."
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 0,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "holding_ad_hoc",
+    "age_parcours_dirigeant": "Pierre-Etienne LESEUTE, ne 10/04/1997 (28 ans), restaurateur. Formation : Comice, Aux Lyonnais, Ze Kitchen Galerie, Comptoir Canaille, Petrelle, Brigades du Tigre. Proprietaire du restaurant Les Collonges (12 rue Francoeur 75018) via SAS FRANCOEUR (cap. 1000 EUR, RCS Paris 942089186, constituee 13/03/2025).",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["Les Collonges (12 rue Francoeur 75018 Paris) via SAS FRANCOEUR creee 13/03/2025"],
+    "capacite_financiere_demontree": "faible_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SARL a associe unique (EURL P E L) puis substitution SASU L C a constituer",
+      "date_creation": "2024-12-11",
+      "capital_eur": 1000,
+      "rcs": "938481397",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 50000,
+    "decomposition": {
+      "incorporels_eur": 44500,
+      "corporels_eur": 5500,
+      "stocks_eur": 1000,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 16500,
+    "modalites_paiement": "mixte",
+    "garanties_paiement": "10 000 EUR vires le 13/03/2026 (Credit Agricole Ile-et-Vilaine) + 40 000 EUR au plus tard 48h avant audience",
+    "cheque_consignation_eur": 10000
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail commercial 28 rue Henry Monnier 75009 Paris - bailleur SCI BREDA (apres autorisation)"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Reprise conges payes ~4500 EUR ; cout licenciements ~12 000 EUR",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 2,
+    "nb_total_salaries": 6,
+    "pct_reprise": 33.33,
+    "categories_reprises": "Plongeur + Directeur de salle (avec modification 30h -> 20h)",
+    "categories_non_reprises_raisons": "3 salaries + 1 apprenti non repris (4 licenciements, cout ~12 000 EUR)",
+    "maintien_conditions_anciennete_salaire_lieu": "partiel",
+    "plan_licenciement": {
+      "nb": 4,
+      "calendrier": null,
+      "indemnites": "Cout licenciement ~12 000 EUR",
+      "accompagnement": null
+    },
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Projet 'ENTREE LIBRE' : residences de chefs 6-12 mois, bistrot chic Bistro Lounge. Ticket moyen midi 32 EUR / soir 53 EUR. Exclusion explicite du nom commercial 'Buvette' + site internet + reseaux sociaux (rupture de marque assumee).",
+    "vision_strategique_phrase": "Projet ENTREE LIBRE : residences de chefs 6-12 mois, bistrot chic Bistro Lounge",
+    "pivots_prevus": "Rupture totale avec marque Buvette (nom commercial, site, reseaux sociaux exclus du perimetre). Repositionnement bistrot chic avec rotations chefs invites. Reduction effectif (6 -> 2 initialement, embauches prevues 1 chef + 1 commis + 1 serveur mi-temps).",
+    "synergies_repreneur": "Holding P E L + Les Collonges (Francoeur). Apprentissages CA mensuel Les Collonges sept-fev : 12 270 / 30 066 / 46 403 / 45 186 / 62 139 / 63 504 EUR (croissance forte sur 6 mois).",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": 19380,
+    "capex_calendrier": "Travaux + materiel a la reprise (parquets, peinture, mobilier, vaisselle)",
+    "capex_nature": "Parquets, peinture, mobilier, vaisselle",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 330600,
+    "ca_an2_eur": 562590,
+    "ca_an3_eur": 590720,
+    "ebitda_an3_eur": 118144,
+    "hypotheses_qualification": "agressives",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "non"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 50000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": 20000,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Investisseurs partenaires P E L (non precises)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 60,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "28 rue Henry Monnier 75009 (apres autorisation bailleur SCI BREDA)",
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Confirmation qu'aucun actif important n'a ete detruit/endommage/cede avant la reprise",
+      "Confirmation que le bail commercial 28 rue Henry Monnier 75009 n'a pas ete resilie",
+      "Confirmation que l'AJ a bien recu la garantie du prix de cession"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 131,
+    "nb_pages_corps_offre": 17,
+    "nb_pages_annexes": 114,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": true,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": true,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Donnees financieres fournies = celles de FRANCOEUR (Les Collonges) car P E L holding constituee 11/12/2024 sans comptes approuves - utilisation comptes d'une autre societe pour justifier capacite financiere"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Pierre-Etienne LESEUTE, restaurateur 28 ans, formation Comice / Aux Lyonnais / Ze Kitchen Galerie / Comptoir Canaille / Petrelle / Brigades du Tigre. Proprietaire Les Collonges (12 rue Francoeur 75018)",
+    "phrase_engagement_social": "2 contrats repris (plongeur + directeur de salle avec modification 30h -> 20h), 4 licenciements (cout ~12 000 EUR), reprise conges payes ~4500 EUR",
+    "phrase_vision_strategique": "Projet ENTREE LIBRE : residences de chefs 6-12 mois, bistrot chic Bistro Lounge, ticket moyen midi 32 EUR / soir 53 EUR. Exclusion du nom Buvette + site + reseaux sociaux.",
+    "phrase_justification_prix": "Valeur economique = 40 000 EUR (50 000 + 2 000 CP - 12 000 licenciement). Prix decompose : incorporels 44 500 EUR (droit au bail) + corporels 5500 EUR (dont 1000 EUR stocks)"
+  }
+}

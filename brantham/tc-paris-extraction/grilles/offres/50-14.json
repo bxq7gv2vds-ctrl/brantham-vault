@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "offre_id": "50-14",
+    "dossier_id": "50",
+    "dossier_folder": "50 - SAS associé unique EURODIF",
+    "fichier_source_pdf": "50_SAS___associ__unique_EURODIF_offre14.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "EURODIF SAS (enseigne Bouchara)",
+    "cible_siren": "408772101",
+    "naf_secteur": "Commerce de detail textile / linge de maison / decoration",
+    "sous_secteur": "Reseau de magasins Bouchara ~80 PdV France",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 524,
+    "nb_sites": 80,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-01-30",
+    "dldo": "2026-03-10",
+    "date_audience_cession": "2026-04-10",
+    "aj_nom": "Maitre Catherine POLI / Maitre Eric BAULAND",
+    "aj_etude": "SELARL AJRS / SELARL BCM",
+    "mj_nom": "Maitre Julia RUTH / Maitre Stephane GORRIAS",
+    "mj_etude": "SELARL ASTEREN / SCP BTSG2",
+    "juge_commissaire": null,
+    "causes_defaillance": "Difficultes de tresorerie, stock bloque au Havre ~2,4M EUR appartenant a 48 fournisseurs asiatiques, baisse activite linge de maison"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "amelioree_puis_retenue",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Offre initiale 1 EUR symbolique amelioree par 50-03 — reprise 25 baux annoncee, plan de cession retenu pour AA Investments HK",
+    "nb_offres_concurrentes": 13
+  },
+  "profil_repreneur": {
+    "forme": "repreneur_etranger",
+    "age_parcours_dirigeant": "Morteza GOSHAYESHI (52%) + Arman GOSHAYESHI (16%) — famille",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [
+      "SMALLABLE",
+      "WETHENEW",
+      "L'EXCEPTION",
+      "BAZAR CHIC",
+      "ATLAS FOR MEN"
+    ],
+    "capacite_financiere_demontree": "forte_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "Private Company Limited by Shares HK",
+      "rcs": "2675730 HK",
+      "type_vehicule": "substitution_prevue",
+      "kbis_present_en_annexe": true
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 2,
+    "decomposition": {
+      "incorporels_eur": 1,
+      "corporels_eur": 1,
+      "stocks_eur": 1
+    },
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Virement integral veille audience sur compte AJ"
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "nb_salaries_repris": null,
+    "categories_reprises": "A preciser dans offre amelioree"
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "plan_affaires_3ans_present": false,
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 2,
+    "apport_origine_documentee": "oui_simple_mention",
+    "partenaires_financiers": [
+      "AA INVESTMENTS HK"
+    ]
+  },
+  "engagements_specifiques": {},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Realisation analyse complementaire",
+      "Audience avant 30/04/2026",
+      "Delibere avant 15/05/2026"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "signature_docusign": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "erreurs_apparentes": []
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {
+    "phrase_positionnement": "AA INVESTMENTS HK Limited, immatriculee Hong Kong 2675730, detenue Morteza GOSHAYESHI (52%) + famille",
+    "phrase_justification_prix": "Prix 1 EUR symbolique incorporels + 1 EUR symbolique stocks (amelioree par 50-03)"
+  }
+}

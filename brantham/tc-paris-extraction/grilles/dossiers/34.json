@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "dossier_id": "34",
+    "dossier_folder": "34 - SAS COSA",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS COSA VOSTRA",
+    "cible_siren": "798459541",
+    "forme_juridique": "SAS à associé unique",
+    "capital_social_eur": 148234.21,
+    "rcs": "798459541",
+    "adresse_siege": "71-73 rue de Saussure, 75017 Paris",
+    "nom_commercial": "Cosa",
+    "naf_secteur": "Agences digitales / conseil",
+    "sous_secteur": "Stratégie digitale, UX, e-commerce, podcasts (Le Panier / Mediarama)",
+    "ca_dernier_exercice_eur": null,
+    "effectif_total": 29,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-12-10",
+    "dldo": "2026-01-06",
+    "date_audience_cession": "2026-03-05",
+    "aj_nom": "Me Sandra Beladjine",
+    "aj_etude": "SELARL BCM & Associés",
+    "mj_nom": "Me Stéphane Gorrias",
+    "mj_etude": "SCP BTSG",
+    "juge_commissaire": "M. Stéphane Catoire",
+    "tribunal": "Tribunal des Activités Économiques de Paris",
+    "filiales": ["COSA VOSTRA UK", "COSA VOSTRA Tunisie (100%)"],
+    "actionnariat_pre_RJ": "HORREA (34% depuis nov 2024)",
+    "anciens_dirigeants": "Laurent KRETZ, François DESFOSSEZ, Kevin COUVET, Louis DUMOULIN"
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "plan_cession_arrete",
+    "date_jugement_issue": "2026-03-05",
+    "repreneur_retenu": "SARL Agence IF (Alfred CORCHIA) — substitution WTPxCOSA SAS",
+    "prix_retenu_eur": 70000,
+    "emplois_repris_retenu": 16,
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_synthese": "Agence IF a remporté grâce à : (i) prix encaissable supérieur (70k€ vs 50k€ DATASOLUTION), (ii) structure d'offre minimale et sobre (13 pages vs 25), (iii) track record reprises à la barre (9 reprises listées), (iv) prise en charge intégrale droits acquis salariés y compris antérieurs, (v) 3 conditions suspensives classiques vs charges augmentatives masquées chez DATASOLUTION, (vi) aucune demande exorbitante au tribunal contre anciens dirigeants (vs clause non-sollicitation 24 mois DATASOLUTION).",
+    "nb_offres_concurrentes": 7,
+    "concurrents_resume": [
+      {"nom": "SARL Agence IF (Alfred CORCHIA)", "positionnement_2lignes": "GAGNANT. Holding ACB Group/WeThePeople. 9 reprises à la barre. Prix améliorée 70k€/16 emplois."},
+      {"nom": "DATASOLUTION (Jean-Claude NOGUES)", "positionnement_2lignes": "Perdant principal. Groupe DATAGROUP 42M€ CA, 350 collab. Prix 50k€/28 emplois — offre + agressive sur emplois mais + lourde (25p, 18 annexes) et exigences exorbitantes."},
+      {"nom": "INGENIUS (Alexis HUET, groupe PH7)", "positionnement_2lignes": "Petit (4,5M€ CA). 3k€/12 emplois. BP détaillé 3 ans. Trop petit pour absorber."},
+      {"nom": "HORREA (Cédric MASSONNAT + Maxime GARRIGUES)", "positionnement_2lignes": "Actionnaire minoritaire 34%. Cherry-picking e-commerce uniquement. 25k€/4 emplois CDI. Pas Tunisie/UK."},
+      {"nom": "MANTU GROUP SA (Suisse, ex-AMARIS)", "positionnement_2lignes": "LOI 1€ symbolique, offre complète promise sous 1 semaine — jamais formalisée."}
+    ],
+    "enseignement_clef": "Cas iconique de l'opposition entre 'repreneur sectoriel boutique, calibré, frugal' (Agence IF) et 'acquéreur consolidateur expert M&A qui veut tout contrôler' (DATASOLUTION). Le tribunal a privilégié le profil sobre + track-record + prix encaissable + absorption charges sociales. Voir decortique-offres-gagnantes.md §1.1-1.10 pour analyse détaillée."
+  },
+  "sources_externes": [
+    "https://repreneurs.com/reprise-a-la-barre-2026-cosa-798459541"
+  ]
+}

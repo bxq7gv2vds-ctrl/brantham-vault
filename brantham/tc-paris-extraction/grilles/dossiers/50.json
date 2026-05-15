@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "dossier_id": "50",
+    "dossier_folder": "50 - SAS associé unique EURODIF",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "EURODIF SAS (enseigne Bouchara)",
+    "cible_siren": "408772101",
+    "naf_secteur": "Commerce de detail textile / linge de maison",
+    "sous_secteur": "Reseau ~80 magasins Bouchara France",
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-01-30",
+    "dldo": "2026-03-10",
+    "date_audience_cession": "2026-04-10",
+    "aj_nom": "Maitre Catherine POLI / Maitre Eric BAULAND",
+    "aj_etude": "SELARL AJRS / SELARL BCM",
+    "mj_nom": "Maitre Julia RUTH / Maitre Stephane GORRIAS",
+    "mj_etude": "SELARL ASTEREN / SCP BTSG2",
+    "juge_commissaire": null,
+    "causes_defaillance": "Difficultes tresorerie + stock bloque Le Havre ~2,4M EUR (48 fournisseurs asiatiques)",
+    "nb_offres_recues": 13,
+    "effectif_total": 524,
+    "actif_principal": "Reseau ~80 magasins Bouchara + marque + stocks + plateforme Bucheres (Aube)",
+    "fourchette_offres_eur": "1 (AA Investments symbolique) - 700 000 (AA amelioree max)"
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Source presse : plan de cession arrete au profit d'AA INVESTMENTS HK - 25 baux / 185 emplois CDI + mecanisme stock du Havre co-construit (350k repreneur + 1,4M procedure si accord 48 fournisseurs sous 60j)",
+    "nb_offres_concurrentes": 13,
+    "concurrents_resume": [
+      {
+        "nom": "AA INVESTMENTS HK (gagnant)",
+        "positionnement_2lignes": "Repreneur HK famille Goshayeshi - 25 mag/185 emplois/700k max + mecanisme stock Havre - track record Smallable/Wethenew/L'Exception/Bazar Chic/Atlas For Men"
+      },
+      {
+        "nom": "TDU GROUP",
+        "positionnement_2lignes": "Famille Brunon - 13 mag / 60 emplois / 190k EUR - 8 pages baux detailles, coordination autre candidat"
+      },
+      {
+        "nom": "AMONISS-Pimkie",
+        "positionnement_2lignes": "Groupe Halassi 1000 salaries - 7 mag / 100 emplois / 300k - business plan en cours d'elaboration (signal flou)"
+      },
+      {
+        "nom": "CASA IDEAS",
+        "positionnement_2lignes": "Pellegrin (ex-Maxi Bazar) - 2 mag / 20 emplois / 138k"
+      },
+      {
+        "nom": "Consortium VERDOSO/TOME/BALMA/NJJ",
+        "positionnement_2lignes": "Niel + Berrebi + Tome - 18 mag / 80k"
+      },
+      {
+        "nom": "Jeremy JOVELET",
+        "positionnement_2lignes": "PP ex-DG IKKS - 22 succursales / 215 emplois / 60k + PSE 100k - CS financement 3M"
+      },
+      {
+        "nom": "BEN'S HOLDING",
+        "positionnement_2lignes": "Apprahamian+Bensaid - marque Bouchara Collection seule 7k - deja licencie depuis 2012"
+      },
+      {
+        "nom": "LINVOSGES/ROSA",
+        "positionnement_2lignes": "Marque seule (asset partiel linge de maison)"
+      },
+      {
+        "nom": "LIDL",
+        "positionnement_2lignes": "Droit au bail isole (0 emploi - strategie immo supermarche)"
+      },
+      {
+        "nom": "OTERA",
+        "positionnement_2lignes": "Droit au bail isole (offre confuse mentionne LJ au lieu RJ)"
+      }
+    ]
+  },
+  "notes_dossier": "Dossier emblematique 2026 sur place de Paris. Audience TAE 10/04/2026 15h15. Le tribunal a privilegie le PERIMETRE (emplois preserves + magasins repris) sur le prix. AA Investments HK a invente un MECANISME STOCK HAVRE (co-construction 350k repreneur + 1,4M procedure) qui a probablement fait basculer la decision. Doublon physique : offre10 = offre9 (TDU). Voir decortique-offres-gagnantes.md section 3 pour analyse rhetorique detaillee."
+}
