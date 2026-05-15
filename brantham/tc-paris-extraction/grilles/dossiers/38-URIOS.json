@@ -1,0 +1,27 @@
+{
+  "meta": {"dossier_id": "38-URIOS", "dossier_folder": "38 - SAS à associé unique URIOS", "extracted_at": "2026-05-15", "extracted_by": "claude-agent-batch08", "confidence": "high"},
+  "identification": {
+    "cible_raison_sociale": "URIOS",
+    "cible_siren": "398686980",
+    "naf_secteur": null,
+    "sous_secteur": "Information financière, recouvrement de créances, logiciels de gestion poste client",
+    "ca_dernier_exercice_eur": 16500000,
+    "ebitda_eur": 6000000,
+    "effectif_total": 68,
+    "nb_sites": 4,
+    "type_procedure": "prepack",
+    "date_ouverture": "2025-10-24",
+    "dldo": "2025-11-28",
+    "date_audience_cession": null,
+    "aj_nom": null,
+    "aj_etude": null,
+    "mj_nom": "Maître Marc Sénéchal / Maître Pierre Bourion",
+    "mj_etude": "SCP BTSG²",
+    "juge_commissaire": null,
+    "causes_defaillance": "Arrêt activité garantie risques techniques, départ collaborateurs clés, arrêt investissements. CA 16,5M€ → effondrement."
+  },
+  "groupe_dossiers_lies": [],
+  "nb_offres_recues": 5,
+  "notes": "Filiale DIOT-SIACI depuis novembre 2022 (fondée 1994). Holding Daegir + filiales Urios TC (RCS 947928594) + Urios Portugal Unipessoal LDA. Conciliation art. L611-7 — prépack cession. 3 options : Acquisition actions Daegir / Acquisition filiales / Prepack cession. Conciliateur BTSG² (Sénéchal). Offres EPHRUSSI + BLANDIN sont complémentaires (Études+Recouvrement / Logiciel). Reydellet (auteur URIOS-02) a rejoint EPHRUSSI (URIOS-03).",
+  "issue_globale_dossier": "en_attente"
+}

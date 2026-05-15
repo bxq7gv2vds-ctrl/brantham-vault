@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "offre_id": "60-06",
+    "dossier_id": "60",
+    "dossier_folder": "60 - SCA SEA DE DENIOLAY PEROUSSAY",
+    "fichier_source_pdf": "60_SCA_SEA_DE_DENIOLAY_PEROUSSAY_offre6.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCEA DE LA DENIOLAY PEROUSSAY (+ SCA DE LA CHAUSSEE)",
+    "cible_siren": "320401987",
+    "naf_secteur": "Production agricole — pommes",
+    "sous_secteur": "Pôle Val de Loire INNATIS",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 2,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-16",
+    "dldo": "2026-03-18",
+    "date_audience_cession": "2026-04-13",
+    "aj_nom": "Marine PACE / Paul-Henri AUDRAS",
+    "aj_etude": "SELARL 2M&Associés ; SELAS AJ UP",
+    "mj_nom": "Valérie LELOUP-THOMAS / Charlotte THIRION",
+    "mj_etude": "SELAFA MJA ; SELARL ATHENA",
+    "juge_commissaire": null,
+    "causes_defaillance": "INNATIS Pôle Val de Loire"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": "Aucun salarié repris pour Deniolay (les 2 CDI Ouvriers Arboricoles ne sont pas repris) ; offre Chaussée + Deniolay restreinte à matériels + DPB + avances cultures sans incorporels valorisés.",
+    "nb_offres_concurrentes": 3,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "pp_seule",
+    "age_parcours_dirigeant": "Laurent CELLIER (gérant EARL CELLIER DU MESNIL, détient 4020 parts SC HLC). Entrée prévue Mathias CELLIER (né 22/07/2002, exploitant individuel depuis 15/01/2021).",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 30,
+    "track_record_reprises": ["Laurent CELLIER assure depuis 30 ans les travaux agricoles de la SCA DE LA CHAUSSEE"],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "EARL CELLIER DU MESNIL (existante)",
+      "date_creation": null,
+      "capital_eur": 7774.90,
+      "rcs": "391061801",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 57250,
+    "decomposition": {
+      "incorporels_eur": 0,
+      "corporels_eur": 40000,
+      "stocks_eur": 0,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "NR",
+    "garanties_paiement": null,
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Intégralité baux ruraux et baux emphytéotiques", "Plantations et droits attachés"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 2,
+    "pct_reprise": 0,
+    "categories_reprises": "Aucun salarié Deniolay (les 2 CDI Ouvriers Arboricoles non repris). Chaussée : 4/5 (Agent Arboricole, Personnel exploitation, etc).",
+    "categories_non_reprises_raisons": "Profil EARL agricole familial ne nécessite pas de reprise CDI Deniolay",
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": 2, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "EARL CELLIER DU MESNIL exploite 466 ha (6 ha pomme de terre + 460 ha grandes cultures). Laurent CELLIER 30 ans de travaux agricoles SCA DE LA CHAUSSEE. Offre formalisée pour entrée à venir de Mathias CELLIER (fils, jeune agriculteur).",
+    "vision_strategique_phrase": "Continuité opérationnelle Laurent CELLIER (30 ans travaux SCA Chaussée) + transmission familiale Mathias CELLIER",
+    "pivots_prevus": null,
+    "synergies_repreneur": "EARL CELLIER DU MESNIL détenue en nue-propriété par Laurent CELLIER + usufruit SC HLC (4020 parts L. CELLIER + 30 parts Carole CELLIER). Titres participations 10.886 SCICA POMANJOU + 96 COOP AVL + 46 OP INNAFRUITS + 4.673 CRCA + TERRENA + TRISKALIA (exclus de la reprise)",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "prudentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 57250,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Fonds propres EARL (pas d'emprunt bancaire — deniers propres)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 2,
+    "items": [
+      "Communication AJ intégralité contrats (baux emphytéotiques, baux ruraux) et copie derniers bulletins de salaire dans délai d'un mois avant audience",
+      "Justification de la détention des DPB"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "mixte",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": true,
+    "personnalisation_rencontre_equipes": true,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": [
+      "Incohérence Capital social : 7.774,90€ (page 1) vs 216.165€ (entête Chaussée)",
+      "0 emploi repris Deniolay alors que 4/5 Chaussée — déséquilibre"
+    ],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {
+    "cabinet": "SELARL GAYA AVOCATS",
+    "avocat_nom": "Me Jean-Charles LOISEAU"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Laurent CELLIER assure depuis 30 ans les travaux agricoles de la SCA DE LA CHAUSSEE — continuité opérationnelle + transmission famille (entrée Mathias CELLIER)",
+    "phrase_engagement_social": "Aucun salarié repris Deniolay (les 2 CDI Ouvriers Arboricoles ne sont pas repris)",
+    "phrase_vision_strategique": "EARL familiale 466 ha — 6 pomme de terre + 460 grandes cultures, transmission père/fils",
+    "phrase_justification_prix": "Matériels 15.000€ + Avances aux cultures 25.000€ + DPB/PAC 17.250€ = 57.250€ Deniolay (offre globale 177.250€ HT avec Chaussée 120.000€)"
+  }
+}

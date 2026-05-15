@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "offre_id": "35-SICA-01",
+    "dossier_id": "35-SICA",
+    "dossier_folder": "35 - Société d intérêt collectif agricole par actions s",
+    "fichier_source_pdf": "35_Soci_t__d_int_r_t_collectif_agricole_par_actions_s_offre1.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCICA POMANJOU + SAS LPC + SAS LVL POMANJOU (offre indivisible 3 entites)",
+    "cible_siren": "059200360",
+    "naf_secteur": "Agroalimentaire / Production et conditionnement fruits (pommes)",
+    "sous_secteur": "Pole ligerien INNATIS — variete phare HoneyCrunch",
+    "ca_dernier_exercice_eur": null, "ebitda_eur": null, "effectif_total": 49, "nb_sites": 3,
+    "type_procedure": "RJ", "date_ouverture": "2026-03-09", "dldo": "2026-03-18", "date_audience_cession": "2026-04-13",
+    "aj_nom": "Marine PACE / Paul-Henri AUDRAS", "aj_etude": "SELARL 2M & Associes / SELAS AJ UP",
+    "mj_nom": "Valerie LELOUP-THOMAS / Marie-Charlotte THIRION", "mj_etude": "SELAFA MJA / SELARL ATHENA",
+    "juge_commissaire": null,
+    "causes_defaillance": "Sauvegarde 29/09/2025 -> conversion RJ 09/03/2026 (DCP 06/03/2026). Baisse production due aux conditions meteo."
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "amelioree_puis_retenue", "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Projet cooperatif local coherent ; capacite de stockage Les Vergers d'Anjou passe de 36 000 t a 49 000 t. Repreneur sectoriel strategique avec continuite d'emploi.",
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 4,
+    "concurrents_resume": [
+      {"nom": "CASTEL INVEST + LEROY FRERES ET SOEUR + VCAPITAL", "positionnement_2lignes": "Consortium arboriculteurs Sarthe/Indre-et-Loire 400k 4 emplois — ecarte"},
+      {"nom": "GSF (Groupe La Blottiere)", "positionnement_2lignes": "Offre actifs isoles 1,3M sans emplois ni fonds — non concurrente du plan global"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "asso_collectivite",
+    "age_parcours_dirigeant": "Albert RICHARD (President) ; Jacques MALAGIE (Directeur General) ; Geoffroy KRIEG (DG Adjoint). Cooperative LES VERGERS D'ANJOU 73 exploitations adherentes ~1 600 ha ~50 000 T fruits ~50M CA. Associee 12,04% SAS BLUE WHALE (frais) et 32,65% SICA TRANSFOFRUITS (industrie). Fusion-absorption SCAFLA Ancenis en 2024. Varietes Clubs : Pink Lady, Angys, Jazz, Fred, Coeur de Reine, Candine, Rockit, Juliet. 16 membres CA.",
+    "experience_sectorielle_oui_non": "oui", "experience_sectorielle_annees": 80,
+    "track_record_reprises": ["Fusion-absorption SCAFLA Ancenis (2024)"],
+    "capacite_financiere_demontree": "forte_documentee", "cautionnement_personnel": "NR",
+    "vehicule_reprise": {"forme_juridique": "Societe civile cooperative a capital variable", "date_creation": null, "capital_eur": 1.05, "rcs": "071201594", "kbis_present_en_annexe": true, "type_vehicule": "substitution_prevue"}
+  },
+  "structure_prix": {
+    "prix_total_eur": 7040000,
+    "decomposition": {
+      "incorporels_eur": 117976,
+      "corporels_eur": 2672811,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": 4256189,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 200000,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Paiement du prix de cession par cheques de banque (un par structure reprise) remis avant l'audience d'examen des offres du 13 avril 2026", "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [], "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Liste contrats L.642-7 repris"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Absence d'inscriptions (nantissement/privilege/hypotheque). Offre exclut poursuite remboursement emprunts beneficiant de suretes (art. L.642-12 al. 4).",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 28, "nb_total_salaries": 49, "pct_reprise": 57.1,
+    "categories_reprises": "SCICA POMANJOU : 5 CDI sur 8. LPC : 6 CDI sur 13. LVL POMANJOU : 17 CDI sur 28 (sur 2 sites 37 St-Aubin-le-Depeint + 49 Verrieres-en-Anjou)",
+    "categories_non_reprises_raisons": "21 non repris (operateurs manutention surtout) + 0/3 CDD saisonniers reprises",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 21, "calendrier": null, "indemnites": null, "accompagnement": "200 000 EUR mesures d'accompagnement social"},
+    "engagement_maintien_emplois_duree_mois": null, "sanction_non_respect_emplois": null, "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Reprise indivisible 3 entites cles du pole ligerien INNATIS : SCICA POMANJOU (site OCEANE 38 922 m2 + batiment 13 257 m2 + frigo Ecouflant 3 600 m2 + bureaux 600 m2) + LPC (Aubriere La Chapelle d'Aligne 27 247 m2 + batiment 5 100 m2) + LVL POMANJOU (station Saint-Paterne, marques Les Vergers Launay/Beauvallon/Prestige). Faculte substitution CELHER (Boujuau) pour LPC/LVL.",
+    "vision_strategique_phrase": "Capacite stockage Vergers d'Anjou passe de 36 000 t a 49 000 t",
+    "pivots_prevus": "Re-substitution au profit SAS NOUVELLE LPC et SAS NOUVELLE LVL POMANJOU a constituer (98% CELHER / 1% Herve Boujuau / 1% Celine Boujuau)",
+    "synergies_repreneur": "Cooperative Vergers d'Anjou = 1er acteur Val de Loire. Integration filiere amont (vergers adherents) + aval (Blue Whale frais 12,04% + Transfofruits industrie 32,65%)",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null, "capex_calendrier": null, "capex_nature": null,
+    "plan_affaires_3ans_present": false, "ca_an1_eur": null, "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null,
+    "hypotheses_qualification": "realistes", "maintien_site": "oui_total", "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null, "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": true, "dette_bancaire_lettre_confort": true, "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false, "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null, "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["CRCAM Anjou et Maine (attestation)", "CIC Ouest (attestation)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null, "caution_dirigeant_montant_eur": null, "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "Sites Verrieres-en-Anjou + La Chapelle d'Aligne + Saint-Paterne",
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true, "nb_conditions": 0,
+    "items": ["Sollicite absence de clause d'inalienabilite concernant les actifs LVL POMANJOU"],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 47, "nb_pages_corps_offre": null, "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille", "ton_dominant": "technique", "executive_summary_present": true,
+    "annexes_kbis": true, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": true,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false, "annexes_organigramme_cible": true, "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false, "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": true, "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": true, "soutien_clients_cles": false, "soutien_banques_historiques": true,
+    "personnalisation_visite_site": true, "personnalisation_rencontre_equipes": true, "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent", "differenciation_concurrents_explicite": true, "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": true, "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": "SELARL LEXCAP — 4 rue du Quinconce 49100 Angers", "avocat_nom": "Tony BERTHO"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Cooperative LES VERGERS D'ANJOU — 73 exploitations adherentes, ~1 600 ha, ~50 000 T fruits, ~50M CA, 26M capitaux propres",
+    "phrase_engagement_social": "Reprise 28 CDI sur 49. Participation aux mesures d'accompagnement social a hauteur de 200 000 EUR",
+    "phrase_vision_strategique": "Capacite stockage passe de 36 000 t a 49 000 t — consolidation amont/aval pole ligerien",
+    "phrase_justification_prix": "Prix global 7 040 000 EUR reparti : SCICA POMANJOU 5 278 526 EUR / LPC 874 398 EUR / LVL POMANJOU 887 076 EUR. 3 cheques de banque (un par entite) remis avant audience 13/04/2026"
+  }
+}

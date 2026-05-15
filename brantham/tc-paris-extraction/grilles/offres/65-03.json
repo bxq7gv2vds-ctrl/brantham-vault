@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "offre_id": "65-03",
+    "dossier_id": "65",
+    "dossier_folder": "65 - SAS LA LOCO",
+    "fichier_source_pdf": "65_SAS_LA_LOCO_offre3.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS LA LOCO",
+    "cible_siren": "810930123",
+    "naf_secteur": "EdTech / Formation professionnelle",
+    "sous_secteur": "Bootcamps numerique (Le Wagon)",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 20,
+    "nb_sites": 2,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-24",
+    "dldo": "2026-04-08",
+    "date_audience_cession": null,
+    "aj_nom": "Maitre Catherine POLI",
+    "aj_etude": "SELARL AJRS",
+    "mj_nom": "Maitre Pablo CASTANON",
+    "mj_etude": "SELARL Asteren",
+    "juge_commissaire": null,
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 2,
+    "concurrents_resume": [
+      {"nom": "STUDI / Galileo Global Education", "positionnement_2lignes": "Geant mondial formation CA 1.4Md, 200003 EUR + 5M cout total, 14/20 emplois + 69 preserves global, discussions pre-RJ depuis novembre 2025."},
+      {"nom": "FORMAPRIV", "positionnement_2lignes": "Groupe formation sante/juridique/HEC 30M CA, 30 acquisitions dont 5 a la barre, 50000 EUR offre preliminaire, 5 emplois."}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_concurrent",
+    "age_parcours_dirigeant": "Simplon.co cree en 2013, 13 ans d'existence, 232 collaborateurs (240 a date) + 190/200 formateurs. 66 fabriques en France + 51 sites internationaux (25 pays).",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 13,
+    "track_record_reprises": ["Innov'Educ/Wild Code School (jugement 02/07/2025 Tribunal des activites economiques de Paris)"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "Filiale a constituer par Simplon.co",
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": null,
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 2,
+    "decomposition": {
+      "incorporels_eur": 1,
+      "corporels_eur": 1,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds propres avec le soutien des actionnaires de Simplon.Co (Amundi/Banque des Territoires/Phitrust/INCO Ventures)",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Aucune creance La Loco contre tiers reprise (sauf creances dues a La Loco par Filiales Reprises). Aucune immobilisation financiere reprise (aucun depot de garantie).",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": null,
+    "nb_total_salaries": 20,
+    "pct_reprise": null,
+    "categories_reprises": "Liste a fournir Annexe 8.1 (non detaillee dans l'offre preliminaire)",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": 12,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Reprise integrale fonds + 100% titres Filiales Reprises + actifs corporels mobiliers. Repreneur souligne audit non finalise (data room accessible seulement depuis 03/04, elements manquants) — offre sera affinee. Simplon a deja repris Innov'Educ/Wild Code School (jugement 02/07/2025) — operation similaire de consolidation.",
+    "vision_strategique_phrase": "Devenir plateforme de reference pour consolidation du secteur formation numerique.",
+    "pivots_prevus": "Integration plateforme KITT du Wagon dans Simplonline (innovation IA)",
+    "synergies_repreneur": "Mission alignee Le Wagon : metiers du numerique, formation intensive, impact social. 95% taux de reussite certifications. 75% etudiants sans emploi, 40% niveau infra-bac/bac. 95% obtiennent leur diplome. Titres RNCP complementaires (11 chez Simplon + 2 chez Le Wagon). Partenariats Microsoft 2018, IBM, Meta 2022, OpenAI, Apple 2019. Capgemini, Sopra Steria, Onepoint, Societe Generale, BNP, Credit Agricole, Orange, Schneider Electric, Safran, Renault, Michelin.",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": "Investissement >5% CA en innovation pedagogique",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 33730000,
+    "ca_an2_eur": 36000000,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "NR",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Amundi Asset Management", "Banque des Territoires (Caisse des Depots)", "Phitrust", "INCO Ventures", "France Active", "Ides", "Mirova"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Finalisation des travaux d'audit juridique et financier et conclusion satisfaisante de ces audits",
+      "Accord du comite strategique de Simplon.co",
+      "Maintien d'un niveau de tresorerie suffisant au sein des Filiales Reprises jusqu'a la date d'entree en jouissance"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "narratif",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": true,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": true,
+    "soutien_clients_cles": true,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": true,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "incoherent",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": ["Prix 2 EUR symbolique vs 200003 EUR STUDI — incoherence par rapport au CA 30M et a la promesse de continuite (signal politique ESS plutot qu'economique)"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Devenir plateforme de reference pour consolidation du secteur formation numerique. Mission alignee Le Wagon : metiers du numerique, formation intensive, impact social.",
+    "phrase_engagement_social": "Engagement maintien 12 mois sans licenciement contraint",
+    "phrase_vision_strategique": "Vision 2028 : 20000 apprenants/an, CA 60M EUR. Strategie financiere multi-flux : diversification (B2C + B2B + financements publics/paritaires), stabilite geographique, resilience (solidaire + excellence technologique)",
+    "phrase_justification_prix": "Prix symbolique 2 EUR (1 EUR incorporels + 1 EUR corporels)"
+  }
+}

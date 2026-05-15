@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "offre_id": "35-SICA-02",
+    "dossier_id": "35-SICA",
+    "dossier_folder": "35 - Société d intérêt collectif agricole par actions s",
+    "fichier_source_pdf": "35_Soci_t__d_int_r_t_collectif_agricole_par_actions_s_offre2.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCICA POMANJOU (+ entites parallele groupe INNATIS)",
+    "cible_siren": "059200360",
+    "naf_secteur": "Agroalimentaire / Production fruits",
+    "sous_secteur": "Pole ligerien INNATIS",
+    "ca_dernier_exercice_eur": null, "ebitda_eur": null, "effectif_total": 16, "nb_sites": 1,
+    "type_procedure": "RJ", "date_ouverture": "2026-03-09", "dldo": "2026-03-18", "date_audience_cession": "2026-04-13",
+    "aj_nom": "Marine PACE / Paul-Henri AUDRAS", "aj_etude": "SELARL 2M & Associes / SELAS AJ UP",
+    "mj_nom": "Valerie LELOUP-THOMAS / Marie-Charlotte THIRION", "mj_etude": "SELAFA MJA / SELARL ATHENA",
+    "juge_commissaire": null, "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non", "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": "Consortium arboriculteurs ecartes au profit cooperative Vergers d'Anjou (7,04M vs 400k, 28 emplois vs 4) — prix x17 et nb emplois x7.",
+    "nb_offres_concurrentes": 4, "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Co-repreneurs : (1) James LAUNAY (President CASTEL INVEST 99,99% / 0,01% Karine DEGALLAIX, ex-fondateur Vergers Launay, salarie actuel LVL POMANJOU) ; (2) Pierre LEROY (via PL INVEST, MAISON LEROY 200 ans en 2024, PAYSANS RESISTANTS sauvegarde fermes 10 exploitations, Reseau Les Halles du Verger) ; (3) Nicolas VERGER (avocat + arboriculteur). Groupe consolide ~40M CA, 200 collaborateurs, 50M actifs, 150 ha vergers, serres tomates/concombres.",
+    "experience_sectorielle_oui_non": "oui", "experience_sectorielle_annees": null,
+    "track_record_reprises": ["PAYSANS RESISTANTS — 10 exploitations sauvees (Pierre Leroy)"],
+    "capacite_financiere_demontree": "moyenne_documentee", "cautionnement_personnel": "NR",
+    "vehicule_reprise": {"forme_juridique": "NewCo SAS a constituer (3 co-repreneurs)", "date_creation": null, "capital_eur": null, "rcs": "821588134 (CASTEL) / 903353324 (LEROY) / 951254127 (VCAPITAL)", "kbis_present_en_annexe": true, "type_vehicule": "substitution_prevue"}
+  },
+  "structure_prix": {
+    "prix_total_eur": 400000,
+    "decomposition": {"incorporels_eur": null, "corporels_eur": null, "stocks_eur": null, "creances_clients_eur": null, "immeubles_eur": null, "titres_eur": null},
+    "charges_augmentatives_eur": null, "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds propres : CASTEL INVEST CP 4 214k / LEROY 1 593k 2024 / VCAPITAL 80k 2025", "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [], "credit_bail_repris": [], "contrats_clients_critiques_repris": [], "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false, "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null, "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 4, "nb_total_salaries": 16, "pct_reprise": 25.0,
+    "categories_reprises": "4 contrats sur 16 (8 CDI + 8 CDD)", "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "partiel",
+    "plan_licenciement": {"nb": 12, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null, "sanction_non_respect_emplois": null, "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Consortium arboriculteurs Sarthe/Indre-et-Loire — groupe consolide ~40M CA, 200 collaborateurs, 50M d'actifs, 150 ha vergers + serres tomates/concombres + terres maraicheres + distribution GMS/export/grossistes. James LAUNAY = ancien fondateur Vergers Launay (fusionnee avec Pomanjou pour devenir LVL POMANJOU).",
+    "vision_strategique_phrase": null, "pivots_prevus": "Reintegration site Pomanjou dans reseau arboriculteurs locaux",
+    "synergies_repreneur": "Reseau Les Halles du Verger + GMS/export/grossistes", "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null, "capex_calendrier": null, "capex_nature": null,
+    "plan_affaires_3ans_present": false, "ca_an1_eur": null, "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null,
+    "hypotheses_qualification": "NR", "maintien_site": "oui_total", "maintien_marques_savoir_faire": "partiel"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null, "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false, "dette_bancaire_lettre_confort": false, "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false, "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null, "tresorerie_securite_eur": null, "partenaires_financiers": ["Fonds propres"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null, "caution_dirigeant_montant_eur": null, "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null, "maintien_territoire_site_duree": null, "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false, "nb_conditions": null,
+    "items": ["Cf. paragraphe 7.1 (conditions suspensives detaillees non extraites — synthese uniquement)"],
+    "agressivite_envers_dirigeants": "NR"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 33, "nb_pages_corps_offre": null, "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille", "ton_dominant": "technique", "executive_summary_present": true,
+    "annexes_kbis": true, "annexes_cv_dirigeants": true, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false, "annexes_organigramme_cible": true, "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false, "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": true, "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false, "soutien_clients_cles": false, "soutien_banques_historiques": false,
+    "personnalisation_visite_site": true, "personnalisation_rencontre_equipes": true, "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent", "differenciation_concurrents_explicite": false, "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Offre 17x inferieure a Vergers d'Anjou amelioree (400k vs 7,04M)", "Reprise emplois 25% vs 57% Vergers — handicap social majeur"],
+    "declaration_L642_3_signee": false, "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": "Cabinet FIDAL — 4-6 avenue d'Alsace, 92400 Courbevoie", "avocat_nom": "Antoine BISDORFF"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Co-investisseurs arboriculteurs Sarthe / Indre-et-Loire — groupe ~40M CA, 200 collaborateurs",
+    "phrase_engagement_social": "4 contrats sur 16 (8 CDI + 8 CDD)",
+    "phrase_vision_strategique": "Reintegration Pomanjou dans reseau arboriculteurs locaux + Les Halles du Verger",
+    "phrase_justification_prix": "400 000 EUR — offre initiale indivisible avec offres parallele LVL/LPC/8 SCA satellites"
+  }
+}

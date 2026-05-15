@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "offre_id": "24-03",
+    "dossier_id": "24",
+    "dossier_folder": "24 - SAS LA BELLE FORÊT",
+    "fichier_source_pdf": "offre_03_gd72888523.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS LA BELLE FORET",
+    "cible_siren": "899658983",
+    "naf_secteur": "Credits carbone Label Bas-Carbone",
+    "sous_secteur": "Sylviculture melangee - 31 contrats reforestation - 6.300-7.700 ha cumulees - tonnage cumule 120.000 tCO2eq 2025-2030 / ~480.000 tCO2 sur 20 ans",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 8,
+    "nb_sites": 1,
+    "type_procedure": "sauvegarde",
+    "date_ouverture": "2025-11-10",
+    "dldo": "2025-12-12",
+    "aj_nom": "Me Charles-Henri CARBONI ; Me Jean BARON",
+    "aj_etude": "SELARL DETROIT ; SCP CBF ASSOCIES",
+    "mj_nom": "Me Sabine ROCHER",
+    "mj_etude": "SELARL ASTEREN",
+    "juge_commissaire": "M. Patrick Renouard"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 3,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_concurrent",
+    "age_parcours_dirigeant": "Stephane HALLAIRE (President Reforest'Action SAS)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 15,
+    "track_record_reprises": ["Reforest'Action B Corp - 15 ans NBS (Solutions fondees Nature)", "21,6 ME CA 2024-25", "76 salaries", "1.900+ projets dans 45 pays", "650+ grandes entreprises accompagnees (>250 salaries)", "36 projets certifies (LBC, VCS)", "~6,6 Mt eqCO2 sequestrees", "125 ME portefeuille ARR", "34 projets labellises LBC France dans 8 regions", "2 projets REDD+", "4 projets verifies Bureau Veritas", "50.000 hectares restaures", "900 porteurs de projets", "130+ projets agriculture/agroforesterie", "UN Decade Ecosystem Restoration partner"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS Reforest'Action",
+      "date_creation": "2010",
+      "capital_eur": 1113086.95,
+      "rcs": "494438146",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 50000,
+    "decomposition": {
+      "incorporels_eur": 50000,
+      "corporels_eur": 0,
+      "stocks_eur": 0
+    },
+    "charges_augmentatives_eur": 0,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Somme FERME et DEFINITIVE 50.000 EUR. Versement au compte CDC ouvert par AJ, au plus tard le jour de l'audience d'examen des offres de reprise.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["31 contrats avec groupements forestiers proprietaires (cession exclusive) + droits/titres/interets attaches"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "passif_privilegie_repris": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 8,
+    "pct_reprise": 0,
+    "categories_reprises": "AUCUNE reprise de personnel a ce jour (salaries ayant exprime ne pas vouloir poursuivre)",
+    "categories_non_reprises_raisons": "Salaries n'entendent pas poursuivre activite aupres d'un autre operateur dans l'appel d'offres en cours",
+    "maintien_conditions_anciennete_salaire_lieu": "non",
+    "plan_licenciement": {
+      "nb": 8,
+      "calendrier": "Apres jugement",
+      "indemnites": "Charge de la procedure",
+      "accompagnement": "Possibilite amelioration ulterieure si salaries manifestent interet pour poursuivre"
+    },
+    "engagement_maintien_emplois_duree_mois": 0,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Reprise EXCLUSIVE des 31 contrats LBC + marque La Belle Foret + droits PI. AUCUN actif corporel (mobiliers, materiels, equipements, stocks expressement exclus). Tous autres actifs incorporels non strictement necessaires exclus.",
+    "vision_strategique_phrase": "Reforest'Action entend assurer la poursuite et la bonne execution des projets Label Bas Carbone attaches aux Contrats repris, en s'appuyant sur son expertise reconnue dans la gestion de projets de reforestation et de sequestration carbone",
+    "pivots_prevus": "Integration projets aux activites existantes Reforest'Action - pas de transfert de personnel donc pas d'impact social direct",
+    "synergies_repreneur": "Expertise technique/operationnelle/administrative de Reforest'Action (15 ans NBS, 36 projets certifies LBC/VCS, 6,6 Mt CO2 sequestrees, 1.900 projets dans 45 pays)",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "non",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 50000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 5,
+    "items": [
+      "Absence dans les Contrats de toute clause interdisant ou conditionnant transfert (agrement, intuitu personae, changement de controle) - a defaut renonciation ecrite cocontractant",
+      "Absence d'opposition expresse d'un cocontractant",
+      "Confirmation validite et maintien en vigueur de chaque Contrat jusqu'a date de realisation",
+      "Absence de litige, reclamation, contestation ou reglementation/decision administrative affectant validite/execution/valorisation projets LBC",
+      "Absence de dettes, charges ou obligations non divulguees attachees aux Contrats ou aux projets"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 11,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [
+      "Aucune reprise personnel - justification par 'salaries ne souhaitent pas poursuivre' tres faible socialement",
+      "Validite offre uniquement jusqu'au 31 janvier 2026 - tres courte",
+      "Annexe 'Perspectives post-reprise' tres bref (1 paragraphe)"
+    ],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Reforest'Action est une entreprise dont la mission est de restaurer les ecosystemes terrestres a grande echelle pour relever les defis environnementaux, et ce depuis plus de 15 ans. Acteur mondial de la reforestation et de l'agroforesterie, Reforest'Action concoit et developpe des projets aux multiples benefices sur l'environnement et les communautes. (...) 1 900+ projets dans 45 pays grace - principalement - aux financements de plus de 3 600 entreprises. En 2025, Reforest'Action a realise 21,6 ME de chiffre d'affaires et employait 76 salaries.",
+    "phrase_engagement_social": "Reforest'Action comprend, au vu des echanges intervenus dans le cadre de la procedure, que les salaries occupant les postes de travail dont la reprise aurait pu etre envisagee n'entendent pas poursuivre leur activite aupres d'un autre operateur. Dans ces conditions, et compte tenu des positions exprimees a ce jour, la presente offre ne prevoit pas la reprise de personnel.",
+    "phrase_vision_strategique": "Convaincu que les entreprises peuvent etre sources de regeneration du Vivant, Reforest'Action souhaite contribuer a leur transformation grace a des solutions fondees sur la nature, leur permettant d'agir dans ou au-dela de leur chaine de valeur. Reforest'Action mobilise ainsi ses forces autour du deploiement de l'agriculture regeneratrice, du developpement de projets carbone et de la mesure d'impacts.",
+    "phrase_justification_prix": "Le prix propose par Reforest'Action pour la reprise des actifs decrits au present document, et notamment pour la cession des Contrats tels que definis ci-avant ainsi que des elements incorporels strictement necessaires a leur execution, est fixe a la somme ferme et definitive de 50 000 euros (cinquante mille euros)"
+  }
+}
