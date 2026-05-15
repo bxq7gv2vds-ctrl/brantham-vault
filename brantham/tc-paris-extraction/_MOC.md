@@ -31,6 +31,12 @@ Extraction structurée des offres de reprise déposées au Greffe du Tribunal de
 
 ## Analyses
 
+### Stratégie & Drafting
+- [[analyses/playbook-redaction-offre]] — **PLAYBOOK RÉDACTION D'OFFRE** (architecture, pricing, conditions, annexes, erreurs à éviter, checklist Brantham)
+- [[analyses/audiences-acces-information]] — Audiences TC Paris : sources publiques (BODACC, Pappers, presse), ce qu'on récupère et ce qu'on perd
+- [[analyses/gagnants-tribunal]] — Qui a gagné les plans de cession (en cours — agent de recherche)
+
+### Cartographie marché
 - [[analyses/repreneurs-recurrents]] — Top repreneurs actifs (foncières, consolidateurs, fonds)
 - [[analyses/groupes-distressed]] — Groupes en difficulté multi-entités (INNATIS, NEOCAMP, DENTEKA, SYM, COLLEGE DE PARIS)
 - [[analyses/data-quality]] — Anomalies, doublons, OCR à refaire, scans illisibles
