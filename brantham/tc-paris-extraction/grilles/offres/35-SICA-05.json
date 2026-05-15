@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "offre_id": "35-SICA-05",
+    "dossier_id": "35-SICA",
+    "dossier_folder": "35 - Société d intérêt collectif agricole par actions s",
+    "fichier_source_pdf": "35_Soci_t__d_int_r_t_collectif_agricole_par_actions_s_offre5.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCICA POMANJOU (offre 'd'acquisition d'actifs isoles', pas plan de cession)",
+    "cible_siren": "059200360",
+    "naf_secteur": "Agroalimentaire / Production fruits",
+    "sous_secteur": "GSF — Groupe La Blottiere",
+    "ca_dernier_exercice_eur": null, "ebitda_eur": null, "effectif_total": 0, "nb_sites": 1,
+    "type_procedure": "RJ", "date_ouverture": "2026-03-09", "dldo": "2026-03-18", "date_audience_cession": "2026-04-13",
+    "aj_nom": "Marine PACE / Paul-Henri AUDRAS", "aj_etude": "SELARL 2M & Associes / SELAS AJ UP",
+    "mj_nom": "Valerie LELOUP-THOMAS / Marie-Charlotte THIRION", "mj_etude": "SELAFA MJA / SELARL ATHENA",
+    "juge_commissaire": null, "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non", "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": "Offre 'd'acquisition de certains actifs' (pas plan de cession). Aucun salarie ni fonds de commerce. Article L.642-12 inapplicable. Non concurrente du plan global Vergers d'Anjou.",
+    "nb_offres_concurrentes": 4, "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "David SOCHELEAU (Gerant de FDS, presidente de GSF) — FDS (SARL Angers 439114042) President + T.Q.S. (SARL Angers 505300053) DG + locataire-gerant SOCHELEAU SNC 338562119. Groupe LA BLOTTIERE entreprise familiale fondee 1961 — filiere pommes-poires France + Chili + Pologne. 1 300 Ha vergers Pommes/Poires (350 Ha en propre + 140 producteurs partenaires). 76 000 T (58 000 pommes/poires + 18 000 autres). 800 collaborateurs (300 France + 500 Chili). CA consolide 90M 2024. 35% a l'international. 4 implantations (2 France + 1 Chili + 1 Pologne).",
+    "experience_sectorielle_oui_non": "oui", "experience_sectorielle_annees": 65,
+    "track_record_reprises": ["INEXIA SNC fusion 23/12/2020"],
+    "capacite_financiere_demontree": "forte_documentee", "cautionnement_personnel": "NR",
+    "vehicule_reprise": {"forme_juridique": "SAS", "date_creation": null, "capital_eur": 4813365, "rcs": "384862363", "kbis_present_en_annexe": true, "type_vehicule": "substitution_prevue"}
+  },
+  "structure_prix": {
+    "prix_total_eur": 1300000,
+    "decomposition": {"incorporels_eur": 0, "corporels_eur": 950000, "stocks_eur": null, "creances_clients_eur": null, "immeubles_eur": 350000, "titres_eur": null},
+    "charges_augmentatives_eur": null, "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Virement bancaire sur compte CDC AJ avant examen", "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [], "credit_bail_repris": [], "contrats_clients_critiques_repris": [], "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false, "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null, "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0, "nb_total_salaries": 26, "pct_reprise": 0.0,
+    "categories_reprises": null,
+    "categories_non_reprises_raisons": "Aucun salarie repris ou transfere (cession exclusivement d'actifs corporels)",
+    "maintien_conditions_anciennete_salaire_lieu": "non",
+    "plan_licenciement": {"nb": 0, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null, "sanction_non_respect_emplois": null, "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Actifs corporels uniquement : (1) ensemble immobilier 3 Boulevard de l'Industrie 49000 Ecouflant (parcelle AC n368, 1 ha 07 a 91 ca, batiment industriel stockage fruits longue duree, VNC 18 452,81 EUR, prix 350 000 EUR) + (2) elements d'equipement Frigo G 09/2019 (structure 1,242M + protection 175k + dallage 181k + electricite 242k + systeme froid 895k + charpente 917k + menuiseries 958k + ABSOGER 21k + degivrage 112k + Trane 196k + ACTEMIUM) — VNC totale ~3,059M — prix 950 000 EUR.",
+    "vision_strategique_phrase": "Site Ecouflant interessant pour croissance transport/logistique du Groupe La Blottiere",
+    "pivots_prevus": "Integration logistique La Blottiere (deja implante Maine-et-Loire)",
+    "synergies_repreneur": "Stockage fruits longue duree + acces logistique", "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null, "capex_calendrier": null, "capex_nature": null,
+    "plan_affaires_3ans_present": false, "ca_an1_eur": null, "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null,
+    "hypotheses_qualification": "realistes", "maintien_site": "oui_total", "maintien_marques_savoir_faire": "non"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 1300000, "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false, "dette_bancaire_lettre_confort": false, "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false, "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null, "tresorerie_securite_eur": null, "partenaires_financiers": ["Fonds propres"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null, "caution_dirigeant_montant_eur": null, "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null, "maintien_territoire_site_duree": null, "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false, "nb_conditions": 3,
+    "items": [
+      "Absence de surete/gage/nantissement grevant les actifs",
+      "Absence de revendication ou exercice de droit de retention",
+      "Absence de modification substantielle ou evenement alterant valeur des actifs entre depot et decision Juge Commissaire"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null, "nb_pages_corps_offre": null, "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille", "ton_dominant": "technique", "executive_summary_present": true,
+    "annexes_kbis": true, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false, "annexes_organigramme_cible": false, "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false, "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": true, "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false, "soutien_clients_cles": false, "soutien_banques_historiques": false,
+    "personnalisation_visite_site": true, "personnalisation_rencontre_equipes": false, "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent", "differenciation_concurrents_explicite": false, "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Offre actifs isoles — non plan de cession, structure juridique distincte"],
+    "declaration_L642_3_signee": true, "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": "PARTHEMA AVOCATS, 3 Mail du Front populaire 44200 Nantes", "avocat_nom": "Gregory STRUGEON"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe LA BLOTTIERE — entreprise familiale fondee 1961 — filiere pommes-poires France+Chili+Pologne — 1 300 Ha vergers, 76 000 T, 800 collaborateurs, CA 90M",
+    "phrase_engagement_social": "Aucun salarie repris (cession exclusivement actifs corporels)",
+    "phrase_vision_strategique": "Site Ecouflant identifie comme interessant pour croissance transport/logistique du Groupe La Blottiere",
+    "phrase_justification_prix": "1 300 000 EUR : 350 000 EUR immobilier (VNC 18k) + 950 000 EUR Frigo G (VNC ~3,059M)"
+  }
+}

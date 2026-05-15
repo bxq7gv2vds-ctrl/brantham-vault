@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "offre_id": "24-04",
+    "dossier_id": "24",
+    "dossier_folder": "24 - SAS LA BELLE FORÊT",
+    "fichier_source_pdf": "offre_04_gd72888408.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS LA BELLE FORET",
+    "cible_siren": "899658983",
+    "naf_secteur": "Credits carbone Label Bas-Carbone",
+    "sous_secteur": "Sylviculture melangee a couvert continu - 31 contrats portefeuille",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 8,
+    "nb_sites": 1,
+    "type_procedure": "sauvegarde",
+    "date_ouverture": "2025-11-10",
+    "dldo": "2025-12-12",
+    "date_audience_cession": null,
+    "aj_nom": "Me Charles-Henri CARBONI ; Me Jean BARON",
+    "aj_etude": "SELARL DETROIT ; SCP CBF ASSOCIES",
+    "mj_nom": "Me Sabine ROCHER",
+    "mj_etude": "SELARL ASTEREN",
+    "juge_commissaire": "M. Patrick Renouard",
+    "causes_defaillance": "Difficultes marche carbone volontaire francais"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 3,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "holding_ad_hoc",
+    "age_parcours_dirigeant": "Sylvain GOUPILLE (DG Piccolo 5) - entrepreneur 25 ans finance climatique - PwC 1997-2005 (conseil changement climatique) - BNP Paribas 2005-2012 (finance climatique mondiale) - Fonds Carbone Europeen 2005-2012 (>100 ME actifs) - Althelia Climate Funds 2012-2020 (Mirova Natural Capital, >500 ME AUM) - Le Printemps des Terres depuis 2020 - Co-president OBC depuis 2022 (dont La Belle Foret est membre)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 25,
+    "track_record_reprises": ["Piccolo 5 S.A. Luxembourg 14 ME bilan", "Le Printemps des Terres (BNP Paribas + Caisse des Depots + Allianz + Generali + Abeille + Credit Mutuel AM)", "Le Printemps des Terres Fonciere", "RESTORE (valorisation biodiversite)", "Biodiv'AM", "Biota (restauration ecologique)", "Fronterra", "Bilan humain 70+ employes recrutes 15 ans, 0 licenciement, 0 demission (Althelia, LPT, Biodiv'AM, Octobre)"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "Societe nouvelle 'LBF' en formation sous direction Sylvain GOUPILLE (commerciale ou civile selon choix) - portee par Piccolo 5 S.A. SA Luxembourg",
+      "date_creation": "A constituer",
+      "capital_eur": null,
+      "rcs": null,
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "newco"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 23432,
+    "decomposition": {
+      "incorporels_eur": null,
+      "corporels_eur": null,
+      "stocks_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Prix 23.432 EUR sous conditions (audit + libre de gages). Lettre de banque jointe confirmant Piccolo 5 dispose somme >= 1.000.000 EUR.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["31 contrats avec proprietaires forestiers"],
+    "contrats_fournisseurs_repris": ["Contrats fournisseurs en cours (sous reserve liste exhaustive)"],
+    "engagements_L642_12_al4": false,
+    "passif_privilegie_repris": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 6,
+    "nb_total_salaries": 8,
+    "pct_reprise": 75,
+    "categories_reprises": "6 salaries non-dirigeants - Matricule 00010 Chargee de projet (anc. 2023) + 00001 Ingenieure forestiere (anc. 2021) + 00015 Charge mission developpement portefeuille (anc. 2024) + 00005 Ingenieur forestier (anc. 2022) + 00025 Directrice commerciale (anc. 2025) + 00021 Assistante de direction (anc. 2024)",
+    "categories_non_reprises_raisons": "Direction Generale exclue : Matricule 13 (Directeur Technique) + 17 (Directeur des Operations)",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {
+      "nb": 2,
+      "calendrier": null,
+      "indemnites": "Charge procedure",
+      "accompagnement": null
+    },
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Plan d'affaires LBF 2026-2030 detaille (Tableau 1) : ventes carbone (25.000 credits/an = 7% stock contractualise, produit brut 875k 2026 -> 1.375k 2030, marge brute 262k 2026) + ventes biodiversite (a partir 2027, ~435k/an moyenne 5 ans). Produits exploitation : 875k 2026 -> 2.101k 2030. Charges exploitation : 1.317k 2026 -> 1.240k 2030. Resultat exploitation : (441.800) 2026 -> (114.174) 2027 -> +293k 2028 -> +457k 2029 -> +861k 2030. Equilibre 2028. Pertes cumulees 2 premieres annees : 556k.",
+    "vision_strategique_phrase": "Reconnaissance valeur acquis La Belle Foret + addition valorisation biodiversite du portefeuille de 31 contrats + synergies avec autres entreprises du Repreneur (Le Printemps des Terres, Biodiv'AM, Biota) + structure independante a taille humaine et forte identite",
+    "pivots_prevus": "Ajout NOUVELLE activite : commercialisation certificats biodiversite (a partir 2027) en complement des credits carbone existants",
+    "synergies_repreneur": "Le Printemps des Terres (acquisition terres + vente carbone), Biodiv'AM (valorisation biodiversite), Biota (gestion travaux restauration ecologique), Fronterra. Ecosystème commun expert.",
+    "synergies_chiffrees_eur": 435000,
+    "capex_montant_eur": null,
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 875000,
+    "ca_an2_eur": 1242130,
+    "ca_an3_eur": 1689970,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "prudentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 490000,
+    "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": true,
+    "dette_bancaire_montant_eur": 1000000,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": 490000,
+    "tresorerie_securite_eur": 1000000,
+    "partenaires_financiers": ["Piccolo 5 S.A. Luxembourg 14 ME bilan", "Apports comptes courants associes 490k besoin 2026", "Lettre banque confirmant somme >= 1.000.000 EUR disponible"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "Pas de cession d'actifs prevue dans les 2 ans suivant cession",
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 10,
+    "items": [
+      "Societe ou actifs libres de tout gage et toute garantie",
+      "Audit satisfaisant des comptes legaux et statutaires",
+      "Liste exhaustive, anonymisee et actualisee des salaries (categorie professionnelle + anciennete)",
+      "Detail conges payes et RTT par date d'acquisition",
+      "Etat detaille immobilisations a reprendre avec valeur comptable",
+      "Integralite des contrats avec proprietaires forestiers + validation absence ecart materiel avec contrat-type",
+      "Confirmation transmission integrale des contrats avec proprietaires a LBF",
+      "Liste exhaustive contrats fournisseurs en cours et avenants",
+      "Absence modification substantielle/evenement alterant nature/consistance/valeur d'usage des actifs (depot offre -> audience)",
+      "Absence cessation permanente ou temporaire d'activite permettant de realiser le CA"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 9,
+    "nb_pages_corps_offre": 8,
+    "nb_pages_annexes": 1,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": true,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": true,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": [
+      "Prix 23.432 EUR ecrit 'vingt-quatre mille quatre cent trente-deux euros' en lettres (incoherence chiffres vs lettres - en realite 23.432 numerique = 'vingt-trois mille quatre cent trente-deux')"
+    ],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Les auteurs du projet sont la societe Piccolo 5 S.A., qui est une holding patrimoniale de la famille Goupille, et dont l'objet principal est la detention d'entreprises dans le domaine de l'environnement et du changement climatique. Sylvain Goupille est un entrepreneur ayant une experience unique dans la finance climatique depuis plus de 25 ans.",
+    "phrase_engagement_social": "Sylvain Goupille, le Repreneur, a un bilan humain reconnu et extremement positif. Au sein des differentes societes qu'il a cree et dirige au cours de 15 dernières annees, il a recrute plus de 70 employes. Sous sa direction, il n'a jamais ete procede a un licenciement (ni rupture conventionnelle ou autre modalite de separation), et aucun salarie n'a demissionne de ses entreprises.",
+    "phrase_vision_strategique": "Le present projet de reprise vise a assurer la continuite economique et sociale de l'ensemble des activites. Les actifs et des personnels cle de la societe vont etre loges dans une nouvelle structure, 'LBF', agissant sous la marque commerciale 'La Belle Foret'. (...) Une structure qui reste independante : le projet n'est pas d'integrer les salaries dans une grande structure, mais de garder une identite et une autonomie de gestion de LBF.",
+    "phrase_justification_prix": "Les auteurs du projet sont disposes a offrir une somme de 23 432 EUR dans les hypothèses suivantes : La Societe ou ses actifs sont libres de tout gage et de toute garantie + Les auteurs du projet ont pu proceder a un audit satisfaisant des comptes legaux et statutaires"
+  }
+}

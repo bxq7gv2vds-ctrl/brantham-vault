@@ -1,0 +1,131 @@
+{
+  "meta": {"offre_id": "14-COLMAR-02", "dossier_id": "14", "dossier_folder": "14 - ASSOCIATION MEDICO DENTAIRE COLMAR 68", "fichier_source_pdf": "offre_02_gd74071462.pdf", "extracted_at": "2026-05-15", "extracted_by": "claude-agent", "confidence": "high"},
+  "identification": {
+    "cible_raison_sociale": "ASSOCIATION MEDICO-DENTAIRE COLMAR 68",
+    "cible_siren": "905238648",
+    "naf_secteur": "Santé - Pratique dentaire",
+    "sous_secteur": "Centre de santé dentaire Colmar (réseau DENTEKA)",
+    "ca_dernier_exercice_eur": null, "ebitda_eur": null, "effectif_total": 14, "nb_sites": 1,
+    "type_procedure": "RJ", "date_ouverture": "2025-08-20", "dldo": "2026-01-12", "date_audience_cession": "2026-02-09",
+    "aj_nom": "Maître Sandra BELADJINE (BCM) et Maître Isabelle DIDIER (O3 PARTNERS)",
+    "aj_etude": "SELARL BCM / SELAS SPE O3 PARTNERS",
+    "mj_nom": "Maître Julie PERROT (ACTIS) et Maître Pablo CASTANON (ASTEREN)",
+    "mj_etude": "SELARL ACTIS / SELARL ASTEREN",
+    "juge_commissaire": "Jean Luc BOUR",
+    "causes_defaillance": "Réseau DENTEKA en RJ - offres indivisibles Colmar+Enghien"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "amelioree_puis_retenue",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 1,
+    "concurrents_resume": [
+      {"nom": "MEDIVI offre initiale", "positionnement_2lignes": "12/01/2026 prix placeholder"},
+      {"nom": "MEDIVI offre définitive", "positionnement_2lignes": "11/02/2026 prix porté à 2.600€"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "David HADDOUK (Président) et Sylvain HADDOUK (DG) - 50/50 réseau PLACE DENTAIRE/DENTEKA",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["Réseau 30 centres santé dentaire", "CA agrégé 39 317 630€ 2025", "~450 salariés"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS (avec substitution Association ad hoc + VIVA SANTE)",
+      "date_creation": "2026-01-22 pour ASSOCIATION CENTRE DENTAIRE COLMAR (W751282634)",
+      "capital_eur": 17832600,
+      "rcs": "908193311 (MEDIVI) ; W751282634 (Association) ; 817 772 382 (VIVA SANTE - sic)",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 1300,
+    "decomposition": {"incorporels_eur": 500, "corporels_eur": 500, "stocks_eur": 300, "creances_clients_eur": null, "immeubles_eur": null, "titres_eur": null},
+    "charges_augmentatives_eur": 50000,
+    "modalites_paiement": "sequestre",
+    "garanties_paiement": "Garantie ferme 20% min à dépôt offre, solde 2 jours ouvrés avant audience",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail GALIMMO/DENTIGEST + indemnité 50.000€ pour résiliation amiable", "Bail POINT DENTAIRE Nanterre (cession droit au bail)"],
+    "credit_bail_repris": ["Crédits-bail Centre détenus par DENTIGEST"],
+    "contrats_clients_critiques_repris": ["Contrats électricité, eau, téléphonie"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Renonciation acomptes patients limitée à 10.000€",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 11, "nb_total_salaries": 14, "pct_reprise": 78.57,
+    "categories_reprises": "5 assistantes dentaires + 5 chirurgiens-dentistes omnipraticiens + 1 secrétaire",
+    "categories_non_reprises_raisons": "1 chirurgien-dentiste implantologue, 1 chirurgien-dentiste orthodontiste, 1 secrétaire",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 3, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null, "sanction_non_respect_emplois": null, "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Substitution introduite : ASSOCIATION CENTRE DENTAIRE COLMAR (créée 22/01/2026, Président Ishac HADDOUK) pour exploitation + VIVA SANTE pour reprise baux du Réseau Denteka",
+    "vision_strategique_phrase": "Intégration au Réseau PLACE DENTAIRE via Association ad hoc + VIVA SANTE pour les baux",
+    "pivots_prevus": "Création Association ad hoc 22/01/2026 + utilisation VIVA SANTE pour les baux du réseau",
+    "synergies_repreneur": "Mutualisation 30 centres réseau + back-office + trésorerie cumulée >1M€",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null, "capex_calendrier": null, "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null, "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 14164,
+    "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": true,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": 1000000,
+    "partenaires_financiers": ["Fonds propres exclusivement - compte courant bancaire MEDIVI 14.164,16€ + trésorerie cumulée Réseau >1.000.000€ (attestation expert-comptable)"]
+  },
+  "engagements_specifiques": {"incessibilite_temporaire_mois": null, "caution_dirigeant_montant_eur": null, "caution_dirigeant_duree_mois": null, "penalites_non_respect_social_eur": null, "maintien_territoire_site_duree": null, "non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 4,
+    "items": [
+      "Accord exprès DENTIGEST (bailleur via GALIMMO) pour résiliation amiable bail + nouveau bail OU cession droit au bail, avec versement 50.000€",
+      "Accord SAS POINT DENTAIRE titulaire du bail Nanterre sur cession droit au bail moyennant 50.000€",
+      "Accord bailleur Nanterre (GALIMMO) sur résiliation amiable + nouveau bail ou cession droit au bail",
+      "Reprise crédit-baux Centre détenus par DENTIGEST avec accord DENTIGEST + juge-commissaire + crédits-bailleurs"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 16, "nb_pages_corps_offre": 16, "nb_pages_annexes": 0,
+    "structure_dominante": "sommaire_detaille", "ton_dominant": "mixte", "executive_summary_present": false,
+    "annexes_kbis": true, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": true,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false, "annexes_business_plan": false,
+    "annexes_organigramme_cible": false, "annexes_comptes_sociaux_3ans": false, "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false, "annexes_cni_dirigeants": false, "signature_docusign": false, "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false, "soutien_clients_cles": false, "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false, "personnalisation_rencontre_equipes": false, "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent", "differenciation_concurrents_explicite": false, "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Numéro VIVA SANTE incohérent : 817 772 382 ici vs 812 772 382 ailleurs (typo)"],
+    "declaration_L642_3_signee": false, "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Réseau PLACE DENTAIRE / DENTEKA - 30 centres santé dentaire France, CA agrégé 39 317 630€ 2025, ~450 salariés. Holding MEDIVI : VIVA SANTE (baux), PLACE LAB (prothèse), ACAMEDI",
+    "phrase_engagement_social": "Emplois repris portés à 11/14 (5 assistantes dentaires + 5 chirurgiens-dentistes omnipraticiens + 1 secrétaire)",
+    "phrase_vision_strategique": "Substitution introduite : ASSOCIATION CENTRE DENTAIRE COLMAR (créée 22/01/2026, Président Ishac HADDOUK) pour exploitation + VIVA SANTE pour reprise baux du Réseau Denteka",
+    "phrase_justification_prix": "1.300€ HT (incorporels 500€ + corporels 500€ + stocks 300€) - amélioration offre initiale + indemnité 50.000€ DENTIGEST + 50.000€ cession bail Nanterre"
+  }
+}
