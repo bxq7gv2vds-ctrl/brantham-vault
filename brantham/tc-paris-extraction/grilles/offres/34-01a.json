@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "offre_id": "34-01a",
+    "dossier_id": "34",
+    "dossier_folder": "34 - SAS COSA",
+    "fichier_source_pdf": "offre_01_gd74768310.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS COSA VOSTRA",
+    "cible_siren": "798459541",
+    "naf_secteur": "Agences digitales / conseil",
+    "ca_dernier_exercice_eur": null,
+    "effectif_total": 29,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-12-10",
+    "dldo": "2026-01-06",
+    "date_audience_cession": "2026-03-05",
+    "aj_nom": "Me Sandra Beladjine",
+    "aj_etude": "SELARL BCM & Associés",
+    "mj_nom": "Me Stéphane Gorrias",
+    "mj_etude": "SCP BTSG",
+    "juge_commissaire": "M. Stéphane Catoire"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "amelioree_puis_retenue",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 6,
+    "concurrents_resume": [
+      {"nom": "DATASOLUTION", "positionnement_2lignes": "50k€/28 emplois — perdant principal."},
+      {"nom": "INGENIUS", "positionnement_2lignes": "3k€/12 emplois — trop petit."},
+      {"nom": "HORREA", "positionnement_2lignes": "25k€/4 emplois — cherry-picking e-commerce."},
+      {"nom": "MANTU GROUP SA", "positionnement_2lignes": "LOI 1€ — non formalisée."}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Alfred CORCHIA, né 22/10/1952 à Oran — domicilié 14 rue de Tournon 75006 Paris",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["Ipso Facto", "Vital", "Welove", "Made for Com", "Armstrong", "Raison Pure", "Groupe Axxess", "Martine Leherpeur Conseil", "Parishanghai"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SARL puis SAS WTPxCOSA",
+      "date_creation": "2017-01-09",
+      "capital_eur": 5000,
+      "rcs": "824813430",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 70000,
+    "decomposition": {
+      "incorporels_eur": 55000,
+      "corporels_eur": 15000,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": 15000
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds propres",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["71-73 rue de Saussure 75017 Paris (bail repris)"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Tous contrats clients en cours"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": "Prise en charge intégrale droits acquis salariés y compris antérieurs à l'entrée en jouissance"
+  },
+  "volet_social": {
+    "nb_salaries_repris": 16,
+    "nb_total_salaries": 29,
+    "pct_reprise": 55.2,
+    "categories_reprises": "16 salariés sur 28 CDI (passage de 3 à 16 emplois entre offre initiale et améliorée)",
+    "categories_non_reprises_raisons": "13 postes non repris — restructuration équipe",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 13, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Reprise sectorielle agence digitale par holding spécialisée — synergies avec Armstrong, Auguste et Louise, autres reprises ACB Group",
+    "vision_strategique_phrase": "Repreneur sectoriel boutique calibré, qui sait reprendre à la barre",
+    "pivots_prevus": "Continuité activité conseil digital + filiale tunisienne maintenue",
+    "synergies_repreneur": "Groupe WeThePeople-Group (Armstrong / Auguste et Louise) — mutualisation",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 80000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": 80000,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Fonds propres ACB Group / WeThePeople-Group"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Pas de dégradation substantielle activité jusqu'au jugement (ex : perte d'un top 5 client)",
+      "Audit concluant",
+      "Rencontre salariés concluante"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 13,
+    "nb_pages_corps_offre": 13,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_business_plan": false,
+    "annexes_comptes_sociaux_3ans": true,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": true,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": "AGN Avocats Paris", "avocat_nom": "Me Valentin MANGENOT"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "PROPOSITION AMELIOREE DE REDRESSEMENT PAR VOIE DE CESSION DE L'ACTIVITE DE LA SOCIETE SAS COSA VOSTRA — Présentée par la société Agence IF",
+    "phrase_engagement_social": "Prise en charge intégrale des droits acquis de tous les salariés repris, y compris ceux nés antérieurement à l'entrée en jouissance",
+    "phrase_vision_strategique": "Sur ce prix, il convient de préciser que 15.000 quinze mille euros sont affectés aux titres de participations de la filiale Tunisienne, la société COSA VOSTRA TUNIS",
+    "phrase_justification_prix": "Sauf à parfaire"
+  },
+  "bilan_repreneur": {
+    "ca_eur": 6945541,
+    "ca_export_eur": 371534,
+    "resultat_exploitation_eur": 421453,
+    "resultat_net_eur": 225560,
+    "total_actif_eur": 4478706,
+    "capitaux_propres_eur": 1153830,
+    "exercice_clos": "2024-06-30"
+  }
+}
