@@ -12,7 +12,12 @@ pilier: 6-coulisses-systeme
 piliers_secondaires:
   - 7-opinions-contrarian
   - 3-pedagogie-process
-hook_type: preuve-visuelle-promesse-manuel
+hook_type: trash-alzheimer-organisationnel
+hook_alternatives:
+  - "Votre boîte a Alzheimer. (retenu)"
+  - "Si je débranche les 3 cerveaux clés de votre boîte demain matin, il vous reste quoi ? Un Notion mort et un Slack illisible."
+  - "Vos agents IA sont nuls. Pas à cause du modèle. À cause de vous : votre boîte n'a jamais écrit son contexte."
+  - "Votre boîte produit 200 pages de notes par semaine et oublie tout en 14 jours."
 visuel:
   type: screenshot-vault
   description: "Capture partielle du graph Obsidian Brantham (notes liées entre elles, fond sombre)"
@@ -41,6 +46,14 @@ Légende sous l'image :
 ## Corps du post
 
 ```
+Votre boîte a Alzheimer.
+
+Vous reprenez les mêmes décisions chaque trimestre. Vous repayez des consultants pour redécouvrir ce que vous saviez il y a deux ans. Vous re-débattez les mêmes sujets en réunion parce que personne ne retrouve la trace de la précédente.
+
+Vos notes ne servent à rien. Votre Notion est un cimetière. Votre Slack est illisible.
+
+Et vos agents IA sont nuls parce qu'ils prompttent dans le vide d'une boîte qui n'a jamais écrit son contexte.
+
 La plupart des boîtes ont des notes.
 
 Nous, on essaie de construire de la data actionnable.
