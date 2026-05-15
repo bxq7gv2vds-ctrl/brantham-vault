@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "offre_id": "59-01",
+    "dossier_id": "59",
+    "dossier_folder": "59 - SCA LA REINETTE D ANJOU",
+    "fichier_source_pdf": "59_SCA_LA_REINETTE_D_ANJOU_offre1.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCEA LA REINETTE D'ANJOU",
+    "cible_siren": "786159152",
+    "naf_secteur": "Production agricole — pommes",
+    "sous_secteur": "Pôle Val de Loire INNATIS",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 1,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-16",
+    "dldo": "2026-03-18",
+    "date_audience_cession": "2026-04-13",
+    "aj_nom": "Marine PACE / Paul-Henri AUDRAS",
+    "aj_etude": "SELARL 2M&Associés ; SELAS AJ UP",
+    "mj_nom": "Valérie LELOUP-THOMAS / Charlotte THIRION",
+    "mj_etude": "SELAFA MJA ; SELARL ATHENA",
+    "juge_commissaire": null,
+    "causes_defaillance": "INNATIS Pôle Val de Loire — RJ 16/03/2026"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": "Indivisibilité 11 offres, conditions suspensives lourdes (11 items), prix 10k€ insignifiant pour les actifs visés.",
+    "nb_offres_concurrentes": 2,
+    "concurrents_resume": [
+      {"nom": "SARL CELHER (Boujuau)", "positionnement_2lignes": "Offre globale REINETTE + PLESSE 90k€, exploitants 28 ans, partenariat Vergers d'Anjou."}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "James LAUNAY + Pierre LEROY + Nicolas VERGER",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["Maison Leroy", "Paysans Résistants", "AGI-SERRE"],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SCEA LVL ANJOU (NewCo)",
+      "date_creation": null,
+      "capital_eur": 1000,
+      "rcs": null,
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "newco"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 10000,
+    "decomposition": {
+      "incorporels_eur": null,
+      "corporels_eur": null,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 6490000,
+    "modalites_paiement": "NR",
+    "garanties_paiement": null,
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail à signer"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": true,
+    "engagement_L642_12_montant_eur": 190000,
+    "passif_privilegie_repris": "Conclusion accord éligibilité L.642-12 al.4 Crédit Agricole Touraine Poitou (~190.000€) si applicable",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 1,
+    "nb_total_salaries": 1,
+    "pct_reprise": 100.0,
+    "categories_reprises": "1 salarié",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": 0, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Reprise tous actifs corporels + incorporels + stocks + actifs immobiliers SCEA DE LA CHAUSSEE — indivisibilité périmètre Vergers Anjou",
+    "vision_strategique_phrase": null,
+    "pivots_prevus": null,
+    "synergies_repreneur": "150 ha vergers consortium + 7 ha serres",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "partiel"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 6490000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": 1800000,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Fonds propres consortium"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 11,
+    "items": [
+      "Absence modification substantielle actifs/activité",
+      "Absence garanties/emprunts L.642-12 al.4-5 ou accord dérogatoire",
+      "Communication certificat complet inscriptions",
+      "Obtention financement bancaire si nécessaire",
+      "Accord INNATIS DEVELOPPEMENT sur licences HONEY CRUNCH, ZINGY, CHOUPETTE, KIKOKA",
+      "Autorisation emballage pommes PINK LADY et JULIET via CARDELL EXPORT",
+      "Transfert licence Pink Lady station OCEANE Angers",
+      "Signature nouveau bail",
+      "Confirmation vergers traités",
+      "Accès informatique et transfert données",
+      "Accord éligibilité L.642-12 al.4 Crédit Agricole Touraine Poitou (~190k€)"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "incoherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [
+      "Indivisibilité 11 offres Innatis",
+      "Conditions suspensives lourdes (11 items)",
+      "Prix 10k€ très faible pour les actifs visés"
+    ],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": "Cabinet FIDAL",
+    "avocat_nom": "Antoine BISDORFF / Delphine BRUNET / Sabrina DJELTI"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Offre améliorée 08/04/2026 — étendue : tous actifs corporels/incorporels/stocks + actifs immobiliers SCEA DE LA CHAUSSEE",
+    "phrase_engagement_social": "Sauvegarde 116 salariés sur 140 (toutes 11 entités Innatis)",
+    "phrase_vision_strategique": null,
+    "phrase_justification_prix": null
+  }
+}

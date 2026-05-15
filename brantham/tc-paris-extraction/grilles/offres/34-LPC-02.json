@@ -1,0 +1,49 @@
+{
+  "meta": {"offre_id": "34-LPC-02", "dossier_id": "34-LPC", "dossier_folder": "34 - SAS LPC", "fichier_source_pdf": "34_SAS_LPC_offre2.pdf", "extracted_at": "2026-05-15", "extracted_by": "claude-agent-batch08", "confidence": "high"},
+  "identification": {"cible_raison_sociale": "LPC", "cible_siren": "950445809", "naf_secteur": null, "sous_secteur": "Conditionnement pommes INNATIS", "ca_dernier_exercice_eur": 4326631, "ebitda_eur": null, "effectif_total": 26, "nb_sites": 3, "type_procedure": "sauvegarde", "date_ouverture": "2025-09-29", "dldo": "2026-03-18", "date_audience_cession": "2026-04-30", "aj_nom": "Maître Marine PACE / Maître Paul-Henri AUDRAS", "aj_etude": "SELARL 2M&ASSOCIES / SELAS AJ UP", "mj_nom": "Maître Valérie LELOUP-THOMAS / Maître Marie-Charlotte THIRION", "mj_etude": "SELAFA MJA / SELARL ATHENA", "juge_commissaire": "WEHBI Joseph", "causes_defaillance": "Filiale INNATIS — pertes"},
+  "issue_dossier": {
+    "cette_offre_retenue": "amelioree_puis_retenue",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Source gagnants-tribunal.md : 'Projet coopératif local cohérent ; capacité de stockage Les Vergers d'Anjou passe de 36 000 t à 49 000 t.' Prix retenu : 7M€ ensemble pôle ligérien INNATIS.",
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 3,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "asso_collectivite",
+    "age_parcours_dirigeant": "Albert RICHARD (Président) / Jacques MALAGIE (DG)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 50,
+    "track_record_reprises": ["Fusion-absorption Coopérative SCAFLA Ancenis (2024)", "73 exploitations adhérentes, 1600 ha vergers, 50000T fruits, >1000 ETP"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {"forme_juridique": "LES VERGERS D'ANJOU — Société civile coopérative à capital variable", "date_creation": null, "capital_eur": 3595855, "rcs": "071201594", "kbis_present_en_annexe": true, "type_vehicule": "existante"}
+  },
+  "structure_prix": {
+    "prix_total_eur": 3000000,
+    "decomposition": {"incorporels_eur": 7977, "corporels_eur": 653036, "stocks_eur": null, "creances_clients_eur": null, "immeubles_eur": 2338988, "titres_eur": null},
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Attestation CRCAM (Crédit Agricole Anjou et Maine) justifiant règlement comptant 3M€",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {"baux_repris": [], "credit_bail_repris": [], "contrats_clients_critiques_repris": [], "contrats_fournisseurs_repris": [], "engagements_L642_12_al4": false, "engagement_L642_12_montant_eur": null, "passif_privilegie_repris": null, "retraites_chapeau_indemnites": null},
+  "volet_social": {"nb_salaries_repris": 5, "nb_total_salaries": 26, "pct_reprise": 19.2, "categories_reprises": "2 Agent qualité + 2 Chef de ligne + 1 Responsable quai (LPC). Reprise POMANJOU = 5 postes (sur 23). LVL POMANJOU = 0.", "categories_non_reprises_raisons": null, "maintien_conditions_anciennete_salaire_lieu": "oui_total", "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": null}, "engagement_maintien_emplois_duree_mois": null, "sanction_non_respect_emplois": null, "relations_irp_cse_mention": false},
+  "plan_industriel": {"diagnostic_qualification": "structurel", "diagnostic_resume": "Synergie industrielle évidente : site OCEANE à <4km du siège VERGERS ANJOU. Premier acteur production-commercialisation fruits Val de Loire. Schéma directeur industriel en cours 2025/26.", "vision_strategique_phrase": "Projet coopératif local cohérent — capacité stockage 36k→49k T", "pivots_prevus": null, "synergies_repreneur": "Mutualisation siège <4km, variétés Clubs Pink Lady, Angys, Jazz, Fred, Daliclass, Regayou, Rockit, Juliet", "synergies_chiffrees_eur": null, "capex_montant_eur": null, "capex_calendrier": null, "capex_nature": null, "plan_affaires_3ans_present": false, "ca_an1_eur": 50000000, "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null, "hypotheses_qualification": "realistes", "maintien_site": "oui_total", "maintien_marques_savoir_faire": "oui"},
+  "financement": {"apport_fonds_propres_eur": 26000000, "apport_origine_documentee": "oui_rib_attestation", "dette_bancaire_engagement_ferme": true, "dette_bancaire_lettre_confort": false, "dette_bancaire_montant_eur": null, "credit_bail_repris_oui_non": false, "affacturage_dailly": false, "bfr_redemarrage_eur": null, "tresorerie_securite_eur": null, "partenaires_financiers": ["CRCAM Anjou et Maine", "SAS BLUE WHALE (12,04% associé)", "SICA TRANSFOFRUITS (32,65%)"]},
+  "engagements_specifiques": {"incessibilite_temporaire_mois": null, "caution_dirigeant_montant_eur": null, "caution_dirigeant_duree_mois": null, "penalites_non_respect_social_eur": null, "maintien_territoire_site_duree": null, "non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Absence de sûretés/nantissements/hypothèques sur actifs repris",
+      "Absence de revendication ou droit de rétention",
+      "Absence d'événement substantiel altérant valeur des actifs jusqu'à audience"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {"nb_pages_total": null, "nb_pages_corps_offre": null, "nb_pages_annexes": null, "structure_dominante": "sommaire_detaille", "ton_dominant": "juridique", "executive_summary_present": true, "annexes_kbis": true, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": true, "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false, "annexes_business_plan": false, "annexes_organigramme_cible": false, "annexes_comptes_sociaux_3ans": true, "annexes_attest_fisc_sociale": false, "annexes_rib": false, "annexes_cni_dirigeants": false, "signature_docusign": true, "qualite_redactionnelle": "claire"},
+  "signaux_faibles": {"soutien_collectivite_locale": true, "soutien_clients_cles": false, "soutien_banques_historiques": true, "personnalisation_visite_site": false, "personnalisation_rencontre_equipes": false, "personnalisation_etude_contrats": true, "coherence_prix_BP": "coherent", "differenciation_concurrents_explicite": false, "elements_emotionnels_sociaux": false, "erreurs_apparentes": [], "declaration_L642_3_signee": true, "faculte_substitution_precise": false},
+  "avocat_repreneur": {"cabinet": "SELARL LEXCAP AVOCATS (Angers)", "avocat_nom": "Dossier 26A00948 TB/CVA/NMA"},
+  "extraits_remarquables": {"phrase_positionnement": "Premier acteur production-commercialisation fruits Val de Loire — 73 adhérents, 1600 ha, 50000T", "phrase_engagement_social": "5 postes LPC + 5 POMANJOU", "phrase_vision_strategique": "Schéma directeur industriel 2025/26, synergie <4km siège", "phrase_justification_prix": "3M€ comptant via CRCAM, immeubles 2,34M€ + corporels 653K€ + incorporels 8K€"}
+}

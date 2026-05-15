@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "offre_id": "28B-ALPHA-04-SEASONOVA",
+    "dossier_id": "28B-ALPHA",
+    "dossier_folder": "28 - SAS a associe unique ALPHA CAMPING",
+    "fichier_source_pdf": "offre_04_gd71722398.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "ALPHA CAMPING",
+    "cible_siren": "793853128",
+    "naf_secteur": "Hotellerie de plein air / Camping",
+    "sous_secteur": "9 campings repris pour exploitation sous marque Seasonova",
+    "ca_dernier_exercice_eur": 14440357,
+    "effectif_total": 46,
+    "nb_sites": 9,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "date_audience_cession": "2026-04-02",
+    "aj_nom": "Maitre Maxime LANGET ; Maitre Lou FLECHARD",
+    "mj_nom": "Maitre Florian LACOUR ; Maitre Camille STEINER",
+    "juge_commissaire": "Monsieur Franck MEYNAUD"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "amelioree_puis_retenue",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "SEASONOVA retenu pour 15 sites groupe Alpha (passe de 21 a 36 campings FR). Demantelement par lots coherents par sous-activite accepte : Seasonova gestion directe + Maeva franchises Camping Paradis/Ushuaia/Mistercamp. Source : L'Officiel des terrains de camping (28/04/2026), 10minhotel.com (28/04/2026).",
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 8,
+    "concurrents_resume": [
+      {"nom": "HUTTOPIA", "positionnement_2lignes": "5 sites 25k EUR — concurrent direct ecarte"},
+      {"nom": "CAMPALDIA", "positionnement_2lignes": "14 sites 3 EUR — ecarte"},
+      {"nom": "FEMINA STYL+MARENGO", "positionnement_2lignes": "12 sites 2 M EUR — ecarte"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Guillaume LEMARCHAND (gerant fondateur 100%) — fonde 2011, Master gestion + tourisme. 1er groupe HPA delegataire Qualite Tourisme.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 15,
+    "track_record_reprises": ["20 campings 100-200 emplacements (Normandie/Alsace/Vosges/Bretagne/Loire/Ile de Re/Arcachon/Vittel/Vesoul/Saint-Sorlin-d'Arves)"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "EURL",
+      "date_creation": null,
+      "capital_eur": 600000,
+      "rcs": "538695560",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 2,
+    "decomposition": {
+      "incorporels_eur": 1,
+      "corporels_eur": 1,
+      "stocks_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "NR",
+    "garanties_paiement": null,
+    "cheque_consignation_eur": null,
+    "note_prix": "Prix provisoire 2 EUR (1 EUR incorp + 1 EUR corp). Charges augmentatives (BFR, depots garantie, investissements, travaux) a evaluer. Offre amelioree a venir — RETENUE au final."
+  },
+  "reprise_passif": {
+    "baux_repris": ["Reprise contrats DSP/baux/concessions 9 sites"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Reprise des dettes exclue ; enseignes Bel Air Villages/Camping Paradis/Ushuaia exclues",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 10,
+    "nb_total_salaries": 46,
+    "pct_reprise": 21.74,
+    "categories_reprises": "10 salaries (integralite des salaries attaches aux Campings Repris)",
+    "categories_non_reprises_raisons": "Audit social siege a venir",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 0, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": 12,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Groupe Seasonova : CA 31/10/24 = 8,32 M EUR (vs 7,56 M 2023). EBITDA 1,685 M. Capitaux propres 4,75 M. Dettes financieres nettes 6,75 M. Disponibilites 2,7 M. Atterrissage 2025 : 9,8 M. 60 salaries permanents jusqu'a 120 haute saison.",
+    "vision_strategique_phrase": "Positionnement Slow Life. Premier groupe HPA delegataire Qualite Tourisme. Labels : Cle Verte, Eco Label Europeen, Coq Vert.",
+    "pivots_prevus": "Integration sous marque Seasonova — exclusion enseignes Bel Air Villages/Camping Paradis/Ushuaia",
+    "synergies_repreneur": "Reseau 20 campings existants + 9 Alpha = 29 campings sous Seasonova. Mutualisation centrale reservation, marketing, Qualite Tourisme.",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": 8320000,
+    "ca_an2_eur": null, "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "non"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": 2700000,
+    "partenaires_financiers": ["Partenaire financier mentionne (non nomme)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "Pas de licenciement economique pendant 12 mois post-jouissance",
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 8,
+    "items": [
+      "Due diligence concluante (commerciale, financiere, technique, fiscale, juridique, sociale)",
+      "Communication creances banques/credits-bailleurs",
+      "Liste precise credits-bails",
+      "Liste contrats en cours",
+      "Confirmation Administrateurs absence financements transferes L.642-12 al.4",
+      "Transfert autorisations administratives",
+      "Accord partenaire financier",
+      "Absence modification substantielle entre depot et audience"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": false,
+    "annexes_kbis": false, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false, "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": true, "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Prix provisoire 2 EUR — necessite amelioration ; tribunal a retenu version finale amelioree"],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Positionnement Slow Life — 1er groupe HPA delegataire Qualite Tourisme",
+    "phrase_engagement_social": "Engagement : pas de licenciement economique pendant 12 mois post-jouissance",
+    "phrase_vision_strategique": "Slow tourisme, Cle Verte, Eco Label Europeen, Coq Vert",
+    "phrase_justification_prix": "Prix provisoire 2 EUR — charges augmentatives a evaluer ; amelioration en cours"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "offre_id": "33-S2NE-02",
+    "dossier_id": "S2NE",
+    "dossier_folder": "33 - SA SOCIETE NOUVELLE DU NOUVEL ECONOMISTE (dite S2NE)",
+    "fichier_source_pdf": "offre_02_gd72570577.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "Societe Nouvelle du Nouvel Economiste",
+    "cible_siren": "809449234",
+    "naf_secteur": "Presse economique",
+    "sous_secteur": "Le Nouvel Economiste",
+    "ca_dernier_exercice_eur": 1770000, "ebitda_eur": null, "effectif_total": 6, "nb_sites": 1,
+    "type_procedure": "RJ", "date_ouverture": "2025-12-09", "dldo": "2026-01-09", "date_audience_cession": null,
+    "aj_nom": "Lou Flechard", "aj_etude": "SCP CBF Associes",
+    "mj_nom": "Stephane Gorrias", "mj_etude": "SCP BTSG",
+    "juge_commissaire": "Patrick Armand",
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente", "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null, "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 5, "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Robert Lafont (Gerant). Entrepreneur presse depuis 40 ans, fondateur du magazine Entreprendre, cotation sur Alternext Paris en 2013, lancement Geostrategie Magazine en 2023.",
+    "experience_sectorielle_oui_non": "oui", "experience_sectorielle_annees": 40,
+    "track_record_reprises": ["Magazine Entreprendre", "Geostrategie Magazine 2023"],
+    "capacite_financiere_demontree": "moyenne_documentee", "cautionnement_personnel": "NR",
+    "vehicule_reprise": {"forme_juridique": "SARL holding + Newco SAS a constituer", "date_creation": null, "capital_eur": 9089400, "rcs": "535034979", "kbis_present_en_annexe": false, "type_vehicule": "substitution_prevue"}
+  },
+  "structure_prix": {
+    "prix_total_eur": 10000,
+    "decomposition": {"incorporels_eur": 10000, "corporels_eur": 0, "stocks_eur": null, "creances_clients_eur": null, "immeubles_eur": null, "titres_eur": null},
+    "charges_augmentatives_eur": null, "modalites_paiement": "NR",
+    "garanties_paiement": "Engagement de 150 000 EUR en compte courant d'associe pour financer le BFR", "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [], "credit_bail_repris": [], "contrats_clients_critiques_repris": [], "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false, "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null, "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 1, "nb_total_salaries": 6, "pct_reprise": 16.7,
+    "categories_reprises": "1 salarie (a parfaire)", "categories_non_reprises_raisons": "Offre a parfaire",
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null, "sanction_non_respect_emplois": null, "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "diagnostic_resume": "OFFRE A PARFAIRE. Business plan detaille a fournir dans offre definitive. Cout total operation estime : 160 000 EUR (10k prix + 150k compte courant). Remuneration nette versee 2024 : 63 600 EUR.",
+    "vision_strategique_phrase": "Levee de l'inalienabilite du fonds de commerce par le Tribunal",
+    "pivots_prevus": null, "synergies_repreneur": null, "synergies_chiffrees_eur": null,
+    "capex_montant_eur": 150000, "capex_calendrier": null, "capex_nature": "Compte courant d'associe BFR",
+    "plan_affaires_3ans_present": false, "ca_an1_eur": null, "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes", "maintien_site": "NR", "maintien_marques_savoir_faire": "NR"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 160000, "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false, "dette_bancaire_lettre_confort": false, "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false, "affacturage_dailly": false,
+    "bfr_redemarrage_eur": 150000, "tresorerie_securite_eur": null, "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null, "caution_dirigeant_montant_eur": null, "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null, "maintien_territoire_site_duree": null, "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false, "nb_conditions": 1,
+    "items": ["Levee de l'inalienabilite du fonds de commerce par le Tribunal (acte 2023-2030)"],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null, "nb_pages_corps_offre": null, "nb_pages_annexes": null,
+    "structure_dominante": "lettre_simple", "ton_dominant": "commercial", "executive_summary_present": false,
+    "annexes_kbis": false, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false, "annexes_organigramme_cible": false, "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false, "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": false, "qualite_redactionnelle": "confuse"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false, "soutien_clients_cles": false, "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false, "personnalisation_rencontre_equipes": false, "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR", "differenciation_concurrents_explicite": false, "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["OFFRE A PARFAIRE — perimetre, conditions, salaries tous renvoyes a offre definitive", "Marque LE NOUVEL ECONOMISTE detenue par AMARADIA non incluse"],
+    "declaration_L642_3_signee": false, "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Robert Lafont — entrepreneur presse depuis 40 ans, fondateur Entreprendre",
+    "phrase_engagement_social": "1 seul salarie repris (a parfaire)",
+    "phrase_vision_strategique": "Offre a parfaire — business plan a fournir dans offre definitive",
+    "phrase_justification_prix": "10 000 EUR + 150 000 EUR compte courant BFR = 160 000 EUR total operation"
+  }
+}

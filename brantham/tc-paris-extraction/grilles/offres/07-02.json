@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "offre_id": "07-02",
+    "dossier_id": "07",
+    "dossier_folder": "07 - SAS CHEPOOKA",
+    "fichier_source_pdf": "offre_02_gd72902005.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS CHEPOOKA",
+    "cible_siren": "795138742",
+    "naf_secteur": "Restauration / café-bar / tiers-lieu culturel",
+    "sous_secteur": "Pavillon des Canaux",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 9,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-02-27",
+    "dldo": "2025-11-17",
+    "date_audience_cession": null,
+    "aj_nom": "Maître Vincent RIQUIN",
+    "aj_etude": "SELAS AJ UP",
+    "mj_nom": "Maître Pablo CASTANON",
+    "mj_etude": "SELARL Asteren",
+    "juge_commissaire": "Monsieur Remi GRENIER",
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 3,
+    "concurrents_resume": [
+      {"nom": "O'SULLIVANS DEVELOPMENT", "positionnement_2lignes": "Groupe pubs 30 ans - 154 628€ - 7 emplois - dépôt hors délai"},
+      {"nom": "Vivien MATHIEU", "positionnement_2lignes": "Groupe LBL brasseries - 30 000€ - 4 emplois"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Mathieu LEROY (signataire), Valentin DUMOUSSET (16/07/1993 Troyes), Gabriele CONTE. Gérants Hotel Negre Coste : Quentin/Augustin/Valentin DUMOUSSET",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["SARL Hotel Negre Coste (Aix-en-Provence, CA 4,7M€)"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "Société en cours de constitution avec faculté de substitution",
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": "Hotel Negre Coste : 581621091 RCS Aix",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 150000,
+    "decomposition": {
+      "incorporels_eur": 120000,
+      "corporels_eur": 25000,
+      "stocks_eur": 5000,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 27250,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Deniers personnels - sans recours à l'emprunt - chèque de banque intégralité du prix le jour de l'audience. Total général 172 250€.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Concession Ville de Paris (39 quai de la Loire 75019)"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": ["Gaz, eau, électricité"],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 6,
+    "nb_total_salaries": 9,
+    "pct_reprise": 66.67,
+    "categories_reprises": "Resp. exploitation, 2 Commis de salle, Manageuse générale, Coordinatrice administrative, Cuisinier senior",
+    "categories_non_reprises_raisons": "3 non repris : Chef cuisinier, Resp. patisserie, Directrice des opérations",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {
+      "nb": 3,
+      "calendrier": null,
+      "indemnites": null,
+      "accompagnement": null
+    },
+    "engagement_maintien_emplois_duree_mois": 24,
+    "sanction_non_respect_emplois": "Engagement maintien de l'emploi 2 ans sans licenciement économique sans autorisation Tribunal",
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Référence business : Hotel Negre Coste à Aix-en-Provence (hôtel-restaurant centre de soins/bien-être/cryotherapie - CA 4,7M€ / RN 226k€ / CP 276k€)",
+    "vision_strategique_phrase": null,
+    "pivots_prevus": null,
+    "synergies_repreneur": "Hotel Negre Coste Aix-en-Provence",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "NR",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 172250,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["CENTURY 21 Horeca Paris (J.-P. Eusebio)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": true,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Référence business Hotel Negre Coste Aix-en-Provence (33 cours Mirabeau, CA 4,7M€)",
+    "phrase_engagement_social": "Engagement maintien de l'emploi 2 ans sans licenciement économique sans autorisation Tribunal",
+    "phrase_vision_strategique": null,
+    "phrase_justification_prix": "Prix 150 000€ + reconstitution dépôt garantie bail 27 250€ = total général 172 250€"
+  }
+}
