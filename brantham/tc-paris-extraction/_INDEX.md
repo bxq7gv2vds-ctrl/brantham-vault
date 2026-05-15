@@ -37,7 +37,13 @@ Point d'entrée unique pour toute l'analyse TC Paris. **104 dossiers d'offres de
 - [[analyses/vague-2026-05-15]] — Vague 2 : 11 nouveaux dossiers scrapés
 - [[analyses/data-quality]] — Doublons, OCR à refaire, normalisation
 
-## Phase 2 — Synthèse transversale (en cours)
+## Phase 2 — Synthèse transversale ✅ LIVRÉE
+
+3 insights majeurs émergents :
+1. **Le prix médian ne discrimine PAS** (50 k€ médian retenues = 50 k€ médian rejetées). Ce qui discrimine, c'est la structure, l'absence de CS et la documentation du financement.
+2. **La preuve de due diligence est le prédicteur n°1** : Δ +50,3 pts entre retenues (77%) et rejetées (27%) sur "le repreneur a-t-il documenté son étude des contrats clients/fournisseurs ?"
+3. **5 kill-switches absolus** présents dans 0 retenue : périmètre marginal, indivisibilité "château de cartes", clause non-sollicitation hostile, charges augmentatives masquées, promesses renvoyées à "ultérieurement".
+
 
 Folder : `analyses/synthese-phase2/`
 
