@@ -1,0 +1,32 @@
+{
+  "meta": {"dossier_id": "14-COLMAR", "dossier_folder": "14 - ASSOCIATION MEDICO DENTAIRE COLMAR 68", "extracted_at": "2026-05-15", "extracted_by": "claude-agent", "confidence": "high"},
+  "identification": {
+    "cible_raison_sociale": "ASSOCIATION MEDICO-DENTAIRE COLMAR 68",
+    "cible_siren": "905238648",
+    "naf_secteur": "Santé - Pratique dentaire",
+    "sous_secteur": "Centre de santé dentaire Colmar (réseau DENTEKA - groupe Denteka/Medipole/Point Dentaire/Viva Santé)",
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-08-20",
+    "dldo": "2026-01-12",
+    "date_audience_cession": "2026-02-09",
+    "aj_nom": "Maître Sandra BELADJINE (SELARL BCM) et Maître Isabelle DIDIER (SELAS SPE O3 PARTNERS)",
+    "aj_etude": "SELARL BCM / SELAS SPE O3 PARTNERS",
+    "mj_nom": "Maître Julie PERROT (SELARL ACTIS) et Maître Pablo CASTANON (SELARL ASTEREN)",
+    "mj_etude": "SELARL ACTIS Mandataires Judiciaires / SELARL ASTEREN",
+    "juge_commissaire": "Jean Luc BOUR",
+    "causes_defaillance": "Cessation des paiements 07/07/2025. Association membre du réseau DENTEKA - offres indivisibles avec ASSOCIATION MEDICO-DENTAIRE D'ENGHIEN-LES-BAINS (également en RJ 20/08/2025). Bail GALIMMO/DENTIGEST. Matériel sous crédit-bail BAIL ACTEA/MUTUALEASE avec action en revendication. Inventaire 15/10/2025 par Me MERCIER : 44 lots = 5.430€ (matériel propre limité). Effectif 14 : 5 ass.dent + 5 omnipraticiens + 1 implantologue + 1 orthodontiste + 2 secrétaires. Agrément ARS 68 non transférable judiciairement.",
+    "nb_offres_recues": 1,
+    "effectif_total": 14,
+    "actif_principal": "Centre dentaire Colmar - patientèle + 44 lots matériel/mobilier (5.430€ inventaire commissaire de justice) + 14 salariés - hors agrément ARS et hors matériel revendiqué Mutualease",
+    "fourchette_offres_eur": "Placeholder [3]€ → 1.300€ → 2.600€ (3 versions MEDIVI successives - seul candidat)"
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Offre définitive améliorée 11/02/2026 suite aux observations du Tribunal lors de l'audience 09/02/2026. Selon analyses-gagnants-tribunal Denteka : MEDIVI seul candidat retenu. Engagement à obtenir agrément ARS 68 au plus tard 1er mars 2026.",
+    "nb_offres_concurrentes": 1,
+    "concurrents_resume": [
+      {"nom": "MEDIVI (David et Sylvain HADDOUK)", "positionnement_2lignes": "SAS 908193311 capital 17,8M€ - Réseau PLACE DENTAIRE/DENTEKA 30 centres, CA 39,3M€, 450 salariés - 3 versions successives [3]€/1.300€/2.600€ avec substitution Association Centre Dentaire Colmar (W751282634 créée 22/01/2026) + VIVA SANTE"}
+    ]
+  },
+  "notes_dossier": "Cas typique RJ santé dentaire : monocandidat MEDIVI domine - 3 versions d'offre. Trajectoire de prix [3]€ → 1.300€ → 2.600€ HT reflète négociation contradictoire avec AJ et Tribunal. 11/14 salariés repris (5 ass + 5 omnipraticiens + 1 secrétaire) - 3 non repris (1 implantologue, 1 orthodontiste, 1 secrétaire). Indivisibilité offre Colmar + offre Enghien à confirmer (réseau Denteka commun). Charges augmentatives notables : indemnité 50.000€ DENTIGEST + cession bail Nanterre 146.400€ en 7 mensualités = 196,4k€ charges aug vs 2,6k€ prix nominal. Vrai coût ~200k€. CS finalement levée (accord principe GALIMMO obtenu). Engagement non-cession 2 ans + entrée en jouissance sans agrément ARS (engagement à ne pas dispenser de soins tant qu'agrément non délivré). Pattern : repreneur sectoriel stratégique avec back-office mutualisé sur portefeuille 30 centres = monocandidat à prix faible mais avec engagement social fort = retenu par tribunal."
+}

@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "offre_id": "NEW-FAIRSPACE-01",
+    "dossier_id": "NEW-FAIRSPACE",
+    "dossier_folder": "40 - SAS FAIRSPACE",
+    "fichier_source_pdf": "offre_01_gd79954093.pdf (+ offre_02_gd79954073.pdf + offre_03_gd79954058.pdf doublons stricts)",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS FAIRSPACE",
+    "cible_siren": null,
+    "naf_secteur": "Amenagement de bureaux / mobilier reconditionne",
+    "sous_secteur": "ESUS — design + sourcing mobilier reconditionne/upcycle/eco-concu, economie circulaire, projets mid-market ~1000 m2",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 2,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-04-09",
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Maitre Catherine POLI",
+    "aj_etude": "SELARL AJRS",
+    "mj_nom": "Maitre Julia RUTH",
+    "mj_etude": "SELARL ASTEREN",
+    "juge_commissaire": null,
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 0,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Younes EL HAJJAMI (ISAE-SUPAERO, cofondateur Pramana cedee a PwC 2023, cofondateur Rutabago cedee au Groupe Les Commis en 2022 via RJ — Les Commis x Rutabago >10M EUR CA, M. El Hajjami toujours au board) + Cedric MESTON (Telecom Paris, ancien consultant McKinsey, cofondateur HappyVote, ex-DG Groupe Revive : 30 emplois / 200 m2 / 10 clubs d'affaires, redressement 2023 puis cession Monsieur Suarez Tuppeware France en preservant l'integralite de la chaine de distribution francaise)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["Reprise BLUEDIGO par plan de cession arrete par TC Paris du 08/11/2024 (marketplace francaise mobilier de bureau reconditionne)", "Pramana (cedee a PwC 2023)", "Rutabago (cedee Groupe Les Commis 2022 via RJ)", "Monsieur Suarez Tuppeware France"],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "oui",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS (avec faculte de substitution societe a constituer)",
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": null,
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 10000,
+    "decomposition": {
+      "incorporels_eur": 9000,
+      "corporels_eur": 1000,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Prix de cession payable comptant par cheque de banque ou virement a signature des actes. Virement de garantie verse a l'AJ au plus tard le jour de l'audience. M. Younes El HAJJAMI Garant (article L.626-10).",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Reprise des contrats en cours (article L.642-7 — licences, logiciels, autorisations)"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 2,
+    "nb_total_salaries": 2,
+    "pct_reprise": 100.0,
+    "categories_reprises": "2 salaries (Le Repreneur dispose de locaux 5 passage Piver 75011 Paris pour accueillir les salaries repris)",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 0, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Repreneur a transforme BLUEDIGO depuis 11/2024 : passage achat-revente avec stock + faible consommation marketplace (marge brute 8-12%, dettes accumulees) -> marketplace flux tendu / sans stock / 45 marchands (marge brute 28%, triplement). Resultat d'exploitation redevenu positif au dernier trimestre 2025 (1.5M EUR de nouvelles commandes signees dont 1 m2 aux nouveaux clients).",
+    "vision_strategique_phrase": "Consolidation industrielle de BLUEDIGO + FAIRSPACE — agrement ESUS Bluedigo janvier 2026, designation lauréat Indice Impact 40/120 mars 2026.",
+    "pivots_prevus": "Reactivation pipeline commercial FAIRSPACE + formation des equipes + structuration des process post-reprise",
+    "synergies_repreneur": "BLUEDIGO NEXT : leve 2500 alumni actifs (HEC, ESCP, Sciences Po, FOCDE, Services du Premier Ministre, Prefecture IDF, Grand Paris Amenagement, Christian Dior Couture, Accor) ; subventions Paris Fonds ESS, LITA.co, Neo Founders ; pret Innovation BPIFrance 100K + subvention Innovation IDF equivalent ; 20000 produits + 300 marchands/fournisseurs.",
+    "synergies_chiffrees_eur": 100000,
+    "capex_montant_eur": 100000,
+    "capex_calendrier": null,
+    "capex_nature": "Enveloppe d'investissement de reprise 100000 EUR engagee immediatement sur fonds propres (gouvernance, reactivation pipeline commercial FAIRSPACE, formation des equipes, structuration des process post-reprise)",
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "non",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 100000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["BPIFrance (pret Innovation 100K BLUEDIGO)", "Innovation IDF (subvention equivalente)", "Paris Fonds ESS", "LITA.co", "Neo Founders"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 2,
+    "items": [
+      "Absence de survenance d'un evenement significatif defavorable (incendie, changement de destination...) entre le jour de l'offre et le jugement de cession",
+      "Absence d'information nouvelle en dataroom de nature a remettre en cause la perennite du projet (demissions importantes, depart d'un homme cle, decouverte d'un element ne permettant pas d'assurer une parfaite reprise de l'activite)"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "commercial",
+    "executive_summary_present": true,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": true,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": true,
+    "soutien_clients_cles": true,
+    "soutien_banques_historiques": true,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": true,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": ["OFFRE UNIQUE — 3 PDFs deposes au greffe identiques (offre_01, offre_02, offre_03) avec MD5 binaires differents mais images page par page strictement identiques (md5 PNG pages identiques). Meme envelope Docusign ID 3BEF6B84-1B0D-8270-839E-122C1F719760, meme titre GED, memes horodatages a la seconde pres (07/05/2026 10:27:05/06/07 CEST) — difference binaire = serialisation Ghostscript et non contenu. Doublons dedupliques.", "Aucune information financiere (CA, capital, RCS, bilans) du repreneur BLUEDIGO NEXT mentionnee dans l'offre — societe recemment constituee pour les besoins de la reprise.", "Offre plancher destinee a etre amelioree"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Reprise BLUEDIGO par un plan de cession arrete par le Tribunal de commerce de Paris du 8 novembre 2024 — marketplace francaise du mobilier de bureau reconditionne ; agrement ESUS depuis 2021. Designation laureat Indice Impact 40/120 mars 2026.",
+    "phrase_engagement_social": "Le Repreneur dispose de locaux 5 passage Piver 75011 Paris pour accueillir les 2 salaries repris",
+    "phrase_vision_strategique": "Triplement du taux de marge brute (8-12% -> 28%) post-reprise BLUEDIGO — transformation profonde, resultat d'exploitation redevenu positif au dernier trimestre 2025 (1.5M EUR de nouvelles commandes signees)",
+    "phrase_justification_prix": "Enveloppe d'investissement de reprise 100000 EUR engagee immediatement sur fonds propres + prix de cession 10000 EUR (9000 incorporels + 1000 corporels) = signal d'engagement par le capex post-reprise plutot que par le prix d'achat"
+  }
+}
