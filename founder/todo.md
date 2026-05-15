@@ -1,6 +1,6 @@
 ---
 type: todo
-updated: 2026-03-28
+updated: 2026-05-15
 ---
 
 # TODO
@@ -14,6 +14,8 @@ Fichier persistant. Les items s'accumulent ici. Le daily-plan les integre chaque
 ## P0 — Revenue
 - [ ] Relancer pipeline deals — sourcer 5-10 opportunites BODACC (2026-03-20)
 - [ ] Clarifier statut MLD — deadline depassee 17/03, deal mort ou prolonge? (2026-03-20)
+- [ ] DORéMI — sourcer 3-5 repreneurs (énergéticiens, foncières sociales, opérateurs MaPrimeRénov') et préparer outreach avant deadline 04/06/2026 (2026-05-15)
+- [ ] DORéMI — vérifier statut filiale Cléo rénov SIREN 951114693 (2026-05-15)
 
 ## P1 — Produit / SEO
 - [ ] GSC : soumettre 10 nouvelles pages du 18/03 a l'indexation (2026-03-20)
