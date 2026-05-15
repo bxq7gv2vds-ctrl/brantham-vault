@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "dossier_id": "19",
+    "dossier_folder": "19 - SCI LE LOFT",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI LE LOFT",
+    "cible_siren": null,
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "Detention actif immobilier - 1 loft (170 m2 bureaux/residentiel) + 1 studio - 15 rue Jules Ferry Bagnolet. Portefeuille consolide FHBX 'Affaire Balthazar' / Foncière Melot-Gouband 26+ entites",
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": "2026-03-02",
+    "date_audience_cession": null,
+    "aj_nom": "Me Helene BOURBOULOUX (avec Francois RAYBAUD et Paul CHARREY)",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Me Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "M. Jean-Francois PONCET",
+    "causes_defaillance": "Defaillance groupe immobilier Melot-Gouband - 26 entites SCI/SNC en RJ consolide FHBX. SC BALTHAZAR INVEST en RJ depuis 20/02/2025 ; 43 autres societes du groupe placees en RJ entre avril et decembre 2025.",
+    "nb_offres_recues": 8,
+    "effectif_total": 0,
+    "actif_principal": "1 loft 170 m2 (bureaux+residentiel) + 1 studio - 15 rue Jules Ferry Bagnolet (93)",
+    "loyer_actuel_eur": 33345,
+    "fourchette_offres_eur": "10.000 (HOUSEBASE) - 21.000.000 (LABRAX portefeuille global). Sur cet actif seul : 10k-460k"
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 8,
+    "concurrents_resume": [
+      {
+        "nom": "HOUSEBASE (Philippe ZERR)",
+        "positionnement_2lignes": "SAS Rennes - offre dediee SCI LE LOFT 10.000 EUR pour 1 loft + 1 studio Bagnolet. Lettre courte 1 page, CS visite + audits."
+      },
+      {
+        "nom": "LABRAX INVEST (Edouard LAMY + Nocera + Boucon)",
+        "positionnement_2lignes": "Offre initiale 21.025.000 EUR portefeuille 28 actifs (09/02). Offre finale 21.000.000 EUR + ajout appartement Paris 16e (02/03). Options divisibles : Amiral Maigret seul 1.025k ou Amiral+Corot 1.300k."
+      },
+      {
+        "nom": "MUVICO (Victor COHEN)",
+        "positionnement_2lignes": "Groupe foncier patrimonial - offre initiale 13.900.000 EUR 'a l'unite' (09/02 : SCI LE LOFT 260k) ; amelioree 14.000.000 EUR (02/03 : SCI LE LOFT 270k). Portefeuille 26 entites."
+      },
+      {
+        "nom": "GROUPE ARCANGE (Michael SFEDJ)",
+        "positionnement_2lignes": "SARL Paris 8e foncière patrimoniale 20 ans expert - offre initiale 8.245.000 EUR TTC, amelioree 8.713.000 EUR TTC. SCI LE LOFT 460.000 EUR (initial = amelioré). Sous condition visite."
+      },
+      {
+        "nom": "CORTONA FRANCE (Alexandre MOLIMARD - groupe CORTONA NL)",
+        "positionnement_2lignes": "EURL Paris 8e - prix nominal 27 EUR (1 EUR/bien x 27 biens), valorisation economique declaree 17.300.000 EUR, charges augmentatives L.642-12 al.4 estimees 12.500.000 EUR. Strategie transfert dettes hypothecaires."
+      }
+    ],
+    "note_concurrence": "Tres forte concurrence (8 offres). Dossier consolide FHBX 26 entites. Offres mixtes : portefeuilles globaux (LABRAX, MUVICO, ARCANGE, CORTONA) vs offres dediees (HOUSEBASE). Pour SCI LE LOFT specifiquement : HOUSEBASE 10k tres bas, MUVICO 260-270k, ARCANGE 460k. LABRAX et CORTONA ne donnent pas de ventilation par actif individuel."
+  },
+  "_related_offers": ["LE_LOFT-01", "LE_LOFT-02", "LE_LOFT-03", "LE_LOFT-04", "LE_LOFT-05", "LE_LOFT-06", "LE_LOFT-07", "LE_LOFT-08"]
+}

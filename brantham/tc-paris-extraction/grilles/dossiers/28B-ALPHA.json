@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "dossier_id": "28B-ALPHA",
+    "dossier_folder": "28 - SAS a associe unique ALPHA CAMPING",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "ALPHA CAMPING",
+    "cible_siren": "793853128",
+    "naf_secteur": "Hotellerie de plein air / Camping",
+    "sous_secteur": "Exploitation 21 campings DSP/location-gerance/baux — marques Camping Paradis, Bel Air Village, Ushuaia Villages (Groupe Neocamp)",
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "date_audience_cession": "2026-04-02",
+    "tribunal": "Tribunal des Activites Economiques de Paris",
+    "aj_nom": "Maitre Maxime LANGET ; Maitre Lou FLECHARD",
+    "aj_etude": "SELAS BL & ASSOCIES ; SCP CBF ASSOCIES",
+    "aj_adresse": "BL & Associes: 1 Boulevard Saint-Germain, 75005 Paris / 3 bis rue des Archives, 94000 Creteil ; CBF Associes: 41 rue de Liege, 75008 Paris",
+    "mj_nom": "Maitre Florian LACOUR ; Maitre Camille STEINER",
+    "mj_etude": "SELAFA MJA ; SELARL ATHENA",
+    "juge_commissaire": "Monsieur Franck MEYNAUD",
+    "effectif_total": 46,
+    "nb_offres_recues": 9,
+    "ca_dernier_exercice_eur": 14440357,
+    "resultat_exploitation_eur": -4172062,
+    "resultat_net_eur": -5140250,
+    "capital_social_eur": 168616,
+    "causes_defaillance": "ALPHA CAMPING : exploitation 21 campings sous DSP/location-gerance/baux. CA 30/09/24 14,4 M EUR ; resultat exploitation -4,17 M EUR ; resultat net -5,14 M EUR. Cessation paiements 20/10/2025. Capital divise en 168 116 actions (100 942 ordinaires + 67 674 preference) detenu 100% par SAS ILO (RCS 795 282 839 Paris) egalement en RJ.",
+    "actif_principal": "21 campings sous marques Camping Paradis, Bel Air Village, Ushuaia Villages : Brabois (54), Giessen (67), La Presqu'ile/Vassiviere (23), Lac de Cazaux (33), Les 2 Iles (87), Plan d'Eau (16), Pointe de Roscoff/Perharidy (29), Demeures du Lac + Chanterelles (63), Albret (40), Pre du Verdon (04), L'Escapade (24), Baie de Plomeur (56), Gorges du Haut Bugey (01), Baie de l'Aiguillon (85), Rives d'Olt et Aubrac (12), Sous le Moulin (39), etc.",
+    "groupe_appartenance": "Groupe NEOCAMP. Filiale 100% SAS ILO. Filiale propre : ALPHA CAMPING OCCITANIE (100%). Connexes : 5C DEVELOPPEMENT, USV, OPTIMUM, LORMED, L'ESCAPADE, SCI CHA, SCI La Grande Lisse, Holding des Fleurs, Holding du Bigouden, Holding des Cevennes."
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Demantelement accepte avec lots coherents par sous-activite : SEASONOVA retenu pour Alpha 15 sites (gestion directe) + MAEVA (Pierre & Vacances–Center Parcs via 5C Developpement) pour franchises Camping Paradis / Ushuaia / Mistercamp. Source : L'Officiel des terrains de camping (28/04/2026), 10minhotel.com (28/04/2026), Gestion-camping.com.",
+    "nb_offres_concurrentes": 9,
+    "concurrents_resume": [
+      {"nom": "Franck MASSOUTY (FM2C)", "positionnement_2lignes": "PP directeur actuel 2 sites Vassiviere. Offre symbolique 1 EUR — 9 salaries cumules (4 perm + saisonniers). Territoire."},
+      {"nom": "HUTTOPIA SA", "positionnement_2lignes": "5 sites cibles. 25 000 EUR. CA 15,7 M EUR. Groupe 127 campings 8 pays. Volonte rebranding Huttopia."},
+      {"nom": "HFB / Groupe Touriste (Adrien Gloaguen)", "positionnement_2lignes": "1 site Roscoff Perharidy. 3 000 EUR. Holding Paris boutique-hotels + Campings Liberte. CA 1 M EUR."},
+      {"nom": "Groupe SEASONOVA — RETENU", "positionnement_2lignes": "9 campings sous marque Seasonova. 2 EUR symboliques. CA 8,32 M EUR. Engagement pas de licenciement economique 12 mois post-jouissance. 15 sites retenus au niveau dossier."},
+      {"nom": "SLBC PERON / CAMPALDIA", "positionnement_2lignes": "14 campings reprise globale Neocamp. 3 EUR symboliques. CA 10,1 M EUR. 4* haut de gamme."},
+      {"nom": "FEMINA STYL + MARENGO", "positionnement_2lignes": "12 campings. 2 000 000 EUR (le plus eleve). 19 salaries. Familles HUBLE + WAJSBROT, partenariat 20 ans Le Royon."},
+      {"nom": "SARL AGEXCO (Pierre VAURS)", "positionnement_2lignes": "2 fonds Chanterelles+Demeures du Lac. 20 000 EUR. Expert-comptable Thiers 30 ans. 3 CDI repris."},
+      {"nom": "PLANETE MOBIL HOMES", "positionnement_2lignes": "3 campings (Brabois+Giessen+Pointe Roscoff). 11 025 EUR. SAS Guerande, CA 4,1 M EUR, 600 mobil-homes places 2024."},
+      {"nom": "SUITCASE HOSPITALITY", "positionnement_2lignes": "1 site Perharidy. 20 000 EUR. Groupe hotelier 12 hotels 1400 chambres + 1 camping Croix Valmer. CA 45 M EUR. Soutien Groupe LEGENDRE."}
+    ]
+  },
+  "notes_dossier": "Greffe P202504397. Cessation paiements 20/10/2025. Jugement publie BODACC 28/11/2025. Audience 02/04/2026. **Issue confirmee** : SEASONOVA retenu pour 15 sites (passe de 21 a 36 campings FR) + MAEVA pour franchises (Camping Paradis, Ushuaia Villages, Mistercamp via rachat 5C Developpement). Concurrents ecartes : FEMINA STYL+MARENGO, HOMAIR (ECG), CAMPALDIA. Pattern tribunal : **demantelement par lots coherents** quand offres consolidees par sous-activite — confirme dans analyses/gagnants-tribunal.md."
+}
