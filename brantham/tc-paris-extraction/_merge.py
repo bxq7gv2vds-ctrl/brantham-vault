@@ -10,6 +10,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path("/Users/paul/Downloads/Dossiers Entreprises")
+ROOT2 = Path("/Users/paul/Downloads/Dossiers Entreprises Nouveaux 2026-05-15")
 OUT = Path("/Users/paul/vault/brantham/tc-paris-extraction")
 RAW = OUT / "raw-csv"
 
@@ -36,11 +37,14 @@ DOSSIERS_COLS = [
 
 def find_csvs(name_prefix: str):
     """Find all CSVs starting with name_prefix (offres or dossiers)."""
-    for dossier_dir in sorted(ROOT.iterdir()):
-        if not dossier_dir.is_dir():
+    for root in [ROOT, ROOT2]:
+        if not root.exists():
             continue
-        for csv_file in dossier_dir.glob(f"{name_prefix}*.csv"):
-            yield dossier_dir.name, csv_file
+        for dossier_dir in sorted(root.iterdir()):
+            if not dossier_dir.is_dir():
+                continue
+            for csv_file in dossier_dir.glob(f"{name_prefix}*.csv"):
+                yield dossier_dir.name, csv_file
 
 
 def merge(name_prefix: str, master_cols: list, out_file: Path):
@@ -81,18 +85,22 @@ def copy_individual_csvs():
     """Copie chaque CSV individuel vers raw-csv/ pour archive avec préfixe de dossier."""
     RAW.mkdir(exist_ok=True)
     nb = 0
-    for dossier_dir in sorted(ROOT.iterdir()):
-        if not dossier_dir.is_dir():
+    for root in [ROOT, ROOT2]:
+        if not root.exists():
             continue
-        slug = dossier_dir.name.replace(" ", "_").replace("/", "_")
-        for csv_file in dossier_dir.glob("offres*.csv"):
-            dest = RAW / f"{slug}__{csv_file.name}"
-            dest.write_bytes(csv_file.read_bytes())
-            nb += 1
-        for csv_file in dossier_dir.glob("dossiers*.csv"):
-            dest = RAW / f"{slug}__{csv_file.name}"
-            dest.write_bytes(csv_file.read_bytes())
-            nb += 1
+        for dossier_dir in sorted(root.iterdir()):
+            if not dossier_dir.is_dir():
+                continue
+            prefix = "NEW__" if root == ROOT2 else ""
+            slug = (prefix + dossier_dir.name).replace(" ", "_").replace("/", "_")
+            for csv_file in dossier_dir.glob("offres*.csv"):
+                dest = RAW / f"{slug}__{csv_file.name}"
+                dest.write_bytes(csv_file.read_bytes())
+                nb += 1
+            for csv_file in dossier_dir.glob("dossiers*.csv"):
+                dest = RAW / f"{slug}__{csv_file.name}"
+                dest.write_bytes(csv_file.read_bytes())
+                nb += 1
     print(f"raw-csv/: {nb} fichiers archivés")
 
 
