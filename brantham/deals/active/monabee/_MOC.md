@@ -33,7 +33,15 @@ Dossier identifié via Actify n° 14566, cible désanonymisée via méthode OSIN
 - Effectif cessible : ~42
 
 ## Livrables
-- [[note-opportunite-repreneur]] : note présentation repreneur, prête à l'envoi
+- [[note-opportunite-repreneur]] : note présentation repreneur, v0 markdown long format (archive interne)
+- [[06-teaser-repreneur]] : teaser format Open Bee, version markdown courte
+- `MONABEE-teaser.html` + `MONABEE-teaser.pdf` : note d'introduction pré-NDA, 9 sections, 49 Ko, prête à l'envoi à un repreneur prospect après personnalisation
+
+## Sessions
+- [[brantham/sessions/2026-05-15-monabee-teaser-prenda]] : montage itératif du teaser pré-NDA (8 itérations)
+
+## Patterns dérivés
+- [[brantham/patterns/teaser-pre-nda-anonymisation]] : convention d'anonymisation pré-NDA Brantham, issue de ce deal
 
 ## Repreneurs naturels à sourcer
 - Effy

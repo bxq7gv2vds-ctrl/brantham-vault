@@ -85,6 +85,38 @@ Tous dans `~/.claude/skills/osint-deanon/scripts/`.
   Dardilly, RJ 09/04/2026, AJ Meynet, deadline offres 19/06/2026, CA 12M€
   décroissant. Voir [[brantham/deals/identified/2026-05-13-monabee]] (à créer).
 
+- **TILD** (mai 2026) — annonce dataroom.fhbx.eu n°16304 → SIREN 808094247,
+  Paris La Défense, agence digitale + éditeur CRM/ERP Éducation, CA 2,79M€
+  projet 2025, 27 salariés. AJ historique FHB Mission / Me Gaël Couturier
+  depuis RJ 2018. Plan 9 ans en cours (échéance 2028) → procédure 2026
+  vraisemblablement mandat ad hoc confidentiel ou cession dans plan
+  (aucune publication BODACC nouvelle). Identification résolue malgré
+  divergence sites (teaser : Paris+Pau+Montpellier ; LinkedIn : Paris+Aix).
+  Voir [[brantham/deals/identified/2026-05-13-tild-agence-digitale]].
+
+## Apprentissages méthode (cas TILD, 2026-05-15)
+
+1. **Sites au teaser = hubs télétravail, pas bureaux corporate.** Pour les
+   sociétés en remote-first, les villes listées sont les lieux de résidence
+   des salariés. Toujours cross-checker via LinkedIn des salariés
+   (`"domaine.tld" <ville>`) avant de conclure à une anonymisation.
+
+2. **Date de clôture d'exercice atypique = empreinte ultra-spécifique.**
+   Tout ce qui n'est pas 31/12 ou 31/03 (clôtures standards) filtre
+   instantanément 90 %+ des candidats. Combiner avec NAF + CA en projection
+   suffit à identifier presque unique.
+
+3. **AJ historique = signal de continuité procédurale.** Quand l'AJ du
+   listing actuel a déjà géré un RJ antérieur de la cible (plan en cours),
+   la procédure 2026 est probablement une suite (mandat ad hoc, conciliation,
+   cession partielle dans le plan) — pas une nouvelle ouverture indépendante.
+   Donc absence de publication BODACC récente n'invalide pas l'identification.
+
+4. **Anonymisation par substitution ≠ explication par défaut.** Avant de
+   conclure à de l'anonymisation sophistiquée du teaser, chercher d'abord
+   l'explication la plus simple (télétravail, fermetures récentes, données
+   web obsolètes sur le site corporate de la cible).
+
 ## Related
 
 - [[brantham/_MOC]]
