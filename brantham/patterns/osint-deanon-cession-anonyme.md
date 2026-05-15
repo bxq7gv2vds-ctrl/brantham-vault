@@ -4,7 +4,7 @@ slug: osint-deanon-cession-anonyme
 category: scraping
 tags: [osint, m_a, distressed, bodacc, sirene, pappers, actify]
 created: 2026-05-13
-updated: 2026-05-13
+updated: 2026-05-15
 ---
 
 # OSINT Deanon — désanonymiser une cession judiciaire
@@ -84,6 +84,16 @@ Tous dans `~/.claude/skills/osint-deanon/scripts/`.
 - **MONABEE** (mai 2026) — annonce actify n°14566 → SIREN 788614006,
   Dardilly, RJ 09/04/2026, AJ Meynet, deadline offres 19/06/2026, CA 12M€
   décroissant. Voir [[brantham/deals/identified/2026-05-13-monabee]] (à créer).
+
+- **TECH VALLEY** (mai 2026) — annonce dataroom.fhbx.eu n°13940 → SIREN
+  799107073, Toulouges 66350 (teaser arrondit "66100 Perpignan"), ESN
+  ingénierie informatique B2B aéro/télécom/finance, RJ ouverte 29/01/2025
+  au TC Perpignan, AJ SELARL FHBX Me Eric Samson, MJ SELARL MJSA Me Aguilé
+  Santodomingo, deadline offres 05/06/2026. Exercice clos 30/06 (date
+  atypique = empreinte forte). CA 30/06/2025 = 3,1 M€ / RN -1,9 M€.
+  Période d'observation >16 mois (signal repreneur faible). Établissement
+  Labège Toulouse ouvert 18/06/2025 pendant la RJ (= verticale aéro Airbus).
+  Voir [[brantham/deals/identified/2026-05-15-tech-valley]].
 
 - **TILD** (mai 2026) — annonce dataroom.fhbx.eu n°16304 → SIREN 808094247,
   Paris La Défense, agence digitale + éditeur CRM/ERP Éducation, CA 2,79M€
