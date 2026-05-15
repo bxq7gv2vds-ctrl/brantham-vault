@@ -19,6 +19,12 @@ Index transverse des deals actifs et clos. La source de vérité reste [[brantha
 | SAS Fitness Levallois | En analyse | — | — | [[brantham/deals/active/sas-fitness-levallois]] |
 | Alphosa | Sourcing buyers | — | — | [[brantham/deals/active/alphosa-buyers]] |
 
+## Deals identifiés via OSINT (non engagés)
+
+| Deal | Cible | Source | Deadline | Confiance | Fiche |
+|------|-------|--------|----------|-----------|-------|
+| FHBX-16304 | TILD SAS (SIREN 808 094 247) — agence digitale Éducation, La Défense, CA 2,79M€, 27 sal. | dataroom.fhbx.eu | 2026-05-27 | 97% | [[brantham/deals/identified/2026-05-13-tild-agence-digitale]] |
+
 ## Deals clos / expirés
 
 Voir [[brantham/deals/closed/INDEX]] — 9 deals expirés (deadlines dépassées, données incomplètes).
