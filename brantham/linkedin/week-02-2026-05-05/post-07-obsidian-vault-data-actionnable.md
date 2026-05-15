@@ -114,7 +114,7 @@ J'ai préparé un manuel d'environ 30 pages qui explique comment mettre en place
 
 Commentez "Obsidian" et je vous l'envoie.
 
-(Et si vous cherchez à reprendre une PME en difficulté, c'est aussi ce système qui nous permet de sourcer, qualifier et accompagner les dossiers : DM ouvert.)
+(Si vous souhaitez implémenter ce type de système ou vous faire accompagner, DM ouvert.)
 ```
 
 ## Notes de production
