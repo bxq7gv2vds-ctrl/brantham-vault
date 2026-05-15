@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "offre_id": "05-02",
+    "dossier_id": "05",
+    "dossier_folder": "05 - SARL à associé unique MY LITTLE FINGER",
+    "fichier_source_pdf": "offre_02_gd74292371.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SARL MY LITTLE FINGER",
+    "cible_siren": "512055286",
+    "naf_secteur": "Restauration / bar / club",
+    "sous_secteur": "Bar americain club licence IV",
+    "effectif_total": 3,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-01-07",
+    "dldo": "2026-01-06",
+    "date_audience_cession": "2026-01-06",
+    "aj_nom": "Maitre Marine PACE",
+    "aj_etude": "SELARL 2M & Associes",
+    "mj_nom": "Maitre Stephane Gorrias",
+    "mj_etude": "SCP BTSG"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "nb_offres_concurrentes": 8
+  },
+  "profil_repreneur": {
+    "forme": "pp_seule",
+    "age_parcours_dirigeant": "Stephane Regoli (ne 30/05/1984 Marseille) - ex-President societe nettoyage industriel ~100 salaries / ex-actionnaire restaurant et bar / professeur de Mathematiques EIB Paris / joueur d'echecs 2250 Elo",
+    "experience_sectorielle_oui_non": "partielle",
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "faible_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "type_vehicule": "newco",
+      "kbis_present_en_annexe": false
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 1,
+    "decomposition": {
+      "incorporels_eur": null,
+      "corporels_eur": null,
+      "stocks_eur": null
+    },
+    "modalites_paiement": "NR",
+    "garanties_paiement": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Droit au bail commercial sous reserve droits bailleur"]
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 3,
+    "pct_reprise": 0,
+    "categories_non_reprises_raisons": "Aucun salarie repris au stade initial - postes a discuter avec les employes",
+    "maintien_conditions_anciennete_salaire_lieu": "non"
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "vision_strategique_phrase": "Concept bar a echecs premium : midi restauration bureaux + soir/nuit club d'echecs avec bar a cocktails (fermeture 2h max contre 5h actuelle pour conformite bail)",
+    "pivots_prevus": "Reduction horaires nocturnes pour resoudre contentieux bail. Animations vendredi rencontres haut niveau, samedi tournois blitz",
+    "synergies_repreneur": "Reseau echecs (Maxime Vachier-Lagrave champion du monde blitz)",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 913800,
+    "ebitda_an3_eur": 221900,
+    "hypotheses_qualification": "agressives",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "non"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 50000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "partenaires_financiers": ["MIKCHA SARL - Charles-David Ohayon (LOI 50 000 EUR 05/01/2026)", "Maxime Vachier-Lagrave (champion du monde de blitz)"]
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "narratif",
+    "executive_summary_present": false,
+    "annexes_business_plan": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_clients_cles": true,
+    "personnalisation_visite_site": false,
+    "coherence_prix_BP": "incoherent",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Prix 1 EUR vs BP CA 913k EUR - incoherence valorisation/projection", "0 emplois repris vs 3 existants"],
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Bar a echecs premium avec adossement Maxime Vachier-Lagrave - midi restauration bureaux + soir tournois blitz",
+    "phrase_justification_prix": "Prix justifie par : absence de garantie, reprise en l'etat, alea juridique bail"
+  }
+}

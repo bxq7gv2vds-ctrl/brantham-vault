@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "dossier_id": "59",
+    "dossier_folder": "59 - SCA LA REINETTE D ANJOU",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCEA LA REINETTE D'ANJOU",
+    "cible_siren": "786159152",
+    "naf_secteur": "Production agricole — pommes",
+    "sous_secteur": "Verger Anjou Pôle Val de Loire INNATIS — Branche Angevine",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 1,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-16",
+    "dldo": "2026-03-18",
+    "date_audience_cession": "2026-04-13",
+    "aj_nom": "Marine PACE / Paul-Henri AUDRAS",
+    "aj_etude": "SELARL 2M&Associés ; SELAS AJ UP",
+    "mj_nom": "Valérie LELOUP-THOMAS / Charlotte THIRION",
+    "mj_etude": "SELAFA MJA ; SELARL ATHENA",
+    "juge_commissaire": null,
+    "causes_defaillance": "Filiale INNATIS — sauvegarde 29/09/2025 puis RJ 16/03/2026. Variété phare HoneyCrunch (60% surfaces) — recoltes 2023-2025 mauvaises. Station 30M€ Verrières-en-Anjou sous-utilisée."
+  },
+  "issue_globale": "plan_cession_arrete",
+  "issue_resume": "Plan de cession arrêté 30/04/2026 au profit de la SARL CELHER (Boujuau, sous Vergers d'Anjou) — offre globale REINETTE + PLESSE 90k€, substitution par SCEA NOUVELLE LA PLESSE. Reprise du seul salarié non proposée pour REINETTE. Consortium CASTEL/LEROY/VCAPITAL rejeté (10k€).",
+  "notes": "Le seul poste (responsable vente directe) n'est pas repris par CELHER. Offre indivisible avec offre LA PLESSE et 9 autres entités INNATIS. Doublons fichiers offre3=offre4=offre5 (mêmes Docusign Envelope)."
+}

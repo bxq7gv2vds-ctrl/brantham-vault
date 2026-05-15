@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "dossier_id": "12-MAUDAPHNE",
+    "dossier_folder": "12 - SCI MAUDAPHNE",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI MAUDAPHNE",
+    "cible_siren": null,
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "SCI - detention actif immobilier (description PDF MUVICO non extraite >5MB) - portefeuille consolide FHBX 26 entites Fonciere Melot-Gouband",
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": "2026-03-02",
+    "date_audience_cession": null,
+    "aj_nom": "Maitre Helene BOURBOULOUX (avec Francois RAYBAUD et Paul CHARREY)",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "Monsieur Jean-Francois PONCET",
+    "causes_defaillance": "Defaillance groupe immobilier Melot-Gouband ('Affaire Balthazar') - 26 entites SCI/SNC en RJ consolide FHBX",
+    "nb_offres_recues": 11,
+    "effectif_total": 0,
+    "actif_principal": "Bien immobilier MAUDAPHNE (description non extraite, PDF MUVICO >5MB)",
+    "fourchette_offres_eur": "250 000 (MUVICO initiale et amelioree, stable) - 21 000 000 (LABRAX portefeuille global)"
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 11,
+    "concurrents_resume": [
+      {
+        "nom": "MUVICO (Victor COHEN)",
+        "positionnement_2lignes": "Groupe foncier patrimonial 75116 - offre globale 26 entites - portion MAUDAPHNE 250k initiale = 250k amelioree (stable)"
+      },
+      {
+        "nom": "VERDOSO SAS",
+        "positionnement_2lignes": "Plan cession global 26 entites (2 Docusigns CC859BA0 + EBE6E276)"
+      },
+      {
+        "nom": "LABRAX INVEST",
+        "positionnement_2lignes": "Offre finale ferme indivisible 21M EUR portefeuille global Melot-Gouband + appartement Paris 16e"
+      },
+      {
+        "nom": "Groupe JADO + ROIG (via Moncey Avocats)",
+        "positionnement_2lignes": "Alexandre-Igor (groupejado.com) + Stephane ROIG (PARTNER CONSULTANCY SERVICES FRANCE) - 23 pages multi-entites, prix individualises non extraits"
+      },
+      {
+        "nom": "Offre amelioree DDO 02/03/2026",
+        "positionnement_2lignes": "Identite candidat et prix non extraits"
+      },
+      {
+        "nom": "HOUSEBASE SAS",
+        "positionnement_2lignes": "Hors perimetre - PDF cible SNC ADONIA 501,600 EUR pour immeuble Cachan (mal classe)"
+      }
+    ]
+  },
+  "notes_dossier": "Dossier FHBX 'Affaire Balthazar' consolide 26 SCI/SNC Melot-Gouband. SCI MAUDAPHNE = 1 actif immo. Particularite : prix MUVICO STABLE entre initiale (250k 09/02) et amelioree (250k 02/03) - pas de revalorisation comme sur les autres SCI du portefeuille. 1 PDF HOUSEBASE mal classe (cible ADONIA), 1 UNKNOWN (MAUDAPHNE-01) et 1 amelioree non identifiee (MAUDAPHNE-03) a retraiter. 3 PDFs MUVICO redondants >5MB non extraits, 2 PDFs VERDOSO Docusigns differents. Voir CSV INSULA pour table complete des 26 entites."
+}

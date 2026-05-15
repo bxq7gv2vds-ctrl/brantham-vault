@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "offre_id": "03-INSULA-09",
+    "dossier_id": "03-INSULA",
+    "dossier_folder": "03 - SCI INSULA",
+    "fichier_source_pdf": "03_SCI_INSULA_offre9.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI INSULA + SNC AMIRAL MAIGRET + SCI RHEA (offre PP recentree fonds propres)",
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "12 emplacements de stationnement",
+    "type_procedure": "RJ",
+    "dldo": "2026-03-02",
+    "aj_nom": "Maitre Helene BOURBOULOUX",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "causes_defaillance": "Defaillance groupe Melot-Gouband ('Affaire Balthazar')"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_rejet_verbatim": "Offre modifiee 02/03/2026 recentree apres refus CIC de financer (delais courts RJ). M. MIORCEC a abandonne le concours bancaire et finance sur fonds propres : AMIRAL MAIGRET 561k + INSULA 101k + RHEA 11k = 673k total net vendeur. Ferme, definitive, sans CS.",
+    "nb_offres_concurrentes": 12
+  },
+  "profil_repreneur": {
+    "forme": "pp_seule",
+    "age_parcours_dirigeant": "Jean-Christophe MIORCEC, 27 avenue du Tertre Notre Dame, logement A 29, 22000 Saint-Brieuc, +33 7 66 80 88 59, jmiorcec@gmail.com (signature : SASU Holding FINANCIERE CM PRO + SCI CMDK IMMO, 4 impasse Frederic Mistral, 29600 Saint-Martin-des-Champs)",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [
+      "SASU Holding FINANCIERE CM PRO",
+      "SCI CMDK IMMO"
+    ],
+    "capacite_financiere_demontree": "forte_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "Personne physique (acquisition en nom propre)",
+      "type_vehicule": "NR",
+      "kbis_present_en_annexe": false
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 101000,
+    "decomposition": {
+      "immeubles_eur": 101000
+    },
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds disponibles immediatement"
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "plan_licenciement": {}
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "vision_strategique_phrase": "Recentrer mon positionnement sur un perimetre que je suis en mesure de financer integralement sur mes fonds propres",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "prudentes",
+    "maintien_site": "oui_total"
+  },
+  "financement": {
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "partenaires_financiers": ["Fonds propres (refus CIC pour delais RJ courts)"]
+  },
+  "engagements_specifiques": {},
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 2,
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "narratif",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": false
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Dans un souci de parfaite securisation de l'operation, je souhaite donc recentrer mon positionnement sur un perimetre que je suis en mesure de financer integralement sur mes fonds propres",
+    "phrase_justification_prix": "Cette offre est ferme, definitive et sans condition suspensive, les fonds etant disponibles immediatement"
+  }
+}

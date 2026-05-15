@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "dossier_id": "09",
+    "dossier_folder": "09 - SNC AMIRAL MAIGRET",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SNC AMIRAL MAIGRET",
+    "cible_siren": null,
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "Detention actif immobilier - portefeuille consolide FHBX 26 entites Foncière Melot-Gouband ('Affaire Balthazar')",
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": "2026-03-02",
+    "date_audience_cession": null,
+    "aj_nom": "Maitre Helene BOURBOULOUX (avec Francois RAYBAUD et Paul CHARREY)",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "Monsieur Jean-Francois PONCET",
+    "causes_defaillance": "Defaillance groupe immobilier Melot-Gouband - 26 SCI/SNC en RJ consolide",
+    "nb_offres_recues": 16,
+    "effectif_total": 0,
+    "actif_principal": "Bien immobilier (description PDF MUVICO non extraite >5MB)",
+    "fourchette_offres_eur": "200 000 (MUVICO initiale) - 21 000 000 (LABRAX portefeuille global) ; sur cet actif : 200k-620k"
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 16,
+    "concurrents_resume": [
+      {
+        "nom": "MUVICO (Victor COHEN)",
+        "positionnement_2lignes": "Groupe foncier patrimonial - offre globale 26 entites - portion AMIRAL MAIGRET 200k initiale / 230k amelioree"
+      },
+      {
+        "nom": "LABRAX INVEST",
+        "positionnement_2lignes": "Offre finale 21M EUR portefeuille global + appartement Paris 16e"
+      },
+      {
+        "nom": "VERDOSO SAS",
+        "positionnement_2lignes": "Plan cession global 26 entites (2 docusigns CC859BA0 + EBE6E276)"
+      },
+      {
+        "nom": "AEB INVEST",
+        "positionnement_2lignes": "SAS 75016 - prix net vendeur 620k sur cet actif specifique"
+      },
+      {
+        "nom": "Groupe JADO + ROIG",
+        "positionnement_2lignes": "Via Moncey Avocats - 23 pages multi-entites"
+      },
+      {
+        "nom": "Jean-Christophe MIORCEC",
+        "positionnement_2lignes": "PP Saint-Brieuc - offre recentree AMIRAL(561k)+INSULA(101k)+RHEA(11k)=673k, aucune CS"
+      },
+      {
+        "nom": "HOUSEBASE",
+        "positionnement_2lignes": "SAS Philippe ZERR Rennes - 1 PDF mal classe (cible ADONIA)"
+      },
+      {
+        "nom": "Groupe LALEYE",
+        "positionnement_2lignes": "Marchand de biens 30 ans, ~3M EUR patrimoine, partenaires BCP/Caixa"
+      }
+    ]
+  },
+  "notes_dossier": "Dossier consolide FHBX 'Affaire Balthazar' - 26 SCI/SNC du groupe Melot-Gouband. SNC AMIRAL MAIGRET = 1 actif immo dans le portefeuille. PDFs MUVICO >5MB non extraits (table reference utilisee). 3 doublons MUVICO + 2 docusign VERDOSO + 2 Groupe JADO = redondance significative. Voir CSV INSULA pour table complete des 26 entites et leurs prix individualises."
+}

@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "offre_id": "31-OCCITANIE-01",
+    "dossier_id": "31-OCCITANIE",
+    "dossier_folder": "31 - SAS ALPHA CAMPING OCCITANIE",
+    "fichier_source_pdf": "offre_01_gd71722774.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS ALPHA CAMPING OCCITANIE",
+    "cible_siren": "912368370",
+    "naf_secteur": "NAF 55.30Z — Hotellerie de plein air / campings",
+    "sous_secteur": "Camping BARBEROUSSE uniquement (Gruissan, 3*, franchise Camping Paradis)",
+    "ca_dernier_exercice_eur": 2197445, "ebitda_eur": -101873, "effectif_total": 7, "nb_sites": 3,
+    "type_procedure": "RJ", "date_ouverture": "2025-11-12", "dldo": "2025-12-17", "date_audience_cession": null,
+    "aj_nom": "Maxime LANGET / Lou FLECHARD", "aj_etude": "SELAS BL & ASSOCIES / SCP CBF ASSOCIES",
+    "mj_nom": "Florian LACOUR / Camille STEINER", "mj_etude": "SELAFA MJA / SELARL ATHENA",
+    "juge_commissaire": "Franck MEYNAUD",
+    "causes_defaillance": "Croissance non maitrisee, allocation inadaptee des ressources, sous-performance saison 2024, frais siege disproportionnes"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non", "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": "Demantelement accepte par tribunal en lots coherents : Seasonova retient gestion directe Alpha (15 sites), Maeva les franchises. Offre HUTTOPIA portant sur 1 seul camping + indivisibilite avec offre Alpha non retenue.",
+    "nb_offres_concurrentes": 5,
+    "concurrents_resume": [
+      {"nom": "GROUPE SEASONOVA", "positionnement_2lignes": "Repreneur retenu — gestion directe Alpha Camping 15 sites"},
+      {"nom": "MAEVA / Pierre & Vacances", "positionnement_2lignes": "Repreneur franchises (Camping Paradis, Ushuaia)"},
+      {"nom": "CAMPALDIA (Loic Peron-Magnan)", "positionnement_2lignes": "4* haut de gamme groupe familial"},
+      {"nom": "FEMINA STYL + MARENGO", "positionnement_2lignes": "Groupe Le Royon, deja franchise Camping Paradis"},
+      {"nom": "HPA MEDITERRANEO", "positionnement_2lignes": "Groupe familial Baumstark, Soleil d'Oc uniquement"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Stephane DUC (President directoire) / Philippe BOSSANNE (President Conseil de Surveillance). Groupe HUTTOPIA SA 127 campings 8 pays, 728 ETP + 1 080 saisonniers.",
+    "experience_sectorielle_oui_non": "oui", "experience_sectorielle_annees": 27,
+    "track_record_reprises": ["CABANON (2009, Dunkerque, 70 emplois)", "GITOTEL/HEKIPIA (2015)", "Chantecler Aix-en-Provence (2024)"],
+    "capacite_financiere_demontree": "forte_documentee", "cautionnement_personnel": "NR",
+    "vehicule_reprise": {"forme_juridique": "SA a directoire et conseil de surveillance", "date_creation": null, "capital_eur": 7846086, "rcs": "424562890", "kbis_present_en_annexe": true, "type_vehicule": "existante"}
+  },
+  "structure_prix": {
+    "prix_total_eur": 5000,
+    "decomposition": {"incorporels_eur": 3000, "corporels_eur": 2000, "stocks_eur": null, "creances_clients_eur": null, "immeubles_eur": null, "titres_eur": null},
+    "charges_augmentatives_eur": null, "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Virement bancaire AJ 2 jours avant audience", "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["DSP Office Tourisme Gruissan (CAMPEOL 17/04/2015, 12 ans, avenant 15/07/2021)"],
+    "credit_bail_repris": [], "contrats_clients_critiques_repris": [], "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false, "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null, "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 1, "nb_total_salaries": 2, "pct_reprise": 50.0,
+    "categories_reprises": "Camping BARBEROUSSE seul (2 CDI : Directrice + Employe entretien) — repreneur envisage 'a minima 1 salarie'",
+    "categories_non_reprises_raisons": "Effectif Etablissement Repris 2 CDI ; reprise minimale 1 ; ILE DU PORT / SOLEIL D'OC exclus",
+    "maintien_conditions_anciennete_salaire_lieu": "partiel",
+    "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null, "sanction_non_respect_emplois": null, "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Groupe HUTTOPIA experte HPA 4* nature, 5 marques (Huttopia Campings/Villages, City Kamp, OnlyCamp, Bivouacs), 27 ans experience.",
+    "vision_strategique_phrase": "Reprise BARBEROUSSE uniquement, indivisible avec offre Alpha Camping",
+    "pivots_prevus": null, "synergies_repreneur": "Integration reseau Huttopia 127 campings", "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null, "capex_calendrier": null, "capex_nature": null,
+    "plan_affaires_3ans_present": false, "ca_an1_eur": null, "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null,
+    "hypotheses_qualification": "NR", "maintien_site": "oui_total", "maintien_marques_savoir_faire": "non"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null, "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false, "dette_bancaire_lettre_confort": false, "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false, "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null, "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Algonquin SAS 37,59% actionnaire", "Credit Agricole 12,78%"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null, "caution_dirigeant_montant_eur": null, "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null, "maintien_territoire_site_duree": null, "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false, "nb_conditions": 5,
+    "items": [
+      "Audit technique/juridique/social/financier ne revelant pas de situation anormale",
+      "Rencontre representants personnel concluante",
+      "Pre-accord entite publique pour reequilibrage economique de la DSP ou renouvellement",
+      "Accord definitif Comite strategique HUTTOPIA",
+      "Indivisibilite avec offre sur ALPHA CAMPING sauf renonciation expresse"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null, "nb_pages_corps_offre": null, "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille", "ton_dominant": "technique", "executive_summary_present": true,
+    "annexes_kbis": true, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false, "annexes_organigramme_cible": false, "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false, "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": false, "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false, "soutien_clients_cles": false, "soutien_banques_historiques": true,
+    "personnalisation_visite_site": false, "personnalisation_rencontre_equipes": false, "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR", "differenciation_concurrents_explicite": false, "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": false, "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": "DELSOL Avocats", "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe Huttopia — 127 campings, 8 pays, 5 marques",
+    "phrase_engagement_social": "Repreneur envisage a minima 1 salarie",
+    "phrase_vision_strategique": null,
+    "phrase_justification_prix": "5 000 EUR pour Camping BARBEROUSSE seul (3 000 incorporels + 2 000 corporels)"
+  }
+}

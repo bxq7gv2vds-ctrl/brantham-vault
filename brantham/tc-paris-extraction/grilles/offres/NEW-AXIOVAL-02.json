@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "offre_id": "NEW-AXIOVAL-02",
+    "dossier_id": "NEW-AXIOVAL",
+    "dossier_folder": "NEW_62 - SAS AXIOVAL",
+    "fichier_source_pdf": "offre_01_gd79315282.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "AXIOVAL",
+    "cible_siren": "807450549",
+    "naf_secteur": "Conseil pour les affaires",
+    "sous_secteur": "Conseil RH et organisation aux collectivités locales",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 6,
+    "nb_sites": 1,
+    "type_procedure": "prepack",
+    "date_ouverture": "2026-02-23",
+    "dldo": "2026-04-06",
+    "date_audience_cession": null,
+    "aj_nom": "Maître Laure SANCHEZ-SEPVAL",
+    "aj_etude": "SELAFA MJA",
+    "mj_nom": "Maître Laure SANCHEZ-SEPVAL",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": null,
+    "causes_defaillance": "Mêmes causes — facturation 2026 : 162670€, encaissements 105368€, plus aucun nouvel appel d'offres depuis 2-3 mois. Reste à encaisser ~60000€."
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "amelioree_puis_retenue",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 0,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_concurrent",
+    "age_parcours_dirigeant": "Isabelle BOCHER-KEBE (DG FCL). Groupe MD2S ACTIV / FINANCIERE OPEN / FINEX / @COM.EXPERTISE (Alain PECHMAGRE-CAMINADE).",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 37,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": null,
+      "capital_eur": 175000,
+      "rcs": "351926712",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 30000,
+    "decomposition": {
+      "incorporels_eur": 20000,
+      "corporels_eur": 10000,
+      "stocks_eur": 0,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Frais rédacteur pris en charge jusqu'à 1500€ HT (vs 0 en v1)",
+    "cheque_consignation_eur": 3000
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Marchés en cours sous accord cocontractants"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Demande radiation nantissement CIC 200000€",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 5,
+    "nb_total_salaries": 6,
+    "pct_reprise": 83.3,
+    "categories_reprises": "2 consultants juniors + 1 consultante senior + 1 manager + 1 senior manager (+1 emploi vs offre v1)",
+    "categories_non_reprises_raisons": "Dirigeant (a créé CAP2-PUBLIC, exclu L.642-3) + RAF (refus reprise)",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 1, "calendrier": null, "indemnites": "Charge cédant", "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": 24,
+    "sanction_non_respect_emplois": "Engagement non-licenciement économique 2 ans sauf autorisation tribunal",
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Améliorations en réponse aux observations MJ : +1 emploi (5/6 vs 4/6), périmètre corporels réduit (parc info uniquement), engagement non-licenciement 24 mois, télétravail maintenu (3j bureau Paris pour Parisiens, sinon télétravail). FCL prévoit CA 310k€ jusqu'à décembre 2026 sur cible AXIOVAL.",
+    "vision_strategique_phrase": "Améliorer offre suite observations MJ — sauvegarde +1 emploi, engagement non-licenciement économique 24 mois",
+    "pivots_prevus": "Maintien télétravail + 3j bureau Paris pour Parisiens — réorganisation siège FCL Paris 9e",
+    "synergies_repreneur": "Clients communs FCL/AXIOVAL, co-traitance déjà existante",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 310000,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "prudentes",
+    "maintien_site": "non",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 120000,
+    "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": 90000,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Trésorerie FCL 1096000€"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 1,
+    "items": [
+      "Cadre prepack cession (procédure collective ouverte)"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 8,
+    "nb_pages_corps_offre": 8,
+    "nb_pages_annexes": 0,
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {"cabinet": "SELARL Myriam GUARREL AVOCAT", "avocat_nom": "Maître Myriam GUARREL"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "FCL n'a pas souhaité prendre en compte les accords cadre non suivis d'effet à ce jour. En outre aucun accord cadre AFD n'a généré de chiffre d'affaires en 2026.",
+    "phrase_engagement_social": "Le repreneur s'engage à ne procéder à aucun licenciement pour motif économique des salariés dans les deux ans suivant la cession, sauf autorisation préalable du tribunal de commerce de PARIS saisi par requête.",
+    "phrase_vision_strategique": "Compte tenu de la spécificité de l'activité d'AXIOVAL, et des délais de transformation entre l'étude, le dépôt des appels d'offre, l'attribution, la conception-réalisation et la facturation, la société FCL prévoit un chiffre d'affaires de 310.000 euros jusqu'à décembre 2026.",
+    "phrase_justification_prix": "Prix maintenu à 30.000€ ; périmètre corporels réduit au parc informatique et bureautique uniquement (y compris en télétravail)"
+  }
+}

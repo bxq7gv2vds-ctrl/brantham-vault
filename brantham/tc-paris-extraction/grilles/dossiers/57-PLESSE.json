@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "dossier_id": "57",
+    "dossier_folder": "57 - SCA SOCIETE CIVILE AGRICOLE DE LA PLESSE",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCA DE LA PLESSE",
+    "cible_siren": "379609514",
+    "naf_secteur": "Production agricole — pommes",
+    "sous_secteur": "Verger Anjou Pôle Val de Loire INNATIS — Branche Angevine",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 1,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-16",
+    "dldo": "2026-03-18",
+    "date_audience_cession": "2026-04-13",
+    "aj_nom": "Marine PACE / Paul-Henri AUDRAS",
+    "aj_etude": "SELARL 2M&Associés ; SELAS AJ UP",
+    "mj_nom": "Valérie LELOUP-THOMAS / Charlotte THIRION",
+    "mj_etude": "SELAFA MJA ; SELARL ATHENA",
+    "juge_commissaire": null,
+    "causes_defaillance": "Filiale INNATIS — Pôle Val de Loire en sauvegarde 29/09/2025 puis RJ 16/03/2026. Baisse production HoneyCrunch 2023-2025, station Verrières sous-utilisée, échec restructuration dette 2024."
+  },
+  "issue_globale": "plan_cession_arrete",
+  "issue_resume": "Plan de cession arrêté 30/04/2026 au profit de la SARL CELHER (Boujuau, faculté de substitution offerte par LES VERGERS D'ANJOU) — substitution par SCEA NOUVELLE LA PLESSE. Reprise chef de culture (1/1). Consortium CASTEL/LEROY/VCAPITAL rejeté (50k€, indivisibilité 11 offres).",
+  "notes": "Offre CELHER consolidée avec REINETTE D'ANJOU (offre commune 90k€). Branche Angevine du Pôle Val de Loire. Coût social repris chef de culture estimé 11k€."
+}

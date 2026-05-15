@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "dossier_id": "03-INSULA",
+    "dossier_folder": "03 - SCI INSULA",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI INSULA",
+    "cible_siren": null,
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "SCI - 12 emplacements de stationnement - portefeuille consolide FHBX Fonciere Melot-Gouband (26 entites, 'Affaire Balthazar')",
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": "2026-03-02",
+    "date_audience_cession": null,
+    "aj_nom": "Maitre Helene BOURBOULOUX (avec Francois RAYBAUD et Paul CHARREY)",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "Monsieur Jean-Francois PONCET",
+    "causes_defaillance": "Defaillance groupe immobilier Melot-Gouband ('Affaire Balthazar') - 26 entites SCI/SNC en RJ consolide FHBX",
+    "nb_offres_recues": 12,
+    "effectif_total": 0,
+    "actif_principal": "12 emplacements de stationnement",
+    "fourchette_offres_eur": "10 000 (HOUSEBASE conservatoire) - 21 000 000 (LABRAX portefeuille global). Sur cet actif individualise : 10k-101k (HOUSEBASE 10k / MUVICO 40k initiale - 45k amelioree / MIORCEC 101k)"
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 12,
+    "concurrents_resume": [
+      {
+        "nom": "CORTONA FRANCE (Alexandre MOLIMARD)",
+        "positionnement_2lignes": "EURL 75008 filiale groupe CORTONA (Philip de Haseth-Moller, 1985, FR+NL) - offre globale 27 biens initiale 09/01 sous CS"
+      },
+      {
+        "nom": "MUVICO (Victor COHEN)",
+        "positionnement_2lignes": "Groupe foncier patrimonial 75116 - offre globale 26 entites - portion INSULA 40k initiale / 45k amelioree"
+      },
+      {
+        "nom": "VERDOSO SAS",
+        "positionnement_2lignes": "Plan cession global 26 entites (2 Docusigns CC859BA0 + EBE6E276)"
+      },
+      {
+        "nom": "LABRAX INVEST",
+        "positionnement_2lignes": "Offre finale ferme indivisible 21M EUR portefeuille global Melot-Gouband + appartement Paris 16e"
+      },
+      {
+        "nom": "Jean-Christophe MIORCEC",
+        "positionnement_2lignes": "PP Saint-Brieuc - offre recentree fonds propres AMIRAL(561k)+INSULA(101k)+RHEA(11k)=673k - aucune CS, fonds disponibles"
+      },
+      {
+        "nom": "AEB INVEST (Amine EL Bounaamani)",
+        "positionnement_2lignes": "SAS 75016 capital 2k RCS Paris 951815414 - proposition indicative 30k mais cible 12 parkings hors INSULA (Chevilly-Larue / Augustin Dumont / Arcueil) - rattachement incertain"
+      },
+      {
+        "nom": "HOUSEBASE SAS (Philippe ZERR)",
+        "positionnement_2lignes": "SAS 35000 Rennes capital 49,780 RCS 908068331 - offre dediee 10k INSULA 12 parkings (forfaitaire conservatoire), comptant fonds propres + comptes courants, faculte substitution, 3 CS"
+      }
+    ]
+  },
+  "notes_dossier": "Dossier FHBX 'Affaire Balthazar' consolide 26 SCI/SNC Melot-Gouband. SCI INSULA = 12 parkings. Concurrence inegale : MIORCEC 101k offre PP recentree fonds propres aucune CS = ratio prix x10 vs HOUSEBASE 10k forfaitaire conservatoire. AEB INVEST 30k cible 3 adresses Chevilly/92240/Arcueil sans match explicite INSULA = rattachement douteux. PDFs MUVICO/VERDOSO 7-10MB non extraits, INSULA-02 scanne illisible (OCR a faire), INSULA-01 = HOUSEBASE ADONIA mal classe. Cas d'ecole pour Phase 2 : offre PP fonds propres aucune CS sur parking = signal credibilite max."
+}

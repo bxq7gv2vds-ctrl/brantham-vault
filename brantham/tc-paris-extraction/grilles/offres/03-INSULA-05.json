@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "offre_id": "03-INSULA-05",
+    "dossier_id": "03-INSULA",
+    "dossier_folder": "03 - SCI INSULA",
+    "fichier_source_pdf": "03_SCI_INSULA_offre5.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "low"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI INSULA (offre amelioree globale portefeuille FHBX)",
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "12 emplacements de stationnement",
+    "type_procedure": "RJ",
+    "dldo": "2026-03-02",
+    "aj_nom": "Maitre Helene BOURBOULOUX",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "causes_defaillance": "Defaillance groupe Melot-Gouband ('Affaire Balthazar')"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_rejet_verbatim": "Offre MUVICO amelioree - portion INSULA passe de 40k a 45k EUR (+12,5%). Plusieurs SCI revalorisees a la hausse dans cette amelioree.",
+    "nb_offres_concurrentes": 12
+  },
+  "profil_repreneur": {
+    "forme": "family_office",
+    "age_parcours_dirigeant": "Victor COHEN",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [
+      "Groupe foncier patrimonial diversifie"
+    ],
+    "capacite_financiere_demontree": "forte_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "MUVICO",
+      "type_vehicule": "existante",
+      "kbis_present_en_annexe": false
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 45000,
+    "decomposition": {
+      "immeubles_eur": 45000
+    },
+    "modalites_paiement": "NR"
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "plan_licenciement": {}
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "vision_strategique_phrase": "Offre globale Fonciere Melot Gouband multi-SCI - revalorisation amelioree",
+    "plan_affaires_3ans_present": false,
+    "maintien_site": "oui_total"
+  },
+  "financement": {
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "erreurs_apparentes": []
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {}
+}

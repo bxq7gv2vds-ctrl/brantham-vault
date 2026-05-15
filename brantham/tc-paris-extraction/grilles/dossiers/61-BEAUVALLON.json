@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "dossier_id": "61",
+    "dossier_folder": "61 - SCA SOCIETE D EXPLOITATION DU DOMAINE DE BEAUVALLO",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCEA DU DOMAINE DE BEAUVALLON",
+    "cible_siren": "786213702",
+    "forme_juridique": "Société civile d'exploitation agricole",
+    "capital_social_eur": 782040,
+    "rcs": "786213702",
+    "adresse_siege": "LD Beauvallon, 49140 Seiches-Sur-Le-Loir",
+    "nom_commercial": "SCEA DU DOMAINE DE BEAUVALLON",
+    "naf_secteur": "Production agricole fruits à pépin (pommes et kiwis)",
+    "sous_secteur": "Filière fruits / arboriculture — Pôle Val de Loire groupe INNATIS — Branche Angevine",
+    "ca_dernier_exercice_eur": null,
+    "effectif_total": 2,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-16",
+    "dldo": "2026-03-18",
+    "date_audience_cession": "2026-04-13",
+    "aj_nom": "Me Marine PACE / Me Paul-Henri AUDRAS",
+    "aj_etude": "SELARL 2M&Associés / SELAS AJ UP",
+    "mj_nom": "Me Valérie LELOUP-THOMAS / Me Charlotte THIRION",
+    "mj_etude": "SELAFA MJA / SELARL ATHENA",
+    "juge_commissaire": null,
+    "tribunal": "Tribunal des Activités Économiques de Paris",
+    "appartenance_groupe": "Filiale groupe INNATIS (RCS 338575962 Paris) — Pôle Val de Loire / Branche Angevine — Coopérative AVL",
+    "actifs_immobiliers": "Parcelles + maison habitation chef de culture + locaux pro + hangar + terrains — 117 ha (CELHER) / 300 ha vergers globaux Val de Loire",
+    "causes_defaillance": "Chute production HoneyCrunch 2023-2025 (40% commercialisable vs 70% nécessaires) + investissement station Verrières-en-Anjou 30M€ surcalibrée. Initial sauvegarde groupe INNATIS 29/09/2025 puis conversion RJ 16/03/2026."
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "plan_cession_arrete",
+    "date_jugement_issue": "2026-04-30",
+    "repreneur_retenu": "Les Vergers d'Anjou (coopérative — SARL CELHER groupe BOUJUAU, apporteurs coopérative Vergers d'Anjou)",
+    "prix_retenu_eur": 125000,
+    "prix_pole_global_eur": 7000000,
+    "emplois_repris_retenu": 31,
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_synthese": "Les Vergers d'Anjou (CELHER+groupe BOUJUAU) retenus pour reprise globale Pôle Val de Loire INNATIS (11 entités + vergers + station Pomanjou Verrières-en-Anjou 14 300 m²) pour 7 M€ — capacité de stockage Vergers d'Anjou passe de 36 000 t à 49 000 t. Sur BEAUVALLON : 125k€ vs INNATIS (Castel/Leroy/VCapital) 50k€ — CELHER l'emporte aussi par prix + reprise 31 salariés vs 2.",
+    "nb_offres_concurrentes": 4,
+    "concurrents_resume": [
+      {"nom": "CASTEL INVEST + LEROY FRERES ET SŒUR + VCAPITAL (INNATIS Repreneurs)", "positionnement_2lignes": "Offre groupe-interne. 50k€ + indivisible 11 sociétés INNATIS. 2 emplois Beauvallon. Soutien FIDAL."},
+      {"nom": "SARL CELHER (Groupe BOUJUAU — Vergers d'Anjou)", "positionnement_2lignes": "GAGNANT. 125k€ Beauvallon + 31 emplois. SCEA NOUVELLE BEAUVALLON. Apporteurs coopérative. Soutien LEXCAP."}
+    ],
+    "enseignement_clef": "Tribunal privilégie repreneur sectoriel local cohérent (coopérative Vergers d'Anjou) vs repreneur consortium interne au groupe défaillant INNATIS. Pattern : projet coopératif local + prix x2.5 + emplois x15 = gagnant. Voir gagnants-tribunal.md §6."
+  },
+  "sources_externes": [
+    "https://www.reussir.fr/fruits-legumes/maine-et-loire-les-vergers-d-anjou-reprennent-le-pole-ligerien-d-innatis-numero-deux-de-la-pomme"
+  ]
+}

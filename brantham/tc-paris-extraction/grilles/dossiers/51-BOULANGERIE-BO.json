@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "dossier_id": "51",
+    "dossier_folder": "51 - SARL BOULANGERIE BO",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SARL BOULANGERIE BO",
+    "cible_siren": "800298697",
+    "forme_juridique": "SARL",
+    "capital_social_eur": null,
+    "rcs": "800298697",
+    "adresse_siege": "85 bis rue de Charenton, 75012 Paris",
+    "nom_commercial": "BOULANGERIE BO",
+    "naf_secteur": "Boulangerie / Pâtisserie",
+    "sous_secteur": "2 sites Paris 12e — 85 bis rue de Charenton + 2 rue Emilio Castelar",
+    "ca_dernier_exercice_eur": null,
+    "effectif_total": 8,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-02-05",
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Me Nicolas GRICOURT",
+    "aj_etude": "SELAS P2G",
+    "mj_nom": "Me Stéphane GORRIAS",
+    "mj_etude": "SCP BTSG",
+    "juge_commissaire": null,
+    "tribunal": "Tribunal des Activités Économiques de Paris",
+    "n_greffe": "P202600555",
+    "gerant": "Olivier HAUSTRAETE",
+    "causes_defaillance": "Crédit en cours auprès de la Société Générale (montant initial 465 000€). Inventaire commissaire-priseur 2026043 dressé 26/02/2026 par SELARL WEDRYCHOWSKI-MAGNIN. Baux : M. et Mme BAZIN (laboratoire) + SCI DELORT (boulangerie, loyer 25 389€ HT)."
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "date_jugement_issue": null,
+    "repreneur_retenu": null,
+    "prix_retenu_eur": null,
+    "emplois_repris_retenu": null,
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_synthese": null,
+    "nb_offres_concurrentes": 4,
+    "concurrents_resume": [
+      {"nom": "Gadi RWAYITARE (PP)", "positionnement_2lignes": "80k€/5 emplois — PP US, société à constituer, reprise emprunt SG, avocat Slim JEMLI."},
+      {"nom": "Najib OUNISSI (PP, Groupe Holding)", "positionnement_2lignes": "100k€/5 emplois — groupe familial OUNISSI HOLDING (4 boulangeries Paris)."},
+      {"nom": "Farouk CHALGHOUM (SARL Saint-Fargeau)", "positionnement_2lignes": "180k€/8 emplois — TOUS repris, prix le plus élevé, exploitant boulangerie Gambetta 75020."},
+      {"nom": "BAKERY 85 (Pierre TRANG/FOODINVEST/BOPAIN)", "positionnement_2lignes": "170k€/6 emplois — groupe 5 boulangeries bio Paris CA 6M€. Ne reprend PAS emprunt SG."}
+    ],
+    "enseignement_clef": "Dossier petit ticket boulangerie Paris 12e — 4 offres bien structurées. Pattern attendu : Chalghoum favori (prix + emplois + reprise SG + expérience boulanger 14 ans). Bakery 85 risqué (ne reprend pas SG). Ounissi solide groupe familial mais offre médiane."
+  },
+  "sources_externes": []
+}

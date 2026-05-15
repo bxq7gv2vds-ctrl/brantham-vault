@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "offre_id": "16-03",
+    "dossier_id": "16",
+    "dossier_folder": "16 - SAS à associé unique UMAKAYU",
+    "fichier_source_pdf": "offre_03_gd72756526.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS UMAKAYU",
+    "cible_siren": "897805008",
+    "naf_secteur": "Restauration / Cafe-patisserie",
+    "sous_secteur": "Cafe asiatique japonais/coreen",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 22,
+    "nb_sites": 3,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-09-11",
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Me Celine Pelzer",
+    "aj_etude": "SELARL P2G",
+    "mj_nom": "Me Stephane Gorrias",
+    "mj_etude": "SCP BTSG",
+    "juge_commissaire": "Pascal Cholme",
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 2,
+    "concurrents_resume": [
+      {"nom": "BUHI BUHI", "positionnement_2lignes": "SASU Jun Yoshikawa (frere du dirigeant — L.642-3 derogation requise), 4 restaurants Paris 2e, 5000 EUR sur ENSEMBLE des 2 fonds, 19 salaries."},
+      {"nom": "TCS HOLDING (NOKCHA)", "positionnement_2lignes": "Groupe THE ALLEY + OATS COFFEE, 75000 EUR sur SEUL local 57 Petits Champs, 1 salarie sur 6, sans CS."}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "pp_seule",
+    "age_parcours_dirigeant": "M. Jaky SUN et Mme Livi SUN (epoux ou apparentes — restauration). Lien probable avec SARL EURASIA — STEACK FACTORY (RCS Pontoise 818818700) — CA 816742 EUR 1er trim. 2024 / CA 3135121 EUR en 2022. Profession restauration.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["Lien commercial avec SARL EURASIA / STEACK FACTORY"],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "Personnes physiques avec faculte de substitution",
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": null,
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 50000,
+    "decomposition": {
+      "incorporels_eur": 30000,
+      "corporels_eur": 18000,
+      "stocks_eur": 2000,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 32837,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Virement integralite du prix pour l'audience. Garantie d'independance : pas de lien parental/allie au 2e degre avec dirigeants Umakayu.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail 8/10 rue de Ventadour 75001 Paris", "Bail 57 rue des Petits Champs 75001 Paris"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": 0,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": "Reconstitution depot de garantie bail : 32837 EUR. Total general engagement = 82837 EUR (50K prix + 32K DG)."
+  },
+  "volet_social": {
+    "nb_salaries_repris": 6,
+    "nb_total_salaries": 7,
+    "pct_reprise": 85.7,
+    "categories_reprises": "3 serveurs polyvalents, 1 cuisiniere, 1 commis de cuisine, 1 responsable",
+    "categories_non_reprises_raisons": "1 chef patissier non repris",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 0, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": 24,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Reprise du fonds Cafe Maru complet (les 2 adresses 8/10 Ventadour + 57 Petits Champs) avec maintien de quasi-totalite du personnel. Pas de reprise de Kintaro Cafe.",
+    "vision_strategique_phrase": null,
+    "pivots_prevus": null,
+    "synergies_repreneur": "Famille SUN dans la restauration (SARL EURASIA / Steack Factory)",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 82837,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Century 21 Horeca Paris (Jean-Paul Eusebio — Responsable Procedures Collectives, mandataire de representation)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": true,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Comptes presentes = ceux de SARL EURASIA (tierce a la PP qui offre) — pattern comptes proxy"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "M. et Mme SUN proposent 50000 EUR cash sans CS pour le Cafe Maru complet (2 adresses) avec reprise 6/7 salaries.",
+    "phrase_engagement_social": "Engagement de non licenciement economique pendant 2 ans a compter du jugement. Reprise 6 salaries sur 7 (1 chef patissier non repris).",
+    "phrase_vision_strategique": "Aucune cession d'actifs envisagee dans les 2 ans suivants",
+    "phrase_justification_prix": "50000 EUR + 32837 EUR depot de garantie bail = 82837 EUR engagement total"
+  }
+}

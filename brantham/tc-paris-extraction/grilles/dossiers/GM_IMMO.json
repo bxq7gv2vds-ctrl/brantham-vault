@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "dossier_id": "GM_IMMO",
+    "dossier_folder": "13 - SCI GM IMMO",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI GM IMMO",
+    "cible_siren": null,
+    "forme_juridique": "SCI",
+    "capital_social_eur": null,
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "Détention actif immobilier — portefeuille consolidé FHBX 26 entités 'Foncière Melot-Gouband / Affaire Balthazar'",
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": "2026-03-02",
+    "date_audience_cession": null,
+    "aj_nom": "Maître Hélène BOURBOULOUX (avec François RAYBAUD et Paul CHARREY)",
+    "aj_etude": "SELARL FHBX",
+    "adresse_aj": "176 avenue Charles-de-Gaulle, 92200 Neuilly-sur-Seine",
+    "mj_nom": "Maître Valérie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "Monsieur Jean-François PONCET",
+    "tribunal": "Tribunal des Activités Économiques de Paris",
+    "effectif_total": 0,
+    "causes_defaillance": "Défaillance groupe immobilier Melot-Gouband — 26 SCI/SNC en RJ consolidé",
+    "actif_principal": "Bien immobilier (description PDFs MUVICO non extraite >5MB)"
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "date_jugement_issue": null,
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 7,
+    "concurrents_resume": [
+      {"nom": "MUVICO (Victor COHEN)", "positionnement_2lignes": "Groupe foncier patrimonial — offre globale 26 entités — portion SCI GM IMMO 400 000€ initiale (09/02/2026)."},
+      {"nom": "VERDOSO SAS", "positionnement_2lignes": "Offre globale plan cession 26 entités (Docusign CC859BA0 et EBE6E276) — prix individualisés non extraits."},
+      {"nom": "HOUSEBASE (Philippe ZERR)", "positionnement_2lignes": "SAS Rennes — offre dédiée (détails à préciser). 1 PDF mal classé (cible SNC ADONIA)."},
+      {"nom": "Inconnu (offre 02)", "positionnement_2lignes": "Non extractible — type UNKNOWN."}
+    ],
+    "enseignement_clef": "Dossier mono-immo SCI dans consolidé FHBX 'Affaire Balthazar'. Pattern : offres globales multi-SCI avec prix individualisés (MUVICO 400k€) vs offres dédiées single-actif (HOUSEBASE). Tribunal apprécie offres consolidées sur grands portefeuilles immo distressed. Voir CSV INSULA pour table complète du portefeuille."
+  }
+}

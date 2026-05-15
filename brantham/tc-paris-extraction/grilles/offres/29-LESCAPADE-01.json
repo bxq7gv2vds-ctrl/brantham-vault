@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "offre_id": "29-LESCAPADE-01",
+    "dossier_id": "29",
+    "dossier_folder": "29 - SAS à associé unique L'ESCAPADE",
+    "fichier_source_pdf": "offre_01_gd71725369.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "L'ESCAPADE",
+    "cible_siren": "450819008",
+    "naf_secteur": "Hôtellerie de plein air — camping 4 étoiles",
+    "sous_secteur": "Camping 130 emplacements, 5 ha Dordogne",
+    "ca_dernier_exercice_eur": 235566,
+    "ebitda_eur": null,
+    "effectif_total": 0,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "date_audience_cession": null,
+    "aj_nom": "Me Maxime LANGET",
+    "aj_etude": "SELAS BL & Associés",
+    "mj_nom": "Me Florian LACOUR",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "M. Franck MEYNAUD",
+    "causes_defaillance": "Groupe NEOCAMP — croissance mal maîtrisée, saison 2024 sous-performante"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 4,
+    "concurrents_resume": [
+      {"nom": "GROUPE SEASONOVA", "positionnement_2lignes": "GAGNANT global Alpha — LOI sur Escapade. Repreneur retenu."},
+      {"nom": "CAMPALDIA (SLBC PERON)", "positionnement_2lignes": "3€ symbolique + 3-5M€ besoin financement, indivisible 15 campings."},
+      {"nom": "FEMINA STYL + MARENGO", "positionnement_2lignes": "800k€ Escapade + indivisible 15 campings, fonds propres."}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "pp_seule",
+    "age_parcours_dirigeant": "Pierre-Jean MAUVIN (64 ans, fondateur cabinet Concerto, CA 4M€+, ~1M€ bénéfice — associé campings L'Aigle et Luberon Camping (groupe Campasun), associé groupe Tikaian) + Jean-Olivier NOEL (56 ans, agent spécialisé vente campings)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["Camping L'Aigle (associé)", "Luberon Camping (associé Campasun)", "Groupe Tikaian (associé)"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS LESCAPADE (à constituer 50/50) + SCI BOUTONNE (à constituer 50/50)",
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": null,
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "newco"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 650000,
+    "decomposition": {
+      "incorporels_eur": 100000,
+      "corporels_eur": 50000,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": 500000,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds propres : Mauvin 450k€ via SAS LA FACTORY + Noel 248k€ via QONTO/Hello Bank/EIRL JONOEL/SARL JON INVEST. Total mobilisé 698k€.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Fichier clients et contrats en cours"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Disposés à reprendre prêts bancaires en déduction de l'offre d'achat",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 13,
+    "nb_total_salaries": 14,
+    "pct_reprise": 92.9,
+    "categories_reprises": "Maintien CDD M. Guy Denoyelle (15 ans expérience site). 12 CDD saisonniers renouvelés + 1 CDI supplémentaire prévu 2029.",
+    "categories_non_reprises_raisons": "Non-reprise CDI Corinne Bricout (doublon avec direction confiée à Florent NOEL)",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 1, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Connaissance directe du camping (vendu par Mauvin il y a 10 ans). Reprise envisagée février-mars 2026. Assainissement autonome refait à neuf en 2017. Équipe projet : Florent NOEL (resp. technique 5 ans groupe Capfun, 500 places) + Pablo MAUVIN (Capfun/Campasun, gestionnaire restaurant).",
+    "vision_strategique_phrase": "Reprise par équipe HPA expérimentée connaissant le site historiquement",
+    "pivots_prevus": "Rénovation 50 mobil-homes sur 10 ans (5/an, 10k€/locatif, budget total 500k€ via emprunt 2029)",
+    "synergies_repreneur": "Mutualisation avec autres campings groupes Campasun/Tikaian, expertise Concerto",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": 500000,
+    "capex_calendrier": "10 ans (5 mobil-homes/an, financement emprunt en 2029)",
+    "capex_nature": "Rénovation locatifs",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 325000,
+    "ca_an2_eur": null,
+    "ca_an3_eur": 400000,
+    "ebitda_an3_eur": 65300,
+    "hypotheses_qualification": "prudentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 698000,
+    "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["SAS LA FACTORY", "QONTO/Hello Bank", "EIRL JONOEL", "SARL JON INVEST"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 4,
+    "items": [
+      "Levée des hypothèques sur le foncier",
+      "Fonds de commerce ne doit pas être nanti",
+      "Cessation du contrat de location-gérance entre ALPHA CAMPING et le camping L'Escapade",
+      "Tous éléments repris libres de sûretés, privilèges, gages, nantissements, réserves de propriété, droits de revendication"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": true,
+    "annexes_attest_bancaire": true,
+    "annexes_business_plan": true,
+    "annexes_comptes_sociaux_3ans": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": true,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Offre PP duo HPA expérimenté avec connaissance historique du site",
+    "phrase_engagement_social": "Maintien CDD M. Guy Denoyelle (15 ans expérience site)",
+    "phrase_vision_strategique": "Rénovation 50 mobil-homes sur 10 ans, plan investissement 500k€",
+    "phrase_justification_prix": "500 000€ propriété immobilière + 150 000€ fonds de commerce (100k incorporels + 50k corporels)"
+  }
+}

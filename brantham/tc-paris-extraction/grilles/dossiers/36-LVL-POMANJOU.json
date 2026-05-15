@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "dossier_id": "36-LVL",
+    "dossier_folder": "36 - SAS associé unique LVL POMANJOU",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "LVL POMANJOU",
+    "cible_siren": "407871656",
+    "naf_secteur": "Négoce de fruits et légumes, production agricole (pommes)",
+    "sous_secteur": "Filière fruits — variété phare HoneyCrunch",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 32,
+    "nb_sites": 2,
+    "type_procedure": "sauvegarde",
+    "date_ouverture": "2025-09-29",
+    "dldo": "2026-03-18",
+    "date_audience_cession": "2026-04-13",
+    "aj_nom": "Marine PACE / Paul-Henri AUDRAS",
+    "aj_etude": "SELARL 2M&Associés ; SELAS AJ UP",
+    "mj_nom": "Valérie LELOUP-THOMAS / Charlotte THIRION",
+    "mj_etude": "SELAFA MJA ; SELARL ATHENA",
+    "juge_commissaire": null,
+    "causes_defaillance": "Recul recolte HoneyCrunch (60% des surfaces, recoltes 2023-2024-2025 mauvaises, 40% commercialisable GMS vs 70% requis) ; investissement station Verrieres-en-Anjou 30M€ 2023 mal absorbe ; echec restructuration dette 6 mois ; appartenance Pôle Val de Loire INNATIS."
+  },
+  "issue_globale": "plan_cession_arrete",
+  "issue_resume": "Pôle Val de Loire INNATIS (11 entités) : plan de cession arrêté le 30/04/2026 au profit de la Coopérative LES VERGERS D'ANJOU (offre globale ~7,04M€, 28 emplois CDI repris + 200k€ mesures sociales). Consortium CASTEL/LEROY/VCAPITAL rejeté (400k€, indivisibilité 11 offres, ventilation + financement renvoyés à 'ultérieurement', conflit d'intérêts James LAUNAY ex-salarié). Titres DSA (ADVANTAGE/DUTOIT) cédés hors plan L.642-19.",
+  "notes": "Substitution effective : SCICA POMANJOU reprise directement par Vergers d'Anjou. LPC + LVL POMANJOU substitués vers SARL CELHER (Boujuau), qui re-substitue vers NEWCO LPC et NOUVELLE LVL POMANJOU."
+}

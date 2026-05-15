@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "offre_id": "27B-GD-LISSE-05-FEMINA-MARENGO",
+    "dossier_id": "27B-GD-LISSE",
+    "dossier_folder": "27 - SCI LA GRANDE LISSE",
+    "fichier_source_pdf": "44_SCI_LA_GRANDE_LISSE_offre5.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI LA GRANDE LISSE",
+    "cible_siren": "824145163",
+    "naf_secteur": "Hotellerie de plein air / camping",
+    "sous_secteur": "Fonciere — pole foncier groupe Neocamp",
+    "effectif_total": 0,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "date_audience_cession": "2026-03-11",
+    "aj_nom": "Me Lou Flechard / Me Maxime Langet",
+    "mj_nom": "Me Florian Lacour / Me Camille Steiner"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Niveau groupe : ecartes au profit de Seasonova (Alpha 15 sites) + Maeva (franchises). Source : analyses/gagnants-tribunal.md.",
+    "motifs_rejet_verbatim": "Offre indivisible avec Offre Titres ILO + Offres Pole Foncier — rejetee au niveau consolide niveau groupe (FEMINA STYL+MARENGO et HOMAIR/ECG explicitement cites comme concurrents ecartes).",
+    "nb_offres_concurrentes": 4
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Marc HUBLE (President FEMINA STYL — Famille HUBLE depuis 1980) + Alain WAJSBROT (President MARENGO). Partenaires historiques 20 ans via 'Groupe Le Royon'.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 20,
+    "track_record_reprises": ["16 campings HPA 4900 emplacements", "9 hotels urbains 740 chambres Ibis/Mercure/Best Western", "13 boutiques Mango/Lacoste/Gemo/Etam", "Cabinet SECOVI expertise-comptable 260 collab", "Foncieres patrimoniales immobilier commercial"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS conjoint (FEMINA STYL + MARENGO)",
+      "date_creation": null,
+      "capital_eur": 7199312,
+      "rcs": "FEMINA STYL: 350976551 RCS Amiens / MARENGO: 408567071 RCS Metz",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue",
+      "actionnariat": "FEMINA STYL detient 50% SNC WH (mere 100% WHCP, actionnaire minoritaire dormant ILO)"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 1400000,
+    "decomposition": {
+      "incorporels_eur": null,
+      "corporels_eur": 1400000,
+      "stocks_eur": null,
+      "immeubles_eur": 1400000,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "NR",
+    "garanties_paiement": "Fonds propres (groupes familiaux fonciers forte capacite financiere)",
+    "cheque_consignation_eur": null,
+    "note_prix": "Prix le plus eleve : 1 400 000 EUR. Offre indivisible avec Offre AC (ALPHA CAMPING) + Offre ACO (ALPHA CAMPING OCCITANIE) + a titre principal Offre Titres (ILO + LORMED + L'ESCAPADE + SCI CHA + GRANDE LISSE + minoritaires Holdings)."
+  },
+  "reprise_passif": {
+    "baux_repris": ["Contrats necessaires a l'exploitation"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Exclusions expresses detaillees art. 3.2 — non precisees dans extraits",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0, "nb_total_salaries": 0, "pct_reprise": null,
+    "categories_reprises": "SCI non employeuse",
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": 0, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Performance FEMINA STYL : CA 2024 4,4 M EUR — RE 577k — RN 6,2 M. MARENGO : CA 2024 5 M EUR — RE 681k — RN 704k — CAF 4,4 M. CA consolide 13,45 M. Partenariat 20 ans 'Groupe Le Royon' (campings Hauts-de-France, Bretagne, Vendee, Dordogne, PACA, Occitanie).",
+    "vision_strategique_phrase": null,
+    "pivots_prevus": null,
+    "synergies_repreneur": "Integration au reseau 16 campings 4900 emplacements existant + experience hôtellerie urbaine 9 hotels 740 chambres",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 4430455,
+    "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Audit financier/social/juridique/urbanisme/environnemental satisfaisant",
+      "Confirmation absence sûretes L.642-12 al.3",
+      "Etude conformite reglementaire et technique des biens immobiliers"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": false,
+    "annexes_kbis": false, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true, "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": true, "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Date validite '2025-01-28' probable coquille pour 2026-01-28"],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Familles HUBLE + WAJSBROT, partenaires historiques 20 ans 'Groupe Le Royon' — Hauts-de-France, Bretagne, Vendee, Dordogne, PACA, Occitanie",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": null,
+    "phrase_justification_prix": "Prix 1 400 000 EUR — l'enveloppe la plus elevee sur la SCI Grande Lisse"
+  }
+}

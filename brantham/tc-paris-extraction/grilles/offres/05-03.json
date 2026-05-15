@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "offre_id": "05-03",
+    "dossier_id": "05",
+    "dossier_folder": "05 - SARL à associé unique MY LITTLE FINGER",
+    "fichier_source_pdf": "offre_03_gd74292296.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SARL MY LITTLE FINGER",
+    "cible_siren": "512055286",
+    "naf_secteur": "Restauration / bar / club",
+    "sous_secteur": "Bar americain club licence IV",
+    "effectif_total": 3,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-01-07",
+    "dldo": "2026-01-06",
+    "date_audience_cession": "2026-01-06",
+    "aj_nom": "Maitre Marine PACE",
+    "aj_etude": "SELARL 2M & Associes",
+    "mj_nom": "Maitre Stephane Gorrias",
+    "mj_etude": "SCP BTSG"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "nb_offres_concurrentes": 8
+  },
+  "profil_repreneur": {
+    "forme": "pp_seule",
+    "age_parcours_dirigeant": "Antoine HENRIQUET (ne 01/04/1996 Ris Orangis) - Ecole Hoteliere Glion (oenologie) + 6 mois Le Meurice 3* + WE EVENT + HSOCIETY (musique) + RICORPORAT vin (stock 300k EUR) + ONLYWINES (avec ex-Bacardi)",
+    "experience_sectorielle_oui_non": "partielle",
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "SARL",
+      "date_creation": null,
+      "capital_eur": 1000,
+      "type_vehicule": "newco",
+      "kbis_present_en_annexe": false
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 313000,
+    "decomposition": {
+      "incorporels_eur": 265400,
+      "corporels_eur": 46900,
+      "stocks_eur": 700
+    },
+    "charges_augmentatives_eur": 21400.73,
+    "modalites_paiement": "NR",
+    "garanties_paiement": "Fonds propres + BFR 100 000 EUR en compte courant associes"
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail commercial SCI 16 av Friedland (malgre contentieux)"],
+    "contrats_fournisseurs_repris": ["Telephonie", "Electricite"]
+  },
+  "volet_social": {
+    "nb_salaries_repris": 3,
+    "nb_total_salaries": 3,
+    "pct_reprise": 100,
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total"
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "vision_strategique_phrase": "Cave a vin 8e arrondissement - degustation grands vins d'exception - ambiance feutree - bar a vin journee + soiree, dejeuners, plateaux degustation, happy hour",
+    "synergies_repreneur": "Cave personnelle Henriquet valorisee 314 000 EUR + 2 co-gerants experts vin (Flavien PROENCA ex-Directeur Achats S.D. Bros Consulting 5 ans + Romain BACCQUART 15 ans dans vin/spiritueux ex-Bacardi Martini Salon Revue du Vin de France)",
+    "plan_affaires_3ans_present": true,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "partiel"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": true,
+    "bfr_redemarrage_eur": 100000,
+    "partenaires_financiers": ["CIC (soutien projet - annexe 13 mail 05/02/2026)"]
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 2,
+    "items": [
+      "(1) Audit nantissements concluant - aucun nantissement transferable",
+      "(2) Aucune degradation substantielle activite"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": true,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": true,
+    "annexes_business_plan": true,
+    "annexes_cni_dirigeants": true,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": true,
+    "personnalisation_visite_site": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": "SELARL DORLEAC AZOULAY ASSOCIES (2 rue de Sontay 75116 Paris)",
+    "avocat_nom": "Maitre Albert SERFATY"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Cave a vin haut de gamme avec adossement de 2 experts vin/spiritueux et soutien CIC - amelioree de 80k a 313k EUR",
+    "phrase_engagement_social": "Reprise 3 salaries (vs 2 dans offre initiale)"
+  }
+}

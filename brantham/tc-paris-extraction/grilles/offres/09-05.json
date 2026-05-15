@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "offre_id": "09-05",
+    "dossier_id": "09",
+    "dossier_folder": "09 - SAS à associé unique EZIN & STRAUUS CP - Sigle E&S CP",
+    "fichier_source_pdf": "offre_05_gd72800925.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "EZIN & STRAUUS CP",
+    "cible_siren": "501233001",
+    "naf_secteur": "Expertise comptable / Commissariat aux comptes",
+    "effectif_total": 7,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-05-15",
+    "dldo": "2026-01-15",
+    "aj_nom": "Me Carole MARTINEZ",
+    "mj_nom": "Me Bernard CORRE"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "en_attente",
+    "motifs_rejet_verbatim": "Simple lettre d'intention 2 pages — pas de détail prix incorporels/corporels, ni périmètre actifs détaillé, ni effectifs repris précisément, ni financières repreneur.",
+    "nb_offres_concurrentes": 3
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_concurrent",
+    "age_parcours_dirigeant": "Hervé GENDROT, Président — expérience significative en expertise comptable",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "intention_seule",
+    "vehicule_reprise": {
+      "forme_juridique": "Société (forme non précisée)",
+      "rcs": "381453133",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 50000,
+    "decomposition": {"incorporels_eur": null, "corporels_eur": null},
+    "modalites_paiement": "NR",
+    "garanties_paiement": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "engagements_L642_12_al4": false
+  },
+  "volet_social": {
+    "nb_salaries_repris": null,
+    "nb_total_salaries": 7,
+    "pct_reprise": null,
+    "categories_reprises": "Conservation emplois 'dans la mesure du possible'",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "vision_strategique_phrase": "Intégration des collaborateurs aux bureaux Paris et/ou Serris",
+    "synergies_repreneur": "Cabinet GENDROT Palaiseau + Serris",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "non",
+    "maintien_marques_savoir_faire": "partiel"
+  },
+  "financement": {
+    "apport_origine_documentee": "NR",
+    "dette_bancaire_engagement_ferme": false
+  },
+  "engagements_specifiques": {"non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 1,
+    "items": ["Validation des salariés de la Société"],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 2,
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "commercial",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "qualite_redactionnelle": "confuse"
+  },
+  "signaux_faibles": {
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "erreurs_apparentes": ["LOI 2 pages sans détail", "Pas de décomposition prix", "Pas d'engagement chiffré emplois", "Pas de bilan repreneur"],
+    "faculte_substitution_precise": false,
+    "declaration_L642_3_signee": false
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Cabinet GENDROT — projet industriel et économique cohérent",
+    "phrase_engagement_social": "Conservation emplois dans la mesure du possible",
+    "phrase_vision_strategique": "Intégration aux bureaux Paris et/ou Serris",
+    "phrase_justification_prix": null
+  }
+}

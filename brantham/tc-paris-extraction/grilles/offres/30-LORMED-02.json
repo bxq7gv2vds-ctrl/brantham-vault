@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "offre_id": "30-LORMED-02",
+    "dossier_id": "30-LORMED",
+    "dossier_folder": "30 - SAS à associé unique LORMED",
+    "fichier_source_pdf": "offre_02_gd71725332.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent-batch08",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "LORMED",
+    "cible_siren": "422924886",
+    "naf_secteur": "68.20B",
+    "sous_secteur": "Camping 4*",
+    "ca_dernier_exercice_eur": 267714,
+    "ebitda_eur": 30139,
+    "effectif_total": 0,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "date_audience_cession": null,
+    "aj_nom": "Maître Lou FLECHARD ; Maître Maxime LANGET",
+    "aj_etude": "SCP CBF ASSOCIÉS ; SELAS BL & ASSOCIÉS",
+    "mj_nom": "Maître Florian LACOUR ; Maître Camille STEINER",
+    "mj_etude": "SELAFA MJA ; SELARL ATHENA",
+    "juge_commissaire": "Franck MEYNAUD",
+    "causes_defaillance": "Défaillance groupe NEOCAMP"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 4,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Sébastien MANCEAU signataire — European Camping Group / PAI Partners",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 30,
+    "track_record_reprises": ["Homair (FR)", "Eurocamp (UK)", "Roan (NL)", "Alannia (ES)", "Vacanceselect (fév 2023)"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "HOMAIR VACANCES SAS (faculté substitution ECG)",
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": null,
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 1200001,
+    "decomposition": {
+      "incorporels_eur": 200000,
+      "corporels_eur": 200000,
+      "stocks_eur": 1,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 1734000,
+    "modalites_paiement": "NR",
+    "garanties_paiement": "Charges augmentatives minimum 1734K€ (prêt 250K€ Caisse d'Epargne + dettes leasing + mutuelle/prévoyance/CP)",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail LORMED/SCI CHA"],
+    "credit_bail_repris": ["11 contrats LORMED data room Annexe 5 + crédits-baux transférés ALPHA CAMPING OCCITANIE"],
+    "contrats_clients_critiques_repris": ["Contrats fournisseurs ENGIE/VEOLIA/assurances"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": true,
+    "engagement_L642_12_montant_eur": 250000,
+    "passif_privilegie_repris": "Prêt 250K€ Caisse d'Epargne nanti FdC",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 3,
+    "nb_total_salaries": 3,
+    "pct_reprise": 100.0,
+    "categories_reprises": "3 CDI Soleil d'Oc : Directeur + Assistante direction + Employé entretien (rattachés à ALPHA CAMPING OCCITANIE — réintégrés à LORMED post-résiliation), avec ancienneté + CP",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "2026 année dégradée (changement enseigne + CapEx 500K€ sur 2 ans), amélioration 2027, plein potentiel 2028. Sortie franchise Camping Paradis vers enseigne Homair.",
+    "vision_strategique_phrase": "Intégration au réseau Homair (115 sites directs + 450 campings Europe, 48000 mobile-homes, 4M touristes/an)",
+    "pivots_prevus": "Changement enseigne (Camping Paradis → Homair)",
+    "synergies_repreneur": "Mutualisation 115 sites directs Europe",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": 500000,
+    "capex_calendrier": "2 ans",
+    "capex_nature": "Modernisation + ré-enseigne",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "prudentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "non"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": true,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["PAI Partners", "ADIA Abu Dhabi"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "2 ans pas de cession actifs",
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 4,
+    "items": [
+      "Résiliation préalable du contrat de location-gérance LORMED/ALPHA CAMPING OCCITANIE sans indemnité ni recours",
+      "Transfert sans frais ni recours des crédits-baux mobile-homes/chalets/tentes",
+      "Confirmation absence d'autres emprunts L.642-12 al.4",
+      "Confirmation arrêtés/autorisations d'exploitation en vigueur et permis de construire valides"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe ECG 750M€ CA dont 300M€ HOMAIR, 115 sites directs + 450 campings Europe, 48000 mobile-homes, 4M touristes/an",
+    "phrase_engagement_social": "Reprise des 3 CDI Soleil d'Oc avec ancienneté + CP",
+    "phrase_vision_strategique": "2026 année dégradée → amélioration 2027 → plein potentiel 2028",
+    "phrase_justification_prix": "Charges augmentatives min 1734K€"
+  }
+}

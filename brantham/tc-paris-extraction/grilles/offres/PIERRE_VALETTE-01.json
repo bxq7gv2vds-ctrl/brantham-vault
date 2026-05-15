@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "offre_id": "PIERRE_VALETTE-01",
+    "dossier_id": "PIERRE_VALETTE",
+    "dossier_folder": "07 - SCI 43-45 RUE PIERRE VALETTE",
+    "fichier_source_pdf": "07_SCI_43-45_RUE_PIERRE_VALETTE_offre1.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "low"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI 43-45 RUE PIERRE VALETTE (portefeuille FHBX 26 entites)",
+    "naf_secteur": "Immobilier",
+    "effectif_total": 0,
+    "type_procedure": "RJ",
+    "dldo": "2026-03-02",
+    "aj_nom": "Maitre Helene BOURBOULOUX",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "Monsieur Jean-Francois PONCET"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "en_attente",
+    "motifs_rejet_verbatim": "PDF mal classe (doublon physique) - offre HOUSEBASE cible SNC ADONIA (immeuble 30 rue Etienne Dolet 94230 Cachan, 501 600 EUR), pas SCI PIERRE VALETTE",
+    "nb_offres_concurrentes": 8
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Philippe ZERR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "capital_eur": 49780,
+      "rcs": "908068331",
+      "type_vehicule": "existante",
+      "kbis_present_en_annexe": false
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": null,
+    "decomposition": {},
+    "modalites_paiement": "NR"
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "pct_reprise": null
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "NR"
+  },
+  "financement": {
+    "partenaires_financiers": []
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "agressivite_envers_dirigeants": "NR"
+  },
+  "forme_presentation": {
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "erreurs_apparentes": ["PDF mal classe - cible SNC ADONIA pas SCI PIERRE VALETTE"]
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {}
+}

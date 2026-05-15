@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "offre_id": "03-INSULA-11",
+    "dossier_id": "03-INSULA",
+    "dossier_folder": "03 - SCI INSULA",
+    "fichier_source_pdf": "03_SCI_INSULA_offre11.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "RATTACHEMENT INCERTAIN A SCI INSULA - 12 parkings (Chevilly-Larue / 92240 Augustin Dumont / Arcueil) cibles par AEB",
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "12 emplacements de parking (3 adresses : 64-74 Av Gen de Gaulle 94550 Chevilly-Larue (5) + 42 Av Augustin Dumont 92240 (5) + 28 Av Aristide Briand 94110 Arcueil (2))",
+    "type_procedure": "RJ",
+    "dldo": "2026-03-02",
+    "aj_nom": "Maitre Helene BOURBOULOUX",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "causes_defaillance": "Defaillance groupe Melot-Gouband ('Affaire Balthazar')"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_rejet_verbatim": "Proposition INDICATIVE - 'ne saurait constituer un engagement d'acquerir l'Actif et ne saurait constituer une promesse de la part de l'Acquereur de faire une offre ferme'. Rattachement INSULA incertain : 3 adresses ne correspondent pas explicitement aux 12 parkings INSULA - possible doublon avec INSULA-09 ou cible distincte autre SCI.",
+    "nb_offres_concurrentes": 12
+  },
+  "profil_repreneur": {
+    "forme": "holding_ad_hoc",
+    "age_parcours_dirigeant": "Amine EL Bounaamani (President AEB Invest)",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "intention_seule",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "capital_eur": 2000,
+      "rcs": "951815414 RCS Paris",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 30000,
+    "decomposition": {
+      "immeubles_eur": 30000
+    },
+    "modalites_paiement": "NR",
+    "garanties_paiement": "Prix net vendeur hors droits. Acquereur prend a sa charge emoluments notaire et droits de mutation. Inclus tous couts debouclage surete et tous depots de garantie."
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "plan_licenciement": {}
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "vision_strategique_phrase": "Prise de participation dans toutes entreprises, societes ou autres groupements de personnes, en France et a l'etranger dans l'immobilier",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "NR",
+    "diagnostic_resume": "7 hypotheses de valorisation listees : (i) actif parking, (ii) entierement occupe, (iii) parfait etat fonctionnement, (iv) titre propriete regulier sans surete, (v) sans servitude/urbanisme, (vi) installations classees conformes, (vii) terrain non pollue"
+  },
+  "financement": {
+    "apport_origine_documentee": "non",
+    "dette_bancaire_engagement_ferme": false,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "maintien_territoire_site_duree": "Closing : signature acte authentique 4 mois apres audience designant AEB titulaire de l'Actif",
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Realisation visite de l'Actif de maniere exhaustive",
+      "Accord Vendeur/Acquereur sur termes documentation contractuelle (declarations, garanties, cautions usuelles, duree et montants a preciser apres due diligences)",
+      "Absence de tout evenement significatif pouvant intervenir pendant la periode de negociation"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 4,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_business_plan": false,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "erreurs_apparentes": ["Rattachement INSULA douteux : 3 adresses Chevilly-Larue/92240/Arcueil ne matchent pas description CSV (12 parkings INSULA sans localisation precisee)", "PDF avec caracteres encodes/mal restitues ('!\"#$' au lieu de titre / '9' au lieu d'apostrophe)"],
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {
+    "phrase_positionnement": "La Proposition est indicative, elle ne saurait constituer un engagement d'acquerir l'Actif et ne saurait constituer une promesse de la part de l'Acquereur de faire une offre ferme",
+    "phrase_justification_prix": "Le Prix d'Acquisition Indicatif comprend tous les couts lies au debouclage de toute surete qui serait susceptible de grever l'Actif"
+  }
+}

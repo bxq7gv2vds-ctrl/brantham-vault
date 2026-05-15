@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "offre_id": "31-OCCITANIE-02",
+    "dossier_id": "31-OCCITANIE",
+    "dossier_folder": "31 - SAS ALPHA CAMPING OCCITANIE",
+    "fichier_source_pdf": "offre_02_gd71722680.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS ALPHA CAMPING OCCITANIE",
+    "cible_siren": "912368370",
+    "naf_secteur": "Hotellerie de plein air (NAF 55.30Z)",
+    "sous_secteur": "Camping SOLEIL D'OC seul (Narbonne Plage, 4*)",
+    "ca_dernier_exercice_eur": 2197445, "ebitda_eur": -101873, "effectif_total": 7, "nb_sites": 3,
+    "type_procedure": "RJ", "date_ouverture": "2025-11-12", "dldo": "2025-12-17", "date_audience_cession": null,
+    "aj_nom": "Maxime LANGET / Lou FLECHARD", "aj_etude": "SELAS BL & ASSOCIES / SCP CBF ASSOCIES",
+    "mj_nom": "Florian LACOUR / Camille STEINER", "mj_etude": "SELAFA MJA / SELARL ATHENA",
+    "juge_commissaire": "Franck MEYNAUD",
+    "causes_defaillance": "Idem dossier"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non", "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": "Offre partielle Soleil d'Oc seul + indivisibilite avec offre SCI CHA + Lormed ; ecartee au profit du package Seasonova/Maeva.",
+    "nb_offres_concurrentes": 5,
+    "concurrents_resume": [
+      {"nom": "GROUPE SEASONOVA", "positionnement_2lignes": "Retenu"},
+      {"nom": "HUTTOPIA SA", "positionnement_2lignes": "Barberousse seul"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Romain (President) / Virgil (DG) / Glen Baumstark (DG delegue). Groupe familial HPA Mediterraneo : 2 campings 4* La Grande-Motte (Maiana Resort, ex Lou Pibols repris 2017 CA 1,7M 2024) + Saumane Cevennes (Chateau de l'Hom repris fin 2024).",
+    "experience_sectorielle_oui_non": "oui", "experience_sectorielle_annees": 17,
+    "track_record_reprises": ["Lou Pibols La Grande-Motte (2017, CA porte 1,7M)", "Chateau de l'Hom Saumane (fin 2024, 3M travaux, classe 4* juin 2025)", "Antipolis Antibes (2009, CA 1,3M->2,8M, cede 2023)", "Domaine Verdagne Gassin (2016, cede 2023)"],
+    "capacite_financiere_demontree": "moyenne_documentee", "cautionnement_personnel": "NR",
+    "vehicule_reprise": {"forme_juridique": "SAS Soleil d'Oc en cours de formation (filiale 100% HPA Mediterraneo)", "date_creation": null, "capital_eur": 6245901, "rcs": "437908338", "kbis_present_en_annexe": true, "type_vehicule": "substitution_prevue"}
+  },
+  "structure_prix": {
+    "prix_total_eur": 1,
+    "decomposition": {"incorporels_eur": 1, "corporels_eur": 0, "stocks_eur": null, "creances_clients_eur": null, "immeubles_eur": null, "titres_eur": null},
+    "charges_augmentatives_eur": null, "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Cheque banque ou virement", "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": ["BPCE Lease CE LR n494118 (20/02/2024, 62 642 EUR/an mobil-homes)", "BPCE Lease CE LR n494120 (13/06/2024, 130 330 EUR/an mobil-homes)"],
+    "contrats_clients_critiques_repris": [], "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": true,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "En cas L.642-12 al.4 reduction min 20% du solde transfert suretes reelles", "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 3, "nb_total_salaries": 3, "pct_reprise": 100.0,
+    "categories_reprises": "1 Directeur exploitation + 1 Assistante direction + 1 Employe entretien technique/maintenance",
+    "categories_non_reprises_raisons": "Salaries non payes depuis novembre 2025 — prime exceptionnelle envisagee",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 0, "calendrier": null, "indemnites": null, "accompagnement": "Prime exceptionnelle envisagee"},
+    "engagement_maintien_emplois_duree_mois": null, "sanction_non_respect_emplois": null, "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Familial HPA Mediterraneo 4* haut de gamme. Reprise Soleil d'Oc seul. Previsionnel : CA 2025/26 1,18M REX 53k EBE 195k -> 2028/29 1,4M EBE 376k.",
+    "vision_strategique_phrase": "Desamiantage total assure",
+    "pivots_prevus": "Classement 4* maintenu, modernisation",
+    "synergies_repreneur": "Centrale reservation groupe", "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null, "capex_calendrier": null, "capex_nature": "Desamiantage + modernisation",
+    "plan_affaires_3ans_present": true, "ca_an1_eur": 1180000, "ca_an2_eur": 1350000, "ca_an3_eur": 1400000, "ebitda_an3_eur": 376000,
+    "hypotheses_qualification": "realistes", "maintien_site": "oui_total", "maintien_marques_savoir_faire": "non"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null, "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false, "dette_bancaire_lettre_confort": true, "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": true, "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null, "tresorerie_securite_eur": null, "partenaires_financiers": ["Lignes credit bancaires existantes"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null, "caution_dirigeant_montant_eur": null, "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null, "maintien_territoire_site_duree": null, "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false, "nb_conditions": 6,
+    "items": [
+      "Communication documentation non disponible en data room",
+      "Obtention autorisations/agrements/licences",
+      "Absence d'evenement defavorable significatif",
+      "Si L.642-12 al.4 : reduction min 20% du solde transfert suretes reelles",
+      "Communication elements droits tiers/retention/revendication",
+      "Arrete par TAE Paris concomitamment avec offres connexes Annexes 5 et 6 (SCI C.H.A. et Lormed)"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null, "nb_pages_corps_offre": null, "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille", "ton_dominant": "technique", "executive_summary_present": true,
+    "annexes_kbis": true, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true, "annexes_organigramme_cible": false, "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false, "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": false, "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false, "soutien_clients_cles": false, "soutien_banques_historiques": false,
+    "personnalisation_visite_site": true, "personnalisation_rencontre_equipes": false, "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent", "differenciation_concurrents_explicite": false, "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": ["Prix 1 EUR symbolique : signal d'incertitude sur valeur"],
+    "declaration_L642_3_signee": false, "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe familial HPA Mediterraneo 4* haut de gamme — 2 campings exploites en propre",
+    "phrase_engagement_social": "Reprise integrale des 3 salaries, prime exceptionnelle envisagee (salaries non payes depuis novembre 2025)",
+    "phrase_vision_strategique": "Desamiantage total assure",
+    "phrase_justification_prix": "1 EUR symbolique compte tenu de la situation"
+  }
+}

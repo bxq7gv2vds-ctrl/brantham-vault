@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "offre_id": "27B-GD-LISSE-01-BOUTONNE",
+    "dossier_id": "27B-GD-LISSE",
+    "dossier_folder": "27 - SCI LA GRANDE LISSE",
+    "fichier_source_pdf": "44_SCI_LA_GRANDE_LISSE_offre1.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI LA GRANDE LISSE",
+    "cible_siren": "824145163",
+    "naf_secteur": "Hotellerie de plein air / camping",
+    "sous_secteur": "Fonciere camping L'Escapade — Lamonzie-Montastruc (24520)",
+    "ca_dernier_exercice_eur": 120000,
+    "effectif_total": 0,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "date_audience_cession": "2026-03-11",
+    "aj_nom": "Me Lou Flechard / Me Maxime Langet",
+    "aj_etude": "SCP CBF Associes / SELAS BL & Associes",
+    "mj_nom": "Me Florian Lacour / Me Camille Steiner",
+    "juge_commissaire": "M. Franck Meynaud"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 4,
+    "concurrents_resume": [
+      {"nom": "SEASONOVA", "positionnement_2lignes": "Lettre d'intention seule"},
+      {"nom": "SHD SAS", "positionnement_2lignes": "1 000 EUR murs seuls"},
+      {"nom": "CAMPALDIA", "positionnement_2lignes": "3 EUR symboliques offre indivisible 15 campings"},
+      {"nom": "FEMINA STYL + MARENGO", "positionnement_2lignes": "1 400 000 EUR — offre la plus elevee"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "holding_ad_hoc",
+    "age_parcours_dirigeant": "Pierre-Jean MAUVIN (LA FACTORY) + Jean-Olivier NOEL (JON INVEST). P-J MAUVIN dirige cabinet Concerto (30 ans, conseil campings, CA >4 M EUR), ancien associe campings L'Aigle et Luberon (groupe Campasun). J-O NOEL : 56 ans, 30 ans HPA, agent vente campings 20 ans, mandate vente L'Escapade il y a 10 ans, resident Dordogne 20 ans. Projet familial avec fils Florent NOEL (resp technique camping 500 places groupe Capfun) et Pablo MAUVIN.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 30,
+    "track_record_reprises": ["L'Aigle (groupe Campasun)", "Luberon (groupe Campasun)"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SCI",
+      "date_creation": null,
+      "capital_eur": 1000,
+      "rcs": "943189829",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "existante",
+      "actionnariat": "LA FACTORY SAS (cap. 500 000 EUR, RCS Frejus 497530816, famille MAUVIN) + JON INVEST SARL (cap. 2 000 EUR, RCS Brives 494754328, NOEL)"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 500000,
+    "decomposition": {
+      "incorporels_eur": null,
+      "corporels_eur": 500000,
+      "stocks_eur": null,
+      "immeubles_eur": 500000,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Cheque banque 500 000 EUR remis a l'audience du 11/03/2026",
+    "cheque_consignation_eur": 500000
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Actifs nets de tout passif/charge",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 0,
+    "pct_reprise": null,
+    "categories_reprises": "SCI non employeuse",
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": 0, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Projet camping 4* haut de gamme Dordogne. Connaissance du site (NOEL mandate vente L'Escapade il y a 10 ans). Pas de plan industriel chiffre detaille sur la SCI (logique fonciere) — vision portee par offre couplee L'ESCAPADE SAS.",
+    "vision_strategique_phrase": "Ambition camping 4* haut de gamme Dordogne",
+    "pivots_prevus": null,
+    "synergies_repreneur": "Cabinet Concerto (30 ans conseil HPA) + experience exploitation directe Campasun",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null, "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null,
+    "hypotheses_qualification": "NR",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "NR"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 500000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "Entree en jouissance lendemain jugement",
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": true,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": true,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Ambition camping 4* haut de gamme Dordogne — projet familial Mauvin/Noel, cabinet Concerto 30 ans conseil HPA",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": "Projet familial avec fils Florent NOEL (resp technique camping 500 places groupe Capfun) et Pablo MAUVIN",
+    "phrase_justification_prix": "500 000 EUR comptant cheque banque audience — paiement integral fonds propres sans CS"
+  }
+}

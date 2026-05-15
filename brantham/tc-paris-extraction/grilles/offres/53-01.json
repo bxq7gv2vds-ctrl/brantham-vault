@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "offre_id": "53-01",
+    "dossier_id": "53",
+    "dossier_folder": "53 - SARL DAVY",
+    "fichier_source_pdf": "53_SARL_DAVY_offre1.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SARL DAVY",
+    "cible_siren": "421674185",
+    "naf_secteur": "CHR Paris",
+    "sous_secteur": "Cafe / bar / brasserie / restaurant (Le Cafe des Halles)",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 1,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-02-17",
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Me Charles-Henri Carboni",
+    "aj_etude": "SELARL DETROIT",
+    "mj_nom": "Me Veronique Manie",
+    "mj_etude": "SELARL ARGOS",
+    "juge_commissaire": null,
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 0,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "pp_seule",
+    "age_parcours_dirigeant": "Aissa DEBICHE, ne 27/01/1969. Exploitant CHR parisien experimente : bar-restaurant depuis 1999, rachat 2008. Exploite 'LE MAMBO CAFE et HOTEL BNF' (29 rue Domremy Paris 13) depuis 10/2015. Gerance libre 'Le Cafe des Arts' (3 place de la Contrescarpe Paris 6) depuis 2021. Emploie 12 personnes sur ses 2 affaires actuelles.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 26,
+    "track_record_reprises": ["Mambo Cafe et Hotel BNF Paris 13 (rachat 2008)", "Le Cafe des Arts Paris 6 (gerance libre 2021)"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "oui",
+    "vehicule_reprise": {
+      "forme_juridique": "Personne morale existante ou a constituer (SAS DEBICHE Holding cap. 100 000 EUR / SAS DALYS cap. 1 000 EUR / SAS GREENSAND cap. 10 000 EUR / SCI DEBICHE cap. 1 997 EUR)",
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": null,
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 215540,
+    "decomposition": {
+      "incorporels_eur": 200000,
+      "corporels_eur": 15540,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 45000,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Apport personnel 120 000 EUR + Emprunt bancaire 95 540 EUR (total 215 540 EUR). Depot de garantie bail 45 000 EUR a reconstituer en sus.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail commercial 16/05/2012 SCI HA-RGT30 (RCS Paris 424190064) au profit de LBAC — 30 rue de la Grande Truanderie 75001 Paris — depot de garantie 45 000 EUR a reconstituer"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 1,
+    "nb_total_salaries": 1,
+    "pct_reprise": 100.0,
+    "categories_reprises": "1 salarie transfere (L.1224-1). Projection post-reprise : 5 salaries (4 serveurs + 1 cuisinier) + Aissa DEBICHE gerant sur place.",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {
+      "nb": 0,
+      "calendrier": null,
+      "indemnites": null,
+      "accompagnement": null
+    },
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Repreneur CHR experimente avec 26 ans d'exploitation (Mambo Cafe Paris 13, Cafe des Arts Paris 6). Reprise du fonds de commerce 30 rue de la Grande Truanderie 75001 + bail commercial + 1 salarie L.1224-1 + projection 5 salaries (4 serveurs + 1 cuisinier).",
+    "vision_strategique_phrase": "Candidat exploitant CHR parisien experimente depuis 1999 — reprise du Cafe des Halles dans la continuite de ses 2 affaires actuelles.",
+    "pivots_prevus": null,
+    "synergies_repreneur": "Mutualisation gestion avec Mambo Cafe et Cafe des Arts (deja 12 salaries sur 2 affaires).",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 551718,
+    "ca_an2_eur": null,
+    "ca_an3_eur": 670616,
+    "ebitda_an3_eur": 173219,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 120000,
+    "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": true,
+    "dette_bancaire_montant_eur": 95540,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Credit Mutuel", "Banque Populaire"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "Maintien site 30 rue de la Grande Truanderie 75001 (transfert bail commercial). Aissa DEBICHE reste solidairement tenu en cas de substitution.",
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 8,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": true,
+    "annexes_attest_bancaire": true,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": true,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": true,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Adresse repreneur incomplete (code postal a completer — '184 bis rue Edouard Tremblay')"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": "Avocat au Barreau de Paris",
+    "avocat_nom": "Me Nabil FADLI (5 rue Vernet 75008 Paris)"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Candidat exploitant CHR parisien experimente : bar-restaurant depuis 1999, rachat 2008, gerance libre 'Le Cafe des Arts' depuis 2021.",
+    "phrase_engagement_social": "Reprise prevue de 1 salarie transfere (L.1224-1) + projection 5 salaries (4 serveurs + 1 cuisinier) + Aissa DEBICHE gerant sur place.",
+    "phrase_vision_strategique": "Continuite d'exploitation du Cafe des Halles dans la lignee du Mambo Cafe Paris 13 et du Cafe des Arts Paris 6.",
+    "phrase_justification_prix": "Prix total 215 540 EUR : 200 000 EUR incorporels + 15 540 EUR corporels. Financement : apport personnel 120 000 EUR + emprunt bancaire 95 540 EUR + reconstitution depot bail 45 000 EUR."
+  }
+}

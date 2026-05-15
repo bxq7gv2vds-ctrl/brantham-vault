@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "dossier_id": "16-SNC-COROT",
+    "dossier_folder": "16 - SNC COROT",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "raison_sociale": "SNC COROT",
+    "siren": null,
+    "forme_juridique": "SNC",
+    "naf_secteur": "6820B",
+    "activite": "Détention/location d'actifs immobiliers — groupe de fait Foncière Melot-Gouband ('Affaire Balthazar', 26 entités consolidées FHBX)",
+    "tribunal": "Tribunal des Activités Économiques de Paris",
+    "type_procedure": "RJ",
+    "date_ouverture": "Vagues 29/04, 03/07, 04/09, 23/12/2025 (selon entité)",
+    "dldo": "2026-03-02",
+    "date_audience_cession": null,
+    "aj_nom": "Maître Hélène BOURBOULOUX (avec François RAYBAUD et Paul CHARREY)",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maître Valérie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "Monsieur Jean-François PONCET",
+    "effectif_total": 0,
+    "secteur": "Immobilier"
+  },
+  "causes_defaillance": "Crise immobilière post-2022 (hausse taux 1% à 4%), refinancement des prêts plus onéreux, montages intra-groupe complexes, baisse des prix immobiliers réduisant les produits de cession anticipés.",
+  "perimetre_consolide": {
+    "nom_affaire": "Foncière Melot-Gouband / Balthazar (FHBX consolidé)",
+    "nb_entites": 26,
+    "fondateurs": "Dominique Melot et François-Régis Gouband (constitué 1997)",
+    "porteur_dette_initial": "SC Balthazar Invest (assignée 20/02/2025 par société de crowdfunding)",
+    "vague_entites": "43 autres sociétés du groupe placées en RJ entre avril et décembre 2025 (créances intragroupe + état cessation paiements)",
+    "entites_centrales_avec_salaries": [
+      "SC Balthazar",
+      "Idefisc"
+    ]
+  },
+  "nb_offres_recues": 12,
+  "issue_globale": "en_attente",
+  "notes": "Voir CSV COROT pour détail des 12 offres reçues. MUVICO PDFs >5MB non extraits. LABRAX 21M€ porte sur 26 entités globalement indivisibles avec 2 options de repli Trouville. VERDOSO prix provisoire 250.002€ à parfaire (valorisation économique 11M€). LALEYE asset deal par actif (320k€ pour SNC Corot 4-12 bd F. Moureaux Trouville)."
+}

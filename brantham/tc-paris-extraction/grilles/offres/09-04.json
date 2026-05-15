@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "offre_id": "09-04",
+    "dossier_id": "09",
+    "dossier_folder": "09 - SAS à associé unique EZIN & STRAUUS CP - Sigle E&S CP",
+    "fichier_source_pdf": "offre_04_gd72801039.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "EZIN & STRAUUS CP",
+    "cible_siren": "501233001",
+    "naf_secteur": "Expertise comptable / Commissariat aux comptes",
+    "effectif_total": 7,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-05-15",
+    "dldo": "2026-01-15",
+    "aj_nom": "Me Carole MARTINEZ",
+    "mj_nom": "Me Bernard CORRE"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "amelioree_puis_retenue",
+    "issue_globale_dossier": "en_attente",
+    "motifs_rejet_verbatim": "Offre initiale 15/01/2026 — améliorée 11/02/2026 (09-02a) avec prix doublé 30k→70k€ et CS levées.",
+    "nb_offres_concurrentes": 3
+  },
+  "profil_repreneur": {
+    "forme": "salaries",
+    "age_parcours_dirigeant": "Trio DODO (Legal Mgr E&S) + LIGOT (DEC 2005 directrice technique) + TOTIER (DEC 2005 cabinet Audit TOTIER, né 21/12/1961 à Paris)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 21,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS substitution E&S - TAX&LAW",
+      "capital_eur": 50000,
+      "rcs": "451436133",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 30000,
+    "decomposition": {
+      "incorporels_eur": 25000,
+      "corporels_eur": 5000
+    },
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds propres"
+  },
+  "reprise_passif": {
+    "baux_repris": ["190 boulevard Haussmann 75008 Paris (à confirmer après précisions data room)"],
+    "engagements_L642_12_al4": false,
+    "retraites_chapeau_indemnites": "Droits acquis salariés afférents à période postérieure Date Entrée en Jouissance uniquement"
+  },
+  "volet_social": {
+    "nb_salaries_repris": 7,
+    "nb_total_salaries": 7,
+    "pct_reprise": 100,
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "engagement_maintien_emplois_duree_mois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "diagnostic_resume": "Prévisions activité/financement en cours de finalisation",
+    "vision_strategique_phrase": "Continuité activité avec trio salariés + apport externe TOTIER",
+    "synergies_repreneur": "Cabinet Audit TOTIER",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false
+  },
+  "engagements_specifiques": {"non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 5,
+    "items": [
+      "Confirmation maintien activité jusqu'à Date Entrée en Jouissance",
+      "Absence d'événement affectant significativement l'activité reprise",
+      "Finalisation due diligences juridiques et financières",
+      "Confirmation aucun actif important détruit/cédé/aliéné",
+      "Confirmation organes procédure que droits préemption/agrément écartés et actifs cédés libres"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "technique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "personnalisation_rencontre_equipes": true,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": true,
+    "erreurs_apparentes": ["Offre initiale — plan d'affaires non finalisé"],
+    "faculte_substitution_precise": true,
+    "declaration_L642_3_signee": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Trio salariés internes + cabinet indépendant — substitution E&S-TAX&LAW",
+    "phrase_engagement_social": "Reprise des 7 emplois",
+    "phrase_vision_strategique": "Engagement E. EZIN comme salarié post-cession",
+    "phrase_justification_prix": null
+  }
+}

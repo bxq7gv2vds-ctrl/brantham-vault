@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "offre_id": "55-01",
+    "dossier_id": "55",
+    "dossier_folder": "55 - SAS MYWINDPARTS",
+    "fichier_source_pdf": "55_SAS_MYWINDPARTS_offre1.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS MYWINDPARTS",
+    "cible_siren": "824564231",
+    "naf_secteur": "Eolien / composants industriels",
+    "sous_secteur": "Negoce et reconstruction de composants d'eoliennes (main components, pieces detachees, maintenance)",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": null,
+    "nb_sites": 2,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-02-25",
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Me Lou FLECHARD",
+    "aj_etude": "SCP CBF ASSOCIES",
+    "mj_nom": "Me Jean-Charles DEMORTIER",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": null,
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 7,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Thibaut GEORGE (President via DREKAN GROUPE). BE : Thibaut GEORGE 37,04% indirect + Julien MOULIN 29,6% (9,66% direct + 19,94% indirect). Groupe DREKAN appartient a AXCISS GROUP.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": null,
+      "capital_eur": 650000,
+      "rcs": "798303814",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 150000,
+    "decomposition": {
+      "incorporels_eur": 25000,
+      "corporels_eur": 25000,
+      "stocks_eur": 100000,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Prix HT garanti par cheque de banque ou virement avant audience. Fonds propres integralement.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail commercial Saint-Jean-de-Vedas (SCI PESENTI)"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Exclusion expresse de l'art. L.642-12 al.4 et 5 du Code de commerce.",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 8,
+    "nb_total_salaries": null,
+    "pct_reprise": null,
+    "categories_reprises": null,
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {
+      "nb": null,
+      "calendrier": null,
+      "indemnites": null,
+      "accompagnement": null
+    },
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Groupe DREKAN (200 collaborateurs, 8 sites industriels ~60 000 m² ateliers, CA 35,5 MEUR au 30/04/2025, EBITDA 10 MEUR, liquidites 8 MEUR) cherche extension portefeuille filiales : DREKAN ELECTROMECANIQUE, SEELEC ELECTROMECANIQUE, NELCO INDUSTRIES, DREKAN E PCS, INVENTIS ENGINEERING, DREKAN ENERGY (cessionnaire MYWINDPARTS), AXCISS ASSET-MANAGEMENT. Concept strategique : MM82 Neo (reconstruction machines Repower MM82).",
+    "vision_strategique_phrase": "Ambition 2030 : CA 200 MEUR / EBITDA 40 MEUR. Reprise MYWINDPARTS s'inscrit dans expansion DREKAN ENERGY (DREKAN POWER RENTAL).",
+    "pivots_prevus": "Restitution siege Paris 84 bd Sebastopol (partage avec VOLTALIA — exclu).",
+    "synergies_repreneur": "Integration verticale dans groupe DREKAN — pieces detachees eolien + maintenance + reconstruction MM82 Neo. 8 sites industriels existants. Liquidites groupe 8 MEUR.",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "partiel",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": 8000000,
+    "partenaires_financiers": ["KPMG S.A. (CAC)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "Site Saint-Jean-de-Vedas (bail SCI PESENTI) maintenu — siege Paris exclu.",
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 4,
+    "items": [
+      "Absence de modification substantielle ou evenement alterant la valeur des actifs entre depot offre et jugement",
+      "Analyse Data-Room et audits juridiques et financiers concluants",
+      "Communication par l'AJ : contrats de prets eventuels, etat des privileges et nantissements, confirmation absence d'application L.642-12 al.4, liste des contrats en cours (L.642-7), dernier appel de loyer + arriere + depot garantie, contrats credits-baux/LLD, attestation absence de contentieux",
+      "Maintien des contrats clients juges strategiques"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 18,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": true,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Previsions activite MYWINDPARTS reprises non detaillees (communiquees dans offre amelioree)"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe DREKAN : 200 collaborateurs, 8 sites industriels (~60 000 m² ateliers), CA 35,5 MEUR / EBITDA 10 MEUR au 30/04/2025, liquidites 8 MEUR. Ambition 2030 : CA 200 MEUR / EBITDA 40 MEUR.",
+    "phrase_engagement_social": "Reprise de 8 salaries (categories non specifiees).",
+    "phrase_vision_strategique": "Concept strategique MM82 Neo : reconstruction machines Repower MM82. Integration verticale dans groupe DREKAN POWER RENTAL.",
+    "phrase_justification_prix": "Prix global 150 000 EUR (corporels 25 000 + incorporels 25 000 + stocks 100 000). Exclusion expresse L.642-12 al.4 et 5."
+  }
+}

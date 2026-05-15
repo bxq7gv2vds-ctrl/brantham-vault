@@ -1,69 +1,45 @@
 {
   "meta": {
     "dossier_id": "09",
-    "dossier_folder": "09 - SNC AMIRAL MAIGRET",
+    "dossier_folder": "09 - SAS à associé unique EZIN & STRAUUS CP - Sigle E&S CP",
     "extracted_at": "2026-05-15",
     "extracted_by": "claude-agent",
-    "confidence": "medium"
+    "confidence": "high"
   },
   "identification": {
-    "cible_raison_sociale": "SNC AMIRAL MAIGRET",
-    "cible_siren": null,
-    "naf_secteur": "Immobilier",
-    "sous_secteur": "Detention actif immobilier - portefeuille consolide FHBX 26 entites Foncière Melot-Gouband ('Affaire Balthazar')",
+    "cible_raison_sociale": "EZIN & STRAUUS CP",
+    "cible_siren": "501233001",
+    "forme_juridique": "SAS à associé unique",
+    "capital_social_eur": 100000,
+    "rcs": "501233001",
+    "adresse_siege": "190 boulevard Haussmann, 75008 Paris",
+    "naf_secteur": "Expertise comptable / Commissariat aux comptes",
+    "ca_dernier_exercice_eur": null,
+    "effectif_total": 7,
     "type_procedure": "RJ",
-    "date_ouverture": null,
-    "dldo": "2026-03-02",
+    "date_ouverture": "2025-05-15",
+    "dldo": "2026-01-15",
     "date_audience_cession": null,
-    "aj_nom": "Maitre Helene BOURBOULOUX (avec Francois RAYBAUD et Paul CHARREY)",
-    "aj_etude": "SELARL FHBX",
-    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
-    "mj_etude": "SELAFA MJA",
-    "juge_commissaire": "Monsieur Jean-Francois PONCET",
-    "causes_defaillance": "Defaillance groupe immobilier Melot-Gouband - 26 SCI/SNC en RJ consolide",
-    "nb_offres_recues": 16,
-    "effectif_total": 0,
-    "actif_principal": "Bien immobilier (description PDF MUVICO non extraite >5MB)",
-    "fourchette_offres_eur": "200 000 (MUVICO initiale) - 21 000 000 (LABRAX portefeuille global) ; sur cet actif : 200k-620k"
+    "aj_nom": "Me Carole MARTINEZ",
+    "aj_etude": "SELARL 2M & ASSOCIÉS",
+    "mj_nom": "Me Bernard CORRE",
+    "mj_etude": "SELARL FIDES",
+    "juge_commissaire": "M. Yvon DONVAL",
+    "tribunal": "Tribunal des Activités Économiques de Paris",
+    "dirigeant_actuel": "Eugène EZIN, né 13/12/1972 à Agatogbo, Bénin",
+    "causes_defaillance": "Baisse d'activité, passif fiscal et social (URSSAF Île-de-France créance 351 963,97€ sur 01/01/2020-29/02/2024, demande échéancier 24 mois rejetée). Période d'observation prorogée au 15/05/2026 (jugement 11/12/2025)."
   },
   "issue_dossier": {
     "issue_globale_dossier": "en_attente",
+    "date_jugement_issue": null,
     "motifs_tribunal_verbatim": null,
-    "nb_offres_concurrentes": 16,
+    "nb_offres_concurrentes": 4,
     "concurrents_resume": [
-      {
-        "nom": "MUVICO (Victor COHEN)",
-        "positionnement_2lignes": "Groupe foncier patrimonial - offre globale 26 entites - portion AMIRAL MAIGRET 200k initiale / 230k amelioree"
-      },
-      {
-        "nom": "LABRAX INVEST",
-        "positionnement_2lignes": "Offre finale 21M EUR portefeuille global + appartement Paris 16e"
-      },
-      {
-        "nom": "VERDOSO SAS",
-        "positionnement_2lignes": "Plan cession global 26 entites (2 docusigns CC859BA0 + EBE6E276)"
-      },
-      {
-        "nom": "AEB INVEST",
-        "positionnement_2lignes": "SAS 75016 - prix net vendeur 620k sur cet actif specifique"
-      },
-      {
-        "nom": "Groupe JADO + ROIG",
-        "positionnement_2lignes": "Via Moncey Avocats - 23 pages multi-entites"
-      },
-      {
-        "nom": "Jean-Christophe MIORCEC",
-        "positionnement_2lignes": "PP Saint-Brieuc - offre recentree AMIRAL(561k)+INSULA(101k)+RHEA(11k)=673k, aucune CS"
-      },
-      {
-        "nom": "HOUSEBASE",
-        "positionnement_2lignes": "SAS Philippe ZERR Rennes - 1 PDF mal classe (cible ADONIA)"
-      },
-      {
-        "nom": "Groupe LALEYE",
-        "positionnement_2lignes": "Marchand de biens 30 ans, ~3M EUR patrimoine, partenaires BCP/Caixa"
-      }
-    ]
-  },
-  "notes_dossier": "Dossier consolide FHBX 'Affaire Balthazar' - 26 SCI/SNC du groupe Melot-Gouband. SNC AMIRAL MAIGRET = 1 actif immo dans le portefeuille. PDFs MUVICO >5MB non extraits (table reference utilisee). 3 doublons MUVICO + 2 docusign VERDOSO + 2 Groupe JADO = redondance significative. Voir CSV INSULA pour table complete des 26 entites et leurs prix individualises."
+      {"nom": "OTSAR AUDIT ET CONSEIL", "positionnement_2lignes": "Groupe OTSAR (CA 7,8M€, fondé 1999). Offre améliorée 25k€/3 emplois + intégration salariés non repris dans locaux 17e + reprise droits CP intégrale."},
+      {"nom": "DODO/LIGOT/TOTIER (PP salariés + indépendant)", "positionnement_2lignes": "Trio collaborateurs internes + cabinet indépendant. Offre améliorée 70k€/7 emplois (intégrale). Engagement EZIN comme consultant. Aucune CS."},
+      {"nom": "GENDROT EXPERTISE CONSEIL", "positionnement_2lignes": "Cabinet Palaiseau. LOI courte 50k€ sans détail. Intégration bureaux Paris/Serris."},
+      {"nom": "FIDUCIAIRE VALUE (Adama SYLLA)", "positionnement_2lignes": "Cabinet jeune (créé 2020 Sartrouville). PDF scanné non extractible. Volonté de reprise mais détails illisibles."}
+    ],
+    "enseignement_clef": "Dossier d'expertise comptable mono-bureau Paris 8e. Reprise par salariés trio DODO/LIGOT/TOTIER présente avantages : prix supérieur (70k€), reprise intégrale 7 emplois, engagement EZIN comme consultant (continuité clients), absence CS, capital final 70/20/10 avec TOTIER apport CA externe 230k€. OTSAR offre + prix faible (25k€) mais + scale (groupe 7,8M€) et engagement intégration locaux. Pattern classique : reprise interne vs reprise par scaler — le tribunal favorise souvent l'interne en EC quand cohérence financière démontrée."
+  }
 }

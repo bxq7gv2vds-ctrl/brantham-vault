@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "offre_id": "09-01",
+    "dossier_id": "09",
+    "dossier_folder": "09 - SAS à associé unique EZIN & STRAUUS CP - Sigle E&S CP",
+    "fichier_source_pdf": "offre_01_gd74677240.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "EZIN & STRAUUS CP",
+    "cible_siren": "501233001",
+    "naf_secteur": "Expertise comptable / Commissariat aux comptes",
+    "effectif_total": 7,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-05-15",
+    "dldo": "2026-01-15",
+    "aj_nom": "Me Carole MARTINEZ",
+    "mj_nom": "Me Bernard CORRE"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 3
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_concurrent",
+    "age_parcours_dirigeant": "Max MOUYAL (DG, né 17/08/1968 à Casablanca) — Président : FINDEV 17 SPFPL. Co-porté par Nathanaël MOUYAL (expert-comptable spécialisé entreprises en difficulté).",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 26,
+    "track_record_reprises": ["7 acquisitions intégrées dans groupe OTSAR depuis 1999", "fusion KR EXPERTISE 25/08/2022"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": "1999-11-03",
+      "capital_eur": 52000,
+      "rcs": "424821395",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 25000,
+    "decomposition": {
+      "incorporels_eur": null,
+      "corporels_eur": null,
+      "stocks_eur": null
+    },
+    "charges_augmentatives_eur": 14700,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Chèque de banque jour audience"
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "engagements_L642_12_al4": false,
+    "passif_privilegie_repris": "Baux commerciaux non repris",
+    "retraites_chapeau_indemnites": "Reprise intégralité droits CP acquis y compris antérieurs au 15/05/2025 (avenant — amélioration vs offre initiale)"
+  },
+  "volet_social": {
+    "nb_salaries_repris": 3,
+    "nb_total_salaries": 7,
+    "pct_reprise": 42.9,
+    "categories_reprises": "1 Apprenti, 1 Assistant conseil, 1 Chef de mission",
+    "categories_non_reprises_raisons": "1 Assistant conseil + 2 Assistant conseil gestionnaire de paie + 1 Legal Department Manager — 4 non repris mais engagement intégration dans locaux OTSAR 17e (~500m²)",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Groupe OTSAR 7,8M€ CA — pôles comptable/social/juridique/missions exceptionnelles/conseil financier M&A/gestion patrimoine. Intégration salariés non repris dans locaux 17e.",
+    "vision_strategique_phrase": "Intégration scope E&S CP dans groupe OTSAR — synergie expertise comptable",
+    "pivots_prevus": "Accompagnement E. EZIN en sous-traitance",
+    "synergies_repreneur": "Groupe OTSAR 7 cabinets intégrés depuis 1999",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 300000,
+    "ca_an2_eur": null,
+    "ca_an3_eur": 369600,
+    "ebitda_an3_eur": 31700,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "non",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 65000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "tresorerie_securite_eur": 60800,
+    "partenaires_financiers": ["Groupe OTSAR (CA 5,2M€)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 1,
+    "items": [
+      "Communication des informations relatives aux travaux en cours et état des facturations à date — à lever au plus tard lors de la chambre du conseil"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "technique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_business_plan": true,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "erreurs_apparentes": ["Prix faible 25k€ vs trio interne 70k€"],
+    "faculte_substitution_precise": false,
+    "declaration_L642_3_signee": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe OTSAR fondé 1999 — 7 acquisitions intégrées — 7,8M€ CA groupe 2025",
+    "phrase_engagement_social": "Engagement intégration salariés non repris dans locaux OTSAR 17e (~500m²)",
+    "phrase_vision_strategique": "Accompagnement E. EZIN possible en sous-traitance — modernisation organisation",
+    "phrase_justification_prix": "Charges augmentatives droits CP acquis 10-19k€ → valeur globale offre 39 700€"
+  },
+  "bilan_repreneur": {
+    "ca_eur": 5191019,
+    "resultat_exploitation_eur": 1013271,
+    "resultat_net_eur": 754401,
+    "total_actif_eur": 2964949,
+    "capitaux_propres_eur": 1558410
+  }
+}

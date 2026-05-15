@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "offre_id": "38-CHOUETTE-01",
+    "dossier_id": "38-CHOUETTE",
+    "dossier_folder": "38 - SAS CHOUETTE",
+    "fichier_source_pdf": "38_SAS_CHOUETTE_offre1.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS CHOUETTE",
+    "cible_siren": "811691047",
+    "naf_secteur": "Agtech / Imaging agricole",
+    "sous_secteur": "Viticulture-Arboriculture (plateforme View 40M+ images, base clients +30000 ha)",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": null,
+    "nb_sites": 2,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-09-30",
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Maitre Aurelia Perdereau",
+    "aj_etude": "SELARL THEVENOT PARTNERS",
+    "mj_nom": "Maitre Frederique Levy",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": null,
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 9,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Christophe AUBE, ne 04/02/1988 a Sens. President fondateur d'AGREENCULTURE (creee 03/03/2016, 59 salaries a Toulouse).",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 10,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": "2016-03-03",
+      "capital_eur": 6647,
+      "rcs": "818791840",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 18500,
+    "decomposition": {
+      "incorporels_eur": 1000,
+      "corporels_eur": 10000,
+      "stocks_eur": 7500,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 338920,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Reglement par cheque de banque a l'ordre SELARL THEVENOT PARTNERS. Tresorerie propre AGREENCULTURE sans recours a l'emprunt — levee de 6 MEUR en decembre 2025.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": ["LLD Toyota Yaris HA-731-MR KINTO France (echeance 27/11/2026)"],
+    "contrats_clients_critiques_repris": ["Clients abonnements plateforme View", "Consortium BioSense (AgriSustain/IFV/CTIFL/Agri2000, fin 2026)"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 3,
+    "nb_total_salaries": null,
+    "pct_reprise": null,
+    "categories_reprises": "1 Ingenieur agronome resp. operationnel (Cadre), 1 Validation agronomique (ETAM), 1 Commercial Business Development (ETAM/Cadre) — tous sur le site Bordeaux. CCN 3018 (Bureaux d'etudes).",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {
+      "nb": null,
+      "calendrier": null,
+      "indemnites": null,
+      "accompagnement": null
+    },
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Reprise directe sans substitution ni societe ad hoc — choix strategique d'integration totale. Mobilisation 3-4 ETP AGREENCULTURE seniors dedies (engagement 289 000 EUR/an). Migration des 40M+ images, transfert plateforme View. Marque CHOUETTE maintenue.",
+    "vision_strategique_phrase": "Reprise directe sans substitution — integration totale chez AGREENCULTURE.",
+    "pivots_prevus": null,
+    "synergies_repreneur": "Integration plateforme View (40M+ images) + base clients +30000 ha dans l'offre AGREENCULTURE existante (ingenierie agricole). Consortium BioSense en cours conserve.",
+    "synergies_chiffrees_eur": 289000,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": "2 recrutements supplementaires prevus d'ici fin 2028. Budget commercial dedie 8000 EUR/an.",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 254533,
+    "ca_an2_eur": 606690,
+    "ca_an3_eur": 765855,
+    "ebitda_an3_eur": 191307,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 6000000,
+    "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": true,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Credit Agricole Ambition Agri-Agro Tech (actionnaire 25,27%)", "Pellenc (16,30%)", "Future Food Fund II Cooperatief U.A. Pays-Bas (15,96%)", "Amundi Avenir Innovation 4 (6,68%)", "Unilis AGTech (1,98%)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 2,
+    "items": [
+      "Obtention de la lettre d'intention (LOI) de CSGV et validation de l'accord de collaboration par CSGV",
+      "Validation de la presente offre par le conseil d'administration d'AGREENCULTURE, jusqu'au jeudi 16 avril 2026 a 12h00"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 200,
+    "nb_pages_corps_offre": 15,
+    "nb_pages_annexes": 185,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "technique",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": true,
+    "annexes_attest_bancaire": true,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": true,
+    "annexes_cni_dirigeants": true,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Total actif AGREENCULTURE 5,7 MEUR cite (bilan 2022) alors que CA 2024 est de 3,14 MEUR — confusion exercice"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {
+    "cabinet": "BARBIER LEGAL",
+    "avocat_nom": "Maitre Diane Beaupuy (Barreau de Paris)"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Reprise directe sans substitution ni creation societe ad hoc — choix strategique d'integration totale.",
+    "phrase_engagement_social": "Reprise sans limitation des droits acquis (conges payes, RTT, anciennete).",
+    "phrase_vision_strategique": "Integration totale chez AGREENCULTURE avec mobilisation 3-4 ETP seniors dedies (engagement 289 000 EUR/an).",
+    "phrase_justification_prix": "Prix global 18 500 EUR (incorporels 1 000 + corporels 10 000 + stocks 7 500) + charges augmentatives 338 920 EUR (integration 3 ETP + maintien conditions operationnelles 49 920 EUR + migration 40M+ images + droits salaries)."
+  }
+}

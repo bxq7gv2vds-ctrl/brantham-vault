@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "offre_id": "09-02a",
+    "dossier_id": "09",
+    "dossier_folder": "09 - SAS à associé unique EZIN & STRAUUS CP - Sigle E&S CP",
+    "fichier_source_pdf": "offre_02_gd74677090.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "EZIN & STRAUUS CP",
+    "cible_siren": "501233001",
+    "naf_secteur": "Expertise comptable / Commissariat aux comptes",
+    "effectif_total": 7,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-05-15",
+    "dldo": "2026-01-15",
+    "aj_nom": "Me Carole MARTINEZ",
+    "mj_nom": "Me Bernard CORRE"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "nb_offres_concurrentes": 3
+  },
+  "profil_repreneur": {
+    "forme": "salaries",
+    "age_parcours_dirigeant": "Trio : Eliane DODO (Legal Dept Mgr E&S 10 ans, Master droit sociétés 2025) + Michelle LIGOT (DEC 2005, directrice technique E&S 21 ans) + Patrice TOTIER (DEC 2005, expert-comptable indépendant Audit TOTIER depuis 2005, ~30 clients TPE/PME)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 21,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "oui",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS (substitution E&S - TAX&LAW)",
+      "capital_eur": 50000,
+      "rcs": "451436133",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 70000,
+    "decomposition": {
+      "incorporels_eur": 65000,
+      "corporels_eur": 5000
+    },
+    "charges_augmentatives_eur": 51758.64,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Apport total 150 000€ (70k€ prix + 80k€ fonds de roulement)"
+  },
+  "reprise_passif": {
+    "baux_repris": ["190 boulevard Haussmann 75008 Paris"],
+    "credit_bail_repris": [],
+    "engagements_L642_12_al4": false,
+    "passif_privilegie_repris": "Bail 3e étage Champigny-sur-Marne NON reconduit",
+    "retraites_chapeau_indemnites": "Reprise droits acquis salariés sans limitation de durée évalués 51 758,64€ au 31/01/2026 (intégralité y compris antérieurs)"
+  },
+  "volet_social": {
+    "nb_salaries_repris": 7,
+    "nb_total_salaries": 7,
+    "pct_reprise": 100,
+    "categories_reprises": "Intégralité 7 salariés E&S CP",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "engagement_maintien_emplois_duree_mois": 24,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Reprise interne (collaborateurs) + apport TOTIER ~230k€ CA externe. Optimisation logiciels (économie ~6k€/mois en remplaçant CEGID). Modernisation organisation.",
+    "vision_strategique_phrase": "Continuité totale activité + apport externe TOTIER + accompagnement EZIN consultant",
+    "pivots_prevus": "Engagement EZIN comme consultant aux côtés de la structure de reprise",
+    "synergies_repreneur": "Apport TOTIER cabinet indépendant (~230k€ CA, 30 clients TPE/PME)",
+    "plan_affaires_3ans_present": true,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 120000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": true,
+    "dette_bancaire_montant_eur": 30000,
+    "bfr_redemarrage_eur": 80000,
+    "partenaires_financiers": ["Fonds propres trio + emprunt personnel 30k€ Michelle LIGOT"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "technique",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": true,
+    "annexes_business_plan": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": [],
+    "faculte_substitution_precise": true,
+    "declaration_L642_3_signee": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Trio collaborateurs internes E&S + cabinet indépendant Audit TOTIER — capital final TOTIER 70%, LIGOT 20%, DODO 10%",
+    "phrase_engagement_social": "Reprise INTÉGRALE droits CP acquis (51 758,64€) — Maintien emploi 24 mois — Inaliénabilité 2 ans",
+    "phrase_vision_strategique": "Engagement Eugène EZIN en qualité de consultant aux côtés de la structure de reprise — apport TOTIER 230k€ CA complémentaire",
+    "phrase_justification_prix": "Apport total 150 000€ : 70 000€ prix + 80 000€ fonds de roulement"
+  }
+}

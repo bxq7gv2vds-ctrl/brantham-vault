@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "offre_id": "NEW-DIGITAL-COLLEGE-01",
+    "dossier_id": "NEW-DIGITAL-COLLEGE",
+    "dossier_folder": "61 - SAS DIGITAL COLLEGE",
+    "fichier_source_pdf": "offre_01_gd79308595.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS DIGITAL COLLEGE",
+    "cible_siren": "797546660",
+    "naf_secteur": "Enseignement supérieur privé / formation",
+    "sous_secteur": "Formation numérique / digital / data / IA / marketing - 1042 apprenants",
+    "ca_dernier_exercice_eur": 20493000,
+    "ebitda_eur": null,
+    "effectif_total": 56,
+    "nb_sites": 8,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-30",
+    "dldo": "2026-04-24",
+    "date_audience_cession": null,
+    "aj_nom": "Me Sandra BELADJINE + Me Aurélia PERDEREAU",
+    "aj_etude": "SELARL BCM + SELARL THEVENOT PARTNERS",
+    "mj_nom": "Me Stéphane GORRIAS + Me Pierre-Adrien GUIGON",
+    "mj_etude": "SCP BTSG² + SELARL GUIGON ASSOCIES",
+    "juge_commissaire": "M. Pascal GAGNA",
+    "causes_defaillance": "Dette obligataire 95M€ BARIACUM envers Barings. Risque sanctions DRIEETS ~40M€. Enquêtes PNF comptabilité irrégulière, fraude formations, blanchiment."
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 2,
+    "concurrents_resume": [
+      {"nom": "Consortium UPSTAIRS+VOX POPULI", "positionnement_2lignes": "NewCo ESS pour reprise globale Digital College 5 000€, 1 salarié sur 56 repris"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "asso_collectivite",
+    "age_parcours_dirigeant": "Stéphane DE MIOLLIS (DG Exécutif délégation 16/05/2024). IGS créée 1975.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["Groupe IGENSIA Education : 14 écoles (ESAM, ICD Business School, IGENSIA-RH, IMIS, IMSI, IPI, ISCPA, ABS Paris, Pédagogia, ISMM, ECM, CNVA, EMI, Business Science Institute, ESA Casablanca)"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "Association loi 1901 IGS, faculté de substitution toute entité Groupe IGENSIA Education",
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": "312495096 (SIREN) / RNA W751046479",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 10000,
+    "decomposition": {
+      "incorporels_eur": 10000,
+      "corporels_eur": 0,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": 10000
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds propres IGS ou Groupe IGENSIA Education - pas de financement bancaire",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Aucune dette reprise",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": null,
+    "nb_total_salaries": 56,
+    "pct_reprise": null,
+    "categories_reprises": "Salariés actuels en activité de l'École Conte (effectif non chiffré)",
+    "categories_non_reprises_raisons": "Aucun salarié de Digital College / Collège de Paris / autre entité du Groupe Collège de Paris ne sera repris",
+    "maintien_conditions_anciennete_salaire_lieu": "partiel",
+    "plan_licenciement": {
+      "nb": null,
+      "calendrier": null,
+      "indemnites": null,
+      "accompagnement": null
+    },
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "ATTENTION : Offre porte sur les ACTIONS de la filiale 100% COLLEGE DE PARIS-ECOLE CONTE (RCS Nanterre 399002807, NAF 85.59B), pas sur Digital College. Recentrage prévu École Conte sur cœur métier mode et design. Suppression du terme COLLEGE DE PARIS dans dénomination.",
+    "vision_strategique_phrase": "Groupe IGENSIA Education = groupe associatif non capitalistique, présent depuis 1975, 15 écoles",
+    "pivots_prevus": "Recentrage École Conte sur mode et design",
+    "synergies_repreneur": "Intégration dans Groupe IGENSIA (14 écoles existantes)",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "partiel",
+    "maintien_marques_savoir_faire": "partiel"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 10000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Groupe IGENSIA Education (CA 2025 56 498K€)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Examen comptabilité, bilans et éléments financiers sérieux et conformes",
+      "Maintien équipe dirigeante de l'École Conte (Mme Amira AGRAR)",
+      "Absence d'éléments et événements susceptibles d'affecter significativement le rachat"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": true,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": true,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Offre ne porte PAS sur Digital College mais sur sa filiale École Conte (périmètre très réduit) - incohérence avec dossier annoncé"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe IGENSIA Education - 14 écoles, 5 centres formation, 950 salariés, 80000 alumni, CA 2025 56 498K€",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": "Recentrage École Conte sur cœur métier mode et design",
+    "phrase_justification_prix": "10 000€ pour 100% actions filiale (École Conte) - aucune dette reprise"
+  }
+}

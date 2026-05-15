@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "offre_id": "36-LVL-01",
+    "dossier_id": "36-LVL",
+    "dossier_folder": "36 - SAS associé unique LVL POMANJOU",
+    "fichier_source_pdf": "36_SAS___associ__unique_LVL_POMANJOU_offre1.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "LVL POMANJOU",
+    "cible_siren": "407871656",
+    "naf_secteur": "Négoce de fruits et légumes, production agricole pommes",
+    "sous_secteur": "Filière fruits — HoneyCrunch",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 32,
+    "nb_sites": 2,
+    "type_procedure": "sauvegarde",
+    "date_ouverture": "2025-09-29",
+    "dldo": "2026-03-18",
+    "date_audience_cession": "2026-04-13",
+    "aj_nom": "Marine PACE / Paul-Henri AUDRAS",
+    "aj_etude": "SELARL 2M&Associés ; SELAS AJ UP",
+    "mj_nom": "Valérie LELOUP-THOMAS / Charlotte THIRION",
+    "mj_etude": "SELAFA MJA ; SELARL ATHENA",
+    "juge_commissaire": null,
+    "causes_defaillance": "Recul HoneyCrunch + station Verrières 30M€ mal absorbée + échec restructuration dette 6 mois"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Le tribunal a privilégié l'offre Vergers d'Anjou pour continuité sectorielle, garanties cash, accompagnement social 200k€, ancrage local <5km station Océane.",
+    "motifs_rejet_verbatim": "Indivisibilité avec 10 autres offres (château de cartes) ; ventilation prix renvoyée à 'ultérieurement' ; financement précisé 'ultérieurement' ; conflit d'intérêts James LAUNAY ex-salarié LVL POMANJOU ; engagement social en pointillés.",
+    "nb_offres_concurrentes": 5,
+    "concurrents_resume": [
+      {"nom": "LES VERGERS D'ANJOU", "positionnement_2lignes": "Coopérative locale 73 adhérents, 1 600 ha, 50k T fruits, 50M€ CA, 26M€ CP. Offre globale 7,04M€ pour SCICA POMANJOU + LPC + LVL POMANJOU + 200k€ mesures sociales."},
+      {"nom": "ADVANTAGE GROUP (Malte)", "positionnement_2lignes": "Offre hors plan L.642-19 sur 50% des titres DSA détenus par LVL POMANJOU. Prix 103.750€."},
+      {"nom": "DUTOIT INTERNATIONAL (Afrique du Sud)", "positionnement_2lignes": "Offre hors plan L.642-19 sur 50% des titres DSA. 103.750€. Conjointe ADVANTAGE."}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "James LAUNAY (CASTEL INVEST, ex-salarie LVL POMANJOU sites 37/72) ; Pierre LEROY (Maison Leroy 200 ans, Paysans Resistants) ; Nicolas VERGER (avocat arboriculteur, AGI-SERRE)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["Maison Leroy (continuité familiale 200 ans)", "Paysans Résistants (10 fermes sauvées)", "AGI-SERRE La Flèche", "Réseau Les Halles du Verger"],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS NewCo Les Vergers Launay (cap. 5.000€) + SAS BBM (cap. 10.000€ RCS Le Mans 103157244)",
+      "date_creation": null,
+      "capital_eur": 5000,
+      "rcs": "103157244 RCS Le Mans (BBM)",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "newco"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 200000,
+    "decomposition": {
+      "incorporels_eur": 90000,
+      "corporels_eur": 100000,
+      "stocks_eur": 9999,
+      "creances_clients_eur": null,
+      "immeubles_eur": 1,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 6290000,
+    "modalites_paiement": "NR",
+    "garanties_paiement": "Attestations de disponibilité des fonds communiquées au plus tard 09/04/2026",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": 190000,
+    "passif_privilegie_repris": "Reprise droits acquis salariés 500k€ + passif bancaire 2M€ (sociétés dont titres repris) + Emprunt Nanti Crédit Agricole Touraine Poitou 190k€ (SCEA LES BOUTINIERES, condition suspensive)",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 23,
+    "nb_total_salaries": 32,
+    "pct_reprise": 71.9,
+    "categories_reprises": "14 CDI + 3 CDD site Saint-Aubin-le-Depeint (37) + 6 CDI site Verrières-en-Anjou (49)",
+    "categories_non_reprises_raisons": "Non précisé",
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {
+      "nb": 9,
+      "calendrier": null,
+      "indemnites": "Reprise des droits acquis salariés 500k€ globalisée sur les 11 entités",
+      "accompagnement": null
+    },
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Diagnostic basé sur expérience James LAUNAY (ex-salarié sites 37/72) + actifs immobiliers station Saint Paterne. Synergies avec 150 ha de vergers et 7 ha de serres du consortium.",
+    "vision_strategique_phrase": "Patrimoine agricole familial, complémentarité sectorielle, automatisation et agriculture raisonnée pour accroître compétitivité",
+    "pivots_prevus": "Conditions suspensives sur licences HONEY CRUNCH/ZINGY/CHOUPETTE/KIKOKA + PINK LADY/JULIET via CARDELL EXPORT — montre que le consortium n'a aucune garantie d'opérabilité.",
+    "synergies_repreneur": "Exploitation 150ha vergers pommes + 7ha serres, 200 collaborateurs",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "partiel"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 6490000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": 1800000,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Fonds propres via comptes-courants des holdings"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 7,
+    "items": [
+      "Absence de garantie/emprunts éligibles L.642-12 al.4-5 (Crédit Agricole Touraine Poitou)",
+      "Accord pour purger Condition Accord Organes Procédure (renonciation compte-courant LVL POMANJOU vs SCEA LES VERGERS LAUNAY 500k€)",
+      "Accord avec INNATIS DEVELOPPEMENT pour transfert licences HONEY CRUNCH, ZINGY, CHOUPETTE, KIKOKA",
+      "Autorisation emballer pommes PINK LADY et JULIET avec CARDELL EXPORT",
+      "Transfert licence Pink Lady Import / carte commerciale liée station OCEANE Angers",
+      "Confirmation accès informatiques et transfert effectif des données",
+      "Confirmation transfert effectif du trieur optique"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": true,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "incoherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": [
+      "Indivisibilité avec 10 autres offres parallèles — risque systémique",
+      "James LAUNAY salarié actuel de LVL POMANJOU — conflit d'intérêts apparent",
+      "VCAPITAL coquille faible (cap. 500€, CP 80k€, créée 2024)",
+      "Engagement social conditionnel ('le Repreneur indiquera ultérieurement s'il a la possibilité d'améliorer le nombre de contrats de travail repris')"
+    ],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": "Cabinet FIDAL",
+    "avocat_nom": "Antoine BISDORFF / Delphine BRUNET / Sabrina DJELTI"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Patrimoine agricole et histoire familiale, complémentarité sectorielle (150 ha vergers + 7 ha serres), vision long terme automatisation et agriculture raisonnée",
+    "phrase_engagement_social": "Le Repreneur indiquera ultérieurement s'il a la possibilité d'améliorer le nombre de contrats de travail repris",
+    "phrase_vision_strategique": "Le Repreneur est composé d'une équipe de jeunes arboriculteurs, accompagnés de James LAUNAY",
+    "phrase_justification_prix": "La ventilation du Prix de Cession sera communiquée ultérieurement / Les modalités de financement de la reprise seront précisées ultérieurement par le Repreneur"
+  }
+}

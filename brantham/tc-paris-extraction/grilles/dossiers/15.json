@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "dossier_id": "15",
+    "dossier_folder": "15 - ASSOCIATION MEDICO DENTAIRE D'ENGHIEN LES BAINS",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "ASSOCIATION MEDICO-DENTAIRE D'ENGHIEN-LES-BAINS",
+    "cible_siren": "891296329 (RNA Paris)",
+    "naf_secteur": "Sante - pratique dentaire / centre de sante dentaire",
+    "sous_secteur": "Reseau DENTEKA - centre de soins dentaires Enghien-les-Bains (95880)",
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-08-20",
+    "dldo": null,
+    "date_audience_cession": "2026-02-09",
+    "aj_nom": "Me Sandra BELADJINE ; Me Isabelle DIDIER",
+    "aj_etude": "SELARL BCM / SELAS SPE O3 PARTNERS",
+    "mj_nom": "Me Julie PERROT ; Me Pablo CASTANON",
+    "mj_etude": "SELARL ACTIS Mandataires Judiciaires / SELARL ASTEREN",
+    "juge_commissaire": "M. Jean-Luc BOUR",
+    "causes_defaillance": "Defaillance reseau DENTEKA - 4 associations medico-dentaires en procedures collectives (Claye-Souilly, Colmar 68, Enghien, ADOS 92). Cessation des paiements fixee au 07/07/2025. Bail commercial detenu par DENTIGEST (groupe DENTEKA en RJ).",
+    "nb_offres_recues": 4,
+    "effectif_total": 9,
+    "specificites": "Numero FINESS non transferable judiciairement. Agrement ARS Ile-de-France (ARS 95) requis. Bail commercial GALIMMO/Consorts CAUCHOIX detenu par DENTIGEST. Materiel BAIL ACTEA/MUTUALEASE en revendication."
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 1,
+    "concurrents_resume": [
+      {
+        "nom": "MEDIVI (Reseau PLACE DENTAIRE / Reseau DENTEKA)",
+        "positionnement_2lignes": "Seule candidate. 4 offres successives 12/01, 27/01, 04/02, 11/02/2026. Offre finale 2.600 EUR HT indivisible avec Colmar 68. 7 emplois repris sur 9. Substitution Association Centre Dentaire Enghien (creee 16/01/2026, President Ishac HADDOUK)."
+      }
+    ],
+    "note_concurrence": "Une seule candidate (MEDIVI) - pas de competition. Tribunal a formule observations a l'audience du 09/02/2026 ayant conduit a offre amelioree finale 11/02/2026."
+  },
+  "_related_offers": ["15-01", "15-02", "15-03", "15-04", "15-05"]
+}

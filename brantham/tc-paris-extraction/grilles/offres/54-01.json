@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "offre_id": "54-01",
+    "dossier_id": "54",
+    "dossier_folder": "54 - SAS MAISON SOLAIRE VOLTALIA",
+    "fichier_source_pdf": "54_SAS_MAISON_SOLAIRE_VOLTALIA_offre1.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "MAISON SOLAIRE VOLTALIA",
+    "cible_siren": "509962841",
+    "naf_secteur": "Energies renouvelables / electricite batiment",
+    "sous_secteur": "Photovoltaique residentiel + PAC + isolation thermique + menuiseries",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 48,
+    "nb_sites": null,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-02-19",
+    "dldo": "2026-04-08",
+    "date_audience_cession": null,
+    "aj_nom": "Maitre Lou Flechard",
+    "aj_etude": "SCP CBF ASSOCIES",
+    "mj_nom": "Maitre Jean-Charles Demortier",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "Nicolas Jufforgues",
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 47,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_concurrent",
+    "age_parcours_dirigeant": "Saramfarz MOHAMED MUNSOOR (President/Gerant de GROUPE MULTI COP) — ne 01/04/1981 a Jaffna Sri Lanka — nationalite francaise — domicilie 178 rue Jean Mermoz 13008 Marseille. Actionnaire unique du groupe.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SARL (associe unique)",
+      "date_creation": "2017-01-25",
+      "capital_eur": 2000000,
+      "rcs": "825087588",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 60000,
+    "decomposition": {
+      "incorporels_eur": 55000,
+      "corporels_eur": 5000,
+      "stocks_eur": 40000,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 530000,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Engagement 100 000 EUR sur fonds propres + besoin tresorerie 530 000 EUR au mois de juin 2026 finance integralement par fonds propres. Financement global retournement evalue a 200 000 EUR.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Leroy Merlin", "ADEO", "Weldom", "ENI", "IKEA"],
+    "contrats_fournisseurs_repris": ["Huawei", "Qcells", "SolarEdge", "Enphase", "LG", "Hitachi", "Panasonic", "Atlantic", "Thermor", "Airwell", "Saint-Gobain", "K2 Systems", "Total", "Symbiote", "Enstall"],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 14,
+    "nb_total_salaries": 48,
+    "pct_reprise": 29.2,
+    "categories_reprises": "1 Direction Generale, 1 Vente Retail Senior, 1 Manager Operations, 1 Animateur reseau Commerce, 2 Coordinateurs chantiers Operations, 5 Apprentis Business Developpement Logistique SAV, 2 Televendeurs Commerce b2c, 1 IT Developpement",
+    "categories_non_reprises_raisons": "34 salaries non repris (sur 48 en CDI au 26/02/2026) — beneficient priorite reembauchage 12 mois.",
+    "maintien_conditions_anciennete_salaire_lieu": "partiel",
+    "plan_licenciement": {
+      "nb": 34,
+      "calendrier": null,
+      "indemnites": null,
+      "accompagnement": "Priorite reembauchage 12 mois"
+    },
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Groupe MULTI COP (CA consolide 38 MEUR au 31/12/2024, 200+ collaborateurs, 50 000+ chantiers, 5 plateformes logistiques nationales Bordeaux/Ile-de-France/Nimes/Gardanne/Frejus, couverture 100% metropole) reprend MAISON SOLAIRE VOLTALIA via sa filiale SOLAR ONE 100%. Capacite operationnelle immediate via CRM proprietaire transferable, mandataire CEE (EBS/Drapo/Total), mandataire ANAH (MaPrimeRenov).",
+    "vision_strategique_phrase": "Reprise par GROUPE MULTI COP via sa filiale operationnelle SOLAR ONE — extension de la couverture nationale photovoltaique et mutualisation logistique.",
+    "pivots_prevus": "Restructuration effectif (-71% salaries non repris).",
+    "synergies_repreneur": "CRM proprietaire MULTI COP (gestion leads, planning, tickets SAV, declarations mairie, suivi Consuel, statistiques temps reel) immediatement transferable. Qualifications RGE (QualiPAC, QualiPV, QualiB, QualiELEC, Ventilation+, IRVE, QUALIBAT) du groupe. 5 plateformes logistiques nationales.",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": 200000,
+    "capex_calendrier": "Juin 2026 (530 000 EUR BFR) + retournement 200 000 EUR.",
+    "capex_nature": "BFR de redemarrage + financement retournement.",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "NR",
+    "maintien_site": "partiel",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 530000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": 530000,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Credit Agricole (partenaire financement chantiers)", "Cetelem", "Domofinance", "Projexio by Cofidis"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 5,
+    "items": [
+      "Indivisibilite de l'Offre dans toutes ses composantes",
+      "Communication de la documentation non encore disponible en data room",
+      "Transfert au Candidat des autorisations administratives requises pour assurer continuation activite",
+      "Transfert au profit du Candidat des contrats de leasing necessaires a la poursuite d'exploitation",
+      "Maintien des contrats en cours avec Leroy Merlin / ADEO / Weldom / ENI / IKEA (CONDITION SOULIGNEE)"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 38,
+    "nb_pages_corps_offre": 20,
+    "nb_pages_annexes": 18,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "commercial",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": true,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": true,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": true,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Document partiellement lu (pages 1-20 sur 38 — annexes financieres et statuts partiels)"],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe MULTI COP : CA consolide 38 MEUR, 200+ collaborateurs, 50 000+ chantiers, 5 plateformes logistiques nationales, couverture 100% metropole.",
+    "phrase_engagement_social": "Reprise de 14 contrats de travail CDI sur 48 — 34 salaries non repris beneficient d'une priorite de reembauchage 12 mois.",
+    "phrase_vision_strategique": "Reprise par GROUPE MULTI COP via sa filiale operationnelle SOLAR ONE — bras arme du Groupe pour reprise, mutualisation infrastructure CRM proprietaire et qualifications RGE.",
+    "phrase_justification_prix": "Prix 60 000 EUR (incorporels 55 000 + corporels 5 000) + stocks 40 000 EUR forfaitaires + engagement 100 000 EUR fonds propres + besoin tresorerie 530 000 EUR juin 2026 + financement retournement 200 000 EUR."
+  }
+}

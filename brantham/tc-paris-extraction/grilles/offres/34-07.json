@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "offre_id": "34-07",
+    "dossier_id": "34",
+    "dossier_folder": "34 - SAS COSA",
+    "fichier_source_pdf": "offre_07_gd72086920.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS COSA VOSTRA",
+    "cible_siren": "798459541",
+    "effectif_total": 29,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-12-10",
+    "dldo": "2026-01-06",
+    "date_audience_cession": "2026-03-05",
+    "aj_nom": "Me Sandra Beladjine",
+    "mj_nom": "Me Stéphane Gorrias"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_rejet_verbatim": "Simple LOI 1€ symbolique. Offre complète promise sous 1 semaine mais jamais formalisée. Repreneur suisse (ex-AMARIS GROUP Luxembourg) sans visibilité concrète sur projet de reprise.",
+    "nb_offres_concurrentes": 6
+  },
+  "profil_repreneur": {
+    "forme": "repreneur_etranger",
+    "age_parcours_dirigeant": "Mark-Corentin COT-MAGNAS (signataire habilité) — Président : Olivier BROURHANT",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "forte_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "Société anonyme suisse",
+      "date_creation": "2015-12-10",
+      "capital_eur": 104000,
+      "rcs": "CHE-476.382.049",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 1,
+    "decomposition": {
+      "incorporels_eur": null,
+      "corporels_eur": null
+    },
+    "modalites_paiement": "NR",
+    "garanties_paiement": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "engagements_L642_12_al4": false
+  },
+  "volet_social": {
+    "nb_salaries_repris": 1,
+    "nb_total_salaries": 29,
+    "pct_reprise": 3.4,
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "absent",
+    "vision_strategique_phrase": "Renforcement pôle conseil métier et digital du Groupe Mantu",
+    "synergies_repreneur": "Groupe Mantu — conseil tech et créatif international",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "NR",
+    "maintien_marques_savoir_faire": "NR"
+  },
+  "financement": {
+    "apport_origine_documentee": "NR",
+    "dette_bancaire_engagement_ferme": false
+  },
+  "engagements_specifiques": {"non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 5,
+    "items": [
+      "Finalisation audit satisfaisant",
+      "Maintien principaux contrats clients dans conditions similaires",
+      "Autorisation substitution par filiale Mantu (art. L.642-9 al.3)",
+      "Confirmation banques art. L.642-12 al. 4 et 5",
+      "Absence d'événement significatif entre dépôt et audience"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "commercial",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "coherence_prix_BP": "NR",
+    "erreurs_apparentes": ["LOI sans offre complète formalisée", "Prix 1€ symbolique", "Repreneur étranger (Suisse) sans implantation FR détaillée"],
+    "faculte_substitution_precise": true,
+    "declaration_L642_3_signee": false
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Mantu : conseil tech et créatif international — renforcement pôle conseil métier et digital",
+    "phrase_vision_strategique": "Offre complète promise sous 1 semaine",
+    "phrase_justification_prix": "Prix symbolique 1€ au stade de la lettre — à préciser ultérieurement"
+  }
+}

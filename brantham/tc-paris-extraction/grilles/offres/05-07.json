@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "offre_id": "05-07",
+    "dossier_id": "05",
+    "dossier_folder": "05 - SARL à associé unique MY LITTLE FINGER",
+    "fichier_source_pdf": "offre_07_gd72167575.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SARL MY LITTLE FINGER",
+    "cible_siren": "512055286",
+    "naf_secteur": "Restauration / bar / club",
+    "effectif_total": 3,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-01-07",
+    "dldo": "2026-01-06",
+    "date_audience_cession": "2026-01-06",
+    "aj_nom": "Maitre Marine PACE",
+    "aj_etude": "SELARL 2M & Associes",
+    "mj_nom": "Maitre Stephane Gorrias",
+    "mj_etude": "SCP BTSG"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "nb_offres_concurrentes": 8
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Joseph Didier SAFFAR (ne 31/12/1966 Paris 10 - President NIKA CONSEIL, 100% capital) - dirigeant designe pour AURUM 8: Arthur SILBEREIS (ne 23/02/1991 Paris 15)",
+    "experience_sectorielle_oui_non": "non",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "faible_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS (a constituer - AURUM 8)",
+      "capital_eur": 1000,
+      "rcs": "905202834 (NIKA CONSEIL existante)",
+      "type_vehicule": "substitution_prevue",
+      "kbis_present_en_annexe": true
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 10000,
+    "decomposition": {
+      "incorporels_eur": 5000,
+      "corporels_eur": 4000,
+      "stocks_eur": 1000
+    },
+    "modalites_paiement": "NR",
+    "garanties_paiement": "Apport en capital + comptes courants associes (40k EUR apport initial)"
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail commercial 16 av Friedland conclu 01/04/2009"],
+    "engagements_L642_12_al4": false
+  },
+  "volet_social": {
+    "nb_salaries_repris": 3,
+    "nb_total_salaries": 3,
+    "pct_reprise": 100,
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "engagement_maintien_emplois_duree_mois": 24
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 875000,
+    "ca_an2_eur": 893000,
+    "ca_an3_eur": 910000,
+    "ebitda_an3_eur": 38000,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 40000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "bfr_redemarrage_eur": 5000,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "maintien_territoire_site_duree": "Aucune cession d'actifs prevue 2 ans",
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_business_plan": true,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_cni_dirigeants": true,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "personnalisation_visite_site": false,
+    "coherence_prix_BP": "incoherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["NIKA CONSEIL CA 16k EUR vs BP cible CA 875k EUR sur cible - mismatch demonstration capacite financiere"],
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {
+    "phrase_engagement_social": "Maintien 3 emplois pendant 2 ans. Aucune cession d'actifs prevue 2 ans."
+  }
+}

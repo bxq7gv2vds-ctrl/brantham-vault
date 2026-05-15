@@ -1,0 +1,37 @@
+{
+  "meta": {"offre_id": "33-JEFFREY-04", "dossier_id": "33-JEFFREY", "dossier_folder": "33 - SAS JEFFREY CAGNES PARIS", "fichier_source_pdf": "33_SAS_JEFFREY_CAGNES_PARIS_offre4.pdf", "extracted_at": "2026-05-15", "extracted_by": "claude-agent-batch08", "confidence": "high"},
+  "identification": {"cible_raison_sociale": "JEFFREY CAGNES PARIS", "cible_siren": "898627872", "naf_secteur": null, "sous_secteur": "Pâtisserie 4 boutiques", "ca_dernier_exercice_eur": null, "ebitda_eur": null, "effectif_total": 30, "nb_sites": 4, "type_procedure": "RJ", "date_ouverture": "2025-09-24", "dldo": "2026-03-31", "date_audience_cession": null, "aj_nom": "Maître Johanna ROUSSELET", "aj_etude": "SCP ABITBOL & ROUSSELET", "mj_nom": "Maître Jean-Charles DEMORTIER", "mj_etude": "SELAFA MJA", "juge_commissaire": null, "causes_defaillance": "Errances gestion"},
+  "issue_dossier": {"cette_offre_retenue": "en_attente", "issue_globale_dossier": "en_attente", "motifs_tribunal_verbatim": null, "motifs_rejet_verbatim": null, "nb_offres_concurrentes": 4, "concurrents_resume": []},
+  "profil_repreneur": {
+    "forme": "dirigeant_historique",
+    "age_parcours_dirigeant": "Jeffrey CAGNES (Chef pâtissier, ancien directeur opérationnel) + Philippe SCHNEIDER (associé minoritaire, DESCF, ex-Schneider Packaging/PACKEOS/VIMABA)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 15,
+    "track_record_reprises": ["Schneider Packaging (transmis à 3 enfants 10/2025)"],
+    "capacite_financiere_demontree": "intention_seule",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {"forme_juridique": "Société à constituer (Jeffrey Cagnes mandataire majoritaire)", "date_creation": null, "capital_eur": null, "rcs": null, "kbis_present_en_annexe": false, "type_vehicule": "newco"}
+  },
+  "structure_prix": {"prix_total_eur": 30000, "decomposition": {"incorporels_eur": 5000, "corporels_eur": 25000, "stocks_eur": null, "creances_clients_eur": null, "immeubles_eur": null, "titres_eur": null}, "charges_augmentatives_eur": 133523, "modalites_paiement": "comptant_audience", "garanties_paiement": "Total 163523€ + 30 contrats de travail. Reconstitution dépôts garantie max 90K€. Droits acquis salariés 43523€. Frais acte max 5K€ HT.", "cheque_consignation_eur": null},
+  "reprise_passif": {"baux_repris": ["Bail Rue des Moines 24 rue des Moines 75017", "Bail Montorgueil 1-3 rue Léopold Bellan 75002"], "credit_bail_repris": [], "contrats_clients_critiques_repris": [], "contrats_fournisseurs_repris": [], "engagements_L642_12_al4": false, "engagement_L642_12_montant_eur": null, "passif_privilegie_repris": null, "retraites_chapeau_indemnites": null},
+  "volet_social": {
+    "nb_salaries_repris": 31,
+    "nb_total_salaries": 41,
+    "pct_reprise": 75.6,
+    "categories_reprises": "31/41 postes (Levallois exclu). Détail : 2 Chef exécutif, 1 Admin compta, 1 Resp communication, 1 Pâtissier R&D, 1 Sous-chef, 1 Resp tourier, 1 Chef de poste, 1 Chef de partie, 4 Commis pâtissier, 2 Tourier, 1 Commis cuisinier, 1 Resp boutique, 6 Vendeur (sur 9), 1 Agent conditionnement, 1 Conseiller vente, 1 Resp toutes boutiques apprenti, 1 Conseiller vente apprenti, 3 Commis pâtissier apprenti",
+    "categories_non_reprises_raisons": "Levallois exclu (bail expressément exclu) + cherry-pick vendeurs/apprentis",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 10, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {"diagnostic_qualification": "operationnel", "diagnostic_resume": "Structuration inverse vs CONTICINI FRANCHISE — Cagnes assume mandat social et majoritaire. Annexe 2 prévisionnels en cours de finalisation.", "vision_strategique_phrase": "Reprise globale par le Chef fondateur", "pivots_prevus": "Récupération marques (déjà propriété Cagnes)", "synergies_repreneur": "Marques Jeffrey Cagnes propriété personnelle", "synergies_chiffrees_eur": null, "capex_montant_eur": null, "capex_calendrier": null, "capex_nature": null, "plan_affaires_3ans_present": false, "ca_an1_eur": null, "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null, "hypotheses_qualification": "absentes", "maintien_site": "partiel", "maintien_marques_savoir_faire": "oui"},
+  "financement": {"apport_fonds_propres_eur": null, "apport_origine_documentee": "oui_simple_mention", "dette_bancaire_engagement_ferme": false, "dette_bancaire_lettre_confort": false, "dette_bancaire_montant_eur": null, "credit_bail_repris_oui_non": false, "affacturage_dailly": false, "bfr_redemarrage_eur": null, "tresorerie_securite_eur": null, "partenaires_financiers": ["Schneider (associé minoritaire)"]},
+  "engagements_specifiques": {"incessibilite_temporaire_mois": null, "caution_dirigeant_montant_eur": null, "caution_dirigeant_duree_mois": null, "penalites_non_respect_social_eur": null, "maintien_territoire_site_duree": null, "non_demembrement": false},
+  "conditions_suspensives": {"aucune_cs": false, "nb_conditions": 3, "items": ["Absence modification substantielle valeur actifs", "Signature accord avec tiers investisseur", "Réalisation audit satisfaisant"], "agressivite_envers_dirigeants": "aucune"},
+  "forme_presentation": {"nb_pages_total": null, "nb_pages_corps_offre": null, "nb_pages_annexes": null, "structure_dominante": "sommaire_detaille", "ton_dominant": "mixte", "executive_summary_present": false, "annexes_kbis": false, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false, "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false, "annexes_business_plan": false, "annexes_organigramme_cible": false, "annexes_comptes_sociaux_3ans": false, "annexes_attest_fisc_sociale": false, "annexes_rib": false, "annexes_cni_dirigeants": false, "signature_docusign": true, "qualite_redactionnelle": "dense"},
+  "signaux_faibles": {"soutien_collectivite_locale": false, "soutien_clients_cles": false, "soutien_banques_historiques": false, "personnalisation_visite_site": false, "personnalisation_rencontre_equipes": true, "personnalisation_etude_contrats": false, "coherence_prix_BP": "NR", "differenciation_concurrents_explicite": false, "elements_emotionnels_sociaux": true, "erreurs_apparentes": ["Tableau effectifs incohérent : total 41 postes affiché mais 31 repris, 6 vendeurs sur 9, 1 resp boutique sur 3"], "declaration_L642_3_signee": false, "faculte_substitution_precise": true},
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {"phrase_positionnement": "Offre du salarié et Chef Jeffrey Cagnes — structuration inverse vs CONTICINI FRANCHISE", "phrase_engagement_social": "Reprise 31 postes sur 41 (≈79% effectifs hors Levallois) + 30 contrats de travail", "phrase_vision_strategique": "Récupération mandat social par fondateur", "phrase_justification_prix": "30K€ prix + 133K€ engagements sociaux = 163K€ valeur économique"}
+}

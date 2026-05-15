@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "offre_id": "GM_IMMO-03",
+    "dossier_id": "GM_IMMO",
+    "dossier_folder": "13 - SCI GM IMMO",
+    "fichier_source_pdf": "13_SCI_GM_IMMO_offre3.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium",
+    "note_meta": "PDF >5MB non extrait — prix issu de la table de référence MUVICO (CSV INSULA)."
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI GM IMMO",
+    "naf_secteur": "Immobilier",
+    "type_procedure": "RJ",
+    "dldo": "2026-03-02",
+    "aj_nom": "Maître Hélène BOURBOULOUX",
+    "mj_nom": "Maître Valérie LELOUP-THOMAS"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "nb_offres_concurrentes": 6
+  },
+  "profil_repreneur": {
+    "forme": "family_office",
+    "age_parcours_dirigeant": "Victor COHEN — 198 Avenue Victor Hugo 75116 Paris",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "MUVICO",
+      "type_vehicule": "existante",
+      "kbis_present_en_annexe": false
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 400000,
+    "decomposition": {
+      "incorporels_eur": null,
+      "corporels_eur": 400000,
+      "immeubles_eur": 400000
+    },
+    "modalites_paiement": "NR",
+    "garanties_paiement": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "engagements_L642_12_al4": false,
+    "passif_privilegie_repris": "Offre globale Foncière Melot Gouband 26 SCI/SNC"
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 0,
+    "pct_reprise": null,
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "NR",
+    "vision_strategique_phrase": "Reprise globale portefeuille foncier Melot-Gouband",
+    "synergies_repreneur": "Groupe foncier patrimonial (portefeuille immobilier diversifié)",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "NR",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "NR"
+  },
+  "financement": {
+    "apport_origine_documentee": "NR",
+    "dette_bancaire_engagement_ferme": false
+  },
+  "engagements_specifiques": {"non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": null,
+    "items": ["Non extraites — PDF >5MB"],
+    "agressivite_envers_dirigeants": "NR"
+  },
+  "forme_presentation": {
+    "structure_dominante": "NR",
+    "ton_dominant": "NR",
+    "executive_summary_present": false,
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "coherence_prix_BP": "NR",
+    "erreurs_apparentes": ["PDF >5MB non extrait"],
+    "declaration_L642_3_signee": false
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe foncier patrimonial Victor COHEN — offre globale 26 SCI Foncière Melot-Gouband",
+    "phrase_vision_strategique": "Conservation portefeuille consolidé",
+    "phrase_justification_prix": "Portion SCI GM IMMO : 400 000€ (offre initiale 09/02/2026)"
+  }
+}

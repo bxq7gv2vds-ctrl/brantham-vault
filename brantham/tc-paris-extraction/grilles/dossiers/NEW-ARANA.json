@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "dossier_id": "NEW-ARANA",
+    "dossier_folder": "NEW_57 - SAS ARANA FACILITIES",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "ARANA FACILITIES",
+    "cible_siren": "437641194",
+    "forme_juridique": "SAS",
+    "capital_social_eur": 15000,
+    "rcs": "437 641 194 RCS Paris",
+    "adresse_siege": "60 rue la Boétie, 75008 Paris",
+    "naf_secteur": "Services aux entreprises (accueil B2B / hospitality)",
+    "sous_secteur": "Hôtes/hôtesses, barmen, sécurité filtrante, voituriers — événementiel et corporate",
+    "ca_dernier_exercice_eur": null,
+    "effectif_total": 11,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-24",
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Maître Aurélia PERDEREAU",
+    "aj_etude": "SELARL THEVENOT PARTNERS",
+    "mj_nom": "Maître Julia RUTH",
+    "mj_etude": "SELARL ASTEREN",
+    "juge_commissaire": null,
+    "tribunal": "Tribunal des activités économiques de Paris",
+    "causes_defaillance": null,
+    "broker_agence_mandate": null
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "date_jugement_issue": null,
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_synthese": null,
+    "nb_offres_concurrentes": 1,
+    "concurrents_resume": [
+      {"nom": "GR WELCOME SERVICES (Stéphane ACTIS / Jacques LIGET — groupe GR 10M€ CA)", "positionnement_2lignes": "Concurrent direct accueil B2B Paris, 140 hôtes/hôtesses CDI, RSE EcoVadis. Reprise 10/11 emplois, prix 50k€, bail repris, BP synergique. Offre carrée 24p Docusign avocat CMS."}
+    ],
+    "enseignement_clef": "Profil-robot du repreneur 'idéal' sur ce type de service B2B : concurrent direct du même secteur géographique, groupe profitable (RSE label), prix raisonnable couvrant les corporels, reprise massive emplois (90%+), BP synergique chiffré, conseil top tier (CMS), aucune CS exotique. Pattern à archiver dans gagnants probables."
+  },
+  "sources_externes": []
+}

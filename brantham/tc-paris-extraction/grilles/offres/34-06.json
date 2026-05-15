@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "offre_id": "34-06",
+    "dossier_id": "34",
+    "dossier_folder": "34 - SAS COSA",
+    "fichier_source_pdf": "offre_06_gd72087191.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS COSA VOSTRA",
+    "cible_siren": "798459541",
+    "effectif_total": 29,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-12-10",
+    "dldo": "2026-01-06",
+    "date_audience_cession": "2026-03-05",
+    "aj_nom": "Me Sandra Beladjine",
+    "mj_nom": "Me Stéphane Gorrias"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "amelioree_puis_retenue",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_rejet_verbatim": "Version compacte (253KB / 18 pages) de l'offre initiale Agence IF — améliorée à 70k€/16 emplois le 13/02/2026 (34-01a).",
+    "nb_offres_concurrentes": 6
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Alfred Corchia, né 22/10/1952 à Oran, domicilié 14 rue de Tournon 75006 Paris",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": ["Ipso Facto", "Vital", "Welove", "Made for Com", "Armstrong", "Raison Pure", "Groupe Axxess", "Martine Leherpeur Conseil", "Parishanghai"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "SARL",
+      "date_creation": "2017-01-09",
+      "capital_eur": 5000,
+      "rcs": "824813430",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 5000,
+    "decomposition": {
+      "incorporels_eur": 3000,
+      "corporels_eur": 2000
+    },
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds propres"
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "engagements_L642_12_al4": false
+  },
+  "volet_social": {
+    "nb_salaries_repris": 3,
+    "nb_total_salaries": 29,
+    "pct_reprise": 10.3,
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "vision_strategique_phrase": "Offre plancher à améliorer",
+    "synergies_repreneur": "WeThePeople-Group / ACB Group",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false
+  },
+  "engagements_specifiques": {"non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Pas d'éléments entraînant une dégradation substantielle de l'activité (ex: perte d'un top 5 client)",
+      "Audits et études de reprise concluants",
+      "Rencontre avec les effectifs de la société concluante"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 18,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_comptes_sociaux_3ans": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "coherence_prix_BP": "NR",
+    "erreurs_apparentes": ["Version doublon plancher"],
+    "faculte_substitution_precise": false,
+    "declaration_L642_3_signee": true
+  },
+  "avocat_repreneur": {"cabinet": "AGN Avocats Paris", "avocat_nom": "Me Valentin MANGENOT"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "L'Offre est présentée par la société Agence IF, société à responsabilité limitée ayant son siège social au 14 rue de Tournon, 75006 Paris",
+    "phrase_vision_strategique": "Offre plancher / à améliorer",
+    "phrase_justification_prix": null
+  },
+  "bilan_repreneur": {
+    "ca_eur": 6945541,
+    "ca_export_eur": 371534,
+    "resultat_exploitation_eur": 421453,
+    "resultat_net_eur": 225560,
+    "total_actif_eur": 4478706,
+    "capitaux_propres_eur": 1153830
+  }
+}

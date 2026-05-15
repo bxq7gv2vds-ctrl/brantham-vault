@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "offre_id": "NEW-DIGITAL-COLLEGE-02",
+    "dossier_id": "NEW-DIGITAL-COLLEGE",
+    "dossier_folder": "61 - SAS DIGITAL COLLEGE",
+    "fichier_source_pdf": "offre_02_gd79308703.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS DIGITAL COLLEGE",
+    "cible_siren": "797546660",
+    "naf_secteur": "Enseignement supérieur privé / formation",
+    "sous_secteur": "Formation numérique - 1042 apprenants - 8 campus",
+    "ca_dernier_exercice_eur": 20493000,
+    "ebitda_eur": null,
+    "effectif_total": 56,
+    "nb_sites": 8,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-30",
+    "dldo": "2026-04-24",
+    "date_audience_cession": null,
+    "aj_nom": "Me Sandra BELADJINE + Me Aurélia PERDEREAU",
+    "aj_etude": "SELARL BCM + SELARL THEVENOT PARTNERS",
+    "mj_nom": "Me Stéphane GORRIAS + Me Pierre-Adrien GUIGON",
+    "mj_etude": "SCP BTSG² + SELARL GUIGON ASSOCIES",
+    "juge_commissaire": "M. Pascal GAGNA",
+    "causes_defaillance": "Dette 95M€ Barings - sanctions DRIEETS - enquêtes PNF"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 2,
+    "concurrents_resume": [
+      {"nom": "INSTITUT DE GESTION SOCIALE (IGS)", "positionnement_2lignes": "Asso loi 1901 IGENSIA - offre uniquement sur École Conte (filiale 100%), pas sur Digital College"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "asso_collectivite",
+    "age_parcours_dirigeant": "Edwige-Laure MOMBOULI (Présidente Upstairs) + Armel MOMBOULI (Président Vox Populi). Upstairs = société à mission ESS. Vox Populi = association insertion QPV 25 ans d'expérience.",
+    "experience_sectorielle_oui_non": "partielle",
+    "experience_sectorielle_annees": 25,
+    "track_record_reprises": ["Programme PopSkills (3000 bénéficiaires)"],
+    "capacite_financiere_demontree": "faible_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "NewCo à constituer (50% Upstairs / 20% Vox Populi / 20% investisseur / 10% pool cadres)",
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": "991476466 (Upstairs) / 833426158 (Vox Populi)",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 5000,
+    "decomposition": {
+      "incorporels_eur": null,
+      "corporels_eur": null,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Virement intégral Prix de Cession sur compte CDC AJ avant audience",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Dettes antérieures à l'Entrée en Jouissance EXCLUES",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 1,
+    "nb_total_salaries": 56,
+    "pct_reprise": 1.79,
+    "categories_reprises": "1 salarié (avec engagement amélioration périmètre social)",
+    "categories_non_reprises_raisons": "55 salariés sur 56 non repris à ce stade",
+    "maintien_conditions_anciennete_salaire_lieu": "partiel",
+    "plan_licenciement": {
+      "nb": 55,
+      "calendrier": null,
+      "indemnites": null,
+      "accompagnement": "Aucun licenciement économique pendant 12 mois (post-reprise). Priorité réembauche 24 mois. Convention collective n°1516 maintenue."
+    },
+    "engagement_maintien_emplois_duree_mois": 12,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Reprise globale Digital College + partie d'un projet de reprise Groupe Collège de Paris en 4 pôles (Business Schools / Formation Pro & QPV / Executive / Tech & IA). Digital College destiné à devenir Pôle 4 'Street Coder'.",
+    "vision_strategique_phrase": "Vox Populi apporte programme PopSkills (3000 bénéficiaires, partenaires AXA / BlackRock / BNP Paribas), philosophie pédagogique FLOW",
+    "pivots_prevus": "Repositionnement Tech & IA Street Coder",
+    "synergies_repreneur": "Réseau Vox Populi insertion QPV + partenaires AXA, BlackRock, BNP Paribas",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": "Reconstitution socle réglementaire (déclaration activité, Qualiopi, RNCP)",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "NR",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": true,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Crédit Lombard Vox Populi vers Upstairs", "Prêt LBO senior banque historique", "Apport fonds propres investisseur institutionnel (négociations en cours)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 10,
+    "items": [
+      "Finalisation due diligences juridiques et financières satisfaisantes",
+      "Engagement ferme des détenteurs des droits PI (certifications RNCP, marques) de transférer au repreneur pour 1€",
+      "Engagement actionnaires tiers de renoncer aux clauses restrictives de cession",
+      "Purge effective sûretés / droits rétention sur Actifs Repris",
+      "Engagement OPCO / CPF / Régions / France Travail de régler intégralement sommes dues et rétablir délais normaux",
+      "Obtention autorisations administratives requises",
+      "Non-opposition DRIEETS à nouveau numéro déclaration d'activité pour NewCo",
+      "Engagement de principe certificateurs RNCP sur maintien conventions partenariat",
+      "Accord parties sur financement (crédit Lombard + prêt LBO + apport fonds propres)",
+      "Absence modification substantielle / événement altérant l'activité ou les actifs"
+    ],
+    "agressivite_envers_dirigeants": "forte_clause_non_sollicitation"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": true,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": ["10 CS dont financement non bouclé", "Reprise 1/56 salariés (1,79%) très faible", "Ventilation prix non précisée", "NewCo non constituée, investisseur 20% 'à préciser'"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Société à mission ESS + association insertion QPV - philosophie pédagogique FLOW",
+    "phrase_engagement_social": "Aucun licenciement économique pendant 12 mois. Priorité réembauche 24 mois. Convention collective n°1516 maintenue.",
+    "phrase_vision_strategique": "Pôle 4 Tech & IA Street Coder - programme PopSkills",
+    "phrase_justification_prix": "Prix justifié par risque sanctions DRIEETS ~40M€ + reconstitution socle réglementaire (déclaration activité, Qualiopi, RNCP)"
+  }
+}

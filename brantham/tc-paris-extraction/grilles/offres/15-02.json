@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "offre_id": "15-02",
+    "dossier_id": "15",
+    "dossier_folder": "15 - ASSOCIATION MEDICO DENTAIRE D'ENGHIEN LES BAINS",
+    "fichier_source_pdf": null,
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "low"
+  },
+  "identification": {
+    "cible_raison_sociale": "ASSOCIATION MEDICO-DENTAIRE D'ENGHIEN-LES-BAINS",
+    "cible_siren": "891296329",
+    "naf_secteur": "Sante - centre de soins dentaires",
+    "sous_secteur": "Reseau DENTEKA",
+    "effectif_total": 9,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-08-20",
+    "date_audience_cession": "2026-02-09",
+    "aj_nom": "Me Sandra BELADJINE ; Me Isabelle DIDIER",
+    "aj_etude": "SELARL BCM / SELAS SPE O3 PARTNERS",
+    "mj_nom": "Me Julie PERROT ; Me Pablo CASTANON",
+    "mj_etude": "SELARL ACTIS / SELARL ASTEREN",
+    "juge_commissaire": "M. Jean-Luc BOUR"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "amelioree_puis_retenue",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 0,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "track_record_reprises": ["Reseau PLACE DENTAIRE", "29 centres dentaires"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "capital_eur": 17832600,
+      "rcs": "908193311",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": null,
+    "decomposition": {},
+    "modalites_paiement": "NR"
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "nb_total_salaries": 9,
+    "pct_reprise": null
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "NR"
+  },
+  "financement": {
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "agressivite_envers_dirigeants": "NR"
+  },
+  "forme_presentation": {
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "erreurs_apparentes": [
+      "Offre amelioree 27/01/2026 mentionnee au preambule des offres ulterieures (15-03 et 15-04) mais TEXTE NON PRESENT dans les PDFs du dossier - uniquement reference indirecte"
+    ]
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {}
+}

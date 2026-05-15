@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "offre_id": "06-ATELIERS_VG-09",
+    "dossier_id": "06",
+    "dossier_folder": "06 - SCI LES ATELIERS VILLEJUIF GENTILLY",
+    "fichier_source_pdf": "06_SCI_LES_ATELIERS_VILLEJUIF_GENTILLY_offre9.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI LES ATELIERS VILLEJUIF GENTILLY - 2 ateliers-lofts 120 m2 Villejuif",
+    "cible_siren": null,
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "SCI/SNC detention actif immobilier - portefeuille consolide FHBX Foncière Melot-Gouband",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 0,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": "2026-03-02",
+    "date_audience_cession": null,
+    "aj_nom": "Maitre Helene BOURBOULOUX (avec Francois RAYBAUD et Paul CHARREY)",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "Monsieur Jean-Francois PONCET",
+    "causes_defaillance": "Defaillance groupe immobilier Melot-Gouband (Affaire Balthazar) - 44 entites groupe de fait en RJ vagues avril-decembre 2025"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "nb_offres_concurrentes": 9,
+    "concurrents_resume": [
+      {
+        "nom": "VERDOSO SAS",
+        "positionnement_2lignes": "Offre globale plan de cession 26 entites FHBX - groupe Verdoso (Luxembourg) - prix provisoire valorisation 10,2M EUR"
+      },
+      {
+        "nom": "LABRAX INVEST",
+        "positionnement_2lignes": "Offre finale 21M EUR portefeuille global 26 entites + appartement Paris 16 Theophile Gautier"
+      },
+      {
+        "nom": "GROUPE ARCANGE",
+        "positionnement_2lignes": "Offre amelioree 8,713M EUR asset deal partiel - Michael SFEDJ - detention 5 ans bon pere de famille"
+      },
+      {
+        "nom": "HOUSEBASE",
+        "positionnement_2lignes": "Offre dediee actif par actif (10000 EUR forfaitaire SCI VILLEJUIF / JEAN RENAUDIE)"
+      },
+      {
+        "nom": "MUVICO (Victor COHEN)",
+        "positionnement_2lignes": "Offre globale multi-SCI - groupe foncier patrimonial - prix par actif individualise"
+      }
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Philippe ZERR (DG)",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [
+      "Offres dediees sur plusieurs SCI portefeuille FHBX"
+    ],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "capital_eur": 49780,
+      "rcs": "908 068 331 RCS Rennes",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 10000,
+    "decomposition": {
+      "immeubles_eur": 10000
+    },
+    "charges_augmentatives_eur": 0,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Comptant au jour de la signature de l'acte de cession"
+  },
+  "reprise_passif": {
+    "engagements_L642_12_al4": false
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 0,
+    "pct_reprise": null,
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "diagnostic_resume": "Offre conservatoire fondee sur informations parcellaires data room",
+    "plan_affaires_3ans_present": false,
+    "maintien_site": "oui_total",
+    "hypotheses_qualification": "NR"
+  },
+  "financement": {
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "partenaires_financiers": [
+      "Fonds propres et comptes courants d'associes - pas de CS pret bancaire"
+    ]
+  },
+  "engagements_specifiques": {
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Visite sur site : realisation d'une visite complete de l'actif immobilier",
+      "Audits techniques : communication et analyse de l'integralite des diagnostics techniques (DDT complet a jour) ne revelant aucune anomalie redhibitoire",
+      "Audit juridique : reception note d'audit explicitant situation juridique de l'actif (dettes, servitudes, situation locative, contrats)"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 1,
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [
+      "Offre conservatoire 10000 EUR derisoire vs MUVICO 255000 EUR et LABRAX 21M global"
+    ],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Offre d'acquisition d'actifs avec faculte de substitution - 2 ateliers-lofts 120 m2 Villejuif",
+    "phrase_justification_prix": "Offre globale et forfaitaire de 10 000 EUR s'entendant Net Vendeur - montant conservatoire tient compte des informations parcellaires data room"
+  }
+}

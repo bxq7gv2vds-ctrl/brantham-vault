@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "offre_id": "51-03",
+    "dossier_id": "51",
+    "dossier_folder": "51 - SARL BOULANGERIE BO",
+    "fichier_source_pdf": "51_SARL_BOULANGERIE_BO_offre3.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SARL BOULANGERIE BO",
+    "cible_siren": "800298697",
+    "naf_secteur": "Boulangerie / Pâtisserie",
+    "effectif_total": 8,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-02-05",
+    "aj_nom": "Me Nicolas GRICOURT",
+    "aj_etude": "SELAS P2G",
+    "mj_nom": "Me Stéphane GORRIAS",
+    "mj_etude": "SCP BTSG"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "nb_offres_concurrentes": 4
+  },
+  "profil_repreneur": {
+    "forme": "dirigeant_historique",
+    "age_parcours_dirigeant": "Farouk CHALGHOUM — nationalité tunisienne, né 09/12/1983 à Jeddah Arabie Saoudite — gérant SARL SAINT-FARGEAU depuis 02/2018, exploitant BOULANGERIE SAINT-FARGEAU 100 av. Gambetta 75020. Expérience boulanger pâtissier depuis 2010 (Le Fournil de Saint-Cyr, Maalol Laroussi, Elcrima).",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 16,
+    "track_record_reprises": [
+      "SARL SAINT-FARGEAU (RCS 837936335, gérant depuis 2018)"
+    ],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "Société à constituer ou à désigner (faculté substitution L.642-9 al.3)",
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": null,
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 180000,
+    "decomposition": {
+      "incorporels_eur": 150000,
+      "corporels_eur": 28000,
+      "stocks_eur": 2000,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 25047,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Deniers personnels sans recours à l'emprunt — virement totalité du prix pour l'audience. Reconstitution dépôts de garantie 25 047€ inclus, total 205 047€.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["85 bis rue de Charenton", "2 rue Emilio Castelar"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Tous contrats clients existants"],
+    "contrats_fournisseurs_repris": ["Baux", "Fluides", "Assurance multirisque SwissLife", "Bouygues Telecom", "Engie", "Otis"],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 8,
+    "nb_total_salaries": 8,
+    "pct_reprise": 100.0,
+    "categories_reprises": "3 Boulangers / 1 Pâtissier / 4 Vendeurs = 8 sur 8 (tous repris)",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": 0, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": 24,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Reprise par exploitant de boulangerie parisienne en activité — connaissance métier directe.",
+    "vision_strategique_phrase": "Engagement non-licenciement économique 2 ans",
+    "pivots_prevus": "Aucune cession 2 ans",
+    "synergies_repreneur": "Mutualisation avec BOULANGERIE SAINT-FARGEAU 75020",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 205047,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Deniers personnels"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": true,
+    "annexes_attest_bancaire": false,
+    "annexes_business_plan": false,
+    "annexes_cni_dirigeants": true,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": "CENTURY 21 Horeca Paris", "avocat_nom": "Jean-Paul EUSEBIO (mandataire — pas avocat)"},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Reprise par exploitant boulangerie Saint-Fargeau (Gambetta 75020) avec expérience boulanger pâtissier depuis 2010",
+    "phrase_engagement_social": "Engagement non-licenciement économique 2 ans — 8 sur 8 salariés repris",
+    "phrase_vision_strategique": null,
+    "phrase_justification_prix": "Offre la plus élevée en prix et en emplois repris — 180 000€ + 25 047€ dépôts = 205 047€ total"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "offre_id": "14-HBBS-03",
+    "dossier_id": "14-HBBS",
+    "dossier_folder": "14 - SARL HEAD BODY BEST SECURITE",
+    "fichier_source_pdf": "14_SARL_HEAD_BODY_BEST_SECURITE_offre3.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SARL HEAD BODY BEST SECURITE",
+    "cible_siren": null,
+    "naf_secteur": "Securite privee / Gardiennage",
+    "sous_secteur": "Surveillance humaine multi-sites IDF + PACA",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": null,
+    "nb_sites": 12,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-05-13",
+    "dldo": "2026-04-13",
+    "date_audience_cession": null,
+    "aj_nom": "Maitre Isabelle DIDIER",
+    "aj_etude": "SELAS SPE O3 PARTNERS",
+    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "Monsieur Moise SERERO",
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 1,
+    "concurrents_resume": [
+      {"nom": "GROUP CLEAR", "positionnement_2lignes": "SAS unipersonnelle creee 09/2022, CA 545K, propose 10001 EUR + reprise 54 emplois mais avec 4 conditions suspensives dont non-application L.642-12 al.4."}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_concurrent",
+    "age_parcours_dirigeant": "Madame COULIBALY Penagnaba Solange, dirigeante agreee CNAPS, fondatrice et Presidente ALTER-PROTECT. Equipe encadrement : Mme Som Odile (Resp Admin), M. Ouattara Abou (Resp Expl), M. Klotoe Gedeon (Coordinateur), M. Ouattara Aziz (Superviseurs).",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": null,
+      "capital_eur": 50000,
+      "rcs": "904647260 RCS Paris",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 50000,
+    "decomposition": {
+      "incorporels_eur": null,
+      "corporels_eur": null,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Paiement comptant par virement bancaire sur compte sequestre. Offre ferme, definitive, immediatement financable.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail commercial"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Contrats clients necessaires"],
+    "contrats_fournisseurs_repris": ["Contrats fournisseurs indispensables"],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 25,
+    "nb_total_salaries": null,
+    "pct_reprise": null,
+    "categories_reprises": "22 a 25 agents repris (perimetre 2600-3000h/mois)",
+    "categories_non_reprises_raisons": "Perimetre cible inferieur a l'effectif total potentiel (22-54 agents selon perimetre HBBS) — selection des sites stables",
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Repreneur sectoriel structure (ALTER-PROTECT) avec 60+ agents APS/SSIAP/rondiers/controleurs, 5 agents astreinte 24/7, encadrement complet. Selection geographique des sites (Cambrai/Puteaux/Bougainville retail, Cormeilles/Pierrelaye PAP industriels, Gare du Nord/Est/St Lazare/St Charles gares, Canebiere/Rivoli/Rambuteau retail premium).",
+    "vision_strategique_phrase": null,
+    "pivots_prevus": null,
+    "synergies_repreneur": "ALTER-PROTECT activite identique securite privee, integration des 5 contrats clients HBBS dans son portefeuille (croissance 2023->2025 : 320K -> 730K -> 978K, +205%)",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "partiel",
+    "maintien_marques_savoir_faire": "NR"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 50000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": true,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["JF PARTNERS (Issifou FOFANA, attestation CA 05/02/2026)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": true,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": true,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": true,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Offre ferme, definitive, immediatement financable, paiement comptant",
+    "phrase_engagement_social": "Reprise du personnel : 22 a 25 agents repris (perimetre 2600-3000h/mois)",
+    "phrase_vision_strategique": "Plan de prevision CA : +15% (2026), +10% (2027), +12% (2028), +15% (2029). Calendrier : integration 6 mois, optimisation 12 mois.",
+    "phrase_justification_prix": null
+  }
+}

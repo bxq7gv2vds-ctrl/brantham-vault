@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "dossier_id": "37-COOP",
+    "dossier_folder": "37 - Société Coopérative agricole capital variable AR",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "COOPERATIVE AGRICOLE DES ARBORICULTEURS DU VAL DE LOIRE (CAVL)",
+    "cible_siren": "323839506",
+    "naf_secteur": "Collecte et vente de pommes/poires ; services aux coopérateurs",
+    "sous_secteur": "Coopérative agricole Pôle Val de Loire INNATIS",
+    "ca_dernier_exercice_eur": 6201408,
+    "ebitda_eur": null,
+    "effectif_total": 2,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-09",
+    "dldo": "2026-03-18",
+    "date_audience_cession": "2026-04-13",
+    "aj_nom": "Marine PACE / Paul-Henri AUDRAS",
+    "aj_etude": "SELARL 2M&Associés ; SELAS AJ UP",
+    "mj_nom": "Valérie LELOUP-THOMAS / Charlotte THIRION",
+    "mj_etude": "SELAFA MJA ; SELARL ATHENA",
+    "juge_commissaire": null,
+    "causes_defaillance": "Sauvegarde ouverte 29/09/2025 puis convertie en RJ par jugement 09/03/2026 (cessation paiements 06/03/2026). Recul production HoneyCrunch, station Verrières-en-Anjou (30M€ invest 2023) sous-utilisée, négociations bancaires échouées 2024. CAVL détenue à 98,92% par SCOPE VERGERS CAVL — filière fruits INNATIS."
+  },
+  "issue_globale": "plan_cession_arrete",
+  "issue_resume": "Plan de cession arrêté 30/04/2026 au profit de la Coopérative LES VERGERS D'ANJOU dans le cadre de l'offre globale Pôle Val de Loire INNATIS (11 entités, 7,04M€, 28 emplois + 200k€ mesures sociales). Offre CASTEL/LEROY/VCAPITAL (40k€, 1 emploi, indivisibilité 11 offres, financement précisé ultérieurement) rejetée.",
+  "notes": "Indivisibilité des offres : 11 sociétés Pôle Val de Loire INNATIS (LVL POMANJOU, LPC, SCICA POMANJOU, SCA CHAUSSEE, LAUNAY, REINETTE D'ANJOU, VAULEARD, DENIOLAY, PLESSE, BEAUVALLON, CAVL). Total Repreneur consortium adverse : 6,49M€ supportés."
+}

@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "offre_id": "GM_IMMO-07",
+    "dossier_id": "GM_IMMO",
+    "dossier_folder": "13 - SCI GM IMMO",
+    "fichier_source_pdf": "13_SCI_GM_IMMO_offre7.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "low",
+    "note_meta": "Offre HOUSEBASE dédiée — détails à préciser (PDF petite taille 94kB, infos limitées)."
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI GM IMMO",
+    "naf_secteur": "Immobilier",
+    "type_procedure": "RJ",
+    "dldo": "2026-03-02",
+    "aj_nom": "Maître Hélène BOURBOULOUX",
+    "mj_nom": "Maître Valérie LELOUP-THOMAS"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "nb_offres_concurrentes": 6
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Philippe ZERR, DG",
+    "experience_sectorielle_oui_non": "oui",
+    "capacite_financiere_demontree": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "capital_eur": 49780,
+      "rcs": "908068331",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {"prix_total_eur": null, "modalites_paiement": "NR"},
+  "reprise_passif": {"baux_repris": [], "engagements_L642_12_al4": false},
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 0,
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "NR",
+    "vision_strategique_phrase": "Offre dédiée single-actif",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "NR",
+    "maintien_site": "NR",
+    "maintien_marques_savoir_faire": "NR"
+  },
+  "financement": {"apport_origine_documentee": "NR", "dette_bancaire_engagement_ferme": false},
+  "engagements_specifiques": {"non_demembrement": false},
+  "conditions_suspensives": {"aucune_cs": false, "agressivite_envers_dirigeants": "NR"},
+  "forme_presentation": {
+    "structure_dominante": "NR",
+    "ton_dominant": "NR",
+    "executive_summary_present": false,
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "coherence_prix_BP": "NR",
+    "erreurs_apparentes": ["Détails à préciser (PDF petite taille)"],
+    "declaration_L642_3_signee": false
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "HOUSEBASE SAS — 20 Quai Duguay-Trouin 35000 Rennes",
+    "phrase_justification_prix": null
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "offre_id": "29-LESCAPADE-02",
+    "dossier_id": "29",
+    "dossier_folder": "29 - SAS à associé unique L'ESCAPADE",
+    "fichier_source_pdf": "offre_02_gd71724233.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "L'ESCAPADE",
+    "cible_siren": "450819008",
+    "naf_secteur": "Hôtellerie de plein air — camping 4 étoiles",
+    "ca_dernier_exercice_eur": 235566,
+    "effectif_total": 0,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "aj_nom": "Me Maxime LANGET",
+    "aj_etude": "SELAS BL & Associés",
+    "mj_nom": "Me Florian LACOUR",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "M. Franck MEYNAUD"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "oui",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 4,
+    "concurrents_resume": [
+      {"nom": "MAUVIN/NOEL (PP)", "positionnement_2lignes": "650k€ Escapade seule. Sérieuse mais cherry-picking 1/15."},
+      {"nom": "CAMPALDIA", "positionnement_2lignes": "3€ symbolique, besoin financement 3-5M€."},
+      {"nom": "FEMINA STYL + MARENGO", "positionnement_2lignes": "800k€ Escapade indivisible 15 sites."}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Guillaume LEMARCHAND (fondateur 2011) + Lucie DROUET — Master gestion entreprises + Master développement touristique, intervenant Univ. Angers (Licence HPA), membre FNHPA, jury Titre Pro Responsable Établissement Touristique",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 15,
+    "track_record_reprises": [
+      "Le Point du Jour (14)", "Veules-les-Roses Les Mouettes (76)", "Quiberville Saâne-et-Mer", "Saverne Les Portes d'Alsace (67)",
+      "Oberbronn Les Vosges du Nord", "Trélévern Les 7 Îles", "St-Valéry-en-Caux Etennemare", "Combreux L'Étang de la Vallée",
+      "Courtils Le Saint-Michel", "Sillé-le-Guillaume La Forêt", "Vieilles-Maisons-sur-Joudry L'Étang des Bois", "Pontorson Haliotis",
+      "St-Julien-de-Concelles Camping du Chêne", "Vittel", "Vesoul", "Rochefort-sur-Loire Les Plages de Loire",
+      "Saint-Sorlin-d'Arves Notre Chalet à la Montagne", "Les Portes-en-Ré Île de Ré", "Audenge Village Seasonova Bassin d'Arcachon"
+    ],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "Groupe Seasonova (EURL, cap. 600k€)",
+      "date_creation": "2011",
+      "capital_eur": 600000,
+      "rcs": "538695560",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": null,
+    "decomposition": {},
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "NR",
+    "garanties_paiement": "À préciser dans offre complète",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": null,
+    "nb_total_salaries": 0,
+    "pct_reprise": null,
+    "categories_reprises": "À préciser (LOI)",
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "diagnostic_resume": "LOI déposée tardivement faute de temps pour audit. Le candidat précise n'avoir pas pu finaliser l'audit ni l'analyse approfondie des actifs. Premier Groupe HPA en France délégataire marque Qualité Tourisme. Programme Ecologic (1,2 ha forêt préservée, 929 tonnes CO2 fixé, 1935 arbres plantés).",
+    "vision_strategique_phrase": "Intégration au réseau Seasonova de 20 campings — 60 salariés permanents (120 haute saison). Centrale réservation vacances-seasonova.com 20-55k visites/mois.",
+    "pivots_prevus": null,
+    "synergies_repreneur": "Réseau Seasonova : Qualité Tourisme, Clé Verte, Eco Label Européen, Communauté du Coq Vert. 11 filiales détenues 50,8-100%.",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": 2708000,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 6,
+    "items": [
+      "Finalisation due diligence commerciales, financières, techniques, fiscales, juridiques et sociales satisfaisantes",
+      "Communication des déclarations de créances banques et crédits-bailleurs au passif",
+      "Communication d'une liste à jour des contrats en cours",
+      "Transfert de toute autorisation administrative requise",
+      "Obtention de l'accord du partenaire financier pour financement investissements post-reprise",
+      "Absence de modification substantielle ou événement altérant la valeur marchande des actifs"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "commercial",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_business_plan": false,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_organigramme_cible": true,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Réserve : connaissance tardive de l'appel d'offres, délais impartis très courts — LOI sans prix"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Premier Groupe Hôtellerie Plein Air en France délégataire marque Qualité Tourisme",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": "Réseau de 20 campings 100-200 emplacements (moyenne 150) — passer de 21 à 36 campings FR",
+    "phrase_justification_prix": "Offre complète à formuler postérieurement au 17/12/2025"
+  },
+  "bilan_repreneur": {
+    "ca_eur": 8320000,
+    "ca_atterissage_2025_eur": 9800000,
+    "ebitda_eur": 1685000,
+    "total_actif_eur": 16388000,
+    "capitaux_propres_eur": 4751000,
+    "dettes_financieres_nettes_eur": 6746000,
+    "exercice_clos": "2024-10-31"
+  }
+}

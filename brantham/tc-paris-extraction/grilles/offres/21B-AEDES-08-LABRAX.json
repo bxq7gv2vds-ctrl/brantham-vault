@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "offre_id": "21B-AEDES-08-LABRAX",
+    "dossier_id": "21B-AEDES",
+    "dossier_folder": "21 - SCI AEDES",
+    "fichier_source_pdf": "21_SCI_AEDES_offre8.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI AEDES",
+    "cible_siren": null,
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "SCI fonciere — portefeuille FHBX 26 entites + appartement Paris 16e",
+    "effectif_total": 0,
+    "type_procedure": "RJ",
+    "dldo": "2026-03-02",
+    "date_audience_cession": null,
+    "aj_nom": "Maitre Helene BOURBOULOUX",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
+    "juge_commissaire": "Monsieur Jean-Francois PONCET"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 8
+  },
+  "profil_repreneur": {
+    "forme": "holding_ad_hoc",
+    "age_parcours_dirigeant": null,
+    "experience_sectorielle_oui_non": "NR",
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "NR",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": null,
+      "type_vehicule": "NR",
+      "kbis_present_en_annexe": false
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 21000000,
+    "decomposition": {
+      "incorporels_eur": null,
+      "corporels_eur": 21000000,
+      "stocks_eur": null,
+      "immeubles_eur": 21000000,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "NR",
+    "garanties_paiement": "Sous garanties ordinaires et usuelles",
+    "cheque_consignation_eur": null,
+    "note_prix": "Offre finale 'ferme et indivisible' 21 M EUR pour portefeuille global Melot/Gouband 26 entites + appartement Paris 16e (lot 35, 54-56 av. Theophile Gautier). Reitere/complete l'offre initiale du 09/02/2026. Date offre 02/03/2026. Prix individualise SCI AEDES non explicitement ventile (offre indivisible)."
+  },
+  "reprise_passif": {"engagements_L642_12_al4": false},
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 0,
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": 0, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "NR",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "NR",
+    "maintien_site": "NR",
+    "maintien_marques_savoir_faire": "NR"
+  },
+  "financement": {
+    "apport_origine_documentee": "NR",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {"non_demembrement": true},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "items": ["Garanties ordinaires et usuelles (non detaillees)"],
+    "agressivite_envers_dirigeants": "NR"
+  },
+  "forme_presentation": {
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": false, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false, "annexes_organigramme_cible": false, "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false, "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false, "soutien_clients_cles": false, "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false, "personnalisation_rencontre_equipes": false, "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Offre finale, ferme et indivisible — 21 000 000 EUR portefeuille global 26 entites FHBX + appartement Paris 16e",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": null,
+    "phrase_justification_prix": null
+  }
+}

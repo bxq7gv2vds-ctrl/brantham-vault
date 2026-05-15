@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "offre_id": "NEW-PLANCHES-02",
+    "dossier_id": "NEW-PLANCHES",
+    "dossier_folder": "52 - SARL DES PLANCHES",
+    "fichier_source_pdf": "offre_02_gd79409040.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SARL DES PLANCHES",
+    "cible_siren": null,
+    "naf_secteur": "Coiffure / esthétique",
+    "sous_secteur": "Salon de coiffure et esthétique",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 3,
+    "nb_sites": 1,
+    "type_procedure": "LJ",
+    "date_ouverture": null,
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": null,
+    "aj_etude": null,
+    "mj_nom": "Me Lucile JOUVE",
+    "mj_etude": "SELAFA MJA - 41 rue de l'Echiquier, 75010 Paris",
+    "juge_commissaire": null,
+    "causes_defaillance": "LJ suite à condamnation pour concurrence déloyale"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 2,
+    "concurrents_resume": [
+      {"nom": "Betty MAYEUR", "positionnement_2lignes": "Personne physique cliente fidèle - 10 000€ - 3 emplois - non diplômée"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "pp_seule",
+    "age_parcours_dirigeant": "Kelly VANTHIER, fille de Mme DESPLANCHES (gérante précédente). Salariée actuelle de la SARL DES PLANCHES. Diplômée coiffure.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "PP avec possibilité de substitution vers société à constituer",
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": null,
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 12000,
+    "decomposition": {
+      "incorporels_eur": 7800,
+      "corporels_eur": 4200,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Chèque de banque 12 000€ ordre SELAFA MJA",
+    "cheque_consignation_eur": 12000
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail commercial Indivision GREEN (reprise loyers à compter de l'ordonnance JC, nouveau dépôt de garantie à verser)"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": ["Reprise contrats fournisseurs"],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 2,
+    "nb_total_salaries": 3,
+    "pct_reprise": 66.67,
+    "categories_reprises": "2 salariés (hors Kelly VANTHIER elle-même)",
+    "categories_non_reprises_raisons": "Contrat de travail de Kelly VANTHIER (l'offrante, fille de la gérante) — mis fin avec la cession",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {
+      "nb": 1,
+      "calendrier": "Fin du contrat de Kelly VANTHIER (rachat = fin du propre contrat de travail)",
+      "indemnites": null,
+      "accompagnement": null
+    },
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "absent",
+    "diagnostic_resume": "Kelly VANTHIER dispose du diplôme de coiffure (cohérence légale art. L.121-1 Code artisanat). Le rachat entraînerait la fin de son propre contrat (baisse masse salariale).",
+    "vision_strategique_phrase": null,
+    "pivots_prevus": null,
+    "synergies_repreneur": null,
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 12000,
+    "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 1,
+    "items": ["Offre soumise à l'autorisation préalable du Procureur de saisir le Tribunal (art. L.642-3 — proche parente de la dirigeante)"],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": true,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": true,
+    "personnalisation_rencontre_equipes": true,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": ["L.642-3 obstacle (parente directe)", "Date de signature non lisible sur scan OCR"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Fille de la précédente gérante, salariée diplômée du salon",
+    "phrase_engagement_social": "Reprise des 2 autres salariés hors elle-même",
+    "phrase_vision_strategique": null,
+    "phrase_justification_prix": "12 000€ - prix supérieur à l'offre concurrente, justifié par diplôme coiffure"
+  }
+}

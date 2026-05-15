@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "offre_id": "37-COOP-01",
+    "dossier_id": "37-COOP",
+    "dossier_folder": "37 - Société Coopérative agricole capital variable AR",
+    "fichier_source_pdf": "37_Soci_t__Coop_rative_agricole___capital_variable_AR_offre6.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "CAVL (COOPERATIVE AGRICOLE DES ARBORICULTEURS DU VAL DE LOIRE)",
+    "cible_siren": "323839506",
+    "naf_secteur": "Collecte et vente pommes/poires — coopérative",
+    "sous_secteur": "Pôle Val de Loire INNATIS",
+    "ca_dernier_exercice_eur": 6201408,
+    "ebitda_eur": null,
+    "effectif_total": 2,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-09",
+    "dldo": "2026-03-18",
+    "date_audience_cession": "2026-04-13",
+    "aj_nom": "Marine PACE / Paul-Henri AUDRAS",
+    "aj_etude": "SELARL 2M&Associés ; SELAS AJ UP",
+    "mj_nom": "Valérie LELOUP-THOMAS / Charlotte THIRION",
+    "mj_etude": "SELAFA MJA ; SELARL ATHENA",
+    "juge_commissaire": null,
+    "causes_defaillance": "Sauvegarde 29/09/2025 puis RJ 09/03/2026 — recul HoneyCrunch, station Verrières mal absorbée"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": "Offre initiale lacunaire — salariés repris et exclusions 'précisés ultérieurement'. Améliorée puis rejetée au profit de Vergers d'Anjou.",
+    "nb_offres_concurrentes": 2,
+    "concurrents_resume": [
+      {"nom": "LES VERGERS D'ANJOU", "positionnement_2lignes": "Coopérative locale 73 adhérents, 1.600 ha, 50k T, ~26M€ CP. Offre 75k€ avec faculté de substitution CELHER."}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "James LAUNAY (CASTEL INVEST, ex-salarié LVL POMANJOU) + Pierre LEROY + Nicolas VERGER",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["Maison Leroy (200 ans)", "Paysans Résistants (10 fermes)", "AGI-SERRE", "Réseau Les Halles du Verger"],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "NewCo SAS LVL OCEANE à constituer",
+      "date_creation": null,
+      "capital_eur": 1000,
+      "rcs": null,
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "newco"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 40000,
+    "decomposition": {
+      "incorporels_eur": null,
+      "corporels_eur": null,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "NR",
+    "garanties_paiement": null,
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": null,
+    "nb_total_salaries": 2,
+    "pct_reprise": null,
+    "categories_reprises": "Salariés repris précisés ultérieurement",
+    "categories_non_reprises_raisons": "Précisé ultérieurement",
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "diagnostic_resume": "Reprise actifs CAVL — périmètre précisé ultérieurement",
+    "vision_strategique_phrase": null,
+    "pivots_prevus": null,
+    "synergies_repreneur": "Groupe consolidé ~40M€ CA, 200 collab, 150 ha vergers",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "NR",
+    "maintien_marques_savoir_faire": "NR"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "NR",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": null,
+    "items": ["Cf. §7.1 (non détaillé dans synthèse)"],
+    "agressivite_envers_dirigeants": "NR"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [
+      "Salariés repris et exclusions 'précisés ultérieurement'",
+      "Indivisibilité avec 10 autres offres Innatis"
+    ],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": "Cabinet FIDAL",
+    "avocat_nom": "Antoine BISDORFF / Delphine BRUNET / Sabrina DJELTI"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Offre initiale 18/03/2026 — caractéristiques NewCo SAS LVL OCEANE à finaliser",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": null,
+    "phrase_justification_prix": null
+  }
+}

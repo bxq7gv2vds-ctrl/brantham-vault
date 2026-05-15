@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "offre_id": "27B-GD-LISSE-03-SHD",
+    "dossier_id": "27B-GD-LISSE",
+    "dossier_folder": "27 - SCI LA GRANDE LISSE",
+    "fichier_source_pdf": "44_SCI_LA_GRANDE_LISSE_offre3.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI LA GRANDE LISSE",
+    "cible_siren": "824145163",
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "Murs camping L'Escapade Lamonzie-Montastruc",
+    "effectif_total": 0,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "date_audience_cession": "2026-03-11",
+    "aj_nom": "Me Lou Flechard / Me Maxime Langet",
+    "mj_nom": "Me Florian Lacour / Me Camille Steiner"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Niveau groupe Neocamp : Seasonova retenu Alpha 15 sites + Maeva franchises. Pour GRANDE LISSE specifiquement : offre la plus basse (1 000 EUR symbolique), societe recemment immatriculee, conteste imputabilite prêt LCL — peu credible.",
+    "motifs_rejet_verbatim": "Offre la plus basse 1 000 EUR. Societe SHD recemment immatriculee (RCS Dijon 928117449). Erreur dans objet PDF : mention 'Narbonne' alors que bien est a Lamonzie-Montastruc (Dordogne).",
+    "nb_offres_concurrentes": 4
+  },
+  "profil_repreneur": {
+    "forme": "holding_ad_hoc",
+    "age_parcours_dirigeant": "George Molin (representant KBC SAS Presidente de SHD)",
+    "experience_sectorielle_oui_non": "NR",
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "intention_seule",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": "2025 (recent)",
+      "capital_eur": 1000,
+      "rcs": "928117449",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "existante",
+      "note": "SHD SAS recemment immatriculee. Capital 1 000 EUR. President KBC SAS represente par George Molin."
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 1000,
+    "decomposition": {
+      "incorporels_eur": null,
+      "corporels_eur": 1000,
+      "stocks_eur": null,
+      "immeubles_eur": 1000,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds propres (paiement comptant sans recours a un financement)",
+    "cheque_consignation_eur": null,
+    "note_prix": "Prix symbolique 1 000 EUR pour acquisition exclusive des murs. Reprise eventuelle engagements bancaires L.642-12 mentionnee comme s'ajoutant au prix (DCP 1 223 796 EUR — mais candidat conteste l'imputabilite a la SCI Grande Lisse, le prêt aurait ete contracte par ILO selon dataroom)."
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail courant L'ESCAPADE 120 000 EUR HT/an a verifier"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": 1223796,
+    "passif_privilegie_repris": "Reprise eventuelle engagements L.642-12 conteste — DCP indique 1 223 796 EUR mais candidat conteste imputabilite SCI Grande Lisse",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0, "nb_total_salaries": 0, "pct_reprise": null,
+    "categories_reprises": "SCI non employeuse",
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": 0, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "diagnostic_resume": "Acquisition d'actif uniquement, pas de reprise SCI. Pas de plan d'exploitation — bien loue a L'ESCAPADE.",
+    "vision_strategique_phrase": null,
+    "pivots_prevus": null,
+    "synergies_repreneur": null,
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null, "capex_calendrier": null, "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null, "ca_an2_eur": null, "ca_an3_eur": null, "ebitda_an3_eur": null,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "NR"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 1000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 0,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 5,
+    "items": [
+      "Autorisation cession actif par Tribunal",
+      "Non-preemption commune",
+      "Signature acte authentique au plus tard 30/07/2026",
+      "Verification montant exact reprise engagements financiers L.642-12 (DCP 1 223 796 EUR vs imputabilite ILO contestee)",
+      "Verification conditions et validite bail en cours (120 000 EUR/an)"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "lettre_simple",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": false, "annexes_cv_dirigeants": false, "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false, "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false, "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false, "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false, "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "confuse"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Objet PDF : mention 'Narbonne' alors que bien est a Lamonzie-Montastruc (Dordogne)", "Societe recemment immatriculee — track record absent", "Prix symbolique 1 000 EUR vs autres offres jusqu'a 1,4 M EUR"],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": null,
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": null,
+    "phrase_justification_prix": "Conteste imputabilite prêt LCL a la SCI Grande Lisse, le prêt aurait ete contracte par ILO selon dataroom"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "offre_id": "09-03",
+    "dossier_id": "09",
+    "dossier_folder": "09 - SAS à associé unique EZIN & STRAUUS CP - Sigle E&S CP",
+    "fichier_source_pdf": "offre_03_gd72801154.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high",
+    "note_meta": "DOCUMENT NON-OFFRE — État relatif aux inscriptions privilèges et publications du Greffe TAE Paris délivré 23/01/2026 concernant OTSAR AUDIT ET CONSEIL (RCS 424821395) — NÉANT toutes catégories. Annexe probable à l'offre OTSAR."
+  },
+  "identification": {
+    "cible_raison_sociale": "EZIN & STRAUUS CP",
+    "cible_siren": "501233001",
+    "naf_secteur": "Document annexe (état privilèges)",
+    "type_procedure": "RJ",
+    "dldo": "2026-01-15"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "NR",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": null
+  },
+  "profil_repreneur": {
+    "forme": "NR",
+    "experience_sectorielle_oui_non": "NR",
+    "capacite_financiere_demontree": "NR",
+    "vehicule_reprise": {"type_vehicule": "NR", "kbis_present_en_annexe": false}
+  },
+  "structure_prix": {"prix_total_eur": null, "modalites_paiement": "NR"},
+  "volet_social": {"maintien_conditions_anciennete_salaire_lieu": "NR", "relations_irp_cse_mention": false},
+  "plan_industriel": {
+    "diagnostic_qualification": "absent",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "NR",
+    "maintien_marques_savoir_faire": "NR"
+  },
+  "financement": {"apport_origine_documentee": "NR", "dette_bancaire_engagement_ferme": false, "dette_bancaire_lettre_confort": false},
+  "conditions_suspensives": {"aucune_cs": false, "agressivite_envers_dirigeants": "NR"},
+  "forme_presentation": {
+    "structure_dominante": "NR",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {"coherence_prix_BP": "NR", "erreurs_apparentes": ["Document non-offre — annexe au dossier OTSAR"]}
+}

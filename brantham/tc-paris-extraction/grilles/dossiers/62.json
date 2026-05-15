@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "dossier_id": "62",
+    "dossier_folder": "62 - SCA SOCIETE D EXPLOITATION DE LA CHAUSSEE",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCEA DE LA CHAUSSEE",
+    "cible_siren": "786169748",
+    "rcs": "786 169 748 RCS Angers",
+    "forme_juridique": "Societe civile d'exploitation agricole",
+    "capital_eur": 216165,
+    "siege": "Lieudit La Chaussee, 49440 Loire",
+    "naf_secteur": "Agriculture / Arboriculture (pommes, kiwi, petits fruits, grandes cultures)",
+    "groupe": "Filiale INNATIS — Pole Val de Loire — Branche Angevine. Detenue 99,99% par SCI Holding Financiere Pomanjou",
+    "effectif_total": 6,
+    "type_procedure": "RJ",
+    "date_ouverture_sauvegarde": "2025-09-29",
+    "date_conversion_RJ": "2026-03-16",
+    "dldo": "2026-03-18",
+    "date_audience_cession": "2026-04-30",
+    "aj_nom": "Me Marine PACE & Me Paul-Henri AUDRAS",
+    "aj_etude": "SELARL 2M&Associes ; SELAS AJ UP",
+    "mj_nom": "Me Valerie LELOUP-THOMAS & Me Charlotte THIRION",
+    "mj_etude": "SELAFA MJA ; SELARL ATHENA",
+    "tribunal": "Tribunal des activites economiques de Paris",
+    "causes_defaillance": "Mauvaises recoltes 2023-2025 sur variete HoneyCrunch (~60% surface). Sauvegarde groupe INNATIS convertie en RJ pour les SCEA Vergers de la branche Angevine. Vergers Branche Angevine 210 ha + Touraine 90 ha = 300 ha total Pole Val de Loire."
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "plan_cession_arrete",
+    "repreneur_retenu_global": "Les Vergers d'Anjou (cooperative) — pour le pole INNATIS Val de Loire dans son ensemble",
+    "prix_retenu_global_eur": 7040000,
+    "note_perimetre_retenu": "Les Vergers d'Anjou ont remporte le pole INNATIS Val de Loire (SCICA POMANJOU + LPC + LVL POMANJOU + 8 SCEA dont CHAUSSEE) pour 7,04 M€. AUCUNE des 7 offres deposees specifiquement dans le dossier 62 (CASTEL/LEROY/VCAPITAL consortium, CELHER+AGRILAND+PENCHENAT, EARL CELLIER DU MESNIL) n'a ete retenue. Les Vergers d'Anjou a depose des offres ailleurs dans le perimetre (SCICA POMANJOU, LPC, LVL POMANJOU) avec faculte de substitution CELHER pour les SCEA agricoles dont CHAUSSEE.",
+    "nb_offres_concurrentes": 3,
+    "offrants": [
+      {"nom": "CASTEL INVEST + LEROY FRERES ET SOEUR + VCAPITAL", "positionnement": "Consortium 3 SAS, NewCo SCEA LVL ANJOU. 50k€ / 4 emplois sur 6. Offre indivisible avec 10 autres entites INNATIS (cout global 6,49 M€). Conseil FIDAL."},
+      {"nom": "SARL CELHER (faculte substitution NewCo AGRILAND NORD 90% + PENCHENAT 10%)", "positionnement": "Couple Boujuau exploitants 1998 + groupe agricole belge AGRILAND + jeune agriculteur primo-installation prioritaire SDREA. 150k€ + DPB 30k€ + avances 60k€ / 4 emplois. Offre indivisible CHAUSSEE+DENIOLAY. Conseil LEXCAP."},
+      {"nom": "EARL CELLIER DU MESNIL", "positionnement": "Exploitation existante Laurent CELLIER (travaux agricoles terres CHAUSSEE depuis 30 ans) + son fils Mathias CELLIER (primo-installation 460ha grandes cultures). 50k€ + DPB 30k€ + avances 55k€ / 4 emplois. Deniers propres. Conseil GAYA Avocats."}
+    ]
+  },
+  "sources": {
+    "csv_dossier": "dossiers.csv",
+    "csv_offres": "offres.csv",
+    "decortique_INNATIS": "vault/brantham/tc-paris-extraction/analyses/decortique-offres-gagnantes.md (Dossier 2 — INNATIS/POMANJOU)",
+    "gagnants_tribunal": "vault/brantham/tc-paris-extraction/analyses/gagnants-tribunal.md (point 6)"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "dossier_id": "33-JEFFREY",
+    "dossier_folder": "33 - SAS JEFFREY CAGNES PARIS",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent-batch08",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "JEFFREY CAGNES PARIS",
+    "cible_siren": "898627872",
+    "naf_secteur": null,
+    "sous_secteur": "Pâtisserie / boulangerie / salon de thé (4 boutiques Paris/Levallois)",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 30,
+    "nb_sites": 4,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-09-24",
+    "dldo": "2026-03-31",
+    "date_audience_cession": null,
+    "aj_nom": "Maître Johanna ROUSSELET",
+    "aj_etude": "SCP ABITBOL & ROUSSELET",
+    "mj_nom": "Maître Jean-Charles DEMORTIER",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": null,
+    "causes_defaillance": "Errances de gestion ancien mandataire (Yoav Peretz). Marques 'Jeffrey Cagnes' propriété personnelle, licence à CONTICINI FRANCHISE (en LJ) — résiliation contestée."
+  },
+  "groupe_dossiers_lies": [],
+  "nb_offres_recues": 5,
+  "notes": "5 PDFs. 4 boutiques : 73 Montorgueil 75002, 1 bd Madeleine 75008, 24 rue des Moines 75017, 11 rue Henri Barbusse Levallois 92300. Marques propriété personnelle Cagnes. Suivi : Louise Ten-Have / Célia Rébier (réf 260218). Offre 05 (FAUCHON) divisible en 2 sous-offres A (Montorgueil → Fauchon) + B (Moines → Maison Arnaud Larher).",
+  "issue_globale_dossier": "en_attente"
+}

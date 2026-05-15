@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "offre_id": "36-LVL-06",
+    "dossier_id": "36-LVL",
+    "dossier_folder": "36 - SAS associé unique LVL POMANJOU",
+    "fichier_source_pdf": "36_SAS___associ__unique_LVL_POMANJOU_offre6.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "LVL POMANJOU (volet SCICA POMANJOU + actifs LPC/LVL indissociables sur site OCEANE)",
+    "cible_siren": "407871656",
+    "naf_secteur": "Négoce de fruits et légumes, station fruitière",
+    "sous_secteur": "Filière fruits — HoneyCrunch + variétés Clubs",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 32,
+    "nb_sites": 2,
+    "type_procedure": "sauvegarde",
+    "date_ouverture": "2025-09-29",
+    "dldo": "2026-03-18",
+    "date_audience_cession": "2026-04-13",
+    "aj_nom": "Marine PACE / Paul-Henri AUDRAS",
+    "aj_etude": "SELARL 2M&Associés ; SELAS AJ UP",
+    "mj_nom": "Valérie LELOUP-THOMAS / Charlotte THIRION",
+    "mj_etude": "SELAFA MJA ; SELARL ATHENA",
+    "juge_commissaire": null,
+    "causes_defaillance": "Recul HoneyCrunch ; station Verrières 30M€ mal absorbée ; échec restructuration"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "amelioree_puis_retenue",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Projet coopératif local cohérent ; continuité sectorielle ; capacité de stockage Vergers d'Anjou passe de 36.000 t à 49.000 t ; voisinage immédiat <5km station Océane ; financement comptant garanti CRCAM + CIC ; 200k€ accompagnement social volontaire ; faculté de substitution CELHER pour SCEA agricoles cohérente.",
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 5,
+    "concurrents_resume": [
+      {"nom": "CASTEL/LEROY/VCAPITAL", "positionnement_2lignes": "Consortium famille (200k€, 23 emplois) — indivisibilité 11 offres, conflit d'intérêts James LAUNAY ex-salarié, ventilation et financement 'ultérieurs'."},
+      {"nom": "ADVANTAGE GROUP / DUTOIT", "positionnement_2lignes": "Offres parallèles L.642-19 sur titres DSA exclus du plan — n'entrent pas en concurrence directe sur le plan de cession."}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Albert RICHARD (Président) + Jacques MALAGIE (DG). Coopérative créée 28/10/1940, RCS Angers 30/10/2002.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 86,
+    "track_record_reprises": ["Fusion-absorption SCAFLA (Ancenis) 2024", "Première station fruitière du Val de Loire"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "Société civile coopérative à capital variable",
+      "date_creation": "1940-10-28",
+      "capital_eur": 3595855,
+      "rcs": "071201594 RCS Angers",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 3000000,
+    "decomposition": {
+      "incorporels_eur": 7977,
+      "corporels_eur": 653036,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": 2338988,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Chèque de banque ou virement CDC du cabinet AJ UP au plus tard 2 jours ouvrés avant audience. Attestation CRCAM Anjou-Maine + CIC Ouest jointes.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["BLUE WHALE (associée 12,04%)", "SICA TRANSFOFRUITS (associée 32,65%)"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Aucun emprunt avec sûreté L.642-12 al.4 repris (exclu).",
+    "retraites_chapeau_indemnites": "Aucune retraite chapeau identifiée. 200k€ accompagnement social volontaire sur le total Pôle Val de Loire."
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 31,
+    "pct_reprise": 0,
+    "categories_reprises": "LVL POMANJOU stricto sensu : 0 contrats. Mais offre globale Vergers d'Anjou reprend 28 CDI sur 49 (SCICA POMANJOU 5/8 + LPC 6/13 + LVL POMANJOU 17/28 dans version améliorée 08/04/2026).",
+    "categories_non_reprises_raisons": "Reprise contrats LVL POMANJOU portée par l'offre améliorée (8 avril) sur le périmètre LPC + LVL POMANJOU via substitution CELHER.",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {
+      "nb": 21,
+      "calendrier": null,
+      "indemnites": "200.000€ mesures d'accompagnement social volontaires (offre globale)",
+      "accompagnement": "200k€ accompagnement social pour salariés non repris — geste majeur volontaire."
+    },
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "structurel",
+    "diagnostic_resume": "Synergie industrielle <5km avec station Océane Verrières-en-Anjou ; renouvellement effectifs filière fruits ; intégration TerryLoire (poires) ; BLUE WHALE marché frais + SICA TRANSFOFRUITS industrie. Capacité stockage 36.000 t → 49.000 t.",
+    "vision_strategique_phrase": "Le rachat d'actifs dans le cadre de la mise en Redressement Judiciaire du pôle Val de Loire de la Société INNATIS constitue un projet en totale adéquation avec la stratégie définie par la Coopérative LES VERGERS D'ANJOU",
+    "pivots_prevus": "Liberté totale de commercialisation (levée restrictions territoriales/variétales Innatis) ; Schéma Directeur Industriel 2025/26 (audit énergétique, robotique, IA).",
+    "synergies_repreneur": "73 exploitations adhérentes, 1.600 ha vergers, 50.000T fruits, >1.000 emplois ETP, 50M€+ CA. Variétés Clubs (75% volumes) : Pink Lady, Angys, Jazz, Fred, Coeur de Reine, Candine, Rockit, Juliet.",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": "Schéma Directeur Industriel 2025/26 (audit énergétique, robotique, IA)",
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "prudentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 3000000,
+    "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": true,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["CRCAM Anjou et Maine", "CIC Ouest"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "Site Verrières-en-Anjou (49) maintenu",
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": ["Sous réserve d'attestations LAB-FT et attestation CRCAM (capacité financement comptant 3M€)"],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 50,
+    "nb_pages_corps_offre": 30,
+    "nb_pages_annexes": 20,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": true,
+    "annexes_attest_bancaire": true,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": true,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": true,
+    "soutien_banques_historiques": true,
+    "personnalisation_visite_site": true,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": "SELARL LEXCAP Avocats",
+    "avocat_nom": "Cabinet LEXCAP (4 rue du Quinconce 49100 Angers — dossier 26A00948 TB/CVA/NMA)"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "La Coopérative LES VERGERS D'ANJOU est le plus proche voisin de la station OCEANE du groupe INNATIS, et travaille sur les mêmes métiers.",
+    "phrase_engagement_social": "Par ailleurs la Coopérative Les Vergers d'Anjou propose de participer aux mesures d'accompagnement social à hauteur de 200 000.00 euros.",
+    "phrase_vision_strategique": "La Coopérative LES VERGERS D'ANJOU est le premier acteur de production et commercialisation de fruits du Val de Loire. C'est un ensemble d'arboriculteurs du Val de Loire, producteurs de pommes, poires, cassis et groseilles sur une surface totale de près de 1 600 ha pour 73 exploitations adhérentes, qui commercialisent ensemble près de 50 000 T de fruits et petits fruits.",
+    "phrase_justification_prix": "Paiement du prix de cession par chèques de banque (un par structure reprise) remis avant l'audience d'examen des offres du 13 avril 2026."
+  }
+}

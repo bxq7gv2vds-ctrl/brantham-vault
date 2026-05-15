@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "offre_id": "03-INSULA-12",
+    "dossier_id": "03-INSULA",
+    "dossier_folder": "03 - SCI INSULA",
+    "fichier_source_pdf": "03_SCI_INSULA_offre12.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI INSULA (offre dediee - 12 emplacements de parking)",
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "12 emplacements de parking",
+    "type_procedure": "RJ",
+    "dldo": "2026-03-02",
+    "aj_nom": "Maitre Helene BOURBOULOUX",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "causes_defaillance": "Defaillance groupe Melot-Gouband ('Affaire Balthazar')"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_rejet_verbatim": "Offre HOUSEBASE dediee SCI INSULA 02/03/2026 - prix conservatoire 10k EUR. MIORCEC propose 101k pour memes 12 parkings (10x plus). Note : 'Ce montant conservatoire tient compte des informations parcellaires dont nous disposons a ce stade dans la data room'.",
+    "nb_offres_concurrentes": 12
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Philippe ZERR (Directeur General)",
+    "experience_sectorielle_oui_non": "NR",
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "capital_eur": 49780,
+      "rcs": "908068331 RCS Rennes",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 10000,
+    "decomposition": {
+      "immeubles_eur": 10000
+    },
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Paiement comptant au jour de la signature de l'acte de cession. Sans condition suspensive d'obtention d'un pret bancaire."
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "plan_licenciement": {}
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "vision_strategique_phrase": "Offre globale et forfaitaire 10 000 EUR Net Vendeur. Montant conservatoire tient compte des informations parcellaires dont nous disposons a ce stade dans la data room",
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "prudentes",
+    "maintien_site": "oui_total"
+  },
+  "financement": {
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "partenaires_financiers": ["Fonds propres et comptes courants d'associes"]
+  },
+  "engagements_specifiques": {
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Visite sur site : realisation d'une visite complete de l'actif immobilier",
+      "Audits techniques : communication et analyse de l'integralite des diagnostics techniques (DDT complet a jour) ne revelant aucune anomalie redhibitoire",
+      "Audit juridique : reception de la note d'audit redigee explicitant la situation juridique de l'actif (etat des dettes, servitudes, situation locative, contrats en cours)"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "incoherent",
+    "differenciation_concurrents_explicite": false,
+    "erreurs_apparentes": ["Prix 10k EUR = 10x moins que MIORCEC 101k sur memes 12 parkings - 'prix conservatoire' indique sous-evaluation volontaire", "Offre 'sans condition suspensive d'obtention d'un pret bancaire' MAIS 3 CS (visite, audit technique, audit juridique) - sans CS bancaire ne signifie pas aucune CS"],
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Conformement aux dispositions de l'article L.642-1 et suivants du Code de commerce. Agissant tant pour son compte que pour le compte de toute personne morale a constituer, avec faculte de substitution au profit de toute structure dediee constituee ulterieurement",
+    "phrase_justification_prix": "Nous formulons une offre globale et forfaitaire de 10 000 EUR (Dix mille euros) s'entendant Net Vendeur. Ce montant conservatoire tient compte des informations parcellaires dont nous disposons a ce stade dans la data room"
+  }
+}

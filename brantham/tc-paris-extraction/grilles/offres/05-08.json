@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "offre_id": "05-08",
+    "dossier_id": "05",
+    "dossier_folder": "05 - SARL à associé unique MY LITTLE FINGER",
+    "fichier_source_pdf": "offre_08_gd72167441.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SARL MY LITTLE FINGER",
+    "cible_siren": "512055286",
+    "naf_secteur": "Restauration / bar / club",
+    "sous_secteur": "Bar americain club licence IV (4eme categorie) - 16 av Friedland 75008",
+    "effectif_total": 3,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-01-07",
+    "dldo": "2026-01-06",
+    "date_audience_cession": "2026-01-06",
+    "aj_nom": "Maitre Marine PACE",
+    "aj_etude": "SELARL 2M & Associes",
+    "mj_nom": "Maitre Stephane Gorrias",
+    "mj_etude": "SCP BTSG"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "amelioree_puis_retenue",
+    "issue_globale_dossier": "en_attente",
+    "motifs_rejet_verbatim": "Offre initiale 80 000 EUR / 3 emplois - amelioree par offre 05-01 du 05/02/2026 (281 000 EUR, substitution LE GAGA vs FINANCIERE DAUNOU 9)",
+    "nb_offres_concurrentes": 8
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Guillaume De BOIS (President via ETABLISSEMENTS GUILLAUME DE BOIS - RCS 948 828 579)",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [
+      "Club Vendome",
+      "Salons du Louvre",
+      "Le Tape",
+      "PIERRE 1ER HOSPITALITY (cedee 1,030M EUR)"
+    ],
+    "capacite_financiere_demontree": "forte_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "capital_eur": 200000,
+      "rcs": "387790405",
+      "type_vehicule": "existante",
+      "kbis_present_en_annexe": false
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 80000,
+    "decomposition": {
+      "incorporels_eur": 70000,
+      "corporels_eur": 7000,
+      "stocks_eur": 3000
+    },
+    "charges_augmentatives_eur": 15927,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Cheque banque ou virement integral a l'audience - sans recours a l'emprunt"
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail commercial 16 av Friedland"],
+    "credit_bail_repris": [],
+    "contrats_fournisseurs_repris": ["Gaz", "Eau", "Electricite"],
+    "engagements_L642_12_al4": false
+  },
+  "volet_social": {
+    "nb_salaries_repris": 3,
+    "nb_total_salaries": 3,
+    "pct_reprise": 100,
+    "categories_reprises": "Chef partie + Agent entretien + Cuisinier",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "engagement_maintien_emplois_duree_mois": 24
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "plan_affaires_3ans_present": false,
+    "maintien_site": "oui_total"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 80000,
+    "apport_origine_documentee": "oui_rib_attestation",
+    "dette_bancaire_engagement_ferme": false,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "items": [],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "commercial",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_business_plan": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "personnalisation_visite_site": false,
+    "coherence_prix_BP": "NR",
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": "CENTURY 21 Horeca Paris (107 rue de Tocqueville 75017) - mandataire intermediaire",
+    "avocat_nom": "Jean-Paul EUSEBIO"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Prix total acquisition 80 000 EUR + Reconstitution depot garantie bail 15 927 EUR = Total General 95 927 EUR - sans recours a l'emprunt",
+    "phrase_engagement_social": "Maintien emploi 24 mois sans licenciement economique"
+  }
+}

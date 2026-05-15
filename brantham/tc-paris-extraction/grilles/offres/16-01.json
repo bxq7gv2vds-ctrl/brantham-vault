@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "offre_id": "16-01",
+    "dossier_id": "16",
+    "dossier_folder": "16 - SAS à associé unique UMAKAYU",
+    "fichier_source_pdf": "offre_01_gd73871373.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS UMAKAYU",
+    "cible_siren": "897805008",
+    "naf_secteur": "Restauration / Cafe-patisserie",
+    "sous_secteur": "Cafe asiatique japonais/coreen (Paris 1er et 2eme)",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 22,
+    "nb_sites": 3,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-09-11",
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": "Me Celine Pelzer",
+    "aj_etude": "SELARL P2G",
+    "mj_nom": "Me Stephane Gorrias",
+    "mj_etude": "SCP BTSG",
+    "juge_commissaire": "Pascal Cholme",
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 2,
+    "concurrents_resume": [
+      {"nom": "TCS HOLDING (NOKCHA)", "positionnement_2lignes": "Holding restauration the asiatique, offre 75000 EUR mais SEULEMENT sur 57 rue Petits Champs et 1 salarie sur 6+. Groupe THE ALLEY + OATS COFFEE."},
+      {"nom": "M. Jaky SUN et Mme Livi SUN", "positionnement_2lignes": "PP avec faculte substitution, restaurateurs SARL EURASIA Steack Factory (CA 3.1M 2022), offre 50000 EUR sur Cafe Maru complet + 6/7 salaries SANS CS."}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_concurrent",
+    "age_parcours_dirigeant": "Jun Yoshikawa, ne 26/01/1982 a Paris 15eme. Frere du dirigeant d'Umakayu (declenche art. L.642-3 — derogation requise). Domicile : 34 rue Sainte-Anne 75001 Paris (a quelques metres des fonds).",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["Groupe Buhi Buhi : Tonton Ramen (4 rue Cherubini), Toritori Ramen (2 rue Cherubini), Gyogyo Ramen (1 rue Cherubini), Tenten Udon (46 rue Sainte-Anne)"],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SASU",
+      "date_creation": "2024-07-25",
+      "capital_eur": 1000,
+      "rcs": "931376628 RCS Paris",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 5000,
+    "decomposition": {
+      "incorporels_eur": 2500,
+      "corporels_eur": 2500,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 260259.20,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": null,
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail Cafe Maru 8/10 rue de Ventadour 75001 Paris"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": true,
+    "engagement_L642_12_montant_eur": 184908,
+    "passif_privilegie_repris": "Reprise pret CIC L.642-12 al.4 (184908 EUR / 38 mensualites 4866 EUR) — Kintaro Cafe",
+    "retraites_chapeau_indemnites": "Droits acquis 15 salaries Kintaro Cafe estimes 31969 EUR + 4 salaries Cafe Maru estimes 5544 EUR"
+  },
+  "volet_social": {
+    "nb_salaries_repris": 19,
+    "nb_total_salaries": 22,
+    "pct_reprise": 86.4,
+    "categories_reprises": "Ensemble des salaries des 2 fonds Kintaro Cafe + Cafe Maru (15+4)",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Projet operationnel detaille : transfert activite Kintaro Cafe vers le local Cafe Maru (etablissements a tres courte distance — quelques rues). Sous-location partielle du local Cafe Maru a usage de bureaux = revenu locatif 42000 EUR/an. Refinancement bancaire envisage pour 200K EUR travaux.",
+    "vision_strategique_phrase": "Consolidation des fonds asiatiques sur un meme site Cafe Maru avec optimisation locative.",
+    "pivots_prevus": "Transfert physique activite Kintaro Cafe vers Cafe Maru, sous-location bureaux",
+    "synergies_repreneur": "Groupe Buhi Buhi (4 restaurants ramen/udon Paris 2e a quelques rues — Cherubini/Sainte-Anne). 4 nouveaux etablissements programmes en 2026.",
+    "synergies_chiffrees_eur": 42000,
+    "capex_montant_eur": 200000,
+    "capex_calendrier": null,
+    "capex_nature": "Travaux (refinancement bancaire envisage)",
+    "plan_affaires_3ans_present": true,
+    "ca_an1_eur": 986000,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": 97000,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "partiel",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": 200000,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Obtention de la derogation du ministere public conformement a l'article L.642-3 (Jun Yoshikawa est le frere du dirigeant d'Umakayu)",
+      "Absence de survenance d'evenement significatif defavorable (incendie, changement de destination) entre l'offre et le jugement",
+      "Absence d'information nouvelle en dataroom de nature a remettre en cause la perennite du projet (demissions importantes, depart d'homme cle)"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": true,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": true,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": true,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Lien familial avec dirigeant Umakayu (frere) — necessite derogation L.642-3 expresse"],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Buhi Buhi (4 restaurants Paris 2e) propose la reprise INTEGRALE des 2 fonds (Kintaro Cafe + Cafe Maru) avec maintien des 19 salaries.",
+    "phrase_engagement_social": "Ensemble des elements des fonds de commerce Kintaro Cafe (sauf bail) et Cafe Maru (avec bail) — reprise integrale des 19 salaries",
+    "phrase_vision_strategique": "Projet : transferer l'activite Kintaro Cafe vers le local Cafe Maru (etablissements a tres courte distance). Sous-location partielle du local Cafe Maru a usage de bureaux = revenu locatif 42000 EUR/an.",
+    "phrase_justification_prix": "Reparti : Kintaro Cafe 1000 EUR (500 inc + 500 corp) / Cafe Maru 4000 EUR (2000 inc + 2000 corp) — soit 5000 EUR total + ~260K EUR charges augmentatives"
+  }
+}

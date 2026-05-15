@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "offre_id": "62-02",
+    "dossier_id": "62",
+    "dossier_folder": "62 - SCA SOCIETE D EXPLOITATION DE LA CHAUSSEE",
+    "fichier_source_pdf": "62_SCA_SOCIETE_D_EXPLOITATION_DE_LA_CHAUSSEE_offre2.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCEA DE LA CHAUSSEE",
+    "cible_siren": "786169748",
+    "naf_secteur": "Agriculture / Arboriculture",
+    "sous_secteur": "Vergers Pole Val de Loire INNATIS — Branche Angevine",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 6,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-16",
+    "dldo": "2026-03-18",
+    "date_audience_cession": "2026-04-30",
+    "aj_nom": "Me Marine PACE & Me Paul-Henri AUDRAS",
+    "aj_etude": "SELARL 2M&Associes ; SELAS AJ UP",
+    "mj_nom": "Me Valerie LELOUP-THOMAS & Me Charlotte THIRION",
+    "mj_etude": "SELAFA MJA ; SELARL ATHENA",
+    "juge_commissaire": null,
+    "causes_defaillance": "Mauvaises recoltes 2023-2025 HoneyCrunch. RJ 16/03/2026."
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": "Les Vergers d'Anjou retenu au niveau pole INNATIS (7,04 M€ + 200k€ accompagnement social). Offre CELHER+AGRILAND non retenue dans le perimetre direct CHAUSSEE+DENIOLAY mais CELHER recuperee comme substitut par Vergers d'Anjou pour LPC et LVL POMANJOU.",
+    "nb_offres_concurrentes": 3,
+    "concurrents_resume": [
+      {"nom": "CASTEL INVEST + LEROY F&S + VCAPITAL", "positionnement_2lignes": "Consortium 3 SAS. 50k€ / 4 emplois. Indivisibilite 11 offres = chateau de cartes."},
+      {"nom": "EARL CELLIER DU MESNIL", "positionnement_2lignes": "Laurent CELLIER travaille terres CHAUSSEE depuis 30 ans + fils Mathias. 50k€ + DPB 30k€ + avances 55k€ / 4 emplois."},
+      {"nom": "Les Vergers d'Anjou (cooperative, hors fichiers dossier 62)", "positionnement_2lignes": "RETENU. 7,04 M€ + 200k€ accompagnement, faculte substitution CELHER pour LPC et LVL POMANJOU."}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Herve BOUJUAU (gerant CELHER, ne 11/03/1974 Saumur) et Celine BOUJUAU nee DELHOMME (gerante, nee 02/03/1975 Saint-Malo) — exploitants agricoles depuis 1998 ; Jonathan PENCHENAT (gerant NewCo, ne 28/04/1991 Libourne) — jeune agriculteur primo-installation, salarie SCA CHAUSSEE depuis 06/06/2018 (saisonnier) puis CDI depuis 01/01/2022, responsable atelier 'Fraisekiri'",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 28,
+    "track_record_reprises": ["AGRILAND NORD coordonne exploitations agricoles dans 7 regions FR (Pays de Loire, Centre Val de Loire, Nouvelle Aquitaine, Bretagne, Normandie, IDF, Hauts-de-France)"],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "NewCo SCEA a constituer — 90% AGRILAND NORD / 10% PENCHENAT",
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": null,
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 150000,
+    "decomposition": {
+      "incorporels_eur": 1000,
+      "corporels_eur": 59000,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": 90000,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds propres AGRILAND NORD — pas d'emprunt bancaire",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Tous baux ruraux contractualises", "Droits a Paiement de Base (DPB) PAC"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 4,
+    "nb_total_salaries": 6,
+    "pct_reprise": 66.7,
+    "categories_reprises": "3 Agents arboricoles + 1 Responsable maraichage",
+    "categories_non_reprises_raisons": "1 Assistant administratif + 1 Chef de culture",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {
+      "nb": 2,
+      "calendrier": null,
+      "indemnites": null,
+      "accompagnement": null
+    },
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "3 axes — grandes cultures (suivi cultures automne + printemps), verger (restructuration HoneyCrunch arrachage/surgreffage, focus Pink Lady/Choupette/Juliet, conservation Kiwi), libre cueillette/vente a cueillir. Adhesion envisagee Cooperative Les Vergers d'Anjou pour gestion post-recolte.",
+    "vision_strategique_phrase": "Strategie 3 axes avec restructuration HoneyCrunch (arrachage + surgreffage) et focus varietes premium Pink Lady/Choupette/Juliet + valorisation savoir-faire local PENCHENAT",
+    "pivots_prevus": "Arrachage et surgreffage HoneyCrunch ; pivot varietal vers Pink Lady, Choupette, Juliet ; conservation Kiwi ; vente a cueillir (atelier Fraisekiri)",
+    "synergies_repreneur": "AGRILAND coordination multi-regionale + adhesion future Cooperative Les Vergers d'Anjou",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": "Arrachage + surgreffage vergers HoneyCrunch (non chiffre)",
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "partiel"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 306000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": 1076000,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["AGRILAND NORD (filiale AGRILAND SA Belgique, cap 2,5 M BEF)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 1,
+    "items": [
+      "Decision judiciaire arretant le plan de cession ; offre porte aussi sur SCEA DE LA DENIOLAY (offre indivisible CHAUSSEE+DENIOLAY)"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": true,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": true,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": true,
+    "personnalisation_rencontre_equipes": true,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "coherent",
+    "differenciation_concurrents_explicite": true,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": "SELARL LEXCAP",
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Offre globale CHAUSSEE+DENIOLAY portee par CELHER (Boujuau exploitants 1998) avec faculte substitution NewCo AGRILAND NORD 90% / PENCHENAT 10% — jeune agriculteur primo-installation prioritaire SDREA",
+    "phrase_engagement_social": "Reprise 4 salaries sur 6 + reprise 0 salarie DENIOLAY (sur 2) — PENCHENAT lui-meme salarie SCA CHAUSSEE depuis 2018 promu gerant NewCo",
+    "phrase_vision_strategique": "Restructuration verger HoneyCrunch par arrachage/surgreffage, focus varietes premium Pink Lady/Choupette/Juliet, conservation Kiwi, valorisation atelier Fraisekiri vente a cueillir",
+    "phrase_justification_prix": "Prix 150 000€ ventile : Incorporels 1000€ + Corporels (non nantis non gages) 59000€ + DPB/PAC 30000€ + Avances aux cultures 60000€"
+  }
+}

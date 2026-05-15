@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "offre_id": "06-ATELIERS_VG-02",
+    "dossier_id": "06",
+    "dossier_folder": "06 - SCI LES ATELIERS VILLEJUIF GENTILLY",
+    "fichier_source_pdf": "06_SCI_LES_ATELIERS_VILLEJUIF_GENTILLY_offre2.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "partial_pdf_only"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI LES ATELIERS VILLEJUIF GENTILLY (portefeuille FHBX 26 entites - Foncière Melot-Gouband)",
+    "cible_siren": null,
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "SCI detention actif immobilier - portefeuille consolide FHBX",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 0,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": "2026-03-02",
+    "date_audience_cession": null,
+    "aj_nom": "Maitre Helene BOURBOULOUX (avec Francois RAYBAUD et Paul CHARREY)",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "Monsieur Jean-Francois PONCET",
+    "causes_defaillance": "Defaillance groupe immobilier Melot-Gouband (Affaire Balthazar)"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "nb_offres_concurrentes": 9,
+    "concurrents_resume": [
+      {"nom": "VERDOSO SAS", "positionnement_2lignes": "Offre globale plan de cession 26 entites FHBX - groupe Verdoso (Luxembourg)"},
+      {"nom": "LABRAX INVEST", "positionnement_2lignes": "Offre finale 21M EUR portefeuille global 26 entites + appartement Paris 16"},
+      {"nom": "GROUPE ARCANGE", "positionnement_2lignes": "Offre amelioree 8,7M EUR asset deal partiel - Michael SFEDJ"},
+      {"nom": "HOUSEBASE", "positionnement_2lignes": "Offre 10000 EUR dediee - 2 ateliers-lofts 120m2 Villejuif"}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Victor COHEN",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "NR",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "MUVICO (groupe foncier patrimonial)",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 250000,
+    "decomposition": {
+      "immeubles_eur": 250000
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "NR"
+  },
+  "reprise_passif": {
+    "engagements_L642_12_al4": false
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 0,
+    "pct_reprise": null,
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "NR",
+    "plan_affaires_3ans_present": false,
+    "maintien_site": "NR",
+    "hypotheses_qualification": "NR"
+  },
+  "financement": {
+    "apport_origine_documentee": "NR",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "structure_dominante": "NR",
+    "ton_dominant": "NR",
+    "executive_summary_present": false,
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {
+    "phrase_justification_prix": "Offre globale Fonciere Melot-Gouband multi-SCI - portion SCI LES ATELIERS VILLEJUIF GENTILLY 250000 EUR (initiale 09/02/2026), amelioree a 255000 EUR (02/03/2026)"
+  }
+}

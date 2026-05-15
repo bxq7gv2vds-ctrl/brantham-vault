@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "offre_id": "62-01",
+    "dossier_id": "62",
+    "dossier_folder": "62 - SCA SOCIETE D EXPLOITATION DE LA CHAUSSEE",
+    "fichier_source_pdf": "62_SCA_SOCIETE_D_EXPLOITATION_DE_LA_CHAUSSEE_offre1.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCEA DE LA CHAUSSEE",
+    "cible_siren": "786169748",
+    "naf_secteur": "Agriculture / Arboriculture (pommes HoneyCrunch, kiwi, petits fruits, grandes cultures)",
+    "sous_secteur": "Vergers Pole Val de Loire INNATIS — Branche Angevine",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 6,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-16",
+    "dldo": "2026-03-18",
+    "date_audience_cession": "2026-04-30",
+    "aj_nom": "Me Marine PACE & Me Paul-Henri AUDRAS",
+    "aj_etude": "SELARL 2M&Associes ; SELAS AJ UP",
+    "mj_nom": "Me Valerie LELOUP-THOMAS & Me Charlotte THIRION",
+    "mj_etude": "SELAFA MJA ; SELARL ATHENA",
+    "juge_commissaire": null,
+    "causes_defaillance": "Mauvaises recoltes 2023-2025 HoneyCrunch (~60% surface). Sauvegarde 29/09/2025 convertie en RJ 16/03/2026."
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": "Tribunal a retenu Les Vergers d'Anjou (cooperative locale, 7,04 M€ pour le pole, faculte substitution CELHER) au detriment du consortium CASTEL/LEROY/VCAPITAL. Selon le decortique (Dossier 2 — INNATIS/POMANJOU) : prix forfaitaire 400k€ pole sans ventilation ('precisee ulterieurement'), modalites financement 'precisees ulterieurement', 4 emplois repris sur 16 (25%), aucune mesure accompagnement social, indivisibilite 10 offres = chateau de cartes. Sur ce dossier 62 CHAUSSEE : 50k€ pour 4/6 emplois, mais consortium ecarte au niveau global du pole.",
+    "nb_offres_concurrentes": 3,
+    "concurrents_resume": [
+      {"nom": "SARL CELHER + AGRILAND NORD + PENCHENAT", "positionnement_2lignes": "150k€ / 4 emplois. PENCHENAT salarie depuis 2018, primo-installation prioritaire SDREA rang 1. Indivisible CHAUSSEE+DENIOLAY."},
+      {"nom": "EARL CELLIER DU MESNIL", "positionnement_2lignes": "50k€ + DPB 30k€ + avances 55k€ / 4 emplois. Laurent CELLIER travaille les terres CHAUSSEE depuis 30 ans + fils Mathias."},
+      {"nom": "Les Vergers d'Anjou (cooperative, hors fichiers dossier 62)", "positionnement_2lignes": "RETENU au niveau pole — 7,04 M€ + 200k€ accompagnement social. Substitution CELHER pour SCEA agricoles."}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "holding_ad_hoc",
+    "age_parcours_dirigeant": "James LAUNAY (Pdt CASTEL INVEST) ; Pierre LEROY via PL INVEST (Pdt LEROY F&S) ; Nicolas VERGER (Pdt VCAPITAL)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": ["Maison Leroy", "Paysans Resistants", "Reseau Les Halles du Verger", "Verger Transformation", "La Chesnaie", "Agi-Serre"],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "NewCo SCEA LVL ANJOU (a constituer) detenue 99,99% SAS BBM / 0,01% LVL INTERNATIONAL ; SAS BBM RCS Le Mans 103 157 244, cap 10000€, detenue 33,34% CASTEL INVEST / 44,44% LEROY F&S / 22,22% VCAPITAL",
+      "date_creation": null,
+      "capital_eur": 1000,
+      "rcs": null,
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 50000,
+    "decomposition": {
+      "incorporels_eur": 1000,
+      "corporels_eur": 24000,
+      "stocks_eur": 1000,
+      "creances_clients_eur": null,
+      "immeubles_eur": 24000,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Cheque de banque ou virement CDC avant audience. Attestations disponibilite fonds a fournir au plus tard 09/04/2026.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Signature nouveau bail (potentiellement rural) — condition suspensive"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Cout global 11 offres INNATIS : 2,0 M€ prix + 1,8 M€ BFR + 500k€ conges + 2,0 M€ passif bancaire + 190k€ Credit Agricole = 6 490 000 €",
+    "retraites_chapeau_indemnites": "Reprise integrale droits acquis salaries repris (conges payes, RTT, repos compensateurs). Cout global estime 500 000 € pour les 11 offres INNATIS."
+  },
+  "volet_social": {
+    "nb_salaries_repris": 4,
+    "nb_total_salaries": 6,
+    "pct_reprise": 66.7,
+    "categories_reprises": "3 Agents arboricoles + 1 Chef de culture",
+    "categories_non_reprises_raisons": "1 Assistant administratif + 1 Responsable Maraichage",
+    "maintien_conditions_anciennete_salaire_lieu": "oui_total",
+    "plan_licenciement": {
+      "nb": 2,
+      "calendrier": null,
+      "indemnites": null,
+      "accompagnement": null
+    },
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Consortium agricole local (200 collaborateurs Maison Leroy + Paysans Resistants + Reseau Les Halles du Verger, ~40 M€ CA consolide, >150 ha vergers + 7 ha serres). NewCo SCEA LVL ANJOU dediee a la reprise indivisible des 11 entites INNATIS Val de Loire.",
+    "vision_strategique_phrase": "Repreneur naturel pour la Branche Val de Loire au titre de l'experience averee dans la gestion d'actifs agricoles et immobiliers — patrimoine familial + complementarite sectorielle",
+    "pivots_prevus": "Maintien activite verger + grandes cultures sous gouvernance NewCo. 380 saisonniers a employer (180 LAUNAY/BOUTINIERES + 200 sur 10 autres structures).",
+    "synergies_repreneur": "Mutualisation gestion + commercialisation entre 11 entites INNATIS reprises + integration Maison Leroy / Paysans Resistants / Halles du Verger",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "NR",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "partiel"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": 1800000,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Avances en compte-courant des holdings CASTEL INVEST / LEROY F&S / VCAPITAL"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 8,
+    "items": [
+      "Absence de garanties/emprunts eligibles L.642-12 al.4/5 ou accord derogatoire",
+      "Accord Organes de la Procedure (renoncement remboursement compte courant 500k€ et titres LVL POMANJOU)",
+      "Accord INNATIS DEVELOPPEMENT pour transfert licences HONEY CRUNCH, ZINGY, CHOUPETTE, KIKOKA",
+      "Autorisation emballage marques PINK LADY et JULIET (CARDELL EXPORT)",
+      "Transfert Licence Pink Lady, Import, carte commerciale station OCEANE Angers",
+      "Signature nouveau bail (potentiellement rural)",
+      "Confirmation vergers traites avant audience",
+      "Confirmation acces informatique et transfert donnees"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 34,
+    "nb_pages_corps_offre": 34,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": true,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": ["Indivisibilite de 11 offres = chateau de cartes (cf decortique Dossier 2)", "Prix 50k€ tres faible vs actifs immobiliers (24k€ d'immeubles dans la ventilation)"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": "Cabinet FIDAL",
+    "avocat_nom": "Antoine BISDORFF & Delphine BRUNET & Sabrina DJELTI"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Offre indivisible avec les 10 autres entites du Pole Val de Loire INNATIS — sauvegarde de 116 salaries sur effectif total 140 (72 contrats sur 96 dans les structures sous plan de cession + 35 GE AZUR + 9 SCEA LES VERGERS LAUNAY)",
+    "phrase_engagement_social": "Reprise integrale des droits a conges payes, RTT et repos compensateurs acquis par les salaries repris — cout estime ~500.000 euros pour l'ensemble des Offres de Reprise Innatis",
+    "phrase_vision_strategique": null,
+    "phrase_justification_prix": "Prix de cession 50 000 € — ventilation Incorporels 1000€ / Corporels 24000€ / Stocks 1000€ / Immobiliers 24000€"
+  }
+}

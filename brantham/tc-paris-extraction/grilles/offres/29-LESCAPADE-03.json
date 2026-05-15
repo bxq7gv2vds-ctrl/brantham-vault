@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "offre_id": "29-LESCAPADE-03",
+    "dossier_id": "29",
+    "dossier_folder": "29 - SAS à associé unique L'ESCAPADE",
+    "fichier_source_pdf": "offre_03_gd71723954.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "L'ESCAPADE",
+    "cible_siren": "450819008",
+    "naf_secteur": "Hôtellerie de plein air — camping 4 étoiles",
+    "ca_dernier_exercice_eur": 235566,
+    "effectif_total": 0,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "aj_nom": "Me Maxime LANGET",
+    "aj_etude": "SELAS BL & Associés",
+    "mj_nom": "Me Florian LACOUR",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "M. Franck MEYNAUD"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 4,
+    "concurrents_resume": [
+      {"nom": "GROUPE SEASONOVA", "positionnement_2lignes": "GAGNANT global Pôle Exploitation Alpha."},
+      {"nom": "MAUVIN/NOEL (PP)", "positionnement_2lignes": "650k€ Escapade standalone."},
+      {"nom": "FEMINA STYL + MARENGO", "positionnement_2lignes": "800k€ Escapade indivisible 15 sites."}
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Loïc PERON-MAGNAN (Président, fils fondateur 50 ans HPA haut de gamme Bidart, Président syndicat HPA Pyrénées-Atlantiques + Président chaîne Airotel) + Stéphane PERON-MAGNAN (DG)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 50,
+    "track_record_reprises": [
+      "Les Embruns d'Oléron (2023)", "Les Pins d'Oléron (2024)", "Océan Vacances (2024)", "Le Dauphin Saint-Georges-de-Didonne (2024)", "Camping Oyam Bidart (origine)", "Résidence Izarpean"
+    ],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS SLBC PERON / CAMPALDIA",
+      "date_creation": null,
+      "capital_eur": 5000900,
+      "rcs": "890876899",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "substitution_prevue"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 3,
+    "decomposition": {
+      "incorporels_eur": 1,
+      "corporels_eur": 1,
+      "stocks_eur": 1,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Chèque de banque ou virement au plus tard au jour de l'audience — fonds propres",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail commercial avec SCI LA GRANDE LISSE"],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": ["Reprise contrat de location-gérance entre L'Escapade et ALPHA CAMPING"],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": null,
+    "nb_total_salaries": 0,
+    "pct_reprise": null,
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": null},
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Groupe CAMPALDIA HPA haut de gamme — 5 campings + 1 résidence — 30 salariés permanents jusqu'à 180 haute saison. Acquisitions récentes : Oléron+Charente-Maritime.",
+    "vision_strategique_phrase": "Reprise du Camping L'Escapade uniquement (mais offre couvre groupe NEOCAMP indivisible 15 campings).",
+    "pivots_prevus": null,
+    "synergies_repreneur": "Réseau CAMPALDIA Qualité Tourisme depuis 2017. SCI FERME OYAMBURUA holding familial.",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "absentes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 4,
+    "items": [
+      "Finalisation due diligence financières, juridiques, fiscales, commerciales et sociales satisfaisantes",
+      "Obtention de l'accord des personnes publiques (DSP, location-gérance)",
+      "Obtention des financements nécessaires",
+      "Absence de modification substantielle"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_business_plan": false,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_cni_dirigeants": true,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "incoherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["Prix symbolique 3€ + besoin financement 3-5M€ annoncé — incohérence apparente"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Prix de cession symbolique de 3€ (1€ incorporels + 1€ corporels + 1€ stocks)",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": "Besoin de financement annoncé : 3 à 5 M€ pour assurer l'effectivité de la reprise de l'ensemble des actifs du groupe NEOCAMP",
+    "phrase_justification_prix": "Le Candidat Repreneur pourra augmenter le prix de cession dès retour des organes sur le transfert des conventions avec personnes publiques"
+  },
+  "bilan_repreneur": {
+    "ca_eur": 10109034,
+    "resultat_exploitation_eur": 2127355,
+    "resultat_net_eur": 1249245,
+    "exercice_clos": "2025"
+  }
+}

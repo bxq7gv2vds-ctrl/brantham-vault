@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "dossier_id": "30-LORMED",
+    "dossier_folder": "30 - SAS à associé unique LORMED",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent-batch08",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "LORMED",
+    "cible_siren": "422924886",
+    "naf_secteur": "68.20B",
+    "sous_secteur": "Hôtellerie de plein air / camping 4 étoiles",
+    "ca_dernier_exercice_eur": 267714,
+    "ebitda_eur": 30139,
+    "effectif_total": 0,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "date_audience_cession": null,
+    "aj_nom": "Maître Lou FLECHARD ; Maître Maxime LANGET",
+    "aj_etude": "SCP CBF ASSOCIÉS ; SELAS BL & ASSOCIÉS",
+    "mj_nom": "Maître Florian LACOUR ; Maître Camille STEINER",
+    "mj_etude": "SELAFA MJA ; SELARL ATHENA",
+    "juge_commissaire": "Franck MEYNAUD",
+    "causes_defaillance": "Filiale du pôle foncier NEOCAMP, location-gérance à ALPHA CAMPING OCCITANIE — chute CA 944k€ (2022) → 343k€ (2023) → 268k€ (2024), pertes cumulées et défaillance générale du groupe."
+  },
+  "groupe_dossiers_lies": ["30-LORMED", "SCI-CHA", "ALPHA-CAMPING", "ALPHA-CAMPING-OCCITANIE", "ESCAPADE", "GRANDE-LISSE", "ILO"],
+  "nb_offres_recues": 5,
+  "notes": "Filiale SAS ILO (groupe NEOCAMP pôle foncier). Bail commercial SCI C.H.A. Camping Soleil d'Oc Narbonne Plage 4* franchise Camping Paradis. 3 CDI portés par ALPHA CAMPING OCCITANIE (location-gérance). Issue : Seasonova a remporté les 15 sites Alpha Camping (publiée 28/04/2026 — concerne le périmètre exploitant, pas directement LORMED foncier). Offre LORMED elle-même : non publiée explicitement, vraisemblablement absorbée dans la cession Seasonova ou jugée indivisible avec d'autres offres groupées (FEMINA-MARENGO indivisible avec ILO/ACO/CHA).",
+  "issue_globale_dossier": "plan_cession_arrete"
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "dossier_id": "21B-AEDES",
+    "dossier_folder": "21 - SCI AEDES",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI AEDES",
+    "cible_siren": null,
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "SCI de detention immobiliere — portefeuille consolide FHBX 'Fonciere Melot Gouband / Affaire Balthazar' (26 entites)",
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": "2026-03-02",
+    "date_audience_cession": null,
+    "aj_nom": "Maitre Helene BOURBOULOUX (avec Francois RAYBAUD et Paul CHARREY)",
+    "aj_etude": "SELARL FHBX",
+    "aj_adresse": "176 avenue Charles-de-Gaulle, 92200 Neuilly-sur-Seine",
+    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "Monsieur Jean-Francois PONCET",
+    "tribunal": "Tribunal des Activites Economiques de Paris",
+    "causes_defaillance": null,
+    "nb_offres_recues": 9,
+    "effectif_total": 0,
+    "actif_principal": "SCI de detention immobiliere (bien rattache a preciser via PDFs MUVICO >5MB non extraits)",
+    "portefeuille_consolide": "26 SCI/SNC du groupe FHBX 'Fonciere Melot Gouband' (Affaire Balthazar). Inclut appartement Paris 16e (lot 35, 54-56 av. Theophile Gautier)."
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "nb_offres_concurrentes": 9,
+    "concurrents_resume": [
+      {"nom": "MUVICO (Victor COHEN)", "positionnement_2lignes": "Groupe foncier patrimonial Paris 16. Offre globale multi-SCI : portion AEDES 90 000 EUR initiale (09/02) puis 100 000 EUR amelioree (02/03). PDFs offres 1/3/4."},
+      {"nom": "HOUSEBASE (Philippe ZERR)", "positionnement_2lignes": "SAS Rennes, capital 49 780 EUR. Offre dediee AEDES (offre 9) + offre 5 mal classee (cible SNC ADONIA)."},
+      {"nom": "VERDOSO SAS", "positionnement_2lignes": "Offre globale plan de cession 26 entites FHBX. 2 PDFs Docusign distincts (offres 6 et 7). Prix par entite non extrait."},
+      {"nom": "LABRAX INVEST", "positionnement_2lignes": "Offre finale ferme et indivisible 21 M EUR pour le portefeuille global 26 entites + appartement Paris 16e. Reprise sous garanties ordinaires et usuelles. Plus haute enveloppe consolidee."}
+    ]
+  },
+  "notes_dossier": "Dossier dependant du portefeuille consolide FHBX (Affaire Balthazar). PDFs MUVICO >5MB non extraits — prix issus de table de reference CSV. Pattern type 'fonciere distressed' Bourbouloux/FHBX (identique a SNC PRIMEL TREGASTEL 28.json, SCI INSULA 03.json). PDF offre 2 type UNKNOWN non identifie. PDF offre 5 mal classe (HOUSEBASE cible SNC ADONIA, 30 rue Etienne Dolet 94230 Cachan, 501 600 EUR — a traiter cote ADONIA). Confrontation : enveloppe globale LABRAX 21 M EUR vs offres par lots (MUVICO/VERDOSO/HOUSEBASE) — issue probable enveloppe consolidee si conformite L.642-3."
+}

@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "offre_id": "30-LORMED-04",
+    "dossier_id": "30-LORMED",
+    "dossier_folder": "30 - SAS à associé unique LORMED",
+    "fichier_source_pdf": "offre_04_gd71724735.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent-batch08",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "LORMED",
+    "cible_siren": "422924886",
+    "naf_secteur": "68.20B",
+    "sous_secteur": "Camping 4*",
+    "ca_dernier_exercice_eur": 267714,
+    "ebitda_eur": 30139,
+    "effectif_total": 0,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "date_audience_cession": null,
+    "aj_nom": "Maître Lou FLECHARD ; Maître Maxime LANGET",
+    "aj_etude": "SCP CBF ASSOCIÉS ; SELAS BL & ASSOCIÉS",
+    "mj_nom": "Maître Florian LACOUR ; Maître Camille STEINER",
+    "mj_etude": "SELAFA MJA ; SELARL ATHENA",
+    "juge_commissaire": "Franck MEYNAUD",
+    "causes_defaillance": "Défaillance groupe NEOCAMP"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 4,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Famille Péron-Magnan (Loïc Président + Stéphane DG + Bruno) — 50 ans histoire familiale à Bidart",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 50,
+    "track_record_reprises": ["Camping Oyam 4* (2017)", "Les Embruns d'Oléron (2023)", "Les Pins d'Oléron (2024)", "Océan Vacances", "Le Dauphin"],
+    "capacite_financiere_demontree": "forte_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "CAMPALDIA/SLBC PERON ou société à constituer (faculté substitution)",
+      "date_creation": null,
+      "capital_eur": 5000900,
+      "rcs": "890876899",
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "newco"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 3,
+    "decomposition": {
+      "incorporels_eur": 1,
+      "corporels_eur": 1,
+      "stocks_eur": 1,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "NR",
+    "garanties_paiement": "Possibilité d'augmenter prix après retour organes procédure sur conventions personnes publiques",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": ["Bail commercial LORMED/SCI C.H.A."],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": ["Contrats clients hors précontentieux"],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": null,
+    "nb_total_salaries": 0,
+    "pct_reprise": null,
+    "categories_reprises": "À préciser",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {"nb": null, "calendrier": null, "indemnites": null, "accompagnement": null},
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Reprise dans ensemble indivisible NEOCAMP visant 15 campings. Pas de cession actifs 2 ans. Besoin financement global 3-5M€.",
+    "vision_strategique_phrase": "Pôle HPA haut de gamme familial",
+    "pivots_prevus": null,
+    "synergies_repreneur": "5 campings + 1 résidence + projet Dordogne. 30 permanents → 180 saison.",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": 10109034,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": 3018000,
+    "hypotheses_qualification": "realistes",
+    "maintien_site": "oui_total",
+    "maintien_marques_savoir_faire": "NR"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": ["Actionnaires actuels (sans recours emprunt bancaire)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "2 ans",
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 4,
+    "items": [
+      "Finalisation due diligence financières/juridiques/fiscales/commerciales/sociales",
+      "Obtention accord personnes publiques pour reprise/transfert contrats",
+      "Obtention financements nécessaires",
+      "Absence modification substantielle entre dépôt et jugement"
+    ],
+    "agressivite_envers_dirigeants": "moderee"
+  },
+  "forme_presentation": {
+    "nb_pages_total": null,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "mixte",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "claire"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "incoherent",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": true,
+    "erreurs_apparentes": ["Prix 3€ symbolique sans charges augmentatives chiffrées"],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {"cabinet": null, "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "Loïc PERON Président syndicat HPA Pyrénées-Atlantiques + Président chaîne Airotel",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": "50 ans d'histoire familiale à Bidart — pôle HPA haut de gamme",
+    "phrase_justification_prix": "3€ symbolique avec possibilité d'augmentation post-conventions personnes publiques"
+  }
+}

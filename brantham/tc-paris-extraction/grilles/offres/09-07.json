@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "offre_id": "09-07",
+    "dossier_id": "09",
+    "dossier_folder": "09 - SAS à associé unique EZIN & STRAUUS CP - Sigle E&S CP",
+    "fichier_source_pdf": "offre_07_gd72757150.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "low",
+    "note_meta": "PDF scanné/image — texte de l'offre non extractible (pages 1-19 image-only). OCR à effectuer pour récupérer prix, périmètre, emplois, CS, financières."
+  },
+  "identification": {
+    "cible_raison_sociale": "EZIN & STRAUUS CP",
+    "cible_siren": "501233001",
+    "naf_secteur": "Expertise comptable / Commissariat aux comptes",
+    "effectif_total": 7,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-05-15",
+    "dldo": "2026-01-15",
+    "aj_nom": "Me Carole MARTINEZ",
+    "mj_nom": "Me Bernard CORRE"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "nb_offres_concurrentes": 3
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_concurrent",
+    "age_parcours_dirigeant": "Adama Fah Kelessery SYLLA, né 19/02/1985 à Cocody Abidjan Côte d'Ivoire — Président. Émetteur DocuSign : Killian MEHNAOUI (SAPAUDIA PARTNERS, Saint-Maur-des-Fossés 94100).",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS à associé unique",
+      "date_creation": "2020-09-24",
+      "capital_eur": 1000,
+      "rcs": "889283362",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": null,
+    "decomposition": {"incorporels_eur": null, "corporels_eur": null},
+    "modalites_paiement": "NR",
+    "garanties_paiement": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "engagements_L642_12_al4": false
+  },
+  "volet_social": {
+    "nb_salaries_repris": null,
+    "nb_total_salaries": 7,
+    "pct_reprise": null,
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "NR",
+    "vision_strategique_phrase": null,
+    "plan_affaires_3ans_present": false,
+    "hypotheses_qualification": "NR",
+    "maintien_site": "NR",
+    "maintien_marques_savoir_faire": "NR"
+  },
+  "financement": {
+    "apport_origine_documentee": "NR",
+    "dette_bancaire_engagement_ferme": false
+  },
+  "engagements_specifiques": {"non_demembrement": false},
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": null,
+    "items": ["Non lisible"],
+    "agressivite_envers_dirigeants": "NR"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 19,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "NR",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "signature_docusign": true,
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "coherence_prix_BP": "NR",
+    "erreurs_apparentes": ["PDF scanné texte image-only non extractible", "Cabinet jeune (créé 2020) capital 1000€ — capacité limitée"],
+    "faculte_substitution_precise": false,
+    "declaration_L642_3_signee": false
+  },
+  "avocat_repreneur": {"cabinet": "SAPAUDIA PARTNERS (Killian MEHNAOUI, émetteur DocuSign)", "avocat_nom": null},
+  "extraits_remarquables": {
+    "phrase_positionnement": "FIDUCIAIRE VALUE — cabinet d'expertise comptable / conseil / commissariat aux comptes",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": null,
+    "phrase_justification_prix": null
+  }
+}

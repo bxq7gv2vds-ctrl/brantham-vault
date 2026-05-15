@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "dossier_id": "29",
+    "dossier_folder": "29 - SAS à associé unique L'ESCAPADE",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "L'ESCAPADE",
+    "cible_siren": "450819008",
+    "forme_juridique": "SAS à associé unique",
+    "capital_social_eur": 7500,
+    "rcs": "450819008",
+    "adresse_siege": "Lieu-Dit Les Roussilloux, 24520 Lamonzie-Montastruc",
+    "nom_commercial": "L'Escapade",
+    "naf_secteur": "Hôtellerie de plein air — camping 4 étoiles",
+    "sous_secteur": "Camping 4 étoiles, 130 emplacements, 5 ha en Dordogne",
+    "ca_dernier_exercice_eur": 235566,
+    "ca_n_minus_1_eur": 332411,
+    "resultat_net_eur": -138648,
+    "effectif_total": 0,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "date_audience_cession": null,
+    "aj_nom": "Me Maxime LANGET ; Me Lou FLECHARD",
+    "aj_etude": "SELAS BL & Associés ; SCP CBF Associés",
+    "mj_nom": "Me Florian LACOUR ; Me Camille STEINER",
+    "mj_etude": "SELAFA MJA ; SELARL ATHENA",
+    "juge_commissaire": "M. Franck MEYNAUD",
+    "tribunal": "Tribunal des Activités Économiques de Paris",
+    "n_greffe": "P202504398",
+    "filiales": [],
+    "appartenance_groupe": "Filiale ILO SAS — Groupe NEOCAMP (Pôle Foncier)",
+    "causes_defaillance": "Croissance non maîtrisée groupe NEOCAMP, allocation inadaptée ressources financières (mobil-homes/chalets hétérogènes, frais de siège disproportionnés), sous-performance saison 2024 (taux remplissage insuffisant). Nantissements fonds de commerce : 131k€ (22/02/2024) + 250k€ (17/01/2024) Caisse d'Epargne Bretagne-Pays de Loire."
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "plan_cession_arrete",
+    "date_jugement_issue": "2026-04-02",
+    "repreneur_retenu": "GROUPE SEASONOVA (Guillaume Lemarchand) — repreneur global Pôle Exploitation Alpha Camping + Pôle Foncier (15 sites du groupe NEOCAMP dont L'Escapade)",
+    "prix_retenu_eur": null,
+    "emplois_repris_retenu": null,
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_synthese": "Seasonova retenu sur l'ensemble du périmètre Alpha Camping (15 sites — passage de 21 à 36 campings FR). Sur L'Escapade isolément, l'offre Seasonova est une LOI sans prix indiqué (audit incomplet, délais courts), mais l'offre globale Pôle Exploitation+Foncier l'a emporté. Concurrents indivisibles écartés : FEMINA STYL+MARENGO (800k€ Escapade indivisible 15 campings), CAMPALDIA (3€ symbolique pour Escapade + besoin financement 3-5M€). Offre PP Mauvin/Noel (650k€ Escapade seule) écartée car ne couvre pas le périmètre Pôle.",
+    "nb_offres_concurrentes": 4,
+    "concurrents_resume": [
+      {"nom": "Pierre-Jean MAUVIN & Jean-Olivier NOEL (PP)", "positionnement_2lignes": "Offre standalone L'Escapade. 650k€ (500k€ immo + 150k€ FdC). 13 emplois repris. Sérieuse mais cherry-picking sur 1 site / 15."},
+      {"nom": "GROUPE SEASONOVA", "positionnement_2lignes": "GAGNANT global. LOI sans prix sur L'Escapade — repreneur retenu sur l'ensemble Pôle Exploitation Alpha. 20 campings opérés. CA 8,3M€."},
+      {"nom": "CAMPALDIA (SLBC PERON)", "positionnement_2lignes": "Prix symbolique 3€ Escapade. Besoin financement 3-5M€ pour l'ensemble. Indivisible 15 campings NEOCAMP. CA 10M€."},
+      {"nom": "FEMINA STYL + MARENGO", "positionnement_2lignes": "800k€ Escapade (267k incorporels + 533k corporels) HORS stocks. Indivisible 15 campings. Groupe Marc HUBLE diversifié. Soutien IKKI Partners."}
+    ],
+    "enseignement_clef": "Tribunal accepte démantèlement quand offres consolidées par lots cohérents (Seasonova=gestion directe, Maeva=franchises). Offre PP Mauvin/Noel sur 1 site écartée malgré prix élevé. Voir gagnants-tribunal.md §5 (NEOCAMP)."
+  },
+  "sources_externes": [
+    "https://www.ot-campings.com/l-actualite/chaines-groupes-to/chaines-et-groupes/le-groupe-seasonova-reprend-15-etablissements-du-groupe-alpha-camping/",
+    "https://10minhotel.com/blog/2026/04/28/groupe-seasonova-loutsider-du-tourisme-de-plein-air-remporte-la-reprise-dalpha-camping-et-accelere-son-developpement/"
+  ]
+}

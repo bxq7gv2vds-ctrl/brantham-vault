@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "offre_id": "52-01",
+    "dossier_id": "52",
+    "dossier_folder": "52 - SAS PPA",
+    "fichier_source_pdf": "52_SAS_PPA_offre1.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SAS PPA",
+    "cible_siren": "491115499",
+    "naf_secteur": "Impression / arts graphiques",
+    "sous_secteur": "Impression offset HUV/LED haut de gamme (luxe / mode / joaillerie / culture)",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 19,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-02-06",
+    "dldo": "2026-03-30",
+    "date_audience_cession": null,
+    "aj_nom": "Maitre Paul-Henri Audras",
+    "aj_etude": "SELAS AJUP",
+    "mj_nom": "Maitre Marc-Antoine Rey",
+    "mj_etude": "Selarl Bdr & Associes",
+    "juge_commissaire": null,
+    "causes_defaillance": null
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 0,
+    "concurrents_resume": []
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_concurrent",
+    "age_parcours_dirigeant": "Pierre Gradenigo (President STIPA). N. Lessard Conseil SASU (DG, representee par Nathalie Lessard, RCS Creteil 803036615). Imprimerie independante familiale 3e generation creee dans les annees 1950 a Montreuil.",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": 70,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "moyenne_documentee",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "date_creation": "1956-12-04",
+      "capital_eur": 1130000,
+      "rcs": "562128397",
+      "kbis_present_en_annexe": true,
+      "type_vehicule": "existante"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 39580,
+    "decomposition": {
+      "incorporels_eur": 15000,
+      "corporels_eur": 24580,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "comptant_audience",
+    "garanties_paiement": "Fonds propres. Reprise emprunt BNP Paribas Maestro 2304120049471/JMC (presse Komori). Indemnite mise a disposition lots 3 et 4 Mozinor : 10 038,17 EUR HT/mois sur 6 mois max.",
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": ["Emprunt BNP Paribas Maestro 2304120049471/JMC (presse offset Komori G40 Advance 6 couleurs 2023)"],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": ["Contrat de maintenance Gamsys ERP (art. L.642-7)"],
+    "engagements_L642_12_al4": true,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": "Reprise emprunt BNP Paribas sur presse Komori G40 Advance — accord BNP pour remise partielle capital restant du + periode franchise + allongement maturite.",
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 11,
+    "nb_total_salaries": 19,
+    "pct_reprise": 57.9,
+    "categories_reprises": "11 contrats de travail repris sur 19 (categories non specifiees dans le PDF).",
+    "categories_non_reprises_raisons": "8 salaries non repris (non detailles).",
+    "maintien_conditions_anciennete_salaire_lieu": "partiel",
+    "plan_licenciement": {
+      "nb": 8,
+      "calendrier": null,
+      "indemnites": null,
+      "accompagnement": null
+    },
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "operationnel",
+    "diagnostic_resume": "Logique industrielle de consolidation locale entre deux imprimeurs haut de gamme situes a 10 minutes l'un de l'autre a Montreuil. STIPA recupere la presse offset Komori G40 Advance (2023) + plieuse-colleuse KAMA + traceur EPSON SureColor P900 + 11 salaries sur 19.",
+    "vision_strategique_phrase": "Logique industrielle de consolidation locale entre deux imprimeurs haut de gamme situes a 10 minutes a Montreuil.",
+    "pivots_prevus": null,
+    "synergies_repreneur": "Integration des actifs PPA (presse Komori G40 Advance recente) au sein de STIPA (10/12 rue des Lilas 93100 Montreuil). Mutualisation outil de production sur site STIPA apres demontage/redemenagement presse.",
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": "Demontage / demenagement / reinstallation presse Komori sur 6 mois (periode franchise BNP).",
+    "capex_nature": "Demontage et reinstallation presse Komori G40 Advance sur site STIPA.",
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "NR",
+    "maintien_site": "non",
+    "maintien_marques_savoir_faire": "oui"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "oui_simple_mention",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": true,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": 629000,
+    "partenaires_financiers": ["BNP Paribas (reprise emprunt Komori)", "BRED (PGE solde 85k EUR au 31/12/2025)"]
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": 24,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": "Mise a disposition lots 3 et 4 Mozinor 6 mois max (10 038,17 EUR HT/mois) pour demontage presse.",
+    "non_demembrement": true
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": 3,
+    "items": [
+      "Accord BNP Paribas sur reprise presse Komori G40 Advance (remise partielle capital restant du + periode franchise desinstallation/demenagement/reinstallation + allongement maturite financement)",
+      "Accord Bailleur Mozinor pour mise a disposition precaire des lots 3 et 4 durant max 6 mois moyennant indemnite de 10 038,17 EUR HT/mois",
+      "Liste actualisee des stocks encours"
+    ],
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 66,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "sommaire_detaille",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": true,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": true,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "dense"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": true,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": ["RN STIPA 2024 negatif (-841k EUR) — situation financiere du repreneur deja fragile"],
+    "declaration_L642_3_signee": true,
+    "faculte_substitution_precise": true
+  },
+  "avocat_repreneur": {
+    "cabinet": null,
+    "avocat_nom": null
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Imprimerie independante et familiale 3e generation creee dans les annees 1950 a Montreuil.",
+    "phrase_engagement_social": "Reprise de 11 contrats de travail sur 19. Conges payes repris depuis 01/06/2025 dans la limite de 15 jours.",
+    "phrase_vision_strategique": "Logique industrielle de consolidation locale entre deux imprimeurs haut de gamme situes a 10 minutes a Montreuil.",
+    "phrase_justification_prix": "Prix total 39 580 EUR (incorporels 15 000 + corporels 24 580). Valeur economique = prix + reprise droits sociaux des 11 salaries + transfert emprunt presse offset Komori + frais demenagement/installation + financement BFR."
+  }
+}

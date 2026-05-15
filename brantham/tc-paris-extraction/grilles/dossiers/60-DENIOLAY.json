@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "dossier_id": "60",
+    "dossier_folder": "60 - SCA SEA DE DENIOLAY PEROUSSAY",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCEA DE LA DENIOLAY PEROUSSAY",
+    "cible_siren": "320401987",
+    "naf_secteur": "Production agricole — pommes",
+    "sous_secteur": "Verger Anjou Pôle Val de Loire INNATIS — Branche Angevine",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 2,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": "2026-03-16",
+    "dldo": "2026-03-18",
+    "date_audience_cession": "2026-04-13",
+    "aj_nom": "Marine PACE / Paul-Henri AUDRAS",
+    "aj_etude": "SELARL 2M&Associés ; SELAS AJ UP",
+    "mj_nom": "Valérie LELOUP-THOMAS / Charlotte THIRION",
+    "mj_etude": "SELAFA MJA ; SELARL ATHENA",
+    "juge_commissaire": null,
+    "causes_defaillance": "Filiale INNATIS Pôle Val de Loire — sauvegarde 29/09/2025 puis RJ 16/03/2026. Vergers HoneyCrunch (60% surfaces), mauvaises récoltes 2023-2025, station Verrières-en-Anjou sous-utilisée."
+  },
+  "issue_globale": "plan_cession_arrete",
+  "issue_resume": "Plan de cession arrêté 30/04/2026 au profit de la Coopérative LES VERGERS D'ANJOU dans l'offre globale Pôle Val de Loire INNATIS. 3 candidats sur DENIOLAY : CASTEL/LEROY/VCAPITAL (50k€, 2 emplois, rejeté) ; CELHER sub. AGRILAND NORD/Jonathan PENCHENAT (70k€ Deniolay, 0 emploi Deniolay, rejeté) ; EARL CELLIER DU MESNIL (57k€, 0 emploi Deniolay, rejeté).",
+  "notes": "Offre globale Chaussée + Deniolay pour CELHER/AGRILAND NORD (220k€ total). Offre indivisible CASTEL avec 10 autres offres INNATIS. Jonathan PENCHENAT = jeune agriculteur primo-installant rang 1 L.642-1 al.3 — argument non retenu."
+}

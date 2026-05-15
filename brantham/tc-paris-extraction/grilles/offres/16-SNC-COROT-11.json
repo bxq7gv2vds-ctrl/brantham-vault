@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "offre_id": "16-SNC-COROT-11",
+    "dossier_id": "16-SNC-COROT",
+    "dossier_folder": "16 - SNC COROT",
+    "fichier_source_pdf": "16_SNC_COROT_offre8.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "low"
+  },
+  "identification": {
+    "cible_raison_sociale": "SNC COROT",
+    "cible_siren": null,
+    "naf_secteur": "6820B",
+    "sous_secteur": "Détention/location actifs immobiliers (groupe FHBX Foncière Melot-Gouband / Balthazar)",
+    "ca_dernier_exercice_eur": null,
+    "ebitda_eur": null,
+    "effectif_total": 0,
+    "nb_sites": 1,
+    "type_procedure": "RJ",
+    "date_ouverture": null,
+    "dldo": "2026-03-02",
+    "date_audience_cession": null,
+    "aj_nom": "Maître Hélène BOURBOULOUX (avec François RAYBAUD et Paul CHARREY)",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maître Valérie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "Monsieur Jean-François PONCET",
+    "causes_defaillance": "Crise immobilière post-2022 (hausse taux 1% à 4%), refinancement des prêts plus onéreux, montages intra-groupe complexes, baisse des prix immobiliers réduisant les produits de cession anticipés."
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_verbatim": null,
+    "nb_offres_concurrentes": 11,
+    "concurrents_resume": [
+      {
+        "nom": "LABRAX 21M€",
+        "positionnement_2lignes": "Portefeuille global indivisible"
+      },
+      {
+        "nom": "VERDOSO",
+        "positionnement_2lignes": "Plan cession provisoire"
+      }
+    ]
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Alexandre-Igor (groupejado.com) ; Stéphane ROIG (PARTNER CONSULTANCY SERVICES FRANCE)",
+    "experience_sectorielle_oui_non": "oui",
+    "experience_sectorielle_annees": null,
+    "track_record_reprises": [],
+    "capacite_financiere_demontree": "NR",
+    "cautionnement_personnel": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": null,
+      "date_creation": null,
+      "capital_eur": null,
+      "rcs": null,
+      "kbis_present_en_annexe": false,
+      "type_vehicule": "NR"
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": null,
+    "decomposition": {
+      "incorporels_eur": null,
+      "corporels_eur": null,
+      "stocks_eur": null,
+      "creances_clients_eur": null,
+      "immeubles_eur": null,
+      "titres_eur": null
+    },
+    "charges_augmentatives_eur": null,
+    "modalites_paiement": "NR",
+    "garanties_paiement": null,
+    "cheque_consignation_eur": null
+  },
+  "reprise_passif": {
+    "baux_repris": [],
+    "credit_bail_repris": [],
+    "contrats_clients_critiques_repris": [],
+    "contrats_fournisseurs_repris": [],
+    "engagements_L642_12_al4": false,
+    "engagement_L642_12_montant_eur": null,
+    "passif_privilegie_repris": null,
+    "retraites_chapeau_indemnites": null
+  },
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 0,
+    "pct_reprise": null,
+    "categories_reprises": "N/A (SCI/SNC sans salariés)",
+    "categories_non_reprises_raisons": null,
+    "maintien_conditions_anciennete_salaire_lieu": "NR",
+    "plan_licenciement": {
+      "nb": 0,
+      "calendrier": null,
+      "indemnites": null,
+      "accompagnement": null
+    },
+    "engagement_maintien_emplois_duree_mois": null,
+    "sanction_non_respect_emplois": null,
+    "relations_irp_cse_mention": false
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "NR",
+    "diagnostic_resume": "Offre Groupe JADO via cabinet Moncey — détails du PDF (23 pages) à retraiter pour prix individualisés.",
+    "vision_strategique_phrase": "Offre Balthazar VMoncey, portefeuille Foncière Melot-Gouband.",
+    "pivots_prevus": null,
+    "synergies_repreneur": null,
+    "synergies_chiffrees_eur": null,
+    "capex_montant_eur": null,
+    "capex_calendrier": null,
+    "capex_nature": null,
+    "plan_affaires_3ans_present": false,
+    "ca_an1_eur": null,
+    "ca_an2_eur": null,
+    "ca_an3_eur": null,
+    "ebitda_an3_eur": null,
+    "hypotheses_qualification": "NR",
+    "maintien_site": "NR",
+    "maintien_marques_savoir_faire": "NR"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": null,
+    "apport_origine_documentee": "NR",
+    "dette_bancaire_engagement_ferme": false,
+    "dette_bancaire_lettre_confort": false,
+    "dette_bancaire_montant_eur": null,
+    "credit_bail_repris_oui_non": false,
+    "affacturage_dailly": false,
+    "bfr_redemarrage_eur": null,
+    "tresorerie_securite_eur": null,
+    "partenaires_financiers": []
+  },
+  "engagements_specifiques": {
+    "incessibilite_temporaire_mois": null,
+    "caution_dirigeant_montant_eur": null,
+    "caution_dirigeant_duree_mois": null,
+    "penalites_non_respect_social_eur": null,
+    "maintien_territoire_site_duree": null,
+    "non_demembrement": false
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "nb_conditions": null,
+    "items": [],
+    "agressivite_envers_dirigeants": "NR"
+  },
+  "forme_presentation": {
+    "nb_pages_total": 23,
+    "nb_pages_corps_offre": null,
+    "nb_pages_annexes": null,
+    "structure_dominante": "NR",
+    "ton_dominant": "juridique",
+    "executive_summary_present": false,
+    "annexes_kbis": false,
+    "annexes_cv_dirigeants": false,
+    "annexes_attest_bancaire": false,
+    "annexes_lettres_soutien_clients": false,
+    "annexes_lettres_soutien_collectivites": false,
+    "annexes_business_plan": false,
+    "annexes_organigramme_cible": false,
+    "annexes_comptes_sociaux_3ans": false,
+    "annexes_attest_fisc_sociale": false,
+    "annexes_rib": false,
+    "annexes_cni_dirigeants": false,
+    "signature_docusign": false,
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "soutien_collectivite_locale": false,
+    "soutien_clients_cles": false,
+    "soutien_banques_historiques": false,
+    "personnalisation_visite_site": false,
+    "personnalisation_rencontre_equipes": false,
+    "personnalisation_etude_contrats": false,
+    "coherence_prix_BP": "NR",
+    "differenciation_concurrents_explicite": false,
+    "elements_emotionnels_sociaux": false,
+    "erreurs_apparentes": [],
+    "declaration_L642_3_signee": false,
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {
+    "cabinet": "MONCEY AVOCATS, 6 rue Léo Délibes 75116 Paris",
+    "avocat_nom": "Maître Augustin LACCOURS"
+  },
+  "extraits_remarquables": {
+    "phrase_positionnement": "Groupe JADO (Alexandre-Igor) + PARTNER CONSULTANCY SERVICES FRANCE (Stéphane ROIG).",
+    "phrase_engagement_social": null,
+    "phrase_vision_strategique": "Offre Balthazar VMoncey — données partielles, retraitement PDF nécessaire.",
+    "phrase_justification_prix": null
+  }
+}

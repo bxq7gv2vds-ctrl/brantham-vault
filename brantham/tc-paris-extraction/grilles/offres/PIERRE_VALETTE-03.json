@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "offre_id": "PIERRE_VALETTE-03",
+    "dossier_id": "PIERRE_VALETTE",
+    "dossier_folder": "07 - SCI 43-45 RUE PIERRE VALETTE",
+    "fichier_source_pdf": "07_SCI_43-45_RUE_PIERRE_VALETTE_offre3.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI 43-45 RUE PIERRE VALETTE (portefeuille FHBX)",
+    "naf_secteur": "Immobilier",
+    "sous_secteur": "Detention actif immo - portefeuille Foncière Melot Gouband 26 entites",
+    "effectif_total": 0,
+    "type_procedure": "RJ",
+    "dldo": "2026-03-02",
+    "aj_nom": "Maitre Helene BOURBOULOUX",
+    "aj_etude": "SELARL FHBX",
+    "mj_nom": "Maitre Valerie LELOUP-THOMAS",
+    "mj_etude": "SELAFA MJA",
+    "juge_commissaire": "Monsieur Jean-Francois PONCET"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "en_attente",
+    "issue_globale_dossier": "en_attente",
+    "nb_offres_concurrentes": 8
+  },
+  "profil_repreneur": {
+    "forme": "societe_existante_industriel",
+    "age_parcours_dirigeant": "Victor COHEN (MUVICO - 198 av Victor Hugo 75116 Paris)",
+    "experience_sectorielle_oui_non": "oui",
+    "track_record_reprises": ["Groupe foncier patrimonial actif sur portefeuille Melot Gouband"],
+    "capacite_financiere_demontree": "NR",
+    "vehicule_reprise": {
+      "forme_juridique": null,
+      "type_vehicule": "existante",
+      "kbis_present_en_annexe": false
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 500000,
+    "decomposition": {
+      "immeubles_eur": 500000
+    },
+    "modalites_paiement": "NR",
+    "garanties_paiement": null
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 0,
+    "pct_reprise": null
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "NR",
+    "maintien_site": "oui_total"
+  },
+  "financement": {
+    "partenaires_financiers": []
+  },
+  "conditions_suspensives": {
+    "aucune_cs": false,
+    "agressivite_envers_dirigeants": "NR"
+  },
+  "forme_presentation": {
+    "structure_dominante": "NR",
+    "ton_dominant": "NR",
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "erreurs_apparentes": ["PDF >5MB non extrait - donnees issues de la table de reference MUVICO"],
+    "faculte_substitution_precise": false
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {
+    "phrase_positionnement": "MUVICO - groupe foncier patrimonial - offre globale 26 entites portefeuille Melot Gouband",
+    "phrase_justification_prix": "500 000 EUR initiale (09/02/2026) puis 550 000 EUR amelioree (02/03/2026) sur cet actif"
+  }
+}

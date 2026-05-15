@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "dossier_id": "27B-GD-LISSE",
+    "dossier_folder": "27 - SCI LA GRANDE LISSE",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "high"
+  },
+  "identification": {
+    "cible_raison_sociale": "SCI LA GRANDE LISSE",
+    "cible_siren": "824145163",
+    "naf_secteur": "Hotellerie de plein air / camping",
+    "sous_secteur": "Fonciere propriedu Camping L'Escapade / Camping Paradis l'Escapade",
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-11-12",
+    "dldo": "2025-12-17",
+    "date_audience_cession": "2026-03-11",
+    "tribunal": "Tribunal des Activites Economiques de Paris",
+    "aj_nom": "Me Lou Flechard / Me Maxime Langet",
+    "aj_etude": "SCP CBF Associes / SELAS BL & Associes",
+    "aj_adresse": "41 rue de Liege, 75008 Paris / 3 bis rue des Archives, 94000 Creteil",
+    "mj_nom": "Me Florian Lacour / Me Camille Steiner",
+    "mj_etude": "SELAFA MJA / SELARL ATHENA",
+    "juge_commissaire": "M. Franck Meynaud",
+    "effectif_total": 0,
+    "nb_offres_recues": 5,
+    "ca_dernier_exercice_eur": 120000,
+    "causes_defaillance": "Insolvabilite groupe Neocamp. SCI Grande Lisse : pole foncier propriedu camping loue a L'ESCAPADE pour 120 000 EUR/an. Endettement LCL initial 1 650 000 EUR sur 216 mois, capital restant 1 007 479,80 EUR ouverture procedure (mention DCP 1 223 796 EUR), privilege preteur de deniers L.642-12.",
+    "actif_principal": "Camping L'Escapade — lieu-dit Les Roussilloux, 24520 Lamonzie-Montastruc (Dordogne). Cadastre Section C 14 parcelles n°252-291 + 1010, unite fonciere 57 769 m².",
+    "groupe_appartenance": "Groupe Neocamp — filiale 100% SAS ILO (RCS 795282839). Pole foncier (LORMED, L'ESCAPADE, SCI CHA, HOLDING DES FLEURS, HOLDING DU BIGOUDEN, HOLDING DES CEVENNES, GRANDE LISSE)."
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "plan_cession_arrete",
+    "motifs_tribunal_verbatim": "Demantelement accepte avec lots coherents par sous-activite (source : analyses/gagnants-tribunal.md — Neocamp = Seasonova gestion directe Alpha 15 sites + Maeva franchises Camping Paradis/Ushuaia/Mistercamp)",
+    "nb_offres_concurrentes": 5,
+    "concurrents_resume": [
+      {"nom": "SCI BOUTONNE (Mauvin/Noel — cabinet Concerto)", "positionnement_2lignes": "Repreneur familial dordognot, expertise HPA 30 ans. 500 000 EUR comptant cheque banque audience 11/03. Indissociable offre L'ESCAPADE SAS."},
+      {"nom": "Groupe SEASONOVA (Guillaume Lemarchand)", "positionnement_2lignes": "Lettre d'intention 17/12/2025, pas d'offre ferme. CA 8,3 M EUR, EBITDA 1,685 M. 20 campings 100-200 emplacements positionnement Slow Life."},
+      {"nom": "SHD SAS (KBC SAS represente par George Molin)", "positionnement_2lignes": "Acquisition murs seuls 1 000 EUR symbolique. RCS Dijon 928117449. Bien loue a L'ESCAPADE (loyer 120k EUR/an). Conteste imputabilite prêt LCL a la SCI."},
+      {"nom": "SLBC PERON / Groupe CAMPALDIA", "positionnement_2lignes": "3 EUR symboliques (1+1+1). Groupe HPA 4* haut de gamme, CA 10,1 M EUR 2025. Offre indivisible avec 15 campings Neocamp."},
+      {"nom": "FEMINA STYL + MARENGO", "positionnement_2lignes": "1 400 000 EUR (offre la plus elevee). Familles HUBLE + WAJSBROT, partenariat 20 ans 'Groupe Le Royon'. CA cumule 13,45 M EUR."}
+    ]
+  },
+  "notes_dossier": "N° greffe P202504396. Date cessation paiements 20/10/2025. Jugement publie BODACC 28/11/2025. Audience 11/03/2026. Dossier indivisible avec autres entites Neocamp (ILO, ALPHA CAMPING, ALPHA CAMPING OCCITANIE, LORMED, L'ESCAPADE, SCI CHA). Issue connue niveau groupe : Seasonova pour Alpha 15 sites + Maeva pour franchises. Pour la fonciere GRANDE LISSE specifiquement, l'arbitrage entre offre haute FEMINA STYL/MARENGO (1,4 M EUR) et offres symboliques + cession titres reste a tracer dans la source du jugement. Note : un autre dossier numerote 27 existe (SCI OKABE)."
+}

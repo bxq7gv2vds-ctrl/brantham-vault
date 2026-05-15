@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "dossier_id": "NEW-SCOOT",
+    "dossier_folder": "NEW_32 - SARL SCOOT PARIS 16",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SARL SCOOT PARIS 16",
+    "cible_siren": null,
+    "forme_juridique": "SARL",
+    "capital_social_eur": null,
+    "rcs": null,
+    "adresse_siege": "Paris 16",
+    "naf_secteur": "Réparation de deux-roues",
+    "sous_secteur": "Mécanique scooter/moto",
+    "ca_dernier_exercice_eur": null,
+    "effectif_total": 2,
+    "nb_sites": 1,
+    "type_procedure": "NR",
+    "date_ouverture": null,
+    "dldo": null,
+    "date_audience_cession": null,
+    "aj_nom": null,
+    "aj_etude": "SELARL ASTEREN",
+    "mj_nom": null,
+    "mj_etude": null,
+    "juge_commissaire": null,
+    "tribunal": "Tribunal des activités économiques de Paris (tampon Procédures collectives 27 avr. 2026)",
+    "causes_defaillance": null,
+    "broker_agence_mandate": null
+  },
+  "issue_dossier": {
+    "issue_globale_dossier": "en_attente",
+    "date_jugement_issue": null,
+    "motifs_tribunal_verbatim": null,
+    "motifs_rejet_synthese": null,
+    "nb_offres_concurrentes": 1,
+    "concurrents_resume": [
+      {"nom": "Enis BEN TAARIT", "positionnement_2lignes": "PP, ex-salarié CDD de la cible, réparateur 2 roues 25 ans d'expérience, offre 10k+45k travaux."}
+    ],
+    "enseignement_clef": "Offre type 'salarié-repreneur' : connaissance terrain forte mais véhicule juridique absent (PP directe), charges augmentatives (45k travaux mise aux normes) supérieures au prix de cession (10k). Pattern à surveiller : reprise par PP qui sera son propre salarié."
+  },
+  "sources_externes": []
+}

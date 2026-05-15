@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "offre_id": "05-04",
+    "dossier_id": "05",
+    "dossier_folder": "05 - SARL à associé unique MY LITTLE FINGER",
+    "fichier_source_pdf": "offre_04_gd72176328.pdf",
+    "extracted_at": "2026-05-15",
+    "extracted_by": "claude-agent",
+    "confidence": "medium"
+  },
+  "identification": {
+    "cible_raison_sociale": "SARL MY LITTLE FINGER",
+    "cible_siren": "512055286",
+    "naf_secteur": "Restauration / bar / club",
+    "effectif_total": 3,
+    "type_procedure": "RJ",
+    "date_ouverture": "2025-01-07",
+    "dldo": "2026-01-06",
+    "date_audience_cession": "2026-01-06",
+    "aj_nom": "Maitre Marine PACE",
+    "aj_etude": "SELARL 2M & Associes",
+    "mj_nom": "Maitre Stephane Gorrias",
+    "mj_etude": "SCP BTSG"
+  },
+  "issue_dossier": {
+    "cette_offre_retenue": "non",
+    "issue_globale_dossier": "en_attente",
+    "motifs_rejet_verbatim": "Doublon physique de offre_02 (REGOLI Stephane - meme contenu, meme date 06/01/2026, memes annexes LOI MIKCHA 50k + soutien Vachier-Lagrave)",
+    "nb_offres_concurrentes": 8
+  },
+  "profil_repreneur": {
+    "forme": "pp_seule",
+    "age_parcours_dirigeant": "Stephane Regoli (ne 30/05/1984 Marseille) - idem 05-02",
+    "experience_sectorielle_oui_non": "partielle",
+    "capacite_financiere_demontree": "faible_documentee",
+    "vehicule_reprise": {
+      "forme_juridique": "SAS",
+      "type_vehicule": "newco",
+      "kbis_present_en_annexe": false
+    }
+  },
+  "structure_prix": {
+    "prix_total_eur": 1,
+    "decomposition": {},
+    "modalites_paiement": "NR"
+  },
+  "reprise_passif": {},
+  "volet_social": {
+    "nb_salaries_repris": 0,
+    "nb_total_salaries": 3,
+    "pct_reprise": 0
+  },
+  "plan_industriel": {
+    "diagnostic_qualification": "superficiel",
+    "ca_an1_eur": 913800,
+    "hypotheses_qualification": "agressives",
+    "maintien_site": "oui_total"
+  },
+  "financement": {
+    "apport_fonds_propres_eur": 50000,
+    "apport_origine_documentee": "oui_simple_mention",
+    "partenaires_financiers": ["MIKCHA SARL (Charles-David Ohayon)", "Maxime Vachier-Lagrave"]
+  },
+  "conditions_suspensives": {
+    "aucune_cs": true,
+    "nb_conditions": 0,
+    "agressivite_envers_dirigeants": "aucune"
+  },
+  "forme_presentation": {
+    "executive_summary_present": false,
+    "qualite_redactionnelle": "NR"
+  },
+  "signaux_faibles": {
+    "erreurs_apparentes": ["Doublon de depot au greffe avec offre_02 - meme contenu, memes annexes"]
+  },
+  "avocat_repreneur": {},
+  "extraits_remarquables": {}
+}
