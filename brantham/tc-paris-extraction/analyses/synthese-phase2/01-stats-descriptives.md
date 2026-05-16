@@ -13,13 +13,13 @@ tags: [tc-paris, stats, distressed-ma, repreneur, distribution]
 
 ## 1. Décompte global
 
-| Statut de l'offre | n | % du corpus |
-|---|---|---|
-| Retenue (`oui` + `amelioree_puis_retenue`) | 47 | 8,3 % |
-| Rejetée (`non`) | 107 | 18,9 % |
-| En attente (audience non tenue) | 385 | 68,0 % |
-| Non renseigné | 27 | 4,8 % |
-| **Total** | **566** | **100 %** |
+| Statut de l'offre                          | n       | % du corpus |
+| ------------------------------------------ | ------- | ----------- |
+| Retenue (`oui` + `amelioree_puis_retenue`) | 47      | 8,3 %       |
+| Rejetée (`non`)                            | 107     | 18,9 %      |
+| En attente (audience non tenue)            | 385     | 68,0 %      |
+| Non renseigné                              | 27      | 4,8 %       |
+| **Total**                                  | **566** | **100 %**   |
 
 Sur les 154 offres pour lesquelles l'issue est connue, le taux de retenue est de **30,5 %** (47 / 154). Ce n'est PAS le taux gagnant intrinsèque : un dossier compte rarement >1 retenue, donc beaucoup d'offres concurrentes sont mécaniquement rejetées. Sur les 101 dossiers, 114 issues sont notées `plan_cession_arrete` (les dossiers ont parfois plusieurs entités, ex. groupes INNATIS), 6 `liquidation`, 446 `en_attente`.
 
