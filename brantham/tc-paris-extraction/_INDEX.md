@@ -24,6 +24,7 @@ Point d'entrée unique pour toute l'analyse TC Paris. **104 dossiers d'offres de
 ## Analyses thématiques (Phase 1)
 
 ### Stratégie & Drafting
+- [[brantham/templates/kit-redaction-offre-reprise]] — **Kit de rédaction d'offre** (outil modulaire opérationnel : qualification du deal, 10 sections avec variantes par typologie, auto-scoring /100, kill-switches)
 - [[analyses/playbook-redaction-offre]] — **Playbook rédaction d'offre** (13 sections, règles confirmées par jugements, anti-patterns)
 - [[analyses/decortique-offres-gagnantes]] — **Décortique rhétorique** des offres gagnantes vs perdantes (COSA, INNATIS, EURODIF — 5500 mots avec verbatims)
 - [[analyses/audiences-acces-information]] — Audiences TC : sources publiques, ce qu'on récupère, monitoring automatisé

@@ -32,6 +32,7 @@ Extraction structurée des offres de reprise déposées au Greffe du Tribunal de
 ## Analyses
 
 ### Stratégie & Drafting
+- [[brantham/templates/kit-redaction-offre-reprise]] — **KIT DE RÉDACTION D'OFFRE** (outil modulaire : 6 typologies, 10 sections avec variantes, auto-scoring, kill-switches)
 - [[analyses/playbook-redaction-offre]] — **PLAYBOOK RÉDACTION D'OFFRE** (architecture, pricing, conditions, annexes, erreurs à éviter, checklist Brantham)
 - [[analyses/audiences-acces-information]] — Audiences TC Paris : sources publiques (BODACC, Pappers, presse), ce qu'on récupère et ce qu'on perd
 - [[analyses/gagnants-tribunal]] — Qui a gagné les plans de cession (en cours — agent de recherche)
