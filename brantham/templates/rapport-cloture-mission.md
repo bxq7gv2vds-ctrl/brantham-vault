@@ -98,7 +98,7 @@ Ce document est destiné au client. Il sera, dans les faits, relu par son avocat
 **Passage de relais.** L'accompagnement de structuration d'offre s'achève avec ce rapport. La phase post-rachat fait l'objet d'un cadrage distinct.
 
 - Recommandations prioritaires des 120 premiers jours : [LISTER 3 À 5 ACTIONS — trésorerie, relations bancaires, intégration des équipes, contrats clients].
-- Plan post-closing détaillé : voir [[brantham/templates/plan-120-jours|plan 120 jours]].
+- Plan post-closing détaillé (cadre des 120 premiers jours) : voir [[brantham/knowledge/process/post-closing-execution|exécution post-closing]].
 - Sujets nécessitant une vigilance immédiate : [LISTER].
 - Proposition d'accompagnement post-rachat : [FORFAIT MENSUEL / MISSION PONCTUELLE — voir Phase 10 du process].
 
@@ -128,7 +128,6 @@ Pour toute question sur ce rapport : Paul Roulleau, Brantham Partners — paul.r
 - [[brantham/templates/fiche-opportunite]]
 - [[brantham/templates/argumentaire-audience]]
 - [[brantham/templates/kit-redaction-offre-reprise]]
-- [[brantham/templates/plan-120-jours]]
 - [[brantham/context/process-end-to-end]]
 - [[brantham/knowledge/process/post-closing-execution]]
 - [[brantham/knowledge/process/integration-post-acquisition]]
