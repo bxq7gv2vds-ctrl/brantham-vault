@@ -1,0 +1,1395 @@
+{
+  "analysis_1": [
+    {
+      "variable": "apport_rib_attestation",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 50.0,
+      "pct_lose": 7.3,
+      "delta_pts": 42.7,
+      "n_win": 46,
+      "n_lose": 96,
+      "p_value": 5.396060508241233e-09,
+      "ic95_delta": [
+        27.4,
+        58.1
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "soutien_banques_historiques",
+      "type": "binaire",
+      "test": "Fisher",
+      "pct_win": 38.9,
+      "pct_lose": 1.3,
+      "delta_pts": 37.6,
+      "n_win": 36,
+      "n_lose": 77,
+      "p_value": 1.645797467972936e-07,
+      "ic95_delta": [
+        21.5,
+        53.7
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "personnalisation_etude_contrats",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 76.9,
+      "pct_lose": 26.6,
+      "delta_pts": 50.3,
+      "n_win": 39,
+      "n_lose": 79,
+      "p_value": 2.0738282794669456e-07,
+      "ic95_delta": [
+        33.9,
+        66.8
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "annexes_attest_bancaire",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 50.0,
+      "pct_lose": 7.9,
+      "delta_pts": 42.1,
+      "n_win": 38,
+      "n_lose": 76,
+      "p_value": 3.0263689766734114e-07,
+      "ic95_delta": [
+        25.1,
+        59.1
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "declaration_L642_3_signee",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 77.8,
+      "pct_lose": 31.0,
+      "delta_pts": 46.7,
+      "n_win": 45,
+      "n_lose": 87,
+      "p_value": 3.3845153291755486e-07,
+      "ic95_delta": [
+        31.2,
+        62.3
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "kbis_en_annexe",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 74.5,
+      "pct_lose": 32.7,
+      "delta_pts": 41.8,
+      "n_win": 47,
+      "n_lose": 107,
+      "p_value": 1.648240815546072e-06,
+      "ic95_delta": [
+        26.4,
+        57.1
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "aucune_cs",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 40.4,
+      "pct_lose": 8.4,
+      "delta_pts": 32.0,
+      "n_win": 47,
+      "n_lose": 107,
+      "p_value": 2.1025843591338224e-06,
+      "ic95_delta": [
+        17.0,
+        47.0
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "nb_concurrents",
+      "type": "numerique",
+      "test": "Mann-Whitney U",
+      "med_win": 3.0,
+      "med_lose": 5.0,
+      "delta_med": -2.0,
+      "n_win": 47,
+      "n_lose": 101,
+      "p_value": 3.1314268365514114e-06,
+      "rank_biserial": 0.474,
+      "significatif": true
+    },
+    {
+      "variable": "qualite_redac_claire",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 80.9,
+      "pct_lose": 40.2,
+      "delta_pts": 40.7,
+      "n_win": 47,
+      "n_lose": 107,
+      "p_value": 3.2585256602106322e-06,
+      "ic95_delta": [
+        26.1,
+        55.3
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "annexes_kbis",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 84.1,
+      "pct_lose": 42.0,
+      "delta_pts": 42.0,
+      "n_win": 44,
+      "n_lose": 88,
+      "p_value": 4.470504037004823e-06,
+      "ic95_delta": [
+        27.1,
+        57.0
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "hypotheses_prudentes",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 32.6,
+      "pct_lose": 4.3,
+      "delta_pts": 28.2,
+      "n_win": 43,
+      "n_lose": 92,
+      "p_value": 7.044095235542368e-06,
+      "ic95_delta": [
+        13.6,
+        42.8
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "capacite_financiere_forte",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 78.7,
+      "pct_lose": 41.2,
+      "delta_pts": 37.5,
+      "n_win": 47,
+      "n_lose": 97,
+      "p_value": 2.3505697871806072e-05,
+      "ic95_delta": [
+        22.2,
+        52.7
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "diagnostic_op_ou_struct",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 89.4,
+      "pct_lose": 55.1,
+      "delta_pts": 34.2,
+      "n_win": 47,
+      "n_lose": 107,
+      "p_value": 3.850858496549132e-05,
+      "ic95_delta": [
+        21.3,
+        47.1
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "nb_cs",
+      "type": "numerique",
+      "test": "Mann-Whitney U",
+      "med_win": 1.0,
+      "med_lose": 4.0,
+      "delta_med": -3.0,
+      "n_win": 43,
+      "n_lose": 80,
+      "p_value": 4.2794313282601694e-05,
+      "rank_biserial": 0.444,
+      "significatif": true
+    },
+    {
+      "variable": "maintien_conditions_oui_total",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 65.9,
+      "pct_lose": 29.3,
+      "delta_pts": 36.6,
+      "n_win": 44,
+      "n_lose": 92,
+      "p_value": 5.057447329977366e-05,
+      "ic95_delta": [
+        19.7,
+        53.4
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "coherence_prix_bp_coherent",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 60.0,
+      "pct_lose": 24.7,
+      "delta_pts": 35.3,
+      "n_win": 45,
+      "n_lose": 89,
+      "p_value": 6.205795153023615e-05,
+      "ic95_delta": [
+        18.4,
+        52.2
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "elements_emotionnels_sociaux",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 51.4,
+      "pct_lose": 16.7,
+      "delta_pts": 34.7,
+      "n_win": 37,
+      "n_lose": 84,
+      "p_value": 7.912001738346373e-05,
+      "ic95_delta": [
+        16.7,
+        52.7
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "annexes_organigramme_cible",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 60.0,
+      "pct_lose": 22.2,
+      "delta_pts": 37.8,
+      "n_win": 35,
+      "n_lose": 72,
+      "p_value": 0.00011592165496705533,
+      "ic95_delta": [
+        18.9,
+        56.6
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "soutien_clients_cles",
+      "type": "binaire",
+      "test": "Fisher",
+      "pct_win": 23.7,
+      "pct_lose": 1.3,
+      "delta_pts": 22.4,
+      "n_win": 38,
+      "n_lose": 79,
+      "p_value": 0.00014967753599858349,
+      "ic95_delta": [
+        8.7,
+        36.2
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "agressivite_cs_aucune",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 87.2,
+      "pct_lose": 55.7,
+      "delta_pts": 31.6,
+      "n_win": 47,
+      "n_lose": 106,
+      "p_value": 0.00015280188402277953,
+      "ic95_delta": [
+        18.1,
+        45.0
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "bfr_redemarrage",
+      "type": "numerique",
+      "test": "Mann-Whitney U",
+      "med_win": 85000.0,
+      "med_lose": 1800000.0,
+      "delta_med": -1715000.0,
+      "n_win": 6,
+      "n_lose": 15,
+      "p_value": 0.00017353837370646407,
+      "rank_biserial": 1.0,
+      "significatif": true
+    },
+    {
+      "variable": "annexes_cni_dirigeants",
+      "type": "binaire",
+      "test": "Fisher",
+      "pct_win": 25.0,
+      "pct_lose": 1.4,
+      "delta_pts": 23.6,
+      "n_win": 32,
+      "n_lose": 71,
+      "p_value": 0.0003087400656625153,
+      "ic95_delta": [
+        8.3,
+        38.8
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "nb_salaries_repris",
+      "type": "numerique",
+      "test": "Mann-Whitney U",
+      "med_win": 5.0,
+      "med_lose": 1.0,
+      "delta_med": 4.0,
+      "n_win": 40,
+      "n_lose": 90,
+      "p_value": 0.00036449399836297586,
+      "rank_biserial": -0.386,
+      "significatif": true
+    },
+    {
+      "variable": "soutien_collectivite_locale",
+      "type": "binaire",
+      "test": "Fisher",
+      "pct_win": 20.5,
+      "pct_lose": 1.2,
+      "delta_pts": 19.3,
+      "n_win": 39,
+      "n_lose": 83,
+      "p_value": 0.00043605467467584764,
+      "ic95_delta": [
+        6.4,
+        32.2
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "ton_mixte",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 39.1,
+      "pct_lose": 13.5,
+      "delta_pts": 25.6,
+      "n_win": 46,
+      "n_lose": 96,
+      "p_value": 0.0005516306080661716,
+      "ic95_delta": [
+        9.9,
+        41.3
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "dette_lettre_confort",
+      "type": "binaire",
+      "test": "Fisher",
+      "pct_win": 25.6,
+      "pct_lose": 3.7,
+      "delta_pts": 21.9,
+      "n_win": 39,
+      "n_lose": 81,
+      "p_value": 0.000685001541332602,
+      "ic95_delta": [
+        7.6,
+        36.2
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "nb_erreurs",
+      "type": "numerique",
+      "test": "Mann-Whitney U",
+      "med_win": 1.0,
+      "med_lose": 1.0,
+      "delta_med": 0.0,
+      "n_win": 47,
+      "n_lose": 107,
+      "p_value": 0.003972274156809494,
+      "rank_biserial": 0.269,
+      "significatif": true
+    },
+    {
+      "variable": "annexes_attest_fisc_sociale",
+      "type": "binaire",
+      "test": "Fisher",
+      "pct_win": 21.2,
+      "pct_lose": 2.8,
+      "delta_pts": 18.4,
+      "n_win": 33,
+      "n_lose": 72,
+      "p_value": 0.0039791650357408805,
+      "ic95_delta": [
+        4.0,
+        32.9
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "paiement_comptant_audience",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 74.5,
+      "pct_lose": 50.0,
+      "delta_pts": 24.5,
+      "n_win": 47,
+      "n_lose": 106,
+      "p_value": 0.004734679319529446,
+      "ic95_delta": [
+        8.8,
+        40.2
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "annexes_cv_dirigeants",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 37.5,
+      "pct_lose": 15.4,
+      "delta_pts": 22.1,
+      "n_win": 40,
+      "n_lose": 78,
+      "p_value": 0.00678662642615303,
+      "ic95_delta": [
+        5.1,
+        39.1
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "charges_augmentatives",
+      "type": "numerique",
+      "test": "Mann-Whitney U",
+      "med_win": 64000.0,
+      "med_lose": 500000.0,
+      "delta_med": -436000.0,
+      "n_win": 10,
+      "n_lose": 16,
+      "p_value": 0.01209081662895648,
+      "rank_biserial": 0.6,
+      "significatif": true
+    },
+    {
+      "variable": "annexes_rib",
+      "type": "binaire",
+      "test": "Fisher",
+      "pct_win": 14.7,
+      "pct_lose": 1.4,
+      "delta_pts": 13.3,
+      "n_win": 34,
+      "n_lose": 71,
+      "p_value": 0.01311160242237816,
+      "ic95_delta": [
+        1.1,
+        25.5
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "track_record_count",
+      "type": "numerique",
+      "test": "Mann-Whitney U",
+      "med_win": 2.0,
+      "med_lose": 1.0,
+      "delta_med": 1.0,
+      "n_win": 47,
+      "n_lose": 107,
+      "p_value": 0.01428483737388667,
+      "rank_biserial": -0.244,
+      "significatif": true
+    },
+    {
+      "variable": "personnalisation_visite_site",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 34.1,
+      "pct_lose": 15.3,
+      "delta_pts": 18.9,
+      "n_win": 41,
+      "n_lose": 85,
+      "p_value": 0.015679396497893832,
+      "ic95_delta": [
+        2.4,
+        35.3
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "non_demembrement",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 23.3,
+      "pct_lose": 8.1,
+      "delta_pts": 15.1,
+      "n_win": 43,
+      "n_lose": 86,
+      "p_value": 0.016724536361270716,
+      "ic95_delta": [
+        1.2,
+        29.0
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "differenciation_concurrents_explicite",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 30.8,
+      "pct_lose": 13.6,
+      "delta_pts": 17.1,
+      "n_win": 39,
+      "n_lose": 88,
+      "p_value": 0.022905957245389203,
+      "ic95_delta": [
+        1.0,
+        33.3
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "pct_reprise",
+      "type": "numerique",
+      "test": "Mann-Whitney U",
+      "med_win": 66.67,
+      "med_lose": 33.0,
+      "delta_med": 33.67,
+      "n_win": 37,
+      "n_lose": 66,
+      "p_value": 0.02938028365805065,
+      "rank_biserial": -0.258,
+      "significatif": true
+    },
+    {
+      "variable": "personnalisation_rencontre_equipes",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 24.3,
+      "pct_lose": 9.9,
+      "delta_pts": 14.4,
+      "n_win": 37,
+      "n_lose": 81,
+      "p_value": 0.038127395149477564,
+      "ic95_delta": [
+        -0.8,
+        29.7
+      ],
+      "significatif": true
+    },
+    {
+      "variable": "apport_fp",
+      "type": "numerique",
+      "test": "Mann-Whitney U",
+      "med_win": 105000.0,
+      "med_lose": 500000.0,
+      "delta_med": -395000.0,
+      "n_win": 24,
+      "n_lose": 33,
+      "p_value": 0.041359457886773775,
+      "rank_biserial": 0.319,
+      "significatif": true
+    },
+    {
+      "variable": "annexes_comptes_sociaux_3ans",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 59.0,
+      "pct_lose": 40.3,
+      "delta_pts": 18.7,
+      "n_win": 39,
+      "n_lose": 77,
+      "p_value": 0.05626833443741367,
+      "ic95_delta": [
+        -0.2,
+        37.6
+      ],
+      "significatif": false
+    },
+    {
+      "variable": "annexes_business_plan",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 32.5,
+      "pct_lose": 18.1,
+      "delta_pts": 14.4,
+      "n_win": 40,
+      "n_lose": 83,
+      "p_value": 0.07383534023273065,
+      "ic95_delta": [
+        -2.3,
+        31.1
+      ],
+      "significatif": false
+    },
+    {
+      "variable": "L642_12_al4",
+      "type": "binaire",
+      "test": "Fisher",
+      "pct_win": 0.0,
+      "pct_lose": 8.0,
+      "delta_pts": -8.0,
+      "n_win": 44,
+      "n_lose": 87,
+      "p_value": 0.09460999771901676,
+      "ic95_delta": [
+        -13.8,
+        -2.3
+      ],
+      "significatif": false
+    },
+    {
+      "variable": "bp_3ans_present",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 30.4,
+      "pct_lose": 18.6,
+      "delta_pts": 11.9,
+      "n_win": 46,
+      "n_lose": 97,
+      "p_value": 0.11138506415770948,
+      "ic95_delta": [
+        -3.5,
+        27.3
+      ],
+      "significatif": false
+    },
+    {
+      "variable": "exec_summary",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 37.8,
+      "pct_lose": 24.7,
+      "delta_pts": 13.0,
+      "n_win": 45,
+      "n_lose": 93,
+      "p_value": 0.11328815487275723,
+      "ic95_delta": [
+        -3.6,
+        29.7
+      ],
+      "significatif": false
+    },
+    {
+      "variable": "faculte_substitution_precise",
+      "type": "binaire",
+      "test": "chi2",
+      "pct_win": 80.0,
+      "pct_lose": 67.8,
+      "delta_pts": 12.2,
+      "n_win": 45,
+      "n_lose": 87,
+      "p_value": 0.1395878565466339,
+      "ic95_delta": [
+        -3.1,
+        27.4
+      ],
+      "significatif": false
+    },
+    {
+      "variable": "nb_pages_total",
+      "type": "numerique",
+      "test": "Mann-Whitney U",
+      "med_win": 13.5,
+      "med_lose": 30.5,
+      "delta_med": -17.0,
+      "n_win": 18,
+      "n_lose": 14,
+      "p_value": 0.14753690957537516,
+      "rank_biserial": 0.306,
+      "significatif": false
+    },
+    {
+      "variable": "exp_annees",
+      "type": "numerique",
+      "test": "Mann-Whitney U",
+      "med_win": 28.0,
+      "med_lose": 25.0,
+      "delta_med": 3.0,
+      "n_win": 24,
+      "n_lose": 37,
+      "p_value": 0.2605121881365423,
+      "rank_biserial": -0.172,
+      "significatif": false
+    },
+    {
+      "variable": "incorporels",
+      "type": "numerique",
+      "test": "Mann-Whitney U",
+      "med_win": 5488.5,
+      "med_lose": 1000.0,
+      "delta_med": 4488.5,
+      "n_win": 40,
+      "n_lose": 51,
+      "p_value": 0.2841287390158572,
+      "rank_biserial": -0.131,
+      "significatif": false
+    },
+    {
+      "variable": "corporels",
+      "type": "numerique",
+      "test": "Mann-Whitney U",
+      "med_win": 17500.0,
+      "med_lose": 10000.0,
+      "delta_med": 7500.0,
+      "n_win": 40,
+      "n_lose": 51,
+      "p_value": 0.4044454874823361,
+      "rank_biserial": -0.102,
+      "significatif": false
+    },
+    {
+      "variable": "effectif",
+      "type": "numerique",
+      "test": "Mann-Whitney U",
+      "med_win": 7.0,
+      "med_lose": 6.0,
+      "delta_med": 1.0,
+      "n_win": 46,
+      "n_lose": 106,
+      "p_value": 0.5671776305285563,
+      "rank_biserial": -0.058,
+      "significatif": false
+    },
+    {
+      "variable": "ca_an1",
+      "type": "numerique",
+      "test": "Mann-Whitney U",
+      "med_win": 3105666.0,
+      "med_lose": 2940000.0,
+      "delta_med": 165666.0,
+      "n_win": 10,
+      "n_lose": 16,
+      "p_value": 0.8534494608642991,
+      "rank_biserial": 0.05,
+      "significatif": false
+    },
+    {
+      "variable": "prix_total",
+      "type": "numerique",
+      "test": "Mann-Whitney U",
+      "med_win": 50000.0,
+      "med_lose": 50000.0,
+      "delta_med": 0.0,
+      "n_win": 41,
+      "n_lose": 92,
+      "p_value": 0.9415240318985791,
+      "rank_biserial": 0.008,
+      "significatif": false
+    },
+    {
+      "variable": "incessibilite_mois",
+      "type": "numerique",
+      "test": "Mann-Whitney U",
+      "med_win": 24.0,
+      "med_lose": 24.0,
+      "delta_med": 0.0,
+      "n_win": 10,
+      "n_lose": 5,
+      "p_value": 1.0,
+      "rank_biserial": 0.0,
+      "significatif": false
+    }
+  ],
+  "analysis_2": [
+    {
+      "variable": "personnalisation_etude_contrats",
+      "delta_full": 50.3,
+      "delta_reliable": 49.3,
+      "ecart": -1.0,
+      "p_reliable": 4.725122670317479e-07,
+      "verdict": "OUI"
+    },
+    {
+      "variable": "declaration_L642_3_signee",
+      "delta_full": 46.7,
+      "delta_reliable": 46.8,
+      "ecart": 0.1,
+      "p_reliable": 3.8354265960340056e-07,
+      "verdict": "OUI"
+    },
+    {
+      "variable": "annexes_kbis",
+      "delta_full": 42.0,
+      "delta_reliable": 41.1,
+      "ecart": -0.9,
+      "p_reliable": 7.661713747359172e-06,
+      "verdict": "OUI"
+    },
+    {
+      "variable": "annexes_attest_bancaire",
+      "delta_full": 42.1,
+      "delta_reliable": 41.9,
+      "ecart": -0.2,
+      "p_reliable": 4.630966028865445e-07,
+      "verdict": "OUI"
+    },
+    {
+      "variable": "kbis_en_annexe",
+      "delta_full": 41.8,
+      "delta_reliable": 40.2,
+      "ecart": -1.6,
+      "p_reliable": 8.399318960140779e-06,
+      "verdict": "OUI"
+    },
+    {
+      "variable": "soutien_banques_historiques",
+      "delta_full": 37.6,
+      "delta_reliable": 37.5,
+      "ecart": -0.1,
+      "p_reliable": 2.4366702212726517e-07,
+      "verdict": "OUI"
+    },
+    {
+      "variable": "aucune_cs",
+      "delta_full": 32.0,
+      "delta_reliable": 31.5,
+      "ecart": -0.5,
+      "p_reliable": 1.421108673625011e-05,
+      "verdict": "OUI"
+    },
+    {
+      "variable": "elements_emotionnels_sociaux",
+      "delta_full": 34.7,
+      "delta_reliable": 34.1,
+      "ecart": -0.6,
+      "p_reliable": 0.00013065291085363412,
+      "verdict": "OUI"
+    },
+    {
+      "variable": "capacite_financiere_forte",
+      "delta_full": 37.5,
+      "delta_reliable": 36.0,
+      "ecart": -1.5,
+      "p_reliable": 6.542731193944346e-05,
+      "verdict": "OUI"
+    },
+    {
+      "variable": "qualite_redac_claire",
+      "delta_full": 40.7,
+      "delta_reliable": 37.0,
+      "ecart": -3.7,
+      "p_reliable": 3.381199496577454e-05,
+      "verdict": "OUI"
+    },
+    {
+      "variable": "apport_rib_attestation",
+      "delta_full": 42.7,
+      "delta_reliable": 42.3,
+      "ecart": -0.4,
+      "p_reliable": 1.5591590910635275e-08,
+      "verdict": "OUI"
+    }
+  ],
+  "analysis_3": {
+    "base_rate": 30.5,
+    "n_filled": 67,
+    "n_decided": 154,
+    "cabinets": [
+      {
+        "cabinet": "FIDAL",
+        "n": 24,
+        "n_retenues": 0,
+        "taux_retenue_pct": 0.0,
+        "p_value_vs_reste": 0.0007032525528904679,
+        "n_faible": false
+      },
+      {
+        "cabinet": "LEXCAP",
+        "n": 18,
+        "n_retenues": 15,
+        "taux_retenue_pct": 83.3,
+        "p_value_vs_reste": 1.2031566252652336e-05,
+        "n_faible": false
+      },
+      {
+        "cabinet": "AGN AVOCATS",
+        "n": 3,
+        "n_retenues": 3,
+        "taux_retenue_pct": 100.0,
+        "p_value_vs_reste": 0.03097785715414645,
+        "n_faible": true
+      },
+      {
+        "cabinet": "GUARREL AVOCAT",
+        "n": 3,
+        "n_retenues": 3,
+        "taux_retenue_pct": 100.0,
+        "p_value_vs_reste": 0.03097785715414645,
+        "n_faible": true
+      },
+      {
+        "cabinet": "IKKI PARTNERS",
+        "n": 3,
+        "n_retenues": 0,
+        "taux_retenue_pct": 0.0,
+        "p_value_vs_reste": 0.5546695958654042,
+        "n_faible": true
+      },
+      {
+        "cabinet": "PARTHEMA AVOCATS",
+        "n": 3,
+        "n_retenues": 0,
+        "taux_retenue_pct": 0.0,
+        "p_value_vs_reste": 0.5542489768296219,
+        "n_faible": true
+      },
+      {
+        "cabinet": "PZ AVOCATS",
+        "n": 2,
+        "n_retenues": 2,
+        "taux_retenue_pct": 100.0,
+        "p_value_vs_reste": 0.09727047146401983,
+        "n_faible": true
+      },
+      {
+        "cabinet": "BGD AVOCATS",
+        "n": 2,
+        "n_retenues": 0,
+        "taux_retenue_pct": 0.0,
+        "p_value_vs_reste": 1.0,
+        "n_faible": true
+      },
+      {
+        "cabinet": "SELARL GAYA AVOCATS",
+        "n": 2,
+        "n_retenues": 0,
+        "taux_retenue_pct": 0.0,
+        "p_value_vs_reste": 1.0,
+        "n_faible": true
+      },
+      {
+        "cabinet": "DORLEAC AZOULAY",
+        "n": 1,
+        "n_retenues": 1,
+        "taux_retenue_pct": 100.0,
+        "p_value_vs_reste": 0.30967741935483867,
+        "n_faible": true
+      },
+      {
+        "cabinet": "HADENGUE & ASSOCIES",
+        "n": 1,
+        "n_retenues": 1,
+        "taux_retenue_pct": 100.0,
+        "p_value_vs_reste": 0.30967741935483867,
+        "n_faible": true
+      },
+      {
+        "cabinet": "MAÎTRE YOUNSE ELAISATI",
+        "n": 1,
+        "n_retenues": 1,
+        "taux_retenue_pct": 100.0,
+        "p_value_vs_reste": 0.30967741935483867,
+        "n_faible": true
+      },
+      {
+        "cabinet": "AARPI / CONSEIL JIMMY FAIRLY",
+        "n": 1,
+        "n_retenues": 0,
+        "taux_retenue_pct": 0.0,
+        "p_value_vs_reste": 1.0,
+        "n_faible": true
+      },
+      {
+        "cabinet": "AARPI ROOM AVOCATS",
+        "n": 1,
+        "n_retenues": 0,
+        "taux_retenue_pct": 0.0,
+        "p_value_vs_reste": 1.0,
+        "n_faible": true
+      },
+      {
+        "cabinet": "CABINET ELKAIM AVOCATS",
+        "n": 1,
+        "n_retenues": 0,
+        "taux_retenue_pct": 0.0,
+        "p_value_vs_reste": 1.0,
+        "n_faible": true
+      },
+      {
+        "cabinet": "DELSOL AVOCATS",
+        "n": 1,
+        "n_retenues": 0,
+        "taux_retenue_pct": 0.0,
+        "p_value_vs_reste": 1.0,
+        "n_faible": true
+      }
+    ]
+  },
+  "analysis_4": {
+    "base_rate": 30.5,
+    "ajs": [
+      {
+        "aj": "Marine PACE",
+        "n": 51,
+        "n_retenues": 18,
+        "taux_retenue_pct": 35.3,
+        "p_value_vs_reste": 0.45727097547526047,
+        "n_faible": false
+      },
+      {
+        "aj": "FLECHARD / BOUYER / LANGET",
+        "n": 33,
+        "n_retenues": 5,
+        "taux_retenue_pct": 15.2,
+        "p_value_vs_reste": 0.03371668344479002,
+        "n_faible": false
+      },
+      {
+        "aj": "Helene BOURBOULOUX",
+        "n": 20,
+        "n_retenues": 1,
+        "taux_retenue_pct": 5.0,
+        "p_value_vs_reste": 0.0077436657407946976,
+        "n_faible": false
+      },
+      {
+        "aj": "POLI / BAULAND",
+        "n": 15,
+        "n_retenues": 2,
+        "taux_retenue_pct": 13.3,
+        "p_value_vs_reste": 0.15206515523330277,
+        "n_faible": false
+      },
+      {
+        "aj": "Sandra BELADJINE",
+        "n": 14,
+        "n_retenues": 9,
+        "taux_retenue_pct": 64.3,
+        "p_value_vs_reste": 0.011280107787467207,
+        "n_faible": false
+      },
+      {
+        "aj": "ME CAROLE MARTINEZ + ME CÉLI",
+        "n": 6,
+        "n_retenues": 0,
+        "taux_retenue_pct": 0.0,
+        "p_value_vs_reste": 0.17832791359302413,
+        "n_faible": true
+      },
+      {
+        "aj": "CHARLES-HENRI CARBONI",
+        "n": 3,
+        "n_retenues": 3,
+        "taux_retenue_pct": 100.0,
+        "p_value_vs_reste": 0.0271651722890113,
+        "n_faible": true
+      },
+      {
+        "aj": "MAÎTRE LAURE SANCHEZ-SEPVAL",
+        "n": 3,
+        "n_retenues": 3,
+        "taux_retenue_pct": 100.0,
+        "p_value_vs_reste": 0.0271651722890113,
+        "n_faible": true
+      },
+      {
+        "aj": "ME CAROLE MARTINEZ",
+        "n": 3,
+        "n_retenues": 2,
+        "taux_retenue_pct": 66.7,
+        "p_value_vs_reste": 0.2209434012839586,
+        "n_faible": true
+      },
+      {
+        "aj": "ME FLORENT HUNSINGER",
+        "n": 3,
+        "n_retenues": 1,
+        "taux_retenue_pct": 33.3,
+        "p_value_vs_reste": 1.0,
+        "n_faible": true
+      },
+      {
+        "aj": "MAÎTRE FLORENT HUNSINGER",
+        "n": 2,
+        "n_retenues": 2,
+        "taux_retenue_pct": 100.0,
+        "p_value_vs_reste": 0.09175791528732706,
+        "n_faible": true
+      }
+    ]
+  },
+  "analysis_5": {
+    "n_amelioree": 42,
+    "n_paires_datees": 23,
+    "delai_median_j": 26.0,
+    "p25_j": 21.0,
+    "p75_j": 38.5,
+    "min_j": 11,
+    "max_j": 93,
+    "detail": [
+      {
+        "dossier": "05",
+        "repreneur": "ANTOINE HENRIQUET",
+        "v1": "2026-01-06",
+        "v2": "2026-02-05",
+        "delai_jours": 30
+      },
+      {
+        "dossier": "05",
+        "repreneur": "SAS FINANCIERE DAUNOU 9",
+        "v1": "2026-01-05",
+        "v2": "2026-02-05",
+        "delai_jours": 31
+      },
+      {
+        "dossier": "09",
+        "repreneur": "ELIANE DODO + MICHELLE LI",
+        "v1": "2026-01-15",
+        "v2": "2026-02-11",
+        "delai_jours": 27
+      },
+      {
+        "dossier": "13",
+        "repreneur": "J.L 13 RUE DE LA GRANGE B",
+        "v1": "2025-11-19",
+        "v2": "2026-02-20",
+        "delai_jours": 93
+      },
+      {
+        "dossier": "15",
+        "repreneur": "MEDIVI",
+        "v1": "2026-01-12",
+        "v2": "2026-02-11",
+        "delai_jours": 30
+      },
+      {
+        "dossier": "34",
+        "repreneur": "DATASOLUTION",
+        "v1": "2026-01-05",
+        "v2": "2026-02-12",
+        "delai_jours": 38
+      },
+      {
+        "dossier": "34",
+        "repreneur": "SARL AGENCE IF",
+        "v1": "2026-01-05",
+        "v2": "2026-02-13",
+        "delai_jours": 39
+      },
+      {
+        "dossier": "34-LPC",
+        "repreneur": "CONSORTIUM LEROY FRERES E",
+        "v1": "2026-03-18",
+        "v2": "2026-04-08",
+        "delai_jours": 21
+      },
+      {
+        "dossier": "35-SICA",
+        "repreneur": "LES VERGERS D'ANJOU",
+        "v1": "2026-03-18",
+        "v2": "2026-04-08",
+        "delai_jours": 21
+      },
+      {
+        "dossier": "36-LVL",
+        "repreneur": "CASTEL INVEST + LEROY FRE",
+        "v1": "2026-03-18",
+        "v2": "2026-04-08",
+        "delai_jours": 21
+      },
+      {
+        "dossier": "37-COOP",
+        "repreneur": "CONSORTIUM CASTEL INVEST ",
+        "v1": "2026-03-18",
+        "v2": "2026-04-08",
+        "delai_jours": 21
+      },
+      {
+        "dossier": "50",
+        "repreneur": "AA INVESTMENTS (HK) LIMIT",
+        "v1": "2026-03-10",
+        "v2": "2026-04-29",
+        "delai_jours": 50
+      },
+      {
+        "dossier": "50",
+        "repreneur": "CASA IDEAS",
+        "v1": "2026-03-05",
+        "v2": "2026-04-29",
+        "delai_jours": 55
+      },
+      {
+        "dossier": "50",
+        "repreneur": "CONSORTIUM VERDOSO / DANI",
+        "v1": "2026-03-10",
+        "v2": "2026-04-29",
+        "delai_jours": 50
+      },
+      {
+        "dossier": "57",
+        "repreneur": "SARL CELHER",
+        "v1": "2026-03-18",
+        "v2": "2026-04-08",
+        "delai_jours": 21
+      },
+      {
+        "dossier": "59",
+        "repreneur": "CASTEL INVEST + LEROY FRE",
+        "v1": "2026-03-18",
+        "v2": "2026-04-08",
+        "delai_jours": 21
+      },
+      {
+        "dossier": "59",
+        "repreneur": "SARL CELHER",
+        "v1": "2026-03-18",
+        "v2": "2026-04-13",
+        "delai_jours": 26
+      },
+      {
+        "dossier": "61",
+        "repreneur": "CASTEL INVEST + LEROY FRE",
+        "v1": "2026-03-18",
+        "v2": "2026-04-08",
+        "delai_jours": 21
+      },
+      {
+        "dossier": "61",
+        "repreneur": "SARL CELHER",
+        "v1": "2026-03-18",
+        "v2": "2026-04-08",
+        "delai_jours": 21
+      },
+      {
+        "dossier": "66",
+        "repreneur": "SARL CELHER",
+        "v1": "2026-03-18",
+        "v2": "2026-04-08",
+        "delai_jours": 21
+      },
+      {
+        "dossier": "AJ",
+        "repreneur": "HUMAN LOG",
+        "v1": "2025-11-25",
+        "v2": "2026-02-09",
+        "delai_jours": 76
+      },
+      {
+        "dossier": "CPR",
+        "repreneur": "WS HOLDING (ALIAS WELLNES",
+        "v1": "2025-09-17",
+        "v2": "2025-10-10",
+        "delai_jours": 23
+      },
+      {
+        "dossier": "NEW-AXIOVAL",
+        "repreneur": "FCL (FCL GERER LA CITE)",
+        "v1": "2026-04-13",
+        "v2": "2026-04-24",
+        "delai_jours": 11
+      }
+    ]
+  },
+  "analysis_6": {
+    "n": 154,
+    "n_features": 30,
+    "baseline": 0.695,
+    "tree_acc_mean": 0.74,
+    "tree_acc_std": 0.057,
+    "tree_auc_mean": 0.807,
+    "logit_acc_mean": 0.812,
+    "logit_acc_std": 0.077,
+    "logit_auc_mean": 0.888,
+    "tree_importance": [
+      [
+        "declaration_L642_3_signee",
+        0.433
+      ],
+      [
+        "nb_cs",
+        0.161
+      ],
+      [
+        "personnalisation_etude_contrats",
+        0.136
+      ],
+      [
+        "annexes_kbis",
+        0.106
+      ],
+      [
+        "prix_total",
+        0.088
+      ],
+      [
+        "qualite_claire",
+        0.076
+      ],
+      [
+        "annexes_attest_bancaire",
+        0.0
+      ],
+      [
+        "kbis_en_annexe",
+        0.0
+      ]
+    ],
+    "logit_coef": [
+      [
+        "qualite_claire",
+        1.116
+      ],
+      [
+        "personnalisation_visite_site",
+        -0.99
+      ],
+      [
+        "capacite_fin_forte",
+        0.775
+      ],
+      [
+        "nb_concurrents",
+        -0.649
+      ],
+      [
+        "pct_reprise",
+        0.645
+      ],
+      [
+        "soutien_banques_historiques",
+        0.632
+      ],
+      [
+        "kbis_en_annexe",
+        0.582
+      ],
+      [
+        "personnalisation_etude_contrats",
+        0.58
+      ],
+      [
+        "paiement_comptant",
+        -0.572
+      ],
+      [
+        "declaration_L642_3_signee",
+        0.525
+      ]
+    ],
+    "recoupe_grille08": [
+      "annexes_kbis",
+      "capacite_fin_forte",
+      "declaration_L642_3_signee",
+      "kbis_en_annexe",
+      "nb_cs",
+      "paiement_comptant",
+      "pct_reprise",
+      "personnalisation_etude_contrats",
+      "qualite_claire",
+      "soutien_banques_historiques"
+    ],
+    "hors_grille08": [
+      "nb_concurrents",
+      "personnalisation_visite_site",
+      "prix_total"
+    ]
+  }
+}
