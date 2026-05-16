@@ -33,6 +33,7 @@ Index des 10 livrables produits à partir de 566 offres + 101 dossiers extraits 
 | 8 | [[08-grille-scoring-100pts]] | **Grille opérationnelle 32 critères /100 calibrée sur corpus** | OK |
 | 9 | [[09-bibliotheque-extraits]] | Verbatims winning pour préambule, vision, social, prix, substitution, CS | OK |
 | 10 | [[10-angles-morts]] | 7 catégories de limites — sélection, doublons, secteurs, post-cession, ressort, temps, technique | OK |
+| 11 | [[11-tests-statistiques-et-analyses-residuelles]] | Tests chi-deux/Fisher/Mann-Whitney, réplication sous-corpus fiable, cabinet/AJ/délai v1-v2, contre-vérification ML de la grille | OK |
 
 ## Trois insights majeurs émergents
 
