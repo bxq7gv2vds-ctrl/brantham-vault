@@ -65,7 +65,9 @@ Effet : posture d'initié, le lecteur veut savoir ce que les autres ignorent.
 
 - Bulle de pensée du type isolé : « Ils ne savent pas que l'offre la plus chère perd presque toujours le dossier au tribunal »
 - « perd presque toujours » mis en accent bordeaux.
-- Logo Brantham sur pastille blanche en bas.
+- Scène contenue dans le cadre dossier (pas de débord), DA crème.
+- Bandeau « En clair » sous l'image : explicite le message pour qui ne connaît pas le meme.
+- Pied de page signé Paul Roulleau + référence Code de commerce.
 
 Base meme : `tdk-base.png` (template Imgflip « They don't know », ID 284929871).
 Template : `templates/post-4-meme-tdk-lp.html`
