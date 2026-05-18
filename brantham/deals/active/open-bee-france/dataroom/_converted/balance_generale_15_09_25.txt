@@ -1,0 +1,385 @@
+=== SHEET: Balance des comptes ===
+OPEN BEE FRANCE |  |  |  |  |  |  | Balance des comptes |  |  |  |  | Période du | 2025-01-01 00:00:00 |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | au | 2025-09-15 00:00:00 |  | 
+ |  |  |  |  |  |  | Complète |  |  |  |  | Tenue de compte : EURO |  |  | 
+© Sage - Sage 100 Comptabilité Premium 11.02 |  |  |  |  |  |  | Date de tirage |  | 2025-09-28 00:00:00 |  | 22:01:40 |  | Page : | 1 | 
+Numéro
+de
+compte |  |  |  |  |  |  |  | Mouvements |  |  |  |  | Soldes |  | 
+ |  |  |  | Intitulé des comptes |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | Débit |  |  | Crédit |  | Débit |  | Crédit | 
+10130000 |  | CAPITAL SOUSCRIT - APPELÉ, VERSÉ |  |  |  |  |  |  |  | 2243800 |  |  |  | 2243800 | 
+10610000 |  | RÉSERVE LÉGALE |  |  |  |  |  |  |  | 10000 |  |  |  | 10000 | 
+10680000 |  | AUTRES RÉSERVES |  |  |  |  |  |  |  | 1512284.58 |  |  |  | 1512284.58 | 
+12900000 |  | RÉSULTAT EXERCICE (PERTE) |  |  |  |  |  | 589468.54 |  |  |  | 589468.54 |  |  | 
+15110000 |  | PROVISIONS POUR LITIGES |  |  |  |  |  | 138107 |  | 185962 |  |  |  | 47855 | 
+15180000 |  | PROVISION POUR RISQUES |  |  |  |  |  | 2578977 |  | 3104592.07 |  |  |  | 525615.0699999998 | 
+16100000 |  | EMPRUNTS OBLIGATAIRES CONVERTIBLES |  |  |  |  |  |  |  | 2000000 |  |  |  | 2000000 | 
+16403000 |  | PRET BPI 150K+300K |  |  |  |  |  | 67749.41 |  | 158345.58 |  |  |  | 90596.16999999998 | 
+16422000 |  | PRET SG 83 400 € |  |  |  |  |  | 153.58 |  |  |  | 153.58 |  |  | 
+16428000 |  | PRET BP 240 000 € |  |  |  |  |  |  |  | 240000 |  |  |  | 240000 | 
+16429000 |  | PRET BPI 150 000 |  |  |  |  |  |  |  | 150000 |  |  |  | 150000 | 
+16491000 |  | PGE BP 150 000 € |  |  |  |  |  | 25182.26 |  | 50777.23 |  |  |  | 25594.970000000005 | 
+16492000 |  | PGE SG 600 000 € |  |  |  |  |  | 113124.44 |  | 214099.46 |  |  |  | 100975.01999999999 | 
+16493000 |  | PGE CE 200 000 € |  |  |  |  |  | 33639.83 |  | 71652.46 |  |  |  | 38012.630000000005 | 
+16494000 |  | PRET BPI SG 100000 |  |  |  |  |  | 15000 |  | 55000 |  |  |  | 40000 | 
+16495000 |  | PRET BPI |  |  |  |  |  | 28125 |  | 65625 |  |  |  | 37500 | 
+16496000 |  | PRET BP 160 000 |  |  |  |  |  | 21209.04 |  | 100688.96 |  |  |  | 79479.92000000001 | 
+16497000 |  | PRET SG 250 000 € |  |  |  |  |  | 37894.23 |  | 110589.2 |  |  |  | 72694.97 | 
+16498000 |  | PRET BPI SG 500 000 |  |  |  |  |  | 75000 |  | 500000 |  |  |  | 425000 | 
+16499000 |  | PRET SG 240 000 € |  |  |  |  |  |  |  | 240000 |  |  |  | 240000 | 
+16884000 |  | INTE COUEMP |  |  |  |  |  | 231666.42 |  | 235120.69 |  |  |  | 3454.2699999999895 | 
+20300000 |  | FRAIS RECHERCHE ET DÉVELOPPEMENT |  |  |  |  |  | 15300 |  |  |  | 15300 |  |  | 
+20500000 |  | CONCESSIONS ET DROITS SIMILAIRES .. |  |  |  |  |  | 10337720.62 |  |  |  | 10337720.62 |  |  | 
+20700000 |  | FONDS COMMERCIAL |  |  |  |  |  | 150000 |  |  |  | 150000 |  |  | 
+21810000 |  | INSTALLATIONS GÉNÉRALES |  |  |  |  |  | 98093.25 |  |  |  | 98093.25 |  |  | 
+21811000 |  | AUTRES IMMOBILISATIONS CORPORELLES |  |  |  |  |  | 2288 |  |  |  | 2288 |  |  | 
+21820000 |  | MATÉRIEL DE TRANSPORT |  |  |  |  |  | 114325.76999999999 |  | 4996.21 |  | 109329.55999999998 |  |  | 
+21830000 |  | MATÉRIEL DE BUREAU & INFORMATIQUE |  |  |  |  |  | 228772.72999999998 |  |  |  | 228772.72999999998 |  |  | 
+26100000 |  | TITRES OPEN BEE TUNISIE |  |  |  |  |  | 634545.08 |  |  |  | 634545.08 |  |  | 
+27100000 |  | PARTS SOCIALES BANQUE POPULAIRE |  |  |  |  |  | 6560 |  |  |  | 6560 |  |  | 
+27200000 |  | PARTS SOCIALES BANQUE POPULAIRE |  |  |  |  |  | 160 |  |  |  | 160 |  |  | 
+27500000 |  | DÉPÔTS ET CAUTIONNEMENTS VERSÉS |  |  |  |  |  | 46278.96 |  |  |  | 46278.96 |  |  | 
+27510000 |  | FONDS DE GARANTIE FACTOR |  |  |  |  |  | 124502.99 |  | 3045.37 |  | 121457.62000000001 |  |  | 
+27610000 |  | GAGE ESP RETENUE/EMPRUNT |  |  |  |  |  | 15000 |  |  |  | 15000 |  |  | 
+28030000 |  | AMORT. FRAIS DE RECHERCHE ET DÉVEL. |  |  |  |  |  | 739.5 |  | 16039.5 |  |  |  | 15300 | 
+28050000 |  | AMORT. CONCESSIONS ET DROITS ... |  |  |  |  |  | 1390127.16 |  | 6314721.95 |  |  |  | 4924594.79 | 
+28181000 |  | AMORT. INSTALLATIONS GÉNÉRALES |  |  |  |  |  | 20970.22 |  | 81868.97 |  |  |  | 60898.75 | 
+28181100 |  | AMORT. AUTRES IMMO CORPORELLES |  |  |  |  |  | 527.64 |  | 721.11 |  |  |  | 193.47000000000003 | 
+28182000 |  | AMORT. MATÉRIEL DE TRANSPORT |  |  |  |  |  | 53233.75 |  | 125408.73999999999 |  |  |  | 72174.98999999999 | 
+28183000 |  | AMORT. MATÉRIEL DE BUREAU & INFO. |  |  |  |  |  | 39699.2 |  | 234049.86 |  |  |  | 194350.65999999997 | 
+40100000 |  | FOURNISSEURS |  |  |  |  |  | 6687206.890000001 |  | 7448712.02 |  |  |  | 761505.129999999 | 
+40810000 |  | FOURNISSEURS - FACT NON PARVENUES |  |  |  |  |  | 1511782.56 |  | 2156043.98 |  |  |  | 644261.4199999999 | 
+40910000 |  | FOURNISSEURS - AVANCES ET ACOMPTES |  |  |  |  |  | 2356 |  | 580 |  | 1776 |  |  | 
+41100000 |  | CLIENTS |  |  |  |  |  | 7301983.449999999 |  | 6535534.78 |  | 766448.669999999 |  |  | 
+41600000 |  | CLIENTS DOUTEUX OU LITIGIEUX |  |  |  |  |  | 83433.21 |  | 44802.14 |  | 38631.07000000001 |  |  | 
+41810000 |  | CLIENTS - FACTURES À ÉTABLIR |  |  |  |  |  | 29733570.36 |  | 29733570.36 |  |  |  |  | 
+41980000 |  | R.R.R. À ACCORDER ET AVOIRS ÉTABL. |  |  |  |  |  | 78831.18 |  | 78831.18 |  |  |  |  | 
+42100000 |  | PERSONNEL - RÉMUNÉRATIONS DUES |  |  |  |  |  | 1684038.65 |  | 1918453.39 |  |  |  | 234414.74 | 
+42500000 |  | PERSONNEL - AVANCES ET ACOMPTES |  |  |  |  |  | 103194.13 |  | 30203.16 |  | 72990.97 |  |  | 
+42700000 |  | PERSONNEL - OPPOSITIONS |  |  |  |  |  | 8949.42 |  | 9197.8 |  |  |  | 248.3799999999992 | 
+42820000 |  | DETTES PROV. CONGÉS PAYÉS |  |  |  |  |  | 2438330.83 |  | 2438330.83 |  |  |  |  | 
+42830000 |  | PROVISION S/ PRIMES ET OBJECTIFS |  |  |  |  |  | 64995 |  | 64995 |  |  |  |  | 
+42850000 |  | PROVISION S/ COMMISSIONS |  |  |  |  |  | 202184 |  | 202184 |  |  |  |  | 
+42860000 |  | AUTRES CHARGES À PAYER |  |  |  |  |  | 149204.14 |  | 149204.14 |  |  |  |  | 
+43100000 |  | SÉCURITÉ SOCIALE |  |  |  |  |  | 926423.04 |  | 1511138.75 |  |  |  | 584715.71 | 
+43702000 |  | PREVOYANCE |  |  |  |  |  | 28724.8 |  | 38401.81 |  |  |  | 9677.009999999998 | 
+43708000 |  | COTIS. ADESAT ET DIVERS |  |  |  |  |  |  |  | 1203.46 |  |  |  | 1203.46 | 
+43733000 |  | CAISSE DE RETRAITE CADRE |  |  |  |  |  | 302967.78 |  | 465011.85 |  |  |  | 162044.06999999995 | 
+43780000 |  | MUTUELLE |  |  |  |  |  | 59420.98 |  | 79680.55 |  |  |  | 20259.57 | 
+43820000 |  | CHARGES SUR CONGÉS À PAYER |  |  |  |  |  | 994552.63 |  | 994552.63 |  |  |  |  | 
+43860000 |  | ORGANISMES - AUTRES CHARGES À PAYER |  |  |  |  |  | 184091.61 |  | 184091.61 |  |  |  |  | 
+43870000 |  | ORGANISMES - PROD. À RECEVOIR |  |  |  |  |  | 16736.73 |  | 15210.09 |  | 1526.6399999999994 |  |  | 
+44210000 |  | PAS |  |  |  |  |  | 172776.12 |  | 195188.87 |  |  |  | 22412.75 | 
+44400000 |  | ETAT IMPÔTS SUR LES BÉNÉFICES |  |  |  |  |  | 1026655 |  | 695991 |  | 330664 |  |  | 
+44520000 |  | TVA DUE INTRACOMMUNAUTAIRE |  |  |  |  |  | 1345.57 |  | 12254.85 |  |  |  | 10909.28 | 
+44521000 |  | TVA DUE S/ACQ IMPORT |  |  |  |  |  | 109965.81 |  | 146862.21 |  |  |  | 36896.399999999994 | 
+44526900 |  | TVA DED. ACQUISITIONS INTRACO |  |  |  |  |  | 3370.53 |  | 1367.23 |  | 2003.3000000000002 |  |  | 
+44526910 |  | TVA DED S/ACQ IMPORT |  |  |  |  |  | 144862.18 |  | 109431.14 |  | 35431.03999999999 |  |  | 
+44551000 |  | TVA À DÉCAISSER |  |  |  |  |  | 378042.59 |  | 394219.08999999997 |  |  |  | 16176.499999999942 | 
+44562000 |  | TVA DÉDUCTIBLE S/IMMOBILISATIONS |  |  |  |  |  | 2239.18 |  | 877.6 |  | 1361.58 |  |  | 
+44562690 |  | TVA DED INTRACOM |  |  |  |  |  | 9277.03 |  | 983.79 |  | 8293.240000000002 |  |  | 
+44562691 |  | TVA DED S/ACQ IMPORT |  |  |  |  |  | 1094.31 |  | 86231.6 |  |  |  | 85137.29000000001 | 
+44566000 |  | TVA DÉDUCTIBLE S/ ABS 20% |  |  |  |  |  | 734568.51 |  | 619697.02 |  | 114871.48999999999 |  |  | 
+44566300 |  | TVA DED ENCAISSEMENTS INTRACOMM |  |  |  |  |  | 983.33 |  |  |  | 983.33 |  |  | 
+44566400 |  | TVA DED DEBIT AUTO LIQUIDATI EXPORT |  |  |  |  |  | 86231.1 |  |  |  | 86231.1 |  |  | 
+44570000 |  | TVA COLLECTEE S/MATERIELS |  |  |  |  |  | 44035.04 |  |  |  | 44035.04 |  |  | 
+44571000 |  | TVA COLL. S/PREST SERVICES |  |  |  |  |  | 959085.71 |  | 1347602.8199999998 |  |  |  | 388517.10999999987 | 
+44571190 |  | TVA COLL. VENTES À 8,5 % |  |  |  |  |  | 13051.11 |  | 21555.489999999998 |  |  |  | 8504.379999999997 | 
+44580000 |  | ETAT - TVA À RÉGULARISER |  |  |  |  |  |  |  | 71481 |  |  |  | 71481 | 
+44586000 |  | TVA SUR FACTURES NON PARVENUES |  |  |  |  |  | 195139.96 |  | 101702.4 |  | 93437.56 |  |  | 
+44587000 |  | TVA SUR FACTURES À ÉTABLIR |  |  |  |  |  | 4955594.73 |  | 4955594.7299999995 |  |  |  |  | 
+44587100 |  | TVA SUR AVOIRS À ÉTABLIR |  |  |  |  |  | 13138.53 |  | 13138.53 |  |  |  |  | 
+44700000 |  | AUTRES IMPÔTS ET VERS.ASSIM |  |  |  |  |  | 1918 |  |  |  | 1918 |  |  | 
+44860000 |  | ETAT - AUTRES CHARGES À PAYER |  |  |  |  |  |  |  | 26907 |  |  |  | 26907 | 
+44862000 |  | TAXE D'APPRENTISSAGE |  |  |  |  |  |  |  | 5497.47 |  |  |  | 5497.47 | 
+44863000 |  | FORMATION CONTINUE |  |  |  |  |  | 4048.62 |  | 9675.869999999999 |  |  |  | 5627.249999999999 | 
+44864000 |  | EFFORT CONSTRUCTION |  |  |  |  |  |  |  | 27750.940000000002 |  |  |  | 27750.940000000002 | 
+44870000 |  | ETATS - PROD. À RECEVOIR |  |  |  |  |  | 1000 |  | 1000 |  |  |  |  | 
+45120000 |  | EXO B CAPITAL |  |  |  |  |  | 33765.45 |  |  |  | 33765.45 |  |  | 
+45530000 |  | COMPTE COURANT - DOXSA |  |  |  |  |  | 100000 |  | 942213.01 |  |  |  | 842213.01 | 
+45540000 |  | COMPTE COURANT - EXO B CAPITAL |  |  |  |  |  |  |  | 3607.53 |  |  |  | 3607.53 | 
+46700000 |  | AUTRES COMPTES DÉBITEURS/CRÉDITEURS |  |  |  |  |  | 723404.37 |  | 542185.52 |  | 181218.84999999998 |  |  | 
+46710000 |  | FACTOR CREANCES FRANCE 12301 |  |  |  |  |  | 131640.11 |  | 131640.11 |  |  |  |  | 
+46720000 |  | MB2I |  |  |  |  |  | 8422.11 |  | 11646.03 |  |  |  | 3223.92 | 
+46725000 |  | EXO B CONSULTING |  |  |  |  |  | 11963.6 |  |  |  | 11963.6 |  |  | 
+46740000 |  | SCI MONNOURS |  |  |  |  |  | 524 |  | 524 |  |  |  |  | 
+47100000 |  | COMPTE D'ATTENTE |  |  |  |  |  | 788.4 |  | 1065.6 |  |  |  | 277.19999999999993 | 
+48600000 |  | CHARGES CONSTATÉES D'AVANCE |  |  |  |  |  | 489069.10000000003 |  | 377930.16 |  | 111138.94000000006 |  |  | 
+48700000 |  | PRODUITS CONSTATÉS D'AVANCE |  |  |  |  |  | 2151671.43 |  | 2151671.43 |  |  |  |  | 
+49100000 |  | PROV. COMPTES DE CLIENTS |  |  |  |  |  |  |  | 37811.97 |  |  |  | 37811.97 | 
+51212000 |  | BANQUE POPULAIRE |  |  |  |  |  | 992541.41 |  | 991739.98 |  | 801.4300000000512 |  |  | 
+51216000 |  | CIC LYONNAISE DE BANQUE |  |  |  |  |  | 448131.03 |  | 440435.51 |  | 7695.520000000019 |  |  | 
+51217000 |  | SOCIETE GENERALE |  |  |  |  |  | 5672393.82 |  | 5667752.72 |  | 4641.100000000559 |  |  | 
+51218000 |  | SOCIETE GENERALE $ |  |  |  |  |  | 108488.95000000001 |  | 102847.35 |  | 5641.600000000006 |  |  | 
+51222000 |  | CAISSE D'EPARGNE |  |  |  |  |  | 1882355.78 |  | 1882133.65 |  | 222.13000000012107 |  |  | 
+51223000 |  | CARTES ANYTIME |  |  |  |  |  | 82.55 |  |  |  | 82.55 |  |  | 
+51860000 |  | BANQUE - CHARGES À PAYER |  |  |  |  |  | 4889.25 |  | 7289.25 |  |  |  | 2400 | 
+58000000 |  | MOUVEMENTS DE FONDS |  |  |  |  |  | 1617997.04 |  | 1617997.04 |  |  |  |  | 
+60400000 |  | ACHATS ETUDES/PRESTATIONS SERVICES |  |  |  |  |  | 973970.06 |  | 373805.24 |  | 600164.8200000001 |  |  | 
+60405000 |  | ACHAT PRESTA INTRACOM |  |  |  |  |  | 15697.88 |  | 8540 |  | 7157.879999999999 |  |  | 
+60409000 |  | PRESTATIONS TUNISIE |  |  |  |  |  | 1258665 |  | 571665 |  | 687000 |  |  | 
+60409100 |  | AUTRES PRESTATIONS HORS CEE |  |  |  |  |  | 10235.3 |  |  |  | 10235.3 |  |  | 
+60610000 |  | EAU, ÉLECTRICITÉ ... |  |  |  |  |  | 2876.14 |  | 773.83 |  | 2102.31 |  |  | 
+60615000 |  | CARBURANT DIRECTION |  |  |  |  |  | 49492.56 |  |  |  | 49492.56 |  |  | 
+60630000 |  | FOURNITURES ENTRETIEN, PETIT ÉQUIP. |  |  |  |  |  | 2966.17 |  |  |  | 2966.17 |  |  | 
+60635000 |  | PETIT OUTILLAGE IMPORT |  |  |  |  |  | 398.53 |  |  |  | 398.53 |  |  | 
+60639000 |  | PETITS OUTILLAGES AIC |  |  |  |  |  | 7184.93 |  |  |  | 7184.93 |  |  | 
+60640000 |  | FOURNITURES ADMINISTRATIVES |  |  |  |  |  | 744.23 |  | 401.56 |  | 342.67 |  |  | 
+60640500 |  | ACHAT FOURNITURES IMPORT |  |  |  |  |  | 7.52 |  |  |  | 7.52 |  |  | 
+60649000 |  | FOURNITURES ADMIN AIC |  |  |  |  |  | 219.34 |  |  |  | 219.34 |  |  | 
+61100000 |  | SOUS-TRAITANCE GÉNÉRALE SIGNATURE |  |  |  |  |  | 99395.76 |  | 38418.28 |  | 60977.479999999996 |  |  | 
+61110000 |  | SOUS-TRAITANCE ADMIN GENERALE |  |  |  |  |  | 36570.4 |  | 9098.61 |  | 27471.79 |  |  | 
+61190000 |  | SOUS TRAITANCE IMPORT |  |  |  |  |  | 5289.99 |  |  |  | 5289.99 |  |  | 
+61261000 |  | BNP PARIBAS - Financ. ALTICAP |  |  |  |  |  | 4098.42 |  |  |  | 4098.42 |  |  | 
+61262000 |  | LIXXBAIL |  |  |  |  |  | 63706.22 |  |  |  | 63706.22 |  |  | 
+61263000 |  | LIXXBAIL |  |  |  |  |  | 111868.16 |  |  |  | 111868.16 |  |  | 
+61264000 |  | REALEASE Capital |  |  |  |  |  | 64136.34 |  |  |  | 64136.34 |  |  | 
+61265000 |  | LIXXBAIL - LOGICIELS |  |  |  |  |  | 51314.31 |  |  |  | 51314.31 |  |  | 
+61296000 |  | CREDIPAR - FY-471-XL |  |  |  |  |  | 3023.3 |  |  |  | 3023.3 |  |  | 
+61297000 |  | CREDIPAR - GA-074-HF |  |  |  |  |  | 4233.88 |  |  |  | 4233.88 |  |  | 
+61298000 |  | CREDIPAR - GA-184-YA |  |  |  |  |  | 4061.68 |  |  |  | 4061.68 |  |  | 
+61299000 |  | CREDIPAR GE-478-YP |  |  |  |  |  | 5954.13 |  |  |  | 5954.13 |  |  | 
+61310000 |  | LOCATION VM |  |  |  |  |  | 5434 |  | 988 |  | 4446 |  |  | 
+61320000 |  | LOCATIONS IMMOBILIERES |  |  |  |  |  | 76201.08 |  | 31750.24 |  | 44450.84 |  |  | 
+61322000 |  | LOCATIONS DE SALLE PONCTUELLES |  |  |  |  |  | 426.6 |  |  |  | 426.6 |  |  | 
+61331100 |  | LLD VW GF-015-TW |  |  |  |  |  | 2171.62 |  |  |  | 2171.62 |  |  | 
+61331200 |  | LLD VW GH-343-CP |  |  |  |  |  | 3239.89 |  |  |  | 3239.89 |  |  | 
+61331300 |  | LLD VW GH-344-CP |  |  |  |  |  | 4139.88 |  |  |  | 4139.88 |  |  | 
+61331400 |  | LLD VW GH-747-AG |  |  |  |  |  | 3719.92 |  |  |  | 3719.92 |  |  | 
+61331500 |  | LLD VW GH-958-GX |  |  |  |  |  | 3673.28 |  |  |  | 3673.28 |  |  | 
+61331700 |  | LLD Arval GG-281-SQ |  |  |  |  |  | 2908.29 |  |  |  | 2908.29 |  |  | 
+61331800 |  | LLD arval GG-824-YY |  |  |  |  |  | 2908.29 |  | 23.56 |  | 2884.73 |  |  | 
+61331900 |  | GK-295-MX |  |  |  |  |  | 4286.88 |  |  |  | 4286.88 |  |  | 
+61332000 |  | LDD GQ-624-YX |  |  |  |  |  | 4728.69 |  |  |  | 4728.69 |  |  | 
+61332100 |  | GT-571-WG |  |  |  |  |  | 5355.27 |  |  |  | 5355.27 |  |  | 
+61332200 |  | GV-233-FL |  |  |  |  |  | 4869.27 |  |  |  | 4869.27 |  |  | 
+61332300 |  | LEASYS - GT-680-QT |  |  |  |  |  | 4603.85 |  |  |  | 4603.85 |  |  | 
+61332400 |  | LLD Roulenloc GT-191-YH |  |  |  |  |  | 3213.07 |  |  |  | 3213.07 |  |  | 
+61332500 |  | LLD Roulenloc WW-978-KQ - HC-437-NC |  |  |  |  |  | 3213 |  |  |  | 3213 |  |  | 
+61332600 |  | LEASYS - GT-996-PK |  |  |  |  |  | 6136.87 |  |  |  | 6136.87 |  |  | 
+61332700 |  | LEASYS - GY-086-XW |  |  |  |  |  | 3292.96 |  |  |  | 3292.96 |  |  | 
+61332800 |  | LDD CGFF - HB-477-GL |  |  |  |  |  | 7591.06 |  | 788 |  | 6803.06 |  |  | 
+61332900 |  | LDD VW GQ-345-RF |  |  |  |  |  | 8990.55 |  |  |  | 8990.55 |  |  | 
+61333000 |  | ARVAL HB-591-ZW |  |  |  |  |  | 2987.5 |  |  |  | 2987.5 |  |  | 
+61333100 |  | ARVAL HC-010-RN |  |  |  |  |  | 2770 |  |  |  | 2770 |  |  | 
+61333200 |  | ARVAL HC-861-SG |  |  |  |  |  | 4522.97 |  |  |  | 4522.97 |  |  | 
+61350000 |  | LOCATIONS DE VEHICULES PONCTUELLES |  |  |  |  |  | 3476.57 |  |  |  | 3476.57 |  |  | 
+61352000 |  | LOCATIONS MOBILIERES |  |  |  |  |  | 8761.58 |  | 6316.92 |  | 2444.66 |  |  | 
+61400000 |  | CHARGES LOCATIVES ET COPROPRIÉTÉ |  |  |  |  |  | 3065.5 |  | 1277 |  | 1788.5 |  |  | 
+61520000 |  | ENTRETIEN SUR BIENS IMMOBILIERS |  |  |  |  |  | 15576.75 |  |  |  | 15576.75 |  |  | 
+61551000 |  | ENTRETIEN VEHICULE DIRECTION |  |  |  |  |  | 33653.81 |  | 970.95 |  | 32682.859999999997 |  |  | 
+61560000 |  | MAINTENANCE |  |  |  |  |  | 24353.79 |  | 8241.69 |  | 16112.1 |  |  | 
+61620000 |  | ASSURANCES VÉHICULES |  |  |  |  |  | 93854.36 |  | 62582.93 |  | 31271.43 |  |  | 
+61630000 |  | ASSURANCE RESPONSABILITÉ CIVILE |  |  |  |  |  | 31348.5 |  | 19157.42 |  | 12191.080000000002 |  |  | 
+61650000 |  | ASSURANCE/LEASING |  |  |  |  |  | 1575 |  |  |  | 1575 |  |  | 
+61660000 |  | ASSURANCE DIVERSES |  |  |  |  |  | 6780.77 |  | 2351.92 |  | 4428.85 |  |  | 
+61670000 |  | ASSURANCE RC MANDATAIRES |  |  |  |  |  | 2756.84 |  | 1691.82 |  | 1065.0200000000002 |  |  | 
+61820000 |  | FORMATIONS |  |  |  |  |  | 16950 |  | 5500 |  | 11450 |  |  | 
+61850000 |  | DOCUMENTATION GENERALE |  |  |  |  |  | 3678.74 |  | 573.24 |  | 3105.5 |  |  | 
+62220000 |  | COMMISSIONS SUR VENTES |  |  |  |  |  | 5379.99 |  |  |  | 5379.99 |  |  | 
+62250000 |  | REMUNERATION FACTOR |  |  |  |  |  | 3170.42 |  |  |  | 3170.42 |  |  | 
+62261000 |  | HONORAIRES COMPTABLES |  |  |  |  |  | 37967.48 |  | 9910 |  | 28057.480000000003 |  |  | 
+62264000 |  | HONORAIRES CAC |  |  |  |  |  | 43425 |  | 33331 |  | 10094 |  |  | 
+62265000 |  | PRESTATIONS CONSEILS EXO B CONSULTI |  |  |  |  |  | 552100.37 |  | 406267.04 |  | 145833.33000000002 |  |  | 
+62267000 |  | HONO MARIE DO SIMON |  |  |  |  |  | 24299.06 |  |  |  | 24299.06 |  |  | 
+62268000 |  | HONORAIRES DIVERS |  |  |  |  |  | 228108.36 |  | 41845.17 |  | 186263.19 |  |  | 
+62268100 |  | HONORAIRES DIVERS EXO TVA |  |  |  |  |  | 4134.44 |  |  |  | 4134.44 |  |  | 
+62270000 |  | FRAIS D'ACTES & CONTENTIEUX |  |  |  |  |  | 1354.01 |  | 748.91 |  | 605.1 |  |  | 
+62310000 |  | LOGICIEL DE TRAVAIL SERVICE |  |  |  |  |  | 47198.95 |  | 13722.26 |  | 33476.689999999995 |  |  | 
+62311000 |  | RP RELATIONS PUBLIQUES ET PRESSE |  |  |  |  |  | 21224.2 |  | 2758.26 |  | 18465.940000000002 |  |  | 
+62312000 |  | EVENEMENT ET ACTION INTERNE |  |  |  |  |  | 1619.3 |  |  |  | 1619.3 |  |  | 
+62319000 |  | JOB BOARD/LOGICIEL RH PUBLI OFFRES |  |  |  |  |  | 14292.94 |  | 13070.16 |  | 1222.7800000000007 |  |  | 
+62330000 |  | SALON/FOIRE/EXPO |  |  |  |  |  | 37332.87 |  | 16275 |  | 21057.870000000003 |  |  | 
+62340000 |  | CADEAUX CLIENTELE/PARTENAIRES |  |  |  |  |  | 1708.95 |  |  |  | 1708.95 |  |  | 
+62350000 |  | FREELANCE SERVICE |  |  |  |  |  | 65168.21 |  | 23500 |  | 41668.21 |  |  | 
+62350010 |  | GOODIES CATALOGUES ET IMPRIMES |  |  |  |  |  | 6109.62 |  |  |  | 6109.62 |  |  | 
+62350020 |  | PUBLICATION MEDIA MARKETING DIGITAL |  |  |  |  |  | 37788.11 |  | 15628.3 |  | 22159.81 |  |  | 
+62359000 |  | REUNIONS COMMERCIALES |  |  |  |  |  | 49142.33 |  | 8335 |  | 40807.33 |  |  | 
+62360000 |  | COMM ET EVENEMENTS INTERNES |  |  |  |  |  | 68.42 |  |  |  | 68.42 |  |  | 
+62361000 |  | DON SPONSORING/EVENEMENTS PARTENAIR |  |  |  |  |  | 21453.18 |  | 13630 |  | 7823.18 |  |  | 
+62370000 |  | CHALLENGES |  |  |  |  |  | 21951.96 |  |  |  | 21951.96 |  |  | 
+62380000 |  | DIVERS (DONS, POURBOIRES...) |  |  |  |  |  | 3000 |  |  |  | 3000 |  |  | 
+62390000 |  | SALON/FOIRE/EXPO |  |  |  |  |  | 590 |  |  |  | 590 |  |  | 
+62410000 |  | TRANSPORTS SUR ACHATS |  |  |  |  |  | 461.62 |  |  |  | 461.62 |  |  | 
+62500000 |  | FRAIS DEP DIVERS |  |  |  |  |  | 20834.4 |  |  |  | 20834.4 |  |  | 
+62500200 |  | FRAIS DEPLAC. TAVERNIER F.X. |  |  |  |  |  | 21.1 |  |  |  | 21.1 |  |  | 
+62512000 |  | FRAIS DEP MARC BALLEYDIER |  |  |  |  |  | 9886.54 |  |  |  | 9886.54 |  |  | 
+62516100 |  | FRAIS DEPLAC. CAILLON |  |  |  |  |  | 224.04 |  |  |  | 224.04 |  |  | 
+62516200 |  | FRAIS DEPLAC. VINCENT Stéphanie |  |  |  |  |  | 1867.67 |  |  |  | 1867.67 |  |  | 
+62516300 |  | FRAIS DEPLAC. ELMALIKI |  |  |  |  |  | 1505.07 |  |  |  | 1505.07 |  |  | 
+62516600 |  | FRAIS DEPLAC. LAPERRIERE |  |  |  |  |  | 499.06 |  |  |  | 499.06 |  |  | 
+62516700 |  | FRAIS DEPLAC. VUERLI Eric |  |  |  |  |  | 1529.21 |  |  |  | 1529.21 |  |  | 
+62517300 |  | PLAIRE STEPHANE |  |  |  |  |  | 1700.82 |  |  |  | 1700.82 |  |  | 
+62517400 |  | FRAIS DE DEPLAC. PASTINI |  |  |  |  |  | 3947.37 |  |  |  | 3947.37 |  |  | 
+62517600 |  | FRAIS DEPLAC. JAYNE Camille |  |  |  |  |  | 2829.27 |  |  |  | 2829.27 |  |  | 
+62517700 |  | JULIENNE Paul |  |  |  |  |  | 749.86 |  |  |  | 749.86 |  |  | 
+62517800 |  | FRAIS DEPLAC. GRENIER R. |  |  |  |  |  | 1251.15 |  |  |  | 1251.15 |  |  | 
+62518100 |  | FRAIS DE DEPLAC. SOMVILLE |  |  |  |  |  | 765.83 |  |  |  | 765.83 |  |  | 
+62518200 |  | FRAIS DE DEPLAC. GLEN Ewan |  |  |  |  |  | 8015.93 |  | 1519.01 |  | 6496.92 |  |  | 
+62518400 |  | FRAIS DEPLAC. JAFFRES |  |  |  |  |  | 1924.49 |  |  |  | 1924.49 |  |  | 
+62518500 |  | FRAIS DE DEPLAC. DUMAIS |  |  |  |  |  | 1819.03 |  |  |  | 1819.03 |  |  | 
+62518600 |  | FRAIS DE DEPLAC. TOM BENBELKACEM |  |  |  |  |  | 761.12 |  |  |  | 761.12 |  |  | 
+62518700 |  | FRAIS DEPLAC. J. FABRY |  |  |  |  |  | 1567.88 |  |  |  | 1567.88 |  |  | 
+62519000 |  | FRAIS DEP PLUVINAGE ANGELIQUE |  |  |  |  |  | 595.34 |  |  |  | 595.34 |  |  | 
+62521400 |  | FRAIS DEPLAC. AVET |  |  |  |  |  | 250.52 |  |  |  | 250.52 |  |  | 
+62521900 |  | FRAIS DEPLAC. VELOSO |  |  |  |  |  | 165.81 |  |  |  | 165.81 |  |  | 
+62523100 |  | FRAIS DEPLAC. MERMILLOD |  |  |  |  |  | 785.68 |  |  |  | 785.68 |  |  | 
+62523300 |  | FRAIS DEPLAC. BREVET |  |  |  |  |  | 4600.68 |  |  |  | 4600.68 |  |  | 
+62524900 |  | FRAIS DEPLAC. GHEMMOUR |  |  |  |  |  | 386.69 |  |  |  | 386.69 |  |  | 
+62525600 |  | FRAIS DEPLAC. JURIN |  |  |  |  |  | 235.31 |  |  |  | 235.31 |  |  | 
+62525700 |  | DEPLAC. ROCCA Florent |  |  |  |  |  | 2868.01 |  |  |  | 2868.01 |  |  | 
+62526200 |  | FRAIS DEPLAC. OUILI Anes |  |  |  |  |  | 1009.27 |  |  |  | 1009.27 |  |  | 
+62526300 |  | FRAIS DEPLAC. YILDIZ |  |  |  |  |  | 4561.87 |  | 1368.57 |  | 3193.3 |  |  | 
+62526400 |  | FRAIS DEPLAC. BEAUHAIRE |  |  |  |  |  | 4607.99 |  |  |  | 4607.99 |  |  | 
+62527100 |  | FRAIS DEPLAC. BERART Cynthia |  |  |  |  |  | 3512.76 |  |  |  | 3512.76 |  |  | 
+62527200 |  | FRAIS DEPLAC. FOURNILLON |  |  |  |  |  | 3450.01 |  |  |  | 3450.01 |  |  | 
+62527300 |  | FRAIS DEPLAC. PEYRONDET |  |  |  |  |  | 1645.42 |  |  |  | 1645.42 |  |  | 
+62533000 |  | LIBELLÉ À DÉFINIR |  |  |  |  |  | 385.5 |  |  |  | 385.5 |  |  | 
+62541000 |  | FRAIS DEP ALBERTO SIGNORA |  |  |  |  |  | 1126.86 |  | 128 |  | 998.8599999999999 |  |  | 
+62543000 |  | FRAIS DEP YASSINE BENBELKACEM |  |  |  |  |  | 598.72 |  |  |  | 598.72 |  |  | 
+62548000 |  | FRAIS DEPLAC. MORENO |  |  |  |  |  | 66.25 |  |  |  | 66.25 |  |  | 
+62549000 |  | FRAIS DEPLAC. ORY |  |  |  |  |  | 1950.95 |  |  |  | 1950.95 |  |  | 
+62562100 |  | FRAIS DEPLAC. BENNACER |  |  |  |  |  | 1604.05 |  |  |  | 1604.05 |  |  | 
+62562500 |  | FRAIS DEPLAC. PELISSIER Jérôme |  |  |  |  |  | 1954.24 |  |  |  | 1954.24 |  |  | 
+62563000 |  | FRAIS DEPLAC. DIVERS |  |  |  |  |  | 735.67 |  |  |  | 735.67 |  |  | 
+62563100 |  | FRAIS DEPLAC. OUVRIER |  |  |  |  |  | 17.18 |  |  |  | 17.18 |  |  | 
+62563200 |  | FRAIS DEPLAC. BRIGNON |  |  |  |  |  | 77.5 |  |  |  | 77.5 |  |  | 
+62563500 |  | FRAIS DEPLAC. G. DEPOILLY |  |  |  |  |  | 1418.69 |  |  |  | 1418.69 |  |  | 
+62563510 |  | FRAIS DEPLAC. HARFOUCHE Nathalie |  |  |  |  |  | 1172.01 |  |  |  | 1172.01 |  |  | 
+62563600 |  | FRAIS DEPLAC. DESOULIERE Anne-Valér |  |  |  |  |  | 1324.36 |  |  |  | 1324.36 |  |  | 
+62563700 |  | FRAIS DEPLAC. ANTUNES Aurélie |  |  |  |  |  | 1895.58 |  |  |  | 1895.58 |  |  | 
+62563800 |  | FRAIS DEPLAC. AUGER Thi-Anh |  |  |  |  |  | 1953.47 |  |  |  | 1953.47 |  |  | 
+62564000 |  | VLIN ANTHONY FRAIS DEPLAC. |  |  |  |  |  | 92.45 |  |  |  | 92.45 |  |  | 
+62564100 |  | FRAIS DEPLAC. ANTONIOTTI Bruno |  |  |  |  |  | 906.99 |  |  |  | 906.99 |  |  | 
+62564300 |  | FRAIS DEPLAC DARY Guillaume |  |  |  |  |  | 1666.28 |  |  |  | 1666.28 |  |  | 
+62564400 |  | FRAIS DEPLACEMENT Pierre SEYNAEVE |  |  |  |  |  | 427.5 |  |  |  | 427.5 |  |  | 
+62564500 |  | FRAIS DEPLAC. SAIDI Mehdi |  |  |  |  |  | 1703.59 |  |  |  | 1703.59 |  |  | 
+62564600 |  | FRAIS DEPLAC. VIALLE Matthieu |  |  |  |  |  | 4321.3 |  |  |  | 4321.3 |  |  | 
+62564700 |  | FRAIS DEPLAC. YUCE Aslan |  |  |  |  |  | 294.1 |  |  |  | 294.1 |  |  | 
+62564800 |  | FRAIS DEPLAC RIGAUD Vanessa |  |  |  |  |  | 124.08 |  |  |  | 124.08 |  |  | 
+62564900 |  | FRAIS DEPLAC LOR Hong |  |  |  |  |  | 1311.08 |  |  |  | 1311.08 |  |  | 
+62566000 |  | FRAIS DEPLAC. VAILLANT |  |  |  |  |  | 6050.89 |  |  |  | 6050.89 |  |  | 
+62566100 |  | FRAIS DEPLAC MOREAU Gwenaël |  |  |  |  |  | 22.4 |  |  |  | 22.4 |  |  | 
+62568000 |  | FRAIS DEPLAC. CAPRON |  |  |  |  |  | 1536.88 |  |  |  | 1536.88 |  |  | 
+62569800 |  | FRAIS DE DEPLAC. |  |  |  |  |  | 696.55 |  |  |  | 696.55 |  |  | 
+62570000 |  | FRAIS DE RECEPTIONS |  |  |  |  |  | 32711.99 |  |  |  | 32711.99 |  |  | 
+62570010 |  | FRAIS DEPLAC. JAFFRES Lilian |  |  |  |  |  | 329.1 |  |  |  | 329.1 |  |  | 
+62600000 |  | FRAIS POSTAUX ET TÉLÉCOM. |  |  |  |  |  | 1897.53 |  | 1710.66 |  | 186.8699999999999 |  |  | 
+62610000 |  | FRAIS POSTAUX |  |  |  |  |  | 3099.38 |  |  |  | 3099.38 |  |  | 
+62611000 |  | COLIS POSTAUX |  |  |  |  |  | 866.82 |  | 91 |  | 775.82 |  |  | 
+62620000 |  | TÉLÉPHONE |  |  |  |  |  | 90.86 |  |  |  | 90.86 |  |  | 
+62621000 |  | TELEPHONE ORANGE |  |  |  |  |  | 20472.33 |  | 3786.44 |  | 16685.890000000003 |  |  | 
+62622000 |  | ABONNEMENTS INTERNET |  |  |  |  |  | 650 |  | 65 |  | 585 |  |  | 
+62700000 |  | SERVICES BANCAIRES ET ASSIMILÉS |  |  |  |  |  | 606.98 |  |  |  | 606.98 |  |  | 
+62720000 |  | FRAIS EMISSION EMPRUNTS |  |  |  |  |  | 2668.56 |  |  |  | 2668.56 |  |  | 
+62780000 |  | AUTRES FRAIS & COM BANCAIRES |  |  |  |  |  | 28817.02 |  | 4827.43 |  | 23989.59 |  |  | 
+62810000 |  | CONCOURS DIVERS |  |  |  |  |  | 9892.15 |  | 2735.42 |  | 7156.73 |  |  | 
+62840000 |  | FRAIS DE RECRUTEMENT DE PERSONNEL |  |  |  |  |  | 72.45 |  |  |  | 72.45 |  |  | 
+62850000 |  | FRAIS DE FORMATION |  |  |  |  |  | 20658.69 |  | 16804.19 |  | 3854.5 |  |  | 
+63120000 |  | TAXE D'APPRENTISSAGE |  |  |  |  |  | 16478.89 |  |  |  | 16478.89 |  |  | 
+63330000 |  | FORMATION PROF CONTINUE |  |  |  |  |  | 33638.52 |  |  |  | 33638.52 |  |  | 
+63340000 |  | EFFORT CONSTRUCTION |  |  |  |  |  | 12568.61 |  |  |  | 12568.61 |  |  | 
+63350000 |  | TAXE D'APPRENTISSAGE |  |  |  |  |  | 2513.71 |  |  |  | 2513.71 |  |  | 
+63511200 |  | CVAE |  |  |  |  |  | 4394 |  | 262 |  | 4132 |  |  | 
+63514000 |  | TAXE SUR LES VÉHICULES DES SOCIÉTÉS |  |  |  |  |  | 25080 |  |  |  | 25080 |  |  | 
+63700000 |  | AUTRES ORGAN. (AUTRES IMPÔTS ...) |  |  |  |  |  | 88.9 |  |  |  | 88.9 |  |  | 
+63740000 |  | IMPOTS ET TAXES ETRANGER |  |  |  |  |  | 1630.57 |  |  |  | 1630.57 |  |  | 
+64110000 |  | SALAIRES APPOINTEMENTS |  |  |  |  |  | 2764005.94 |  | 89726.37 |  | 2674279.57 |  |  | 
+64120000 |  | CONGÉS PAYÉS |  |  |  |  |  | 2243250.02 |  | 2438330.83 |  |  |  | 195080.81000000006 | 
+64130000 |  | PRIMES ET GRATIFICATIONS |  |  |  |  |  | 300511.34 |  | 416383.14 |  |  |  | 115871.79999999999 | 
+64140000 |  | INDEMNITÉS AVANTAGES DIVERS |  |  |  |  |  | 102006.28 |  |  |  | 102006.28 |  |  | 
+64144000 |  | INDEMNITES LICENCIEMENT |  |  |  |  |  | 7748.85 |  |  |  | 7748.85 |  |  | 
+64510000 |  | COTISATIONS URSSAF |  |  |  |  |  | 869927.37 |  |  |  | 869927.37 |  |  | 
+64532000 |  | COT. CAISSE RETRAITE CADRES |  |  |  |  |  | 311807.37 |  |  |  | 311807.37 |  |  | 
+64580000 |  | COTISATIONS AUTRES ORGANISMES |  |  |  |  |  | 536.01 |  | 17538.35 |  |  |  | 17002.34 | 
+64582000 |  | CHARGES SOCIALES S/CONGÉS PAYÉS |  |  |  |  |  | 913663.4 |  | 994552.63 |  |  |  | 80889.22999999998 | 
+64700000 |  | AUTRES CHARGES SOCIALES |  |  |  |  |  | 107021.6 |  | 166553.26 |  |  |  | 59531.66 | 
+64750000 |  | MEDECINE DU TRAVAIL |  |  |  |  |  | 7964 |  |  |  | 7964 |  |  | 
+65112000 |  | REDEVANCES MB2I GESTION LICENCE |  |  |  |  |  | 963 |  |  |  | 963 |  |  | 
+65170000 |  | REDEVANCES REGUS UK |  |  |  |  |  | 3145.5 |  | 1922.25 |  | 1223.25 |  |  | 
+65600000 |  | PERTES DE CHANGE |  |  |  |  |  | 9940.98 |  |  |  | 9940.98 |  |  | 
+65800000 |  | CHARGES DE GESTION COURANTE |  |  |  |  |  | 30.61 |  |  |  | 30.61 |  |  | 
+66110000 |  | INTÉRÊTS SUR EMPRUNTS |  |  |  |  |  | 67697.2 |  | 40568.8 |  | 27128.399999999994 |  |  | 
+66111600 |  | Intérêts emprunts et dettes assimil |  |  |  |  |  | 189972.22 |  | 189972.22 |  |  |  |  | 
+66160000 |  | AGIOS |  |  |  |  |  | 420.62 |  |  |  | 420.62 |  |  | 
+66600000 |  | PERTES DE CHANGE |  |  |  |  |  | 170.51 |  |  |  | 170.51 |  |  | 
+66810000 |  | COMMISSION DE FINANCEMENT |  |  |  |  |  | 3247.51 |  |  |  | 3247.51 |  |  | 
+67120000 |  | AMENDES & PÉNALITÉS FISCALES |  |  |  |  |  | 36479 |  |  |  | 36479 |  |  | 
+68111000 |  | DOT/AMORT. IMMOB. INCOPORELLES |  |  |  |  |  | 1324248.66 |  | 1324248.66 |  |  |  |  | 
+68111100 |  | DOT AMORTT IMM INCORP.SS TRAITANCE |  |  |  |  |  | 57996 |  | 57996 |  |  |  |  | 
+68112000 |  | DOT/AMORT. IMMOB. CORPORELLES |  |  |  |  |  | 118056.6 |  | 118056.6 |  |  |  |  | 
+68150000 |  | DOT/PROV. RISQUES & CHARGES EXPL. |  |  |  |  |  | 2316231 |  | 2578977 |  |  |  | 262746 | 
+69900000 |  | CIR-CII |  |  |  |  |  | 115755 |  |  |  | 115755 |  |  | 
+70100001 |  | LIC OP KM Ventes FR |  |  |  |  |  | 12448.8 |  | 109342.89 |  |  |  | 96894.09 | 
+70100002 |  | LIC CLOUD  KM Ventes FR |  |  |  |  |  | 77129.9 |  | 1345385.72 |  |  |  | 1268255.82 | 
+70100003 |  | LIC OP ORANGE Ventes FR |  |  |  |  |  |  |  | 22354.06 |  |  |  | 22354.06 | 
+70100004 |  | LIC CLOUD  ORANGE Ventes FR |  |  |  |  |  | 35499.54 |  | 592807.71 |  |  |  | 557308.1699999999 | 
+70100005 |  | LIC OP AUTRES PARTENAIRES Ventes FR |  |  |  |  |  | 23261.32 |  | 85861.64 |  |  |  | 62600.32 | 
+70100006 |  | LIC CLOUD  AUTRE PART. Vtes FR |  |  |  |  |  | 26437724.41 |  | 24344497.94 |  | 2093226.4699999988 |  |  | 
+70100007 |  | LIC OP VENTES DIRECTES Ventes FR |  |  |  |  |  | 105443.73 |  | 303614.1 |  |  |  | 198170.37 | 
+70100008 |  | LIC CLOUD  Vtes DIRECTES Vtes FR |  |  |  |  |  | 13370.5 |  | 332493.73 |  |  |  | 319123.23 | 
+70100012 |  | LICENCES CLOUD  ASIE |  |  |  |  |  |  |  | 94.5 |  |  |  | 94.5 | 
+70100013 |  | ON PREMISE AFRIQUE |  |  |  |  |  |  |  | 384 |  |  |  | 384 | 
+70100016 |  | LIC CLOUD TOSHIBA FR |  |  |  |  |  | 6471 |  | 262690.31 |  |  |  | 256219.31 | 
+70100018 |  | LIC OP TOSHIBA FR |  |  |  |  |  |  |  | 21867.5 |  |  |  | 21867.5 | 
+70100101 |  | LIC OP KM Ventes EU |  |  |  |  |  |  |  | 19485.79 |  |  |  | 19485.79 | 
+70100102 |  | LIC CLOUD  KM Ventes EU |  |  |  |  |  |  |  | 39245.03 |  |  |  | 39245.03 | 
+70100105 |  | LIC OP AUTRES PARTENAIRES Ventes EU |  |  |  |  |  |  |  | 19652.8 |  |  |  | 19652.8 | 
+70100106 |  | LIC CLOUD  AUTRE PART. Vtes EU |  |  |  |  |  | 1377.6 |  | 17084.08 |  |  |  | 15706.480000000001 | 
+70100108 |  | LIC CLOUD  Vtes DIRECTES Vtes EU |  |  |  |  |  |  |  | 13989.42 |  |  |  | 13989.42 | 
+70100201 |  | LIC OP KM Ventes Export |  |  |  |  |  |  |  | 40377.1 |  |  |  | 40377.1 | 
+70100202 |  | LIC CLOUD  KM Ventes Export |  |  |  |  |  |  |  | 28165.74 |  |  |  | 28165.74 | 
+70100205 |  | LIC OP AUTRES PARTENAIRES Vtes Exp. |  |  |  |  |  |  |  | 47182.1 |  |  |  | 47182.1 | 
+70100208 |  | LIC CLOUD  Vtes DIRECTES Vtes Exp. |  |  |  |  |  |  |  | 2262 |  |  |  | 2262 | 
+70100210 |  | LIC CLOUD  AUTRE PART. Vtes Exp. |  |  |  |  |  | 5093.6 |  | 48096.55 |  |  |  | 43002.950000000004 | 
+70100213 |  | LIC OP AFRIQUE Ventes Export |  |  |  |  |  |  |  | 1701 |  |  |  | 1701 | 
+70100215 |  | LIC OP  ASIE Ventes Export |  |  |  |  |  |  |  | 540 |  |  |  | 540 | 
+70100305 |  | LIC OP AUTRES PARTENAIRES Vtes Dom |  |  |  |  |  | 2505.4 |  | 11624.1 |  |  |  | 9118.7 | 
+70100307 |  | LIC OP Vtes DIRECTES Vtes DomTom |  |  |  |  |  |  |  | 2580 |  |  |  | 2580 | 
+70100308 |  | LIC CLOUD  Vtes DIRECTES Vtes Dom |  |  |  |  |  |  |  | 1800 |  |  |  | 1800 | 
+70100310 |  | LIC CLOUD  AUTRE PART. Vtes Dom |  |  |  |  |  | 24429.96 |  | 109483.34 |  |  |  | 85053.38 | 
+70100405 |  | VENTES FRANCE EXO |  |  |  |  |  |  |  | 6650 |  |  |  | 6650 | 
+70100508 |  | LIC CLOUD AUTRE PART. St Barth |  |  |  |  |  | 2741.2 |  | 996.8 |  | 1744.3999999999999 |  |  | 
+70600001 |  | MAINT. OP KM Ventes FR |  |  |  |  |  | 3315.91 |  | 15079.71 |  |  |  | 11763.8 | 
+70600002 |  | INSTALL S/SITE KM Ventes FR |  |  |  |  |  | 600 |  | 73244.5 |  |  |  | 72644.5 | 
+70600007 |  | MAINT. OP AUTRES PARTE Ventes FR |  |  |  |  |  | 23928.5 |  | 100711.72 |  |  |  | 76783.22 | 
+70600008 |  | INSTALL S/SITE AUTRES PARTE Vtes FR |  |  |  |  |  | 18281 |  | 96939.77 |  |  |  | 78658.77 | 
+70600010 |  | MAINT. OP VENTES DIREC Ventes FR |  |  |  |  |  |  |  | 8733.89 |  |  |  | 8733.89 | 
+70600011 |  | INSTALL S/SITE Vtes DIREC Vtes FR |  |  |  |  |  | 32451.25 |  | 161951.64 |  |  |  | 129500.39000000001 | 
+70600012 |  | INSTALL DISTANCE Vtes DIR Vtes FR |  |  |  |  |  | 25091.5 |  | 85901.34 |  |  |  | 60809.84 | 
+70600013 |  | FORMATIONS Ventes FR |  |  |  |  |  | 8270 |  | 19982.02 |  |  |  | 11712.02 | 
+70600014 |  | INSTALL S/SITE TOSHIBA FR |  |  |  |  |  |  |  | 833 |  |  |  | 833 | 
+70600020 |  | MAINTENANCE OP TOSHIBA |  |  |  |  |  |  |  | 10765.3 |  |  |  | 10765.3 | 
+70600101 |  | MAINT. OP KM Ventes EU |  |  |  |  |  |  |  | 7212.88 |  |  |  | 7212.88 | 
+70600107 |  | MAINT. OP AUTRES PARTE Ventes EU |  |  |  |  |  | 13639.8 |  | 155114.66 |  |  |  | 141474.86000000002 | 
+70600108 |  | INSTALL S/SITE AUTRES PARTE Vtes EU |  |  |  |  |  |  |  | 9086 |  |  |  | 9086 | 
+70600113 |  | FORMATIONS Ventes EU |  |  |  |  |  |  |  | 936 |  |  |  | 936 | 
+70600201 |  | MAINTENANCE OP KM Ventes Export |  |  |  |  |  |  |  | 1368.4 |  |  |  | 1368.4 | 
+70600207 |  | MAINT. OP AUTRES PARTE Vtes Export |  |  |  |  |  | 124 |  | 35656.53 |  |  |  | 35532.53 | 
+70600208 |  | INSTALL S/SITE AUTRE PARTE Vts EXPO |  |  |  |  |  | 7799.8 |  | 35520.8 |  |  |  | 27721.000000000004 | 
+70600209 |  | INSTALL DISTANCE AUTRE PAR Vts Exp. |  |  |  |  |  |  |  | 36800 |  |  |  | 36800 | 
+70600213 |  | FORMATIONS Ventes Export |  |  |  |  |  | 936 |  | 720 |  | 216 |  |  | 
+70600307 |  | MAINT. OP AUTRES PARTE Vtes DomTom |  |  |  |  |  |  |  | 2174.8 |  |  |  | 2174.8 | 
+70600308 |  | INSTALL S/SITE AUTRES PARTE Vts Dom |  |  |  |  |  |  |  | 17017 |  |  |  | 17017 | 
+70600310 |  | MAINT. OP Vtes DIREC Vtes DomTom |  |  |  |  |  |  |  | 2010 |  |  |  | 2010 | 
+70600311 |  | INSTALL S/SITE Vtes DIREC Vtes Dom |  |  |  |  |  | 159 |  | 4998 |  |  |  | 4839 | 
+70600312 |  | INSTALL DISTANCE Vtes DIR Vtes Dom |  |  |  |  |  |  |  | 1190 |  |  |  | 1190 | 
+70600313 |  | FORMATIONS Ventes DomTom |  |  |  |  |  | 1486.5 |  | 9896 |  |  |  | 8409.5 | 
+70670000 |  | PRESTATIONS DE SERVICES Ventes FR |  |  |  |  |  | 350 |  | 650 |  |  |  | 300 | 
+70670001 |  | AUTRES Ventes FR |  |  |  |  |  | 72961.63 |  | 262568.14 |  |  |  | 189606.51 | 
+72100000 |  | PROD. IMMOBILISÉE - INCORP- SALAIRE |  |  |  |  |  |  |  | 518538 |  |  |  | 518538 | 
+72100100 |  | PROD IMMOB-INCORP- SS TRAITANCE |  |  |  |  |  |  |  | 773256 |  |  |  | 773256 | 
+74000000 |  | SUBVENTIONS D'EXPLOITATION |  |  |  |  |  | 1000 |  | 6000 |  |  |  | 5000 | 
+75600000 |  | GAINS DE CHANGE |  |  |  |  |  |  |  | 8031.23 |  |  |  | 8031.23 | 
+75800000 |  | PRODUITS DIVERS DE GESTION COURANTE |  |  |  |  |  |  |  | 102.56 |  |  |  | 102.56 | 
+76300000 |  | REVENUS DES AUTRES CRÉANCES |  |  |  |  |  |  |  | 168 |  |  |  | 168 | 
+77200000 |  | PRODUITS /EXO ANTÉRIEURS |  |  |  |  |  |  |  | 6883.77 |  |  |  | 6883.77 | 
+77520000 |  | PRODUITS CESSION IMMO CORPORELLES |  |  |  |  |  |  |  | 1666.67 |  |  |  | 1666.67 | 
+78150000 |  | REP/PROV. RSIQUES & CHARGES EXPLOIT |  |  |  |  |  |  |  | 138107 |  |  |  | 138107 | 
+79100000 |  | TRANSFERTS DE CHARGES EXPLOITATION |  |  |  |  |  |  |  | 7440 |  |  |  | 7440 | 
+79140000 |  | AVANTAGES EN NATURE |  |  |  |  |  |  |  | 85322.83 |  |  |  | 85322.83 | 
+89000000 |  | BILAN D'OUVERTURE |  |  |  |  |  | 589468.54 |  | 589468.54 |  |  |  |  | 
+ |  |  |  |  | Totaux comptes de bilan |  |  | 93623138.91000001 |  | 96474292.52000003 |  |  |  | 2851153.6100000143 | 
+ |  |  |  |  | Totaux comptes de gestion |  |  | 43598102.859999985 |  | 40746949.25000001 |  | 2851153.609999977 |  |  | 
+ |  |  |  |  | Totaux de la balance |  |  | 137221241.76999998 |  | 137221241.77000004 |  |  |  |  | 

@@ -1,0 +1,520 @@
+A Mesdames et Messieurs les Président et Juges composant le Tribunal de commerce d’Annecy
+
+Audience du 23 juillet 2025 
+
+
+CONCLUSIONS EN DEFENSE 
+
+
+POUR : 
+
+La société Open Bee France, société par actions simplifiée, immatriculée au RCS d’Annecy sous le numéro 504 389 446, dont le siège social est ZAC des Longerays – 74330 Metz-Tessy, prise en la personne de son représentant légal domicilié en cette qualité audit siège.
+
+Défenderesse 
+
+Ayant pour avocat postulant :
+
+Me Franck Parisé
+46, avenue Gambetta - 74000 Annecy 
+Avocat au Barreau d’Annecy – Toque xxx
+
+Et pour avocat plaidant :	
+
+Me Etienne Gouesse
+Viguié Schmidt & Associés AARPI
+Avocat au Barreau de Paris 
+146, boulevard Haussmann - 75008 Paris
+
+
+CONTRE :
+
+La société ACAT LH, société à responsabilité limitée, immatriculée au RCS de Lille Métropole sous le numéro 915 178 545, dont le siège social est 7 rue Jacquemars Giélée – 59800 Lille, prise en la personne de son représentant légal domicilié en cette qualité audit siège.
+
+Demanderesse 
+
+Ayant pour avocat postulant :
+
+Me Tim Dorier
+Immeuble l’Alpha – PAE Les Glaisins, 7 impasse des Prairies
+74940 Annecy-le-Vieux
+Avocat au Barreau d’Annecy
+
+Et pour avocat plaidant :	
+
+Me Benjamin Mourot
+SELAS Bignon Lebray
+Avocat au Barreau de Lille
+4, rue des Canonniers - 59041 Lille Cedex
+Les présentes valent itérative sommation faite à la société ACAT LH de communiquer :
+
+La précision de celle des deux assignations délivrées à Open Bee France qui a été placée auprès du greffe du Tribunal de commerce d’Annecy ;
+
+La copie des documents de la consultation lancée par Total Energies « au cours du second semestre 2023 » (selon les assignations, page 3 §6) et, en particulier, du cahier des charges techniques de la solution informatique attendue et des courriers d’envoi de ce cahier des charges à Acat LH ;
+
+La copie de l’offre adressée pat Acat LH à Total Energies dans ce cadre ; il est en effet soutenu que « Acat a répondu à cet appel d’offres avec l’assistance d’Open Bee » (selon les assignations, page 3 §7) ;
+
+La copie des échanges de mails et/ou des documents de travail (en particulier les versions intermédiaires de l’offre) partagés entre Acat LH et Open Bee s’agissant de l’analyse du besoin technique, des questions posées, des réponses apportées par Total Energies et des versions intermédiaires de l’offre qui ont été établies dans le cadre de la consultation (il est en effet soutenu que « Acat a répondu à cet appel d’offres avec l’assistance d’Open Bee » ; selon les assignations, page 3 §7) ;
+
+Les éléments de calcul exacts du préjudice allégué, les demandes formulées dans le dispositif des deux assignations ne correspondant pas aux demandes formulées dans le corps des deux assignations ;
+
+Toute information sur la relation d’Acat LH avec Total Energies – depuis quand a-t-elle commencé, quelles prestations sont réalisées et pour quelles rémunérations, le contrat Passidor (quel que soit son nouveau nom) a-t-il été poursuivi dès lors qu’en date du 15 mai, Total Energies figure toujours au rang des clients qui font confiance à Acat LH, selon son site internet.
+
+
+
+
+PLAISE AU TRIBUNAL
+
+
+Les 14 et 24 mars 2025, la société Acat LH (ci-après « Acat » ou « la demanderesse ») a fait assigner la société Open Bee France (« Open Bee France » ou « la concluante ») devant le Tribunal de commerce d’Annecy afin d’obtenir sa condamnation, sur le fondement des articles 1147 et 1240 du Code civil, à l’indemniser du préjudice qu’elle aurait subi du fait de l’inexécution contractuelle d’un contrat d’apport d’affaires, ainsi qu’au titre de la perte de chance de percevoir des redevances d’administration fonctionnelle. 
+
+Selon Acat, Open Bee aurait commis des manquements de nature contractuelle et délictuelle à son égard, engageant sa responsabilité et emportant comme conséquence un préjudice compris, selon les assignations délivrées (discordantes), entre 113.000 et 264.000 euros HT.
+
+En considération des éléments de contexte (1-), le Tribunal déboutera Acat de l’ensemble de ses demandes (2-).
+
+
+éléments de contexte
+
+1.1-	La négociation du contrat avec Total Energies  
+
+Open Bee est une société éditrice de logiciels, dont un logiciel de gestion électronique des données et de dématérialisation des processus documentaires intitulé « Open Bee Portal » (Pièce adverse n°2). 
+
+Acat est une société spécialisée dans la prestation de services aux entreprises, exerçant plus spécifiquement l’activité d’agence de communication (Pièce adverse n°1) 
+
+
+Comme formulé dans les assignations délivrées par Acat, cette dernière est entrée à partir de 2013 dans une relation contractuelle avec Total Energies, dans le cadre de laquelle elle lui permettait d’exploiter son logiciel « Passidor » aux fins de gestion de la documentation à travers son réseau de stations-services.
+
+En 2023, Total Energies a lancé un appel d’offres en prévision du remplacement du logiciel Passidor par une autre solution. 
+
+
+Contrairement à ce que soutient la demanderesse, c’est bien Acat, du fait de sa relation d’affaires régulière avec la société Total Energies, qui a répondu à l’appel d’offre lancé par cette dernière aux fins de remplacer son outil de GED Passidor. 
+
+Acat a répondu seule à cet appel d’offres, sans rendre Open Bee destinataire des échanges, de sorte que, dès le début, le chef de projet d’Open Bee (M. Eric Vuerli) s’en est remis avec confiance et en toute bonne foi au discours que lui tenait Acat, à savoir que Total Energies avait demandé à Acat de lui proposer un outil de GED standard pour remplacer Passidor, impliquant la réalisation d’un minimum de développements spécifiques [nous confirmer que M. Vuerli n’était pas un technicien].
+
+
+C’est ainsi que Acat a sélectionné en juillet 2023 l’outil Open Bee Portal, de façon manifestement assez sommaire puisque sa prise de connaissance du produit s’est limitée à deux réunions d’une demi-heure le 6 juillet 2023, l’une portant essentiellement sur les besoins en signature électronique d’Acat et l’autre sur les aspects financiers. 
+
+
+Sur cette base, Acat a répondu seule au cahier des charges de Total Energies et a rempli seule la grille d’expression des besoins. 
+
+Il faut toutefois préciser qu’en septembre 2023, Acat a interrogé Open Bee sur certaines spécificités du produit, notamment sur le point de savoir s’il était possible de savoir par avance si le mode d’identification Digital Pass propre à Total Energies était utilisable, ou de partager une sauvegarde avec un autre utilisateur.
+
+Open Bee a répondu clairement et par écrit par la négative à ces demandes, précisant par ailleurs que la lecture de QR code était possible uniquement via Open Bee scan capture et sous réserve de validation sur document réel, ce qui n’était a priori pas conforme aux attentes de Total Energies.
+
+
+C’est donc uniquement via des échanges avec Acat que Total Energies a validé la satisfaction de ses besoins métier par Open Bee Portal.
+
+A aucun moment Open Bee n’a été entendue en direct ou consultée sur les réponses apportées à l’expression de besoin. 
+
+La société Acat en portait alors la pleine responsabilité puisqu’elle était positionnée en tant qu’intégrateur, Open Bee étant son sous-traitant. 
+
+
+En novembre 2023, Total Energies a souhaité renverser l’architecture contractuelle : Open Bee deviendrait titulaire du contrat cadre, Acat passant au rang de sous-traitant. 
+
+Tant Total Energies qu’Open Bee s’en sont alors remis à Acat pour valider l’opération : Total Energies sur la base de l’expression de besoins remplie par Acat, Open Bee sur la base de la confiance accordée à Acat quant à la transmission correcte au client des fonctionnalités réelles d’Open Bee Portal et leur capacité à répondre aux besoins de Total Energies. 
+
+Confrontée aux interrogations d’Open Bee, Acat, par l’intermédiaire de M. Pierre Vaguet, a maintenu à de nombreuses reprises que le cahier des charges élaboré par Total Energies était, par facilité, une description de l’ancien progiciel Passidor et non pas la nouvelle expression de besoin de Total Energies, et qu’en tout état de cause, Total Energies n’aurait pas d’autre choix que de s’adapter puisqu’elle voulait un progiciel du marché.  
+
+
+C’est dans ce contexte qu’Open Bee a conclu avec Total Energies, le 5 janvier 2024, un « Contrat pour la fourniture de matériels, logiciels et/ou services informatiques N°CTR093390 – Open Bee Portal », Acat étant en position de sous-traitant d’Open Bee. 
+
+
+1.2-	La découverte de l’imbroglio orchestré par Acat
+
+A partir de la réunion de lancement du projet qui s’est tenue le 8 janvier 2024, Open Bee a enfin été en mesure de dialoguer directement avec les équipes métier Passidor de Total Energies et de comprendre leurs attentes réelles. 
+
+Il s’est avéré lors de cette réunion qu’en réalité, Total Energies voulait effectivement un progiciel du marché, mais dont les fonctionnalités seraient strictement identiques à celles de Passidor. 
+
+
+Sur le fond, cette exigence était hautement questionnable : comment pouvait-on penser que ce souhait soit réalisable avec un progiciel du marché, et alors même que la DSI de Total Energies affirmait ne plus vouloir de développements spécifiques aux fins de se libérer des contraintes d’évolutivité et de maintenance ? [à expliquer]
+
+Mais il revenait à Acat, et ceci depuis le début du projet puisqu’elle était alors chargée par Total Energies du choix du nouvel outil, de relever cette incohérence et de la traiter avec le maître d’ouvrage, au lieu de répondre seule et de façon erronée à l’expression de besoin de Total Energies et de prétendre auprès d’Open Bee que Total Energies adopterait tel quel le progiciel d’Open Bee. 
+
+
+Ce n’est que le 14 février 2024 qu’Open Bee a finalement pris connaissance de la grille de réponse remplie par Acat seule, et ce via un mail de Total Energies… (mail de Stella Patchoum à Eric Vuerli du 14 février 2024 à 17h41). 
+
+
+Dans un effort de clarification, Open Bee a effectué un travail important de chiffrage des développements nécessaires pour modifier son produit standard et répondre aux besoins de Total Energies. Ce chiffrage a été présenté à Total Energies lors de la réunion du 26 mars 2024 à 15h, en présence d’Acat.
+
+L’effort total de développement s’élevait à 519 jours/homme, soit environ 400 000 euros 
+(à documenter), ce qui montre s’il en était besoin le niveau d’énormité des fausses réponses données par Acat dans l’expression de besoin pour faire croire à Total Energies que le progiciel Open Bee Portal répondait en standard à ces besoins. 
+
+Ces conditions étant insoutenables pour Open Bee, la concluante n’a eu d’autre choix que de ne pas exécuter le contrat, ce dont elle a informé Total Energies en mars 2024, sans que cette dernière n’y trouve à redire (comprenant, elle aussi, que les manœuvres d’Acat avaient conduit à une impasse). 
+
+
+1.3-	La procédure initiée par Acat
+
+Pensant pouvoir tirer profit du retrait d’Open Bee (provoqué par sa propre attitude), Acat a mis en demeure Open Bee, le 11 septembre 2024, de lui régler la somme de 63.936,00 euros TTC, correspondant selon elle à la rémunération de l’apport d’affaires ainsi qu’à la rémunération au titre de la réalisation d’une prestation de conception de supports de formation qui auraient été convenues dans le contrat, pour lesquelles des factures avaient été émises (pièce adverse n°19).
+
+Par courrier du 19 septembre 2024, Open Bee a, par l’intermédiaire de son conseil, naturellement rejeté ces demandes pour les raisons exposées ci-dessus et sollicité l’émission d’avoirs à hauteur des montants facturés (pièce adverse n°20). 
+
+
+Le 14 mars 2024, Acat a fait signifier à Open Bee une première assignation, aux termes de laquelle elle sollicitait la condamnation d’Open Bee à hauteur de 113.721,60 euros HT en réparation des préjudices prétendument subis.
+
+Le 24 mars 2024, Open Bee s’est vue délivrer une seconde assignation, chiffrant cette fois le préjudice d’Acat à 264.441,60 euros HT (317.329,92 euros TTC). 
+
+
+Le 13 mai 2025, Open Bee a fait le constat de ce que Acat présentait toujours Total Energies comme l’un de ses clients sur son site internet (pièce n°1), ce qui interroge sur le caractère préjudiciable de l’absence de mise en œuvre du contrat entre Open Bee et Total pour Acat, qui en avait d’ailleurs bénéficié puisque cette situation a conduit Total Energies à prolonger le contrat avec Acat pour la fourniture et la maintenance de Passidor.
+
+Remarquant par ailleurs que les éléments communiqués par Acat étaient taisants sur les éléments techniques de la prestation attendue par Total et celle qui a été proposée par Acat / Open Bee, ainsi que sur le préjudice subi par Acat, Open Bee lui a adressé le 14 mai 2025 une sommation de préciser laquelle des deux assignations délivrées avait été placée auprès du greffe et de communiquer (pièce n°2) :
+
+La copie des documents de la consultation lancée par Total Energies « au cours du second semestre 2023 » (selon les assignations, page 3 §6) ;
+
+La copie de l’offre adressée pat Acat à Total Energies dans ce cadre ; 
+
+La copie des échanges de mails et/ou des documents de travail (en particulier les versions intermédiaires de l’offre) partagés entre Acat et Open Bee s’agissant de l’analyse du besoin technique, des questions posées, des réponses apportées par Total Energies et des versions intermédiaires de l’offre qui auraient été établies dans le cadre de la consultation ;
+
+Les éléments de calcul exacts du préjudice allégué, les demandes formulées dans le dispositif des deux assignations ne correspondant pas aux demandes formulées dans le corps des deux assignations ;
+
+Toute information sur la relation d’Acat LH avec Total Energies.
+
+
+Acat n’a jamais donné suite à cette sommation, ce dont le Tribunal tirera les conséquences 
+
+
+Le Tribunal rejettera tout d’abord la demande formulée par Acat au titre de la supposée inexécution contractuelle du contrat d’apport d’affaires, lequel est entaché de nullité pour vice de consentement et, en tout état de cause, nécessairement conditionné par l’exécution du contrat passé avec Total Energies et au paiement d’Open Bee par Total Energies (2.1-).
+
+Il plaira ensuite au Tribunal de juger que les demandes d’Acat au titre d’une supposée perte de chance de percevoir des redevances est mal fondée dans la mesure où Open Bee ne justifie ni des prestations d’administration fonctionnelle alléguées, ni de son préjudice et, en tout état de cause, a causé son propre dommage du fait de l’opacité entretenue envers Open Bee sur les attentes réelles de Total Energies (2.2-).
+
+Si le Tribunal devait toutefois entrer en voie de condamnation vis-à-vis d’Acat, elle jugera que la nature de l’affaire justifie d’écarter l’exécution provisoire de la décision à intervenir (2.3-).
+
+
+2-	Discussion
+
+2.1-	Les demandes d’Acat au titre de la prétendue inexécution contractuelle du contrat d’apport d’affaires sont mal fondées
+
+Aux termes de ses assignations, Acat sollicite la condamnation d’Open Bee à payer la somme de 46.033,92 euros TTC « au titre de l’apport d’affaires dû à ACAT LH, majorée des pénalités de retard et de l’intérêt de recouvrement forfaitaire de 40 €. »
+
+Il convient tout d’abord de souligner que cette demande est incohérente avec les éléments exposés dans le corps des assignations, tant sur le quantum de la demande que sur leurs fondements :
+
+S’agissant du quantum, le corps de l’assignation chiffre les demandes à 40.713 euros TTC, quand le dispositif des assignations fait état d’une condamnation à hauteur de 46.033,92 euros ;
+
+S’agissant des fondements de la demande, il est question dans les assignations d’un montant dû au titre d’un contrat d’apport d’affaires (31.842 euros en principal) et d’une somme réclamée au titre de factures pour des prestations de réalisation de supports de formation (6.879,60 euros), alors que le dispositif parle uniquement d’un apport d’affaires.
+
+A défaut pour Acat de clarifier ces demandes, le Tribunal ne pourra statuer sur celles-ci [demande de sursis à statuer in limine litis?]. 
+
+Mais surtout, il sera démontré ci-après que ces demandes sont en tout état de cause infondées dans leur principe, le « contrat d’apport d’affaires » étant nul car entaché de vices du consentement (2.1.1-) , sauf à considérer qu’il est frappé de caducité du fait de la disparition du contrat entre Open Bee et Total Energies (2.1.2-).
+
+
+2.1.1-	Le contrat d’apport d’affaires est nul car entaché d’un double vice du consentement
+
+2.1.1.1-	Dispositions applicables
+
+L’article 1130 du Code civil dispose que :
+
+« L'erreur, le dol et la violence vicient le consentement lorsqu'ils sont de telle nature que, sans eux, l'une des parties n'aurait pas contracté ou aurait contracté à des conditions substantiellement différentes.
+
+Leur caractère déterminant s'apprécie eu égard aux personnes et aux circonstances dans lesquelles le consentement a été donné. »
+
+
+S’agissant de l’erreur, les articles 1132 et 1133 du même code disposent que :
+
+« L'erreur de droit ou de fait, à moins qu'elle ne soit inexcusable, est une cause de nullité du contrat lorsqu'elle porte sur les qualités essentielles de la prestation due ou sur celles du cocontractant »
+
+« Les qualités essentielles de la prestation sont celles qui ont été expressément ou tacitement convenues et en considération desquelles les parties ont contracté. »
+
+
+Ainsi, l’erreur est cause de nullité si elle est excusable et porte sur les qualités essentielles de la prestation due, c’est-à-dire lorsqu’elle a été déterminante du consentement des parties et expressément ou tacitement convenue entre elles. 
+
+
+L’article 1137 prévoit par ailleurs que :
+
+« Le dol est le fait pour un contractant d'obtenir le consentement de l'autre par des manœuvres ou des mensonges.
+
+Constitue également un dol la dissimulation intentionnelle par l'un des contractants d'une information dont il sait le caractère déterminant pour l'autre partie. »
+
+
+Et, selon, l’article 1139 du même code :
+
+« L'erreur qui résulte d'un dol est toujours excusable ; elle est une cause de nullité alors même qu'elle porterait sur la valeur de la prestation ou sur un simple motif du contrat. »
+
+
+Ainsi, le dol se caractérise par des manœuvres (actes positifs par lesquels une partie crée chez son cocontractant une fausse apparence de la réalité) ou la dissimulation intentionnelle par l’un des contractants d’une information dont il sait le caractère déterminant pour l’autre partie, dont il résulte une erreur pour le cocontractant, sanctionnée par la nullité du contrat. 
+
+
+2.1.1.2-	Application au cas d’espèce
+
+En l’espèce, l’engagement d’Open Bee vis-à-vis d’Acat est entaché d’un double vice du consentement. 
+
+D’une part, Open Bee a commis une erreur en s’engageant le 22 février 2024 à verser les sommes réclamées par la demanderesse en contrepartie de ce qu’elle pensait être, de bonne foi, l’apport par Acat d’un contrat avec Total Energies de fourniture de son logiciel standard de GED Open Bee Portal, alors que cette solution ne répondait pas aux attentes du client final, qui souhait retrouver les fonctionnalités de Passidor.
+
+Comme formulé précédemment, Acat a donc « apporté » à Open Bee un contrat inexécutable (sauf à engager des frais de développement à hauteur de 400.000 euros), ce dont Open Bee ne s’est aperçue que le 14 février 2024, lorsqu’elle a finalement pris connaissance de la grille de réponse remplie par Acat seule, via un mail de Total Energies… (mail de Stella Patchoum à Eric Vuerli du 14 février 2024 à 17h41).  [attention : signature des devis le 22 février 2024, donc postérieure à cette découverte] 
+
+Si Open Bee avait été informée en amont de la réalité des prestations attendues par Total Energies, elle n’aurait pas signé le contrat-cadre pour le renouvellement de la plateforme Passidor (sinon à des conditions totalement différentes) et, corrélativement, les devis pour « honoraires d’apporteur d’affaires » et prestations de réalisation de supports de formation, de sorte que l’erreur porte sur une qualité essentielle de la prestation attendue, déterminante du consentement d’Open Bee.  
+
+De même, il ne saurait être contesté que la qualité de la prestation due par Acat, à savoir l’apport d’un contrat exécutable par Open Bee aux conditions prévues (et en tout état de cause conforme à ce qui avait été présenté par Acat, à savoir la fourniture à Total Energies de la solution standard sans aménagement), était tacitement convenue entre les parties. 
+
+
+D’autre part, cette erreur est entachée de dol puisque ce sont les fausses déclarations d’Acat, qui n’a hésité à mentir ni à Total Energies (en remplissant faussement la grille d’expression de besoins) ni à Open Bee (en prétendant que son progiciel ferait l’affaire) qui ont conduit à l’engagement d’Open Bee dans le projet, de sorte que l’erreur d’Open Bee est en tout état de cause excusable. 
+
+
+Ces vices ont été déterminants dans l’engagement d’Open Bee et ils sont doublement la cause de la nullité de l’engagement d’Open Bee vis-à-vis d’Acat.
+
+Le Tribunal constatera donc la nullité du « contrat d’apport d’affaires » passé entre Open Bee et Acat et, par conséquent, rejettera les demandes formulées par Acat au titre de son inexécution. 
+
+Si le Tribunal venait toutefois à constater l’existence d’un contrat d’apport d’affaires valide entre Acat et Open Bee, il jugera qu’Acat ne saurait être rémunérée pour l’apport à Open Bee d’un contrat manifestement inexécutable, sans contrepartie de la part de Total Energies et conclu par l’intermédiaire de manœuvres trompeuses de sa part.
+
+
+2.1.2-	Subsidiairement, Open Bee ne peut prétendre au paiement du contrat d’apport d’affaires 
+
+2.1.2.1-	Dispositions applicables
+
+L’article 1194 du Code civil dispose que :
+
+« Les contrats obligent non seulement à ce qui y est exprimé, mais encore à toutes les suites que leur donnent l’équité, l’usage ou la loi ». 
+
+
+L’article 1186 du même code prévoit par ailleurs que :
+
+« Un contrat valablement formé devient caduc si l'un de ses éléments essentiels disparaît.
+
+Lorsque l'exécution de plusieurs contrats est nécessaire à la réalisation d'une même opération et que l'un d'eux disparaît, sont caducs les contrats dont l'exécution est rendue impossible par cette disparition et ceux pour lesquels l'exécution du contrat disparu était une condition déterminante du consentement d'une partie. »
+
+
+Dans ce cadre, la rémunération d’un apport d’affaires est raisonnablement et implicitement conditionnée par l’exécution du contrat apporté, et du paiement des prestations : le contrat d’apport d’affaires est ainsi dépendant du contrat principal, dont l’exécution est une condition déterminante du consentement du bénéficiaire de l’apport d’affaires à la rémunération de l’apporteur.
+
+
+En pratique, lorsque les parties mises en relation par l’apporteur d’affaires se trouvent, du fait de cet apporteur, contraintes d’abandonner leurs engagements, le paiement de l’apporteur d’affaires devient sans objet, le contrat d’apporteur d’affaires caduc.
+
+
+2.1.2.2-	Application au cas d’espèce
+
+En l’espèce, et comme exposé précédemment, Acat a trompé Open Bee et Total Energies sur le périmètre du besoin du client d’une part, et les fonctionnalités du logiciel d’Open Bee d’autre part. 
+
+Lorsqu’Open Bee a découvert ces manœuvres d’Acat (avec l’expression des besoins réels de Total Energies), elle a présenté à Total Energies un devis pour le développement du logiciel et sa mise en conformité avec l’expression de besoins lors d’une réunion du 26 mars 2024.
+
+L’effort total de développement s’élevant à 519 jours/homme, soit environ 400 000 euros, Total Energies a, de façon compréhensible, décidé de ne pas donner suite et de finalement se passer d’Open Bee. 
+
+D’un commun accord et constatant qu’elles avaient été mises en relation de manière artificielle par Acat, Open Bee et Total Energies ont alors mis un terme à leurs engagements avant même que le contrat ne soit mis en œuvre, et qu’Open Bee ne perçoive le moindre paiement de la part de Total Energies. 
+
+
+Dans ce contexte, il y a lieu de considérer que le contrat du 5 janvier 2024 a disparu et que le contrat d’apport d’affaires, qui en est dépendant, est devenu caduc, de sorte qu’Acat ne saurait venir réclamer, de mauvaise foi, la rémunération d’un contrat d’apport d’affaires en sachant que le contrat « apporté » à Open Bee n’a jamais reçu de commencement d’exécution par l’une ou l’autre des parties.
+
+
+De même, Acat ne peut sérieusement demander à Open Bee le paiement de factures pour des prestations de réalisation de supports de formation qui n’ont jamais été réalisées, d’autant que la situation décrite a permis à Acat de récupérer le contrat Passidor avec Total Energies, comme cela ressort de ses assignations et de son site internet (pièce n°1). 
+
+Par l’ensemble de ces raisons, le Tribunal déboutera Acat de ses demandes au titre de « l’inexécution contractuelle du contrat d’apport d’affaires ». 
+
+
+2.2-	Les demandes d’Acat au titre de la perte de chance de percevoir des redevances d’administration fonctionnelle sont mal fondées
+
+Acat sera déboutée de ses demandes en ce qu’elle ne justifie pas du prétendu engagement d’Open Bee de lui verser des redevances régulières sur trois ans (2.1-), ni, subsidiairement, du principe et du montant de son préjudice (2.2-).
+
+A titre très subsidiaire, les demandes d’Acat seront rejetées en ce que son propre comportement est  la cause exclusive du préjudice allégué (2.3-).
+
+
+2.2.1-	Acat ne justifie pas de l’obligation alléguée
+
+2.2.1.1-	Dispositions applicables
+
+L’article 1353 Code civil dispose que :
+
+« celui qui réclame l’exécution d’une obligation doit la prouver.
+
+Réciproquement, celui qui se prétend libéré doit justifier le paiement ou le fait qui a produit l'extinction de son obligation. »
+
+
+Et l’article 9 du Code de procédure civile dispose par ailleurs que : 
+
+« il incombe à chaque partie de prouver conformément à la loi les faits nécessaires au succès de sa prétention » ;
+
+
+2.2.1.2-	Application au cas d’espèce
+
+En l’espèce, Acat se prévaut d’ « accords contractuels conclus entre OPEN BEE et ACAT » aux termes desquels des « prestations d’administration fonctionnelle devaient être réalisées par ACAT » pour un montant total de 75.360 euros TTC annuels et sur une période de trois ans (assignation, page 11).
+
+Pour tout justificatif, Acat produit un devis chiffré à 9.555 euros HT (pièce adverse n°12), une facture de 6.879,60 euros TTC correspondant à un acompte sur cette somme 
+(pièce adverse n°14) et un e-mail mentionnant que des équipes d’Acat seront amenées à travailler auprès de Total Energies (pièce adverse n°15), sans davantage de précisions sur d’éventuels « accords conclus entre OPEN BEE et ACAT ».
+
+
+Les documents produits correspondent à une facturation ponctuelle et en aucun cas ces éléments ne suffisent à démontrer qu’Open Bee se serait engagée contractuellement, que ce soit auprès d’Acat ou de Total Energies, à faire réaliser pendant trois ans des prestations d’administration fonctionnelle régulières à Acat, a fortiori pour les montants allégués.
+
+Ainsi, Acat échoue à démontrer l’étendue des obligations d’Open Bee à son égard et sera débouté de ses demandes au titre de la perte de chance de percevoir des redevances. 
+
+Si le Tribunal devait toutefois retenir l’existence d’une telle obligation, il fera le constat de ce que Acat n’a subi aucun préjudice du fait des supposés manquements d’Open Bee. 
+
+
+2.2.2-	Subsidiairement, Acat n’a subi aucun préjudice 
+
+2.2.2.1-	Dispositions applicables
+
+Le principe de réparation intégrale du préjudice, qui trouve son fondement dans les dispositions de l’article 1240 du Code civil, impose de remettre les parties dans l’état dans lequel elles se seraient trouvées en l’absence de faute et instaure une stricte équivalence entre le dommage et sa réparation. 
+
+Ce principe est réaffirmé de façon constante par la Cour de cassation à travers les formules suivantes : 
+
+« le propre de la responsabilité civile est de rétablir aussi exactement que possible l'équilibre détruit par le dommage et de replacer la victime dans la situation où elle se serait trouvée si l'acte dommageable n'avait pas eu lieu » (Cass. com., 10 janv. 2012, no 10-26.837) ;
+
+« les dommages-intérêts alloués à une victime doivent réparer le préjudice subi sans qu'il en résulte pour elle ni perte ni profit » (Cass. 3e civ., 12 janv. 2010, no 08-19.224 ; Cass. 3e civ., 7 sept. 2010, no 09-67.927). 
+
+
+Conformément à ce principe, la partie qui entend engager la responsabilité d’un tiers doit être en mesure de justifier, dans leur principe et leur montant, des préjudices dont il se prévaut qu’il s’agisse de pertes subies, de dépenses induites, de gains manqués ou de pertes de chance. 
+
+
+En pratique, la perte de chance d’obtenir un avantage n’est pas indemnisable si la partie qui s’en prévaut a finalement obtenu cet avantage par des moyens équivalents [JP].
+
+En matière de rupture brutale des relations commerciales, la Cour de cassation prend par exemple en compte l’évolution du chiffre d’affaires réalisé avant et après la rupture en considérant que le demandeur doit démontrer qu’une partie de son chiffre d’affaires a bien effectivement été perdue du fait de la rupture :
+
+Il a ainsi été jugé :
+
+« Mais attendu qu'ayant estimé que la société Idéas ne rapportait ni la preuve du montant du chiffre d'affaires perdu depuis la rupture de fait avec la société Parfums Christian Dior jusqu'à la cessation de son activité, ni la preuve d'une atteinte à son image de marque et d'un préjudice à ce titre, la cour d'appel, par ces seuls motifs (…), a légalement justifié sa décision » (Cass. Com. 3 mars 2004, n° 02-17.623, nous soulignons).
+
+« Mais attendu, en premier lieu, qu'après avoir constaté que les relations commerciales liant les parties étaient en rapport avec des opérations de défiscalisation dans les territoires d'Outre-Mer et avaient donné lieu à une modification des conditions de fixation de la rémunération à compter de janvier 2010, la rémunération étant désormais fondée sur un calcul variable en proportion des sommes apportées, ce dont il se déduisait une nature aléatoire intrinsèque, et retenu qu'à la suite de la rupture fautive intervenue la société Adinvest avait été privée de 16 mois d'activité soumis à cet aléa, dont l'incidence sur le chiffre d'affaires escompté a été souverainement appréciée, l'arrêt relève que cette dernière a toutefois retrouvé un certain chiffre d'affaires ; qu'en l'état de ces constatations et appréciations souveraines, la cour d'appel, qui a ainsi apprécié l'étendue du préjudice réel subi par la société Adinvest, a pu statuer comme elle a fait ; » (Cass. Com 8 octobre 2013, 12-22.958 ; nous soulignons)
+
+
+2.2.2.2-	Application au cas d’espèce
+
+En l’espèce, Acat reconnaît elle-même dans ses deux assignations (page 7) qu’après le retrait d’Open Bee, « TOTAL ENERGIES a choisi de prolonger l’utilisation de PASSIDOR », de sorte que le contrat de prestation de services informatiques entre Acat et Total Energies en place depuis 2013 a finalement été maintenu au bénéfice d’Acat, ce qui est confirmé par le site internet de la demanderesse (pièce n°1).
+
+Sauf à ce qu’elle démontre le contraire, Acat n’a donc, a priori, pas vu son chiffre d’affaires impacté négativement par la non-exécution du contrat du 5 janvier 2024 et la différence importante de chiffrage du préjudice entre les deux assignations délivrées (75.360 euros HT le 14 mars 2025 contre 226.080 euros HT le 24 mars) ajoute à la confusion des demandes d’Acat.
+
+
+Acat ne peut davantage soutenir que ce changement aurait impacté « le budget et le plannung de remplacement de PASSIDOR pour Total Energies », dans la mesure où cette dernière n’a formulé aucune demande contre Open Bee.  
+
+
+Dans le contexte et sans autre production d’Acat (malgré la sommation de communiquer d’Open Bee en ce sens – pièce n°2), il est impossible de faire une analyse sérieuse de la supposée perte de chance de percevoir des redevances, sinon que les éléments communiqués suggèrent que l’activité d’Acat avec Total Energies – et les revenus en lien avec celle-ci – a bien été maintenue malgré la non-réalisation du projet avec Open Bee.  
+
+Il s’en déduit qu’Acat a finalement obtenu l’avantage qu’elle comptait obtenir du contrat entre Open Bee et Total Energies par le maintien du contrat avec cette dernière, de sorte qu’elle n’a subi aucun préjudice lié au retrait d’Open Bee. 
+
+Par conséquent, le Tribunal rejettera les demandes formulées par Acat au titre de sa perte de chance de percevoir des redevances. 
+
+En tout état de cause, et quand bien même le Tribunal caractériserait une baisse de rémunération pour Acat, il sera jugé qu’Acat ne saurait demander une quelconque réparation dans la mesure où son comportement seul a généré cette perte. 
+
+
+2.2.3-	A titre plus subsidiaire, le seul comportement d’Acat a causé le préjudice allégué par la demanderesse 
+
+2.2.3.1-	Dispositions applicables
+
+Comme formulé précédemment, le principe de réparation intégrale du préjudice implique que le responsable du dommage indemnise l’intégralité du préjudice, sans qu’il en résulte pour la pour la victime ni appauvrissement, ni enrichissement (Cass. 3e civ., 12 janv. 2010, no 08-19.224 ; Cass. 3e civ., 7 sept. 2010, no 09-67.927).
+
+Toutefois, lorsque la faute de la victime a contribué à la réalisation du dommage, même partiellement, ou à son aggravation, la jurisprudence considère qu’une réduction, voire une exclusion de son droit à indemnisation, peut-être être opérée :
+
+« Sauf à présenter les caractères de la force majeure, la faute de la victime ayant contribué à la réalisation de son propre dommage emporte en principe exonération partielle et permet de réduire à due concurrence le droit à dommages et intérêts dont celle-ci bénéficie à l’encontre du responsable. 
+
+Il existe cependant des tempéraments à ce principe. Cela est notamment le cas lorsque la faute de négligence ou d’imprudence reprochée à celui dont la responsabilité civile est recherchée entre en concours avec une faute de la victime sans laquelle le dommage aurait été évité : cette faute de la victime a absorbé, au regard du lien de causalité, celle retenue à l’encontre du défendeur à l’action en responsabilité lorsque cette dernière n’aurait pu être commise en l’absence de faute de la victime (Cass. com., 14 déc. 2004, n° 01-02.511, à propos de la faute d’un commissaire aux comptes). »
+
+
+Ainsi, la réparation due à la victime peut être diminuée ou refusée en raison de la faute par elle commise, qui a alors pour effet de réduire le montant de son indemnisation à due proportion de la gravité de la faute commise, et de l’exclure lorsque la faute de la victime apparait comme cause exclusive du dommage :
+
+« Mais attendu que la cour d'appel a, d'une part, considéré que si la Caisse des dépôts et consignations avait omis de signaler l'existence sur sa propriété de l'acte constitutif de servitudes, cette omission procédait non d'une faute volontaire mais d'une erreur tenant à l'ancienneté de l'acte qui remontait à plus de trente ans ; que, d'autre part, elle a retenu que le notaire, tenu pour assurer l'efficacité de son acte de vérifier les origines de propriété, la situation hypothécaire ainsi que les déclarations du vendeur notamment celles relatives à l'absence de servitudes, s'était abstenu de demander à la conservation des hypothèques les renseignements figurant sur le fichier par propriétaire, pour la période antérieure au 1er janvier 1956 ; qu'elle a pu estimer que la faute commise par la Caisse était " entièrement absorbée " par celle de son notaire et qu'il n'y avait pas lieu, dès lors, d'opérer un partage de responsabilité, faute de lien de causalité entre le dommage et la faute de la Caisse » (Civ. 1ère 23 nov. 1999, n°97-12.595, nous soulignons)
+
+« que l'arrêt constate que Mme X..., qui n'avait pas donné procuration à M. Y..., disposait des relevés de comptes de la société faisant apparaître les opérations litigieuses opérées depuis ou vers son compte personnel ; qu'il relève que, consciente des agissements de son compagnon, elle était malvenue à stigmatiser le manque de rigueur professionnelle et de respect de la législation par la banque dans le cadre des relations d'affaires avec le couple ; qu'en l'état de ces constatations et appréciations, la cour d'appel, qui a fait ressortir que le préjudice de Mme X... prenait sa source dans sa carence exclusive, a pu statuer comme elle a fait ; que le moyen n'est pas fondé ; » (Com. 1er avril 2008, n°06-20.905)
+
+
+Par ailleurs, les articles 1112 et 1112-1 du Code civil précisent que les parties sont tenues, dans le cadre de négociations précontractuelles, à des obligations strictes de bonne foi et d’information :
+
+« L'initiative, le déroulement et la rupture des négociations précontractuelles sont libres. Ils doivent impérativement satisfaire aux exigences de la bonne foi. »
+
+« Celle des parties qui connaît une information dont l'importance est déterminante pour le consentement de l'autre doit l'en informer dès lors que, légitimement, cette dernière ignore cette information ou fait confiance à son cocontractant. »
+
+
+2.2.3.2-	Application au cas d’espèce
+
+En l’espèce, Acat était tenue, lors de la phase de discussions précontractuelles avec Total Energies, d’agir de bonne foi en étant transparente avec Open Bee sur la réalité des prestations attendues par Total Energies, en lui remettant la copie des documents de la consultation (en particulier le cahier des charges technique) et en la mettant en mesure d’analyse avec précision le besoin technique du client final pour in fine, pouvoir exécuter le contrat. 
+
+
+Or, il ressort des éléments de contexte exposés précédemment et de l’absence de réponse d’Acat à la sommation de communiquer adressée par Open Bee qu’aucun de ces éléments n’a été transmis à Open Bee (celle-ci découvrant l’expression des besoins de Total Energies une fois le contrat signé avec elle), la demanderesse induisant même en erreur (i) Open Bee sur la réalité des prestations attendues (qui ne correspondait pas à l’outil Open Bee standard) et (ii) Total Energies sur les fonctionnalités réelles d’Open Bee Portal.
+
+Ce même comportement fautif (car contraire aux obligations de bonne foi et d’information précontractuelles et, plus généralement, de mettre son partenaire commercial en mesure d’exécuter ses prestations) peut être reproché à Acat dans le cadre de la mise en place du contrat d’apport d’affaires avec Open Bee (cf. supra 2.1-).
+
+
+En raison des manquements d’Acat, Open Bee s’est trouvée dans l’impossibilité d’exécuter le contrat conclu avec Total Energies, de sorte que la privation alléguée, pour Acat, des redevances d’administration fonctionnelle, est entièrement imputable à la demanderesse. 
+
+Dès lors, le Tribunal jugera que le comportement d’Acat est la cause exclusive de son propre dommage et rejettera comme mal fondées ses demandes au titre de la perte de chance de percevoir les rémunérations espérées (sauf à retenir une contribution d’Acat à son propre dommage à hauteur de 90% et, dès lors, réduire l’indemnisation d’Acat à 10% des sommes demandées). 
+
+
+2.3-	Sur la mise à l’écart de l’exécution provisoire
+
+L’article 514-1 du code de procédure civile dispose que :
+
+« Le juge peut écarter l'exécution provisoire de droit, en tout ou partie, s'il estime qu'elle est incompatible avec la nature de l'affaire ».
+
+
+Si le Tribunal devait condamner Open Bee à indemniser la demanderesse, il est demandé au Tribunal de bien vouloir écarter l’exécution provisoire du jugement à intervenir puisqu’elle ne serait pas compatible avec la nature de l’affaire.
+
+En cas d’infirmation du jugement à intervenir, une action d’Open Bee en restitution du montant d’éventuelles condamnations serait incontestablement vouée à l’échec.
+
+En effet, Acat ne présente aucune garantie quant à sa capacité de rembourser les sommes qui pourraient lui être allouées en première instance en cas d’infirmation par la cour d’appel.
+
+Les derniers comptes publiés montrent des résultats nets négatifs : –135.000 € en 2023 et 
+–162.000 € en 2024. Les fonds propres sont également négatifs, atteignant –234. 000 € en 2024, ce qui indique une situation financière fragile [à documenter].
+
+Au contraire, Open Bee présente toutes les garanties de solvabilité nécessaires permettant d’écarter l’exécution provisoire d’une décision de condamnation.
+
+Il est donc demandé au Tribunal d’écarter l’exécution provisoire du jugement à intervenir.
+
+
+3-	Article 700
+
+Dans le contexte, il serait inéquitable que Open Bee ait à supporter les frais qu’elle a été contrainte d’engager pour la défense légitime de ses intérêts.
+
+En conséquence, Acat sera condamnée à lui verser une somme de 5.000 euros au titre des dispositions de l’article 700 du Code de procédure civile, ainsi qu’aux entiers dépens.
+
+oOo
+PAR CES MOTIFS
+
+
+Vu les dispositions des articles 1112, 1112-1, 1130, 1132, 1133, 1137, 1139, 1186, 1194, 1353 et 1240 du Code civil 
+Vu l’article 9 du Code de procédure civile, 
+
+
+Il est demandé au Tribunal de commerce d’Annecy de :
+
+Surseoir à statuer dans l’attente de clarification de ses demandes par Acat ;
+
+A défaut, 
+
+
+Sur la demande d’Acat au titre de l’inexécution contractuelle du contrat d’apport d’affaires :
+
+Juger que le contrat d’apport d’affaires est entaché d’un double vice du consentement ;
+
+Constater la nullité du contrat d’apport d’affaires ; 
+
+Subsidiairement, 
+
+Juger que le contrat d’apport d’affaires est caduc du fait de la non-mise en œuvre du contrat du 5 janvier 2024, que Acat est responsable de cette disparition du contrat et ne peut dès lors prétendre au paiement de sa rémunération d’apporteur d’affaires et des prestations de réalisation de support de formation ;
+
+Par conséquent : 
+
+Débouter Acat de ses demandes.
+
+
+Sur la demande d’Acat au titre de la perte de chance des redevances d’administration fonctionnelle
+
+Juger qu’Acat ne démontre pas l’étendue de l’obligation alléguée d’Open Bee à son égard ;
+
+Subsidiairement,
+
+Juger que Acat n’a subi aucun préjudice et qu’en tout état de cause, les éléments communiqués par Acat sont insuffisants à établir le principe et le quantum du préjudice allégué ;
+
+Très subsidiairement : 
+
+Juger que le comportement de Acat est la cause exclusive de son propre dommage, sauf à retenir une contribution à son propre dommage à hauteur de 90% ;
+
+Par conséquent : 
+
+Débouter Acat de ses demandes indemnitaires, sauf à limiter son droit à réparation à 10 % du préjudice réellement subi.
+
+
+Si le Tribunal devait entrer en voie de condamnation :
+
+Ecarter l’exécution provisoire de la décision à intervenir ;
+
+
+En tout état de cause :
+
+Débouter Acat de sa demande de condamnation de Open Bee au titre de l’article 700 du Code de procédure civile ;
+
+Condamner Acat à verser une somme de 5 000 euros à Open Bee au titre des dispositions de l’article 700 ainsi qu’aux entiers dépens.
+
+
+
+
+SOUS TOUTES RESERVES
+
+
+
+Pièces visées dans les conclusions :
+
+Pièce n°1 : 	Constat de commissaire de justice du 13 mai 2025
+
+Pièce n°2 :	Sommation de communiquer du 14 mai 2025
