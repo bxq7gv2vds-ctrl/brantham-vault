@@ -4,7 +4,7 @@ project: brantham
 date: 2026-05-18
 status: ready-to-publish
 registre: autorité technique / question intrigante
-visuel: post-4-two-buttons.png (variante dark : post-4-two-buttons-navy.png)
+visuel: post-4-meme-anakin.png (alt : post-4-two-buttons.png)
 sources:
   - vault/brantham/knowledge/legal/plans-de-cession
   - vault/brantham/knowledge/process/due-diligence-distressed
