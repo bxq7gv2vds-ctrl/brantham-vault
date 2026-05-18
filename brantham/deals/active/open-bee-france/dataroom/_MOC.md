@@ -34,6 +34,12 @@ déduplication). Lecture côté repreneur, mindset serial repreneur sceptique.
 - [[dataroom/10-strategie-reprise|10 — Stratégie de reprise & périmètre viable]] — P&L reconstruit,
   3 scénarios, structuration de l'offre, verrou suisse.
 
+## Notes complémentaires repreneur
+- [[dataroom/11-fiche-produit|11 — Fiche produit : Open Bee Suite]] — le logiciel comme actif :
+  fonctionnalités, architecture en 4 modules, canal de distribution, positionnement concurrentiel.
+- [[dataroom/12-facture-electronique|12 — Note facture électronique]] — l'agrément PA / PDP DGFIP,
+  calendrier de la réforme, valeur de l'actif et risques (transférabilité, homme-clé).
+
 ## Approfondissement document par document
 - [[dataroom/lot-1-detail|Détail Lot 1]] · [[dataroom/lot-2-detail|Lot 2]] · [[dataroom/lot-3-detail|Lot 3]] ·
   [[dataroom/lot-4-detail|Lot 4]] · [[dataroom/lot-5-detail|Lot 5]] · [[dataroom/lot-6-detail|Lot 6]] ·
