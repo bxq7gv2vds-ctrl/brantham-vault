@@ -26,9 +26,14 @@ déduplication). Lecture côté repreneur, mindset serial repreneur sceptique.
 - [[dataroom/lot-8-social|Lot 8 — Social & emploi]] — effectif, PSE homologué, compétences clés.
 - [[dataroom/lot-9-actifs|Lot 9 — Actifs & gouvernance]] — inventaire RJ, opérations sur le capital.
 
-## Prochaine étape
-Partie 2 — approfondissement clause par clause (contrat de licence suisse, cahier des charges,
-contrats de sous-traitance, périmètre Lixxbail/LBP).
+## Stratégie de reprise
+- [[dataroom/10-strategie-reprise|10 — Stratégie de reprise & périmètre viable]] — P&L reconstruit,
+  3 scénarios, structuration de l'offre, verrou suisse.
+
+## Approfondissement document par document
+- [[dataroom/lot-1-detail|Détail Lot 1]] · [[dataroom/lot-2-detail|Lot 2]] · [[dataroom/lot-3-detail|Lot 3]] ·
+  [[dataroom/lot-4-detail|Lot 4]] · [[dataroom/lot-5-detail|Lot 5]] · [[dataroom/lot-6-detail|Lot 6]] ·
+  [[dataroom/lot-7-detail|Lot 7]] · [[dataroom/lot-8-detail|Lot 8]] · [[dataroom/lot-9-detail|Lot 9]]
 
 ## Related
 - [[brantham/deals/active/open-bee-france/_MOC]]
