@@ -3,100 +3,181 @@
 <head>
 <meta charset="UTF-8">
 <title>meme they don't know — Valorisation RJ — Brantham</title>
+<link rel="stylesheet" href="../../_design-system/base/tokens.css">
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
   html, body { width: 1080px; height: 1080px; }
-  body { background: #efebe0; }
+  body { background: #b7b3aa; }
 
   .post {
     position: relative;
     width: 1080px;
     height: 1080px;
-    background: #ffffff;
+    background: #EFEBE0;
     overflow: hidden;
+    font-family: var(--mono), monospace;
   }
-  .post.dark { background: #0e1a2b; }
 
-  /* image de base, recadree pour laisser respirer le coin haut-droit */
+  /* cadre dossier */
+  .frame {
+    position: absolute;
+    inset: 22px;
+    border: 1.5px solid #0A0A0A;
+    z-index: 6;
+    pointer-events: none;
+  }
+  .frame::after {
+    content: "";
+    position: absolute;
+    inset: 5px;
+    border: 1px solid #BDB7A8;
+  }
+
+  /* kicker */
+  .kicker {
+    position: absolute;
+    top: 46px;
+    left: 52px;
+    z-index: 7;
+    font-family: var(--mono), monospace;
+    font-size: 12px;
+    letter-spacing: 0.26em;
+    text-transform: uppercase;
+    color: #7A766D;
+  }
+  .kicker b { color: #0A0A0A; font-weight: 500; }
+  .stamp {
+    position: absolute;
+    top: 44px;
+    right: 52px;
+    z-index: 7;
+    font-family: var(--mono), monospace;
+    font-size: 11px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: #7A1D17;
+  }
+
+  /* image meme — lignes noires transparentes sur le crème */
   .scene {
     position: absolute;
     left: 50%;
-    top: 56%;
+    top: 580px;
     transform: translate(-50%, -50%);
-    width: 1180px;
-    height: 1184px;
+    width: 1140px;
+    height: 1144px;
+    z-index: 1;
   }
   .scene img { width: 100%; height: 100%; display: block; }
 
-  /* bulle de pensee */
+  /* fondu crème en bas pour absorber la foule dans le pied de page */
+  .fade {
+    position: absolute;
+    left: 0; right: 0; bottom: 0;
+    height: 230px;
+    z-index: 3;
+    background: linear-gradient(to bottom,
+      rgba(239,235,224,0) 0%,
+      rgba(239,235,224,0.92) 58%,
+      #EFEBE0 100%);
+  }
+
+  /* bulle de pensée */
   .bubble {
     position: absolute;
-    top: 70px;
-    right: 56px;
-    width: 560px;
+    top: 92px;
+    right: 70px;
+    width: 540px;
     background: #fff;
-    border: 5px solid #0A0A0A;
-    border-radius: 42px;
-    padding: 34px 38px;
-    z-index: 4;
+    border: 4px solid #0A0A0A;
+    border-radius: 60px;
+    padding: 40px 42px;
+    z-index: 5;
+    box-shadow: 9px 11px 0 rgba(10,10,10,0.16);
   }
   .bubble .txt {
     font-family: "Arial Black", "Helvetica Neue", Arial, sans-serif;
     font-weight: 900;
     font-size: 35px;
-    line-height: 1.22;
+    line-height: 1.24;
     color: #0A0A0A;
     text-align: center;
-    letter-spacing: -0.01em;
+    letter-spacing: -0.012em;
   }
   .bubble .txt em {
     font-style: normal;
     color: #7A1D17;
   }
 
-  /* petits ronds qui relient la bulle a la tete du type seul */
-  .tail { position: absolute; z-index: 4; }
-  .tail span {
+  /* puffs de pensée vers la tête du type isolé */
+  .puff {
     position: absolute;
     background: #fff;
-    border: 5px solid #0A0A0A;
+    border: 4px solid #0A0A0A;
     border-radius: 50%;
-    display: block;
-  }
-  .d1 { width: 46px; height: 46px; left: 470px; top: 322px; }
-  .d2 { width: 32px; height: 32px; left: 410px; top: 378px; }
-  .d3 { width: 20px; height: 20px; left: 366px; top: 424px; }
-
-  .logo {
-    position: absolute;
-    bottom: 22px;
-    left: 50%;
-    transform: translateX(-50%);
     z-index: 5;
-    background: #fff;
-    border: 3px solid #0A0A0A;
-    border-radius: 999px;
-    padding: 13px 30px;
+    box-shadow: 5px 6px 0 rgba(10,10,10,0.14);
   }
-  .logo img { height: 32px; display: block; }
+  .p1 { width: 52px; height: 52px; left: 486px; top: 350px; }
+  .p2 { width: 34px; height: 34px; left: 420px; top: 414px; }
+  .p3 { width: 21px; height: 21px; left: 374px; top: 462px; }
+
+  /* pied de page */
+  .foot {
+    position: absolute;
+    left: 52px; right: 52px; bottom: 50px;
+    z-index: 7;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    border-top: 1.5px solid #0A0A0A;
+    padding-top: 14px;
+  }
+  .foot .sig {
+    font-family: var(--serif), Georgia, serif;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  .foot .sig .n { font-weight: 600; color: #0A0A0A; }
+  .foot .sig .f { color: #7A766D; font-size: 12px; }
+  .foot .brand img { height: 26px; display: block; }
+  .foot .ref {
+    font-family: var(--mono), monospace;
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #7A766D;
+    text-align: right;
+  }
+  .foot .ref b { color: #0A0A0A; font-weight: 500; }
 </style>
 </head>
 <body>
 
 <div class="post">
-  <div class="scene"><img src="../tdk-base.png" alt=""></div>
+  <div class="scene"><img src="../tdk-lines.png" alt=""></div>
+  <div class="fade"></div>
+
+  <div class="kicker">§ Méthode <b>N°04 · 2026</b> — Valorisation RJ</div>
+  <div class="stamp">Le meme du dossier</div>
+
+  <span class="puff p1"></span>
+  <span class="puff p2"></span>
+  <span class="puff p3"></span>
 
   <div class="bubble">
     <div class="txt">Ils ne savent pas que l'offre la plus chère <em>perd presque toujours</em> le dossier au tribunal</div>
   </div>
 
-  <div class="tail">
-    <span class="d1"></span>
-    <span class="d2"></span>
-    <span class="d3"></span>
-  </div>
+  <div class="frame"></div>
 
-  <div class="logo"><img src="../logo.png" alt="Brantham Partners"></div>
+  <footer class="foot">
+    <div class="sig">
+      <div class="n">Paul Roulleau</div>
+      <div class="f">Brantham Partners — M&amp;A distressed</div>
+    </div>
+    <div class="ref"><b>Cadre</b> · C. com. L642-1+, L642-5<br>branthampartners.fr</div>
+  </footer>
 </div>
 
 </body>
