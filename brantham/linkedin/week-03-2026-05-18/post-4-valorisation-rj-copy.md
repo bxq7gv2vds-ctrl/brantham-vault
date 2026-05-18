@@ -58,18 +58,23 @@ Brantham Partners — M&A distressed
 - H2 : « Pourquoi l'offre la plus chère se fait éliminer au tribunal de commerce ? »
 - H3 : « Combien vaut une entreprise qui ne vaut presque plus rien ? C'est la question que tranche un tribunal. »
 
-## Visuel — meme « two buttons »
+## Visuel — meme Anakin / Padmé (retenu)
 
-Format meme « two buttons » revisité en DA Brantham (dossier brutaliste crème).
-Le repreneur hésite entre deux boutons qu'il croit opposés. Punchline : c'est un seul bouton.
+Format meme Star Wars 4 cases « for the better, right ? ... right ? » (le silence d'Anakin).
+Template visuel déjà éprouvé en semaine 02. Effet : on rit, puis on réalise le malaise.
 
-- Bouton 1 : « Mettre le prix le plus haut pour être sûr de gagner »
-- Bouton 2 : « Mettre le prix qui rassure le juge »
-- Scène : « Le repreneur, 5 minutes avant le dépôt »
-- Verdict : « Il croit que ce sont deux boutons. C'en est un seul. »
+- TL (Anakin) : « J'ai déposé l'offre la plus chère sur le dossier »
+- TR (Padmé, souriante) : « Donc le tribunal va te choisir, non ? »
+- BL (Anakin, silence) : « … »
+- BR (Padmé, inquiète) : « Le tribunal va te choisir, non ? »
 
-Template : `templates/post-4-two-buttons-lp.html`
-Rendu : `post-4-two-buttons.png` + `post-4-two-buttons-navy.png` (1080×1080, via `render.py`).
+Template : `templates/post-4-meme-anakin-lp.html` (base `anakin.png`)
+Rendu : `post-4-meme-anakin.png` + `-navy.png` (1080×1080, via `render.py`).
+
+## Visuel — alt « two buttons »
+
+Repli si on veut une version DA Brantham sans image externe.
+Template : `templates/post-4-two-buttons-lp.html` → `post-4-two-buttons.png` + `-navy.png`.
 
 ## Pourquoi ce post
 
