@@ -1,0 +1,1086 @@
+Période du 01/04/2024 au 31/12/2024
+
+
+
+
+ PAE LES LONGERAY
+74370 METZ-TESSY
+SIRET 50438944600023
+OPEN BEE FRANCE
+
+
+
+Période du 01/04/2024 au 31/12/2024 (Bilan)
+
+
+
+
+1.1         Bilan actif                                              4
+1.2         Bilan passif                                             5
+1.3         Compte de résultat                                       6
+
+
+
+2.1         Bilan actif (Détail)                                      9
+2.2         Bilan passif (Détail)                                    11
+2.3         Compte de résultat (Détail)                              13
+2.4         Soldes Intermédiaires de Gestion - Production (Détail)   18
+
+
+
+
+Mission de présentation
+Période du 01/04/2024 au 31/12/2024
+OPEN BEE FRANCE
+
+
+
+
+Mission de présentation   Page : 4 / 22
+OPEN BEE FRANCE
+
+
+
+
+Mission de présentation   Page : 5 / 22
+OPEN BEE FRANCE
+
+
+
+
+Mission de présentation   Page : 6 / 22
+OPEN BEE FRANCE
+
+
+
+
+Mission de présentation   Page : 7 / 22
+Période du 01/04/2024 au 31/12/2024
+OPEN BEE FRANCE
+
+
+
+Période du 01/04/2024 au 31/12/2024 (Bilan)
+
+
+
+
+   20300000000    FRAIS RECHERCHE/ DEVELOPPEMENT                                        15 300       15 300
+
+
+
+
+   28030000000    AMORT. FS DE RECHERCHE ET DEVE                                        -15 300      -15 053       -247     -1.64
+
+
+
+
+   20500000000    BREVETS LICENCES MARQUES                                            9 045 926    7 827 137   1 218 789    15.57
+
+
+
+
+   28050000000    AMORT.BREVETS LICENCES MARQUES                                     -4 924 594   -4 498 588    -426 006    -9.47
+
+
+
+
+   20700000000    FOND COMMERCIAL                                                      150 000      150 000
+
+                                       Total Immobilisations Incorporelles           4 271 331    3 478 796     792 535    22.78
+
+
+
+
+   21810000000    INSTALLATIONS ET AGENCEMENTS                                          98 093       98 093
+   21811000000    AUTRES IMMOBILISATIONS CORPORE                                         2 288        2 288
+   21820000000    MATERIEL DE TRANSPORT                                                 98 787       98 523         264      0.27
+   21830000000    MAT.BUREAU &INFORMAT                                                 217 576      206 564      11 012      5.33
+
+
+
+
+   28181000000    AMORTISSEMENT INSTALLATIONS ET                                        -60 898      -53 908      -6 990   -12.97
+   28181100000    AMORTISSEMENT DES AUTRES IMMOB                                           -193          -17        -176      NS
+   28182000000    AMORTISSEMENT DU VEHICULE DE T                                        -77 171      -65 764     -11 407   -17.35
+   28183000000    AMORT.MAT.BUREAU &IN                                                 -194 350     -181 117     -13 233    -7.31
+
+                                         Total Immobilisations corporelles              84 131      104 660     -20 529    -19.61
+
+
+
+
+   26100000000    TITRES OPB TU                                                        634 545      634 545
+
+
+
+
+   27100000000    TITRES IMMOBILISES                                                     6 560        6 560
+   27200000000    TITRES IMMOBILISES                                                       160          160
+
+
+
+
+   27500000000    DEPOTS & CAUTIONNEME                                                  44 682       44 682
+   27610000000    AUTRES CREANCES - GAGES                                               15 000       15 000
+
+                                          Total Immobilisations financières            700 948      700 948
+
+                                                 TOTAL Actif immobilisé              5 056 411    4 284 404    772 007     18.02
+
+
+
+
+   40910000000    FOURN.ACPTES S/COMMA                                                   1 776       96 235      -94 459   -98.15
+
+
+
+
+   41110000000    Client                                                                893 459    1 748 185    -854 726   -48.89
+   41600000000    CLIENTS DOUTEUX ET LITIGIEUX                                           43 932       39 500       4 432    11.22
+   41810000000    CLIENTS FACT. A ETAB                                                3 513 542    2 439 183   1 074 359    44.05
+
+
+
+
+Mission de présentation                                              Page : 9 / 22
+OPEN BEE FRANCE
+
+
+
+Période du 01/04/2024 au 31/12/2024 (Bilan)
+
+
+
+
+   49100000000    DEPRECIAT° COMPTES CLIENTS                                      -37 811      -33 313       -4 498    -13.5
+
+
+
+
+   42500000000    AVANCE ACPTE AU PERS                                               143                       143       NS
+   43870000000    ORG.SOC. PROD.A RECE                                               625        4 220       -3 595    -85.19
+   44400000000    ETAT IMPOTS                                                    998 082      667 418      330 664     49.54
+   44566000000    TVA DEDUCT.S/ACHATS                                             24 457       34 845      -10 388    -29.81
+   44566300000    TVA DEDUCTIBLE ENCAISSEMENTS INTRACOMMUNAUT                        983                       983       NS
+   44566400000    TVA DEDUCTIBLE DEBITS AUTO-LIQUIDATION EXPORT                   86 231                    86 231       NS
+   44586000000    TVA SUR FACTURES NON PARVENUES                                 150 338       34 191      116 147     339.7
+   44587100000    TVA SUR AVOIRS A ETABLIR                                        13 138        5 390        7 748    143.75
+   44870000000    ETAT AUTRES CHARGES A RECEVOIR                                   1 000       89 432      -88 432    -98.88
+   45120000000    EXO B CAPITAL                                                   32 283       17 167       15 116     88.05
+   46725000000    EXO B CONSULTING                                                11 963                    11 963       NS
+   46740000000    SCI MONNOURS                                                       524       10 913      -10 389     -95.2
+
+                                                    Total Créances             5 732 894    5 057 135      675 759     13.36
+
+
+
+
+   51212000000    BANQUE POPULAIRE                                               148 910       86 849       62 061     71.46
+   51216000000    BANQUE CIC                                                      46 150       48 683       -2 533      -5.2
+   51217000000    STE GENERALE                                                   848 741       90 688      758 053    835.89
+   51218000000    SG DOLLARS                                                      34 768       49 847      -15 079    -30.25
+   51222000000    CAISSE EPARGNE                                                 441 108      191 798      249 310    129.99
+   51223000000    CARTES ANYTIME                                                      82          104          -22    -21.15
+
+                                                       Total Divers            1 519 761      467 971    1 051 790    224.76
+
+
+
+
+   48600000000    CHARGES CONSTAT.D''AV                                           62 731       43 557       19 174     44.02
+
+                                               Total Actif circulant           7 317 162    5 664 900    1 652 262    29.17
+
+                                                   TOTAL ACTIF             12 373 574       9 949 305    2 424 269    24.37
+
+
+
+
+Mission de présentation                                       Page : 10 / 22
+OPEN BEE FRANCE
+
+
+
+Période du 01/04/2024 au 31/12/2024 (Bilan)
+
+
+
+
+   10130000000     CAPITAL APPELE VERSE                                                2 243 800     543 800     1 700 000   312.61
+
+
+
+
+   10610000000     RESERVES LEGALE                                                       10 000       10 000
+
+
+
+
+   10680000000     AUTRES RESERVES                                                     1 512 284    2 559 830   -1 047 546   -40.92
+
+
+
+
+   12000000000     RESULTAT DE L''EXERCICE                                                            -82 431      82 431      100
+
+
+
+
+   Résultat de l'exercice                                                               -540 129   -1 047 546     507 417     48.44
+
+                                                         Capitaux propres             3 225 954    1 983 653    1 242 301    62.63
+
+
+
+
+   15110000000     PROVISIONS POUR LITIGES                                              185 962       88 280       97 682    110.65
+   15180000000     PROVISION POUR RISQUES                                               788 361      416 261      372 100     89.39
+
+                                                                Provisions             974 323      504 541      469 782     93.11
+
+
+
+
+   16100000000     EMPRUNTS OBLIGATAIRES CONVERTIBLES                                  2 000 000    2 000 000
+
+
+
+
+   16403000000     EMPRUNT BPI FINANCEMENT 450 KE                                       158 345                   158 345       NS
+   16428000000     PRET BP 240 000 ?                                                    240 000                   240 000       NS
+   16429000000     PRET BPI 150 000                                                     150 000                   150 000       NS
+   16491000000     PRET BP 150 KE                                                        50 777                    50 777       NS
+   16492000000     PGE SG 600 KE                                                        214 099                   214 099       NS
+   16493000000     PGE CE 200 KE                                                         71 652                    71 652       NS
+   16494000000     PRET BPI SG 100 KE                                                    55 000                    55 000       NS
+   16495000000     BPI PRET 150 KE                                                       65 625                    65 625       NS
+   16496000000     PRET BP 160 000                                                      100 688                   100 688       NS
+   16497000000     PRET SG 250 000 ?                                                    110 589                   110 589       NS
+   16498000000     PRET BPI SG 500 000                                                  500 000                   500 000       NS
+   16499000000     PRET SG 240 000 ?                                                    240 000                   240 000       NS
+   16884000000     EMPRUNTS INTERETS COURUS                                               6 370                     6 370       NS
+   51860000000     BANQUE - CHARGES PAYER                                                 2 489                     2 489       NS
+
+
+
+
+   45530000000     COMPTE COURANT - DOXSA                                               500 000                   500 000       NS
+
+                                              Emprunts et dettes assimilées           4 465 638    4 348 922      116 716     2.68
+
+
+
+
+   41910000000     CLIENTS ACPTES S/COM                                                                  148         -148      -100
+
+
+
+
+   40150000000     FOURNISSEURS 3                                                       323 535      347 586      -24 051     -6.92
+   40810000000     FOURNIS.FACT.NON PAR                                                 932 319      314 151      618 168    196.77
+
+
+
+
+Mission de présentation                                              Page : 11 / 22
+OPEN BEE FRANCE
+
+
+
+Période du 01/04/2024 au 31/12/2024 (Bilan)
+
+
+
+
+   42100000000    PERSONNEL REMU DUES                                                           164 044     -164 044     -100
+   42130000000    REMUNERATIONS DUES                                                                208         -208     -100
+   42700000000    OPPOSITIONS                                                                        27          -27     -100
+   42820000000    CONGES A PAYER                                                    195 080     191 990        3 090     1.61
+   42860000000    PERSONNEL AUTRES CHG A PAYER                                      149 204      10 000      139 204      NS
+   43100000000    SECURITE SOCIALE                                                  147 194     111 141       36 053    32.44
+   43708000000    COTIS ADESAT ET DIVERS                                                667         148          519   350.68
+   43733000000    CAISSES RETRAITES CADRES                                           57 866      42 588       15 278    35.87
+   43780000000    AUTRES CAISSES                                                     11 458       5 318        6 140   115.46
+   43820000000    ORG.SOC. CH/CONGES A                                               80 889      77 743        3 146     4.05
+   43860000000    ORG.SOC. CHARGES A PAYER                                           77 220       4 377       72 843       NS
+   44210000000    VERSEMENT PAS                                                      21 203      14 961        6 242    41.72
+   44551000000    TVA A DECAISSER                                                   169 902      28 828      141 074   489.36
+   44562690000    TVA DED INTRACOM                                                      983                      983       NS
+   44562691000    TVA DEDUCT A L IMPORT                                              86 231                   86 231       NS
+   44571000000    TVA COLLECTEE S/PRESTATIONS SE                                    120 905      45 039       75 866   168.45
+   44571190000    TVA COLLECTEE VENTES 8.5 %                                          7 719       6 866          853    12.42
+   44580000000    TVA A REGULARISER                                                  71 481     177 254     -105 773   -59.67
+   44587000000    TVA SUR FACTURES A ETABLIR                                        585 590     402 269      183 321    45.57
+   44860000000    ETAT AUTRES CH. A PA                                                1 827      12 379      -10 552   -85.24
+   44862000000    TAXE D''APPRENTISSAGE PART CONVENTIONNELLE                          2 983       3 243         -260    -8.02
+   44863000000    FORMATION CONTINUE PART CONVENTIONNELLE                             3 292         375        2 917   777.87
+   44864000000    TAXE EFFORT CONSTRUCTION                                           15 182      12 910        2 272     17.6
+
+
+
+
+   41980000000    CLIENTS RRR&AV.A ACC                                               78 831      52 067       26 764     51.4
+   46720000000    MB2I                                                                1 811      83 885      -82 074   -97.84
+   47100000000    COMPTE D ATTENTE                                                               82 431      -82 431     -100
+
+                                                                Dettes            3 143 383   2 191 838     951 545    43.41
+
+
+
+
+   48700000000    PRODUITS CONSTATES D''AVANCE                                      564 275     920 203     -355 928   -38.68
+
+                                  Dettes et produits constatés d'avance           8 173 296   7 461 111    712 185      9.55
+
+                                                       Total du Passif        12 373 574      9 949 305   2 424 269    24.37
+
+
+
+
+Mission de présentation                                          Page : 12 / 22
+OPEN BEE FRANCE
+
+
+
+Période du 01/04/2024 au 31/12/2024 (Bilan)
+
+
+
+
+   70100001000    LIC OP KM VTES FR                                             975 380     476 203      499 177   104.82
+   70100002000    LIC CLOUD KM VTES FR                                        2 017 808   1 735 722      282 086    16.25
+   70100003000    LIC OP ORANGE VTES FR                                          14 157      27 303      -13 146   -48.15
+   70100004000    LIC CLOUD ORANGE VTES FR                                                1 664 357   -1 664 357     -100
+   70100005000    LIC OP AUTRES PARTENAIRES VTES FR                              26 488      65 147      -38 659   -59.34
+   70100006000    LIC CLOUD AUTRES PARTENAIRE VTES FR                         1 961 031     691 946    1 269 085   183.41
+   70100007000    LIC OP VTES DIRECTES FR                                        37 514      44 998       -7 484   -16.63
+   70100008000    LIC CLOUD VTES DIRECTES FR                                    231 055     351 719     -120 664   -34.31
+   70100010000    LICENCES CLOUD AFRIQUE                                                        945         -945     -100
+   70100013000    ON PREMISE AFRIQUE                                                           -936          936      100
+   70100016000    LIC CLOUD TOSHIBA FR                                         234 212      431 157     -196 945   -45.68
+   70100018000    LIC OP TOSHIBA FR                                              5 286        7 128       -1 842   -25.84
+   70100101000    LIC OP KM VTES EU                                             10 925       57 686      -46 761   -81.06
+   70100102000    LIC CLOUD KM VTES EU                                          34 506       54 683      -20 177    -36.9
+   70100105000    LIC OP AUTRES PARTENAIRES VTES HORS EU                        28 801       23 322        5 479    23.49
+   70100106000    LIC CLOUD AUTRE PART. Vtes EU                                 25 744       82 431      -56 687   -68.77
+   70100108000    LIC CLOUD? Vtes DIRECTES Vtes EU                              12 331        7 323        5 008    68.39
+   70100201000    LIC OP KM VTES EXPORT                                          9 782      111 053     -101 271   -91.19
+   70100202000    LIC CLOUD KM VTES EXPORT                                      22 369      121 536      -99 167   -81.59
+   70100205000    LIC OP AUTRES PARTENAIRES VTES EXPORT                         15 414      119 382     -103 968   -87.09
+   70100208000    EXPORT                                                         7 827        2 360        5 467   231.65
+   70100210000    LIC CLOUD AUTRES PARTENAIRES VTES EXPORT                      15 237       44 558      -29 321    -65.8
+   70100212000    LIC CLOUD ASIE VTES EXPORT                                     1 001        3 564       -2 563   -71.91
+   70100213000    LIC OP AFRIQUE VTES EXPORT                                                  4 305       -4 305     -100
+   70100215000    LIC OP ASIE VTES EXPORT                                                     5 081       -5 081     -100
+   70100305000    VENTES DOM                                                    19 020       46 785      -27 765   -59.35
+   70100307000    VENTES DOM                                                                  1 574       -1 574     -100
+   70100308000    LIC CLOUD VTES DIRECTES DOM                                    2 149        5 558       -3 409   -61.34
+   70100310000    LIC CLOUD AUTRES PARTENAIRES DOM                             220 721      213 417        7 304     3.42
+   70100405000    VENTES PAR EXPORTATEUR EXO                                    15 285       29 477      -14 192   -48.15
+   70100508000    LIC CLOUD AUTRE PART. St Barth                                 2 242        2 990         -748   -25.02
+   77200000000    PRODUITS DIVERS S/EX ANTERIEUR                                22 864                    22 864       NS
+
+
+
+
+   70600001000    MAINT. OP KM VTES FR                                          33 313      34 977       -1 664     -4.76
+   70600002000    INSTALL. S/ SITE KM VTES FR                                  122 808      74 317       48 491     65.25
+   70600005000    INSTALL S/ SITE ORANGE VTES FR                                             2 380       -2 380      -100
+   70600007000    MAINT OP AUTRES PARTENAIRES VTES FR                           60 676     108 885      -48 209    -44.28
+   70600008000    INSTALL S/ SITE AUTRES PARTEN. VTES FR                        52 864      30 538       22 326     73.11
+   70600010000    MAINT. OP VENTES DIREC Ventes FR                              12 499      18 628       -6 129     -32.9
+   70600011000    INSTALL S/ SITE VTES DIRECTES FR                              48 019     973 076     -925 057    -95.07
+   70600012000    INSTALL A DISTANCE VTES DIRECTES FR                           32 349      29 693        2 656      8.94
+   70600013000    FORMATIONS VTES FR                                            37 457      18 448       19 009    103.04
+   70600014000    INSTALL S/SITE TOSHIBA FR                                      3 166      26 205      -23 039    -87.92
+   70600102000    INSTALL S/SITE KM Ventes EU                                                  595         -595      -100
+   70600107000    MAINT. OP.AUTRES PARTENAIRES VTES EU                           6 376     123 687     -117 311    -94.85
+   70600108000    INSTALL S/ SITE AUTRES PARTEN. VTES EU                         4 928       9 254       -4 326    -46.75
+   70600111000    INSTALL S/SITE Vtes DIREC Vtes EU                                          4 090       -4 090      -100
+   70600112000    INSTALL DISTANCE Vtes DIR Vtes EU                              5 065       3 452        1 613     46.73
+   70600113000    FORMATIONS VTES EU                                                         1 485       -1 485      -100
+   70600130000    ADVANCE BUREAUTIQ                                                          2 340       -2 340      -100
+   70600207000    MAINT.OP AUTRES PARTEN. EXPORT                                33 473      58 092      -24 619    -42.38
+   70600208000    INSTALL S/ SITE AUTRES PARTEN. EXPORT                         13 014     184 548     -171 534    -92.95
+   70600209000    INSTALL A DISTANCE AUTRES PARTEN. EXPORT                      16 100                   16 100        NS
+   70600213000    FORMATIONS VTES EXPORT                                           720       1 440         -720       -50
+   70600302000    INSTALL SUR SITE KM Ventes DomTom                              3 094       3 094
+   70600307000    PRESTATIONS DOM                                                  179       8 096       -7 917    -97.79
+   70600308000    PRESTATIONS DOM                                               76 368      98 742      -22 374    -22.66
+   70600311000    INSTALL S/SITE Vtes DIREC Vtes Dom                               687         159          528    332.08
+   70600313000    PRESTATIONS DOM                                               22 155      42 640      -20 485    -48.04
+   70650000000    DEVELOPPEMENTS SPECIFIQUES                                                -1 255        1 255       100
+   70670000000    PRESTATIONS DE SERVICES VTES FR                                  416       1 775       -1 359    -76.56
+   70670001000    AUTRES PRESTATIONS FR                                        313 127     463 747     -150 620    -32.48
+
+
+
+
+Mission de présentation                                      Page : 13 / 22
+OPEN BEE FRANCE
+
+
+
+Période du 01/04/2024 au 31/12/2024 (Bilan)
+
+
+
+
+   71340000000    PRODUCTION STOCKEE SERVICES                                        -1 797 935   1 797 935     100
+
+
+
+
+   72000000000    PRODUCTION IMMOBILISEE                                 1 218 789   1 254 984      -36 195    -2.88
+
+
+
+
+   74000000000    SUBVENTION D''EXPLOITATION                                4 500        6 000       -1 500      -25
+
+
+
+
+   78150000000    REP/PROV. RSIQUES & CHARGES EXPLOIT                     269 318                  269 318       NS
+   78174000000    REPRISE PROVISION CLIENTS DOUTEUX                        33 313        7 334      25 979    354.23
+   79100000000    TRANSFERT CHARGES EXPLOITATION                                         6 166      -6 166      -100
+   79140000000    TRANSFERT CHARGES PERSONNELS                             52 009       83 175     -31 166    -37.47
+
+
+
+
+   75600000000    GAINS DE CHANGE S/ OP. COMMERC                            1 985        8 965       -6 980   -77.86
+   75800000000    PDT DIVERS DE GETIONS COURANTE                                3           50          -47      -94
+
+
+
+
+   60109000000    TEAMVIEWER AIC                                            3 705        5 093      -1 388    -27.25
+   67200000000    CHARGES EXERCICES ANTERIEURES                            38 738           29      38 709       NS
+
+
+
+
+   60400000000    ACHATS D''ETUDES &PRE                                   455 077      594 122     -139 045    -23.4
+   60401000000    PRESTA CONSEIL EXO B                                                  73 038      -73 038     -100
+   60405000000    ACHAT PRESTA INTRACOM                                         23       1 759       -1 736   -98.69
+   60409000000    ACHATS ETUDES PRESTAT° HORS CEE                        1 085 857     946 272      139 585    14.75
+   60409100000    ACAHTS ETUDES ET PREST CEE                                10 101       1 837        8 264   449.86
+   60610000000    FOURNITURES NON STOCKABLE EAU                              1 762       1 641          121     7.37
+   60615000000    CARBURANT VH TOURISME                                     52 257      75 168      -22 911   -30.48
+   60630000000    FOURN.ENTRET.&PETIT                                       13 400       7 856        5 544    70.57
+   60635000000    PETIT OUTILLAGE IMPORT                                     2 061         281        1 780   633.45
+   60639000000    PETIT OUTILLAGE AIC                                        4 884       8 229       -3 345   -40.65
+   60640000000    FOURNIT.ADMINISTRATI                                       5 074       3 277        1 797    54.84
+   60640500000    ACHAT FOURNITURES IMPORT                                      92          73           19    26.03
+   60649000000    FOURNITURES ADMIN AIC                                        126         266         -140   -52.63
+   61100000000    SOUS-TRAITANCE GENERALE DIVERSE                          291 014      43 336      247 678   571.53
+   61110000000    SOUS-TRAITANCE TELEPHONE                                  37 956      11 368       26 588   233.88
+   61119000000    SOUS-TRAITANCE INTRACOM                                    1 537                    1 537      NS
+   61190000000    SOUS TRAITANCE IMPORT                                      3 833       5 132       -1 299   -25.31
+   61220000000    CREDIT BAIL MOBILIER                                                 498 119     -498 119     -100
+   61261000000    BNP PARIBAS - Financ. ALTICAP                             6 147                     6 147      NS
+   61262000000    LIXXBAIL                                                149 873                   149 873      NS
+   61263000000    LIXXBAIL                                                154 964                   154 964      NS
+   61264000000    REALEASE Capital                                         64 136                    64 136      NS
+   61265000000    LIXXBAIL - LOGICIELS                                     45 612                    45 612      NS
+   61293000000    PSA FINANCE - FQ-507-AR                                   1 182                     1 182      NS
+   61296000000    CREDIPAR - FY-471-XL                                      5 441                     5 441      NS
+   61297000000    CREDIPAR - GA-074-HF                                      5 443                     5 443      NS
+   61298000000    CREDIPAR - GA-184-YA                                      5 222                     5 222      NS
+   61299000000    CREDIPAR GE-478-YP                                        5 954                     5 954      NS
+   61310000000    LOCATION VM                                               5 187       25 018      -19 831   -79.27
+   61320000000    LOCATIONS IMMOBILIER                                     57 806       82 601      -24 795   -30.02
+   61322000000    LOCATION SALLE PONCTUELLES                                1 087          616          471    76.46
+   61330000000    LOCATIONS MICROSOFT 365                                   1 133       23 920      -22 787   -95.26
+   61331100000    LLD VW GF-015-TW                                          4 422        5 896       -1 474      -25
+   61331200000    LLD VW GH-343-CP                                          3 950        5 016       -1 066   -21.25
+
+
+
+
+Mission de présentation                                 Page : 14 / 22
+OPEN BEE FRANCE
+
+
+
+Période du 01/04/2024 au 31/12/2024 (Bilan)
+
+
+
+   61331300000 LLD VW GH-344-CP                                         3 950     5 016    -1 066   -21.25
+   61331400000 LLD VW GH-747-AG                                         3 950     5 016    -1 066   -21.25
+   61331500000 LLD VW GH-958-GX                                         4 132     5 509    -1 377      -25
+   61331700000 LLD Arval GG-281-SQ                                      3 739     4 985    -1 246   -24.99
+   61331800000 LLD arval GG-824-YY                                      3 747     4 985    -1 238   -24.83
+   61331900000 GK-295-MX                                                4 286     5 715    -1 429      -25
+   61332000000 LDD GQ-624-YX                                            4 728     3 555     1 173       33
+   61332100000 GT-571-WG                                                5 355     1 209     4 146   342.93
+   61332200000 GV-233-FL                                                4 869       690     4 179   605.65
+   61332300000 LEASYS LOC                                               4 855     1 249     3 606   288.71
+   61332400000 LLD Roulenloc GT-191-YH                                  3 167               3 167       NS
+   61332500000 LLD Roulenloc WW-978-KQ                                  3 180               3 180       NS
+   61332600000 LEASYS - GT-996-PK                                       7 498               7 498       NS
+   61332700000 LEASYS - GY-086-XW                                       1 850               1 850       NS
+   61332900000 LDD VW GQ-345-RF                                         1 997               1 997       NS
+   61350000000 LOCATION VEHICULES PONCTUELLES                           3 292    10 273    -6 981   -67.95
+   61352000000 LOCATIONS MOBILIERES                                     5 805     7 549    -1 744    -23.1
+   61400000000 CHARGES LOCATIVES                                        5 992     9 354    -3 362   -35.94
+   61500000000 ENTRETIEN ET REPARATIONS                                   292        50       242      484
+   61520000000 ENTRETIEN IMMOBILIER                                     6 764     3 136     3 628   115.69
+   61551000000 ENTRETIEN VEHICULE TOURISMES                            40 827    46 262    -5 435   -11.75
+   61560000000 MAINTENANCE INFORMATIQUE                                12 931     7 938     4 993     62.9
+   61620000000 ASSURANCES VEHICULES                                    37 822    41 080    -3 258    -7.93
+   61630000000 ASSURANCE RC                                            15 659    20 879    -5 220      -25
+   61650000000 ASSURANCES CONTRAT LOCAT° / PRETS                        1 466     1 955      -489   -25.01
+   61670000000 ASSURANCE MANDATAIRE SOCIAL                              1 375     1 796      -421   -23.44
+   61820000000 FORMATIONS                                               3 250     8 820    -5 570   -63.15
+   61850000000 DOC GENERALE / SEMINAIRES                                2 792     8 976    -6 184   -68.89
+   62100000000 PERSONNEL EXTERIEUR A L''ENTREP                         91 267    31 291    59 976   191.67
+   62200000000 62200000                                                 1 904               1 904       NS
+   62220000000 COMMIS&COURT.S/VENTE                                    51 399   110 703   -59 304   -53.57
+   62261000000 HONORAIRES COMPTABLES                                   36 445    49 107   -12 662   -25.78
+   62262000000 HONORAIRES JURIDIQUES                                                650      -650     -100
+   62264000000 HONORAIRES COMM AUX COMPTES                             69 234    22 085    47 149   213.49
+   62265000000 PRESTATIONS CONSEILS EXO B CONSULTI                    187 396             187 396      NS
+   62267000000 HONORAIRES SIMON MARIE DO AIC                           21 865    12 000     9 865    82.21
+   62268000000 HONORAIRES DIVERS                                      171 536   115 961    55 575    47.93
+   62268100000 HONORAIRES DIVERS HORS UE                               31 732    11 219    20 513   182.84
+   62270000000 FRAIS ACTES & CONTEN                                       748       409       339    82.89
+   62310000000 ANNONCES ET INSERTIO                                    33 390    39 097    -5 707    -14.6
+   62311000000 RELATIONS DE PRESSE                                     28 850     7 537    21 313   282.78
+   62312000000 EVENEMENT ET ACTION INTERNE                                        1 705    -1 705     -100
+   62319000000 ANNONCES ET INSERTIONS AIC                                 623    15 761   -15 138   -96.05
+   62330000000 FOIRES ET EXPOSITIONS                                    5 000               5 000       NS
+   62340000000 CADEAUX A LA CLIENTE                                     2 270     3 723    -1 453   -39.03
+   62350000000 PRODUITS PUBLICITAIRES                                  39 226    42 125    -2 899    -6.88
+   62350010000 PUBLICITE PUBLICATIONS                                   1 327    32 828   -31 501   -95.96
+   62350020000 PUBLICATION MEDIA MARKETING DIGITAL                      4 568               4 568       NS
+   62350030000 PUBLICATION MEDIA COMMUNICATION                                    3 814    -3 814     -100
+   62359000000 PRODUITS PUBLICITAIRES AIC                              41 795    30 248    11 547    38.17
+   62360000000 CATALOGUES ET IMPRIM                                     4 278     3 217     1 061    32.98
+   62361000000 SPONSORING                                              17 213    44 914   -27 701   -61.68
+   62370000000 CHALLENGES                                               3 100    14 914   -11 814   -79.21
+   62380000000 POURBOIRES DONS COUR                                               3 186    -3 186     -100
+   62410000000 TRANSPORTS S/ACHATS                                        276       210        66    31.43
+   62420000000 TRANSPORTS S/VENTES                                        730     1 740    -1 010   -58.05
+   62500000 FRAIS DE DEPLACEMNTS                                      110 102   169 698   -59 596   -35.12
+   62500001000 FRAIS DE DEPLACEMENT                                               6 866    -6 866     -100
+   62500010000 DEPLACEMENT MISSIONS ET RECEPT                                       190      -190     -100
+   62569000000 HOME OFFICE                                                119                 119       NS
+   62569800000 FRAIS DE DEPL DIVERS                                     5 400       330     5 070       NS
+   62570000000 FRAIS DE RECEPTION                                      40 245    77 651   -37 406   -48.17
+   62570010000 FRAIS DEPLAC. JAFFRES Lilian                                         293      -293     -100
+   62580000000 INDEMNITES KM                                              399       472       -73   -15.47
+   62610000000 FRAIS POSTAUX                                            1 179     1 194       -15    -1.26
+   62611000000 FRAIS POSTAUX ET TELECOM                                   681                 681       NS
+   62620000000 FRAIS POSTAUX ET TELECOM                                   397       179       218   121.79
+   62621000000 FRAIS DE TELECOMMUNICATIONS                             10 629    13 910    -3 281   -23.59
+   62622000000 ABONNEMENTS INTERNET                                       523       780      -257   -32.95
+
+
+
+
+Mission de présentation                              Page : 15 / 22
+OPEN BEE FRANCE
+
+
+
+Période du 01/04/2024 au 31/12/2024 (Bilan)
+
+
+
+   62720000000    FRAIS S/ EMISSION D''EMPRUNTS                                       2 232         3 970    -1 738    -43.78
+   62780000000    AUTRES FRAIS ET COMM BANCAIRES                                     25 149        25 503      -354     -1.39
+   62810000000    CONCOURS DIVERS                                                     9 636        15 409    -5 773    -37.47
+   62840000000    FRAIS DE RECRUTEMENT                                               29 171         3 192    25 979    813.88
+   62850000000    FORMATION                                                           5 029                   5 029       NS
+
+
+
+
+   63120000000    TAXE APPRENTISSAGE                                                 17 683        21 414     -3 731   -17.42
+   63330000000    PART.FORM.CONTINUE(O                                               30 192        33 759     -3 567   -10.57
+   63340000000    PARTICIPATION A L''EFFORT CONST                                     2 271        12 910    -10 639   -82.41
+   63511200000    CET-CVAE                                                            3 181        16 134    -12 953   -80.28
+   63514000000    TAXE S/VEHICULES SOC                                               37 613        13 031     24 582   188.64
+   63540000000    DROITS D''ENREGIST.&T                                               1 170         1 245        -75    -6.02
+   63700000000    AUTRES ORGAN. (AUTRES IMPTS ...)                                    1 093                    1 093      NS
+   63740000000    TAXES ELIGIBLES A L''ETRANGER                                       1 982         2 030        -48    -2.36
+
+
+
+
+   64110000000    SALAIRES APPOINT.COM                                             2 553 272    2 797 117   -243 845    -8.72
+   64120000000    CONGES PAYES                                                         3 090        9 883     -6 793   -68.73
+   64130000000    PRIMES ET GRATIFICATIONS                                           159 687        9 961    149 726      NS
+   64140000000    INDEM.ET AVANTAGES D                                                54 075       72 434    -18 359   -25.35
+   64143000000    INDEMNITES DE DEPART                                                 3 850       40 490    -36 640   -90.49
+   64144000000    INDEMNITES LICENCIEMENT                                             16 448                  16 448      NS
+
+
+
+
+   64510000000    COTISATIONS A L''URSS                                             763 887       818 047    -54 160    -6.62
+   64532000000    COTIS.RETRAITE(CADRES) ET NON CADRES                              279 268       299 711    -20 443    -6.82
+   64580000000    COTISATIONS ADESAT ET DIVERS                                       20 361           573     19 788      NS
+   64581000000    Charges de sécurité sociale et de prévoyance                       59 681                   59 681      NS
+   64582000000    CHARGES SOCIALES S/CP                                               3 145         4 456     -1 311   -29.42
+   64750000000    MEDECINE DU TRAVAIL                                                 1 705        11 496     -9 791   -85.17
+   64810000000    AUTRES CHARGES DE PERS                                                 90                       90      NS
+
+
+
+
+   68111000000    DOT.AMORT.IMMO.INCOR                                              426 253     1 170 824   -744 571   -63.59
+   68112000000    DOT.AMORT.IMMO.CORPO                                               36 478        47 681    -11 203    -23.5
+
+
+
+
+   68174000000    DOTATIONS AUX DEPRE. CREANCES DOUTEUSES                            37 811         5 380    32 431    602.81
+
+
+
+
+   68150000000    DOTATIONS PROVISIONS D''EXPLOIT                                   739 100       504 541   234 559     46.49
+
+
+
+
+   65112000000    REDEVANCES MB2I GESTION LICENCE                                       963         1 284       -321      -25
+   65170000000    REDEVANCE INFOCERT                                                  1 530         2 040       -510      -25
+   65190000000    REDEVANCES OB SA SUISSE                                                         177 274   -177 274     -100
+   65410000000    PERTES S/ CREANCES IRRECOUVRAB                                     42 157         1 959     40 198      NS
+   65600000000    PERTES DE CHANGE SUR OP. COMMERCIALES                              13 209        36 751    -23 542   -64.06
+   65800000000    CHARGES DIV.GEST.COU                                                    9           653       -644   -98.62
+
+
+
+
+                                                  Résultat d'exploitation          -675 055    -1 332 510   657 455    49.34
+
+
+
+
+   76100000000    PRODUITS DE PARTICIPATIONS                                            199          157         42     26.75
+
+
+
+
+Mission de présentation                                           Page : 16 / 22
+OPEN BEE FRANCE
+
+
+
+Période du 01/04/2024 au 31/12/2024 (Bilan)
+
+
+
+
+   66110000000    INTERETS SUR EMPRUNT                                             33 968        45 870     -11 902   -25.95
+   66111600000    INTERETS EMPRUNT OBLIGATAIRE                                     49 600        20 400      29 200   143.14
+   66160000000    INTERETS BANCAIRES &                                                           15 519     -15 519     -100
+
+
+
+
+   66600000000    PERTES DE CHANGE                                                 12 756         3 101       9 655   311.35
+
+
+
+
+                                                    Résultat financier            -96 124       -84 733     -11 391   -13.44
+
+                                                    Résultat courant             -771 180    -1 417 244    646 064    45.59
+
+
+
+
+   77520000000    PDTS CESSIONS IMMOS CORPORELLES                                   1 500         2 000        -500      -25
+
+                                               Produits exceptionnels               1 500         2 000       -500       -25
+
+
+
+
+   67120000000    PENALITES ET AMENDES                                              9 960         1 964       7 996   407.13
+   67180000000    AUTRES CHARGES EXCEPTIONNELLES                                    1 720                     1 720      NS
+
+
+
+
+   67520000000    VALEURS COMPTABLES DES ELEMENT                                                    774        -774     -100
+
+                                              Charges exceptionnelles              11 681         2 738      8 943    326.63
+
+                                               Résultat exceptionnel              -10 181          -738     -9 443      NS
+
+
+
+
+   69900000000    CREDIT IMPOT                                                    -241 231      -370 436    129 205    34.88
+
+                                                  Bénéfice ou perte              -540 129    -1 047 546    507 417    48.44
+
+
+
+
+Mission de présentation                                         Page : 17 / 22
+OPEN BEE FRANCE
+
+
+
+Période du 01/04/2024 au 31/12/2024 (Bilan)
+
+
+
+
+   70100001000    LIC OP KM VTES FR                                         975 380     476 203       499 177   104.82
+   70100002000    LIC CLOUD KM VTES FR                                    2 017 808   1 735 722       282 086    16.25
+   70100003000    LIC OP ORANGE VTES FR                                      14 157      27 303       -13 146   -48.15
+   70100004000    LIC CLOUD ORANGE VTES FR                                            1 664 357    -1 664 357     -100
+   70100005000    LIC OP AUTRES PARTENAIRES VTES FR                          26 488      65 147       -38 659   -59.34
+   70100006000    LIC CLOUD AUTRES PARTENAIRE VTES FR                     1 961 031     691 946     1 269 085   183.41
+   70100007000    LIC OP VTES DIRECTES FR                                    37 514      44 998        -7 484   -16.63
+   70100008000    LIC CLOUD VTES DIRECTES FR                                231 055     351 719      -120 664   -34.31
+   70100010000    LICENCES CLOUD AFRIQUE                                                    945          -945     -100
+   70100013000    ON PREMISE AFRIQUE                                                       -936           936      100
+   70100016000    LIC CLOUD TOSHIBA FR                                     234 212      431 157      -196 945   -45.68
+   70100018000    LIC OP TOSHIBA FR                                          5 286        7 128        -1 842   -25.84
+   70100101000    LIC OP KM VTES EU                                         10 925       57 686       -46 761   -81.06
+   70100102000    LIC CLOUD KM VTES EU                                      34 506       54 683       -20 177    -36.9
+   70100105000    LIC OP AUTRES PARTENAIRES VTES HORS EU                    28 801       23 322         5 479    23.49
+   70100106000    LIC CLOUD AUTRE PART. Vtes EU                             25 744       82 431       -56 687   -68.77
+   70100108000    LIC CLOUD? Vtes DIRECTES Vtes EU                          12 331        7 323         5 008    68.39
+   70100201000    LIC OP KM VTES EXPORT                                      9 782      111 053      -101 271   -91.19
+   70100202000    LIC CLOUD KM VTES EXPORT                                  22 369      121 536       -99 167   -81.59
+   70100205000    LIC OP AUTRES PARTENAIRES VTES EXPORT                     15 414      119 382      -103 968   -87.09
+   70100208000    EXPORT                                                     7 827        2 360         5 467   231.65
+   70100210000    LIC CLOUD AUTRES PARTENAIRES VTES EXPORT                  15 237       44 558       -29 321    -65.8
+   70100212000    LIC CLOUD ASIE VTES EXPORT                                 1 001        3 564        -2 563   -71.91
+   70100213000    LIC OP AFRIQUE VTES EXPORT                                              4 305        -4 305     -100
+   70100215000    LIC OP ASIE VTES EXPORT                                                 5 081        -5 081     -100
+   70100305000    VENTES DOM                                                19 020       46 785       -27 765   -59.35
+   70100307000    VENTES DOM                                                              1 574        -1 574     -100
+   70100308000    LIC CLOUD VTES DIRECTES DOM                                2 149        5 558        -3 409   -61.34
+   70100310000    LIC CLOUD AUTRES PARTENAIRES DOM                         220 721      213 417         7 304     3.42
+   70100405000    VENTES PAR EXPORTATEUR EXO                                15 285       29 477       -14 192   -48.15
+   70100508000    LIC CLOUD AUTRE PART. St Barth                             2 242        2 990          -748   -25.02
+   70600001000    MAINT. OP KM VTES FR                                      33 313       34 977        -1 664    -4.76
+   70600002000    INSTALL. S/ SITE KM VTES FR                              122 808       74 317        48 491    65.25
+   70600005000    INSTALL S/ SITE ORANGE VTES FR                                          2 380        -2 380     -100
+   70600007000    MAINT OP AUTRES PARTENAIRES VTES FR                       60 676      108 885       -48 209   -44.28
+   70600008000    INSTALL S/ SITE AUTRES PARTEN. VTES FR                    52 864       30 538        22 326    73.11
+   70600010000    MAINT. OP VENTES DIREC Ventes FR                          12 499       18 628        -6 129    -32.9
+   70600011000    INSTALL S/ SITE VTES DIRECTES FR                          48 019      973 076      -925 057   -95.07
+   70600012000    INSTALL A DISTANCE VTES DIRECTES FR                       32 349       29 693         2 656     8.94
+   70600013000    FORMATIONS VTES FR                                        37 457       18 448        19 009   103.04
+   70600014000    INSTALL S/SITE TOSHIBA FR                                  3 166       26 205       -23 039   -87.92
+   70600102000    INSTALL S/SITE KM Ventes EU                                               595          -595     -100
+   70600107000    MAINT. OP.AUTRES PARTENAIRES VTES EU                       6 376      123 687      -117 311   -94.85
+   70600108000    INSTALL S/ SITE AUTRES PARTEN. VTES EU                     4 928        9 254        -4 326   -46.75
+   70600111000    INSTALL S/SITE Vtes DIREC Vtes EU                                       4 090        -4 090     -100
+   70600112000    INSTALL DISTANCE Vtes DIR Vtes EU                          5 065        3 452         1 613    46.73
+   70600113000    FORMATIONS VTES EU                                                      1 485        -1 485     -100
+   70600130000    ADVANCE BUREAUTIQ                                                       2 340        -2 340     -100
+   70600207000    MAINT.OP AUTRES PARTEN. EXPORT                            33 473       58 092       -24 619   -42.38
+   70600208000    INSTALL S/ SITE AUTRES PARTEN. EXPORT                     13 014      184 548      -171 534   -92.95
+   70600209000    INSTALL A DISTANCE AUTRES PARTEN. EXPORT                  16 100                     16 100       NS
+   70600213000    FORMATIONS VTES EXPORT                                       720        1 440          -720      -50
+   70600302000    INSTALL SUR SITE KM Ventes DomTom                          3 094        3 094
+   70600307000    PRESTATIONS DOM                                              179        8 096       -7 917    -97.79
+   70600308000    PRESTATIONS DOM                                           76 368       98 742      -22 374    -22.66
+   70600311000    INSTALL S/SITE Vtes DIREC Vtes Dom                           687          159          528    332.08
+   70600313000    PRESTATIONS DOM                                           22 155       42 640      -20 485    -48.04
+   70650000000    DEVELOPPEMENTS SPECIFIQUES                                             -1 255        1 255       100
+   70670000000    PRESTATIONS DE SERVICES VTES FR                              416        1 775       -1 359    -76.56
+   70670001000    AUTRES PRESTATIONS FR                                    313 127      463 747     -150 620    -32.48
+   77200000000    PRODUITS DIVERS S/EX ANTERIEUR                            22 864                    22 864       NS
+
+
+
+
+   71340000000    PRODUCTION STOCKEE SERVICES                                         -1 797 935   1 797 935      100
+
+
+
+
+Mission de présentation                                  Page : 18 / 22
+OPEN BEE FRANCE
+
+
+
+Période du 01/04/2024 au 31/12/2024 (Bilan)
+
+
+
+
+   72000000000    PRODUCTION IMMOBILISEE                             1 218 789   1 254 984    -36 195    -2.88
+
+
+
+
+   60109000000    TEAMVIEWER AIC                                        3 705       5 093      -1 388   -27.25
+
+
+
+
+   60400000000    ACHATS D''ETUDES &PRE                               455 077     594 122    -139 045    -23.4
+   60401000000    PRESTA CONSEIL EXO B                                             73 038     -73 038     -100
+   60405000000    ACHAT PRESTA INTRACOM                                     23      1 759      -1 736   -98.69
+   60409000000    ACHATS ETUDES PRESTAT° HORS CEE                    1 085 857    946 272     139 585    14.75
+   60409100000    ACAHTS ETUDES ET PREST CEE                            10 101      1 837       8 264   449.86
+
+
+
+
+   60610000000    FOURNITURES NON STOCKABLE EAU                         1 762       1 641         121     7.37
+   60615000000    CARBURANT VH TOURISME                                52 257      75 168     -22 911   -30.48
+   60630000000    FOURN.ENTRET.&PETIT                                  13 400       7 856       5 544    70.57
+   60635000000    PETIT OUTILLAGE IMPORT                                2 061         281       1 780   633.45
+   60639000000    PETIT OUTILLAGE AIC                                   4 884       8 229      -3 345   -40.65
+   60640000000    FOURNIT.ADMINISTRATI                                  5 074       3 277       1 797    54.84
+   60640500000    ACHAT FOURNITURES IMPORT                                 92          73          19    26.03
+   60649000000    FOURNITURES ADMIN AIC                                   126         266        -140   -52.63
+   61100000000    SOUS-TRAITANCE GENERALE DIVERSE                     291 014      43 336     247 678   571.53
+   61110000000    SOUS-TRAITANCE TELEPHONE                             37 956      11 368      26 588   233.88
+   61119000000    SOUS-TRAITANCE INTRACOM                               1 537                   1 537      NS
+   61190000000    SOUS TRAITANCE IMPORT                                 3 833       5 132      -1 299   -25.31
+   61220000000    CREDIT BAIL MOBILIER                                            498 119    -498 119     -100
+   61261000000    BNP PARIBAS - Financ. ALTICAP                         6 147                   6 147      NS
+   61262000000    LIXXBAIL                                            149 873                 149 873      NS
+   61263000000    LIXXBAIL                                            154 964                 154 964      NS
+   61264000000    REALEASE Capital                                     64 136                  64 136      NS
+   61265000000    LIXXBAIL - LOGICIELS                                 45 612                  45 612      NS
+   61293000000    PSA FINANCE - FQ-507-AR                               1 182                   1 182      NS
+   61296000000    CREDIPAR - FY-471-XL                                  5 441                   5 441      NS
+   61297000000    CREDIPAR - GA-074-HF                                  5 443                   5 443      NS
+   61298000000    CREDIPAR - GA-184-YA                                  5 222                   5 222      NS
+   61299000000    CREDIPAR GE-478-YP                                    5 954                   5 954      NS
+   61310000000    LOCATION VM                                           5 187      25 018     -19 831   -79.27
+   61320000000    LOCATIONS IMMOBILIER                                 57 806      82 601     -24 795   -30.02
+   61322000000    LOCATION SALLE PONCTUELLES                            1 087         616         471    76.46
+   61330000000    LOCATIONS MICROSOFT 365                               1 133      23 920     -22 787   -95.26
+   61331100000    LLD VW GF-015-TW                                      4 422       5 896      -1 474      -25
+   61331200000    LLD VW GH-343-CP                                      3 950       5 016      -1 066   -21.25
+   61331300000    LLD VW GH-344-CP                                      3 950       5 016      -1 066   -21.25
+   61331400000    LLD VW GH-747-AG                                      3 950       5 016      -1 066   -21.25
+   61331500000    LLD VW GH-958-GX                                      4 132       5 509      -1 377      -25
+   61331700000    LLD Arval GG-281-SQ                                   3 739       4 985      -1 246   -24.99
+   61331800000    LLD arval GG-824-YY                                   3 747       4 985      -1 238   -24.83
+   61331900000    GK-295-MX                                             4 286       5 715      -1 429      -25
+   61332000000    LDD GQ-624-YX                                         4 728       3 555       1 173       33
+   61332100000    GT-571-WG                                             5 355       1 209       4 146   342.93
+   61332200000    GV-233-FL                                             4 869         690       4 179   605.65
+   61332300000    LEASYS LOC                                            4 855       1 249       3 606   288.71
+   61332400000    LLD Roulenloc GT-191-YH                               3 167                   3 167      NS
+   61332500000    LLD Roulenloc WW-978-KQ                               3 180                   3 180      NS
+   61332600000    LEASYS - GT-996-PK                                    7 498                   7 498      NS
+   61332700000    LEASYS - GY-086-XW                                    1 850                   1 850      NS
+
+
+
+Mission de présentation                             Page : 19 / 22
+OPEN BEE FRANCE
+
+
+
+Période du 01/04/2024 au 31/12/2024 (Bilan)
+
+
+
+   61332900000 LDD VW GQ-345-RF                                         1 997               1 997       NS
+   61350000000 LOCATION VEHICULES PONCTUELLES                           3 292    10 273    -6 981   -67.95
+   61352000000 LOCATIONS MOBILIERES                                     5 805     7 549    -1 744    -23.1
+   61400000000 CHARGES LOCATIVES                                        5 992     9 354    -3 362   -35.94
+   61500000000 ENTRETIEN ET REPARATIONS                                   292        50       242      484
+   61520000000 ENTRETIEN IMMOBILIER                                     6 764     3 136     3 628   115.69
+   61551000000 ENTRETIEN VEHICULE TOURISMES                            40 827    46 262    -5 435   -11.75
+   61560000000 MAINTENANCE INFORMATIQUE                                12 931     7 938     4 993     62.9
+   61620000000 ASSURANCES VEHICULES                                    37 822    41 080    -3 258    -7.93
+   61630000000 ASSURANCE RC                                            15 659    20 879    -5 220      -25
+   61650000000 ASSURANCES CONTRAT LOCAT° / PRETS                        1 466     1 955      -489   -25.01
+   61670000000 ASSURANCE MANDATAIRE SOCIAL                              1 375     1 796      -421   -23.44
+   61820000000 FORMATIONS                                               3 250     8 820    -5 570   -63.15
+   61850000000 DOC GENERALE / SEMINAIRES                                2 792     8 976    -6 184   -68.89
+   62100000000 PERSONNEL EXTERIEUR A L''ENTREP                         91 267    31 291    59 976   191.67
+   62200000000 62200000                                                 1 904               1 904       NS
+   62220000000 COMMIS&COURT.S/VENTE                                    51 399   110 703   -59 304   -53.57
+   62261000000 HONORAIRES COMPTABLES                                   36 445    49 107   -12 662   -25.78
+   62262000000 HONORAIRES JURIDIQUES                                                650      -650     -100
+   62264000000 HONORAIRES COMM AUX COMPTES                             69 234    22 085    47 149   213.49
+   62265000000 PRESTATIONS CONSEILS EXO B CONSULTI                    187 396             187 396      NS
+   62267000000 HONORAIRES SIMON MARIE DO AIC                           21 865    12 000     9 865    82.21
+   62268000000 HONORAIRES DIVERS                                      171 536   115 961    55 575    47.93
+   62268100000 HONORAIRES DIVERS HORS UE                               31 732    11 219    20 513   182.84
+   62270000000 FRAIS ACTES & CONTEN                                       748       409       339    82.89
+   62310000000 ANNONCES ET INSERTIO                                    33 390    39 097    -5 707    -14.6
+   62311000000 RELATIONS DE PRESSE                                     28 850     7 537    21 313   282.78
+   62312000000 EVENEMENT ET ACTION INTERNE                                        1 705    -1 705     -100
+   62319000000 ANNONCES ET INSERTIONS AIC                                 623    15 761   -15 138   -96.05
+   62330000000 FOIRES ET EXPOSITIONS                                    5 000               5 000       NS
+   62340000000 CADEAUX A LA CLIENTE                                     2 270     3 723    -1 453   -39.03
+   62350000000 PRODUITS PUBLICITAIRES                                  39 226    42 125    -2 899    -6.88
+   62350010000 PUBLICITE PUBLICATIONS                                   1 327    32 828   -31 501   -95.96
+   62350020000 PUBLICATION MEDIA MARKETING DIGITAL                      4 568               4 568       NS
+   62350030000 PUBLICATION MEDIA COMMUNICATION                                    3 814    -3 814     -100
+   62359000000 PRODUITS PUBLICITAIRES AIC                              41 795    30 248    11 547    38.17
+   62360000000 CATALOGUES ET IMPRIM                                     4 278     3 217     1 061    32.98
+   62361000000 SPONSORING                                              17 213    44 914   -27 701   -61.68
+   62370000000 CHALLENGES                                               3 100    14 914   -11 814   -79.21
+   62380000000 POURBOIRES DONS COUR                                               3 186    -3 186     -100
+   62410000000 TRANSPORTS S/ACHATS                                        276       210        66    31.43
+   62420000000 TRANSPORTS S/VENTES                                        730     1 740    -1 010   -58.05
+   62500000 FRAIS DE DEPLACEMNTS                                      110 102   169 698   -59 596   -35.12
+   62500001000 FRAIS DE DEPLACEMENT                                               6 866    -6 866     -100
+   62500010000 DEPLACEMENT MISSIONS ET RECEPT                                       190      -190     -100
+   62569000000 HOME OFFICE                                                119                 119       NS
+   62569800000 FRAIS DE DEPL DIVERS                                     5 400       330     5 070       NS
+   62570000000 FRAIS DE RECEPTION                                      40 245    77 651   -37 406   -48.17
+   62570010000 FRAIS DEPLAC. JAFFRES Lilian                                         293      -293     -100
+   62580000000 INDEMNITES KM                                              399       472       -73   -15.47
+   62610000000 FRAIS POSTAUX                                            1 179     1 194       -15    -1.26
+   62611000000 FRAIS POSTAUX ET TELECOM                                   681                 681       NS
+   62620000000 FRAIS POSTAUX ET TELECOM                                   397       179       218   121.79
+   62621000000 FRAIS DE TELECOMMUNICATIONS                             10 629    13 910    -3 281   -23.59
+   62622000000 ABONNEMENTS INTERNET                                       523       780      -257   -32.95
+   62720000000 FRAIS S/ EMISSION D''EMPRUNTS                            2 232     3 970    -1 738   -43.78
+   62780000000 AUTRES FRAIS ET COMM BANCAIRES                          25 149    25 503      -354    -1.39
+   62810000000 CONCOURS DIVERS                                          9 636    15 409    -5 773   -37.47
+   62840000000 FRAIS DE RECRUTEMENT                                    29 171     3 192    25 979   813.88
+   62850000000 FORMATION                                                5 029               5 029       NS
+   67200000000 CHARGES EXERCICES ANTERIEURES                                        29        -29     -100
+
+
+
+
+   74000000000    SUBVENTION D''EXPLOITATION                            4 500     6 000    -1 500      -25
+
+
+
+
+Mission de présentation                              Page : 20 / 22
+OPEN BEE FRANCE
+
+
+
+Période du 01/04/2024 au 31/12/2024 (Bilan)
+
+
+
+
+   63120000000    TAXE APPRENTISSAGE                                                 17 683        21 414     -3 731   -17.42
+   63330000000    PART.FORM.CONTINUE(O                                               30 192        33 759     -3 567   -10.57
+   63340000000    PARTICIPATION A L''EFFORT CONST                                     2 271        12 910    -10 639   -82.41
+   63511200000    CET-CVAE                                                            3 181        16 134    -12 953   -80.28
+   63514000000    TAXE S/VEHICULES SOC                                               37 613        13 031     24 582   188.64
+   63540000000    DROITS D''ENREGIST.&T                                               1 170         1 245        -75    -6.02
+   63700000000    AUTRES ORGAN. (AUTRES IMPTS ...)                                    1 093                    1 093      NS
+   63740000000    TAXES ELIGIBLES A L''ETRANGER                                       1 982         2 030        -48    -2.36
+
+
+
+
+   64110000000    SALAIRES APPOINT.COM                                             2 553 272    2 797 117   -243 845    -8.72
+   64120000000    CONGES PAYES                                                         3 090        9 883     -6 793   -68.73
+   64130000000    PRIMES ET GRATIFICATIONS                                           159 687        9 961    149 726      NS
+   64140000000    INDEM.ET AVANTAGES D                                                54 075       72 434    -18 359   -25.35
+   64143000000    INDEMNITES DE DEPART                                                 3 850       40 490    -36 640   -90.49
+   64144000000    INDEMNITES LICENCIEMENT                                             16 448                  16 448      NS
+   64510000000    COTISATIONS A L''URSS                                              763 887      818 047    -54 160    -6.62
+   64532000000    COTIS.RETRAITE(CADRES) ET NON CADRES                               279 268      299 711    -20 443    -6.82
+   64580000000    COTISATIONS ADESAT ET DIVERS                                        20 361          573     19 788      NS
+   64581000000    Charges de sécurité sociale et de prévoyance                        59 681                  59 681      NS
+   64582000000    CHARGES SOCIALES S/CP                                                3 145        4 456     -1 311   -29.42
+   64750000000    MEDECINE DU TRAVAIL                                                  1 705       11 496     -9 791   -85.17
+   64810000000    AUTRES CHARGES DE PERS                                                  90                      90      NS
+
+
+
+
+   78150000000    REP/PROV. RSIQUES & CHARGES EXPLOIT                               269 318                 269 318       NS
+   78174000000    REPRISE PROVISION CLIENTS DOUTEUX                                  33 313         7 334    25 979    354.23
+   79100000000    TRANSFERT CHARGES EXPLOITATION                                                    6 166    -6 166      -100
+   79140000000    TRANSFERT CHARGES PERSONNELS                                       52 009        83 175   -31 166    -37.47
+
+
+
+
+   75600000000    GAINS DE CHANGE S/ OP. COMMERC                                      1 985         8 965     -6 980   -77.86
+   75800000000    PDT DIVERS DE GETIONS COURANTE                                          3            50        -47      -94
+
+
+
+
+   68111000000    DOT.AMORT.IMMO.INCOR                                              426 253     1 170 824   -744 571   -63.59
+   68112000000    DOT.AMORT.IMMO.CORPO                                               36 478        47 681    -11 203    -23.5
+   68150000000    DOTATIONS PROVISIONS D''EXPLOIT                                   739 100       504 541    234 559    46.49
+   68174000000    DOTATIONS AUX DEPRE. CREANCES DOUTEUSES                            37 811         5 380     32 431   602.81
+
+
+
+
+   65112000000    REDEVANCES MB2I GESTION LICENCE                                       963         1 284       -321      -25
+   65170000000    REDEVANCE INFOCERT                                                  1 530         2 040       -510      -25
+   65190000000    REDEVANCES OB SA SUISSE                                                         177 274   -177 274     -100
+   65410000000    PERTES S/ CREANCES IRRECOUVRAB                                     42 157         1 959     40 198      NS
+   65600000000    PERTES DE CHANGE SUR OP. COMMERCIALES                              13 209        36 751    -23 542   -64.06
+   65800000000    CHARGES DIV.GEST.COU                                                    9           653       -644   -98.62
+
+                                                  Résultat d'exploitation          -675 055    -1 332 510   657 455    49.34
+
+
+
+
+   76100000000    PRODUITS DE PARTICIPATIONS                                            199          157         42     26.75
+
+
+
+
+   66110000000    INTERETS SUR EMPRUNT                                               33 968        45 870    -11 902   -25.95
+   66111600000    INTERETS EMPRUNT OBLIGATAIRE                                       49 600        20 400     29 200   143.14
+
+
+
+Mission de présentation                                           Page : 21 / 22
+OPEN BEE FRANCE
+
+
+
+Période du 01/04/2024 au 31/12/2024 (Bilan)
+
+
+
+   66160000000    INTERETS BANCAIRES &                                                               15 519     -15 519     -100
+   66600000000    PERTES DE CHANGE                                                     12 756         3 101       9 655   311.35
+
+                                              Résultat courant avant impôt           -771 180    -1 417 244    646 064    45.59
+
+
+
+
+   77520000000    PDTS CESSIONS IMMOS CORPORELLES                                       1 500         2 000        -500      -25
+
+
+
+
+   67120000000    PENALITES ET AMENDES                                                  9 960         1 964       7 996   407.13
+   67180000000    AUTRES CHARGES EXCEPTIONNELLES                                        1 720                     1 720       NS
+   67520000000    VALEURS COMPTABLES DES ELEMENT                                                        774        -774     -100
+
+                                                    Résultat exceptionnel             -10 181          -738     -9 443      NS
+
+
+
+
+   69900000000    CREDIT IMPOT                                                        -241 231      -370 436    129 205    34.88
+
+                                                    Résultat de l'exercice           -540 129    -1 047 546    507 417    48.44
+
+
+
+
+Mission de présentation                                             Page : 22 / 22
+

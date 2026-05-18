@@ -1,0 +1,2277 @@
+                                                                                              Ab-Picture-Inside-bA
+
+
+
+
+KPMG SA                                                                                                              COMEXPERT SAS
+15 Rue Pré Paillard                                                                                                  7 rue Philippe Noiret
+CS 20121                                                                                                             59350 Saint-André-Lez-Lille
+74940 Annecy
+
+
+
+
+OPEN BEE FRANCE
+Rapport des commissaires aux comptes sur les comptes annuels
+
+
+
+
+Exercice clos le 31 mars 2024
+OPEN BEE FRANCE
+ZAC des Longerays 74370 METZ-TESSY
+
+
+
+
+KPMG S.A., société d’expertise comptable et de                 Société anonyme à conseil                             COMEXPERT SAS
+commissaires aux comptes inscrite au Tableau de l’Ordre des    d’administration                                      Société de commissariat aux comptes
+experts comptables de Paris sous le n° 143008010101 et         Siège social :                                        7 rue Philippe Noiret
+rattachée à la Compagnie régionale des commissaires aux        Tour EQHO                                             59350 Saint-André-Lez-Lille
+comptes de Versailles et du Centre.                            2 avenue Gambetta                                     392 866 851 RCS Lille Métropole
+Société française membre du réseau KPMG constitué de           CS 60055
+cabinets indépendants affiliés à KPMG International Limited,   92066 Paris La Défense Cedex
+une société de droit anglais ( private company limited by      Capital social : 5 497 100 €
+guarantee ).                                                   775 726 417 RCS Nanterre
+KPMG SA                                                                                       COMEXPERT SAS
+15 Rue Pré Paillard                                                                           7 rue Philippe Noiret
+CS 20121                                                                                      59350 Saint-André-Lez-Lille
+74940 Annecy
+
+
+
+
+OPEN BEE FRANCE
+
+ZAC des Longerays 74370 METZ-TESSY
+
+Rapport des commissaires aux comptes sur les comptes annuels
+
+Exercice clos le 31 mars 2024
+
+
+
+
+À la collectivité des associés de la société OPEN BEE FRANCE,
+
+Opinion avec réserve
+En exécution de la mission qui nous a été confiée par la collectivité des associés, nous avons
+effectué l’audit des comptes annuels de la société OPEN BEE FRANCE relatifs à l’exercice clos le
+31 mars 2024, tels qu’ils sont joints au présent rapport.
+Sous les réserves décrites dans la partie "Fondement de l’opinion avec réserve", nous certifions que
+les comptes annuels sont, au regard des règles et principes comptables français, réguliers et sincères
+et donnent une image fidèle du résultat des opérations de l’exercice écoulé ainsi que de la situation
+financière et du patrimoine de la société à la fin de cet exercice.
+
+Fondement de l'opinion avec réserve
+Motivation des réserves
+        1. Dans notre rapport du 31 octobre 2023 relatif à l’exercice clos le 31 mars 2023, nous avions
+           formulé une réserve en raison d’une surévaluation des stocks d’encours relatifs aux contrats
+           signés sous un modèle SaaS (Software as a Service) de 1 142 milliers d’euros. Cette
+           surévaluation des stocks d’encours ne subsiste plus à la clôture de l’exercice clos le 31 mars
+           2024, la société ayant modifié sa méthode de reconnaissance des revenus comme exposé
+           dans la note « Changement de méthode » de l’annexe. Comme mentionné dans la réserve
+           n°2 ci-dessous, nous sommes en désaccord avec la nouvelle méthode retenue par la société.
+           Cette dernière a entrainé l’annulation des stocks d’en cours comptabilisés à l’ouverture pour
+           un montant de 1 798 milliers d’euros dans les comptes de l’exercice clos le 31 mars 2024
+           dont 1 142 milliers d’euros faisaient l’objet de notre réserve à l’ouverture.
+
+
+
+
+        2. Comme exposé dans la note « Changement de méthode » de l’annexe, la société a modifié
+           sa méthode reconnaissance des revenus. Nous sommes en désaccord avec cette méthode
+
+KPMG S.A., société d’expertise comptable et de                 Société anonyme à conseil      COMEXPERT SAS
+commissaires aux comptes inscrite au Tableau de l’Ordre des    d’administration               Société de commissariat aux comptes
+experts comptables de Paris sous le n° 143008010101 et         Siège social :                 7 rue Philippe Noiret
+rattachée à la Compagnie régionale des commissaires aux        Tour EQHO                      59350 Saint-André-Lez-Lille
+comptes de Versailles et du Centre.                            2 avenue Gambetta              392 866 851 RCS Lille Métropole
+Société française membre du réseau KPMG constitué de           CS 60055
+cabinets indépendants affiliés à KPMG International Limited,   92066 Paris La Défense Cedex
+une société de droit anglais ( private company limited by      Capital social : 5 497 100 €
+guarantee ).                                                   775 726 417 RCS Nanterre
+        de reconnaissance des revenus et la comptabilisation des provisions associées. Le chiffre
+        d’affaires de l’exercice est ainsi surévalué de 2 005 milliers d’euros et les dotations aux
+        provisions pour risques et charges (charges d’exploitation) de 416 milliers d’euros, soit une
+        surévaluation du résultat de l’exercice clos le 31 mars 2024 de 1 589 milliers d’euros. Les
+        capitaux propres au 31 mars 2024 sont surévalués du même montant, en contrepartie d’une
+        surévaluation des agrégats « Clients et comptes rattachés », « Provisions pour risques » et
+        « Dettes fiscales et sociales » du bilan pour des montants respectifs de 2 406 milliers d’euros,
+        416 milliers d’euros et 401 milliers d’euros.
+
+    3. Dans notre rapport du 31 octobre 2023 relatif à l’exercice clos le 31 mars 2023, nous avions
+       formulé une réserve en raison de notre désaccord sur l’absence d’étalement du chiffre
+       d’affaires sur la durée des prestations issues de la vente de solutions informatiques sous un
+       modèle SaaS (Software as a Service) à certains clients dont la société Konica Minolta.
+       Comme exposé dans la note « Reconnaissance des revenus », pour certains clients la prise
+       de revenus des contrats SaaS se fait par le biais d’une facturation « one shot » de la totalité
+       des prestations du contrat. Le montant de notre désaccord portait sur une surévaluation du
+       chiffre d’affaires de 554 milliers d’euros de l’exercice clos le 31 mars 2023. Si l’étalement que
+       nous avons estimé nécessaire avait été enregistré, le chiffre d’affaires et le résultat de
+       l’exercice clos le 31 mars 2024 seraient inférieurs de 751 milliers d’euros.
+
+    4. Nous ne sommes pas en mesure de valider l'impact lié la modification de la reconnaissance
+       des revenus exposée dans la note « Changement de méthode » de l’annexe d’un total de 310
+       milliers d’euros sur le compte de résultat de l’exercice clos le 31 mars 2024.
+
+Référentiel d'audit
+Nous avons effectué notre audit selon les normes d’exercice professionnel applicables en France.
+Nous estimons que les éléments que nous avons collectés sont suffisants et appropriés pour fonder
+notre opinion.
+Les responsabilités qui nous incombent en vertu de ces normes sont indiquées dans la partie
+"Responsabilités des commissaires aux comptes relatives à l’audit des comptes annuels" du présent
+rapport.
+
+Indépendance
+Nous avons réalisé notre mission d’audit dans le respect des règles d’indépendance prévues par le
+code de commerce et par le code de déontologie de la profession de commissaire aux comptes, sur
+la période du 1er avril 2023 à la date d’émission de notre rapport.
+
+Justification des appréciations
+En application des dispositions des articles L.821-53 et R.821-180 du code de commerce relatives à
+la justification de nos appréciations, outre les points décrits dans la partie "Fondement de l'opinion
+avec réserve", nous vous informons que les appréciations les plus importantes auxquelles nous
+avons procédé, selon notre jugement professionnel, ont porté sur le caractère approprié des principes
+comptables appliqués et sur la présentation d’ensemble des comptes.
+
+
+
+
+OPEN BEE FRANCE
+Rapport des commissaires aux comptes sur les comptes annuels
+Exercice clos le 31 mars 2024                                                                          3
+Les appréciations ainsi portées s'inscrivent dans le contexte de l'audit des comptes annuels pris dans
+leur ensemble et de la formation de notre opinion exprimée ci-avant. Nous n'exprimons pas d'opinion
+sur des éléments de ces comptes annuels pris isolément.
+
+Vérifications spécifiques
+Nous avons également procédé, conformément aux normes d’exercice professionnel applicables en
+France, aux vérifications spécifiques prévues par les textes légaux et réglementaires.
+A l'exception de l'incidence éventuelle des points décrits dans la partie "Fondement de l'opinion avec
+réserve", nous n'avons pas d'observation à formuler sur la sincérité et la concordance avec les
+comptes annuels des informations données dans le rapport de gestion du Président et dans les
+autres documents sur la situation financière et les comptes annuels adressés aux associés, à
+l'exception du point ci-dessous.
+En application de la loi, nous vous signalons que les informations relatives aux délais de paiement
+prévues à l'article D.441-6 du code de commerce, ne sont pas mentionnées dans le rapport de
+gestion. En conséquence nous ne pouvons attester de leur sincérité et de leur concordance avec les
+comptes annuels.
+
+Responsabilités de la direction et des personnes constituant le gouvernement
+d'entreprise relatives aux comptes annuels
+Il appartient à la direction d’établir des comptes annuels présentant une image fidèle conformément
+aux règles et principes comptables français ainsi que de mettre en place le contrôle interne qu'elle
+estime nécessaire à l'établissement de comptes annuels ne comportant pas d'anomalies
+significatives, que celles-ci proviennent de fraudes ou résultent d'erreurs.
+Lors de l’établissement des comptes annuels, il incombe à la direction d’évaluer la capacité de la
+société à poursuivre son exploitation, de présenter dans ces comptes, le cas échéant, les
+informations nécessaires relatives à la continuité d’exploitation et d’appliquer la convention comptable
+de continuité d’exploitation, sauf s’il est prévu de liquider la société ou de cesser son activité.
+Les comptes annuels ont été arrêtés par le Président.
+
+Responsabilités des commissaires aux comptes relatives à l’audit des comptes
+annuels
+Il nous appartient d'établir un rapport sur les comptes annuels. Notre objectif est d'obtenir l'assurance
+raisonnable que les comptes annuels pris dans leur ensemble ne comportent pas d'anomalies
+significatives. L'assurance raisonnable correspond à un niveau élevé d'assurance, sans toutefois
+garantir qu'un audit réalisé conformément aux normes d'exercice professionnel permet de
+systématiquement détecter toute anomalie significative. Les anomalies peuvent provenir de fraudes
+ou résulter d'erreurs et sont considérées comme significatives lorsque l'on peut raisonnablement
+s'attendre à ce qu'elles puissent, prises individuellement ou en cumulé, influencer les décisions
+économiques que les utilisateurs des comptes prennent en se fondant sur ceux-ci.
+Comme précisé par l'article L.821-55 du code de commerce, notre mission de certification des
+comptes ne consiste pas à garantir la viabilité ou la qualité de la gestion de votre société.
+
+
+
+
+OPEN BEE FRANCE
+Rapport des commissaires aux comptes sur les comptes annuels
+Exercice clos le 31 mars 2024                                                                           4
+Dans le cadre d'un audit réalisé conformément aux normes d'exercice professionnel applicables en
+France, le commissaire aux comptes exerce son jugement professionnel tout au long de cet audit. En
+outre :
+
+    •   il identifie et évalue les risques que les comptes annuels comportent des anomalies
+        significatives, que celles-ci proviennent de fraudes ou résultent d'erreurs, définit et met en
+        œuvre des procédures d'audit face à ces risques, et recueille des éléments qu'il estime
+        suffisants et appropriés pour fonder son opinion. Le risque de non-détection d'une anomalie
+        significative provenant d'une fraude est plus élevé que celui d'une anomalie significative
+        résultant d'une erreur, car la fraude peut impliquer la collusion, la falsification, les omissions
+        volontaires, les fausses déclarations ou le contournement du contrôle interne ;
+    •   il prend connaissance du contrôle interne pertinent pour l'audit afin de définir des procédures
+        d'audit appropriées en la circonstance, et non dans le but d'exprimer une opinion sur
+        l'efficacité du contrôle interne ;
+    •   il apprécie le caractère approprié des méthodes comptables retenues et le caractère
+        raisonnable des estimations comptables faites par la direction, ainsi que les informations les
+        concernant fournies dans les comptes annuels ;
+    •   il apprécie le caractère approprié de l'application par la direction de la convention comptable
+        de continuité d'exploitation et, selon les éléments collectés, l'existence ou non d'une
+        incertitude significative liée à des événements ou à des circonstances susceptibles de mettre
+        en cause la capacité de la société à poursuivre son exploitation. Cette appréciation s'appuie
+        sur les éléments collectés jusqu'à la date de son rapport, étant toutefois rappelé que des
+        circonstances ou événements ultérieurs pourraient mettre en cause la continuité
+        d'exploitation. S'il conclut à l'existence d'une incertitude significative, il attire l'attention des
+        lecteurs de son rapport sur les informations fournies dans les comptes annuels au sujet de
+        cette incertitude ou, si ces informations ne sont pas fournies ou ne sont pas pertinentes, il
+        formule une certification avec réserve ou un refus de certifier ;
+    •   il apprécie la présentation d'ensemble des comptes annuels et évalue si les comptes annuels
+        reflètent les opérations et événements sous-jacents de manière à en donner une image
+        fidèle.
+ Saint-André-Lez-Lille, le 23 décembre 2024            Annecy, le 23 décembre 2024
+ COMPEXPERT                                            KPMG SA
+ [sc_sign1.signature/]                                 [sc_sign2.signature/]
+
+
+
+
+ Thierry Tabardel                                      David Caruso
+ Associé                                               Commissaire aux comptes
+
+
+
+
+OPEN BEE FRANCE
+Rapport des commissaires aux comptes sur les comptes annuels
+Exercice clos le 31 mars 2024                                                                                5
+ OPEN BEE FRANCE SAS                                                                         PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                       Compte de résultat
+                                                                                                                                Présenté en Euros
+                                                                Exercice clos le                   Exercice précédent
+                                                                                                                        Variation
+                                                                31/03/2024                         31/03/2023                             %
+                                                                  (12 mois)                           (12 mois)         absolue
+
+                                                  France        Exportations         Total              Total
+Ventes de marchandises
+Production vendue biens                            6 432 784                        6 432 784          4 678 914         1 753 870          37,48
+Production vendue services                         2 323 135                        2 323 135          1 541 778           781 357          50,68
+                  Chiffres d'affaires Nets         8 755 918                        8 755 918          6 220 692         2 535 226          40,75
+
+Production stockée                                                                  -1 797 935           755 935         -2 553 870       -337,84
+Production immobilisée                                                               1 254 984         1 112 395            142 589         12,82
+Subventions d'exploitation                                                               6 000            16 000            - 10 000       -62,50
+Reprises sur amort. et prov., transfert de charges                                      96 676           111 378            - 14 702       -13,20
+Autres produits                                                                          9 016            20 265            - 11 249       -55,51
+                                        Total des produits d'exploitation (I)       8 324 659          8 236 665             87 994           1,07
+
+Achats de marchandises (y compris droits de douane)
+Variation de stock (marchandises)
+Achats de matières premières et autres approvisionnements                                5 094                4 060           1 034         25,47
+Variation de stock (matières premières et autres approv.)
+Autres achats et charges externes                                                   3 538 958          2 634 287           904 671          34,34
+Impôts, taxes et versements assimilés                                                 100 525             93 383             7 142            7,65
+Salaires et traitements                                                             2 929 886          2 899 070            30 816            1,06
+Charges sociales                                                                    1 134 286          1 115 742            18 544            1,66
+Dotations aux amortissements sur immobilisations                                    1 218 507          1 041 934           176 573          16,95
+Dotations aux provisions sur immobilisations
+Dotations aux provisions sur actif circulant                                            5 380                 3 479           1 901         54,64
+Dotations aux provisions pour risques et charges                                      504 541                               504 541           N/S
+Autres charges                                                                        219 963             356 479         - 136 516        -38,30
+
+                                        Total des charges d'exploitation (II)       9 657 140          8 148 434         1 508 706          18,52
+
+                                        RESULTAT EXPLOITATION (I-II)               -1 332 481              88 231       -1 420 712            N/S
+Quotes-parts de résultat sur opérations faites en commun
+Bénéfice attribué ou perte transférée (III)
+Perte supportée ou bénéfice transféré (IV)
+Produits financiers de participations                                                        158                   92               66      71,74
+Produits des autres valeurs mobilières et créances
+Autres intérêts et produits assimilés
+Reprises sur provisions et transferts de charges
+Différences positives de change
+Produits nets sur cessions valeurs mobilières placement
+                                           Total des produits financiers (V)                 158                   92               66      71,74
+
+Dotations financières aux amortissements et provisions
+Intérêts et charges assimilées                                                          81 790              55 298           26 492         47,91
+Différences négatives de change                                                          3 101                 238            2 863           N/S
+Charges nettes sur cessions valeurs mobilières de placement
+                                         Total des charges financières (VI)             84 892              55 536           29 356         52,86
+
+                                          RESULTAT FINANCIER (V-VI)                   -84 734            -55 444          - 29 290          52,83
+
+             RESULTAT COURANT AVANT IMPOT (I-II+III–IV+V-VI)                       -1 417 214              32 786       -1 450 000            N/S
+
+
+
+
+                                                                 mazars safirec                                                          Page 2
+ OPEN BEE FRANCE SAS                                                                     PAE LES LONGERAY 74370 METZ-TESSY
+
+                                               Compte de résultat (suite)
+                                                                                                                              Présenté en Euros
+                                                                              Exercice clos le   Exercice précédent
+                                                                                                                      Variation
+                                                                              31/03/2024         31/03/2023                             %
+                                                                                (12 mois)           (12 mois)         absolue
+
+Produits exceptionnels sur opérations de gestion                                                            2 814         - 2 814         -100
+Produits exceptionnels sur opérations en capital                                         2 000                325           1 675       515,38
+Reprises sur provisions et transferts de charges
+                                    Total des produits exceptionnels (VII)               2 000              3 139         - 1 139        -36,29
+
+Charges exceptionnelles sur opérations de gestion                                        1 994              4 271         - 2 277        -53,31
+Charges exceptionnelles sur opérations en capital                                          775                                775          N/S
+Dotations exceptionnelles aux amortissements et provisions
+                                  Total des charges exceptionnelles (VIII)               2 769              4 271         - 1 502        -35,17
+
+                                  RESULTAT EXCEPTIONNEL (VII-VIII)                        -769            -1 131             362         32,01
+Participation des salariés (IX)
+Impôts sur les bénéfices (X)                                                       -370 436            -276 358          - 94 078        34,04
+                                           Total des Produits (I+III+V+VII)      8 326 817           8 239 896            86 921          1,05
+
+                                    Total des charges (II+IV+VI+VII+IX+X)        9 374 363           7 931 883         1 442 480         18,19
+
+                                                        RESULTAT NET          -1 047 546               308 013        -1 355 559        -440,10
+Dont Crédit-bail mobilier                                                           498 119             145 197          352 922        243,06
+
+Dont Crédit-bail immobilier
+
+
+
+
+                                                               mazars safirec                                                        Page 3
+ OPEN BEE FRANCE SAS                                                                         PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                              Bilan ACTIF
+                                                                                                                                   Présenté en Euros
+                                                                                    Exercice clos le                Exercice précédent
+                            ACTIF                                                   31/03/2024
+                                                                                      (12 mois)
+                                                                                                                    31/03/2023
+                                                                                                                       (12 mois)
+                                                                                                                                         Variation
+
+
+                                                                       Brut         Amort.prov.          Net              Net
+Capital souscrit non appelé           (0)
+Actif immobilisé
+Frais d'établissement
+Recherche et développement                                               15 300          15 054               247          3 307            - 3 060
+Concessions, brevets, droits similaires                               7 827 138       4 498 588         3 328 550      2 288 013         1 040 537
+Fonds commercial                                                        150 000                           150 000        150 000
+Autres immobilisations incorporelles
+Avances et acomptes sur immobilisations incorporelles
+Terrains
+Constructions
+Installations techniques, matériel et outillage industriels
+Autres immobilisations corporelles                                     405 469           300 808         104 661          102 448             2 213
+Immobilisations en cours
+Avances et acomptes
+Participations évaluées selon mise en équivalence
+Autres participations                                                  634 545                           634 545                           634 545
+Créances rattachées à des participations
+Autres titres immobilisés                                                 6 720                            6 720              6 576             144
+Prêts
+Autres immobilisations financières                                      59 683                            59 683            59 683
+                                                      TOTAL (I)       9 098 855       4 814 450         4 284 405      2 610 027         1 674 378
+Actif circulant
+Matières premières, approvisionnements
+En-cours de production de biens
+En-cours de production de services                                                                                     1 797 935         -1 797 935
+Produits intermédiaires et finis
+Marchandises
+Avances et acomptes versés sur commandes                                 96 236                            96 236         42 495            53 741
+Clients et comptes rattachés                                          4 290 728            33 314       4 257 414      1 952 818         2 304 596
+Autres créances
+. Fournisseurs débiteurs                                                17 627                            17 627          12 630              4 997
+. Personnel                                                                                                                  573              - 573
+. Organismes sociaux                                                     4 221                             4 221           1 484              2 737
+. Etat, impôts sur les bénéfices                                       667 418                           667 418         281 991            385 427
+. Etat, taxes sur le chiffre d'affaires                                 74 427                            74 427          53 958             20 469
+. Autres                                                               117 514                           117 514       1 087 500          - 969 986
+Capital souscrit et appelé, non versé
+Valeurs mobilières de placement
+Disponibilités                                                         467 972                           467 972          689 612         - 221 640
+Instruments de trésorerie
+Charges constatées d'avance                                             43 557                            43 557            73 542         - 29 985
+                                                      TOTAL (II)      5 779 700            33 314       5 746 386      5 994 538          - 248 152
+Charges à répartir sur plusieurs exercices (III)
+Primes de remboursement des obligations (IV)
+Ecarts de conversion actif (V)
+                                            TOTAL ACTIF (0 à V)     14 878 554        4 847 764        10 030 791      8 604 565         1 426 226
+
+
+
+
+                                                                   mazars safirec                                                         Page 4
+ OPEN BEE FRANCE SAS                                                                   PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                      Bilan (suite) PASSIF
+                                                                                                                            Présenté en Euros
+                                                                           Exercice clos le         Exercice précédent
+                                 PASSIF                                   31/03/2024
+                                                                               (12 mois)
+                                                                                                    31/03/2023
+                                                                                                       (12 mois)
+                                                                                                                              Variation
+
+
+Capitaux Propres
+Capital social ou individuel (dont versé : 543 800)                                   543 800                  100 000              443 800
+Primes d'émission, de fusion, d'apport ...
+Ecarts de réévaluation
+Réserve légale                                                                             10 000                  10 000
+Réserves statutaires ou contractuelles
+Réserves réglementées
+Autres réserves                                                                    2 559 831                2 251 817               308 014
+Report à nouveau
+Résultat de l'exercice                                                            -1 047 546                   308 013           -1 355 559
+Subventions d'investissement
+Provisions réglementées
+                                                             TOTAL (I)             2 066 084                2 669 831              - 603 747
+Produits des émissions de titres participatifs
+Avances conditionnées
+                                                            TOTAL (II)
+Provisions pour risques et charges
+Provisions pour risques                                                               504 541                                       504 541
+Provisions pour charges
+                                                            TOTAL (III)               504 541                                       504 541
+Emprunts et dettes
+Emprunts obligataires convertibles                                                 2 000 000                                      2 000 000
+Autres Emprunts obligataires
+Emprunts et dettes auprès des établissements de crédit
+. Emprunts                                                                         2 348 922                2 704 958              - 356 036
+. Découverts, concours bancaires                                                                               85 125                - 85 125
+Emprunts et dettes financières diverses
+. Divers
+. Associés
+Avances et acomptes reçus sur commandes en cours                                          148                      148
+Dettes fournisseurs et comptes rattachés                                              679 365                  735 519              - 56 154
+Dettes fiscales et sociales
+. Personnel                                                                           366 272                  381 149              - 14 877
+. Organismes sociaux                                                                  241 317                  309 595              - 68 278
+. Etat, impôts sur les bénéfices
+. Etat, taxes sur le chiffre d'affaires                                               660 257                  455 919              204 338
+. Etat, obligations cautionnées
+. Autres impôts, taxes et assimilés                                                        43 869                  48 064            - 4 195
+Dettes sur immobilisations et comptes rattachés
+Autres dettes                                                                         199 811                  189 824                    9 987
+Instruments de trésorerie
+Produits constatés d'avance                                                           920 203               1 024 433              - 104 230
+                                                           TOTAL (IV)              7 460 166                5 934 734             1 525 432
+Ecart de conversion passif (V)
+                                                  TOTAL PASSIF (I à V)           10 030 791                 8 604 565             1 426 226
+
+
+
+
+                                                              mazars safirec                                                       Page 5
+ OPEN BEE FRANCE SAS                                                           PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                                            Annexes aux comptes annuels
+
+                                                      PREAMBULE
+       L'exercice social clos le 31/03/2024 a une durée de 12 mois.
+       L'exercice précédent clos le 31/03/2023 avait une durée de 12 mois.
+
+       Le total du bilan de l'exercice avant affectation du résultat est de 10 030 790,88 E.
+
+       Le résultat net comptable est une perte de 1 047 546,46 E.
+
+     Les informations communiquées ci-après font partie intégrante des comptes annuels qui ont été établis le
+    29/11/2024 par les dirigeants.
+
+
+                         PRINCIPES COMPTABLES, METHODES D’EVALUATION,
+                                  COMPARABILITE DES COMPTES
+Les comptes annuels sont établis selon les normes définies par le plan comptable général approuvé par arrêté ministériel
+du 8 septembre 2014, en application des articles L.123-12 à L.123-28 et R.123-172 à R.123-208 du code du commerce et
+conformément aux dispositions des règlements comptables révisant le PCG établis par l’autorité des normes comptables.
+
+Afin de répondre à un objectif d’image fidèle, les conventions générales comptables ont été appliquées dans le respect
+des principes suivants :
+
+       Comparabilité des comptes annuels : permanence des méthodes
+       Indépendance des exercices
+       Continuité d’exploitation
+       Régularité
+       Sincérité
+       Importance relative
+       Prudence
+
+et conformément aux règles générales d'établissement et de présentation des comptes annuels.
+
+La méthode de base retenue pour l'évaluation des éléments inscrits en comptabilité est la méthode des coûts historiques.
+
+Lors de première application des règlements précités qui se sont imposés à l’entité à compter des exercices ouverts
+depuis le 1 janvier 2005, la société a choisi d’utiliser la méthode prospective.
+           er
+
+
+
+Les principales méthodes utilisées et les options retenues sont les suivantes :
+
+IMMOBILISATIONS INCORPORELLES ET CORPORELLES
+  Les immobilisations incorporelles et corporelles sont évaluées à leur coût d'acquisition après déduction des rabais
+  commerciaux, remises, escomptes de règlement ou à leur coût de production.
+  Les immobilisations incorporelles sont constituées entre autres de la marque OPEN BEE de 951 817.62 €.
+
+
+   Frais de recherche et développement
+   L’option pour la comptabilisation en charges des frais de développement n’a pas été retenue.
+   Les frais de recherches immobilisés engagés au cours de l’exercice se sont élevés à 1 254 984 €.
+
+FONDS Commercial (ANC règlement 2015-06 – PCG art 214-15)
+
+   La durée d’utilisation du fonds commercial est non limitée. De ce fait, le fonds commercial n’est pas amorti.
+   Un test de dépréciation a été réalisé et a conduit à constater que la valeur actuelle du fonds commercial figurant à
+   l’actif pour un montant de 150 000 euros est supérieure à sa valeur nette comptable.
+   Aucune dépréciation du fonds commercial n’a donc été constatée.
+
+
+                                                     MAZARS SAFIREC SAS                                         Page 20
+ OPEN BEE FRANCE SAS                                                             PAE LES LONGERAY 74370 METZ-TESSY
+
+
+
+
+IMMOBILISATIONS FINANCIERES
+
+   Les immobilisations financières sont évaluées à leur coût d'acquisition après déduction des rabais commerciaux,
+   remises, escomptes de règlement. Elles sont essentiellement constituées des titres OPEN BEE TUNISIE pour un
+   montant de 635 000 €.
+
+   Option pour les frais accessoires :
+
+   L’option pour l’incorporation de certains frais accessoires, liés à l’acquisition des immobilisations financières, dans le
+   coût d’entrée de l’immobilisation n’a pas été retenue. Ces frais sont comptabilisés en charge.
+
+PRODUCTION IMMOBILISEE
+
+   La société active ses frais de développement de logiciels dans la mesure où ils se rapportent à des projets nettement
+   individualisés, ayant de sérieuses chances de réussite technique et de rentabilité commerciale.
+
+   La société s’engage alors à démontrer qu’elle remplit simultanément les six critères suivants :
+       - la faisabilité technique nécessaire à l’achèvement de l’immobilisation incorporelle en vue de sa mise en service
+       ou de sa vente ;
+
+       - l’intention d’achever l’immobilisation incorporelle et de l’utiliser ou de la vendre ;
+
+       - la capacité d’utiliser ou de vendre cette immobilisation incorporelle ;
+
+       - la capacité de l’immobilisation incorporelle à générer des avantages économiques futurs, l’entreprise doit
+       notamment démontrer l’existence d’un marché pour la production issue de l’immobilisation incorporelle ou pour
+       l’immobilisation incorporelle elle-même ou, si celle-ci doit être utilisée en interne, son utilité ;
+
+       - la disponibilité de ressources (techniques, financières et autres) appropriées pour achever le développement et
+       utiliser ou vendre l’immobilisation ;
+
+       - la capacité à évaluer de façon fiable les dépenses attribuables à l’immobilisation incorporelle au cours de son
+       développement.
+   La durée d’amortissement relative aux frais de recherche et développement est fixée à 3 ans.
+
+
+AMORTISSEMENTS
+
+   Les amortissements représentent la répartition systématique du montant amortissable d’un actif en fonction de son
+   utilisation. Ils sont donc désormais calculés sur la durée d’utilisation réelle des biens.
+
+DEPRECIATIONS
+
+   La dépréciation est la constatation que la valeur d’un actif est devenue inférieure à sa valeur nette comptable.
+
+   L’entité n’a pas relevé d’indices de perte de valeur nécessitant la constatation d’une dépréciation.
+
+CREANCES
+
+   Les créances sont valorisées à leur valeur nominale. Une provision pour dépréciation est pratiquées lorsque la valeur
+   d’inventaire est inférieure à la valeur comptable.
+
+STOCKS
+
+Aucun stock constaté sur l’exercice. Une nouvelle méthode de prise en compte des revenus a été retenue (voir le
+paragraphe changement de méthode).
+
+
+
+
+                                                      MAZARS SAFIREC SAS                                              Page 21
+ OPEN BEE FRANCE SAS                                                           PAE LES LONGERAY 74370 METZ-TESSY
+
+
+OPERATIONS EN DEVISES
+
+   Les charges et les produits en devises sont enregistrés pour leur contre-valeur à la date de l'opération.
+   Les dettes, créances et disponibilités en devises figurent au bilan pour leur contre-valeur au cours de fin d'exercice.
+   La différence résultant de l'actualisation des dettes et créances en devises à ce dernier cours est portée au bilan en
+   "écart de conversion". Les pertes latentes de change non compensées font l'objet d'une provision en totalité.
+
+                                                  FAITS MARQUANTS
+
+Les faits marquants de l’exercice sont les suivants :
+
+De façon concomitante en décembre 2023 ont eu lieu :
+
+L’augmentation de capital de 443 800 € à la valeur nominale de 100 €. Le capital à la clôture de l’exercice s’élève à
+543 800 €. Cette augmentation de capital a été réalisée par compensation de la créance en compte courant avec la
+société Open Bee SA (ancien associé unique).
+
+La cession par OPEN BEE Suisse de 80 % des titres OPEN BEE France au Profit de le SAS DOXSA
+La cession par OPEN BEE Suisse de 99 % des titres OPEN BEE Tunisie au profit de OPEN BEE France. (1)
+L’acquisition de la marque OPEN BEE par OPEN BEE France auparavant détenue par OPEN BEE Suisse.
+
+Souscription d’un emprunt obligataire d’un montant total de 2 000 000 € correspondant à 2000 obligations ordinaires
+de 1000 € de valeur nominale chacune.
+
+(1) Open Bee Tunisie est considérée comme un centre de coûts permettant de créer de la valeur pour le Groupe à travers
+les économies de coûts réalisées. De ce fait, l’approche retenue pour la valorisation a consisté à estimer la valeur des
+titres sur la base des économies de coûts réalisées par le Groupe.
+
+
+                                          CONTINUITE D’EXPLOITATION
+
+La continuité d'exploitation de la société Open Bee est assurée par le soutien du groupe Doxsa. Une lettre de soutien a
+été émise à ce titre dans le cadre de l'arrêté des comptes clos le 31 mars 2024
+
+
+
+                                       RECONNAISSANCE DES REVENUS
+
+La société Open Bee France SAS produit et commercialise des solutions informatiques. Ces solutions sont
+commercialisées par Open Bee France SAS soit en direct auprès de leurs clients soit par l'intermédiaire de revendeurs.
+Ces solutions sont vendues soit en mode "on premises" soit en mode "Software as a service".
+
+Les produits correspondant aux ventes en mode "Software as a service" rémunèrent une prestation continue qui est
+l’accès des utilisateurs autorisés à l’application sur toute la durée du contrat, de manière ininterrompue. Jusqu'à la clôture
+de l'exercice précédent, les produits étaient comptabilisés au fur et à mesure de l’exécution de la prestation, de manière
+étalée sur la durée du contrat et ce au regard des facturations mensuelles réalisées à ce titre, à l'exception du contrat
+Konica Minolta. Pour ce contrat, la prise de revenus des contrats cloud Konica Minolta se fait quant à elle historiquement
+par le biais d'une facturation One Shot de la totalité du contrat au partenaire Konica Minolta.
+Sur l'exercice clos le 31 mars 2024, la société a modifié ses principes de reconnaissance de revenus pour l'ensemble des
+contrats en mode "Software as a service". Ce principe conduit à ne pas étaler les produits sur la durée du contrat et
+reconnaitre l'intégralité du chiffre d'affaires lors de la prise de commandes (signature des engagements) - cf. paragraphe
+"Changement de méthode" pour des informations complémentaires.
+
+
+
+
+                                                        MAZARS SAFIREC SAS                                           Page 22
+ OPEN BEE FRANCE SAS                                                       PAE LES LONGERAY 74370 METZ-TESSY
+
+
+
+
+                                         CHANGEMENT DE METHODE
+
+Une nouvelle méthode de reconnaissance des revenus implique désormais une prise en compte de 100% des
+commandes de logiciels passées dans l’exercice, diminuée d’un coût d’exécution statistiquement évalué à 15% du
+montant HT des dites commandes. Cette méthode est venue remplacer la méthode antérieure visant à valoriser une
+production stockée de licences non vendue. Cette méthode consiste par ailleurs à provisionner également un coût
+d’exécution du même pourcentage pour des facturations faites en une seule fois dans l’exercice, en lien avec des contrats
+de service logiciel dont la date de fin est supérieure à la date de clôture. L’impact de ce changement de méthode a un
+impact de 309 508 € sur l’amélioration du compte de résultat.
+
+
+
+                                                       FAE                         FAE
+                                                              stock
+                             FAE Brut    FAE net     nouvelle                    Méthode      (**)
+                                                              Orange
+                                                     méthode                       N-1
+
+FAE Orange (contrats      560 507        423 948     423 948                      285 242
+cloud fermes non facturés
+initiés en facturation)
+
+FAE Direct et IT(contrats     1 041
+                                         907 780     907 780     1 241 889 (*)    631 997
+cloud fermes non facturés      704
+initiés en facturation)
+FAE ALL (contrats cloud
+fermes < 31.03.2024 non      711 905     643 650     643 650                      362 289
+initiés en facturation)
+FAE On Premise                30 332      29 919      29 919
+
+
+Coût d'éxecution des
+facturations KM et                       -334 961    -334 961
+TOSHIBA 01.04.2023-
+31.03.2024 FACTURATION
+KM et TOSHIBA
+Coût d'éxecution des
+facturation LABS
+01.042023-31.03.2024
+                                         -81 300      -81 300
+FACTURATION LA
+BUREAUTIQUE
+SOLUTIONS
+                                                     1 589 035                   1 279 527
+
+(*) Dans l'ancienne méthode, un an de tacite reconduction était incorporée à chaque
+contrat
+(**) stock valorisé à 50,89% des commandes non facturées
+                                                                                 Impact
+                                                                                 309 508
+
+
+La société est dans l’incapacité de produire des comptes pro forma.
+
+
+
+                                                    MAZARS SAFIREC SAS                                         Page 23
+ OPEN BEE FRANCE SAS                                                         PAE LES LONGERAY 74370 METZ-TESSY
+
+                           AUTRES ELEMENTS SIGNIFICATIFS DE L'EXERCICE
+
+
+Tout comme en N-1, la redevance pour l’utilisation de la licence d’Open Bee SA initialement de 40% a été plafonnée à
+15%, compte tenu des développements réalisés par la société pour ajouter des fonctionnalités à l’écosystème Open BEE.
+L’abattement appliqué sur le chiffre d’affaires d’Open Bee France retenu pour le calcul de la redevance est de 70%.
+Cette redevance a cessé de s’appliquer à la date de cession de la marque à OPEN BEE France le 11/12/2023.
+Montant de la redevance sur l’exercice : 177 274 €.
+
+Deux provisions pour risques ont été constatées sur l’exercice.
+L’une concerne un litige de nature prud’homale pour 35 000 €, l’autre, un litige commercial avec le client TOTAL s’élevant
+à 53 280 €.
+Les autres produits et charges exceptionnels n’ont pas de caractère significatif et n’appellent pas d’observations
+particulières.
+
+La facturation de prestations d’Open Bee Tunisie à Open Bee France s’établit à hauteur de 946 272 €.
+
+
+
+
+                                                   MAZARS SAFIREC SAS                                            Page 24
+ OPEN BEE FRANCE SAS                                                         PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                                  Annexes aux comptes annuels (suite)
+
+                                              NOTES SUR LE BILAN ACTIF
+Frais de recherche & développement = 15 300
+Frais recherche & développement                 Valeur brute       Amortissement        Valeur nette             Taux
+        Frais recherche & développement                 15 300              15 054                 247                     %
+
+Fonds commercial (hors droit au bail) = 150 000
+          Fonds commercial                      Valeur brute       Amort./Provis.       Valeur nette             Taux
+                         Fonds acheté                  150 000                                 150 000                     %
+                       Fonds réévalué                                                                                      %
+                  Fonds reçu en apport                                                                                     %
+                               TOTAL                    150 000                                 150 000
+
+Actif immobilisé
+     Les mouvements de l'exercice sont détaillés dans les tableaux ci-dessous :
+
+     Immobilisations brutes = 9 098 855
+            Actif immobilisé                    A l'ouverture      Augmentation         Diminution            A la clôture
+            Immobilisations incorporelles             5 784 136         2 208 302                                   7 992 438
+              Immobilisations corporelles               362 577            50 669                 7 777               405 469
+              Immobilisations financières                66 259           634 689                                     700 948
+                                  TOTAL               6 212 972         2 893 660                 7 777             9 098 855
+
+     Amortissements et provisions d'actif = 4 814 450
+    Amortissements et provisions                A l'ouverture      Augmentation         Diminution            A la clôture
+           Immobilisations incorporelles              3 342 817         1 170 825                                   4 513 642
+             Immobilisations corporelles                260 129            47 682                 7 003               300 808
+               Titres mis en équivalence
+      Autres Immobilisations financières
+                                 TOTAL                 3 602 946         1 218 507                7 003            4 814 450
+
+     Détail des immobilisations et amortissements en fin de période
+    Nature des biens immobilisés                  Montant             Amortis.          Valeur nette            Durée
+        Frais recherche/ developpement                 15 300               15 054                 247                 4 ans
+     Frais recherche / autres incorporels           6 875 320           4 498 588            2 376 732                 3 ans
+ Brevets licences marques et fonds Co.              1 101 818                                1 101 818         Non amortiss
+             Installations et agencements              98 093               53 909              44 185         de 3 à 10 ans
+           Autres immobilisations corpore               2 288                   18               2 270                 4 ans
+                      Materiel de transport            98 523               65 764              32 759          de 2 à 3 ans
+                     Mat.bureau &informat             206 565              181 118              25 447          de 2 à 5 ans
+
+
+                                   TOTAL               8 397 907         4 814 450             3 583 457
+
+Etat des créances = 5 275 175
+               Etat des créances                          Montant brut               A un an               A plus d'un an
+                                    Actif immobilisé                59 683                                            59 683
+                Actif circulant & charges d'avance              5 215 492                4 061 845                 1 153 647
+                                            TOTAL               5 275 175                4 061 845                 1 213 330
+
+
+
+
+                                                       MAZARS SAFIREC SAS                                           Page 25
+ OPEN BEE FRANCE SAS                                                      PAE LES LONGERAY 74370 METZ-TESSY
+
+Provisions pour dépréciation = 33 314
+      Nature des provisions            A l'ouverture    Augmentation       utilisées    non utilisées     A la clôture
+                 Stocks et en-cours
+                   Comptes de tiers            35 268             5 380         5 375           1 959            33 314
+                Comptes financiers
+                            TOTAL              35 268             5 380         5 375           1 959            33 314
+
+Produits à recevoir par postes du bilan = 2 532 837
+                             Produits à recevoir                                                Montant
+                                                     Immobilisations financières
+                                                    Clients et comptes rattachés                              2 439 184
+                                                                 Autres créances                                 93 653
+                                                                   Disponibilités
+                                                                          TOTAL                               2 532 837
+
+Charges constatées d'avance = 43 557
+     Les charges constatées d'avance ne sont composées que de charges ordinaires dont la répercussion sur le résultat
+    est reportée à un exercice ultérieur.
+
+
+
+
+                                                 MAZARS SAFIREC SAS                                            Page 26
+ OPEN BEE FRANCE SAS                                                       PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                               Annexes aux comptes annuels (suite)
+
+                                       NOTES SUR LE BILAN PASSIF
+Capital social = 543 800
+           Mouvements des titres                        Nombre                   Val. nominale         Capital social
+                     Titres en début d'exercice                     1000                   100,00                100 000
+                                    Titres émis                     4438                   100,00                443 800
+                Titres remboursés ou annulés
+                      Titres en fin d'exercice                      5438                   100,00               543 800
+
+Provisions = 504 541
+Nature des provisions       A l'ouverture     Augmentation           Utilisées         Non utilisées      A la clôture
+ Provisions réglementées
+Provisions pour risques &
+                                                      504 541                                                   504 541
+                  charges
+                 TOTAL                                504 541                                                   504 541
+
+Etat des dettes = 7 460 017
+           Etat des dettes                  Montant total        De 0 à 1 an          De 1 à 5 ans       Plus de 5 ans
+               Etablissements de crédit          4 348 922              700 146            3 388 776             260 000
+             Dettes financières diverses
+                           Fournisseurs             679 365              679 365
+              Dettes fiscales & sociales          1 311 715            1 311 715
+             Dettes sur immobilisations
+                           Autres dettes            199 811              199 811
+            Produits constatés d'avance             920 203              415 018             505 185
+                                 TOTAL            7 460 017            3 306 055           3 893 961            260 000
+
+Charges à payer par postes du bilan = 706 000
+                               Charges à payer                                                      Montant
+                                                     Emp. & dettes établ. de crédit                               26 761
+                                                     Emp.& dettes financières div.
+                                                                    Fournisseurs                                314 152
+                                                      Dettes fiscales & sociales                                313 019
+                                                                    Autres dettes                                52 068
+                                                                           TOTAL                                706 000
+
+Produits constatés d'avance = 920 203
+
+  Les produits constatés d'avance de l'exercice comprennent essentiellement des opérations liées à l'activité "Software
+  as a service
+
+
+
+
+                                                  MAZARS SAFIREC SAS                                           Page 27
+ OPEN BEE FRANCE SAS                                                         PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                                 Annexes aux comptes annuels (suite)
+
+                                   NOTES SUR LE COMPTE DE RESULTAT
+Ventilation du chiffre d'affaires = 8 755 918
+      Le chiffre d'affaires de l'exercice se décompose de la manière suivante :
+                      Nature du chiffre d'affaires                                Montant HT              Taux
+                                                  Ventes de produits finis              6 432 784                73,47 %
+                                                  Prestations de services               2 323 135                26,53 %
+
+                                                                   TOTAL                8 755 918               100.00 %
+
+
+                                             AUTRES INFORMATIONS
+Effectif moyen
+                   Catégories de salariés                                 Salariés                   En régie
+                                                      Cadres                             48
+                             Agents de maîtrise & techniciens                             1
+                                                    Employés                              2
+                                                     Ouvriers
+                                      Apprentis sous contrat                              2
+                                                      TOTAL                              53
+
+
+
+
+Dettes garanties par des sûretés réelles
+Prêt moyen terme de 83 400 € souscrit à la Sté Générale, au taux fixe de 0.70 % réalisation 19/06/2017 remboursable en
+84 mensualités.
+Capital restant dû au 31/03/2024 : 9 135.06 €
+Garantie : Nantissement du fonds de commerce
+
+Prêt moyen terme de 300 000 € souscrit à la Sté Générale, au taux fixe de 0.90 % réalisation 17/10/2018 remboursable en
+60 mensualités.
+Capital restant dû au 31/03/2024 : 5 947.92 €
+Garantie : Nantissement du fonds de commerce
+
+Prêt PGE moyen terme de 150 000 € souscrit à la Banque Populaire au taux de 0.25 % puis 0.73 % - 72 mensualités –
+réalisation 30/05/2020. Remboursement différé de 24 mois.
+Capital restant dû au 31/03/2024 : 78 961.23 €.
+Caution apportée par la République Française.
+
+Prêt PGE moyen terme de 600 000 € souscrit à la Sté Générale au taux de 0.25 % puis 0.58 % - 48 mensualités –
+réalisation 30/05/2020. Remboursement différé de 24 mois.
+Capital restant dû au 31/03/2024 : 326 726.95 €.
+Caution apportée par la République Française.
+
+Prêt PGE moyen terme de 200 000 € souscrit à la Caisse d’Epargne au taux de 0 % puis 0.12 % - 72 mensualités –
+réalisation 30/05/2020. Remboursement différé de 24 mois.
+Capital restant dû au 31/03/2024 : 109 330.33 €.
+Caution apportée par la République Française
+Prêt PGE moyen terme de 150 000 € souscrit à la Bpi au taux de 1.75 % - 1 mensualité – réalisation 24/07/2020.
+Remboursement différé de 24 mois.
+Capital restant dû au 31/03/2024 : 93 750 €.
+Caution apportée par la République Française
+Prêt moyen terme de 160 000 € souscrit à la Banque Populaire, au taux fixe de 2.15 % réalisation 12/01/2022
+remboursable en 72 mensualités.
+Capital restant dû au 31/03/2024 : 124 188.66 €
+                                                   MAZARS SAFIREC SAS                                           Page 28
+ OPEN BEE FRANCE SAS                                                      PAE LES LONGERAY 74370 METZ-TESSY
+
+
+Garantie : Fonds Européen de Garantie : prise de garantie
+Prêt moyen terme de 250 000 € souscrit à la Sté Générale, au taux fixe de 1.51 % réalisation 17/01/2022 remboursable en
+60 mensualités.
+Capital restant dû au 31/03/2024 : 148 120.59 €
+Garantie : Caution BPI France à 50% de l’encours du prêt et nantissement du fonds de commerce
+
+Prêt moyen terme de 240 000 € souscrit à la Sté Générale, au taux fixe de 4.50 % réalisation 17/02/2022 remboursable en
+31 trimestres.
+Capital restant dû au 31/03/2024 : 240 000 €
+Garantie : Caution apportée par la République Française
+
+Prêt moyen terme de 300 000 € BPI / SG, au taux fixe de 3.20 % réalisation 04/12/2018 remboursable en 8 trimestres
+avec différé d’amortissement. Fin d’amortissement le 31/12/2025.
+Capital restant dû au 31/03/2024 : 150 000 €
+Garantie : Fonds national de Garantie à hauteur de 30% et Fonds Européen d’investissement à hauteur de 50%.
+
+Prêt moyen terme de 300 000 € BPI / Banque Populaire, au taux fixe de 4.05 % réalisation 07/06/2023 remboursable en
+20 trimestres avec différé d’amortissement. Fin d’amortissement le 30/09/2030.
+Capital restant dû au 31/03/2024 : 150 000 €
+
+
+Autres engagements hors bilan
+
+
+  •   Indemnités de fin de carrière :
+         Base des salaires du mois : 03/2024
+         Date d’évaluation des IFC : 31/03/2024
+         Turn over retenu : 3%
+         Taux d’évolution des salaires : 1.50 %
+         Taux d’actualisation : 3.40 %
+         Date de départ à la retraite : 65 ans
+         Modalité de départ à la retraite : à l’initiative du salarié
+         Taux de charges sociales : Etude avec charges sociales
+         Table de mortalité 2012-2014 H/F en France métropolitaine
+         Montant probable du cout des indemnités à terme : 845 010 €
+         Montant actualisé du cout probable des indemnités : 373 729 €
+      Montant de l’engagement des IFC, selon les paramètres et hypothèses retenues : 106 909 €
+
+
+
+
+                                                  MAZARS SAFIREC SAS                                          Page 29
+ OPEN BEE FRANCE SAS                                                  PAE LES LONGERAY 74370 METZ-TESSY
+
+
+Annexes aux comptes annuels (suite)
+Tableaux financiers relatifs aux crédits-baux en cours
+         Redevances payées                   Immobilier    Mat. & Outil.    Autres immob.     TOTAL
+Cumuls des exercices antérieurs                                                     241 550      241 550
+Montants de l'exercice                                                              498 119      498 119
+                             Sous-total                                             739 669      739 669
+
+       Redevances restant dues               Immobilier    Mat. & Outil.    Autres immob.     TOTAL
+A 1 an au plus                                                                      886 265      886 265
+Entre 1 et 5 ans                                                                    742 198      742 198
+A plus de 5 ans
+                           Sous-total                                             1 628 463     1 628 463
+
+            Valeur résiduelle                Immobilier    Mat. & Outil.    Autres immob.     TOTAL
+A 1 an au plus
+Entre 1 et 5 ans                                                                   106 515        106 515
+A plus de 5 ans
+                                Sous-total                                         131 201        131 201
+
+        Coût total du crédit-bail            Immobilier    Mat. & Outil.    Autres immob.     TOTAL
+                                    TOTAL                                         2 499 333     2 499 333
+
+
+
+
+                                                 MAZARS SAFIREC SAS                              Page 30
+ OPEN BEE FRANCE SAS                                                       PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                                  Annexes aux comptes annuels (suite)
+
+           DETAIL DES POSTES CONCERNES PAR LE CHEVAUCHEMENT D'EXERCICE
+Les comptes détaillés dans les tableaux suivants concernent les écritures comptables relatives à l'indépendance des
+exercices.
+
+Produits à recevoir = 2 532 837
+
+                      Produits à recevoir sur clts et comptes rattachés                                  Montant
+                                                            Clients fact. a etab( 41810000000 )              2 439 184
+
+                                                                                         TOTAL                 2 439 184
+
+                           Produits à recevoir sur autres créances                                       Montant
+                                                           Org.soc. prod.a rece( 43870000000 )                      4 221
+                                                 Etat autres charges a recevoir( 44870000000 )                     89 432
+
+                                                                                         TOTAL                     93 653
+
+Charges constatées d'avance = 43 557
+                                  Charges constatées d'avance                                            Montant
+                                                          Charges constat.d'av( 48600000000 )                      43 557
+
+                                                                                         TOTAL                     43 557
+
+Charges à payer = 706 000
+
+                        Emprunts & dettes auprès des étab. De crédit                                     Montant
+                                                    Emprunts interets courus( 16884000000 )                        26 761
+
+                                                                                         TOTAL                     26 761
+
+                          Dettes fournisseurs et comptes rattachés                                       Montant
+                                                          Fournis.fact.non par( 40810000000 )                  314 152
+
+                                                                                         TOTAL                   314 152
+
+                                   Dettes fiscales et sociales                                           Montant
+                                                                 Conges a payer( 42820000000 )                 191 991
+                                                   Personnel autres chg a payer( 42860000000 )                   10 000
+                                                           Org.soc. ch/conges a( 43820000000 )                   77 744
+                                                       Org.soc. charges a payer( 43860000000 )                    4 377
+                                                             Etat autres ch. a pa( 44860000000 )                 12 379
+                                       Taxe d'apprentissage part conventionnelle( 44862000000 )                   3 243
+                                        Formation continue part conventionnelle( 44863000000 )                      375
+                                                         Taxe effort construction( 44864000000 )                 12 911
+
+                                                                                         TOTAL                   313 019
+
+                                         Autres dettes                                                   Montant
+                                                             Clients rrr&av.a acc( 41980000000 )                   52 068
+
+                                                                                         TOTAL                     52 068
+
+
+
+
+                                                  MAZARS SAFIREC SAS                                           Page 31
+ OPEN BEE FRANCE SAS                                                 PAE LES LONGERAY 74370 METZ-TESSY
+
+Produits constatés d'avance = 920 203
+                             Produits constatés d'avance                                  Montant
+                                             Produits constates d'avance( 48700000000 )             920 203
+
+                                                                                TOTAL               920 203
+
+
+
+
+                                              MAZARS SAFIREC SAS                                Page 32
+ OPEN BEE FRANCE SAS                                                             PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                                    Annexes aux comptes annuels (suite)
+
+                                   RÉSULTATS DES 5 DERNIERS EXERCICES
+Art : 133 et 148 du décret sur les sociétés commerciales
+
+Tableau
+                Nature des Indications / Périodes               31/03/2024    31/03/2023   31/03/2022   31/03/2021   31/12/2019
+                         Durée de l'exercice                     12 mois       12 mois      12 mois      15 mois      12 mois
+I - Situation financière en fin d'exercice
+a ) Capital social                                                 543 800       100 000      100 000      100 000      100 000
+b ) Nombre d'actions émises                                          4 438
+c ) Nombre d'obligations convertibles en actions
+II - Résultat global des opérations effectives
+a ) Chiffre d'affaires hors taxes                                8 755 918    6 220 692    5 111 579    5 195 046     4 861 472
+b ) Bénéfice avant impôt, amortissements & provisions              303 111    1 036 860      911 751      759 725       816 835
+c ) Impôt sur les bénéfices                                       -370 436     -276 358     -306 033     -363 986      -220 009
+d ) Bénéfice après impôt, mais avant amortissements &
+                                                                   673 547    1 313 218    1 217 784    1 123 711     1 036 844
+provisions
+e ) Bénéfice après impôt, amortissements & provisions           -1 047 546       308 013      275 169      186 179      288 674
+f ) Montants des bénéfices distribués
+g ) Participation des salariés
+III - Résultat des opérations réduit à une seule action
+a ) Bénéfice après impôt, mais avant amortissements                     124
+b ) Bénéfice après impôt, amortissements provisions                    -193
+c ) Dividende versé à chaque action
+IV - Personnel :
+a ) Nombre de salariés                                                  52           49           43           37            37
+b ) Montant de la masse salariale                                2 929 886    2 899 070    2 586 117    2 662 196     1 775 935
+c ) Montant des sommes versées au titre des avantages
+                                                                 1 134 286    1 115 742    1 002 490    1 037 800       680 316
+sociaux
+
+
+
+
+                                                          MAZARS SAFIREC SAS                                         Page 33
+ OPEN BEE FRANCE SAS                                                                          PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                                     Annexes aux comptes annuels (suite)
+
+                                  TABLEAU DES FILIALES ET PARTICIPATIONS
+Tableau
+   Filiales et     Capital   Réserves et   Quote-    Valeur brute    Valeur       Prêts et    Cautions et    C.A. H.T.    Résultat du      Dividendes
+                   social     report à     part du    des titres    nette des    avances        avals       du dernier      dernier      encaissés par la
+ participations               nouveau      capital     détenus        titres    consenties    donnés par     exercice    exercice clos    Sté dans l’ex
+                                           détenu                   détenus      par la Sté     la Sté         clos
+                                            en %
+ A – Renseignements détaillés concernant les filiales & participations
+- Filiales (plus de 50% du capital détenu)
+OPEN BEE               5 970    27 340     99 634 545                                                        1 182 390           4 855
+TUNISIE
+
+
+
+
+Participations (10 à 50 % du capital détenu)
+
+
+
+
+B – Renseignements globaux concernant les autres filiales & participations
+- Filiales non reprises en A:
+
+a ) Françaises
+b ) Etrangères
+ Participations non reprises en A:
+a) Françaises
+b) Etrangères
+
+
+
+
+                                                             MAZARS SAFIREC SAS                                                              Page 34
+OPEN BEE FRANCE SAS
+      PAE LES LONGERAY
+      74370 METZ-TESSY
+
+ Numéro SIRET : 50438944600023
+
+      COMPTES ANNUELS
+   du 01/04/2023 au 31/03/2024
+
+
+
+
+   MAZARS SAFIREC SAS
+     245 AVENUE RENE CASSIN
+           LE CRYSALIS
+    73290 LA MOTTE-SERVOLEX
+           04 79 69 77 32
+
+  www.forvismazars.com/fr
+ OPEN BEE FRANCE SAS                                                                         PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                       Compte de résultat
+                                                                                                                                Présenté en Euros
+                                                                Exercice clos le                   Exercice précédent
+                                                                                                                        Variation
+                                                                31/03/2024                         31/03/2023                             %
+                                                                  (12 mois)                           (12 mois)         absolue
+
+                                                  France        Exportations         Total              Total
+Ventes de marchandises
+Production vendue biens                            6 432 784                        6 432 784          4 678 914         1 753 870          37,48
+Production vendue services                         2 323 135                        2 323 135          1 541 778           781 357          50,68
+                  Chiffres d'affaires Nets         8 755 918                        8 755 918          6 220 692         2 535 226          40,75
+
+Production stockée                                                                  -1 797 935           755 935         -2 553 870       -337,84
+Production immobilisée                                                               1 254 984         1 112 395            142 589         12,82
+Subventions d'exploitation                                                               6 000            16 000            - 10 000       -62,50
+Reprises sur amort. et prov., transfert de charges                                      96 676           111 378            - 14 702       -13,20
+Autres produits                                                                          9 016            20 265            - 11 249       -55,51
+                                        Total des produits d'exploitation (I)       8 324 659          8 236 665             87 994           1,07
+
+Achats de marchandises (y compris droits de douane)
+Variation de stock (marchandises)
+Achats de matières premières et autres approvisionnements                                5 094                4 060           1 034         25,47
+Variation de stock (matières premières et autres approv.)
+Autres achats et charges externes                                                   3 538 958          2 634 287           904 671          34,34
+Impôts, taxes et versements assimilés                                                 100 525             93 383             7 142            7,65
+Salaires et traitements                                                             2 929 886          2 899 070            30 816            1,06
+Charges sociales                                                                    1 134 286          1 115 742            18 544            1,66
+Dotations aux amortissements sur immobilisations                                    1 218 507          1 041 934           176 573          16,95
+Dotations aux provisions sur immobilisations
+Dotations aux provisions sur actif circulant                                            5 380                 3 479           1 901         54,64
+Dotations aux provisions pour risques et charges                                      504 541                               504 541           N/S
+Autres charges                                                                        219 963             356 479         - 136 516        -38,30
+
+                                        Total des charges d'exploitation (II)       9 657 140          8 148 434         1 508 706          18,52
+
+                                        RESULTAT EXPLOITATION (I-II)               -1 332 481              88 231       -1 420 712            N/S
+Quotes-parts de résultat sur opérations faites en commun
+Bénéfice attribué ou perte transférée (III)
+Perte supportée ou bénéfice transféré (IV)
+Produits financiers de participations                                                        158                   92               66      71,74
+Produits des autres valeurs mobilières et créances
+Autres intérêts et produits assimilés
+Reprises sur provisions et transferts de charges
+Différences positives de change
+Produits nets sur cessions valeurs mobilières placement
+                                           Total des produits financiers (V)                 158                   92               66      71,74
+
+Dotations financières aux amortissements et provisions
+Intérêts et charges assimilées                                                          81 790              55 298           26 492         47,91
+Différences négatives de change                                                          3 101                 238            2 863           N/S
+Charges nettes sur cessions valeurs mobilières de placement
+                                         Total des charges financières (VI)             84 892              55 536           29 356         52,86
+
+                                          RESULTAT FINANCIER (V-VI)                   -84 734            -55 444          - 29 290          52,83
+
+             RESULTAT COURANT AVANT IMPOT (I-II+III–IV+V-VI)                       -1 417 214              32 786       -1 450 000            N/S
+
+
+
+
+                                                                 mazars safirec                                                          Page 2
+ OPEN BEE FRANCE SAS                                                                     PAE LES LONGERAY 74370 METZ-TESSY
+
+                                               Compte de résultat (suite)
+                                                                                                                              Présenté en Euros
+                                                                              Exercice clos le   Exercice précédent
+                                                                                                                      Variation
+                                                                              31/03/2024         31/03/2023                             %
+                                                                                (12 mois)           (12 mois)         absolue
+
+Produits exceptionnels sur opérations de gestion                                                            2 814         - 2 814         -100
+Produits exceptionnels sur opérations en capital                                         2 000                325           1 675       515,38
+Reprises sur provisions et transferts de charges
+                                    Total des produits exceptionnels (VII)               2 000              3 139         - 1 139        -36,29
+
+Charges exceptionnelles sur opérations de gestion                                        1 994              4 271         - 2 277        -53,31
+Charges exceptionnelles sur opérations en capital                                          775                                775          N/S
+Dotations exceptionnelles aux amortissements et provisions
+                                  Total des charges exceptionnelles (VIII)               2 769              4 271         - 1 502        -35,17
+
+                                  RESULTAT EXCEPTIONNEL (VII-VIII)                        -769            -1 131             362         32,01
+Participation des salariés (IX)
+Impôts sur les bénéfices (X)                                                       -370 436            -276 358          - 94 078        34,04
+                                           Total des Produits (I+III+V+VII)      8 326 817           8 239 896            86 921          1,05
+
+                                    Total des charges (II+IV+VI+VII+IX+X)        9 374 363           7 931 883         1 442 480         18,19
+
+                                                        RESULTAT NET          -1 047 546               308 013        -1 355 559        -440,10
+Dont Crédit-bail mobilier                                                           498 119             145 197          352 922        243,06
+
+Dont Crédit-bail immobilier
+
+
+
+
+                                                               mazars safirec                                                        Page 3
+ OPEN BEE FRANCE SAS                                                                         PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                              Bilan ACTIF
+                                                                                                                                   Présenté en Euros
+                                                                                    Exercice clos le                Exercice précédent
+                            ACTIF                                                   31/03/2024
+                                                                                      (12 mois)
+                                                                                                                    31/03/2023
+                                                                                                                       (12 mois)
+                                                                                                                                         Variation
+
+
+                                                                       Brut         Amort.prov.          Net              Net
+Capital souscrit non appelé           (0)
+Actif immobilisé
+Frais d'établissement
+Recherche et développement                                               15 300          15 054               247          3 307            - 3 060
+Concessions, brevets, droits similaires                               7 827 138       4 498 588         3 328 550      2 288 013         1 040 537
+Fonds commercial                                                        150 000                           150 000        150 000
+Autres immobilisations incorporelles
+Avances et acomptes sur immobilisations incorporelles
+Terrains
+Constructions
+Installations techniques, matériel et outillage industriels
+Autres immobilisations corporelles                                     405 469           300 808         104 661          102 448             2 213
+Immobilisations en cours
+Avances et acomptes
+Participations évaluées selon mise en équivalence
+Autres participations                                                  634 545                           634 545                           634 545
+Créances rattachées à des participations
+Autres titres immobilisés                                                 6 720                            6 720              6 576             144
+Prêts
+Autres immobilisations financières                                      59 683                            59 683            59 683
+                                                      TOTAL (I)       9 098 855       4 814 450         4 284 405      2 610 027         1 674 378
+Actif circulant
+Matières premières, approvisionnements
+En-cours de production de biens
+En-cours de production de services                                                                                     1 797 935         -1 797 935
+Produits intermédiaires et finis
+Marchandises
+Avances et acomptes versés sur commandes                                 96 236                            96 236         42 495            53 741
+Clients et comptes rattachés                                          4 290 728            33 314       4 257 414      1 952 818         2 304 596
+Autres créances
+. Fournisseurs débiteurs                                                17 627                            17 627          12 630              4 997
+. Personnel                                                                                                                  573              - 573
+. Organismes sociaux                                                     4 221                             4 221           1 484              2 737
+. Etat, impôts sur les bénéfices                                       667 418                           667 418         281 991            385 427
+. Etat, taxes sur le chiffre d'affaires                                 74 427                            74 427          53 958             20 469
+. Autres                                                               117 514                           117 514       1 087 500          - 969 986
+Capital souscrit et appelé, non versé
+Valeurs mobilières de placement
+Disponibilités                                                         467 972                           467 972          689 612         - 221 640
+Instruments de trésorerie
+Charges constatées d'avance                                             43 557                            43 557            73 542         - 29 985
+                                                      TOTAL (II)      5 779 700            33 314       5 746 386      5 994 538          - 248 152
+Charges à répartir sur plusieurs exercices (III)
+Primes de remboursement des obligations (IV)
+Ecarts de conversion actif (V)
+                                            TOTAL ACTIF (0 à V)     14 878 554        4 847 764        10 030 791      8 604 565         1 426 226
+
+
+
+
+                                                                   mazars safirec                                                         Page 4
+ OPEN BEE FRANCE SAS                                                                   PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                      Bilan (suite) PASSIF
+                                                                                                                            Présenté en Euros
+                                                                           Exercice clos le         Exercice précédent
+                                 PASSIF                                   31/03/2024
+                                                                               (12 mois)
+                                                                                                    31/03/2023
+                                                                                                       (12 mois)
+                                                                                                                              Variation
+
+
+Capitaux Propres
+Capital social ou individuel (dont versé : 543 800)                                   543 800                  100 000              443 800
+Primes d'émission, de fusion, d'apport ...
+Ecarts de réévaluation
+Réserve légale                                                                             10 000                  10 000
+Réserves statutaires ou contractuelles
+Réserves réglementées
+Autres réserves                                                                    2 559 831                2 251 817               308 014
+Report à nouveau
+Résultat de l'exercice                                                            -1 047 546                   308 013           -1 355 559
+Subventions d'investissement
+Provisions réglementées
+                                                             TOTAL (I)             2 066 084                2 669 831              - 603 747
+Produits des émissions de titres participatifs
+Avances conditionnées
+                                                            TOTAL (II)
+Provisions pour risques et charges
+Provisions pour risques                                                               504 541                                       504 541
+Provisions pour charges
+                                                            TOTAL (III)               504 541                                       504 541
+Emprunts et dettes
+Emprunts obligataires convertibles                                                 2 000 000                                      2 000 000
+Autres Emprunts obligataires
+Emprunts et dettes auprès des établissements de crédit
+. Emprunts                                                                         2 348 922                2 704 958              - 356 036
+. Découverts, concours bancaires                                                                               85 125                - 85 125
+Emprunts et dettes financières diverses
+. Divers
+. Associés
+Avances et acomptes reçus sur commandes en cours                                          148                      148
+Dettes fournisseurs et comptes rattachés                                              679 365                  735 519              - 56 154
+Dettes fiscales et sociales
+. Personnel                                                                           366 272                  381 149              - 14 877
+. Organismes sociaux                                                                  241 317                  309 595              - 68 278
+. Etat, impôts sur les bénéfices
+. Etat, taxes sur le chiffre d'affaires                                               660 257                  455 919              204 338
+. Etat, obligations cautionnées
+. Autres impôts, taxes et assimilés                                                        43 869                  48 064            - 4 195
+Dettes sur immobilisations et comptes rattachés
+Autres dettes                                                                         199 811                  189 824                    9 987
+Instruments de trésorerie
+Produits constatés d'avance                                                           920 203               1 024 433              - 104 230
+                                                           TOTAL (IV)              7 460 166                5 934 734             1 525 432
+Ecart de conversion passif (V)
+                                                  TOTAL PASSIF (I à V)           10 030 791                 8 604 565             1 426 226
+
+
+
+
+                                                              mazars safirec                                                       Page 5
+ OPEN BEE FRANCE SAS                                                           PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                                            Annexes aux comptes annuels
+
+                                                      PREAMBULE
+       L'exercice social clos le 31/03/2024 a une durée de 12 mois.
+       L'exercice précédent clos le 31/03/2023 avait une durée de 12 mois.
+
+       Le total du bilan de l'exercice avant affectation du résultat est de 10 030 790,88 E.
+
+       Le résultat net comptable est une perte de 1 047 546,46 E.
+
+     Les informations communiquées ci-après font partie intégrante des comptes annuels qui ont été établis le
+    29/11/2024 par les dirigeants.
+
+
+                         PRINCIPES COMPTABLES, METHODES D’EVALUATION,
+                                  COMPARABILITE DES COMPTES
+Les comptes annuels sont établis selon les normes définies par le plan comptable général approuvé par arrêté ministériel
+du 8 septembre 2014, en application des articles L.123-12 à L.123-28 et R.123-172 à R.123-208 du code du commerce et
+conformément aux dispositions des règlements comptables révisant le PCG établis par l’autorité des normes comptables.
+
+Afin de répondre à un objectif d’image fidèle, les conventions générales comptables ont été appliquées dans le respect
+des principes suivants :
+
+       Comparabilité des comptes annuels : permanence des méthodes
+       Indépendance des exercices
+       Continuité d’exploitation
+       Régularité
+       Sincérité
+       Importance relative
+       Prudence
+
+et conformément aux règles générales d'établissement et de présentation des comptes annuels.
+
+La méthode de base retenue pour l'évaluation des éléments inscrits en comptabilité est la méthode des coûts historiques.
+
+Lors de première application des règlements précités qui se sont imposés à l’entité à compter des exercices ouverts
+           er
+depuis le 1 janvier 2005, la société a choisi d’utiliser la méthode prospective.
+
+Les principales méthodes utilisées et les options retenues sont les suivantes :
+
+IMMOBILISATIONS INCORPORELLES ET CORPORELLES
+  Les immobilisations incorporelles et corporelles sont évaluées à leur coût d'acquisition après déduction des rabais
+  commerciaux, remises, escomptes de règlement ou à leur coût de production.
+
+
+   Frais de recherche et développement
+   L’option pour la comptabilisation en charges des frais de développement n’a pas été retenue.
+   Les frais de recherches immobilisés engagés au cours de l’exercice se sont élevés à 1 254 984 €.
+
+FONDS Commercial (ANC règlement 2015-06 – PCG art 214-15)
+
+   La durée d’utilisation du fonds commercial est non limitée. De ce fait, le fonds commercial n’est pas amorti.
+   Un test de dépréciation a été réalisé et a conduit à constater que la valeur actuelle du fonds commercial figurant à
+   l’actif pour un montant de 150 000 euros est supérieure à sa valeur nette comptable.
+   Aucune dépréciation du fonds commercial n’a donc été constatée.
+
+
+
+                                                     MAZARS SAFIREC SAS                                         Page 20
+ OPEN BEE FRANCE SAS                                                              PAE LES LONGERAY 74370 METZ-TESSY
+
+
+
+
+IMMOBILISATIONS FINANCIERES
+
+   Les immobilisations financières sont évaluées à leur coût d'acquisition après déduction des rabais commerciaux,
+   remises, escomptes de règlement.
+
+   Option pour les frais accessoires :
+
+   L’option pour l’incorporation de certains frais accessoires, liés à l’acquisition des immobilisations financières, dans le
+   coût d’entrée de l’immobilisation n’a pas été retenue. Ces frais sont comptabilisés en charge.
+
+PRODUCTION IMMOBILISEE
+
+   La société active ses frais de développement de logiciels dans la mesure où ils se rapportent à des projets nettement
+   individualisés, ayant de sérieuses chances de réussite technique et de rentabilité commerciale.
+
+   La société s’engage alors à démontrer qu’elle remplit simultanément les six critères suivants :
+        - la faisabilité technique nécessaire à l’achèvement de l’immobilisation incorporelle en vue de sa mise en service
+        ou de sa vente ;
+
+        - l’intention d’achever l’immobilisation incorporelle et de l’utiliser ou de la vendre ;
+
+        - la capacité d’utiliser ou de vendre cette immobilisation incorporelle ;
+
+        - la capacité de l’immobilisation incorporelle à générer des avantages économiques futurs, l’entreprise doit
+        notamment démontrer l’existence d’un marché pour la production issue de l’immobilisation incorporelle ou pour
+        l’immobilisation incorporelle elle-même ou, si celle-ci doit être utilisée en interne, son utilité ;
+
+        - la disponibilité de ressources (techniques, financières et autres) appropriées pour achever le développement et
+        utiliser ou vendre l’immobilisation ;
+
+        - la capacité à évaluer de façon fiable les dépenses attribuables à l’immobilisation incorporelle au cours de son
+        développement.
+   La durée d’amortissement relative aux frais de recherche et développement est fixée à 3 ans.
+
+
+AMORTISSEMENTS
+
+   Les amortissements représentent la répartition systématique du montant amortissable d’un actif en fonction de son
+   utilisation. Ils sont donc désormais calculés sur la durée d’utilisation réelle des biens.
+
+DEPRECIATIONS
+
+   La dépréciation est la constatation que la valeur d’un actif est devenue inférieure à sa valeur nette comptable.
+
+   L’entité n’a pas relevé d’indices de perte de valeur nécessitant la constatation d’une dépréciation.
+
+CREANCES
+
+   Les créances sont valorisées à leur valeur nominale. Une provision pour dépréciation est pratiquées lorsque la valeur
+   d’inventaire est inférieure à la valeur comptable.
+
+STOCKS
+
+Aucun stock constaté sur l’exercice. Une nouvelle méthode de prise en compte des revenus a été retenue (voir le
+paragraphe changement de méthode).
+
+L’ancienne méthode de reconnaissance des revenus consistait à neutraliser le prix de revient de la fabrication des
+licences non vendues en calculant une production stockée.
+
+Les coûts de revient lors de l’exercice 2022.23 on été estimés à 50.89% du montant des licences.
+
+
+                                                       MAZARS SAFIREC SAS                                             Page 21
+ OPEN BEE FRANCE SAS                                                         PAE LES LONGERAY 74370 METZ-TESSY
+
+Ce taux a été appliqué au montant brut des FAE 2023.24
+
+Pour se remettre dans le contexte de la méthode 2022.23, les FAE Orange ont été retraités et augmentés d’une année de
+licence de par la tacite reconduction (méthode usitée en 2022.23)
+
+Au final, malgré le fait que nous intégrons désormais un coût d’exécution technique à la fois sur les FAE mais aussi sur les
+facturation « one shot », il en résulte une amélioration du résultat de 309 508 €
+Il convient dans cette appréciation de déduire ici les coûts d’exécution technique même si ces derniers sont comptabilisés
+et provisions pour risques et charges puisque nous souhaitons apprécier l’impact sur le résultat et non seulement un
+différentiel de revenus non facturés
+
+
+OPERATIONS EN DEVISES
+
+   Les charges et les produits en devises sont enregistrés pour leur contre-valeur à la date de l'opération.
+   Les dettes, créances et disponibilités en devises figurent au bilan pour leur contre-valeur au cours de fin d'exercice.
+   La différence résultant de l'actualisation des dettes et créances en devises à ce dernier cours est portée au bilan en
+   "écart de conversion". Les pertes latentes de change non compensées font l'objet d'une provision en totalité.
+
+                                                 FAITS MARQUANTS
+
+Les faits marquants de l’exercice sont les suivants :
+
+De façon concomitante en décembre 2023 ont eu lieu :
+
+L’augmentation de capital de 443 800 € à la valeur nominale de 100 €. Le capital à la clôture de l’exercice s’élève à
+543 800 €.
+La cession par OPEN BEE Suisse de 80 % des titres OPEN BEE France au Profit de le SAS DOXSA
+La cession par OPEN BEE Suisse de 99 % des titres OPEN BEE Tunisie au profit de OPEN BEE France.
+L’acquisition de la marque OPEN BEE par OPEN BEE France auparavant détenue par OPEN BEE Suisse.
+
+Souscription d’un emprunt obligataire d’un montant total de 2 000 000 € correspondant à 2000 obligations ordinaires
+de 1000 € de valeur nominale chacune.
+
+
+
+
+                                                        MAZARS SAFIREC SAS                                         Page 22
+ OPEN BEE FRANCE SAS                                                       PAE LES LONGERAY 74370 METZ-TESSY
+
+
+
+
+                                         CHANGEMENT DE METHODE
+
+Une nouvelle méthode de reconnaissance des revenus implique désormais une prise en compte de 100% des
+commandes de logiciels passées dans l’exercice, diminuée d’un coût d’exécution statistiquement évalué à 15% du
+montant HT des dites commandes. Cette méthode est venue remplacer la méthode antérieure visant à valoriser une
+production stockée de licences non vendue. Cette méthode consiste par ailleurs à provisionner également un coût
+d’exécution du même pourcentage pour des facturations faites en une seule fois dans l’exercice, en lien avec des contrats
+de service logiciel dont la date de fin est supérieure à la date de clôture. L’impact de ce changement de méthode a un
+impact de 309 508 € sur l’amélioration du compte de résultat
+
+
+
+                                                       FAE                         FAE
+                                                              stock
+                             FAE Brut    FAE net     nouvelle                    Méthode      (**)
+                                                              Orange
+                                                     méthode                       N-1
+
+FAE Orange (contrats      560 507        423 948     423 948                      285 242
+cloud fermes non facturés
+initiés en facturation)
+
+FAE Direct et IT(contrats     1 041
+                                         907 780     907 780    1 241 889 (*)     631 997
+cloud fermes non facturés      704
+initiés en facturation)
+FAE ALL (contrats cloud
+fermes < 31.03.2024 non      711 905     643 650     643 650                      362 289
+initiés en facturation)
+FAE On Premise                30 332     29 919       29 919
+
+
+Coût d'éxecution des
+facturations KM et                      -334 961     -334 961
+TOSHIBA 01.04.2023-
+31.03.2024 FACTURATION
+KM et TOSHIBA
+Coût d'éxecution des
+facturation LABS
+01.042023-31.03.2024
+                                         -81 300     -81 300
+FACTURATION LA
+BUREAUTIQUE
+SOLUTIONS
+                                                    1 589 035                    1 279 527
+
+(*) Dans l'ancienne méthode, un an de tacite reconduction était incorporée à chaque
+contrat
+(**) stock valorisé à 50,89% des commandes non facturées
+                                                                                 Impact
+                                                                                 309 508
+
+
+
+
+                                                   MAZARS SAFIREC SAS                                          Page 23
+ OPEN BEE FRANCE SAS                                                         PAE LES LONGERAY 74370 METZ-TESSY
+
+                           AUTRES ELEMENTS SIGNIFICATIFS DE L'EXERCICE
+
+
+Tout comme en N-1, la redevance pour l’utilisation de la licence d’Open Bee SA initialement de 40% a été plafonnée à
+15%, compte tenu des développements réalisés par la société pour ajouter des fonctionnalités à l’écosystème Open BEE.
+L’abattement appliqué sur le chiffre d’affaires d’Open Bee France retenu pour le calcul de la redevance est de 70%.
+Cette redevance a cessé de s’appliquer à la date de cession de la marque à OPEN BEE France le 11/12/2023.
+Montant de la redevance sur l’exercice : 177 274 €.
+
+Deux provisions pour risques ont été constatées sur l’exercice.
+L’une concerne un litige de nature prud’homale pour 35 000 €, l’autre, un litige commercial avec le client TOTAL s’élevant
+à 53 280 €.
+Les autres produits et charges exceptionnels n’ont pas de caractère significatif et n’appellent pas d’observations
+particulières.
+
+La facturation de prestations d’Open Bee Tunisie à Open Bee France s’établit à hauteur de 946 272 €.
+
+
+
+
+                                                   MAZARS SAFIREC SAS                                            Page 24
+ OPEN BEE FRANCE SAS                                                        PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                                 Annexes aux comptes annuels (suite)
+
+                                             NOTES SUR LE BILAN ACTIF
+Frais de recherche & développement = 15 300
+Frais recherche & développement                Valeur brute       Amortissement        Valeur nette             Taux
+        Frais recherche & développement                15 300              15 054                 247                     %
+
+Fonds commercial (hors droit au bail) = 150 000
+          Fonds commercial                     Valeur brute       Amort./Provis.       Valeur nette             Taux
+                         Fonds acheté                 150 000                                 150 000                     %
+                       Fonds réévalué                                                                                     %
+                  Fonds reçu en apport                                                                                    %
+                               TOTAL                   150 000                                 150 000
+
+Actif immobilisé
+     Les mouvements de l'exercice sont détaillés dans les tableaux ci-dessous :
+
+     Immobilisations brutes = 9 098 855
+           Actif immobilisé                    A l'ouverture      Augmentation         Diminution            A la clôture
+           Immobilisations incorporelles             5 784 136         2 208 302                                   7 992 438
+             Immobilisations corporelles               362 577            50 669                 7 777               405 469
+             Immobilisations financières                66 259           634 689                                     700 948
+                                 TOTAL               6 212 972         2 893 660                 7 777             9 098 855
+
+     Amortissements et provisions d'actif = 4 814 450
+    Amortissements et provisions               A l'ouverture      Augmentation         Diminution            A la clôture
+           Immobilisations incorporelles             3 342 817         1 170 825                                   4 513 642
+             Immobilisations corporelles               260 129            47 682                 7 003               300 808
+               Titres mis en équivalence
+      Autres Immobilisations financières
+                                 TOTAL                3 602 946         1 218 507                7 003            4 814 450
+
+     Détail des immobilisations et amortissements en fin de période
+    Nature des biens immobilisés                 Montant             Amortis.          Valeur nette            Durée
+        Frais recherche/ developpement                15 300               15 054                 247                 5 ans
+               Brevets licences marques            7 827 138           4 498 588            3 328 550                 2 ans
+                         Fond commercial             150 000                    0             150 000         Non amortiss.
+            Installations et agencements              98 093               53 909              44 185         de 3 à 10 ans
+         Autres immobilisations corpore                2 288                   18               2 270                 4 ans
+                     Materiel de transport            98 523               65 764              32 759          de 2 à 3 ans
+                    Mat.bureau &informat             206 565             181 118               25 447          de 2 à 5 ans
+
+                                  TOTAL               8 397 907         4 814 450             3 583 457
+
+Etat des créances = 5 275 175
+              Etat des créances                          Montant brut               A un an               A plus d'un an
+                                   Actif immobilisé                59 683                                            59 683
+               Actif circulant & charges d'avance              5 215 492                5 215 492
+                                           TOTAL               5 275 175                5 215 492                    59 683
+
+
+
+
+                                                      MAZARS SAFIREC SAS                                           Page 25
+ OPEN BEE FRANCE SAS                                                      PAE LES LONGERAY 74370 METZ-TESSY
+
+Provisions pour dépréciation = 33 314
+      Nature des provisions            A l'ouverture    Augmentation       utilisées    non utilisées     A la clôture
+                 Stocks et en-cours
+                   Comptes de tiers            35 268             5 380         5 375           1 959            33 314
+                Comptes financiers
+                            TOTAL              35 268             5 380         5 375           1 959            33 314
+
+Produits à recevoir par postes du bilan = 2 532 837
+                             Produits à recevoir                                                Montant
+                                                     Immobilisations financières
+                                                    Clients et comptes rattachés                              2 439 184
+                                                                 Autres créances                                 93 653
+                                                                   Disponibilités
+                                                                          TOTAL                               2 532 837
+
+Charges constatées d'avance = 43 557
+     Les charges constatées d'avance ne sont composées que de charges ordinaires dont la répercussion sur le résultat
+    est reportée à un exercice ultérieur.
+
+
+
+
+                                                 MAZARS SAFIREC SAS                                            Page 26
+ OPEN BEE FRANCE SAS                                                       PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                                Annexes aux comptes annuels (suite)
+
+                                        NOTES SUR LE BILAN PASSIF
+Capital social = 543 800
+            Mouvements des titres                        Nombre                  Val. nominale         Capital social
+                      Titres en début d'exercice                    1000                   100,00                100 000
+                                     Titres émis                    4438                   100,00                443 800
+                 Titres remboursés ou annulés
+                       Titres en fin d'exercice                     5438                   100,00               543 800
+
+Provisions = 200 000
+Nature des provisions       A l'ouverture     Augmentation           Utilisées         Non utilisées      A la clôture
+ Provisions réglementées
+Provisions pour risques &
+                                                       504 541                                                  504 541
+                  charges
+                 TOTAL                                 504 541                                                  504 541
+
+Etat des dettes = 7 460 017
+            Etat des dettes                 Montant total        De 0 à 1 an          De 1 à 5 ans       Plus de 5 ans
+                Etablissements de crédit         4 348 922              700 146            3 388 776             260 000
+              Dettes financières diverses
+                            Fournisseurs             679 365             679 365
+               Dettes fiscales & sociales          1 311 715           1 311 715
+              Dettes sur immobilisations
+                            Autres dettes            199 811             199 811
+             Produits constatés d'avance             920 203             920 203
+                                  TOTAL            7 460 017           3 811 240           3 388 776            260 000
+
+Charges à payer par postes du bilan = 706 000
+                               Charges à payer                                                      Montant
+                                                     Emp. & dettes établ. de crédit                               26 761
+                                                     Emp.& dettes financières div.
+                                                                    Fournisseurs                                314 152
+                                                      Dettes fiscales & sociales                                313 019
+                                                                    Autres dettes                                52 068
+                                                                           TOTAL                                706 000
+
+Produits constatés d'avance = 920 203
+     Les produits constatés d'avance ne sont composés que de produits ordinaires dont la répercussion sur le résultat
+    est reportée à un exercice ultérieur.
+
+
+
+
+                                                   MAZARS SAFIREC SAS                                          Page 27
+ OPEN BEE FRANCE SAS                                                         PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                                 Annexes aux comptes annuels (suite)
+
+                                   NOTES SUR LE COMPTE DE RESULTAT
+Ventilation du chiffre d'affaires = 8 755 918
+      Le chiffre d'affaires de l'exercice se décompose de la manière suivante :
+                      Nature du chiffre d'affaires                                Montant HT              Taux
+                                                  Ventes de produits finis              6 432 784                73,47 %
+                                                  Prestations de services               2 323 135                26,53 %
+
+                                                                   TOTAL                8 755 918               100.00 %
+
+
+                                             AUTRES INFORMATIONS
+Effectif moyen
+                   Catégories de salariés                                 Salariés                   En régie
+                                                      Cadres                             48
+                             Agents de maîtrise & techniciens                             1
+                                                    Employés                              2
+                                                     Ouvriers
+                                      Apprentis sous contrat                              2
+                                                      TOTAL                              53
+
+
+
+
+Dettes garanties par des sûretés réelles
+Prêt moyen terme de 83 400 € souscrit à la Sté Générale, au taux fixe de 0.70 % réalisation 19/06/2017 remboursable en
+84 mensualités.
+Capital restant dû au 31/03/2024 : 9 135.06 €
+Garantie : Nantissement du fonds de commerce
+
+Prêt moyen terme de 300 000 € souscrit à la Sté Générale, au taux fixe de 0.90 % réalisation 17/10/2018 remboursable en
+60 mensualités.
+Capital restant dû au 31/03/2024 : 5 947.92 €
+Garantie : Nantissement du fonds de commerce
+
+Prêt PGE moyen terme de 150 000 € souscrit à la Banque Populaire au taux de 0.25 % puis 0.73 % - 72 mensualités –
+réalisation 30/05/2020. Remboursement différé de 24 mois.
+Capital restant dû au 31/03/2024 : 78 961.23 €.
+Caution apportée par la République Française.
+
+Prêt PGE moyen terme de 600 000 € souscrit à la Sté Générale au taux de 0.25 % puis 0.58 % - 48 mensualités –
+réalisation 30/05/2020. Remboursement différé de 24 mois.
+Capital restant dû au 31/03/2024 : 326 726.95 €.
+Caution apportée par la République Française.
+
+Prêt PGE moyen terme de 200 000 € souscrit à la Caisse d’Epargne au taux de 0 % puis 0.12 % - 72 mensualités –
+réalisation 30/05/2020. Remboursement différé de 24 mois.
+Capital restant dû au 31/03/2024 : 109 330.33 €.
+Caution apportée par la République Française
+Prêt PGE moyen terme de 150 000 € souscrit à la Bpi au taux de 1.75 % - 1 mensualité – réalisation 24/07/2020.
+Remboursement différé de 24 mois.
+Capital restant dû au 31/03/2024 : 93 750 €.
+Caution apportée par la République Française
+Prêt moyen terme de 160 000 € souscrit à la Banque Populaire, au taux fixe de 2.15 % réalisation 12/01/2022
+remboursable en 72 mensualités.
+Capital restant dû au 31/03/2024 : 124 188.66 €
+                                                   MAZARS SAFIREC SAS                                           Page 28
+ OPEN BEE FRANCE SAS                                                      PAE LES LONGERAY 74370 METZ-TESSY
+
+
+Garantie : Fonds Européen de Garantie : prise de garantie
+Prêt moyen terme de 250 000 € souscrit à la Sté Générale, au taux fixe de 1.51 % réalisation 17/01/2022 remboursable en
+60 mensualités.
+Capital restant dû au 31/03/2024 : 148 120.59 €
+Garantie : Caution BPI France à 50% de l’encours du prêt et nantissement du fonds de commerce
+
+Prêt moyen terme de 240 000 € souscrit à la Sté Générale, au taux fixe de 4.50 % réalisation 17/02/2022 remboursable en
+31 trimestres.
+Capital restant dû au 31/03/2024 : 240 000 €
+Garantie : Caution apportée par la République Française
+
+Prêt moyen terme de 300 000 € BPI / SG, au taux fixe de 3.20 % réalisation 04/12/2018 remboursable en 8 trimestres
+avec différé d’amortissement. Fin d’amortissement le 31/12/2025.
+Capital restant dû au 31/03/2024 : 150 000 €
+Garantie : Fonds national de Garantie à hauteur de 30% et Fonds Européen d’investissement à hauteur de 50%.
+
+Prêt moyen terme de 300 000 € BPI / Banque Populaire, au taux fixe de 4.05 % réalisation 07/06/2023 remboursable en
+20 trimestres avec différé d’amortissement. Fin d’amortissement le 30/09/2030.
+Capital restant dû au 31/03/2024 : 150 000 €
+
+
+Autres engagements hors bilan
+
+
+  •   Indemnités de fin de carrière :
+         Base des salaires du mois : 03/2024
+         Date d’évaluation des IFC : 31/03/2024
+         Turn over retenu : 3%
+         Taux d’évolution des salaires : 1.50 %
+         Taux d’actualisation : 3.40 %
+         Date de départ à la retraite : 65 ans
+         Modalité de départ à la retraite : à l’initiative du salarié
+         Taux de charges sociales : Etude avec charges sociales
+         Table de mortalité 2012-2014 H/F en France métropolitaine
+         Montant probable du cout des indemnités à terme : 845 010 €
+         Montant actualisé du cout probable des indemnités : 373 729 €
+      Montant de l’engagement des IFC, selon les paramètres et hypothèses retenues : 106 909 €
+
+
+
+
+                                                  MAZARS SAFIREC SAS                                          Page 29
+ OPEN BEE FRANCE SAS                                                  PAE LES LONGERAY 74370 METZ-TESSY
+
+
+Annexes aux comptes annuels (suite)
+Tableaux financiers relatifs aux crédits-baux en cours
+         Redevances payées                   Immobilier    Mat. & Outil.    Autres immob.     TOTAL
+Cumuls des exercices antérieurs                                                     241 550      241 550
+Montants de l'exercice                                                              498 119      498 119
+                             Sous-total                                             739 669      739 669
+
+       Redevances restant dues               Immobilier    Mat. & Outil.    Autres immob.     TOTAL
+A 1 an au plus                                                                      886 265      886 265
+Entre 1 et 5 ans                                                                    742 198      742 198
+A plus de 5 ans
+                           Sous-total                                             1 628 463     1 628 463
+
+            Valeur résiduelle                Immobilier    Mat. & Outil.    Autres immob.     TOTAL
+A 1 an au plus
+Entre 1 et 5 ans                                                                   106 515        106 515
+A plus de 5 ans
+                                Sous-total                                         131 201        131 201
+
+        Coût total du crédit-bail            Immobilier    Mat. & Outil.    Autres immob.     TOTAL
+                                    TOTAL                                         2 499 333     2 499 333
+
+
+
+
+                                                 MAZARS SAFIREC SAS                              Page 30
+ OPEN BEE FRANCE SAS                                                       PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                                  Annexes aux comptes annuels (suite)
+
+           DETAIL DES POSTES CONCERNES PAR LE CHEVAUCHEMENT D'EXERCICE
+Les comptes détaillés dans les tableaux suivants concernent les écritures comptables relatives à l'indépendance des
+exercices.
+
+Produits à recevoir = 2 532 837
+
+                      Produits à recevoir sur clts et comptes rattachés                                  Montant
+                                                            Clients fact. a etab( 41810000000 )              2 439 184
+
+                                                                                         TOTAL                 2 439 184
+
+                           Produits à recevoir sur autres créances                                       Montant
+                                                           Org.soc. prod.a rece( 43870000000 )                      4 221
+                                                 Etat autres charges a recevoir( 44870000000 )                     89 432
+
+                                                                                         TOTAL                     93 653
+
+Charges constatées d'avance = 43 557
+                                  Charges constatées d'avance                                            Montant
+                                                          Charges constat.d'av( 48600000000 )                      43 557
+
+                                                                                         TOTAL                     43 557
+
+Charges à payer = 706 000
+
+                        Emprunts & dettes auprès des étab. De crédit                                     Montant
+                                                    Emprunts interets courus( 16884000000 )                        26 761
+
+                                                                                         TOTAL                     26 761
+
+                          Dettes fournisseurs et comptes rattachés                                       Montant
+                                                          Fournis.fact.non par( 40810000000 )                  314 152
+
+                                                                                         TOTAL                   314 152
+
+                                   Dettes fiscales et sociales                                           Montant
+                                                                 Conges a payer( 42820000000 )                 191 991
+                                                   Personnel autres chg a payer( 42860000000 )                   10 000
+                                                           Org.soc. ch/conges a( 43820000000 )                   77 744
+                                                       Org.soc. charges a payer( 43860000000 )                    4 377
+                                                             Etat autres ch. a pa( 44860000000 )                 12 379
+                                       Taxe d'apprentissage part conventionnelle( 44862000000 )                   3 243
+                                        Formation continue part conventionnelle( 44863000000 )                      375
+                                                         Taxe effort construction( 44864000000 )                 12 911
+
+                                                                                         TOTAL                   313 019
+
+                                         Autres dettes                                                   Montant
+                                                             Clients rrr&av.a acc( 41980000000 )                   52 068
+
+                                                                                         TOTAL                     52 068
+
+
+
+
+                                                  MAZARS SAFIREC SAS                                           Page 31
+ OPEN BEE FRANCE SAS                                                 PAE LES LONGERAY 74370 METZ-TESSY
+
+Produits constatés d'avance = 920 203
+                             Produits constatés d'avance                                  Montant
+                                             Produits constates d'avance( 48700000000 )             920 203
+
+                                                                                TOTAL               920 203
+
+
+
+
+                                              MAZARS SAFIREC SAS                                Page 32
+ OPEN BEE FRANCE SAS                                                             PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                                    Annexes aux comptes annuels (suite)
+
+                                   RÉSULTATS DES 5 DERNIERS EXERCICES
+Art : 133 et 148 du décret sur les sociétés commerciales
+
+Tableau
+                Nature des Indications / Périodes               31/03/2024    31/03/2023   31/03/2022   31/03/2021   31/12/2019
+                         Durée de l'exercice                     12 mois       12 mois      12 mois      15 mois      12 mois
+I - Situation financière en fin d'exercice
+a ) Capital social                                                 543 800       100 000      100 000      100 000      100 000
+b ) Nombre d'actions émises                                          5 438
+c ) Nombre d'obligations convertibles en actions
+II - Résultat global des opérations effectives
+a ) Chiffre d'affaires hors taxes                                8 755 918    6 220 692    5 111 579    5 195 046     4 861 472
+b ) Bénéfice avant impôt, amortissements & provisions              303 111    1 036 860      911 751      759 725       816 835
+c ) Impôt sur les bénéfices                                       -370 436     -276 358     -306 033     -363 986      -220 009
+d ) Bénéfice après impôt, mais avant amortissements &
+                                                                   673 547    1 313 218    1 217 784    1 123 711     1 036 844
+provisions
+e ) Bénéfice après impôt, amortissements & provisions           -1 047 546       308 013      275 169      186 179      288 674
+f ) Montants des bénéfices distribués
+g ) Participation des salariés
+III - Résultat des opérations réduit à une seule action
+a ) Bénéfice après impôt, mais avant amortissements                     124
+b ) Bénéfice après impôt, amortissements provisions                    -193
+c ) Dividende versé à chaque action
+IV - Personnel :
+a ) Nombre de salariés                                                  52           49           43           37            37
+b ) Montant de la masse salariale                                2 929 886    2 899 070    2 586 117    2 662 196     1 775 935
+c ) Montant des sommes versées au titre des avantages
+                                                                 1 134 286    1 115 742    1 002 490    1 037 800       680 316
+sociaux
+
+
+
+
+                                                          MAZARS SAFIREC SAS                                         Page 33
+ OPEN BEE FRANCE SAS                                                                          PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                                     Annexes aux comptes annuels (suite)
+
+                                  TABLEAU DES FILIALES ET PARTICIPATIONS
+Tableau
+   Filiales et     Capital   Réserves et   Quote-    Valeur brute    Valeur       Prêts et    Cautions et    C.A. H.T.    Résultat du      Dividendes
+                   social     report à     part du    des titres    nette des    avances        avals       du dernier      dernier      encaissés par la
+ participations               nouveau      capital     détenus        titres    consenties    donnés par     exercice    exercice clos    Sté dans l’ex
+                                           détenu                   détenus      par la Sté     la Sté         clos
+                                            en %
+ A – Renseignements détaillés concernant les filiales & participations
+- Filiales (plus de 50% du capital détenu)
+OPEN BEE               5 970    27 340     99 634 545                                                        1 182 390           4 855
+TUNISIE
+
+
+
+
+Participations (10 à 50 % du capital détenu)
+
+
+
+
+B – Renseignements globaux concernant les autres filiales & participations
+- Filiales non reprises en A:
+
+a ) Françaises
+b ) Etrangères
+ Participations non reprises en A:
+a) Françaises
+b) Etrangères
+
+
+
+
+                                                             MAZARS SAFIREC SAS                                                              Page 34
+ OPEN BEE FRANCE SAS                                                           PAE LES LONGERAY 74370 METZ-TESSY
+
+
+
+
+                                     Annexes aux comptes annuels (suite)
+
+                                         COMPTE RENDU DES TRAVAUX
+Le Cabinet SAFIREC SAS, inscrit au tableau de l'Ordre des Experts Comptables.
+
+Aux termes de la mission d'assistance/de supervision comptable et d'établissement des Comptes Annuels, qui lui a été
+confiée par OPEN BEE FRANCE SAS,
+
+Déclare que les Comptes Annuels se rapportant à l'exercice clos au 31/03/2024 caractérisés notamment par les données
+suivantes:
+
+
+Total du bilan                                                                              10 030 791
+Chiffre d'affaires hors taxes                                                               8 755 918
+Résultat net de l'exercice (perte)                                                          -1 047 546
+
+ont été établis à partir des pièces, documents et informations fournis par l'Entreprise, en conformité avec les dispositions
+de l'Ordonnance du 19 septembre 1945 régissant l'Ordre des Experts Comptables et avec les règles de diligence
+préconisées par l'Ordre à l'exception des règles suivantes :
+
+- présentation d'un état détaillé et chiffré des stocks et en cours,
+- contrôle de la conformité de la méthode de valorisation des stocks et en cours utilisée avec les règles en vigueur,
+- vérification de l'application de la méthode de valorisation des stocks et en cours par épreuves,
+- établissement du tableau de financement,
+- contrôle des existants en caisse.
+
+ Le présent compte-rendu ne constitue pas une attestation de régularité et de sincérité au sens de l'article 2 de
+l'ordonnance du 19 septembre 1945.
+
+
+
+
+                                                                                          Pour SAFIREC SAS
+                                                                                          Fait à LA MOTTE-SERVOLEX le
+13/12/2024
+
+
+
+
+                                                     MAZARS SAFIREC SAS                                             Page 35
+                                              OPEN BEE France
+                         Société par actions simplifiée au capital social de 543 800 €
+                               Zac des Longerays – 74370 Epagny Metz-Tessy
+                                          504 389 446 RCS Annecy
+
+            RAPPORT DE GESTION SUR LES OPERATIONS DE L'EXERCICE CLOS LE 31 MARS 2024
+
+Chers associés,
+
+Nous vous avons réunis en assemblée générale ordinaire en application des statuts et de l'article L 227-9 du Code
+de commerce pour vous rendre compte de l'activité de la Société au cours de l'exercice clos le 31 mars 2024, des
+résultats de cette activité, des perspectives, et soumettre à votre approbation le bilan et les comptes annuels dudit
+exercice. Ces comptes sont joints au présent rapport.
+
+Nous vous rappelons que les convocations à la présente assemblée vous ont été régulièrement adressées ainsi que
+tous les documents prévus aux statuts.
+
+1. SITUATION ET ACTIVITE DE LA SOCIETE AU COURS DE L'EXERCICE ECOULE
+
+L’activité 2023/24 se caractérise par une croissance de CA supérieure au marché à hauteur de 41%. Cette évolution
+de l’activité s’est faite dans un contexte de stabilité de la masse salariale mais d’évolution significative des frais
+généraux.
+
+
+
+2. EVENEMENTS SURVENUS DEPUIS LA CLOTURE DE L'EXERCICE
+
+Il est précisé qu'aucun événement important n'est survenu entre la date de la clôture de l'exercice et la date
+d'établissement du présent rapport.
+
+
+3. EVOLUTION PREVISIBLE DE LA SITUATION DE LA SOCIETE ET PERSPECTIVES
+
+Les perspectives 2024/2025 s’annoncent très encourageantes dans la mesure où une nouvelle organisation
+commerciale permettra d’occuper des segments de marché en cohérence avec les points forts de l’entreprise dans
+un contexte de simplification de l’offre commerciale afin de la rendre plus lisible.
+
+
+4. FILIALES ET PARTICIPATIONS
+
+Notre Société a pris une participation majoritaire dans le capital de la Société OPEN BEE TUNISIE, société de droit
+tunisien au capital de 20.000 dinars tunisiens, dont le siège social est Avenue Abou Dhabi, La Kharouba 8050
+HAMMAMET, immatriculée au RNE sous le numéro 1059906K.
+
+Elle a pour objet la réalisation de prestations informatiques. Le tableau des filiales et participations est annexé au
+bilan et présente toutes les informations financières relatives à cette participation.
+
+
+5. INFORMATIONS SUR LES DELAIS DE PAIEMENT
+
+En application des dispositions du Code de commerce, nous vous indiquons la décomposition, conformément aux
+modèles établis par l'arrêté du 20 mars 2017 des délais de paiement de nos fournisseurs et clients figurent en
+annexe au présent rapport.
+
+
+6. EXPOSE SUR LES RESULTATS ECONOMIQUES ET FINANCIERS
+
+Au titre de l'exercice clos le 31 mars 2024, nous vous informons que l'exercice écoulé a permis la réalisation d'un
+chiffre d'affaires HT de 8.755.918 euros contre 6.220.692 euros au titre de l’exercice précédent.
+Open Bee France – Rapport de gestion
+Exercice clos le 31 mars 2024
+
+
+
+
+            Le montant des produits d’exploitation s’élève à la somme de 8.324.659 euros contre 8.236.665 euros au titre de
+            l’exercice précédent.
+
+            Après prise en compte des charges d’exploitation, le résultat d’exploitation est une perte de 1.332.481 euros (contre
+            un bénéfice de 88.231 euros au titre de l’exercice précédent). Le résultat courant avant impôts est une perte de
+            1.417.214 euros.
+
+            Après prise en compte des éléments exceptionnels et de l’impôt sur les sociétés, le résultat de l’exercice est une
+            perte de 1.047.546 euros (contre un bénéfice de 308.013 euros au titre de l’exercice précédent).
+
+            Au 31 mars 2024, le total du bilan de 10.030.791 euros (contre 8.604.565 euros au titre de l’exercice précédent).
+
+            PRESENTATION DES COMPTES ANNUELS
+            Les comptes annuels de l'exercice clos le 31 mars 2024 ont été établis conformément aux règles de présentation et
+            aux méthodes d'évaluation prévues par la réglementation en vigueur. Le bilan et le compte de résultat de l'exercice
+            figurent en annexe
+
+            La nouvelle méthode de reconnaissance des revenus implique désormais une prise en compte de 100% des
+            commandes de logiciels passées dans l’exercice, diminuée d’un coût d’exécution statistiquement évalué à 15% du
+            montant HT des dites commandes. Cette méthode est venue remplacer la méthode antérieure visant à valoriser une
+            production stockée de licences non vendue. Cette méthode consiste par ailleurs à provisionner également un coût
+            d’exécution du même pourcentage pour des facturations faites en une seule fois dans l’exercice, en lien avec des
+            contrats de service logiciel dont la date de fin est supérieure à la date de clôture. L’impact de ce changement de
+            méthode a un impact de 309 508 € sur l’amélioration du compte de résultat.
+
+            AFFECTATION DU RESULTAT
+            Nous vous proposons d'affecter la perte de l'exercice s'élevant à 1.047.546 euros de la manière suivante :
+               -    En totalité au poste « Autres Réserves ».
+
+            RAPPEL DES DIVIDENDES DISTRIBUES
+            Conformément aux dispositions de l'article 243 bis du Code général des impôts, nous vous rappelons qu'il n'a pas
+            été procédé à une distribution de dividendes au titre des trois précédents exercices.
+
+            CHARGES NON DEDUCTIBLES
+            Les comptes de l'exercice écoulé présentent des charges non déductibles du résultat fiscal telles que visées à l'article
+            39,4 du Code général des impôts.
+
+            Il sera donc proposé aux associés, conformément aux articles 223 quater et 223 quinquies du Code général des
+            impôts, de constater l'existence de dépenses et charges visées à l'article 39,4 dudit code à hauteur de 53.072 euros,
+            étant précisé que l'impôt théorique correspondant s'élève à 13.268 euros.
+
+
+            7. RAPPORTS DES COMMISSAIRES AUX COMPTES
+
+            Nous allons maintenant vous donner lecture des rapport général et spécial de vos Commissaires aux comptes.
+
+
+            8. MANDAT DU DU DIRECTEUR GENERAL DE LA SOCIETE
+
+            La société OPEN BEE SA (société de droit suisse), a démissionné de son mandat de Directeur général à la date de la
+            présente assemblée.
+
+            La candidature de la société EXO B CONSULTING, société par actions simplifiée unipersonnelle au capital de 10.000
+            euros, ayant son siège situé sis 1495 Route DE CESSENS, 73410 ENTRELACS, et immatriculé au Registre du
+            Commerce et des Société Chambéry sous le numéro 987801024, est soumise à votre approbation, pour être
+            désignée en remplacement. Si vous le décidiez, elle serait nommée pour une durée indéterminée.
+
+
+
+
+                                                                                                                         Page 2 sur 3
+Open Bee France – Rapport de gestion
+Exercice clos le 31 mars 2024
+
+
+
+
+            9. MODIFICATION DE LA DATE DE CLOTURE DE L’EXERCICE SOCIAL
+
+            Vous serez appelés à délibérer sur le changement de la date de clôture de l’exercice social pour la fixer désormais
+            au 31 décembre de chaque année, et pour la première fois au 31 décembre 2024 – cet exercice aura par conséquent
+            une durée exceptionnelle de 9 mois.
+
+            En effet, toutes les sociétés du Groupe auquel appartient la Société clôture au 31 décembre, il était naturellement
+            nécessaire d’aligner la clôture de l’exercice sur cette date.
+
+
+                                                                   ****
+
+
+            Nous espérons que ce qui précède recevra votre agrément et que vous voudrez bien voter les résolutions qui vous
+            sont soumises.
+
+
+
+
+            Le Président
+
+
+
+
+                                                                                                                     Page 3 sur 3
+

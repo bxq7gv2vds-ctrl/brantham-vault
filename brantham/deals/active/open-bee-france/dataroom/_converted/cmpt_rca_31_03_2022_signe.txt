@@ -1,0 +1,1019 @@
+                                        KPMG SA
+                                        15 Rue Pré Paillard
+                                        CS 20121
+                                        74940 Annecy
+
+
+
+
+OPEN BEE FRANCE SAS
+Rapport du commissaire aux comptes sur les comptes annuels
+
+
+
+
+Exercice clos le 31 mars 2022
+OPEN BEE FRANCE SAS
+ZAC des Longerays - 74370 EPAGNY METZ-TESSY
+
+
+
+KPMG SA                                  SA
+société française membre du réseau       Société de commissariat aux comptes
+KPMG constitué de cabinets indépendants Siège social : Tour EQHO
+adhérents de KPMG International Limited, 2 Avenue Gambetta
+une société de droit anglais (“ private  CS 60055
+company limited by guarantee ’’).        92066 Paris La Défense Cedex
+                                         775726417 RCS NANTERRE
+                                        KPMG SA
+                                        15 Rue Pré Paillard
+                                        CS 20121
+                                        74940 Annecy
+
+
+
+
+OPEN BEE FRANCE SAS
+
+ZAC des Longerays - 74370 EPAGNY METZ-TESSY
+
+Rapport du commissaire aux comptes sur les comptes annuels
+
+Exercice clos le 31 mars 2022
+
+
+
+À l'associée unique de la société OPEN BEE FRANCE SAS,
+
+Opinion avec réserve
+En exécution de la mission qui nous a été confiée par l'associée unique, nous avons effectué l’audit
+des comptes annuels de la société OPEN BEE FRANCE SAS relatifs à l’exercice clos le 31 mars
+2022, tels qu’ils sont joints au présent rapport.
+Sous la réserve décrite dans la partie "Fondement de l’opinion avec réserve", nous certifions que les
+comptes annuels sont, au regard des règles et principes comptables français, réguliers et sincères et
+donnent une image fidèle du résultat des opérations de l’exercice écoulé ainsi que de la situation
+financière et du patrimoine de la société à la fin de cet exercice.
+
+Fondement de l'opinion avec réserve
+
+Motivation de la réserve
+Dans le paragraphe de l'annexe relatif à la méthode de valorisation des en-cours il est précisé que :
+" Les stocks d'en-cours résultent essentiellement des coûts d'exécution de contrats et phases
+préparatoires des licences en mode Saas.
+Sur l'exercice clos le 31 mars 2022, la méthode de valorisation des contrats de licences en cours en
+mode Saas a été revue.
+En effet, ces contrats de licences en mode Saas nécessitent des phases préparatoires dans le but
+d'accéder à une phase cible d'exploitation.
+Les coûts correspondants sont :
+
+      •     Planification des développements logiciel ;
+      •     Conception des logiciels ;
+      •     Test et assurance qualité ;
+      •     Maintenance ;
+      •     Achat des supports de développement permettant les adaptations spécifiques partenaires ;
+      •     Achat de librairies externes ;
+      •     Production du développement opérationnel ;
+      •     Marketing.
+
+Les en-cours comptabilisés s'élèvent à 1 042 K€ et ont été estimés en fonction d'une répartition
+analytique tout en excluant les coûts déjà incorporés à la production immobilisée.
+
+KPMG SA                                  SA
+société française membre du réseau       Société de commissariat aux comptes
+KPMG constitué de cabinets indépendants Siège social : Tour EQHO
+adhérents de KPMG International Limited, 2 Avenue Gambetta
+une société de droit anglais (“ private  CS 60055
+company limited by guarantee ’’).        92066 Paris La Défense Cedex
+                                         775726417 RCS NANTERRE
+                           OPEN BEE FRANCE SAS
+                           Rapport du commissaire aux comptes sur les comptes annuels
+                           31 mars 2022
+
+
+
+
+La direction de l’entreprise fait observer qu’elle n’a pas activé l’option (comme certains confrères
+éditeurs de logiciels le font) de comptabiliser la prise de revenus en production sur ces contrats cloud
+non encore facturés, lesquels contrats découlent des commandes fermes des clients partenaires
+Orange et Ventes directes.
+La prise de revenus des contrats cloud Konica Minolta se fait quant à elle historiquement par le biais
+d’une facturation One Shot de la totalité du contrat au partenaire Konica Minolta dans la mesure où il y
+a mise à disposition des licences et conformément à l’application de l’avis EC 2018-15 et n’est donc
+pas concernée par la comptabilisation de la production des contrats cloud.
+Une production correspondant à 80 % des contrats cloud aboutirait dans la mesure où la partie
+Software du contrat est produite et fournie dès l’origine de ces contrats.
+La partie Infra du contrat qui fait l’objet d’une consommation dans le temps par les utilisateurs fait
+logiquement l’objet d’une prise de revenus progressive mensuelle (Infrastructure et plateforme)
+représente moins de 20 % de la valeur de ce contrat.
+Si Open Bee avait appréhendé ses revenus avec cette méthode, la situation nette de l’entreprise eut
+été améliorée de 770 K€ (2 265 K€ X 80 % - 1 042 K€). "
+Selon nos contrôles, il ressort que les coûts comptabilisés en en-cours représentent plus de 2 années
+de charges imputables aux coûts de préparation.
+Selon nos estimations et les informations obtenues, les coûts de préparation représentent entre 6
+mois et 1 an avant la mise en service de la commande.
+Compte tenu de ces éléments, les encours sont surévalués de 678 K€. Le résultat et les capitaux
+propres de l'exercice sont donc surévalués du même montant.
+Nous portons également à votre attention que la comptabilisation des produits respecte les avis EC
+2018-15 et EC 2013-31.
+
+Référentiel d'audit
+Nous avons effectué notre audit selon les normes d'exercice professionnel applicables en France.
+Nous estimons que les éléments que nous avons collectés sont suffisants et appropriés pour fonder
+notre opinion.
+Les responsabilités qui nous incombent en vertu de ces normes sont indiquées dans la partie
+"Responsabilités du commissaire aux comptes relatives à l'audit des comptes annuels" du présent
+rapport.
+
+Indépendance
+Nous avons réalisé notre mission d’audit dans le respect des règles d’indépendance prévues par le
+code de commerce et par le code de déontologie de la profession de commissaire aux comptes, sur la
+période du 1er avril 2021 à la date d’émission de notre rapport.
+
+Observation
+Sans remettre en cause l’opinion exprimée ci-dessus, nous attirons votre attention sur le point exposé
+dans la note " autres éléments significatifs de l'exercice " de l'annexe des comptes annuels
+concernant le calcul de la redevance de marque Open Bee.
+
+
+
+
+                                                                                                         3
+                          OPEN BEE FRANCE SAS
+                          Rapport du commissaire aux comptes sur les comptes annuels
+                          31 mars 2022
+
+
+
+
+Justification des appréciations
+La crise mondiale liée à la pandémie de COVID-19 crée des conditions particulières pour la
+préparation et l’audit des comptes de cet exercice. En effet, cette crise et les mesures exceptionnelles
+prises dans le cadre de l’état d’urgence sanitaire induisent de multiples conséquences pour les
+entreprises, particulièrement sur leur activité et leur financement, ainsi que des incertitudes accrues
+sur leurs perspectives d’avenir. Certaines de ces mesures, telles que les restrictions de déplacement
+et le travail à distance, ont également eu une incidence sur l’organisation interne des entreprises et
+sur les modalités de mise en œuvre des audits.
+C’est dans ce contexte complexe et évolutif que, en application des dispositions des articles L.823-9
+et R.823-7 du code de commerce relatives à la justification de nos appréciations, outre le point décrit
+dans la partie "Fondement de l'opinion avec réserve", nous vous informons que les appréciations les
+plus importantes auxquelles nous avons procédé, selon notre jugement professionnel, ont porté sur le
+caractère approprié des principes comptables appliqués et sur la présentation d’ensemble des
+comptes.
+Les appréciations ainsi portées s'inscrivent dans le contexte de l'audit des comptes annuels pris dans
+leur ensemble et de la formation de notre opinion exprimée ci-avant. Nous n'exprimons pas d'opinion
+sur des éléments de ces comptes annuels pris isolément.
+
+Vérifications spécifiques
+Nous avons également procédé, conformément aux normes d’exercice professionnel applicables en
+France, aux vérifications spécifiques prévues par les textes légaux et réglementaires.
+A l'exception de l'incidence du point décrit dans la partie "Fondement de l'opinion avec réserve", nous
+n'avons pas d'observation à formuler sur la sincérité et la concordance avec les comptes annuels des
+informations données dans le rapport de gestion du Président et dans les autres documents sur la
+situation financière et les comptes annuels adressés l'associé unique, à l'exception du point ci-
+dessous.
+En application de la loi, nous vous signalons que les informations relatives aux délais de paiement
+prévus à l'article D.441-6 du code de commerce, ne sont pas mentionnées dans le rapport de gestion.
+En conséquence, nous ne pouvons attester de leur sincérité et de leur concordance avec les comptes
+annuels.
+
+Responsabilités de la direction et des personnes constituant le gouvernement d'entreprise
+relatives aux comptes annuels
+Il appartient à la direction d’établir des comptes annuels présentant une image fidèle conformément
+aux règles et principes comptables français ainsi que de mettre en place le contrôle interne qu'elle
+estime nécessaire à l'établissement de comptes annuels ne comportant pas d'anomalies significatives,
+que celles-ci proviennent de fraudes ou résultent d'erreurs.
+Lors de l’établissement des comptes annuels, il incombe à la direction d’évaluer la capacité de la
+société à poursuivre son exploitation, de présenter dans ces comptes, le cas échéant, les informations
+nécessaires relatives à la continuité d’exploitation et d’appliquer la convention comptable de continuité
+d’exploitation, sauf s’il est prévu de liquider la société ou de cesser son activité.
+Les comptes annuels ont été arrêtés par le Président.
+
+
+
+
+                                                                                                       4
+                          OPEN BEE FRANCE SAS
+                          Rapport du commissaire aux comptes sur les comptes annuels
+                          31 mars 2022
+
+
+
+
+Responsabilités du commissaire aux comptes relatives à l’audit des comptes annuels
+Il nous appartient d’établir un rapport sur les comptes annuels. Notre objectif est d’obtenir l’assurance
+raisonnable que les comptes annuels pris dans leur ensemble ne comportent pas d’anomalies
+significatives. L’assurance raisonnable correspond à un niveau élevé d’assurance, sans toutefois
+garantir qu’un audit réalisé conformément aux normes d’exercice professionnel permet de
+systématiquement détecter toute anomalie significative. Les anomalies peuvent provenir de fraudes
+ou résulter d’erreurs et sont considérées comme significatives lorsque l’on peut raisonnablement
+s’attendre à ce qu’elles puissent, prises individuellement ou en cumulé, influencer les décisions
+économiques que les utilisateurs des comptes prennent en se fondant sur ceux-ci.
+Comme précisé par l’article L.823-10-1 du code de commerce, notre mission de certification des
+comptes ne consiste pas à garantir la viabilité ou la qualité de la gestion de votre société.
+Dans le cadre d’un audit réalisé conformément aux normes d’exercice professionnel applicables en
+France, le commissaire aux comptes exerce son jugement professionnel tout au long de cet audit. En
+outre :
+• il identifie et évalue les risques que les comptes annuels comportent des anomalies significatives,
+que celles-ci proviennent de fraudes ou résultent d’erreurs, définit et met en œuvre des procédures
+d’audit face à ces risques, et recueille des éléments qu’il estime suffisants et appropriés pour fonder
+son opinion. Le risque de non-détection d’une anomalie significative provenant d’une fraude est plus
+élevé que celui d’une anomalie significative résultant d’une erreur, car la fraude peut impliquer la
+collusion, la falsification, les omissions volontaires, les fausses déclarations ou le contournement du
+contrôle interne ;
+• il prend connaissance du contrôle interne pertinent pour l’audit afin de définir des procédures d’audit
+appropriées en la circonstance, et non dans le but d’exprimer une opinion sur l’efficacité du contrôle
+interne ;
+• il apprécie le caractère approprié des méthodes comptables retenues et le caractère raisonnable des
+estimations comptables faites par la direction, ainsi que les informations les concernant fournies dans
+les comptes annuels ;
+• il apprécie le caractère approprié de l’application par la direction de la convention comptable de
+continuité d’exploitation et, selon les éléments collectés, l’existence ou non d’une incertitude
+significative liée à des événements ou à des circonstances susceptibles de mettre en cause la
+capacité de la société à poursuivre son exploitation. Cette appréciation s’appuie sur les éléments
+collectés jusqu’à la date de son rapport, étant toutefois rappelé que des circonstances ou événements
+ultérieurs pourraient mettre en cause la continuité d’exploitation. S’il conclut à l’existence d’une
+incertitude significative, il attire l’attention des lecteurs de son rapport sur les informations fournies
+dans les comptes annuels au sujet de cette incertitude ou, si ces informations ne sont pas fournies ou
+ne sont pas pertinentes, il formule une certification avec réserve ou un refus de certifier ;
+
+
+
+
+                                                                                                          5
+                         OPEN BEE FRANCE SAS
+                         Rapport du commissaire aux comptes sur les comptes annuels
+                         31 mars 2022
+
+
+
+
+• il apprécie la présentation d’ensemble des comptes annuels et évalue si les comptes annuels
+reflètent les opérations et événements sous-jacents de manière à en donner une image fidèle.
+
+
+
+
+ Annecy, le 18 janvier 2023
+ KPMG SA
+
+
+Arnaud
+ [                    Signature
+                      numérique de
+                      Arnaud Screve
+Screve
+ [/
+                      Date : 2023.01.18
+                      11:37:33 +01'00'
+ Arnaud SCREVE
+ Associé
+
+
+
+
+                                                                                                6
+ OPEN BEE FRANCE SAS                                                                       PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                      Compte de résultat
+                                                                                                                          Présenté en Euros
+                                                                Exercice clos le                 du 01/01/2020
+                                                                                                                  Variation
+                                                                31/03/2022                       au 31/03/2021                      %
+                                                                  (12 mois)                        (15 mois)      absolue
+
+                                                  France        Exportations       Total            Total
+Ventes de marchandises
+Production vendue biens                            2 687 262       1 351 345       4 038 607        4 363 391       - 324 784           -7,44
+Production vendue services                           906 050         166 922       1 072 972          831 655         241 317         29,02
+                  Chiffres d'affaires Nets         3 593 312       1 518 267       5 111 579        5 195 046        - 83 467           -1,61
+
+Production stockée                                                                 1 042 000                       1 042 000             N/S
+Production immobilisée                                                             1 142 260        1 243 643      - 101 383            -8,15
+Subventions d'exploitation                                                            38 677                           38 677            N/S
+Reprises sur amort. et prov., transfert de charges                                    75 668          103 576        - 27 908        -26,94
+Autres produits                                                                        2 920            4 693          - 1 773       -37,78
+                                        Total des produits d'exploitation (I)      7 413 104        6 546 957        866 147          13,23
+Achats de marchandises (y compris droits de douane)
+Variation de stock (marchandises)
+Achats de matières premières et autres approvisionnements                           166 422           111 892          54 530         48,73
+Variation de stock (matières premières et autres approv.)
+Autres achats et charges externes                                                  2 282 701        2 435 629       - 152 928           -6,28
+Impôts, taxes et versements assimilés                                                 71 985           96 482         - 24 497       -25,39
+Salaires et traitements                                                            2 586 117        2 662 196         - 76 079          -2,86
+Charges sociales                                                                   1 002 490        1 037 800         - 35 310          -3,40
+Dotations aux amortissements sur immobilisations                                     926 379          911 857           14 522          1,59
+Dotations aux provisions sur immobilisations
+Dotations aux provisions sur actif circulant                                          31 718            43 112       - 11 394        -26,43
+Dotations aux provisions pour risques et charges
+Autres charges                                                                      405 396           418 422        - 13 026           -3,11
+                                        Total des charges d'exploitation (II)      7 473 208        7 717 390       - 244 182           -3,16
+
+                                        RESULTAT EXPLOITATION (I-II)                -60 105      -1 170 433       1 110 328           94,86
+Quotes-parts de résultat sur opérations faites en commun
+Bénéfice attribué ou perte transférée (III)
+Perte supportée ou bénéfice transféré (IV)
+Produits financiers de participations                                                       81                                81         N/S
+Produits des autres valeurs mobilières et créances
+Autres intérêts et produits assimilés                                                                     1 474       - 1 474           -100
+Reprises sur provisions et transferts de charges
+Différences positives de change                                                        8 015                            8 015            N/S
+Produits nets sur cessions valeurs mobilières placement
+                                           Total des produits financiers (V)           8 097              1 474         6 623        449,32
+Dotations financières aux amortissements et provisions
+Intérêts et charges assimilées                                                        27 070            34 550        - 7 480        -21,65
+Différences négatives de change                                                                          1 706        - 1 706           -100
+Charges nettes sur cessions valeurs mobilières de placement
+                                         Total des charges financières (VI)           27 070            36 256        - 9 186        -25,34
+
+                                          RESULTAT FINANCIER (V-VI)                 -18 973           -34 782         15 809          45,45
+
+             RESULTAT COURANT AVANT IMPOT (I-II+III–IV+V-VI)                        -79 078      -1 205 215       1 126 137           93,44
+
+
+
+
+Voir le compte-rendu de l’expert-comptable                                                                                         Page 2
+ OPEN BEE FRANCE SAS                                                                     PAE LES LONGERAY 74370 METZ-TESSY
+
+                                               Compte de résultat (suite)
+                                                                                                                         Présenté en Euros
+                                                                              Exercice clos le   du 01/01/2020
+                                                                                                                 Variation
+                                                                              31/03/2022         au 31/03/2021                     %
+                                                                                (12 mois)          (15 mois)     absolue
+
+Produits exceptionnels sur opérations de gestion                                      16 192           32 015       - 15 823        -49,42
+Produits exceptionnels sur opérations en capital                                      34 500        1 175 009    -1 140 509         -97,06
+Reprises sur provisions et transferts de charges
+                                    Total des produits exceptionnels (VII)            50 692        1 207 024    -1 156 332         -95,80
+Charges exceptionnelles sur opérations de gestion                                         222         176 013      - 175 791        -99,87
+Charges exceptionnelles sur opérations en capital                                       2 257           3 604         - 1 347       -37,38
+Dotations exceptionnelles aux amortissements et provisions
+                                  Total des charges exceptionnelles (VIII)              2 479         179 617      - 177 138        -98,62
+
+                                  RESULTAT EXCEPTIONNEL (VII-VIII)                   48 213       1 027 407       - 979 194         -95,31
+Participation des salariés (IX)
+Impôts sur les bénéfices (X)                                                       -306 033          -363 986         57 953        15,92
+                                           Total des Produits (I+III+V+VII)      7 471 893          7 755 456      - 283 563           -3,66
+
+                                    Total des charges (II+IV+VI+VII+IX+X)        7 196 724          7 569 277      - 372 553           -4,92
+
+                                                        RESULTAT NET               275 169           186 179         88 990         47,80
+Dont Crédit-bail mobilier                                                           119 841           154 290       - 34 449        -22,33
+
+Dont Crédit-bail immobilier
+
+
+
+
+Voir le compte-rendu de l’expert-comptable                                                                                      Page 3
+ OPEN BEE FRANCE SAS                                                                    PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                              Bilan ACTIF
+                                                                                                                            Présenté en Euros
+                                                                               Exercice clos le               du 01/01/2020
+                            ACTIF                                              31/03/2022
+                                                                                 (12 mois)
+                                                                                                              au 31/03/2021
+                                                                                                                (15 mois)
+                                                                                                                                 Variation
+
+
+                                                                    Brut       Amort.prov.         Net            Net
+Capital souscrit non appelé           (0)
+Actif immobilisé
+Frais d'établissement
+Recherche et développement                                            15 300         8 934            6 367         9 427            - 3 060
+Concessions, brevets, droits similaires                            4 503 151     2 334 583        2 168 568     1 911 281           257 287
+Fonds commercial                                                     150 000                        150 000       150 000
+Autres immobilisations incorporelles
+Avances et acomptes sur immobilisations incorporelles
+Terrains
+Constructions
+Installations techniques, matériel et outillage industriels
+Autres immobilisations corporelles                                  309 219         218 229         90 991        117 108           - 26 117
+Immobilisations en cours
+Avances et acomptes
+Participations évaluées selon mise en équivalence
+Autres participations
+Créances rattachées à des participations
+Autres titres immobilisés                                              6 576                         6 576            6 576
+Prêts
+Autres immobilisations financières                                   59 683                         59 683          59 683
+                                                      TOTAL (I)    5 043 929     2 561 745        2 482 185     2 254 074           228 111
+Actif circulant
+Matières premières, approvisionnements
+En-cours de production de biens
+En-cours de production de services                                 1 042 000                      1 042 000                       1 042 000
+Produits intermédiaires et finis
+Marchandises
+Avances et acomptes versés sur commandes                              63 819                         63 819       117 916           - 54 097
+Clients et comptes rattachés                                       1 330 325          71 997      1 258 328     1 101 258           157 070
+Autres créances
+. Fournisseurs débiteurs                                             11 568                         11 568         51 326           - 39 758
+. Personnel                                                             573                            573          2 381             - 1 808
+. Organismes sociaux                                                  2 307                          2 307         13 632           - 11 325
+. Etat, impôts sur les bénéfices                                    314 167                        314 167        291 549             22 618
+. Etat, taxes sur le chiffre d'affaires                              53 366                         53 366         35 387             17 979
+. Autres                                                            890 197                        890 197        640 025           250 172
+Capital souscrit et appelé, non versé
+Valeurs mobilières de placement
+Disponibilités                                                      937 350                        937 350        938 558            - 1 208
+Instruments de trésorerie
+Charges constatées d'avance                                          52 920                         52 920        169 798          - 116 878
+                                                      TOTAL (II)   4 698 591          71 997      4 626 594     3 361 829         1 264 765
+Charges à répartir sur plusieurs exercices (III)
+Primes de remboursement des obligations (IV)
+Ecarts de conversion actif (V)
+                                            TOTAL ACTIF (0 à V)    9 742 521     2 633 742        7 108 778     5 615 903         1 492 875
+
+
+
+
+Voir le compte-rendu de l’expert-comptable                                                                                         Page 4
+ OPEN BEE FRANCE SAS                                                                 PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                      Bilan (suite) PASSIF
+                                                                                                                       Présenté en Euros
+                                                                         Exercice clos le       du 01/01/2020
+                                 PASSIF                                  31/03/2022
+                                                                           (12 mois)
+                                                                                                au 31/03/2021
+                                                                                                  (15 mois)
+                                                                                                                         Variation
+
+
+Capitaux Propres
+Capital social ou individuel (dont versé : 100 000)                                 100 000              100 000
+Primes d'émission, de fusion, d'apport ...
+Ecarts de réévaluation
+Réserve légale                                                                         10 000                 10 000
+Réserves statutaires ou contractuelles
+Réserves réglementées
+Autres réserves                                                                  1 976 648            1 790 469                186 179
+Report à nouveau
+Résultat de l'exercice                                                              275 169              186 179                88 990
+Subventions d'investissement
+Provisions réglementées
+                                                             TOTAL (I)           2 361 817            2 086 648                275 169
+Produits des émissions de titres participatifs
+Avances conditionnées
+                                                            TOTAL (II)
+Provisions pour risques et charges
+Provisions pour risques
+Provisions pour charges
+                                                           TOTAL (III)
+Emprunts et dettes
+Emprunts obligataires convertibles
+Autres Emprunts obligataires
+Emprunts et dettes auprès des établissements de crédit
+. Emprunts                                                                       3 244 106            2 178 923              1 065 183
+. Découverts, concours bancaires
+Emprunts et dettes financières diverses
+. Divers                                                                                                       3 454            - 3 454
+. Associés
+Avances et acomptes reçus sur commandes en cours                                     24 302                9 114                15 188
+Dettes fournisseurs et comptes rattachés                                            470 151              286 517               183 634
+Dettes fiscales et sociales
+. Personnel                                                                         331 858              287 958                  43 900
+. Organismes sociaux                                                                328 638              468 842              - 140 204
+. Etat, impôts sur les bénéfices                                                                          58 986                - 58 986
+. Etat, taxes sur le chiffre d'affaires                                             146 912               95 848                  51 064
+. Etat, obligations cautionnées
+. Autres impôts, taxes et assimilés                                                    41 221                 42 749            - 1 528
+Dettes sur immobilisations et comptes rattachés                                                                8 998            - 8 998
+Autres dettes                                                                       132 478                   87 866            44 612
+Instruments de trésorerie
+Produits constatés d'avance                                                            27 296                                   27 296
+                                                           TOTAL (IV)            4 746 961            3 529 255              1 217 706
+Ecart de conversion passif (V)
+                                                  TOTAL PASSIF (I à V)           7 108 778            5 615 903              1 492 875
+
+
+
+
+Voir le compte-rendu de l’expert-comptable                                                                                    Page 5
+ OPEN BEE FRANCE SAS                                                           PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                                            Annexes aux comptes annuels
+
+                                                       PREAMBULE
+       L'exercice social clos le 31/03/2022 a une durée de 12 mois.
+       L'exercice précédent clos le 31/03/2021 avait une durée de 15 mois.
+
+       Le total du bilan de l'exercice avant affectation du résultat est de 7 108 778,38 E.
+
+       Le résultat net comptable est un bénéfice de 275 169,09 E.
+
+     Les informations communiquées ci-après font partie intégrante des comptes annuels qui ont été établis le
+    19/07/2022 par les dirigeants.
+
+
+                          PRINCIPES COMPTABLES, METHODES D’EVALUATION,
+                                   COMPARABILITE DES COMPTES
+Les comptes annuels sont établis selon les normes définies par le plan comptable général approuvé par arrêté ministériel
+du 8 septembre 2014 (règlement ANC 2014-03), en application des articles L.123-12 à L.123-28 et R.123-172 à R.123-
+208 du code du commerce et conformément aux dispositions des règlements comptables révisant le PCG établis par
+l’autorité des normes comptables.
+
+Afin de répondre à un objectif d’image fidèle, les conventions générales comptables ont été appliquées dans le respect
+des principes suivants :
+
+   x    Comparabilité des comptes annuels : permanence des méthodes
+   x    Indépendance des exercices
+   x    Continuité d’exploitation
+   x    Régularité
+   x    Sincérité
+   x    Importance relative
+   x    Prudence
+
+et conformément aux règles générales d'établissement et de présentation des comptes annuels.
+
+La méthode de base retenue pour l'évaluation des éléments inscrits en comptabilité est la méthode des coûts historiques.
+
+Lors de première application des règlements précités qui se sont imposés à l’entité à compter des exercices ouverts
+depuis le 1er janvier 2005, la société a choisi d’utiliser la méthode prospective.
+
+Les principales méthodes utilisées et les options retenues sont les suivantes :
+IMMOBILISATIONS INCORPORELLES ET CORPORELLES
+
+   Les immobilisations incorporelles et corporelles sont évaluées à leur coût d'acquisition après déduction des rabais
+   commerciaux, remises, escomptes de règlement ou à leur coût de production.
+
+   Frais de recherche et développement
+   L’option pour la comptabilisation en charges des frais de développement n’a pas été retenue
+   Les frais de recherche et développement immobilisés engagés au cours de l’exercice se sont élevés
+   à 1 142 260 €.
+
+FONDS Commercial (ANC règlement 2015-06 – PCG art 214-15)
+
+   La durée d’utilisation du fonds commercial est non limitée. De ce fait, le fonds commercial n’est pas amorti.
+   Un test de dépréciation a été réalisé et a conduit à constater que la valeur actuelle du fonds commercial figurant à
+   l’actif pour un montant de 150 000 euros est supérieure à sa valeur nette comptable.
+   Aucune dépréciation du fonds commercial n’a donc été constatée.
+
+
+
+Voir le compte-rendu de l’expert-comptable                                                                      Page 18
+ OPEN BEE FRANCE SAS                                                              PAE LES LONGERAY 74370 METZ-TESSY
+
+
+IMMOBILISATIONS FINANCIERES
+
+   Les immobilisations financières sont évaluées à leur coût d'acquisition après déduction des rabais commerciaux,
+   remises, escomptes de règlement.
+
+   Option pour les frais accessoires :
+   L’entité n’est pas concernée par l’option pour l’incorporation de certains frais accessoires (droits de mutation,
+   honoraires ou commissions et frais d’actes) dans le coût d’entrée des immobilisations financières.
+
+PRODUCTION IMMOBILISEE
+   La société active ses frais de développement de logiciels dans la mesure où ils se rapportent à des projets nettement
+   individualisés, ayant de sérieuses chances de réussite technique et de rentabilité commerciale.
+
+   La société s’engage alors à démontrer qu’elle remplit simultanément les six critères suivants :
+        - la faisabilité technique nécessaire à l’achèvement de l’immobilisation incorporelle en vue de sa mise en service
+        ou de sa vente ;
+
+        - l’intention d’achever l’immobilisation incorporelle et de l’utiliser ou de la vendre ;
+
+        - la capacité d’utiliser ou de vendre cette immobilisation incorporelle ;
+
+        - la capacité de l’immobilisation incorporelle à générer des avantages économiques futurs, l’entreprise doit
+        notamment démontrer l’existence d’un marché pour la production issue de l’immobilisation incorporelle ou pour
+        l’immobilisation incorporelle elle-même ou, si celle-ci doit être utilisée en interne, son utilité ;
+
+        - la disponibilité de ressources (techniques, financières et autres) appropriées pour achever le développement et
+        utiliser ou vendre l’immobilisation ;
+
+        - la capacité à évaluer de façon fiable les dépenses attribuables à l’immobilisation incorporelle au cours de son
+        développement.
+   La durée d’amortissement relative aux frais de recherche et développement est fixée à 3 ans.
+
+AMORTISSEMENTS
+
+   Les amortissements représentent la répartition systématique du montant amortissable d’un actif en fonction de son
+   utilisation. Ils sont donc désormais calculés sur la durée d’utilisation réelle des biens.
+
+DEPRECIATIONS
+
+   La dépréciation est la constatation que la valeur d’un actif est devenue inférieure à sa valeur nette comptable.
+
+   L’entité n’a pas relevé d’indices de perte de valeur nécessitant la constatation d’une dépréciation.
+
+STOCK
+
+Les stocks d'en-cours résultent essentiellement des coûts d'exécution de contrats et phases préparatoires des licences en
+mode Saas.
+Sur l'exercice clos le 31 mars 2022, la méthode de valorisation des contrats de licences en cours en mode Saas a été
+revue.
+En effet, ces contrats de licences en mode Saas nécessitent des phases préparatoires dans le but d'accéder à une phase
+cible d'exploitation.
+Les coûts correspondants sont :
+     • Planification des développements logiciel ;
+     • Conception des logiciels ;
+     • Test et assurance qualité ;
+     • Maintenance ;
+     • Achat des supports de développement permettant les adaptations spécifiques partenaires ;
+     • Achat de librairies externes ;
+     • Production du développement opérationnel ;
+     • Marketing.
+
+
+
+Voir le compte-rendu de l’expert-comptable                                                                            Page 19
+ OPEN BEE FRANCE SAS                                                           PAE LES LONGERAY 74370 METZ-TESSY
+
+Les en-cours comptabilisés s'élèvent à 1 042 k€ et ont été estimés en fonction d'une répartition analytique tout en excluant
+les coûts déjà incorporés à la production immobilisée.
+
+La direction de l’entreprise fait observer qu’elle n’a pas activé l’option (comme certains confrères éditeurs de logiciels le
+font) de comptabiliser la prise de revenus en Production sur ces contrats cloud non encore facturés, lesquels contrats
+découlent des commandes fermes des clients partenaires Orange et Ventes directes.
+La prise de revenus des contrats cloud Konica Minolta se fait quant à elle historiquement par le biais d’une facturation One
+Shot de la totalité du contrat au partenaire Konica Minolta dans la mesure où il y a mise à disposition des licences et
+conformément à l’application de l’avis EC 2018-15 et n’est donc pas concernée par la comptabilisation de la production
+des contrats cloud.
+
+Une production correspondant à 80% des contrats cloud aboutirait dans la mesure où la partie Software du contrat est
+produite et fournie dès l’origine de ces contrats.
+La partie Infra du contrat qui fait l’objet d’une consommation dans le temps par les utilisateurs fait logiquement l’objet
+d’une prise de revenus progressive mensuelle (Infrastructure et plateforme) représente moins de 20% de la valeur de ce
+contrat.
+
+Si Open Bee avait appréhendé ses revenus avec cette méthode, la situation nette de l’entreprise eut été améliorée de 770
+k€ (2 265 k€ x 80% - 1 042 k€)
+
+
+CREANCES
+
+   Les créances sont valorisées à leur valeur nominale. Une provision pour dépréciation est pratiquées lorsque la valeur
+   d’inventaire est inférieure à la valeur comptable.
+
+
+OPERATIONS EN DEVISES
+
+   Les charges et les produits en devises sont enregistrés pour leur contre-valeur à la date de l'opération.
+   Les dettes, créances et disponibilités en devises figurent au bilan pour leur contre-valeur au cours de fin d'exercice.
+   La différence résultant de l'actualisation des dettes et créances en devises à ce dernier cours est portée au bilan en
+   "écart de conversion". Les pertes latentes de change non compensées font l'objet d'une provision en totalité.
+
+
+                                      FAITS MARQUANTS DE L'EXERCICE
+
+La méthode d'évaluation des contrats Saas a été modifiée sur l'exercice (cf : paragraphe sur la valorisation des
+stocks).
+L'impact sur les comptes de l'exercice abouti à une comptabilisation d'un stock d'en-cours de 1 042 k€ dont la
+contrepartie se retrouve en production stockée dans le compte de résultat pour un montant équivalent.
+
+
+                     EVENEMENTS POSTERIEURS A LA CLÔTURE DES COMPTES
+ A la date d’arrêté des états financiers pour l’exercice clos au 31 mars 2022, la direction de l’entité n’a pas connaissance
+d’incertitude significative qui remette en cause la capacité de l’entité à poursuivre son exploitation
+
+
+                           AUTRES ELEMENTS SIGNIFICATIFS DE L'EXERCICE
+    o    Tout comme en N-1, la redevance pour l’utilisation de la licence d’Open Bee SA initialement de 40% a été
+        plafonnée à 15%, compte tenu des développements réalisés par la société pour ajouter des fonctionnalités à
+        l’écosystème Open BEE. L’abattement appliqué sur le chiffre d’affaires d’Open Bee France retenu pour le calcul
+        de la redevance est de 50% suite à un avenant signé en 2018.
+
+    o   Les autres produits et charges exceptionnels n’ont pas de caractère significatif et n’appellent pas d’observations
+        particulières.
+
+
+
+
+Voir le compte-rendu de l’expert-comptable                                                                          Page 20
+ OPEN BEE FRANCE SAS                                                          PAE LES LONGERAY 74370 METZ-TESSY
+
+
+
+
+                                             NOTES SUR LE BILAN ACTIF
+Frais de recherche & développement = 15 300 E
+Frais recherche & développement                Valeur brute        Amortissement          Valeur nette            Taux
+        Frais recherche & développement                15 300               8 934                  6 367                       %
+
+Fonds commercial (hors droit au bail) = 150 000 E
+          Fonds commercial                     Valeur brute        Amort./Provis.         Valeur nette            Taux
+                         Fonds acheté                 150 000                                    150 000                       %
+                       Fonds réévalué                                                                                          %
+                  Fonds reçu en apport                                                                                         %
+                               TOTAL                    150 000                                   150 000
+
+Actif immobilisé
+      Les mouvements de l'exercice sont détaillés dans les tableaux ci-dessous :
+
+      Immobilisations brutes = 5 043 929 E
+           Actif immobilisé                    A l'ouverture       Augmentation           Diminution           A la clôture
+           Immobilisations incorporelles             3 526 191         1 142 260                                     4 668 451
+             Immobilisations corporelles               316 861            14 487                   22 128              309 219
+             Immobilisations financières                66 259                                                          66 259
+                                 TOTAL               3 909 311           1 156 747                 22 128            5 043 929
+
+      Amortissements et provisions d'actif = 2 561 745 E
+    Amortissements et provisions               A l'ouverture       Augmentation           Diminution           A la clôture
+           Immobilisations incorporelles             1 455 484           888 032                                     2 343 516
+             Immobilisations corporelles               199 752            38 347                   19 871              218 229
+               Titres mis en équivalence
+      Autres Immobilisations financières
+                                 TOTAL                 1 655 236           926 379                 19 871           2 561 745
+
+      Détail des immobilisations et amortissements en fin de période
+    Nature des biens immobilisés                 Montant             Amortis.             Valeur nette           Durée
+        Frais recherche/ developpement                15 300                8 934                  6 367                5 ans
+               Brevets licences marques            4 503 151           2 334 583               2 168 568                3 ans
+                         Fond commercial             150 000                    0                150 000        Non amortiss.
+            Installations et agencements              92 581               35 406                 57 175        de 5 à 10 ans
+         Autres immobilisations corpore                1 350                    0                  1 350        Non amortiss.
+                     Materiel de transport            42 352               32 837                  9 515         de 2 à 3 ans
+                    Mat.bureau &informat             172 936             149 985                  22 951         de 2 à 5 ans
+
+                                   TOTAL               4 977 670         2 561 745              2 415 926
+
+Etat des créances = 2 715 106 E
+               Etat des créances                          Montant brut               A un an                A plus d'un an
+                                    Actif immobilisé                59 683                                             59 683
+                Actif circulant & charges d'avance              2 655 423                    2 655 423
+                                            TOTAL               2 715 106                    2 655 423                 59 683
+
+Provisions pour dépréciation = 71 997 E
+       Nature des provisions              A l'ouverture     Augmentation      utilisées       non utilisées     A la clôture
+                  Stocks et en-cours
+                    Comptes de tiers               55 762            31 718         15 482                             71 997
+                 Comptes financiers
+                             TOTAL                 55 762            31 718         15 482                             71 997
+
+
+
+Voir le compte-rendu de l’expert-comptable                                                                           Page 21
+ OPEN BEE FRANCE SAS                                                        PAE LES LONGERAY 74370 METZ-TESSY
+
+Produits à recevoir par postes du bilan = 307 206 E
+                              Produits à recevoir                                                   Montant
+                                                       Immobilisations financières
+                                                      Clients et comptes rattachés                               227 712
+                                                                   Autres créances                                79 494
+                                                                     Disponibilités
+                                                                            TOTAL                                307 206
+
+Charges constatées d'avance = 52 920 E
+     Les charges constatées d'avance ne sont composées que de charges ordinaires dont la répercussion sur le résultat
+    est reportée à un exercice ultérieur.
+
+
+
+
+                                        NOTES SUR LE BILAN PASSIF
+Capital social = 100 000 E
+            Mouvements des titres                         Nombre                Val. nominale           Capital social
+                      Titres en début d'exercice                    1 000                 100,00                  100 000
+                                     Titres émis
+                 Titres remboursés ou annulés
+                       Titres en fin d'exercice                     1 000                  100,00                100 000
+
+Etat des dettes = 4 722 659 E
+            Etat des dettes                  Montant total        De 0 à 1 an          De 1 à 5 ans      Plus de 5 ans
+                Etablissements de crédit          3 244 106            1 721 530            1 099 702            422 874
+              Dettes financières diverses
+                            Fournisseurs             470 151              470 151
+               Dettes fiscales & sociales            848 629              848 629
+              Dettes sur immobilisations
+                            Autres dettes             132 478             132 478
+             Produits constatés d'avance               27 296              27 296
+                                  TOTAL             4 722 659           3 200 083           1 099 702            422 874
+
+Charges à payer par postes du bilan = 374 963 E
+                                Charges à payer                                                     Montant
+                                                      Emp. & dettes établ. de crédit                               7 622
+                                                      Emp.& dettes financières div.
+                                                                     Fournisseurs                                 67 012
+                                                       Dettes fiscales & sociales                                257 749
+                                                                     Autres dettes                                42 580
+                                                                            TOTAL                                374 963
+
+Produits constatés d'avance = 27 296 E
+     Les produits constatés d'avance ne sont composés que de produits ordinaires dont la répercussion sur le résultat
+    est reportée à un exercice ultérieur.
+
+
+
+
+Voir le compte-rendu de l’expert-comptable                                                                      Page 22
+ OPEN BEE FRANCE SAS                                                         PAE LES LONGERAY 74370 METZ-TESSY
+
+
+
+
+                                   NOTES SUR LE COMPTE DE RESULTAT
+Ventilation du chiffre d'affaires = 5 111 579 E
+      Le chiffre d'affaires de l'exercice se décompose de la manière suivante :
+                      Nature du chiffre d'affaires                                Montant HT                Taux
+                                                  Ventes de produits finis              4 038 607                  79,01 %
+                                                  Prestations de services               1 072 972                  20,99 %
+
+                                                                   TOTAL                5 111 579                100.00 %
+
+
+                                             AUTRES INFORMATIONS
+Effectif moyen
+                   Catégories de salariés                                 Salariés                    En régie
+                                                      Cadres                             39
+                             Agents de maîtrise & techniciens
+                                                    Employés                              4
+                                                     Ouvriers
+                                      Apprentis sous contrat
+                                                      TOTAL                              43
+
+
+
+Dettes garanties par des sûretés réelles
+
+Prêt moyen terme de 16 561€ souscrit à la Société Générale, au taux fixe de 0.70%
+Du 21/11/2016 au 21/11/2021, remboursable en 60 mensualités.
+Capital restant du au 31/03/2022 : 577.83 €
+Garantie : nantissement fond artisanal
+Garantie accordée au profit du fond national de garantie renforcement de la trésorerie à hauteur de 30% de l’emprunt BPI
+de 170 000 €.
+
+Prêt moyen terme de 83 400 € souscrit à la Sté Générale, au taux fixe de 0.70 % réalisation 19/06/2017 remboursable en
+84 mensualités.
+Capital restant dû au 31/03/2022 : 33 253,42 €
+Garantie : Nantissement du fonds de commerce
+
+Prêt moyen terme de 300 000 € souscrit à la Sté Générale, au taux fixe de 0.60 % réalisation 17/10/2018 remboursable en
+60 mensualités.
+Capital restant du au 31/03/2022 : 255 000 €
+Garantie : Nantissement du fonds de commerce
+
+Prêt moyen terme de 200 000 € souscrit au CIC, au taux fixe de 0.75 % débloqué le 05/11/2018 en totalité.
+Remboursable en 48 mensualités.
+Capital restant du au 31/03/2022 : 33 751.30 €
+Garantie : Nantissement du fonds de commerce
+
+Prêt moyen terme de 200 000 € souscrit à la caisse d’épargne, au taux fixe de 0.85 % débloqué le 19/12/2018 en totalité.
+Remboursable en 48 mensualités.
+Capital restant du au 31/03/2022 : 67 709.91 €
+Garantie : Caution BPI France pour 35 397,37 € et Nantissement du fonds de commerce
+
+
+
+
+Voir le compte-rendu de l’expert-comptable                                                                       Page 23
+ OPEN BEE FRANCE SAS                                                       PAE LES LONGERAY 74370 METZ-TESSY
+
+Prêt PGE moyen terme de 150 000 € souscrit à la Banque Populaire au taux de 0.25 % puis 0.73 % - 72 mensualités –
+réalisation 30/05/2020. Remboursement différé de 24 mois.
+Capital restant dû au 31/03/2021 : 150 000 €.
+Caution apportée par la République Française.
+
+Prêt PGE moyen terme de 600 000 € souscrit à la Sté Générale au taux de 0.25 % puis 0.58 % - 48 mensualités –
+réalisation 30/05/2020. Remboursement différé de 24 mois.
+Capital restant dû au 31/03/2022 : 600 000 €.
+Caution apportée par la République Française.
+
+Prêt PGE moyen terme de 200 000 € souscrit à la Caisse d’Epargne au taux de 0 % puis 0.12 % - 72 mensualités –
+réalisation 30/05/2020. Remboursement différé de 24 mois.
+Capital restant dû au 31/03/2022 : 200 000 €.
+Caution apportée par la République Française
+Prêt PGE moyen terme de 150 000 € souscrit à la Bpi au taux de 1.75 % - 1 mensualité – réalisation 24/07/2020.
+Remboursement différé de 24 mois.
+Capital restant dû au 31/03/2022 : 150 000 €.
+Caution apportée par la République Française
+Prêt moyen terme de 160 000 € souscrit à la Banque Populaire, au taux fixe de 2.15 % réalisation 12/01/2022
+remboursable en 72 mensualités.
+Capital restant du au 31/03/2022 : 160 000 €
+Garantie : Fonds Européen de Garantie : prise de garantie
+Prêt moyen terme de 250 000 € souscrit à la Sté Générale, au taux fixe de 1.51 % réalisation 17/01/2022 remboursable en
+60 mensualités.
+Capital restant du au 31/03/2022 : 245 986.02 €
+Garantie : Caution BPI France à 50% de l’encours du prêt et Nantissement du fonds de commerce
+
+Prêt moyen terme de 240 000 € souscrit à la Sté Générale, au taux fixe de 4.50 % réalisation 17/02/2022 remboursable en
+31 trimestres.
+Capital restant du au 31/03/2022 : 240 000 €
+Garantie : Caution apportée par la République Française
+
+
+
+Autres engagements hors bilan
+Clause de retour à meilleure fortune sur abandon de dette financière à hauteur de 1 171 405 € née au cours de
+l’exercice née au cours de l’exercice clos au 31/03/2021.
+
+
+
+   Indemnités de fin de carrière
+
+Base des salaires du mois : 03/2022
+Date d’évaluation des IFC : 31/03/2022
+Turn over retenu : 3%
+Taux d’évolution des salaires : 1.50 %
+Taux d’actualisation : 1.81 %
+Date de départ à la retraite : 65 ans
+Modalité de départ à la retraite : à l’initiative du salarié
+Taux de charges sociales : Etude avec charges sociales
+Table de mortalité 2012-2014 H/F en France métropolitaine
+Montant probable du cout des indemnités à terme : 712 529 €
+Montant actualisé du cout probable des indemnités : 466 597 €
+Montant de l’engagement des IFC, selon les paramètres et hypothèses retenues : 154 683 €
+
+
+
+Voir le compte-rendu de l’expert-comptable                                                                      Page 24
+ OPEN BEE FRANCE SAS                                                PAE LES LONGERAY 74370 METZ-TESSY
+
+
+
+
+Tableaux financiers relatifs aux crédits-baux en cours
+         Redevances payées                   Immobilier   Mat. & Outil.   Autres immob.     TOTAL
+Cumuls des exercices antérieurs                                                   208 906      208 906
+Montants de l'exercice
+                             Sous-total                                          208 906       208 906
+
+       Redevances restant dues               Immobilier   Mat. & Outil.   Autres immob.     TOTAL
+A 1 an au plus                                                                    119 595      119 595
+Entre 1 et 5 ans                                                                  146 398      146 398
+A plus de 5 ans
+                           Sous-total                                            265 993       265 993
+
+            Valeur résiduelle                Immobilier   Mat. & Outil.   Autres immob.     TOTAL
+A 1 an au plus
+Entre 1 et 5 ans                                                                   69 662       69 662
+A plus de 5 ans
+                                Sous-total                                         89 730       89 730
+
+        Coût total du crédit-bail            Immobilier   Mat. & Outil.   Autres immob.     TOTAL
+                                    TOTAL                                         564 629      564 629
+
+
+
+
+Voir le compte-rendu de l’expert-comptable                                                    Page 25
+ OPEN BEE FRANCE SAS                                                       PAE LES LONGERAY 74370 METZ-TESSY
+
+
+
+           DETAIL DES POSTES CONCERNES PAR LE CHEVAUCHEMENT D'EXERCICE
+Les comptes détaillés dans les tableaux suivants concernent les écritures comptables relatives à l'indépendance des
+exercices.
+
+Produits à recevoir = 307 206 E
+
+                      Produits à recevoir sur clts et comptes rattachés                                  Montant
+                                                            Clients fact. à etab( 41810000000 )                227 712
+
+                                                                                         TOTAL                   227 712
+
+                           Produits à recevoir sur autres créances                                       Montant
+                                                           Org.soc. prod.a rece( 43870000000 )                      2 307
+                                                 Etat autres charges a recevoir( 44870000000 )                     77 187
+
+                                                                                         TOTAL                     79 494
+
+Charges constatées d'avance = 52 920 E
+                                  Charges constatées d'avance                                            Montant
+                                                          Charges constat.d'av( 48600000000 )                      52 920
+
+                                                                                         TOTAL                     52 920
+
+Charges à payer = 374 963 E
+
+                        Emprunts & dettes auprès des étab. De crédit                                     Montant
+                                                    Emprunts interets courus( 16884000000 )                           7 622
+
+                                                                                         TOTAL                        7 622
+
+                          Dettes fournisseurs et comptes rattachés                                       Montant
+                                                          Fournis.fact.non par( 40810000000 )                      67 012
+
+                                                                                         TOTAL                     67 012
+
+                                   Dettes fiscales et sociales                                           Montant
+                                                                 Conges a payer( 42820000000 )                 176 772
+                                                           Org.soc. ch/conges a( 43820000000 )                   71 796
+                                                       Org.soc. charges a payer( 43860000000 )                    2 096
+                                                             Etat autres ch. a pa( 44860000000 )                  6 335
+                                       Taxe d'apprentissage part conventionnelle( 44862000000 )                     587
+                                        Formation continue part conventionnelle( 44863000000 )                      163
+
+                                                                                         TOTAL                   257 749
+
+                                         Autres dettes                                                   Montant
+                                                             Clients rrr&av.a acc( 41980000000 )                   42 580
+
+                                                                                         TOTAL                     42 580
+
+Produits constatés d'avance = 27 296 E
+                                Produits constatés d'avance                                            Montant
+                                                Produits constates d'avance( 48700000000 )                         27 296
+
+                                                                                      TOTAL                        27 296
+
+
+
+
+Voir le compte-rendu de l’expert-comptable                                                                     Page 26
+

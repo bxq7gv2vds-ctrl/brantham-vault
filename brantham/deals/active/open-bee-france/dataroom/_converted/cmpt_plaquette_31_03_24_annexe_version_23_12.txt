@@ -1,0 +1,1883 @@
+OPEN BEE FRANCE SAS
+      PAE LES LONGERAY
+      74370 METZ-TESSY
+
+ Numéro SIRET : 50438944600023
+
+      COMPTES ANNUELS
+   du 01/04/2023 au 31/03/2024
+
+
+
+
+   MAZARS SAFIREC SAS
+     245 AVENUE RENE CASSIN
+           LE CRYSALIS
+    73290 LA MOTTE-SERVOLEX
+           04 79 69 77 32
+
+  www.forvismazars.com/fr
+OPEN BEE FRANCE SAS                                                   PAE LES LONGERAY 74370 METZ-TESSY
+
+
+
+
+                                                   Sommaire
+ Compte de résultat _________________________________________________________________________ 2
+ Bilan _____________________________________________________________________________________ 4
+    ACTIF                                                                                    4
+              Actif immobilisé                                                                    4
+              Actif circulant                                                                     4
+   PASSIF                                                                                         5
+              Capitaux Propres                                                                    5
+              Provisions pour risques et charges                                                  5
+              Emprunts et dettes                                                                  5
+
+ Compte de résultat détaillé __________________________________________________________________ 6
+ Soldes intermédiaires de gestion détaillé _____________________________________________________ 11
+ Bilan détaillé _____________________________________________________________________________ 16
+    ACTIF                                                                                     16
+              Actif immobilisé                                                                   16
+              Actif circulant                                                                    16
+   PASSIF                                                                                        18
+              Capitaux Propres                                                                   18
+              Provisions pour risques et charges                                                 18
+              Emprunts et dettes                                                                 18
+
+ Annexes aux comptes annuels ______________________________________________________________ 20
+   PREAMBULE                                                                                20
+   PRINCIPES COMPTABLES, METHODES D’EVALUATION, COMPARABILITE DES COMPTES                   20
+   AUTRES ELEMENTS SIGNIFICATIFS DE L'EXERCICE                                              24
+   NOTES SUR LE BILAN ACTIF                                                                 25
+   NOTES SUR LE BILAN PASSIF                                                                27
+   NOTES SUR LE COMPTE DE RESULTAT                                                          28
+   AUTRES INFORMATIONS                                                                      28
+   DETAIL DES POSTES CONCERNES PAR LE CHEVAUCHEMENT D'EXERCICE                              31
+   RÉSULTATS DES 5 DERNIERS EXERCICES                                                       33
+   TABLEAU DES FILIALES ET PARTICIPATIONS                                                   34
+   COMPTE RENDU DES TRAVAUX                                                                 35
+
+
+
+
+                                                     mazars safirec
+ OPEN BEE FRANCE SAS                                                                         PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                       Compte de résultat
+                                                                                                                                Présenté en Euros
+                                                                Exercice clos le                   Exercice précédent
+                                                                                                                        Variation
+                                                                31/03/2024                         31/03/2023                             %
+                                                                  (12 mois)                           (12 mois)         absolue
+
+                                                  France        Exportations         Total              Total
+Ventes de marchandises
+Production vendue biens                            6 432 784                        6 432 784          4 678 914         1 753 870          37,48
+Production vendue services                         2 323 135                        2 323 135          1 541 778           781 357          50,68
+                  Chiffres d'affaires Nets         8 755 918                        8 755 918          6 220 692         2 535 226          40,75
+
+Production stockée                                                                  -1 797 935           755 935         -2 553 870       -337,84
+Production immobilisée                                                               1 254 984         1 112 395            142 589         12,82
+Subventions d'exploitation                                                               6 000            16 000            - 10 000       -62,50
+Reprises sur amort. et prov., transfert de charges                                      96 676           111 378            - 14 702       -13,20
+Autres produits                                                                          9 016            20 265            - 11 249       -55,51
+                                        Total des produits d'exploitation (I)       8 324 659          8 236 665             87 994           1,07
+
+Achats de marchandises (y compris droits de douane)
+Variation de stock (marchandises)
+Achats de matières premières et autres approvisionnements                                5 094                4 060           1 034         25,47
+Variation de stock (matières premières et autres approv.)
+Autres achats et charges externes                                                   3 538 958          2 634 287           904 671          34,34
+Impôts, taxes et versements assimilés                                                 100 525             93 383             7 142            7,65
+Salaires et traitements                                                             2 929 886          2 899 070            30 816            1,06
+Charges sociales                                                                    1 134 286          1 115 742            18 544            1,66
+Dotations aux amortissements sur immobilisations                                    1 218 507          1 041 934           176 573          16,95
+Dotations aux provisions sur immobilisations
+Dotations aux provisions sur actif circulant                                            5 380                 3 479           1 901         54,64
+Dotations aux provisions pour risques et charges                                      504 541                               504 541           N/S
+Autres charges                                                                        219 963             356 479         - 136 516        -38,30
+
+                                        Total des charges d'exploitation (II)       9 657 140          8 148 434         1 508 706          18,52
+
+                                        RESULTAT EXPLOITATION (I-II)               -1 332 481              88 231       -1 420 712            N/S
+Quotes-parts de résultat sur opérations faites en commun
+Bénéfice attribué ou perte transférée (III)
+Perte supportée ou bénéfice transféré (IV)
+Produits financiers de participations                                                        158                   92               66      71,74
+Produits des autres valeurs mobilières et créances
+Autres intérêts et produits assimilés
+Reprises sur provisions et transferts de charges
+Différences positives de change
+Produits nets sur cessions valeurs mobilières placement
+                                           Total des produits financiers (V)                 158                   92               66      71,74
+
+Dotations financières aux amortissements et provisions
+Intérêts et charges assimilées                                                          81 790              55 298           26 492         47,91
+Différences négatives de change                                                          3 101                 238            2 863           N/S
+Charges nettes sur cessions valeurs mobilières de placement
+                                         Total des charges financières (VI)             84 892              55 536           29 356         52,86
+
+                                          RESULTAT FINANCIER (V-VI)                   -84 734            -55 444          - 29 290          52,83
+
+             RESULTAT COURANT AVANT IMPOT (I-II+III–IV+V-VI)                       -1 417 214              32 786       -1 450 000            N/S
+
+
+
+
+                                                                 mazars safirec                                                          Page 2
+ OPEN BEE FRANCE SAS                                                                     PAE LES LONGERAY 74370 METZ-TESSY
+
+                                               Compte de résultat (suite)
+                                                                                                                              Présenté en Euros
+                                                                              Exercice clos le   Exercice précédent
+                                                                                                                      Variation
+                                                                              31/03/2024         31/03/2023                             %
+                                                                                (12 mois)           (12 mois)         absolue
+
+Produits exceptionnels sur opérations de gestion                                                            2 814         - 2 814         -100
+Produits exceptionnels sur opérations en capital                                         2 000                325           1 675       515,38
+Reprises sur provisions et transferts de charges
+                                    Total des produits exceptionnels (VII)               2 000              3 139         - 1 139        -36,29
+
+Charges exceptionnelles sur opérations de gestion                                        1 994              4 271         - 2 277        -53,31
+Charges exceptionnelles sur opérations en capital                                          775                                775          N/S
+Dotations exceptionnelles aux amortissements et provisions
+                                  Total des charges exceptionnelles (VIII)               2 769              4 271         - 1 502        -35,17
+
+                                  RESULTAT EXCEPTIONNEL (VII-VIII)                        -769            -1 131             362         32,01
+Participation des salariés (IX)
+Impôts sur les bénéfices (X)                                                       -370 436            -276 358          - 94 078        34,04
+                                           Total des Produits (I+III+V+VII)      8 326 817           8 239 896            86 921          1,05
+
+                                    Total des charges (II+IV+VI+VII+IX+X)        9 374 363           7 931 883         1 442 480         18,19
+
+                                                        RESULTAT NET          -1 047 546               308 013        -1 355 559        -440,10
+Dont Crédit-bail mobilier                                                           498 119             145 197          352 922        243,06
+
+Dont Crédit-bail immobilier
+
+
+
+
+                                                               mazars safirec                                                        Page 3
+ OPEN BEE FRANCE SAS                                                                         PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                              Bilan ACTIF
+                                                                                                                                   Présenté en Euros
+                                                                                    Exercice clos le                Exercice précédent
+                            ACTIF                                                   31/03/2024
+                                                                                      (12 mois)
+                                                                                                                    31/03/2023
+                                                                                                                       (12 mois)
+                                                                                                                                         Variation
+
+
+                                                                       Brut         Amort.prov.          Net              Net
+Capital souscrit non appelé           (0)
+Actif immobilisé
+Frais d'établissement
+Recherche et développement                                               15 300          15 054               247          3 307            - 3 060
+Concessions, brevets, droits similaires                               7 827 138       4 498 588         3 328 550      2 288 013         1 040 537
+Fonds commercial                                                        150 000                           150 000        150 000
+Autres immobilisations incorporelles
+Avances et acomptes sur immobilisations incorporelles
+Terrains
+Constructions
+Installations techniques, matériel et outillage industriels
+Autres immobilisations corporelles                                     405 469           300 808         104 661          102 448             2 213
+Immobilisations en cours
+Avances et acomptes
+Participations évaluées selon mise en équivalence
+Autres participations                                                  634 545                           634 545                           634 545
+Créances rattachées à des participations
+Autres titres immobilisés                                                 6 720                            6 720              6 576             144
+Prêts
+Autres immobilisations financières                                      59 683                            59 683            59 683
+                                                      TOTAL (I)       9 098 855       4 814 450         4 284 405      2 610 027         1 674 378
+Actif circulant
+Matières premières, approvisionnements
+En-cours de production de biens
+En-cours de production de services                                                                                     1 797 935         -1 797 935
+Produits intermédiaires et finis
+Marchandises
+Avances et acomptes versés sur commandes                                 96 236                            96 236         42 495            53 741
+Clients et comptes rattachés                                          4 290 728            33 314       4 257 414      1 952 818         2 304 596
+Autres créances
+. Fournisseurs débiteurs                                                17 627                            17 627          12 630              4 997
+. Personnel                                                                                                                  573              - 573
+. Organismes sociaux                                                     4 221                             4 221           1 484              2 737
+. Etat, impôts sur les bénéfices                                       667 418                           667 418         281 991            385 427
+. Etat, taxes sur le chiffre d'affaires                                 74 427                            74 427          53 958             20 469
+. Autres                                                               117 514                           117 514       1 087 500          - 969 986
+Capital souscrit et appelé, non versé
+Valeurs mobilières de placement
+Disponibilités                                                         467 972                           467 972          689 612         - 221 640
+Instruments de trésorerie
+Charges constatées d'avance                                             43 557                            43 557            73 542         - 29 985
+                                                      TOTAL (II)      5 779 700            33 314       5 746 386      5 994 538          - 248 152
+Charges à répartir sur plusieurs exercices (III)
+Primes de remboursement des obligations (IV)
+Ecarts de conversion actif (V)
+                                            TOTAL ACTIF (0 à V)     14 878 554        4 847 764        10 030 791      8 604 565         1 426 226
+
+
+
+
+                                                                   mazars safirec                                                         Page 4
+ OPEN BEE FRANCE SAS                                                                   PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                      Bilan (suite) PASSIF
+                                                                                                                            Présenté en Euros
+                                                                           Exercice clos le         Exercice précédent
+                                 PASSIF                                   31/03/2024
+                                                                               (12 mois)
+                                                                                                    31/03/2023
+                                                                                                       (12 mois)
+                                                                                                                              Variation
+
+
+Capitaux Propres
+Capital social ou individuel (dont versé : 543 800)                                   543 800                  100 000              443 800
+Primes d'émission, de fusion, d'apport ...
+Ecarts de réévaluation
+Réserve légale                                                                             10 000                  10 000
+Réserves statutaires ou contractuelles
+Réserves réglementées
+Autres réserves                                                                    2 559 831                2 251 817               308 014
+Report à nouveau
+Résultat de l'exercice                                                            -1 047 546                   308 013           -1 355 559
+Subventions d'investissement
+Provisions réglementées
+                                                             TOTAL (I)             2 066 084                2 669 831              - 603 747
+Produits des émissions de titres participatifs
+Avances conditionnées
+                                                            TOTAL (II)
+Provisions pour risques et charges
+Provisions pour risques                                                               504 541                                       504 541
+Provisions pour charges
+                                                            TOTAL (III)               504 541                                       504 541
+Emprunts et dettes
+Emprunts obligataires convertibles                                                 2 000 000                                      2 000 000
+Autres Emprunts obligataires
+Emprunts et dettes auprès des établissements de crédit
+. Emprunts                                                                         2 348 922                2 704 958              - 356 036
+. Découverts, concours bancaires                                                                               85 125                - 85 125
+Emprunts et dettes financières diverses
+. Divers
+. Associés
+Avances et acomptes reçus sur commandes en cours                                          148                      148
+Dettes fournisseurs et comptes rattachés                                              679 365                  735 519              - 56 154
+Dettes fiscales et sociales
+. Personnel                                                                           366 272                  381 149              - 14 877
+. Organismes sociaux                                                                  241 317                  309 595              - 68 278
+. Etat, impôts sur les bénéfices
+. Etat, taxes sur le chiffre d'affaires                                               660 257                  455 919              204 338
+. Etat, obligations cautionnées
+. Autres impôts, taxes et assimilés                                                        43 869                  48 064            - 4 195
+Dettes sur immobilisations et comptes rattachés
+Autres dettes                                                                         199 811                  189 824                    9 987
+Instruments de trésorerie
+Produits constatés d'avance                                                           920 203               1 024 433              - 104 230
+                                                           TOTAL (IV)              7 460 166                5 934 734             1 525 432
+Ecart de conversion passif (V)
+                                                  TOTAL PASSIF (I à V)           10 030 791                 8 604 565             1 426 226
+
+
+
+
+                                                              mazars safirec                                                       Page 5
+OPEN BEE FRANCE SAS                                                          PAE LES LONGERAY 74370 METZ-TESSY
+
+                                    Compte de résultat détaillé
+                                                                                                                      Présenté en Euros
+                                                     Exercice clos le                Exercice précédent
+                                                                                                          Variation
+                                                     31/03/2024                      31/03/2023                               %
+                                                       (12 mois)                        (12 mois)         absolue
+
+                                        France       Exportations        Total            Total
+Production vendue biens                 6 432 784                       6 432 784        4 678 914         1 753 870           37,48
+    70100001000 LIC OP KM VTES FR          476 203                        476 203            492 425          - 16 222         -3,29
+    70100002000 LIC CLOUD KM VTES FR     1 735 723                      1 735 723          1 605 079          130 644           8,14
+    70100003000 LIC OP ORANGE VTES FR       27 304                         27 304             38 909          - 11 605        -29,83
+    70100004000 LIC CLOUD ORANGE VTES    1 664 357                      1 664 357            458 692        1 205 665         262,85
+    70100005000 LIC OP AUTRES PARTENA       65 148                         65 148            100 487          - 35 339        -35,17
+    70100006000 LIC CLOUD AUTRES PART      691 946                        691 946            136 028          555 918         408,68
+    70100007000 LIC OP VTES DIRECTES        44 998                         44 998             50 250            - 5 252       -10,45
+    70100008000 LIC CLOUD VTES DIRECT      351 719                        351 719            238 949          112 770          47,19
+    70100010000 LICENCES CLOUD AFRIQU          945                            945                                   945          N/S
+    70100011000 LICENCES SUISSE                                                                     956           - 956         -100
+    70100013000 ON PREMISE AFRIQUE           -936                            -936                                 - 936          N/S
+    70100016000 LIC CLOUD TOSHIBA FR      431 157                         431 157              18 324         412 833            N/S
+    70100018000 LIC OP TOSHIBA FR           7 128                           7 128                                 7 128          N/S
+    70100101000 LIC OP KM VTES EU          57 687                          57 687              49 800             7 887        15,84
+    70100102000 LIC CLOUD KM VTES EU       54 683                          54 683              52 292             2 391         4,57
+    70100105000 LIC OP AUTRES PARTENA      23 323                          23 323              53 082         - 29 759        -56,06
+    70100106000 LIC CLOUD AUTRES PART      82 431                          82 431              26 067           56 364        216,23
+    70100108000 LIC CLOUD? Vtes DIREC       7 323                           7 323                                 7 323          N/S
+    70100114000 LIC OP EUROPE VTES EU                                                            994              - 994         -100
+    70100201000 LIC OP KM VTES EXPORT     111 053                         111 053            118 752            - 7 699        -6,48
+    70100202000 LIC CLOUD KM VTES EXP     121 536                         121 536             56 930            64 606        113,48
+    70100205000 LIC OP AUTRES PARTENA     119 383                         119 383            129 747          - 10 364         -7,99
+    70100208000 EXPORT                      2 361                           2 361                192              2 169          N/S
+    70100210000 LIC CLOUD AUTRES PART      44 558                          44 558             47 120            - 2 562        -5,44
+    70100212000 LIC CLOUD ASIE VTES E       3 564                           3 564              2 662                902        33,88
+    70100213000 LIC OP AFRIQUE VTES E       4 306                           4 306              2 939              1 367        46,51
+    70100215000 LIC OP ASIE VTES EXPO       5 081                           5 081              1 497              3 584       239,41
+    70100305000 VENTES DOM                 46 786                          46 786             53 975            - 7 189       -13,32
+    70100307000 VENTES DOM                  1 574                           1 574                712                862       121,07
+    70100308000 LIC CLOUD VTES DIREC        5 558                           5 558              1 274              4 284       336,26
+    70100310000 LIC CLOUD AUTRES PART     213 417                         213 417            274 761          - 61 344        -22,33
+    70100405000 VENTES PAR                 29 477                          29 477             19 911              9 566        48,04
+   EXPORTATEU
+    70100508000 LIC CLOUD AUTRE PART.        2 990                           2 990                               2 990             N/S
+    70110100000 BUNDLE KONICA MINOLTA                                                        550 000         - 550 000            -100
+    70131000000 OPEN SCAN PORTAL                                                              -2 544             2 544            -100
+   FRAN
+    70150000000 LICENCES OPEN BEE                                                              98 654         - 98 654            -100
+Production vendue services              2 323 135                       2 323 135        1 541 778           781 357            50,68
+    70600001000 MAINT. OP KM VTES FR        34 977                         34 977             74 325          - 39 348         -52,94
+    70600002000 INSTALL. S/ SITE KM V       74 318                         74 318            134 608          - 60 290         -44,79
+    70600004000 MAINTENANCE OP.                                                                4 502            - 4 502          -100
+   ORANG
+    70600005000 INSTALL S/ SITE ORANG       2 380                           2 380                                 2 380          N/S
+    70600007000 MAINT OP AUTRES PARTE     108 886                         108 886            163 009          - 54 123        -33,20
+    70600008000 INSTALL S/ SITE AUTRE      30 539                          30 539             37 377            - 6 838       -18,29
+    70600010000 MAINT. OP VENTES DIRE      18 628                          18 628             26 453            - 7 825       -29,58
+    70600011000 INSTALL S/ SITE VTES      973 076                         973 076            143 199          829 877         579,53
+    70600012000 INSTALL A DISTANCE VT      29 693                          29 693             61 752          - 32 059        -51,92
+    70600013000 FORMATIONS VTES FR         18 449                          18 449              7 976            10 473        131,31
+    70600014000 INSTALL S/SITE TOSHIB      26 205                          26 205                               26 205           N/S
+    70600102000 INSTALL S/SITE KM Ven         595                             595                                   595          N/S
+    70600107000 MAINT. OP.AUTRES PART     123 687                         123 687              94 104           29 583         31,44
+    70600108000 INSTALL S/ SITE AUTRE       9 255                           9 255               4 994             4 261        85,32
+    70600111000 INSTALL S/SITE Vtes D       4 090                           4 090                                 4 090          N/S
+    70600112000 INSTALL DISTANCE Vtes       3 453                           3 453                                 3 453          N/S
+    70600113000 FORMATIONS VTES EU          1 485                           1 485                                 1 485          N/S
+    70600130000 ADVANCE BUREAUTIQ           2 340                           2 340                                 2 340          N/S
+
+
+                                                 mazars safirec                                                              Page 6
+OPEN BEE FRANCE SAS                                                                            PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                               Exercice clos le                      Exercice précédent
+                                                                                                                          Variation
+                                                               31/03/2024                            31/03/2023                               %
+                                                                 (12 mois)                              (12 mois)         absolue
+
+                                                 France     Exportations               Total              Total
+    70600207000 MAINT.OP AUTRES PARTE                58 092                              58 092              18 184            39 908         219,47
+    70600208000 INSTALL S/ SITE AUTRE               184 549                             184 549              63 899           120 650         188,81
+    70600213000 FORMATIONS VTES                       1 440                                1 440              -5 605            7 045         125,69
+   EXPOR
+    70600302000 INSTALL SUR SITE KM V                  3 094                                3 094              6 188            - 3 094       -50,00
+    70600307000 PRESTATIONS DOM                        8 096                                8 096             19 243          - 11 147        -57,93
+    70600308000 PRESTATIONS DOM                       98 742                               98 742            131 307          - 32 565        -24,80
+    70600311000 INSTALL S/SITE Vtes D                    159                                  159              3 094            - 2 935       -94,86
+    70600312000 INSTALL DISTANCE Vtes                                                                            119              - 119         -100
+    70600313000 PRESTATIONS DOM                       42 640                               42 640             17 790            24 850        139,69
+    70650000000 DEVELOPPEMENTS                        -1 256                               -1 256                               - 1 256          N/S
+   SPECIF
+    70670000000 PRESTATIONS DE SERVIC                 1 775                                 1 775              2 345             - 570         -24,31
+    70670001000 AUTRES PRESTATIONS FR               463 747                               463 747            532 918          - 69 171         -12,98
+                     Chiffre d'affaires Net       8 755 918                          8 755 918           6 220 692         2 535 226           40,75
+
+                                                                                                                                      Présenté en Euros
+                                                                                  Exercice clos le   Exercice précédent
+                                                                                                                          Variation
+                                                                                  31/03/2024         31/03/2023                               %
+                                                                                    (12 mois)           (12 mois)         absolue
+
+Production stockée                                                                  -1 797 935              755 935       -2 553 870          -337,84
+     71340000000 PRODUCTION STOCKEE SERVICES                                          -1 797 935             755 935        -2 553 870        -337,84
+Production immobilisée                                                               1 254 984           1 112 395           142 589            12,82
+     72000000000 PRODUCTION IMMOBILISEE                                                1 254 984           1 112 395          142 589           12,82
+Subventions d'exploitation                                                                  6 000             16 000         - 10 000          -62,50
+     74000000000 SUBVENTION D'EXPLOITATION                                                   6 000             16 000         - 10 000         -62,50
+Reprises sur amortissements et provisions, transfert de                                   96 676            111 378          - 14 702         -13,20
+     78174000000 REPRISE PROVISION CLIENTS DOUTEUX                                          7 335              40 209         - 32 874        -81,76
+     79100000000 TRANSFERT CHARGES EXPLOITATION                                             6 166               2 396            3 770        157,35
+     79140000000 TRANSFERT CHARGES PERSONNELS                                              83 175              68 772           14 403         20,94
+Autres produits                                                                             9 016             20 265         - 11 249          -55,51
+     75600000000 GAINS DE CHANGE S/ OP. COMMERC                                              8 966             20 189         - 11 223         -55,59
+     75800000000 PDT DIVERS DE GETIONS COURANTE                                                 50                 76             - 26         -34,21
+                             Total des produits d'exploitation (I)                   8 324 659           8 236 665            87 994              1,07
+Achats de matières premières et autres approvisionnement                                    5 094               4 060           1 034           25,47
+     60109000000 TEAMVIEWER AIC                                                              5 094               3 351          1 743           52,01
+     60109100000 ACHATS MP INTRACOMM                                                                               709          - 709            -100
+Autres achats et charges externes                                                    3 538 958           2 634 287           904 671           34,34
+     60400000000 ACHATS D'ETUDES &PRE                                                     594 122            530 568            63 554         11,98
+     60401000000 PRESTA CONSEIL EXO B                                                      73 038                               73 038           N/S
+     60405000000 ACHAT PRESTA INTRACOM                                                      1 759                                 1 759          N/S
+     60409000000 ACHATS ETUDES PRESTAT° HORS CEE                                          946 272            760 320          185 952          24,46
+     60409100000 ACAHTS ETUDES ET PREST CEE                                                 1 838                                 1 838          N/S
+     60610000000 FOURNITURES NON STOCKABLE EAU                                              1 641               1 453               188        12,94
+     60615000000 CARBURANT VH TOURISME                                                     75 168              69 453             5 715         8,23
+     60630000000 FOURN.ENTRET.&PETIT                                                        7 857              26 755         - 18 898        -70,63
+     60635000000 PETIT OUTILLAGE IMPORT                                                       281                                   281          N/S
+     60639000000 PETIT OUTILLAGE AIC                                                        8 230                                 8 230          N/S
+     60640000000 FOURNIT.ADMINISTRATI                                                       3 277                2 489              788        31,66
+     60640500000 ACHAT FOURNITURES IMPORT                                                      73                                    73          N/S
+     60649000000 FOURNITURES ADMIN AIC                                                        266                                   266          N/S
+     61100000000 SOUS-TRAITANCE GENERALE DIVERSE                                           43 336             14 633            28 703        196,15
+     61110000000 SOUS-TRAITANCE TELEPHONE                                                  11 369              9 304              2 065        22,19
+     61190000000 SOUS TRAITANCE IMPORT                                                      5 133              8 163            - 3 030       -37,12
+     61220000000 CREDIT BAIL MOBILIER                                                     498 119            145 197          352 922         243,06
+     61310000000 LOCATION VM                                                               25 019              3 600            21 419        594,97
+     61320000000 LOCATIONS IMMOBILIER                                                      82 601             76 201              6 400         8,40
+     61322000000 LOCATION SALLE PONCTUELLES                                                   617              4 987            - 4 370       -87,63
+     61330000000 LOCATIONS MICROSOFT 365                                                   23 921             18 935              4 986        26,33
+     61330500000 LOCATIONS VEHICULES LLD                                                                      32 810          - 32 810          -100
+     61331100000 LLD VW GF-015-TW                                                            5 897                                5 897          N/S
+
+
+                                                           mazars safirec                                                                    Page 7
+OPEN BEE FRANCE SAS                                                          PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                                Exercice clos le    Exercice précédent
+                                                                                                         Variation
+                                                                31/03/2024          31/03/2023                           %
+                                                                     (12 mois)         (12 mois)         absolue
+
+    61331200000 LLD VW GH-343-CP                                            5 016                               5 016       N/S
+    61331300000 LLD VW GH-344-CP                                            5 016                               5 016       N/S
+    61331400000 LLD VW GH-747-AG                                            5 016                               5 016       N/S
+    61331500000 LLD VW GH-958-GX                                            5 510                               5 510       N/S
+    61331700000 LLD Arval GG-281-SQ                                         4 986                               4 986       N/S
+    61331800000 LLD arval GG-824-YY                                         4 986                               4 986       N/S
+    61331900000 GK-295-MX                                                   5 716                               5 716       N/S
+    61332000000 LDD GQ-624-YX                                               3 555                               3 555       N/S
+    61332100000 GT-571-WG                                                   1 209                               1 209       N/S
+    61332200000 GV-233-FL                                                     690                                 690       N/S
+    61332300000 LEASYS LOC                                                  1 250                               1 250       N/S
+    61350000000 LOCATION VEHICULES PONCTUELLES                             10 274               6 996           3 278     46,86
+    61352000000 LOCATIONS MOBILIERES                                        7 549               6 653             896     13,47
+    61400000000 CHARGES LOCATIVES                                           9 354               6 337           3 017     47,61
+    61500000000 ENTRETIEN ET REPARATIONS                                       50                                  50       N/S
+    61520000000 ENTRETIEN IMMOBILIER                                        3 136                381            2 755    723,10
+    61551000000 ENTRETIEN VEHICULE TOURISMES                               46 262             51 845          - 5 583    -10,77
+    61560000000 MAINTENANCE INFORMATIQUE                                    7 938              7 072              866     12,25
+    61620000000 ASSURANCES VEHICULES                                       41 081             41 199            - 118     -0,29
+    61630000000 ASSURANCE RC                                               20 879             20 864               15      0,07
+    61650000000 ASSURANCES CONTRAT LOCAT° / PRËTS                           1 955              1 955                       0,00
+    61660000000 ASSURANCE DIVERS                                                                  61              - 61     -100
+    61670000000 ASSURANCE MANDATAIRE SOCIAL                                1 796               1 708                88     5,15
+    61820000000 FORMATIONS                                                 8 820              16 768           - 7 948   -47,40
+    61850000000 DOC GENERALE / SEMINAIRES                                  8 976               1 941             7 035   362,44
+    62100000000 PERSONNEL EXTERIEUR A L'ENTREP                            31 292              67 546         - 36 254    -53,67
+    62220000000 COMMIS&COURT.S/VENTE                                     110 703              24 044           86 659    360,42
+    62261000000 HONORAIRES COMPTABLES                                     49 107              41 757             7 350    17,60
+    62262000000 HONORAIRES JURIDIQUES                                        650                 570                80    14,04
+    62264000000 HONORAIRES COMM AUX COMPTES                               22 085              18 924             3 161    16,70
+    62267000000 HONORAIRES SIMON MARIE DO AIC                             12 000              48 000         - 36 000    -75,00
+    62268000000 HONORAIRES DIVERS                                        115 962              32 226           83 736    259,84
+    62268100000 HONORAIRES DIVERS HORS UE                                 11 220                               11 220       N/S
+    62270000000 FRAIS ACTES & CONTEN                                         410                  52               358   688,46
+    62310000000 ANNONCES ET INSERTIO                                      39 098              41 554           - 2 456    -5,91
+    62311000000 RELATIONS DE PRESSE                                        7 537              29 330         - 21 793    -74,30
+    62312000000 EVENEMENT ET ACTION INTERNE                                1 706                                 1 706      N/S
+    62319000000 ANNONCES ET INSERTIONS AIC                                15 761                               15 761       N/S
+    62330000000 FOIRES ET EXPOSITIONS                                                          1 100           - 1 100     -100
+    62340000000 CADEAUX A LA CLIENTE                                       3 724               3 524               200     5,68
+    62350000000 PRODUITS PUBLICITAIRES                                    42 126              83 142         - 41 016    -49,33
+    62350010000 PUBLICITE PUBLICATIONS                                    32 829                               32 829       N/S
+    62350030000 PUBLICATION MEDIA COMMUNICATION                            3 814                                 3 814      N/S
+    62359000000 PRODUITS PUBLICITAIRES AIC                                30 248                               30 248       N/S
+    62360000000 CATALOGUES ET IMPRIM                                       3 217                                 3 217      N/S
+    62361000000 SPONSORING                                                44 914                               44 914       N/S
+    62370000000 CHALLENGES FR ET AIC                                      14 914                               14 914       N/S
+    62380000000 POURBOIRES DONS COUR                                       3 187                                 3 187      N/S
+    62410000000 TRANSPORTS S/ACHATS                                          211                175                 36    20,57
+    62420000000 TRANSPORTS S/VENTES                                        1 740             15 116          - 13 376    -88,49
+    62500000000 DEPLACEMENTS MISSIONS ET RECEP                           169 331            182 675          - 13 344     -7,30
+    62500001000 FRAIS DE DEPLACEMENT                                       6 867                                 6 867      N/S
+    62500010000 DEPLACEMENT MISSIONS ET RECEPT                               191                                   191      N/S
+    62500200000 FRAIS DEPLAC. TAVERNIER F.X.                                 368                                   368      N/S
+    62569800000 FRAIS DE DEPL DIVERS                                         331                                   331      N/S
+    62570000000 FRAIS DE RECEPTION                                        77 652              95 680         - 18 028    -18,84
+    62570010000 FRAIS DEPLAC. JAFFRES Lilian                                 293                                   293      N/S
+    62580000000 INDEMNITES KM                                                472               9 374           - 8 902   -94,96
+    62610000000 FRAIS POSTAUX                                              1 194               2 085             - 891   -42,73
+    62620000000 FRAIS POSTAUX ET TELECOM                                     180                 456             - 276   -60,53
+    62621000000 FRAIS DE TELECOMMUNICATIONS                               13 911              14 750             - 839    -5,69
+    62622000000 ABONNEMENTS INTERNET                                         780                 585               195    33,33
+    62720000000 FRAIS S/ EMISSION D'EMPRUNTS                               3 970               3 945                25     0,63
+
+
+                                                    mazars safirec                                                       Page 8
+OPEN BEE FRANCE SAS                                                                PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                                      Exercice clos le      Exercice précédent
+                                                                                                                 Variation
+                                                                      31/03/2024            31/03/2023                            %
+                                                                          (12 mois)            (12 mois)         absolue
+
+     62780000000 AUTRES FRAIS ET COMM BANCAIRES                                 25 504                21 122            4 382       20,75
+     62810000000 CONCOURS DIVERS                                                15 410                15 675            - 265       -1,69
+     62840000000 FRAIS DE RECRUTEMENT                                            3 193                12 229          - 9 036      -73,89
+Impôts, taxes et versements assimilés                                        100 525                 93 383            7 142         7,65
+     63120000000 TAXE APPRENTISSAGE                                             21 415                19 564            1 851        9,46
+     63330000000 PART.FORM.CONTINUE(O                                           33 759                31 814            1 945        6,11
+     63340000000 PARTICIPATION A L'EFFORT CONST                                 12 911                                12 911          N/S
+     63511000000 TAXE PROFESSIONNELLE                                                                  1 742          - 1 742        -100
+     63511200000 CET-CVAE                                                       16 134                22 627          - 6 493      -28,70
+     63514000000 TAXE S/VEHICULES SOC                                           13 031                14 463          - 1 432       -9,90
+     63540000000 DROITS D'ENREGIST.&T                                            1 245                   815              430       52,76
+     63580000000 AUTRES DROITS                                                                            25             - 25        -100
+     63740000000 TAXES ELIGIBLES A L'ETRANGER                                    2 030                 2 334            - 304      -13,02
+Salaires et traitements                                                   2 929 886             2 899 070            30 816         1,06
+     64110000000 SALAIRES APPOINT.COM                                       2 797 117             2 801 307           - 4 190      -0,15
+     64120000000 CONGES PAYES                                                   9 883                 5 336             4 547      85,21
+     64130000000 PRIMES ET GRATIFICATIONS                                       9 961                10 103             - 142      -1,41
+     64140000000 INDEM.ET AVANTAGES D                                          72 434                69 815             2 619       3,75
+     64143000000 INDEMNITES DE DEPART                                          40 490                12 510           27 980      223,66
+Charges sociales                                                          1 134 286             1 115 742            18 544         1,66
+     64510000000 COTISATIONS A L'URSS                                         818 047               800 209           17 838        2,23
+     64532000000 COTIS.RETRAITE(CADRES) ET NON CADRES                         299 712               307 367           - 7 655      -2,49
+     64580000000 COTISATIONS ADESAT ET DIVERS                                     574                 3 110           - 2 536     -81,54
+     64582000000 CHARGES SOCIALES S/CP                                          4 457                 1 491             2 966     198,93
+     64750000000 MEDECINE DU TRAVAIL                                           11 497                 3 565             7 932     222,50
+Dotations aux amortissements sur immobilisations                          1 218 507             1 041 934           176 573        16,95
+     68111000000 DOT.AMORT.IMMO.INCOR                                       1 170 825               999 301          171 524       17,16
+     68112000000 DOT.AMORT.IMMO.CORPO                                          47 682                42 634            5 048       11,84
+Dotations aux provisions sur actif circulant                                    5 380                  3 479           1 901       54,64
+     68174000000 DOTATIONS AUX DEPRE. CREANCES DOUTEUSES                         5 380                  3 479           1 901      54,64
+Dotations aux provisions pour risques et charges                             504 541                                504 541           N/S
+     68150000000 DOTATIONS PROVISIONS D'EXPLOIT                               504 541                                504 541          N/S
+Autres charges                                                               219 963               356 479         - 136 516      -38,30
+     65112000000 REDEVANCES MB2I GESTION LICENCE                                1 284                 1 284                         0,00
+     65170000000 REDEVANCE INFOCERT                                             2 040                 2 010                 30      1,49
+     65190000000 REDEVANCES OB SA SUISSE                                      177 274               326 678         - 149 404     -45,73
+     65410000000 PERTES S/ CREANCES IRRECOUVRAB                                 1 959                20 735           - 18 776    -90,55
+     65600000000 PERTES DE CHANGE SUR OP. COMMERCIALES                         36 752                 5 758             30 994    538,28
+     65800000000 CHARGES DIV.GEST.COU                                             653                    15                638       N/S
+                              Total des charges d'exploitation (II)       9 657 140             8 148 434         1 508 706        18,52
+
+                                 RESULTAT D'EXPLOITATION (I-II)       -1 332 481                   88 231        -1 420 712           N/S
+
+Produits financiers de participations                                                 158                   92               66    71,74
+     76100000000 PRODUITS DE PARTICIPATIONS                                           158                   92               66    71,74
+                                  Total des produits financiers (V)                   158                   92               66    71,74
+Intérêts et charges assimilées                                                 81 790                55 298          26 492        47,91
+     66110000000 INTERETS SUR EMPRUNT                                           45 870                49 909          - 4 039      -8,09
+     66111600000 INTERETS EMPRUNT OBLIGATAIRE                                   20 400                                20 400         N/S
+     66160000000 INTERETS BANCAIRES &                                           15 520                  5 388         10 132      188,05
+Différences négatives de change                                                 3 101                      238         2 863          N/S
+     66600000000 PERTES DE CHANGE                                                3 101                     238          2 863         N/S
+                                 Total des charges financières (VI)            84 892                55 536          29 356        52,86
+
+                                        RESULTAT FINANCIER (V-VI)           -84 734               -55 444          - 29 290        52,83
+
+      RESULTAT COURANT AVANT IMPOTS (I-II+III-IV+V-VI)                -1 417 214                   32 786        -1 450 000           N/S
+
+Produits exceptionnels sur opérations de gestion                                                       2 814         - 2 814          -100
+     77180000000 PROD EXCEPT. SUR OP. DE GESTION                                                        2 814         - 2 814         -100
+Produits exceptionnels sur opérations en capital                                2 000                      325         1 675      515,38
+
+
+                                                         mazars safirec                                                           Page 9
+OPEN BEE FRANCE SAS                                                                PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                                      Exercice clos le        Exercice précédent
+                                                                                                                   Variation
+                                                                      31/03/2024              31/03/2023                           %
+                                                                          (12 mois)              (12 mois)         absolue
+
+     77520000000 PDTS CESSIONS IMMOS CORPORELLES                                 2 000                       325         1 675     515,38
+                            Total des produits exceptionnels (VII)              2 000                    3 139         - 1 139     -36,29
+Charges exceptionnelles sur opérations de gestion                               1 994                    4 271         - 2 277      -53,31
+     67120000000 PENALITES ET AMENDES                                            1 964                    2 932           - 968     -33,02
+     67180000000 AUTRES CHARGES EXCEPTIONNELLES                                                           1 339         - 1 339       -100
+     67200000000 CHARGES EXERCICES ANTERIEURES                                           30                                  30        N/S
+Charges exceptionnelles sur opérations en capital                                     775                                  775         N/S
+     67520000000 VALEURS COMPTABLES DES ELEMENT                                       775                                  775         N/S
+                        Total des charges exceptionnelles (VIII)                2 769                    4 271         - 1 502     -35,17
+
+                             RESULTAT EXCEPTIONNEL (VII-VIII)                    -769                 -1 131              362       32,01
+
+Impôts sur les bénéfices (X)                                                -370 436                -276 358          - 94 078      34,04
+     69510000000 IMPOTS SUR LES BENEFICES                                                              28 573          - 28 573      -100
+     69900000000 CREDIT IMPOT                                                -370 436                -304 931          - 65 505     21,48
+                                   Total des Produits (I+III+V+VII)       8 326 817               8 239 896            86 921          1,05
+                            Total des charges (II+IV+VI+VIII+IX+X)        9 374 363               7 931 883         1 442 480       18,19
+
+                                                    RESULTAT NET      -1 047 546                   308 013         -1 355 559     -440,10
+
+Dont Crédit-bail mobilier                                                    498 119                 145 197          352 922      243,06
+     61220000000 CREDIT BAIL MOBILIER                                         498 119                 145 197          352 922     243,06
+
+
+
+
+                                                         mazars safirec                                                           Page 10
+OPEN BEE FRANCE SAS                                                        PAE LES LONGERAY 74370 METZ-TESSY
+
+                         Soldes intermédiaires de gestion détaillé
+                                                                                                                  Présenté en Euros
+                                                              Exercice clos le    Exercice clos le
+                                                              31/03/2024          31/03/2023          Variation           %
+                                                                   (12 mois)        (12 mois)
+
+
++ Production vendue                                                8 755 918        6 220 692          2 535 226           40,75
+    70100001000 LIC OP KM VTES FR                                      476 203          492 425           - 16 222         -3,29
+    70100002000 LIC CLOUD KM VTES FR                                 1 735 723        1 605 079           130 644           8,14
+    70100003000 LIC OP ORANGE VTES FR                                   27 304           38 909           - 11 605        -29,83
+    70100004000 LIC CLOUD ORANGE VTES FR                             1 664 357          458 692         1 205 665         262,85
+    70100005000 LIC OP AUTRES PARTENAIRES VTES FR                       65 148          100 487           - 35 339        -35,17
+    70100006000 LIC CLOUD AUTRES PARTENAIRE VTES FR                    691 946          136 028           555 918         408,68
+    70100007000 LIC OP VTES DIRECTES FR                                 44 998           50 250             - 5 252       -10,45
+    70100008000 LIC CLOUD VTES DIRECTES FR                             351 719          238 949           112 770          47,19
+    70100010000 LICENCES CLOUD AFRIQUE                                     945                                  945          N/S
+    70100011000 LICENCES SUISSE                                                                 956           - 956         -100
+    70100013000 ON PREMISE AFRIQUE                                        -936                                - 936          N/S
+    70100016000 LIC CLOUD TOSHIBA FR                                   431 157             18 324         412 833            N/S
+    70100018000 LIC OP TOSHIBA FR                                        7 128                                7 128          N/S
+    70100101000 LIC OP KM VTES EU                                       57 687             49 800             7 887        15,84
+    70100102000 LIC CLOUD KM VTES EU                                    54 683             52 292             2 391         4,57
+    70100105000 LIC OP AUTRES PARTENAIRES VTES HORS EU                  23 323             53 082         - 29 759        -56,06
+    70100106000 LIC CLOUD AUTRES PART;EU ET HORS EU                     82 431             26 067           56 364        216,23
+    70100108000 LIC CLOUD? Vtes DIRECTES Vtes EU                         7 323                                7 323          N/S
+    70100114000 LIC OP EUROPE VTES EU ET HORS EU                                             994              - 994         -100
+    70100201000 LIC OP KM VTES EXPORT                                  111 053           118 752            - 7 699        -6,48
+    70100202000 LIC CLOUD KM VTES EXPORT                               121 536            56 930            64 606        113,48
+    70100205000 LIC OP AUTRES PARTENAIRES VTES EXPORT                  119 383           129 747          - 10 364         -7,99
+    70100208000 EXPORT                                                   2 361               192              2 169          N/S
+    70100210000 LIC CLOUD AUTRES PARTENAIRES VTES EXPORT                44 558            47 120            - 2 562        -5,44
+    70100212000 LIC CLOUD ASIE VTES EXPORT                               3 564             2 662                902        33,88
+    70100213000 LIC OP AFRIQUE VTES EXPORT                               4 306             2 939              1 367        46,51
+    70100215000 LIC OP ASIE VTES EXPORT                                  5 081             1 497              3 584       239,41
+    70100305000 VENTES DOM                                              46 786            53 975            - 7 189       -13,32
+    70100307000 VENTES DOM                                               1 574               712                862       121,07
+    70100308000 LIC CLOUD VTES DIRECTES DOM                              5 558             1 274              4 284       336,26
+    70100310000 LIC CLOUD AUTRES PARTENAIRES DOM                       213 417           274 761          - 61 344        -22,33
+    70100405000 VENTES PAR EXPORTATEUR EXO                              29 477            19 911              9 566        48,04
+    70100508000 LIC CLOUD AUTRE PART. St Barth                           2 990                                2 990          N/S
+    70110100000 BUNDLE KONICA MINOLTA VTES EU                                            550 000        - 550 000           -100
+    70131000000 OPEN SCAN PORTAL FRANCE                                                   -2 544              2 544         -100
+    70150000000 LICENCES OPEN BEE                                                         98 654          - 98 654          -100
+    70600001000 MAINT. OP KM VTES FR                                     34 977           74 325          - 39 348        -52,94
+    70600002000 INSTALL. S/ SITE KM VTES FR                              74 318          134 608          - 60 290        -44,79
+    70600004000 MAINTENANCE OP. ORANGE VTES FR                                             4 502            - 4 502         -100
+    70600005000 INSTALL S/ SITE ORANGE VTES FR                           2 380                                2 380          N/S
+    70600007000 MAINT OP AUTRES PARTENAIRES VTES FR                    108 886           163 009          - 54 123        -33,20
+    70600008000 INSTALL S/ SITE AUTRES PARTEN. VTES FR                  30 539            37 377            - 6 838       -18,29
+    70600010000 MAINT. OP VENTES DIREC Ventes FR                        18 628            26 453            - 7 825       -29,58
+    70600011000 INSTALL S/ SITE VTES DIRECTES FR                       973 076           143 199          829 877         579,53
+    70600012000 INSTALL A DISTANCE VTES DIRECTES FR                     29 693            61 752          - 32 059        -51,92
+    70600013000 FORMATIONS VTES FR                                      18 449             7 976            10 473        131,31
+    70600014000 INSTALL S/SITE TOSHIBA FR                               26 205                              26 205           N/S
+    70600102000 INSTALL S/SITE KM Ventes EU                                595                                  595          N/S
+    70600107000 MAINT. OP.AUTRES PARTENAIRES VTES EU                   123 687             94 104           29 583         31,44
+    70600108000 INSTALL S/ SITE AUTRES PARTEN. VTES EU                   9 255              4 994             4 261        85,32
+    70600111000 INSTALL S/SITE Vtes DIREC Vtes EU                        4 090                                4 090          N/S
+    70600112000 INSTALL DISTANCE Vtes DIR Vtes EU                        3 453                                3 453          N/S
+    70600113000 FORMATIONS VTES EU                                       1 485                                1 485          N/S
+    70600130000 ADVANCE BUREAUTIQ                                        2 340                                2 340          N/S
+    70600207000 MAINT.OP AUTRES PARTEN. EXPORT                          58 092             18 184           39 908        219,47
+    70600208000 INSTALL S/ SITE AUTRES PARTEN. EXPORT                  184 549             63 899         120 650         188,81
+    70600213000 FORMATIONS VTES EXPORT                                   1 440             -5 605             7 045       125,69
+    70600302000 INSTALL SUR SITE KM Ventes DomTom                        3 094              6 188           - 3 094       -50,00
+
+
+
+                                                  mazars safirec                                                        Page 11
+OPEN BEE FRANCE SAS                                                                 PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                                       Exercice clos le   Exercice clos le
+                                                                       31/03/2024         31/03/2023         Variation        %
+                                                                           (12 mois)        (12 mois)
+
+     70600307000 PRESTATIONS DOM                                                  8 096           19 243         - 11 147     -57,93
+     70600308000 PRESTATIONS DOM                                                 98 742          131 307         - 32 565     -24,80
+     70600311000 INSTALL S/SITE Vtes DIREC Vtes Dom                                 159            3 094           - 2 935    -94,86
+     70600312000 INSTALL DISTANCE Vtes DIR Vtes Dom                                                  119             - 119      -100
+     70600313000 PRESTATIONS DOM                                                42 640            17 790           24 850     139,69
+     70650000000 DEVELOPPEMENTS SPECIFIQUES                                     -1 256                             - 1 256       N/S
+     70670000000 PRESTATIONS DE SERVICES VTES FR                                 1 775             2 345             - 570    -24,31
+     70670001000 AUTRES PRESTATIONS FR                                         463 747           532 918         - 69 171     -12,98
++ Production stockée                                                     -1 797 935             755 935      -2 553 870       -337,84
+     71340000000 PRODUCTION STOCKEE SERVICES                                -1 797 935           755 935       -2 553 870     -337,84
++ Production immobilisée                                                   1 254 984        1 112 395           142 589        12,82
+     72000000000 PRODUCTION IMMOBILISEE                                      1 254 984        1 112 395          142 589       12,82
+                                          Production de l'exercice      8 212 967          8 089 022           123 945            1,53
+
+- Matières premières et approvisionnements consommés                             5 094              4 060          1 034       25,47
+     60109000000 TEAMVIEWER AIC                                                   5 094              3 351         1 743       52,01
+     60109100000 ACHATS MP INTRACOMM                                                                   709         - 709        -100
+- Sous-traitance directe                                                   1 617 029        1 290 888           326 141        25,26
+     60400000000 ACHATS D'ETUDES &PRE                                          594 122           530 568          63 554       11,98
+     60401000000 PRESTA CONSEIL EXO B                                           73 038                            73 038         N/S
+     60405000000 ACHAT PRESTA INTRACOM                                           1 759                             1 759         N/S
+     60409000000 ACHATS ETUDES PRESTAT° HORS CEE                               946 272           760 320         185 952       24,46
+     60409100000 ACAHTS ETUDES ET PREST CEE                                      1 838                             1 838         N/S
+                                Marge brute sur production ( II )       6 590 845          6 794 074          - 203 229        -2,99
+                            Taux de marge brute sur production                80,25 %          83,99 %
+                                      Marge brute globale ( I + II )    6 590 845          6 794 074          - 203 229        -2,99
+                                     Taux de marge brute globale              80,25 %          83,99 %
+- Services extérieurs et autres charges externes                           1 921 929        1 343 398           578 531        43,06
+     60610000000 FOURNITURES NON STOCKABLE EAU                                   1 641              1 453              188     12,94
+     60615000000 CARBURANT VH TOURISME                                          75 168             69 453            5 715      8,23
+     60630000000 FOURN.ENTRET.&PETIT                                             7 857             26 755        - 18 898     -70,63
+     60635000000 PETIT OUTILLAGE IMPORT                                            281                                 281       N/S
+     60639000000 PETIT OUTILLAGE AIC                                             8 230                               8 230       N/S
+     60640000000 FOURNIT.ADMINISTRATI                                            3 277               2 489             788     31,66
+     60640500000 ACHAT FOURNITURES IMPORT                                           73                                  73       N/S
+     60649000000 FOURNITURES ADMIN AIC                                             266                                 266       N/S
+     61100000000 SOUS-TRAITANCE GENERALE DIVERSE                                43 336            14 633           28 703     196,15
+     61110000000 SOUS-TRAITANCE TELEPHONE                                       11 369             9 304             2 065     22,19
+     61190000000 SOUS TRAITANCE IMPORT                                           5 133             8 163           - 3 030    -37,12
+     61220000000 CREDIT BAIL MOBILIER                                          498 119           145 197         352 922      243,06
+     61310000000 LOCATION VM                                                    25 019             3 600           21 419     594,97
+     61320000000 LOCATIONS IMMOBILIER                                           82 601            76 201             6 400      8,40
+     61322000000 LOCATION SALLE PONCTUELLES                                        617             4 987           - 4 370    -87,63
+     61330000000 LOCATIONS MICROSOFT 365                                        23 921            18 935             4 986     26,33
+     61330500000 LOCATIONS VEHICULES LLD                                                          32 810         - 32 810       -100
+     61331100000 LLD VW GF-015-TW                                                 5 897                              5 897       N/S
+     61331200000 LLD VW GH-343-CP                                                 5 016                              5 016       N/S
+     61331300000 LLD VW GH-344-CP                                                 5 016                              5 016       N/S
+     61331400000 LLD VW GH-747-AG                                                 5 016                              5 016       N/S
+     61331500000 LLD VW GH-958-GX                                                 5 510                              5 510       N/S
+     61331700000 LLD Arval GG-281-SQ                                              4 986                              4 986       N/S
+     61331800000 LLD arval GG-824-YY                                              4 986                              4 986       N/S
+     61331900000 GK-295-MX                                                        5 716                              5 716       N/S
+     61332000000 LDD GQ-624-YX                                                    3 555                              3 555       N/S
+     61332100000 GT-571-WG                                                        1 209                              1 209       N/S
+     61332200000 GV-233-FL                                                          690                                690       N/S
+     61332300000 LEASYS LOC                                                       1 250                              1 250       N/S
+     61350000000 LOCATION VEHICULES PONCTUELLES                                  10 274              6 996           3 278     46,86
+     61352000000 LOCATIONS MOBILIERES                                             7 549              6 653             896     13,47
+     61400000000 CHARGES LOCATIVES                                                9 354              6 337           3 017     47,61
+
+
+                                                          mazars safirec                                                     Page 12
+OPEN BEE FRANCE SAS                                                                PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                                      Exercice clos le   Exercice clos le
+                                                                      31/03/2024         31/03/2023         Variation        %
+                                                                          (12 mois)        (12 mois)
+
+     61500000000 ENTRETIEN ET REPARATIONS                                           50                                50        N/S
+     61520000000 ENTRETIEN IMMOBILIER                                            3 136               381           2 755     723,10
+     61551000000 ENTRETIEN VEHICULE TOURISMES                                   46 262            51 845         - 5 583     -10,77
+     61560000000 MAINTENANCE INFORMATIQUE                                        7 938             7 072             866      12,25
+     61620000000 ASSURANCES VEHICULES                                           41 081            41 199           - 118      -0,29
+     61630000000 ASSURANCE RC                                                   20 879            20 864              15       0,07
+     61650000000 ASSURANCES CONTRAT LOCAT° / PRËTS                               1 955             1 955                       0,00
+     61660000000 ASSURANCE DIVERS                                                                     61             - 61      -100
+     61670000000 ASSURANCE MANDATAIRE SOCIAL                                    1 796              1 708               88      5,15
+     61820000000 FORMATIONS                                                     8 820             16 768          - 7 948    -47,40
+     61850000000 DOC GENERALE / SEMINAIRES                                      8 976              1 941            7 035    362,44
+     62100000000 PERSONNEL EXTERIEUR A L'ENTREP                                31 292             67 546        - 36 254     -53,67
+     62220000000 COMMIS&COURT.S/VENTE                                         110 703             24 044          86 659     360,42
+     62261000000 HONORAIRES COMPTABLES                                         49 107             41 757            7 350     17,60
+     62262000000 HONORAIRES JURIDIQUES                                            650                570               80     14,04
+     62264000000 HONORAIRES COMM AUX COMPTES                                   22 085             18 924            3 161     16,70
+     62267000000 HONORAIRES SIMON MARIE DO AIC                                 12 000             48 000        - 36 000     -75,00
+     62268000000 HONORAIRES DIVERS                                            115 962             32 226          83 736     259,84
+     62268100000 HONORAIRES DIVERS HORS UE                                     11 220                             11 220        N/S
+     62270000000 FRAIS ACTES & CONTEN                                             410                 52              358    688,46
+     62310000000 ANNONCES ET INSERTIO                                          39 098             41 554          - 2 456     -5,91
+     62311000000 RELATIONS DE PRESSE                                            7 537             29 330        - 21 793     -74,30
+     62312000000 EVENEMENT ET ACTION INTERNE                                    1 706                               1 706       N/S
+     62319000000 ANNONCES ET INSERTIONS AIC                                    15 761                             15 761        N/S
+     62330000000 FOIRES ET EXPOSITIONS                                                             1 100          - 1 100      -100
+     62340000000 CADEAUX A LA CLIENTE                                           3 724              3 524              200      5,68
+     62350000000 PRODUITS PUBLICITAIRES                                        42 126             83 142        - 41 016     -49,33
+     62350010000 PUBLICITE PUBLICATIONS                                        32 829                             32 829        N/S
+     62350030000 PUBLICATION MEDIA COMMUNICATION                                3 814                               3 814       N/S
+     62359000000 PRODUITS PUBLICITAIRES AIC                                    30 248                             30 248        N/S
+     62360000000 CATALOGUES ET IMPRIM                                           3 217                               3 217       N/S
+     62361000000 SPONSORING                                                    44 914                             44 914        N/S
+     62370000000 CHALLENGES FR ET AIC                                          14 914                             14 914        N/S
+     62380000000 POURBOIRES DONS COUR                                           3 187                               3 187       N/S
+     62410000000 TRANSPORTS S/ACHATS                                              211               175                36     20,57
+     62420000000 TRANSPORTS S/VENTES                                            1 740            15 116         - 13 376     -88,49
+     62500000000 DEPLACEMENTS MISSIONS ET RECEP                               169 331           182 675         - 13 344      -7,30
+     62500001000 FRAIS DE DEPLACEMENT                                           6 867                               6 867       N/S
+     62500010000 DEPLACEMENT MISSIONS ET RECEPT                                   191                                 191       N/S
+     62500200000 FRAIS DEPLAC. TAVERNIER F.X.                                     368                                 368       N/S
+     62569800000 FRAIS DE DEPL DIVERS                                             331                                 331       N/S
+     62570000000 FRAIS DE RECEPTION                                            77 652             95 680        - 18 028     -18,84
+     62570010000 FRAIS DEPLAC. JAFFRES Lilian                                     293                                 293       N/S
+     62580000000 INDEMNITES KM                                                    472              9 374          - 8 902    -94,96
+     62610000000 FRAIS POSTAUX                                                  1 194              2 085            - 891    -42,73
+     62620000000 FRAIS POSTAUX ET TELECOM                                         180                456            - 276    -60,53
+     62621000000 FRAIS DE TELECOMMUNICATIONS                                   13 911             14 750            - 839     -5,69
+     62622000000 ABONNEMENTS INTERNET                                             780                585              195     33,33
+     62720000000 FRAIS S/ EMISSION D'EMPRUNTS                                   3 970              3 945               25      0,63
+     62780000000 AUTRES FRAIS ET COMM BANCAIRES                                25 504             21 122            4 382     20,75
+     62810000000 CONCOURS DIVERS                                               15 410             15 675            - 265     -1,69
+     62840000000 FRAIS DE RECRUTEMENT                                           3 193             12 229          - 9 036    -73,89
+                                         Valeur ajoutée produite       4 668 916          5 450 675          - 781 759       -14,34
+                                Valeur ajoutée / chiffre d'affaires          56,85 %          67,38 %
++ Subventions d'exploitation                                                    6 000            16 000        - 10 000       -62,50
+     74000000000 SUBVENTION D'EXPLOITATION                                       6 000            16 000        - 10 000      -62,50
+- Impôts, taxes et versements assimilés                                      100 525             93 383           7 142          7,65
+     63120000000 TAXE APPRENTISSAGE                                             21 415            19 564           1 851         9,46
+     63330000000 PART.FORM.CONTINUE(O                                           33 759            31 814           1 945         6,11
+     63340000000 PARTICIPATION A L'EFFORT CONST                                 12 911                           12 911           N/S
+     63511000000 TAXE PROFESSIONNELLE                                                               1 742        - 1 742         -100
+
+
+
+                                                         mazars safirec                                                     Page 13
+OPEN BEE FRANCE SAS                                                                 PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                                       Exercice clos le      Exercice clos le
+                                                                       31/03/2024            31/03/2023          Variation         %
+                                                                           (12 mois)           (12 mois)
+
+     63511200000 CET-CVAE                                                        16 134               22 627          - 6 493       -28,70
+     63514000000 TAXE S/VEHICULES SOC                                            13 031               14 463          - 1 432        -9,90
+     63540000000 DROITS D'ENREGIST.&T                                             1 245                  815              430        52,76
+     63580000000 AUTRES DROITS                                                                            25             - 25         -100
+     63740000000 TAXES ELIGIBLES A L'ETRANGER                                     2 030                2 334            - 304       -13,02
+- Salaires et traitements                                                  2 846 711           2 830 297             16 414          0,58
+     64110000000 SALAIRES APPOINT.COM                                        2 797 117           2 801 307             - 4 190      -0,15
+     64120000000 CONGES PAYES                                                    9 883               5 336               4 547      85,21
+     64130000000 PRIMES ET GRATIFICATIONS                                        9 961              10 103               - 142      -1,41
+     64140000000 INDEM.ET AVANTAGES D                                           72 434              69 815               2 619       3,75
+     64143000000 INDEMNITES DE DEPART                                           40 490              12 510             27 980      223,66
+     79140000000 TRANSFERT CHARGES PERSONNELS                                  -83 175             -68 772           - 14 403       20,94
+- Charges sociales                                                         1 134 286           1 115 742             18 544          1,66
+     64510000000 COTISATIONS A L'URSS                                          818 047              800 209           17 838         2,23
+     64532000000 COTIS.RETRAITE(CADRES) ET NON CADRES                          299 712              307 367           - 7 655       -2,49
+     64580000000 COTISATIONS ADESAT ET DIVERS                                      574                3 110           - 2 536      -81,54
+     64582000000 CHARGES SOCIALES S/CP                                           4 457                1 491             2 966      198,93
+     64750000000 MEDECINE DU TRAVAIL                                            11 497                3 565             7 932      222,50
+                                 Excédent brut d'exploitation               593 394           1 427 253           - 833 859        -58,42
+                Excédent brut d'exploitation / chiffre d'affaires              7,23 %             17,64 %
++ Reprise sur amortissements et provisions                                       7 335               40 209         - 32 874        -81,76
+     78174000000 REPRISE PROVISION CLIENTS DOUTEUX                                7 335               40 209         - 32 874       -81,76
+- Dotations aux amortissements sur immobilisations                         1 218 507           1 041 934            176 573         16,95
+     68111000000 DOT.AMORT.IMMO.INCOR                                        1 170 825              999 301          171 524        17,16
+     68112000000 DOT.AMORT.IMMO.CORPO                                           47 682               42 634            5 048        11,84
+- Dotations aux provisions sur actif circulant                                   5 380                 3 479           1 901        54,64
+     68174000000 DOTATIONS AUX DEPRE. CREANCES DOUTEUSES                          5 380                 3 479           1 901       54,64
+- Dotations aux provisions pour risques et charges                            504 541                               504 541            N/S
+     68150000000 DOTATIONS PROVISIONS D'EXPLOIT                                504 541                               504 541           N/S
++ Autres produits de gestion courante                                            9 016               20 265         - 11 249        -55,51
+     75600000000 GAINS DE CHANGE S/ OP. COMMERC                                   8 966               20 189         - 11 223       -55,59
+     75800000000 PDT DIVERS DE GETIONS COURANTE                                      50                   76             - 26       -34,21
+- Autres charges de gestion courante                                          219 963              356 479         - 136 516       -38,30
+     65112000000 REDEVANCES MB2I GESTION LICENCE                                 1 284                1 284                          0,00
+     65170000000 REDEVANCE INFOCERT                                              2 040                2 010                 30       1,49
+     65190000000 REDEVANCES OB SA SUISSE                                       177 274              326 678         - 149 404      -45,73
+     65410000000 PERTES S/ CREANCES IRRECOUVRAB                                  1 959               20 735           - 18 776     -90,55
+     65600000000 PERTES DE CHANGE SUR OP. COMMERCIALES                          36 752                5 758             30 994     538,28
+     65800000000 CHARGES DIV.GEST.COU                                              653                   15                638        N/S
++ Transfert de charges d'exploitation                                            6 166                 2 396           3 770       157,35
+     79100000000 TRANSFERT CHARGES EXPLOITATION                                   6 166                 2 396           3 770      157,35
+            Résultat d'exploitat° (hors charges &prod.financie         -1 332 481                  88 231        -1 420 712            N/S
+                     Résultat d'exploitation / chiffre d'affaires            -16,22 %               1,09 %
+
++ Produits financiers de participations                                                158                  92               66     71,74
+     76100000000 PRODUITS DE PARTICIPATIONS                                            158                  92               66     71,74
+- Intérêts et charges assimilées                                                81 790               55 298          26 492         47,91
+     66110000000 INTERETS SUR EMPRUNT                                            45 870               49 909          - 4 039       -8,09
+     66111600000 INTERETS EMPRUNT OBLIGATAIRE                                    20 400                               20 400          N/S
+     66160000000 INTERETS BANCAIRES &                                            15 520                 5 388         10 132       188,05
+- Différences négatives de change                                                3 101                     238         2 863           N/S
+     66600000000 PERTES DE CHANGE                                                 3 101                    238          2 863          N/S
+                                  Résultat courant avant impôts        -1 417 214                  32 786        -1 450 000            N/S
+                               Résultat courant / chiffre d'affaires         -17,26 %               0,41 %
++ Produits exceptionnels sur opérations de gestion                                                     2 814         - 2 814           -100
+     77180000000 PROD EXCEPT. SUR OP. DE GESTION                                                        2 814         - 2 814          -100
+
+
+
+
+                                                          mazars safirec                                                          Page 14
+OPEN BEE FRANCE SAS                                                                 PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                                       Exercice clos le        Exercice clos le
+                                                                       31/03/2024              31/03/2023          Variation       %
+                                                                          (12 mois)              (12 mois)
+
+
++ Produits exceptionnels sur opérations en capital                               2 000                       325         1 675     515,38
+     77520000000 PDTS CESSIONS IMMOS CORPORELLES                                  2 000                      325         1 675     515,38
+- Charges exceptionnelles sur opérations de gestion                              1 994                   4 271         - 2 277      -53,31
+     67120000000 PENALITES ET AMENDES                                             1 964                   2 932           - 968     -33,02
+     67180000000 AUTRES CHARGES EXCEPTIONNELLES                                                           1 339         - 1 339       -100
+     67200000000 CHARGES EXERCICES ANTERIEURES                                            30                                 30        N/S
+- Charges exceptionnelles sur opérations en capital                                   775                                  775         N/S
+     67520000000 VALEURS COMPTABLES DES ELEMENT                                       775                                  775         N/S
+
+                                             Résultat exceptionnel                -769                -1 131              362       32,01
+
+- Impôts sur les bénéfices                                                  -370 436               -276 358           - 94 078      34,04
+     69510000000 IMPOTS SUR LES BENEFICES                                                              28 573          - 28 573      -100
+     69900000000 CREDIT IMPOT                                                -370 436                -304 931          - 65 505     21,48
+
+                                           Résultat net Comptable      -1 047 546                  308 013         -1 355 559     -440,10
+                                   Résultat net / chiffre d'affaires        -12,75 %                  3,81 %
+
+
+
+
+                                                         mazars safirec                                                           Page 15
+OPEN BEE FRANCE SAS                                                               PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                 Bilan détailléACTIF
+                                                                                                                           Présenté en Euros
+                                                                         Exercice clos le                  Exercice précédent
+                           ACTIF                                         31/03/2024
+                                                                           (12 mois)
+                                                                                                           31/03/2023
+                                                                                                              (12 mois)
+                                                                                                                                Variation
+
+                                                            Brut         Amort.prov.         Net                 Net
+Actif immobilisé
+ Recherche et développement                                  15 300             15 054              247              3 307          - 3 060
+      20300000000 FRAIS RECHERCHE/ DEVELOPPEMENT              15 300                           15 300               15 300
+      28030000000 AMORT. FS DE RECHERCHE ET DEVE                                  15 054      -15 053              -11 993          - 3 060
+ Concessions, brevets, droits similaires                  7 827 138        4 498 588        3 328 550         2 288 013          1 040 537
+      20500000000 BREVETS LICENCES MARQUES                 7 827 138                         7 827 138          5 618 836         2 208 302
+      28050000000 AMORT.BREVETS LICENCES MARQUES                             4 498 588      -4 498 588         -3 330 823        -1 167 765
+ Fonds commercial                                           150 000                          150 000             150 000
+      20700000000 FOND COMMERCIAL                            150 000                          150 000             150 000
+ Autres immobilisations corporelles                         405 469           300 808        104 661             102 448             2 213
+      21810000000 INSTALLATIONS ET AGENCEMENTS                98 093                           98 093              98 093
+      21811000000 AUTRES IMMOBILISATIONS CORPORE               2 288                            2 288               1 350                938
+      21820000000 MATERIEL DE TRANSPORT                       98 523                           98 523              80 871            17 652
+      21830000000 MAT.BUREAU &INFORMAT                       206 565                          206 565             182 264            24 301
+      28181000000 AMORTISSEMENT INSTALLATIONS ET                                 53 909       -53 909             -44 596            - 9 313
+      28181100000 AMORTISSEMENT DES AUTRES IMMOB                                     18           -18                                   - 18
+      28182000000 AMORTISSEMENT DU VEHICULE DE T                                 65 764       -65 764             -49 910          - 15 854
+      28183000000 AMORT.MAT.BUREAU &IN                                          181 118      -181 118            -165 622          - 15 496
+ Autres participations                                      634 545                          634 545                              634 545
+      26100000000 TITRES OPB TU                              634 545                          634 545                              634 545
+ Autres titres immobilisés                                     6 720                            6 720                6 576             144
+      27100000000 TITRES IMMOBILISES                           6 560                               6 560               6 416           144
+      27200000000 TITRES IMMOBILISES                             160                                 160                 160
+ Autres immobilisations financières                          59 683                           59 683               59 683
+      27500000000 DEPOTS & CAUTIONNEME                        44 683                           44 683               44 683
+      27610000000 AUTRES CREANCES - GAGES                     15 000                           15 000               15 000
+
+
+                                            TOTAL (I)     9 098 855        4 814 450        4 284 405         2 610 027          1 674 378
+
+Actif circulant
+ En-cours de production de services                                                                           1 797 935         -1 797 935
+      34500000000 EN COURS DE PROD SERVICES                                                                     1 797 935        -1 797 935
+ Avances & acomptes versés sur commandes                     96 236                           96 236               42 495           53 741
+      40910000000 FOURN.ACPTES S/COMMA                        96 236                           96 236               42 495           53 741
+ Clients et comptes rattachés                             4 290 728             33 314      4 257 414         1 952 818          2 304 596
+      41100000000 CLIENTS 2                                1 812 043                        1 812 043           1 790 877            21 166
+      41600000000 CLIENTS DOUTEUX ET LITIGIEUX                39 501                           39 501              40 487             - 986
+      41810000000 CLIENTS FACT. A ETAB                     2 439 184                        2 439 184             156 723         2 282 461
+      49100000000 DEPRECIAT° COMPTES CLIENTS                                      33 314      -33 314             -35 268             1 954
+ . Fournisseurs débiteurs                                    17 627                           17 627               12 630            4 997
+      40150000000 FOURNISSEURS 3                              17 627                           17 627               12 630            4 997
+ . Personnel                                                                                                            573          - 573
+      42130000000 REMUNERATIONS DUES                                                                                      573         - 573
+ . Organismes sociaux                                          4 221                            4 221                1 484           2 737
+      43870000000 ORG.SOC. PROD.A RECE                         4 221                               4 221               1 484          2 737
+ . Etat, impôts sur les bénéfices                           667 418                          667 418             281 991          385 427
+      44400000000 ETAT IMPOTS                                667 418                          667 418             281 991          385 427
+ . Etat, taxes sur le chiffre d'affaires                     74 427                           74 427               53 958           20 469
+      44566000000 TVA DEDUCT.S/ACHATS                         34 845                           34 845               41 306          - 6 461
+      44586000000 TVA SUR FACTURES NON PARVENUES              34 192                           34 192                7 048          27 144
+      44587100000 TVA SUR AVOIRS A ETABLIR                     5 391                            5 391                5 604            - 213
+ . Autres                                                   117 514                          117 514          1 087 500          - 969 986
+      40980000000 FOURNIS.RRR A OBTENI                                                                              10 716         - 10 716
+      44870000000 ETAT AUTRES CHARGES A RECEVOIR              89 432                           89 432               78 058           11 374
+
+
+                                                        mazars safirec                                                           Page 16
+OPEN BEE FRANCE SAS                                                            PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                                      Exercice clos le                Exercice précédent
+                     ACTIF                                            31/03/2024
+                                                                        (12 mois)
+                                                                                                      31/03/2023
+                                                                                                         (12 mois)
+                                                                                                                           Variation
+
+                                                         Brut         Amort.prov.          Net              Net
+     45100000000 OPEN BEE SA C/C                                                                             987 813         - 987 813
+     45120000000 EXO B CONSULTING                          17 168                            17 168                             17 168
+     46740000000 SCI MONNOURS                              10 914                            10 914            10 914
+Disponibilités                                           467 972                           467 972          689 612         - 221 640
+     51212000000 BANQUE POPULAIRE                          86 849                            86 849          341 730         - 254 881
+     51216000000 BANQUE CIC                                48 683                            48 683           59 933           - 11 250
+     51217000000 STE GENERALE                              90 688                            90 688          207 848         - 117 160
+     51218000000 SG DOLLARS                                49 848                            49 848           79 785           - 29 937
+     51219000000 SG DINARS                                                                                        23               - 23
+     51222000000 CAISSE EPARGNE                           191 799                           191 799                            191 799
+     51223000000 CARTES ANYTIME                               105                               105                  293          - 188
+Charges constatées d'avance                               43 557                            43 557            73 542         - 29 985
+     48600000000 CHARGES CONSTAT.D'AV                      43 557                            43 557            73 542         - 29 985
+
+
+                                        TOTAL (II)     5 779 700             33 314       5 746 386      5 994 538          - 248 152
+
+
+                              TOTAL ACTIF (0 à V)     14 878 554        4 847 764        10 030 791      8 604 565         1 426 226
+
+
+
+
+                                                     mazars safirec                                                         Page 17
+OPEN BEE FRANCE SAS                                                                PAE LES LONGERAY 74370 METZ-TESSY
+
+                                              Bilan détaillé (suite)PASSIF
+                                                                                                                           Présenté en Euros
+                                                                      Exercice clos le          Exercice précédent
+                             PASSIF                                   31/03/2024
+                                                                           (12 mois)
+                                                                                                31/03/2023
+                                                                                                   (12 mois)
+                                                                                                                            Variation
+
+
+Capitaux Propres
+ Capital social ou individuel (dont versé : 543 800)                              543 800                  100 000                443 800
+      10130000000 CAPITAL APPELE VERSE                                             543 800                  100 000                443 800
+ Réserve légale                                                                    10 000                    10 000
+      10610000000 RESERVES LEGALE                                                      10 000                  10 000
+ Autres réserves                                                               2 559 831                2 251 817                 308 014
+      10680000000 AUTRES RESERVES                                               2 559 831                 2 251 817                308 014
+ Résultat de l'exercice                                                       -1 047 546                   308 013              -1 355 559
+
+                                                        TOTAL (I)              2 066 084                2 669 831                - 603 747
+
+
+                                                       TOTAL (II)
+
+Provisions pour risques et charges
+ Provisions pour risques                                                          504 541                                         504 541
+      15110000000 PROVISIONS POUR LITIGES                                           88 280                                          88 280
+      15180000000 PROVISION POUR RISQUES                                           416 261                                         416 261
+
+
+                                                       TOTAL (III)                504 541                                         504 541
+
+Emprunts et dettes
+ Emprunts obligataires convertibles                                            2 000 000                                         2 000 000
+      16100000000 EMPRUNTS OBLIGATAIRES CONVERTIBLES                            2 000 000                                         2 000 000
+ . Emprunts                                                                    2 348 922                2 704 958                - 356 036
+      16403000000 EMPRUNT BPI FINANCEMENT 450 KE                                   226 000                  293 341                - 67 341
+      16422000000 EMPRUNT SG 83 400 ¬                                                9 135                   21 237                - 12 102
+      16425000000 EMPRUNT SG 300 KE                                                  5 948                   66 979                - 61 031
+      16427000000 EMPRUNT CE 200 KE                                                                          17 000                - 17 000
+      16428000000 PRET BP 240 000 ?                                                240 000                  240 000
+      16429000000 PRET BPI 150 000                                                 150 000                                          150 000
+      16491000000 PRÊT BP 150 KE                                                    78 961                  116 301                 - 37 340
+      16492000000 PGE SG 600 KE                                                    326 727                  476 145               - 149 418
+      16493000000 PGE CE 200 KE                                                    109 330                  159 210                 - 49 880
+      16494000000 PRÊT BPI SG 100 KE                                                70 000                   85 000                 - 15 000
+      16495000000 BPI PRËT 150 KE                                                   93 750                  131 250                 - 37 500
+      16496000000 PRET BP 160 000                                                  124 189                  154 939                 - 30 750
+      16497000000 PRET SG 250 000 ?                                                148 121                  197 423                 - 49 302
+      16498000000 PRET BPI SG 500 000                                              500 000                  500 000
+      16499000000 PRET SG 240 000 ?                                                240 000                  240 000
+      16884000000 EMPRUNTS INTERETS COURUS                                          26 761                    6 134                  20 627
+ . Découverts, concours bancaires                                                                            85 125               - 85 125
+      51222000000 CAISSE EPARGNE                                                                               85 125              - 85 125
+ Avances & acomptes reçus sur commandes en cours                                         148                         148
+      41910000000 CLIENTS ACPTES S/COM                                                   148                         148
+ Dettes fournisseurs et comptes rattachés                                         679 365                  735 519                - 56 154
+      40150000000 FOURNISSEURS 3                                                   365 214                  666 710               - 301 496
+      40810000000 FOURNIS.FACT.NON PAR                                             314 152                   68 809                 245 343
+ . Personnel                                                                      366 272                  381 149                - 14 877
+      42100000000 PERSONNEL REMU DUES                                              164 045                  198 382                - 34 337
+      42130000000 REMUNERATIONS DUES                                                   209                      209
+      42700000000 OPPOSITIONS                                                           28                      450                   - 422
+      42820000000 CONGES A PAYER                                                   191 991                  182 108                   9 883
+      42860000000 PERSONNEL AUTRES CHG A PAYER                                      10 000                                           10 000
+ . Organismes sociaux                                                             241 317                  309 595                - 68 278
+      43100000000 SECURITE SOCIALE                                                 111 141                  127 979                - 16 838
+
+
+                                                          mazars safirec                                                         Page 18
+OPEN BEE FRANCE SAS                                                             PAE LES LONGERAY 74370 METZ-TESSY
+
+                                                                   Exercice clos le          Exercice précédent
+                               PASSIF                              31/03/2024
+                                                                        (12 mois)
+                                                                                             31/03/2023
+                                                                                                (12 mois)
+                                                                                                                        Variation
+
+
+     43708000000 COTIS ADESAT ET DIVERS                                                148                     706                - 558
+     43733000000 CAISSES RETRAITES CADRES                                           42 588                  89 100             - 46 512
+     43780000000 MUTUELLES                                                           5 319                  15 988             - 10 669
+     43820000000 ORG.SOC. CH/CONGES A                                               77 744                  73 287                4 457
+     43860000000 ORG.SOC. CHARGES A PAYER                                            4 377                   2 535                1 842
+. Etat, taxes sur le chiffre d'affaires                                        660 257                  455 919               204 338
+     44551000000 TVA A DECAISSER                                                 28 828                  152 928              - 124 100
+     44571000000 TVA COLLECTEE S/PRESTATIONS SE                                  45 039                  239 337              - 194 298
+     44571190000 TVA COLLECTEE VENTES 8.5 %                                       6 866                   10 206                 - 3 340
+     44580000000 TVA A REGULARISER                                              177 254                   29 803                147 451
+     44586100000 TVA SUR AVOIRS A RECEVOIR                                                                 1 786                 - 1 786
+     44587000000 TVA SUR FACTURES A ETABLIR                                     402 270                   21 859                380 411
+. Autres impôts, taxes et assimilés                                             43 869                    48 064               - 4 195
+     44210000000 VERSEMENT PAS                                                      14 961                  22 578               - 7 617
+     44700000000 AUTRES IMPOTS, TAXES ET VERSEM                                                             10 947             - 10 947
+     44860000000 ETAT AUTRES CH. A PA                                               12 379                  12 668                 - 289
+     44862000000 TAXE D'APPRENTISSAGE PART                                           3 243                     988                 2 255
+    CONVENTIONNELLE
+     44863000000 FORMATION CONTINUE PART CONVENTIONNELLE                               375                        882            - 507
+     44864000000 TAXE EFFORT CONSTRUCTION                                           12 911                                      12 911
+Autres dettes                                                                  199 811                  189 824                     9 987
+     41100000000 CLIENTS 2                                                          63 858                  79 358             - 15 500
+     41980000000 CLIENTS RRR&AV.A ACC                                               52 068                  44 409                7 659
+     46720000000 MB2I                                                               83 885                  66 056               17 829
+Produits constatés d'avance                                                    920 203               1 024 433              - 104 230
+     48700000000 PRODUITS CONSTATES D'AVANCE                                    920 203                1 024 433              - 104 230
+
+
+                                                   TOTAL (IV)               7 460 166                5 934 734              1 525 432
+
+
+                                          TOTAL PASSIF (I à V)            10 030 791                 8 604 565              1 426 226
+
+
+
+
+                                                       mazars safirec                                                       Page 19
+ OPEN BEE FRANCE SAS                                                           PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                                            Annexes aux comptes annuels
+
+                                                      PREAMBULE
+       L'exercice social clos le 31/03/2024 a une durée de 12 mois.
+       L'exercice précédent clos le 31/03/2023 avait une durée de 12 mois.
+
+       Le total du bilan de l'exercice avant affectation du résultat est de 10 030 790,88 E.
+
+       Le résultat net comptable est une perte de 1 047 546,46 E.
+
+     Les informations communiquées ci-après font partie intégrante des comptes annuels qui ont été établis le
+    29/11/2024 par les dirigeants.
+
+
+                         PRINCIPES COMPTABLES, METHODES D’EVALUATION,
+                                  COMPARABILITE DES COMPTES
+Les comptes annuels sont établis selon les normes définies par le plan comptable général approuvé par arrêté ministériel
+du 8 septembre 2014, en application des articles L.123-12 à L.123-28 et R.123-172 à R.123-208 du code du commerce et
+conformément aux dispositions des règlements comptables révisant le PCG établis par l’autorité des normes comptables.
+
+Afin de répondre à un objectif d’image fidèle, les conventions générales comptables ont été appliquées dans le respect
+des principes suivants :
+
+       Comparabilité des comptes annuels : permanence des méthodes
+       Indépendance des exercices
+       Continuité d’exploitation
+       Régularité
+       Sincérité
+       Importance relative
+       Prudence
+
+et conformément aux règles générales d'établissement et de présentation des comptes annuels.
+
+La méthode de base retenue pour l'évaluation des éléments inscrits en comptabilité est la méthode des coûts historiques.
+
+Lors de première application des règlements précités qui se sont imposés à l’entité à compter des exercices ouverts
+           er
+depuis le 1 janvier 2005, la société a choisi d’utiliser la méthode prospective.
+
+Les principales méthodes utilisées et les options retenues sont les suivantes :
+
+IMMOBILISATIONS INCORPORELLES ET CORPORELLES
+  Les immobilisations incorporelles et corporelles sont évaluées à leur coût d'acquisition après déduction des rabais
+  commerciaux, remises, escomptes de règlement ou à leur coût de production.
+  Les immobilisations incorporelles sont constituées entre autres de la marque OPEN BEE de 951 817.62 €.
+
+
+   Frais de recherche et développement
+   L’option pour la comptabilisation en charges des frais de développement n’a pas été retenue.
+   Les frais de recherches immobilisés engagés au cours de l’exercice se sont élevés à 1 254 984 €.
+
+FONDS Commercial (ANC règlement 2015-06 – PCG art 214-15)
+
+   La durée d’utilisation du fonds commercial est non limitée. De ce fait, le fonds commercial n’est pas amorti.
+   Un test de dépréciation a été réalisé et a conduit à constater que la valeur actuelle du fonds commercial figurant à
+   l’actif pour un montant de 150 000 euros est supérieure à sa valeur nette comptable.
+   Aucune dépréciation du fonds commercial n’a donc été constatée.
+
+
+                                                     MAZARS SAFIREC SAS                                         Page 20
+ OPEN BEE FRANCE SAS                                                             PAE LES LONGERAY 74370 METZ-TESSY
+
+
+
+
+IMMOBILISATIONS FINANCIERES
+
+   Les immobilisations financières sont évaluées à leur coût d'acquisition après déduction des rabais commerciaux,
+   remises, escomptes de règlement. Elles sont essentiellement constituées des titres OPEN BEE TUNISIE pour un
+   montant de 635 000 €.
+
+   Option pour les frais accessoires :
+
+   L’option pour l’incorporation de certains frais accessoires, liés à l’acquisition des immobilisations financières, dans le
+   coût d’entrée de l’immobilisation n’a pas été retenue. Ces frais sont comptabilisés en charge.
+
+PRODUCTION IMMOBILISEE
+
+   La société active ses frais de développement de logiciels dans la mesure où ils se rapportent à des projets nettement
+   individualisés, ayant de sérieuses chances de réussite technique et de rentabilité commerciale.
+
+   La société s’engage alors à démontrer qu’elle remplit simultanément les six critères suivants :
+       - la faisabilité technique nécessaire à l’achèvement de l’immobilisation incorporelle en vue de sa mise en service
+       ou de sa vente ;
+
+       - l’intention d’achever l’immobilisation incorporelle et de l’utiliser ou de la vendre ;
+
+       - la capacité d’utiliser ou de vendre cette immobilisation incorporelle ;
+
+       - la capacité de l’immobilisation incorporelle à générer des avantages économiques futurs, l’entreprise doit
+       notamment démontrer l’existence d’un marché pour la production issue de l’immobilisation incorporelle ou pour
+       l’immobilisation incorporelle elle-même ou, si celle-ci doit être utilisée en interne, son utilité ;
+
+       - la disponibilité de ressources (techniques, financières et autres) appropriées pour achever le développement et
+       utiliser ou vendre l’immobilisation ;
+
+       - la capacité à évaluer de façon fiable les dépenses attribuables à l’immobilisation incorporelle au cours de son
+       développement.
+   La durée d’amortissement relative aux frais de recherche et développement est fixée à 3 ans.
+
+
+AMORTISSEMENTS
+
+   Les amortissements représentent la répartition systématique du montant amortissable d’un actif en fonction de son
+   utilisation. Ils sont donc désormais calculés sur la durée d’utilisation réelle des biens.
+
+DEPRECIATIONS
+
+   La dépréciation est la constatation que la valeur d’un actif est devenue inférieure à sa valeur nette comptable.
+
+   L’entité n’a pas relevé d’indices de perte de valeur nécessitant la constatation d’une dépréciation.
+
+CREANCES
+
+   Les créances sont valorisées à leur valeur nominale. Une provision pour dépréciation est pratiquées lorsque la valeur
+   d’inventaire est inférieure à la valeur comptable.
+
+STOCKS
+
+Aucun stock constaté sur l’exercice. Une nouvelle méthode de prise en compte des revenus a été retenue (voir le
+paragraphe changement de méthode).
+
+
+
+
+                                                      MAZARS SAFIREC SAS                                              Page 21
+ OPEN BEE FRANCE SAS                                                           PAE LES LONGERAY 74370 METZ-TESSY
+
+
+OPERATIONS EN DEVISES
+
+   Les charges et les produits en devises sont enregistrés pour leur contre-valeur à la date de l'opération.
+   Les dettes, créances et disponibilités en devises figurent au bilan pour leur contre-valeur au cours de fin d'exercice.
+   La différence résultant de l'actualisation des dettes et créances en devises à ce dernier cours est portée au bilan en
+   "écart de conversion". Les pertes latentes de change non compensées font l'objet d'une provision en totalité.
+
+                                                  FAITS MARQUANTS
+
+Les faits marquants de l’exercice sont les suivants :
+
+De façon concomitante en décembre 2023 ont eu lieu :
+
+L’augmentation de capital de 443 800 € à la valeur nominale de 100 €. Le capital à la clôture de l’exercice s’élève à
+543 800 €. Cette augmentation de capital a été réalisée par compensation de la créance en compte courant avec la
+société Open Bee SA (ancien associé unique).
+
+La cession par OPEN BEE Suisse de 80 % des titres OPEN BEE France au Profit de le SAS DOXSA
+La cession par OPEN BEE Suisse de 99 % des titres OPEN BEE Tunisie au profit de OPEN BEE France. (1)
+L’acquisition de la marque OPEN BEE par OPEN BEE France auparavant détenue par OPEN BEE Suisse.
+
+Souscription d’un emprunt obligataire d’un montant total de 2 000 000 € correspondant à 2000 obligations ordinaires
+de 1000 € de valeur nominale chacune.
+
+(1) Open Bee Tunisie est considérée comme un centre de coûts permettant de créer de la valeur pour le Groupe à travers
+les économies de coûts réalisées. De ce fait, l’approche retenue pour la valorisation a consisté à estimer la valeur des
+titres sur la base des économies de coûts réalisées par le Groupe.
+
+
+                                          CONTINUITE D’EXPLOITATION
+
+La continuité d'exploitation de la société Open Bee est assurée par le soutien du groupe Doxsa. Une lettre de soutien a
+été émise à ce titre dans le cadre de l'arrêté des comptes clos le 31 mars 2024
+
+
+
+                                       RECONNAISSANCE DES REVENUS
+
+La société Open Bee France SAS produit et commercialise des solutions informatiques. Ces solutions sont
+commercialisées par Open Bee France SAS soit en direct auprès de leurs clients soit par l'intermédiaire de revendeurs.
+Ces solutions sont vendues soit en mode "on premises" soit en mode "Software as a service".
+
+Les produits correspondant aux ventes en mode "Software as a service" rémunèrent une prestation continue qui est
+l’accès des utilisateurs autorisés à l’application sur toute la durée du contrat, de manière ininterrompue. Jusqu'à la clôture
+de l'exercice précédent, les produits étaient comptabilisés au fur et à mesure de l’exécution de la prestation, de manière
+étalée sur la durée du contrat et ce au regard des facturations mensuelles réalisées à ce titre, à l'exception du contrat
+Konica Minolta. Pour ce contrat, la prise de revenus des contrats cloud Konica Minolta se fait quant à elle historiquement
+par le biais d'une facturation One Shot de la totalité du contrat au partenaire Konica Minolta.
+Sur l'exercice clos le 31 mars 2024, la société a modifié ses principes de reconnaissance de revenus pour l'ensemble des
+contrats en mode "Software as a service". Ce principe conduit à ne pas étaler les produits sur la durée du contrat et
+reconnaitre l'intégralité du chiffre d'affaires lors de la prise de commandes (signature des engagements) - cf. paragraphe
+"Changement de méthode" pour des informations complémentaires.
+
+
+
+
+                                                        MAZARS SAFIREC SAS                                           Page 22
+ OPEN BEE FRANCE SAS                                                       PAE LES LONGERAY 74370 METZ-TESSY
+
+
+
+
+                                         CHANGEMENT DE METHODE
+
+Une nouvelle méthode de reconnaissance des revenus implique désormais une prise en compte de 100% des
+commandes de logiciels passées dans l’exercice, diminuée d’un coût d’exécution statistiquement évalué à 15% du
+montant HT des dites commandes. Cette méthode est venue remplacer la méthode antérieure visant à valoriser une
+production stockée de licences non vendue. Cette méthode consiste par ailleurs à provisionner également un coût
+d’exécution du même pourcentage pour des facturations faites en une seule fois dans l’exercice, en lien avec des contrats
+de service logiciel dont la date de fin est supérieure à la date de clôture. L’impact de ce changement de méthode a un
+impact de 309 508 € sur l’amélioration du compte de résultat.
+
+
+
+                                                       FAE                         FAE
+                                                              stock
+                             FAE Brut    FAE net     nouvelle                    Méthode      (**)
+                                                              Orange
+                                                     méthode                       N-1
+
+FAE Orange (contrats      560 507        423 948     423 948                      285 242
+cloud fermes non facturés
+initiés en facturation)
+
+FAE Direct et IT(contrats     1 041
+                                         907 780     907 780     1 241 889 (*)    631 997
+cloud fermes non facturés      704
+initiés en facturation)
+FAE ALL (contrats cloud
+fermes < 31.03.2024 non      711 905     643 650     643 650                      362 289
+initiés en facturation)
+FAE On Premise                30 332      29 919      29 919
+
+
+Coût d'éxecution des
+facturations KM et                       -334 961    -334 961
+TOSHIBA 01.04.2023-
+31.03.2024 FACTURATION
+KM et TOSHIBA
+Coût d'éxecution des
+facturation LABS
+01.042023-31.03.2024
+                                         -81 300      -81 300
+FACTURATION LA
+BUREAUTIQUE
+SOLUTIONS
+                                                     1 589 035                   1 279 527
+
+(*) Dans l'ancienne méthode, un an de tacite reconduction était incorporée à chaque
+contrat
+(**) stock valorisé à 50,89% des commandes non facturées
+                                                                                 Impact
+                                                                                 309 508
+
+
+La société est dans l’incapacité de produire des comptes pro forma.
+
+
+
+                                                    MAZARS SAFIREC SAS                                         Page 23
+ OPEN BEE FRANCE SAS                                                         PAE LES LONGERAY 74370 METZ-TESSY
+
+                           AUTRES ELEMENTS SIGNIFICATIFS DE L'EXERCICE
+
+
+Tout comme en N-1, la redevance pour l’utilisation de la licence d’Open Bee SA initialement de 40% a été plafonnée à
+15%, compte tenu des développements réalisés par la société pour ajouter des fonctionnalités à l’écosystème Open BEE.
+L’abattement appliqué sur le chiffre d’affaires d’Open Bee France retenu pour le calcul de la redevance est de 70%.
+Cette redevance a cessé de s’appliquer à la date de cession de la marque à OPEN BEE France le 11/12/2023.
+Montant de la redevance sur l’exercice : 177 274 €.
+
+Deux provisions pour risques ont été constatées sur l’exercice.
+L’une concerne un litige de nature prud’homale pour 35 000 €, l’autre, un litige commercial avec le client TOTAL s’élevant
+à 53 280 €.
+Les autres produits et charges exceptionnels n’ont pas de caractère significatif et n’appellent pas d’observations
+particulières.
+
+La facturation de prestations d’Open Bee Tunisie à Open Bee France s’établit à hauteur de 946 272 €.
+
+
+
+
+                                                   MAZARS SAFIREC SAS                                            Page 24
+ OPEN BEE FRANCE SAS                                                         PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                                  Annexes aux comptes annuels (suite)
+
+                                              NOTES SUR LE BILAN ACTIF
+Frais de recherche & développement = 15 300
+Frais recherche & développement                 Valeur brute       Amortissement        Valeur nette             Taux
+        Frais recherche & développement                 15 300              15 054                 247                     %
+
+Fonds commercial (hors droit au bail) = 150 000
+          Fonds commercial                      Valeur brute       Amort./Provis.       Valeur nette             Taux
+                         Fonds acheté                  150 000                                 150 000                     %
+                       Fonds réévalué                                                                                      %
+                  Fonds reçu en apport                                                                                     %
+                               TOTAL                    150 000                                 150 000
+
+Actif immobilisé
+     Les mouvements de l'exercice sont détaillés dans les tableaux ci-dessous :
+
+     Immobilisations brutes = 9 098 855
+            Actif immobilisé                    A l'ouverture      Augmentation         Diminution            A la clôture
+            Immobilisations incorporelles             5 784 136         2 208 302                                   7 992 438
+              Immobilisations corporelles               362 577            50 669                 7 777               405 469
+              Immobilisations financières                66 259           634 689                                     700 948
+                                  TOTAL               6 212 972         2 893 660                 7 777             9 098 855
+
+     Amortissements et provisions d'actif = 4 814 450
+    Amortissements et provisions                A l'ouverture      Augmentation         Diminution            A la clôture
+           Immobilisations incorporelles              3 342 817         1 170 825                                   4 513 642
+             Immobilisations corporelles                260 129            47 682                 7 003               300 808
+               Titres mis en équivalence
+      Autres Immobilisations financières
+                                 TOTAL                 3 602 946         1 218 507                7 003            4 814 450
+
+     Détail des immobilisations et amortissements en fin de période
+    Nature des biens immobilisés                  Montant             Amortis.          Valeur nette            Durée
+        Frais recherche/ developpement                 15 300               15 054                 247                 4 ans
+     Frais recherche / autres incorporels           6 875 320           4 498 588            2 376 732                 3 ans
+ Brevets licences marques et fonds Co.              1 101 818                                1 101 818         Non amortiss
+             Installations et agencements              98 093               53 909              44 185         de 3 à 10 ans
+           Autres immobilisations corpore               2 288                   18               2 270                 4 ans
+                      Materiel de transport            98 523               65 764              32 759          de 2 à 3 ans
+                     Mat.bureau &informat             206 565              181 118              25 447          de 2 à 5 ans
+
+
+                                   TOTAL               8 397 907         4 814 450             3 583 457
+
+Etat des créances = 5 275 175
+               Etat des créances                          Montant brut               A un an               A plus d'un an
+                                    Actif immobilisé                59 683                                            59 683
+                Actif circulant & charges d'avance              5 215 492                4 061 845                 1 153 647
+                                            TOTAL               5 275 175                4 061 845                 1 213 330
+
+
+
+
+                                                       MAZARS SAFIREC SAS                                           Page 25
+ OPEN BEE FRANCE SAS                                                      PAE LES LONGERAY 74370 METZ-TESSY
+
+Provisions pour dépréciation = 33 314
+      Nature des provisions            A l'ouverture    Augmentation       utilisées    non utilisées     A la clôture
+                 Stocks et en-cours
+                   Comptes de tiers            35 268             5 380         5 375           1 959            33 314
+                Comptes financiers
+                            TOTAL              35 268             5 380         5 375           1 959            33 314
+
+Produits à recevoir par postes du bilan = 2 532 837
+                             Produits à recevoir                                                Montant
+                                                     Immobilisations financières
+                                                    Clients et comptes rattachés                              2 439 184
+                                                                 Autres créances                                 93 653
+                                                                   Disponibilités
+                                                                          TOTAL                               2 532 837
+
+Charges constatées d'avance = 43 557
+     Les charges constatées d'avance ne sont composées que de charges ordinaires dont la répercussion sur le résultat
+    est reportée à un exercice ultérieur.
+
+
+
+
+                                                 MAZARS SAFIREC SAS                                            Page 26
+ OPEN BEE FRANCE SAS                                                       PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                               Annexes aux comptes annuels (suite)
+
+                                       NOTES SUR LE BILAN PASSIF
+Capital social = 543 800
+           Mouvements des titres                        Nombre                   Val. nominale         Capital social
+                     Titres en début d'exercice                     1000                   100,00                100 000
+                                    Titres émis                     4438                   100,00                443 800
+                Titres remboursés ou annulés
+                      Titres en fin d'exercice                      5438                   100,00               543 800
+
+Provisions = 504 541
+Nature des provisions       A l'ouverture     Augmentation           Utilisées         Non utilisées      A la clôture
+ Provisions réglementées
+Provisions pour risques &
+                                                      504 541                                                   504 541
+                  charges
+                 TOTAL                                504 541                                                   504 541
+
+Etat des dettes = 7 460 017
+           Etat des dettes                  Montant total        De 0 à 1 an          De 1 à 5 ans       Plus de 5 ans
+               Etablissements de crédit          4 348 922              700 146            3 388 776             260 000
+             Dettes financières diverses
+                           Fournisseurs             679 365              679 365
+              Dettes fiscales & sociales          1 311 715            1 311 715
+             Dettes sur immobilisations
+                           Autres dettes            199 811              199 811
+            Produits constatés d'avance             920 203              415 018             505 185
+                                 TOTAL            7 460 017            3 306 055           3 893 961            260 000
+
+Charges à payer par postes du bilan = 706 000
+                               Charges à payer                                                      Montant
+                                                     Emp. & dettes établ. de crédit                               26 761
+                                                     Emp.& dettes financières div.
+                                                                    Fournisseurs                                314 152
+                                                      Dettes fiscales & sociales                                313 019
+                                                                    Autres dettes                                52 068
+                                                                           TOTAL                                706 000
+
+Produits constatés d'avance = 920 203
+
+  Les produits constatés d'avance de l'exercice comprennent essentiellement des opérations liées à l'activité "Software
+  as a service
+
+
+
+
+                                                  MAZARS SAFIREC SAS                                           Page 27
+ OPEN BEE FRANCE SAS                                                         PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                                 Annexes aux comptes annuels (suite)
+
+                                   NOTES SUR LE COMPTE DE RESULTAT
+Ventilation du chiffre d'affaires = 8 755 918
+      Le chiffre d'affaires de l'exercice se décompose de la manière suivante :
+                      Nature du chiffre d'affaires                                Montant HT              Taux
+                                                  Ventes de produits finis              6 432 784                73,47 %
+                                                  Prestations de services               2 323 135                26,53 %
+
+                                                                   TOTAL                8 755 918               100.00 %
+
+
+                                             AUTRES INFORMATIONS
+Effectif moyen
+                   Catégories de salariés                                 Salariés                   En régie
+                                                      Cadres                             48
+                             Agents de maîtrise & techniciens                             1
+                                                    Employés                              2
+                                                     Ouvriers
+                                      Apprentis sous contrat                              2
+                                                      TOTAL                              53
+
+
+
+
+Dettes garanties par des sûretés réelles
+Prêt moyen terme de 83 400 € souscrit à la Sté Générale, au taux fixe de 0.70 % réalisation 19/06/2017 remboursable en
+84 mensualités.
+Capital restant dû au 31/03/2024 : 9 135.06 €
+Garantie : Nantissement du fonds de commerce
+
+Prêt moyen terme de 300 000 € souscrit à la Sté Générale, au taux fixe de 0.90 % réalisation 17/10/2018 remboursable en
+60 mensualités.
+Capital restant dû au 31/03/2024 : 5 947.92 €
+Garantie : Nantissement du fonds de commerce
+
+Prêt PGE moyen terme de 150 000 € souscrit à la Banque Populaire au taux de 0.25 % puis 0.73 % - 72 mensualités –
+réalisation 30/05/2020. Remboursement différé de 24 mois.
+Capital restant dû au 31/03/2024 : 78 961.23 €.
+Caution apportée par la République Française.
+
+Prêt PGE moyen terme de 600 000 € souscrit à la Sté Générale au taux de 0.25 % puis 0.58 % - 48 mensualités –
+réalisation 30/05/2020. Remboursement différé de 24 mois.
+Capital restant dû au 31/03/2024 : 326 726.95 €.
+Caution apportée par la République Française.
+
+Prêt PGE moyen terme de 200 000 € souscrit à la Caisse d’Epargne au taux de 0 % puis 0.12 % - 72 mensualités –
+réalisation 30/05/2020. Remboursement différé de 24 mois.
+Capital restant dû au 31/03/2024 : 109 330.33 €.
+Caution apportée par la République Française
+Prêt PGE moyen terme de 150 000 € souscrit à la Bpi au taux de 1.75 % - 1 mensualité – réalisation 24/07/2020.
+Remboursement différé de 24 mois.
+Capital restant dû au 31/03/2024 : 93 750 €.
+Caution apportée par la République Française
+Prêt moyen terme de 160 000 € souscrit à la Banque Populaire, au taux fixe de 2.15 % réalisation 12/01/2022
+remboursable en 72 mensualités.
+Capital restant dû au 31/03/2024 : 124 188.66 €
+                                                   MAZARS SAFIREC SAS                                           Page 28
+ OPEN BEE FRANCE SAS                                                      PAE LES LONGERAY 74370 METZ-TESSY
+
+
+Garantie : Fonds Européen de Garantie : prise de garantie
+Prêt moyen terme de 250 000 € souscrit à la Sté Générale, au taux fixe de 1.51 % réalisation 17/01/2022 remboursable en
+60 mensualités.
+Capital restant dû au 31/03/2024 : 148 120.59 €
+Garantie : Caution BPI France à 50% de l’encours du prêt et nantissement du fonds de commerce
+
+Prêt moyen terme de 240 000 € souscrit à la Sté Générale, au taux fixe de 4.50 % réalisation 17/02/2022 remboursable en
+31 trimestres.
+Capital restant dû au 31/03/2024 : 240 000 €
+Garantie : Caution apportée par la République Française
+
+Prêt moyen terme de 300 000 € BPI / SG, au taux fixe de 3.20 % réalisation 04/12/2018 remboursable en 8 trimestres
+avec différé d’amortissement. Fin d’amortissement le 31/12/2025.
+Capital restant dû au 31/03/2024 : 150 000 €
+Garantie : Fonds national de Garantie à hauteur de 30% et Fonds Européen d’investissement à hauteur de 50%.
+
+Prêt moyen terme de 300 000 € BPI / Banque Populaire, au taux fixe de 4.05 % réalisation 07/06/2023 remboursable en
+20 trimestres avec différé d’amortissement. Fin d’amortissement le 30/09/2030.
+Capital restant dû au 31/03/2024 : 150 000 €
+
+
+Autres engagements hors bilan
+
+
+  •   Indemnités de fin de carrière :
+         Base des salaires du mois : 03/2024
+         Date d’évaluation des IFC : 31/03/2024
+         Turn over retenu : 3%
+         Taux d’évolution des salaires : 1.50 %
+         Taux d’actualisation : 3.40 %
+         Date de départ à la retraite : 65 ans
+         Modalité de départ à la retraite : à l’initiative du salarié
+         Taux de charges sociales : Etude avec charges sociales
+         Table de mortalité 2012-2014 H/F en France métropolitaine
+         Montant probable du cout des indemnités à terme : 845 010 €
+         Montant actualisé du cout probable des indemnités : 373 729 €
+      Montant de l’engagement des IFC, selon les paramètres et hypothèses retenues : 106 909 €
+
+
+
+
+                                                  MAZARS SAFIREC SAS                                          Page 29
+ OPEN BEE FRANCE SAS                                                  PAE LES LONGERAY 74370 METZ-TESSY
+
+
+Annexes aux comptes annuels (suite)
+Tableaux financiers relatifs aux crédits-baux en cours
+         Redevances payées                   Immobilier    Mat. & Outil.    Autres immob.     TOTAL
+Cumuls des exercices antérieurs                                                     241 550      241 550
+Montants de l'exercice                                                              498 119      498 119
+                             Sous-total                                             739 669      739 669
+
+       Redevances restant dues               Immobilier    Mat. & Outil.    Autres immob.     TOTAL
+A 1 an au plus                                                                      886 265      886 265
+Entre 1 et 5 ans                                                                    742 198      742 198
+A plus de 5 ans
+                           Sous-total                                             1 628 463     1 628 463
+
+            Valeur résiduelle                Immobilier    Mat. & Outil.    Autres immob.     TOTAL
+A 1 an au plus
+Entre 1 et 5 ans                                                                   106 515        106 515
+A plus de 5 ans
+                                Sous-total                                         131 201        131 201
+
+        Coût total du crédit-bail            Immobilier    Mat. & Outil.    Autres immob.     TOTAL
+                                    TOTAL                                         2 499 333     2 499 333
+
+
+
+
+                                                 MAZARS SAFIREC SAS                              Page 30
+ OPEN BEE FRANCE SAS                                                       PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                                  Annexes aux comptes annuels (suite)
+
+           DETAIL DES POSTES CONCERNES PAR LE CHEVAUCHEMENT D'EXERCICE
+Les comptes détaillés dans les tableaux suivants concernent les écritures comptables relatives à l'indépendance des
+exercices.
+
+Produits à recevoir = 2 532 837
+
+                      Produits à recevoir sur clts et comptes rattachés                                  Montant
+                                                            Clients fact. a etab( 41810000000 )              2 439 184
+
+                                                                                         TOTAL                 2 439 184
+
+                           Produits à recevoir sur autres créances                                       Montant
+                                                           Org.soc. prod.a rece( 43870000000 )                      4 221
+                                                 Etat autres charges a recevoir( 44870000000 )                     89 432
+
+                                                                                         TOTAL                     93 653
+
+Charges constatées d'avance = 43 557
+                                  Charges constatées d'avance                                            Montant
+                                                          Charges constat.d'av( 48600000000 )                      43 557
+
+                                                                                         TOTAL                     43 557
+
+Charges à payer = 706 000
+
+                        Emprunts & dettes auprès des étab. De crédit                                     Montant
+                                                    Emprunts interets courus( 16884000000 )                        26 761
+
+                                                                                         TOTAL                     26 761
+
+                          Dettes fournisseurs et comptes rattachés                                       Montant
+                                                          Fournis.fact.non par( 40810000000 )                  314 152
+
+                                                                                         TOTAL                   314 152
+
+                                   Dettes fiscales et sociales                                           Montant
+                                                                 Conges a payer( 42820000000 )                 191 991
+                                                   Personnel autres chg a payer( 42860000000 )                   10 000
+                                                           Org.soc. ch/conges a( 43820000000 )                   77 744
+                                                       Org.soc. charges a payer( 43860000000 )                    4 377
+                                                             Etat autres ch. a pa( 44860000000 )                 12 379
+                                       Taxe d'apprentissage part conventionnelle( 44862000000 )                   3 243
+                                        Formation continue part conventionnelle( 44863000000 )                      375
+                                                         Taxe effort construction( 44864000000 )                 12 911
+
+                                                                                         TOTAL                   313 019
+
+                                         Autres dettes                                                   Montant
+                                                             Clients rrr&av.a acc( 41980000000 )                   52 068
+
+                                                                                         TOTAL                     52 068
+
+
+
+
+                                                  MAZARS SAFIREC SAS                                           Page 31
+ OPEN BEE FRANCE SAS                                                 PAE LES LONGERAY 74370 METZ-TESSY
+
+Produits constatés d'avance = 920 203
+                             Produits constatés d'avance                                  Montant
+                                             Produits constates d'avance( 48700000000 )             920 203
+
+                                                                                TOTAL               920 203
+
+
+
+
+                                              MAZARS SAFIREC SAS                                Page 32
+ OPEN BEE FRANCE SAS                                                             PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                                    Annexes aux comptes annuels (suite)
+
+                                   RÉSULTATS DES 5 DERNIERS EXERCICES
+Art : 133 et 148 du décret sur les sociétés commerciales
+
+Tableau
+                Nature des Indications / Périodes               31/03/2024    31/03/2023   31/03/2022   31/03/2021   31/12/2019
+                         Durée de l'exercice                     12 mois       12 mois      12 mois      15 mois      12 mois
+I - Situation financière en fin d'exercice
+a ) Capital social                                                 543 800       100 000      100 000      100 000      100 000
+b ) Nombre d'actions émises                                          4 438
+c ) Nombre d'obligations convertibles en actions
+II - Résultat global des opérations effectives
+a ) Chiffre d'affaires hors taxes                                8 755 918    6 220 692    5 111 579    5 195 046     4 861 472
+b ) Bénéfice avant impôt, amortissements & provisions              303 111    1 036 860      911 751      759 725       816 835
+c ) Impôt sur les bénéfices                                       -370 436     -276 358     -306 033     -363 986      -220 009
+d ) Bénéfice après impôt, mais avant amortissements &
+                                                                   673 547    1 313 218    1 217 784    1 123 711     1 036 844
+provisions
+e ) Bénéfice après impôt, amortissements & provisions           -1 047 546       308 013      275 169      186 179      288 674
+f ) Montants des bénéfices distribués
+g ) Participation des salariés
+III - Résultat des opérations réduit à une seule action
+a ) Bénéfice après impôt, mais avant amortissements                     124
+b ) Bénéfice après impôt, amortissements provisions                    -193
+c ) Dividende versé à chaque action
+IV - Personnel :
+a ) Nombre de salariés                                                  52           49           43           37            37
+b ) Montant de la masse salariale                                2 929 886    2 899 070    2 586 117    2 662 196     1 775 935
+c ) Montant des sommes versées au titre des avantages
+                                                                 1 134 286    1 115 742    1 002 490    1 037 800       680 316
+sociaux
+
+
+
+
+                                                          MAZARS SAFIREC SAS                                         Page 33
+ OPEN BEE FRANCE SAS                                                                          PAE LES LONGERAY 74370 METZ-TESSY
+
+
+                                     Annexes aux comptes annuels (suite)
+
+                                  TABLEAU DES FILIALES ET PARTICIPATIONS
+Tableau
+   Filiales et     Capital   Réserves et   Quote-    Valeur brute    Valeur       Prêts et    Cautions et    C.A. H.T.    Résultat du      Dividendes
+                   social     report à     part du    des titres    nette des    avances        avals       du dernier      dernier      encaissés par la
+ participations               nouveau      capital     détenus        titres    consenties    donnés par     exercice    exercice clos    Sté dans l’ex
+                                           détenu                   détenus      par la Sté     la Sté         clos
+                                            en %
+ A – Renseignements détaillés concernant les filiales & participations
+- Filiales (plus de 50% du capital détenu)
+OPEN BEE               5 970    27 340     99 634 545                                                        1 182 390           4 855
+TUNISIE
+
+
+
+
+Participations (10 à 50 % du capital détenu)
+
+
+
+
+B – Renseignements globaux concernant les autres filiales & participations
+- Filiales non reprises en A:
+
+a ) Françaises
+b ) Etrangères
+ Participations non reprises en A:
+a) Françaises
+b) Etrangères
+
+
+
+
+                                                             MAZARS SAFIREC SAS                                                              Page 34
+ OPEN BEE FRANCE SAS                                                           PAE LES LONGERAY 74370 METZ-TESSY
+
+
+
+
+                                     Annexes aux comptes annuels (suite)
+
+                                         COMPTE RENDU DES TRAVAUX
+Le Cabinet SAFIREC SAS, inscrit au tableau de l'Ordre des Experts Comptables.
+
+Aux termes de la mission d'assistance/de supervision comptable et d'établissement des Comptes Annuels, qui lui a été
+confiée par OPEN BEE FRANCE SAS,
+
+Déclare que les Comptes Annuels se rapportant à l'exercice clos au 31/03/2024 caractérisés notamment par les données
+suivantes:
+
+
+Total du bilan                                                                              10 030 791
+Chiffre d'affaires hors taxes                                                               8 755 918
+Résultat net de l'exercice (perte)                                                          -1 047 546
+
+ont été établis à partir des pièces, documents et informations fournis par l'Entreprise, en conformité avec les dispositions
+de l'Ordonnance du 19 septembre 1945 régissant l'Ordre des Experts Comptables et avec les règles de diligence
+préconisées par l'Ordre à l'exception des règles suivantes :
+
+- présentation d'un état détaillé et chiffré des stocks et en cours,
+- contrôle de la conformité de la méthode de valorisation des stocks et en cours utilisée avec les règles en vigueur,
+- vérification de l'application de la méthode de valorisation des stocks et en cours par épreuves,
+- établissement du tableau de financement,
+- contrôle des existants en caisse.
+
+ Le présent compte-rendu ne constitue pas une attestation de régularité et de sincérité au sens de l'article 2 de
+l'ordonnance du 19 septembre 1945.
+
+
+
+
+                                                                                          Pour SAFIREC SAS
+                                                                                          Fait à LA MOTTE-SERVOLEX le
+13/12/2024
+
+
+
+
+                                                     MAZARS SAFIREC SAS                                             Page 35
+
