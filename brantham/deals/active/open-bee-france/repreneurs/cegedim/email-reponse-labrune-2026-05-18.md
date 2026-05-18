@@ -34,6 +34,8 @@ Cette analyse détaillée, comme l'ensemble des éléments nominatifs et financi
 
 L'étape pour avancer est donc la signature de ces documents de mission, que je vous adresse dans la foulée. Dès réception, nous organisons un point téléphonique de présentation détaillée et vous transmettons notre analyse complète. Le calendrier de la procédure étant resserré, je vous invite à vous positionner rapidement.
 
+Si vous souhaitez donner suite, il nous faudra par ailleurs, de votre côté, un extrait Kbis de Cegedim et votre dernière liasse fiscale (ou vos derniers comptes clos) : les organes de la procédure exigent ces pièces de tout candidat repreneur personne morale pour l'accès au dossier.
+
 Vous trouverez ci-joint notre note de présentation.
 
 Bien cordialement,
