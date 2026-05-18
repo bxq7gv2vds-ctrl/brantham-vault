@@ -6,11 +6,27 @@ date: 2026-05-18
 
 # Réconciliation fichiers — Data Room Open Bee France
 
-Audit de couverture : **142 fichiers** dans la data room.
-- **135 analysés** (répartis dans les 9 lots, double passe synthèse + détail)
-- **7 doublons exacts** (hash MD5 identique) — écartés volontairement
+Audit de couverture : **141 fichiers** de data room.
 
-Lot → fiches : `lot-N-<thème>.md` (synthèse) + `lot-N-detail.md` (approfondissement).
+- **134 fichiers analysés** — double passe : synthèse (`lot-N`) + approfondissement (`lot-N-detail`)
+- **7 doublons exacts** (hash MD5 identique à un autre fichier) — écartés volontairement
+- 1 fichier parasite hors data room (`Organisation-Gmail-Plan.md`) — non comptabilisé
+
+### Répartition des fichiers analysés par lot
+
+| Lot | Thème | Fichiers |
+|---|---|---|
+| 1 | Financier | 10 |
+| 2 | Procédure | 7 |
+| 3 | Passif | 22 |
+| 4 | Flotte | 23 |
+| 5 | Contrats | 20 |
+| 6 | Juridique & PI | 32 |
+| 7 | Contentieux | 11 |
+| 8 | Social | 5 |
+| 9 | Actifs | 4 |
+
+### Détail fichier par fichier
 
 | # | Fichier | Lot | Statut |
 |---|---|---|---|
@@ -29,7 +45,7 @@ Lot → fiches : `lot-N-<thème>.md` (synthèse) + `lot-N-detail.md` (approfondi
 | 13 | `Contrats/annexe_2_open_bee_tableau_des_emprunts_en_cours_31_08_25.xlsx` | 5 | Analysé |
 | 14 | `Contrats/attestation_2025_generale.pdf` | 5 | Analysé |
 | 15 | `Contrats/attestation_d_assurance_contrat_ar814985.pdf` | 5 | Analysé |
-| 16 | `Contrats/attestation_d_assurance_contrat_ar8149851.pdf` | — | Doublon exact — écarté |
+| 16 | `Contrats/attestation_d_assurance_contrat_ar8149851.pdf` | — | Doublon exact (MD5) — écarté |
 | 17 | `Contrats/attestation_dassurance_contrat___ar814985.pdf` | 5 | Analysé |
 | 18 | `Contrats/avenant_de_refonte_non_signe.pdf` | 5 | Analysé |
 | 19 | `Contrats/bail_monnours__0.pdf` | 5 | Analysé |
@@ -64,7 +80,7 @@ Lot → fiches : `lot-N-<thème>.md` (synthèse) + `lot-N-detail.md` (approfondi
 | 48 | `Contrats/easy_rcms_police_quittance___open_bee_france_.pdf` | 5 | Analysé |
 | 49 | `Contrats/easy_rcms_quittance___open_bee_france_represe.pdf` | 5 | Analysé |
 | 50 | `Contrats/open_bee_france___attestation_rdd_2025___easy_chubb.pdf` | 5 | Analysé |
-| 51 | `Contrats/open_bee_france___attestation_rdd_2025___easy_chubb0.pdf` | — | Doublon exact — écarté |
+| 51 | `Contrats/open_bee_france___attestation_rdd_2025___easy_chubb0.pdf` | — | Doublon exact (MD5) — écarté |
 | 52 | `Contrats/open_bee_france_contrat.pdf` | 4 | Analysé |
 | 53 | `Contrats/promesse_de_vente_et_dachat.pdf` | 5 | Analysé |
 | 54 | `Contrats/roulenloc_taxe_sur_vehiules_gy_086_xw_gt_191_yh_ww_978_kq.pdf` | 4 | Analysé — pièce incomplète dans la data room |
@@ -78,12 +94,12 @@ Lot → fiches : `lot-N-<thème>.md` (synthèse) + `lot-N-detail.md` (approfondi
 | 62 | `Documents comptables/open_bee_france_comptes_sociaux_2024__0.pdf` | 1 | Analysé |
 | 63 | `Documents comptables/plaquette_12_2024__2025_06_26_avec_annexe.pdf` | 1 | Analysé |
 | 64 | `Documents comptables/plaquette_31_03_24_annexe_version_23_12.pdf` | 1 | Analysé |
-| 65 | `Documents comptables/rapport_cac_31_03_2023__0.pdf` | — | Doublon exact — écarté |
-| 66 | `Documents comptables/rapport_cac_31_03_2024__0.pdf` | — | Doublon exact — écarté |
-| 67 | `Documents comptables/rca_31_03_2022_signe.pdf` | — | Doublon exact — écarté |
+| 65 | `Documents comptables/rapport_cac_31_03_2023__0.pdf` | — | Doublon exact (MD5) — écarté |
+| 66 | `Documents comptables/rapport_cac_31_03_2024__0.pdf` | — | Doublon exact (MD5) — écarté |
+| 67 | `Documents comptables/rca_31_03_2022_signe.pdf` | — | Doublon exact (MD5) — écarté |
 | 68 | `Jugement, ordonnance, pièces/pc_2025866_sas_open_bee_france_2025020449_audience_du_15092025_jugement_ouverture_de_redressement_judiciaire_avec_administrateur_18342944.pdf` | 2 | Analysé |
 | 69 | `Jugement, ordonnance, pièces/pc_2025866_sas_open_bee_france_2025020449_audience_du_15092025_jugement_ouverture_de_redressement_judiciaire_avec_administrateur_18342944_decoup_2_4 (1).pdf` | 2 | Analysé |
-| 70 | `Jugement, ordonnance, pièces/pc_2025866_sas_open_bee_france_2025020449_audience_du_15092025_jugement_ouverture_de_redressement_judiciaire_avec_administrateur_18342944_decoup_2_4.pdf` | — | Doublon exact — écarté |
+| 70 | `Jugement, ordonnance, pièces/pc_2025866_sas_open_bee_france_2025020449_audience_du_15092025_jugement_ouverture_de_redressement_judiciaire_avec_administrateur_18342944_decoup_2_4.pdf` | — | Doublon exact (MD5) — écarté |
 | 71 | `Jugement, ordonnance, pièces/pc_2025866_sas_open_bee_france_2025020878_audience_du_22102025_jugement_autorisant_le_maintien_de_la_periode_d_observation_18846329.pdf` | 2 | Analysé |
 | 72 | `Juridique entreprise et règlementation/1_1_2_5_royalty_and_license_agreement_switzerland_and_france.pdf` | 6 | Analysé |
 | 73 | `Juridique entreprise et règlementation/1_1_5_10_4568emenregistrement.pdf` | 6 | Analysé |
@@ -117,45 +133,44 @@ Lot → fiches : `lot-N-<thème>.md` (synthèse) + `lot-N-detail.md` (approfondi
 | 101 | `Juridique entreprise et règlementation/open_bee_2024_rapport_caa_def.pdf` | 6 | Analysé |
 | 102 | `Juridique entreprise et règlementation/open_bee_france_copie_des_statuts_mis_a_jour__0.pdf` | 6 | Analysé |
 | 103 | `Juridique entreprise et règlementation/organigramme_general_vf_27_02_2026.pdf` | 6 | Analysé |
-| 104 | `Organisation-Gmail-Plan.md` | ? | Analysé |
-| 105 | `Passif/3837_declaration_de_creance_aesio.pdf` | 3 | Analysé |
-| 106 | `Passif/3837_declaration_de_creance_aesio_mutuelle.pdf` | 3 | Analysé |
-| 107 | `Passif/3837_declaration_de_creance_banque_populaire_auvergne_rhone_alpes.pdf` | 3 | Analysé |
-| 108 | `Passif/625347_open_bee_france_etatsuccinct0.pdf` | 3 | Analysé |
-| 109 | `Passif/625347_open_bee_france_etatsuccinct1.pdf` | 3 | Analysé |
-| 110 | `Passif/625347_open_bee_france_etatsuccinctdetaille.pdf` | 3 | Analysé |
-| 111 | `Passif/open_bee_f__annexe_dc_2_credipar_credipar_pouvoirs_2025_pdf.pdf` | 3 | Analysé |
-| 112 | `Passif/open_bee_f__ar_decl_creance_credipar_credipar_ar_625347_sas_open_be.pdf` | 3 | Analysé |
-| 113 | `Passif/open_bee_f__dc_arval_bnp_paribas_group.pdf` | 3 | Analysé |
-| 114 | `Passif/open_bee_f__dc_bpi_france.pdf` | 3 | Analysé |
-| 115 | `Passif/open_bee_f__dc_la_banque_postale_leasing.pdf` | 3 | Analysé |
-| 116 | `Passif/open_bee_f__dc_leasys.pdf` | 3 | Analysé |
-| 117 | `Passif/open_bee_f__dc_lixxbail_237421fn0.pdf` | 3 | Analysé |
-| 118 | `Passif/open_bee_f__dc_lixxbail_264746fp0 (1).pdf` | 3 | Analysé |
-| 119 | `Passif/open_bee_f__dc_lixxbail_264746fp0.pdf` | — | Doublon exact — écarté |
-| 120 | `Passif/open_bee_f__dc_lixxbail_277588fn0.pdf` | 3 | Analysé |
-| 121 | `Passif/open_bee_f__dc_oragne_business_services_connectivity.pdf` | 3 | Analysé |
-| 122 | `Passif/open_bee_f__dc_orange_business_cloud_.pdf` | 3 | Analysé |
-| 123 | `Passif/open_bee_f__dc_orange_business_services.pdf` | 3 | Analysé |
-| 124 | `Passif/open_bee_f__dc_orange_business_services_connectivity.pdf` | 3 | Analysé |
-| 125 | `Passif/open_bee_f__dc_societe_generale.pdf` | 3 | Analysé |
-| 126 | `Passif/open_bee_f__dc_volskwagen_bank.pdf` | 3 | Analysé |
-| 127 | `Passif/open_bee_f__decl_creance_credipar_credipar_101m6611393_dcpt_pdf.pdf` | 3 | Analysé |
-| 128 | `Plan d'apurement/3837__CCSFsaisinedansles6mois__10099050916.pdf` | 2 | Analysé |
-| 129 | `Procès, contentieux, litiges/148990_constat_open_bee_france_13_05_2025_.pdf` | 7 | Analysé |
-| 130 | `Procès, contentieux, litiges/2025_09.pdf` | 7 | Analysé |
-| 131 | `Procès, contentieux, litiges/20_07_25__0.pdf` | 7 | Analysé |
-| 132 | `Procès, contentieux, litiges/25_07_18_projet_conclusions_open_bee.docx` | 7 | Analysé |
-| 133 | `Procès, contentieux, litiges/3837_ctx_rocca_me_lea_barkate_20_01_2026.pdf` | 7 | Analysé |
-| 134 | `Procès, contentieux, litiges/SHARP_MX3070N_20251016_121744.pdf` | 7 | Analysé |
-| 135 | `Procès, contentieux, litiges/assignation_acat_25_03_2025.pdf` | 7 | Analysé |
-| 136 | `Procès, contentieux, litiges/bull_proc_avis_de_mise_en_d_lib_r_.pdf` | 7 | Analysé |
-| 137 | `Procès, contentieux, litiges/lettre_a_administrateur___vd.pdf` | 7 | Analysé |
-| 138 | `Procès, contentieux, litiges/lettre_a_administrateur___vd0.pdf` | 7 | Analysé |
-| 139 | `Procès, contentieux, litiges/openbee_epn_14_10.pdf` | 7 | Analysé |
-| 140 | `Social/20260331_solde_des_repos_03_2026.pdf` | 8 | Analysé |
-| 141 | `Social/accord_collectif_de_teletravail.zip` | 8 | Analysé |
-| 142 | `Social/open_bee_liste_salaries_dataroom.pdf` | 8 | Analysé |
+| 104 | `Passif/3837_declaration_de_creance_aesio.pdf` | 3 | Analysé |
+| 105 | `Passif/3837_declaration_de_creance_aesio_mutuelle.pdf` | 3 | Analysé |
+| 106 | `Passif/3837_declaration_de_creance_banque_populaire_auvergne_rhone_alpes.pdf` | 3 | Analysé |
+| 107 | `Passif/625347_open_bee_france_etatsuccinct0.pdf` | 3 | Analysé |
+| 108 | `Passif/625347_open_bee_france_etatsuccinct1.pdf` | 3 | Analysé |
+| 109 | `Passif/625347_open_bee_france_etatsuccinctdetaille.pdf` | 3 | Analysé |
+| 110 | `Passif/open_bee_f__annexe_dc_2_credipar_credipar_pouvoirs_2025_pdf.pdf` | 3 | Analysé |
+| 111 | `Passif/open_bee_f__ar_decl_creance_credipar_credipar_ar_625347_sas_open_be.pdf` | 3 | Analysé |
+| 112 | `Passif/open_bee_f__dc_arval_bnp_paribas_group.pdf` | 3 | Analysé |
+| 113 | `Passif/open_bee_f__dc_bpi_france.pdf` | 3 | Analysé |
+| 114 | `Passif/open_bee_f__dc_la_banque_postale_leasing.pdf` | 3 | Analysé |
+| 115 | `Passif/open_bee_f__dc_leasys.pdf` | 3 | Analysé |
+| 116 | `Passif/open_bee_f__dc_lixxbail_237421fn0.pdf` | 3 | Analysé |
+| 117 | `Passif/open_bee_f__dc_lixxbail_264746fp0 (1).pdf` | 3 | Analysé |
+| 118 | `Passif/open_bee_f__dc_lixxbail_264746fp0.pdf` | — | Doublon exact (MD5) — écarté |
+| 119 | `Passif/open_bee_f__dc_lixxbail_277588fn0.pdf` | 3 | Analysé |
+| 120 | `Passif/open_bee_f__dc_oragne_business_services_connectivity.pdf` | 3 | Analysé |
+| 121 | `Passif/open_bee_f__dc_orange_business_cloud_.pdf` | 3 | Analysé |
+| 122 | `Passif/open_bee_f__dc_orange_business_services.pdf` | 3 | Analysé |
+| 123 | `Passif/open_bee_f__dc_orange_business_services_connectivity.pdf` | 3 | Analysé |
+| 124 | `Passif/open_bee_f__dc_societe_generale.pdf` | 3 | Analysé |
+| 125 | `Passif/open_bee_f__dc_volskwagen_bank.pdf` | 3 | Analysé |
+| 126 | `Passif/open_bee_f__decl_creance_credipar_credipar_101m6611393_dcpt_pdf.pdf` | 3 | Analysé |
+| 127 | `Plan d'apurement/3837__CCSFsaisinedansles6mois__10099050916.pdf` | 2 | Analysé |
+| 128 | `Procès, contentieux, litiges/148990_constat_open_bee_france_13_05_2025_.pdf` | 7 | Analysé |
+| 129 | `Procès, contentieux, litiges/2025_09.pdf` | 7 | Analysé |
+| 130 | `Procès, contentieux, litiges/20_07_25__0.pdf` | 7 | Analysé |
+| 131 | `Procès, contentieux, litiges/25_07_18_projet_conclusions_open_bee.docx` | 7 | Analysé |
+| 132 | `Procès, contentieux, litiges/3837_ctx_rocca_me_lea_barkate_20_01_2026.pdf` | 7 | Analysé |
+| 133 | `Procès, contentieux, litiges/SHARP_MX3070N_20251016_121744.pdf` | 7 | Analysé |
+| 134 | `Procès, contentieux, litiges/assignation_acat_25_03_2025.pdf` | 7 | Analysé |
+| 135 | `Procès, contentieux, litiges/bull_proc_avis_de_mise_en_d_lib_r_.pdf` | 7 | Analysé |
+| 136 | `Procès, contentieux, litiges/lettre_a_administrateur___vd.pdf` | 7 | Analysé |
+| 137 | `Procès, contentieux, litiges/lettre_a_administrateur___vd0.pdf` | 7 | Analysé |
+| 138 | `Procès, contentieux, litiges/openbee_epn_14_10.pdf` | 7 | Analysé |
+| 139 | `Social/20260331_solde_des_repos_03_2026.pdf` | 8 | Analysé |
+| 140 | `Social/accord_collectif_de_teletravail.zip` | 8 | Analysé |
+| 141 | `Social/open_bee_liste_salaries_dataroom.pdf` | 8 | Analysé |
 
 ## Related
 - [[dataroom/_MOC]]
