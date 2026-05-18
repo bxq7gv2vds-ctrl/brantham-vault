@@ -20,9 +20,10 @@
   }
 
   .btns {
-    margin-top: 48px;
+    margin-top: 60px;
     display: flex;
     gap: 28px;
+    position: relative;
   }
   .btn {
     flex: 1;
@@ -59,25 +60,26 @@
   }
   .btn .press::before { content: "▸ "; }
 
-  /* le doigt qui hésite entre les deux boutons */
+  /* le doigt qui hésite, suspendu entre les deux boutons */
   .hand {
     position: absolute;
-    top: -34px;
+    top: -42px;
     left: 50%;
     transform: translateX(-50%);
     font-family: var(--serif);
     font-style: italic;
-    font-size: 15px;
-    color: var(--ink-mute);
+    font-size: 16px;
+    color: var(--ink);
     white-space: nowrap;
+    text-align: center;
   }
   .hand::after {
     content: "";
     display: block;
     width: 2px;
-    height: 18px;
-    background: var(--ink-mute);
-    margin: 4px auto 0;
+    height: 26px;
+    background: var(--ink);
+    margin: 6px auto 0;
   }
 
   /* sueur */
