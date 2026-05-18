@@ -15,7 +15,7 @@ date_jugement: 2025-09-15
 tribunal: Tribunal de commerce de Lille Métropole
 date_cessation_paiements: 2025-08-31
 periode_observation_fin: 2026-09-15
-deadline_offre: 2026-06-03T16:00
+deadline_offre: 2026-06-03T12:00
 ref_annonce: "3837"
 admin_judiciaire: Me Vincent LABIS (SELARL AJILINK-LABIS CABOOTER-DE CHANAUD)
 mandataire_judiciaire: Me Nicolas SOINNE (SELAS M.J.S. PARTNERS)
@@ -31,7 +31,7 @@ created: 2026-05-11
 
 **Levier décisif pour un repreneur** : racheter Open Bee = raccourci pour obtenir un agrément PA DGFIP (6+ mois d'instruction) + portefeuille de 3 000 clients déjà installés + canal indirect via les constructeurs MFP (Konica/Xerox/Toshiba).
 
-**Deadline : 03 juin 2026 16h00 — soit ~3 semaines.**
+**Deadline : 03 juin 2026 12h00 — soit ~2 semaines.**
 
 ## Calendrier procédure
 
@@ -41,7 +41,7 @@ created: 2026-05-11
 | 15/09/2025 | Jugement d'ouverture RJ (Tribunal Lille Métropole) |
 | 11/03/2026 | Prolongation période d'observation jusqu'au 15/09/2026 |
 | 11/02/2026 | Obtention agrément PA facture électronique DGFIP |
-| **03/06/2026 16h00** | **Date limite dépôt offres de reprise** |
+| **03/06/2026 12h00** | **Date limite dépôt offres de reprise** |
 | ~15/06-15/07/2026 | Audience d'arbitrage des offres |
 | 15/09/2026 | Fin période d'observation |
 
