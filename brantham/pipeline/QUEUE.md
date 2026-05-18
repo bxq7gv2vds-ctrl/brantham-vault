@@ -1,6 +1,6 @@
 # QUEUE — Opportunités en attente de traitement
 
-*Mise à jour : 2026-05-09 — auto-enrichment*
+*Mise à jour : 2026-05-18 — auto-enrichment*
 
 ## Priorité URGENTE (deadline < 7 jours)
 
