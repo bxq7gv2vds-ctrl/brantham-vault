@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Minelli funnel — Brantham</title>
+<link rel="stylesheet" href="../../_design-system/base/tokens.css">
+<link rel="stylesheet" href="../../_design-system/base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { padding-top: 24px; padding-bottom: 24px; }
+  .h1.small { font-size: 40px; line-height: 1.08; }
+
+  .funnel { margin-top: 26px; }
+  .step {
+    display: grid;
+    grid-template-columns: 110px 1fr 240px;
+    column-gap: 22px;
+    align-items: baseline;
+    padding: 16px 0 14px;
+    border-bottom: 1px solid var(--rule);
+    position: relative;
+  }
+  .step .year {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    color: var(--ink-mute);
+    font-weight: 500;
+  }
+  .step .label {
+    font-family: var(--serif);
+    font-size: 18px;
+    color: var(--ink);
+    line-height: 1.35;
+    font-weight: 500;
+  }
+  .step .label b { color: var(--accent); font-weight: 600; }
+  .step .note {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 14.5px;
+    color: var(--ink-soft);
+    text-align: right;
+    line-height: 1.4;
+  }
+
+  /* Visual funnel bars on the left */
+  .bars { margin-top: 22px; border-top: 2px solid var(--ink); padding-top: 14px; }
+  .barline {
+    display: grid;
+    grid-template-columns: 110px 1fr 80px;
+    column-gap: 16px;
+    align-items: center;
+    padding: 9px 0;
+  }
+  .barline .yr {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.18em;
+    color: var(--ink-mute);
+  }
+  .barline .bar {
+    height: 22px;
+    background: var(--ink);
+    position: relative;
+  }
+  .barline .bar.accent { background: var(--accent); }
+  .barline .num {
+    font-family: var(--mono);
+    font-size: 13px;
+    text-align: right;
+    color: var(--ink);
+    font-weight: 500;
+  }
+
+  .punch {
+    margin-top: 22px;
+    font-family: var(--serif);
+    font-size: 19px;
+    line-height: 1.4;
+    color: var(--ink);
+    max-width: 760px;
+    border-top: 1px solid var(--ink);
+    padding-top: 16px;
+  }
+  .punch .it { font-style: italic; color: var(--accent); }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°03/2026</div>
+  <div class="stamp">Dossier<b>N°03·2026</b><span class="x">05 · Mai</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="meta-bar" style="--meta-cols:4;">
+    <div>Cas <b>Minelli SA</b></div>
+    <div>Secteur <b>Chausseur retail</b></div>
+    <div>Procédure <b>2ᵉ RJ en 3 ans</b></div>
+    <div>Issue <b>Fermeture totale</b></div>
+  </div>
+
+  <div class="body">
+    <div class="kicker">Décryptage · Annonce du 13 mai 2026</div>
+    <h1 class="h1 small">Minelli : autopsie d'un échec, <span class="it">étage par étage.</span></h1>
+
+    <div class="bars">
+      <div class="barline">
+        <div class="yr">1973 → 2022</div>
+        <div class="bar" style="width:96%;"></div>
+        <div class="num">~120 boutiques</div>
+      </div>
+      <div class="barline">
+        <div class="yr">2023 · 1ᵉʳ RJ</div>
+        <div class="bar" style="width:38%;"></div>
+        <div class="num">47 conservées</div>
+      </div>
+      <div class="barline">
+        <div class="yr">2024 — 25</div>
+        <div class="bar" style="width:17%;"></div>
+        <div class="num">21 restantes</div>
+      </div>
+      <div class="barline">
+        <div class="yr">Mars 2026</div>
+        <div class="bar accent" style="width:17%;"></div>
+        <div class="num">2ᵉ RJ · 86 sal.</div>
+      </div>
+      <div class="barline">
+        <div class="yr">30 mai 2026</div>
+        <div class="bar accent" style="width:1.5%;"></div>
+        <div class="num">0</div>
+      </div>
+    </div>
+
+    <p class="punch">Moins de 10 offres reçues. Toutes partielles — une boutique, deux boutiques, la marque sans les salariés. <span class="it">Pas un problème de marché. Un problème d'intermédiation.</span></p>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Sources</b> · Le Monde · Ouest-France · Sud Ouest · 05/2026</div><div><b>Voir</b> · branthampartners.fr</div></div>
+  </footer>
+</div>
+
+</body>
+</html>

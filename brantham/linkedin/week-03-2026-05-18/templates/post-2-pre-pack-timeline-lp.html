@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Pre-pack timeline — Brantham</title>
+<link rel="stylesheet" href="../../_design-system/base/tokens.css">
+<link rel="stylesheet" href="../../_design-system/base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { padding-top: 24px; padding-bottom: 16px; }
+  .h1.small { font-size: 38px; line-height: 1.08; }
+  .h1.small .nb { font-size: 38px; }
+
+  .lanes { margin-top: 30px; }
+  .lane {
+    margin-bottom: 44px;
+  }
+  .lane:last-child { margin-bottom: 0; }
+  .lane .lane-h {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--ink);
+    margin-bottom: 14px;
+  }
+  .lane .lane-h .name {
+    font-family: var(--serif);
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--ink);
+    letter-spacing: -0.005em;
+  }
+  .lane .lane-h .name .tag {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    margin-left: 12px;
+    font-weight: 500;
+  }
+  .lane .lane-h .total {
+    font-family: var(--mono);
+    font-size: 12px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+  }
+  .lane .lane-h .total b { color: var(--ink); font-weight: 500; }
+
+  .lane.bad .lane-h .name { color: var(--ink); }
+  .lane.good .lane-h .name { color: var(--accent); }
+  .lane.good .lane-h .total b { color: var(--accent); }
+
+  .track {
+    position: relative;
+    height: 56px;
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+    margin-top: 2px;
+  }
+  .track .timeline {
+    position: absolute;
+    top: 27px;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: var(--ink);
+  }
+  .lane.good .track .timeline { background: var(--accent); }
+
+  .stop {
+    position: absolute;
+    top: 0;
+    transform: translateX(-50%);
+    height: 56px;
+    text-align: center;
+    width: 110px;
+  }
+  .stop .dot {
+    width: 10px;
+    height: 10px;
+    background: var(--ink);
+    border-radius: 50%;
+    margin: 23px auto 0;
+  }
+  .lane.good .stop .dot { background: var(--accent); }
+  .stop .lbl {
+    font-family: var(--mono);
+    font-size: 9.5px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    margin-top: 6px;
+    line-height: 1.3;
+  }
+  .stop .day {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    color: var(--ink);
+    font-weight: 500;
+    display: block;
+    margin-bottom: 2px;
+  }
+
+  .effects {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 36px;
+    padding: 0 4px;
+  }
+  .effects .e {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 13.5px;
+    color: var(--ink-soft);
+    line-height: 1.35;
+  }
+  .lane.good .effects .e { color: var(--accent); }
+
+  .verdict {
+    margin-top: 18px;
+    font-family: var(--serif);
+    font-size: 19px;
+    line-height: 1.4;
+    color: var(--ink);
+    border-top: 1px solid var(--ink);
+    padding-top: 14px;
+    max-width: 760px;
+  }
+  .verdict b { color: var(--accent); font-weight: 500; }
+  .verdict .it { font-style: italic; }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°03/2026</div>
+  <div class="stamp">Méthode<b>N°03·2026</b><span class="x">05 · Mai</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="meta-bar" style="--meta-cols:4;">
+    <div>Méca <b>Pre-pack cession</b></div>
+    <div>Cadre <b>L611-3 / L626-32</b></div>
+    <div>Volume FR <b>~200 / an</b></div>
+    <div>Gain temps <b>×4</b></div>
+  </div>
+
+  <div class="body">
+    <div class="kicker">Vulgarisation · Le hack légal du distressed</div>
+    <h1 class="h1 small">Même boîte. Même actif. <span class="it">Deux résultats opposés.</span></h1>
+
+    <div class="lanes">
+
+      <div class="lane bad">
+        <div class="lane-h">
+          <div class="name">Cession classique en RJ <span class="tag">Voie publique</span></div>
+          <div class="total">Durée <b>~180 jours</b></div>
+        </div>
+        <div class="track">
+          <div class="timeline"></div>
+          <div class="stop" style="left:2%;"><span class="day">J0</span><div class="dot"></div><div class="lbl">Dépôt<br>bilan</div></div>
+          <div class="stop" style="left:18%;"><span class="day">J+15</span><div class="dot"></div><div class="lbl">BODACC<br>public</div></div>
+          <div class="stop" style="left:38%;"><span class="day">J+60</span><div class="dot"></div><div class="lbl">Data<br>room</div></div>
+          <div class="stop" style="left:62%;"><span class="day">J+120</span><div class="dot"></div><div class="lbl">Dépôt<br>offres</div></div>
+          <div class="stop" style="left:80%;"><span class="day">J+150</span><div class="dot"></div><div class="lbl">Audience<br>tribunal</div></div>
+          <div class="stop" style="left:98%;"><span class="day">J+180</span><div class="dot"></div><div class="lbl">Closing</div></div>
+        </div>
+        <div class="effects">
+          <div class="e">−30 à −50% clients</div>
+          <div class="e">talents en fuite</div>
+          <div class="e">valeur fondue</div>
+        </div>
+      </div>
+
+      <div class="lane good">
+        <div class="lane-h">
+          <div class="name">Pre-pack cession <span class="tag">Voie négociée</span></div>
+          <div class="total">Durée <b>~45 jours</b></div>
+        </div>
+        <div class="track">
+          <div class="timeline"></div>
+          <div class="stop" style="left:2%;"><span class="day">J0</span><div class="dot"></div><div class="lbl">Mandat<br>ad hoc</div></div>
+          <div class="stop" style="left:28%;"><span class="day">J+15</span><div class="dot"></div><div class="lbl">Repreneur<br>identifié</div></div>
+          <div class="stop" style="left:55%;"><span class="day">J+30</span><div class="dot"></div><div class="lbl">Accord<br>négocié</div></div>
+          <div class="stop" style="left:75%;"><span class="day">J+38</span><div class="dot"></div><div class="lbl">Ouverture<br>sauvegarde</div></div>
+          <div class="stop" style="left:98%;"><span class="day">J+45</span><div class="dot"></div><div class="lbl">Homologation<br>closing</div></div>
+        </div>
+        <div class="effects">
+          <div class="e">valeur préservée</div>
+          <div class="e">pas de fuite presse</div>
+          <div class="e">prix négocié</div>
+        </div>
+      </div>
+
+    </div>
+
+    <p class="verdict">Casino-Kretinsky : pre-pack à 7&nbsp;Md€. Orpea-CDC : pre-pack. Mais sur les PME, <b>moins de 200 dossiers par an</b> sur 70&nbsp;000 procédures. <span class="it">L'arme la plus efficace du distressed français — et celle qu'on utilise le moins.</span></p>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Cadre</b> · Code de commerce L611-3+, L626-32+</div><div><b>Voir</b> · branthampartners.fr</div></div>
+  </footer>
+</div>
+
+</body>
+</html>

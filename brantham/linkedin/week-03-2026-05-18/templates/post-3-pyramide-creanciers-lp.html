@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Pyramide créanciers — Brantham</title>
+<link rel="stylesheet" href="../../_design-system/base/tokens.css">
+<link rel="stylesheet" href="../../_design-system/base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { padding-top: 22px; padding-bottom: 16px; }
+  .h1.small { font-size: 36px; line-height: 1.08; }
+
+  .cascade {
+    margin: 24px 0 0;
+    border-top: 2px solid var(--ink);
+    border-bottom: 2px solid var(--ink);
+  }
+  .lvl {
+    display: grid;
+    grid-template-columns: 32px 1fr;
+    column-gap: 14px;
+    border-bottom: 1px solid var(--rule);
+    padding: 0;
+  }
+  .lvl:last-child { border-bottom: 0; }
+  .lvl .rnk {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    color: var(--ink-mute);
+    font-weight: 500;
+    padding: 14px 0 0 4px;
+  }
+  .lvl .body-lvl {
+    display: grid;
+    grid-template-columns: 1fr 110px;
+    column-gap: 12px;
+    align-items: center;
+    padding: 10px 0;
+    position: relative;
+  }
+  .lvl .info {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    z-index: 2;
+    padding-right: 8px;
+  }
+  .lvl .name {
+    font-family: var(--serif);
+    font-size: 17px;
+    font-weight: 600;
+    color: var(--ink);
+    letter-spacing: -0.005em;
+    line-height: 1.2;
+  }
+  .lvl .privi {
+    font-family: var(--mono);
+    font-size: 9.5px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+  }
+  .lvl .bar-wrap {
+    grid-column: 1 / 3;
+    position: absolute;
+    top: 0; bottom: 0; left: 0; right: 0;
+    z-index: 1;
+    overflow: hidden;
+  }
+  .lvl .bar {
+    position: absolute;
+    top: 6px; bottom: 6px;
+    left: 0;
+    background: var(--rule);
+    opacity: 0.55;
+  }
+  .lvl .pct {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 22px;
+    font-weight: 400;
+    color: var(--ink);
+    text-align: right;
+    line-height: 1;
+    z-index: 2;
+    padding-right: 6px;
+  }
+
+  /* Color logic : top tiers neutre, fournisseurs / actionnaires accent */
+  .lvl.bad .bar { background: var(--accent); opacity: 0.18; }
+  .lvl.bad .pct { color: var(--accent); }
+  .lvl.bad .name { color: var(--accent); }
+
+  .footnote {
+    margin-top: 18px;
+    font-family: var(--serif);
+    font-size: 17px;
+    line-height: 1.45;
+    color: var(--ink);
+    border-top: 1px solid var(--ink);
+    padding-top: 14px;
+    max-width: 780px;
+  }
+  .footnote b { color: var(--accent); font-weight: 500; }
+  .footnote .it { font-style: italic; }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°03/2026</div>
+  <div class="stamp">Pédagogie<b>N°03·2026</b><span class="x">05 · Mai</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="meta-bar" style="--meta-cols:3;">
+    <div>Cadre <b>L622+ · L641+ · L643+</b></div>
+    <div>Source <b>CNAJMJ · BdF</b></div>
+    <div>Vue <b>Recouvrement moyen</b></div>
+  </div>
+
+  <div class="body">
+    <div class="kicker">Vulgarisation · La cascade en LJ</div>
+    <h1 class="h1 small">Quand une boîte meurt, <span class="it">qui touche quoi&nbsp;?</span></h1>
+
+    <div class="cascade">
+
+      <div class="lvl">
+        <div class="rnk">01</div>
+        <div class="body-lvl">
+          <div class="bar-wrap"><div class="bar" style="width:100%;"></div></div>
+          <div class="info">
+            <div class="name">Salariés — 60 derniers jours</div>
+            <div class="privi">Super-privilège AGS</div>
+          </div>
+          <div class="pct">100&nbsp;%</div>
+        </div>
+      </div>
+
+      <div class="lvl">
+        <div class="rnk">02</div>
+        <div class="body-lvl">
+          <div class="bar-wrap"><div class="bar" style="width:98%;"></div></div>
+          <div class="info">
+            <div class="name">Frais de justice · AJ &amp; MJ</div>
+            <div class="privi">Privilège de procédure</div>
+          </div>
+          <div class="pct">~100&nbsp;%</div>
+        </div>
+      </div>
+
+      <div class="lvl">
+        <div class="rnk">03</div>
+        <div class="body-lvl">
+          <div class="bar-wrap"><div class="bar" style="width:90%;"></div></div>
+          <div class="info">
+            <div class="name">New money · privilège de conciliation</div>
+            <div class="privi">L611-11 Code de commerce</div>
+          </div>
+          <div class="pct">~95&nbsp;%</div>
+        </div>
+      </div>
+
+      <div class="lvl">
+        <div class="rnk">04</div>
+        <div class="body-lvl">
+          <div class="bar-wrap"><div class="bar" style="width:80%;"></div></div>
+          <div class="info">
+            <div class="name">Créanciers post-jugement</div>
+            <div class="privi">Article 40 · privilège procédure</div>
+          </div>
+          <div class="pct">~90&nbsp;%</div>
+        </div>
+      </div>
+
+      <div class="lvl">
+        <div class="rnk">05</div>
+        <div class="body-lvl">
+          <div class="bar-wrap"><div class="bar" style="width:68%;"></div></div>
+          <div class="info">
+            <div class="name">Trésor &amp; URSSAF</div>
+            <div class="privi">Privilège général</div>
+          </div>
+          <div class="pct">70 — 90&nbsp;%</div>
+        </div>
+      </div>
+
+      <div class="lvl">
+        <div class="rnk">06</div>
+        <div class="body-lvl">
+          <div class="bar-wrap"><div class="bar" style="width:50%;"></div></div>
+          <div class="info">
+            <div class="name">Banques nanties &amp; hypothécaires</div>
+            <div class="privi">Sûreté réelle · sur l'actif gagé</div>
+          </div>
+          <div class="pct">50 — 80&nbsp;%</div>
+        </div>
+      </div>
+
+      <div class="lvl bad">
+        <div class="rnk">07</div>
+        <div class="body-lvl">
+          <div class="bar-wrap"><div class="bar" style="width:6%;"></div></div>
+          <div class="info">
+            <div class="name">Fournisseurs sans garantie</div>
+            <div class="privi">Chirographaires</div>
+          </div>
+          <div class="pct">2 — 5&nbsp;%</div>
+        </div>
+      </div>
+
+      <div class="lvl bad">
+        <div class="rnk">08</div>
+        <div class="body-lvl">
+          <div class="bar-wrap"><div class="bar" style="width:1.5%;"></div></div>
+          <div class="info">
+            <div class="name">Actionnaires</div>
+            <div class="privi">Boni de liquidation</div>
+          </div>
+          <div class="pct">~0&nbsp;%</div>
+        </div>
+      </div>
+
+    </div>
+
+    <p class="footnote">Quand vous offrez <b>1&nbsp;€</b> au tribunal, vous ne « profitez » de personne en haut de la pyramide — ils ne touchent rien de plus. Ce que vous absorbez, c'est le <b>passif privilégié reprenable</b>. <span class="it">Le 1&nbsp;€ symbolique cache toujours un vrai chèque. Dicté par la pyramide.</span></p>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Sources</b> · Code de commerce · CNAJMJ</div><div><b>Voir</b> · branthampartners.fr</div></div>
+  </footer>
+</div>
+
+</body>
+</html>
