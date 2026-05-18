@@ -213,15 +213,15 @@ MB2I Tunisie ──(10/06/2008)──▶ MB2I SAS ──┬──(branche fonds 
 ```
 
 ### 4.2 Qui possède quoi aujourd'hui
-| Actif | Titulaire de droit | Cessible dans le plan ? |
-|---|---|---|
-| Marque « OPENBEE » UE n° 004117297 + US n° 4 468 140 | **Open Bee SA (Suisse)** | NON — appartient à un tiers |
-| Droits de PI « originels » des logiciels de 2008 | **Open Bee SA (Suisse)** | NON — appartient à un tiers |
-| Logiciel actuel « Open Bee Suite » v6.x — dépôts APP/IDDN | **Open Bee France** | OUI (mais titularité contestable — voir infra) |
-| Développements propres post-2008 (module Capture…) | Open Bee France (avenant 2018 : ~50 % de la valeur) | OUI |
-| Base clients ~3000 + 60 partenaires distributeurs | Open Bee France | OUI |
-| Agrément PA facture électronique DGFIP (11/02/2026) | Open Bee France | OUI (transfert à valider DGFIP) |
-| Filiale Veectoria | Open Bee France | OUI |
+| Actif                                                     | Titulaire de droit                                  | Cessible dans le plan ?                        |
+| --------------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------- |
+| Marque « OPENBEE » UE n° 004117297 + US n° 4 468 140      | **Open Bee SA (Suisse)**                            | NON — appartient à un tiers                    |
+| Droits de PI « originels » des logiciels de 2008          | **Open Bee SA (Suisse)**                            | NON — appartient à un tiers                    |
+| Logiciel actuel « Open Bee Suite » v6.x — dépôts APP/IDDN | **Open Bee France**                                 | OUI (mais titularité contestable — voir infra) |
+| Développements propres post-2008 (module Capture…)        | Open Bee France (avenant 2018 : ~50 % de la valeur) | OUI                                            |
+| Base clients ~3000 + 60 partenaires distributeurs         | Open Bee France                                     | OUI                                            |
+| Agrément PA facture électronique DGFIP (11/02/2026)       | Open Bee France                                     | OUI (transfert à valider DGFIP)                |
+| Filiale Veectoria                                         | Open Bee France                                     | OUI                                            |
 
 ### 4.3 Le contrat de licence Suisse/France — 3 clauses hostiles
 1. **Art. 4** : Open Bee SA est « seul titulaire » de TOUTE la PI, même non enregistrée → les dépôts
