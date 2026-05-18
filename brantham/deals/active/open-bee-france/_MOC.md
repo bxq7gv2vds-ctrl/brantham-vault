@@ -60,6 +60,7 @@ created: 2026-05-11
 - [[05-courrier-aj]] — courrier d'introduction Me Labis (brouillon)
 - [[06-teaser-repreneur]] — pitch confidentiel pour outreach
 - [[07-presentation-opportunite]] — **doc de présentation anonymisé** pour prospect non engagé
+- [[08-note-strategique-reprise]] — **note d'analyse stratégique** anonymisée (thèse + 3 scénarios de reprise)
 - [[dataroom/_MOC]] — **analyse complète de la data room AJ** (141 fichiers, 9 lots + synthèse maître)
 
 ## Related
