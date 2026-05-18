@@ -19,6 +19,7 @@ Trois angles complémentaires pour varier les registres : **meme / coulisses / d
 | **A** | Meme dark-humor | Image meme 4 cases + texte court | [post-A](post-A-meme-urssaf-copy.md) | [templates/post-A-meme-urssaf-lp.html](templates/post-A-meme-urssaf-lp.html) | `post-A-meme-urssaf.png` |
 | **B** | Build-in-public coulisses | Image timeline + texte long | [post-B](post-B-mardi-cabinet-macbook-copy.md) | [templates/post-B-journee-mardi-lp.html](templates/post-B-journee-mardi-lp.html) | `post-B-journee-mardi.png` |
 | **C** | Data-shock sec | Image stat-hero + texte court | [post-C](post-C-stat-shock-67pct-copy.md) | [templates/post-C-stat-67pct-lp.html](templates/post-C-stat-67pct-lp.html) | `post-C-stat-67pct.png` |
+| **4** | Meme + mini-guide | Meme « they don't know » + post détaillé 4 sections | [post-4](post-4-valorisation-rj-copy.md) | [templates/post-4-meme-tdk-lp.html](templates/post-4-meme-tdk-lp.html) | `post-4-meme-tdk.png` |
 
 ## Workflow
 
@@ -44,6 +45,7 @@ Trois angles complémentaires pour varier les registres : **meme / coulisses / d
 ## Related
 
 - [[INDEX]]
+- [[post-4-valorisation-rj-copy]]
 - [[../week-02-2026-05-05/idees-prochains-posts]]
 - [[../week-02-2026-05-05/post-06-distressed-moral-vautour]]
 - [[../_design-system/README]]
