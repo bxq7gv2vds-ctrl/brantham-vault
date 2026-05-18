@@ -61,6 +61,25 @@ Avant publi : faire les 5 vérifications factuelles listées dans le frontmatter
 
 ---
 
+## Pack — Week 3 du 18 mai 2026 (v2 active)
+
+Dossier : `vault/brantham/linkedin/week-03-2026-05-18/` — voir `README.md`.
+
+| Post | Sujet | Format | Fichiers clés |
+|---|---|---|---|
+| 1 | Minelli — décryptage funnel | Visuel funnel + texte | `post-1-minelli-decryptage-copy.md`, `post-1-minelli-funnel{,-navy}.png` |
+| 2 | Pre-pack cession | Visuel timeline + texte | `post-2-pre-pack-cession-copy.md`, `post-2-pre-pack-timeline{,-navy}.png` |
+| 3 | Pyramide des créanciers | Visuel pyramide + texte | `post-3-pyramide-creanciers-copy.md`, `post-3-pyramide-creanciers{,-navy}.png` |
+| 4 | Valorisation en RJ — pourquoi l'offre la plus chère perd | Meme « they don't know » + mini-guide 4 sections | `post-4-valorisation-rj-copy.md`, `post-4-meme-tdk.png` |
+
+### Post 4 — Valorisation RJ
+
+- Copy : `post-4-valorisation-rj-copy.md` (2 562 caractères, ready-to-publish), hook « question qui pique » + 4 sections (price d'offre vs valorisation, 4 repères de prix, critères L642-5, 3 erreurs).
+- Visuel retenu : meme « they don't know » → `post-4-meme-tdk.png` (template `templates/post-4-meme-tdk-lp.html`, bases `tdk-base.png` / `tdk-lines.png`).
+- Visuels alternatifs : `post-4-meme-anakin.png` (Star Wars), `post-4-two-buttons.png`.
+
+---
+
 ## Semaine 1 — Archive v1 (mars 2026)
 
 | # | Jour | Titre | Format | Fichiers |
