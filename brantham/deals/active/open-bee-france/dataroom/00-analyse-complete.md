@@ -12,8 +12,11 @@ perimetre: "141 fichiers data room — 134 docs utiles après déduplication"
 
 > **Partie 1 — Vision exhaustive de la donnée.** Ce document agrège les 9 lots d'analyse
 > (`lot-1` à `lot-9`). Objectif : une photographie complète, factuelle et sans angle mort
-> du deal, lue avec l'œil d'un serial repreneur sceptique. La Partie 2 (détails fins,
-> approfondissement clause par clause) viendra ensuite.
+> du deal, lue avec l'œil d'un serial repreneur sceptique.
+>
+> **➤ Partie 2 livrée** : l'approfondissement document par document (fiches `lot-N-detail`) et
+> ses découvertes nouvelles + corrections sont consolidés dans [[dataroom/00b-addendum-decouvertes]].
+> Lire cet addendum en complément du présent document.
 >
 > Société : **SAS OPEN BEE FRANCE** — SIREN 504 389 446 — ZAC/PAE des Longerays, 74370 Epagny Metz-Tessy (74).
 > Éditeur logiciel GED/ECM + Plateforme Agréée facture électronique.

@@ -14,6 +14,8 @@ déduplication). Lecture côté repreneur, mindset serial repreneur sceptique.
 ## Document maître
 - [[dataroom/00-analyse-complete|00 — Analyse complète (synthèse maître)]] — vision exhaustive,
   matrice des risques, thèse repreneur, angles morts, plan d'action.
+- [[dataroom/00b-addendum-decouvertes|00b — Addendum : découvertes de l'approfondissement]] —
+  corrections + découvertes nouvelles de la passe document par document.
 - [[dataroom/_reconciliation-fichiers|Réconciliation des 141 fichiers]] — piste d'audit : chaque
   fichier de la data room → lot où il est analysé.
 
