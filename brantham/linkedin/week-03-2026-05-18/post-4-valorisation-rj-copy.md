@@ -58,29 +58,18 @@ Brantham Partners — M&A distressed
 - H2 : « Pourquoi l'offre la plus chère se fait éliminer au tribunal de commerce ? »
 - H3 : « Combien vaut une entreprise qui ne vaut presque plus rien ? C'est la question que tranche un tribunal. »
 
-## Visuel — meme
+## Visuel — meme « two buttons »
 
-Trois pistes meme. La 1 est la plus efficace (format ultra-connu, lecture instantanée).
+Format meme « two buttons » revisité en DA Brantham (dossier brutaliste crème).
+Le repreneur hésite entre deux boutons qu'il croit opposés. Punchline : c'est un seul bouton.
 
-### Meme 1 — Drake (recommandé)
-Format Drake « refuse / approuve », DA Brantham crème.
-- Case du haut (Drake détourne le regard) : « Déposer l'offre la plus chère »
-- Case du bas (Drake approuve) : « Déposer l'offre la mieux calibrée pour le tribunal »
-Légende sous l'image : « Valorisation en redressement judiciaire. »
-
-### Meme 2 — Two buttons / bouton qui transpire
-Personnage en sueur devant deux boutons :
 - Bouton 1 : « Mettre le prix le plus haut pour être sûr de gagner »
 - Bouton 2 : « Mettre le prix qui rassure le juge »
-Légende : « Le repreneur, 5 minutes avant le dépôt de l'offre. »
+- Scène : « Le repreneur, 5 minutes avant le dépôt »
+- Verdict : « Il croit que ce sont deux boutons. C'en est un seul. »
 
-### Meme 3 — Cercueil / expectation vs reality
-Diptyque :
-- Gauche « Ce que le repreneur croit » : un gros chèque géant.
-- Droite « Ce que le juge regarde » : projet industriel + emploi + viabilité jour 1.
-Légende : « Le prix n'est qu'un critère sur quatre. »
-
-Rendu 1080×1080, à produire avec `render.py` (template meme à ajouter dans `templates/`).
+Template : `templates/post-4-two-buttons-lp.html`
+Rendu : `post-4-two-buttons.png` + `post-4-two-buttons-navy.png` (1080×1080, via `render.py`).
 
 ## Pourquoi ce post
 
