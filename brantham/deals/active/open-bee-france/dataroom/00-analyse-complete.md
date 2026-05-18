@@ -42,7 +42,7 @@ perimetre: "141 fichiers data room — 134 docs utiles après déduplication"
   **police d'assurance RC + Cyber Chubb**.
 - `open_bee_france_contrat.pdf` → ce n'est PAS un contrat client/éditeur : c'est une **LLD de véhicule**.
 - `open_bee_2024_rapport_caa_def.pdf` → ce n'est PAS un rapport de CAC annuel : c'est le **rapport
-  du commissaire aux apports** sur l'opération SKYDEG.
+  du commissaire aux apports** sur l'opération SKYGED.
 
 ### Ce que la data room NE contient PAS (angles morts — voir §11)
 Le cahier des charges procédural détaillé, les rapports de l'AJ, le détail du CA récurrent SaaS
@@ -59,7 +59,7 @@ les comptes d'Open Bee SA, les rémunérations/masse salariale, la cap table pos
 | SIREN / RCS | 504 389 446 — RCS Annecy (constituée SARL le 13/05/2008, transformée SAS le 28/06/2019) |
 | Siège | ZAC des Longerays, 74370 Epagny Metz-Tessy (Haute-Savoie) |
 | Activité | Édition logiciel GED/ECM (« Open Bee Suite ») + Plateforme Agréée facture électronique |
-| Capital social | 2 370 800 € (après apport SKYDEG du 14/08/2025) |
+| Capital social | 2 370 800 € (après apport SKYGED du 14/08/2025) |
 | Président | DOXSA, représentée par Doxense Europe → Giovanni GIUSTI |
 | Procédure | Redressement judiciaire → plan de cession (art. L.642-1 s. C. com.) |
 | Tribunal | Tribunal de commerce de **Lille Métropole** (greffe Tourcoing) — RG 2025020449, PC 2025/866 |
@@ -245,7 +245,7 @@ question n° 1 de la due diligence** — elle conditionne tout le reste.
 
 ### 4.5 Structure capitalistique & gouvernance
 - Cap table 22/07/2025 : **DOXSA 80 %** (RCS Lille Métropole 841 690 712) / **EXO B Capital SA 20 %**
-  (Suisse). Cap table post-apport SKYDEG (14/08/2025, +1,13 M€, apporteurs A. Curt-Cavens + Urbantaktiks)
+  (Suisse). Cap table post-apport SKYGED (14/08/2025, +1,13 M€, apporteurs A. Curt-Cavens + Urbantaktiks)
   **non fournie**.
 - Capital ×22,4 en 13 mois : 100 K€ (10/2023) → 543,8 K€ → 2 243,8 K€ (12/2024) → 2 370,8 K€ (08/2025).
 - Direction générale externalisée dans **EXO B CONSULTING SAS** (SASU à 10 K€, Marc Balleydier) via une
@@ -348,7 +348,7 @@ le repreneur : **faible**. Risque opérationnel/réputationnel : moyen (volet Sa
 | 7 | Dépendance MB2I (5 fonctions support hors effectif Open Bee) | 🟡 MOYEN | Chiffrer la ré-internalisation |
 | 8 | Volet injonctif Sages (publication forcée) | 🟡 MOYEN | Exclure de l'offre toute mesure d'injonction transférée |
 | 9 | Pattern RPS / heures sup sur l'équipe commerciale | 🟡 MOYEN | Audit social ciblé, corriger jour 1 |
-| 10 | Apport SKYDEG (1,13 M€) 1 mois avant le RJ — période suspecte | 🟡 MOYEN | Vérifier auprès de l'AJ |
+| 10 | Apport SKYGED (1,13 M€) 1 mois avant le RJ — période suspecte | 🟡 MOYEN | Vérifier auprès de l'AJ |
 | 11 | Bail aux mains du dirigeant cédant (agrément requis) | 🟡 MOYEN | Négocier en amont avec Balleydier / SCI Monnours |
 | 12 | Effectif incohérent (46 vs 52 vs 66) | 🟢 FAIBLE | Exiger registre du personnel + DSN |
 
@@ -407,7 +407,7 @@ Open Bee est un **accélérateur** : agrément + base clients + canal indirect, 
 | 🟠 | **Liste des contrats clients** (~3000) et **contrats partenaires distributeurs** (clauses de changement de contrôle) |
 | 🟠 | **Rémunérations / masse salariale chargée** + registre du personnel à jour + DSN |
 | 🟠 | **Statut juridique du centre de R&D Tunisie** et continuité des contrats développeurs |
-| 🟠 | **Cap table post-14/08/2025** (après apport SKYDEG) + lien capitalistique Open Bee SA ↔ groupe |
+| 🟠 | **Cap table post-14/08/2025** (après apport SKYGED) + lien capitalistique Open Bee SA ↔ groupe |
 | 🟡 | Comptes annuels audités 31/12/2024 ; situation comptable retraitée 2025 |
 | 🟡 | Périmètre exact des financements Lixxbail / LBP Leasing (logiciels, clients finaux) |
 | 🟡 | Issue de la conciliation Sages du 18/02/2026 |
