@@ -15,6 +15,7 @@ FILES = [
     "post-1-minelli-funnel-lp.html",
     "post-2-pre-pack-timeline-lp.html",
     "post-3-pyramide-creanciers-lp.html",
+    "post-4-two-buttons-lp.html",
 ]
 
 async def main():

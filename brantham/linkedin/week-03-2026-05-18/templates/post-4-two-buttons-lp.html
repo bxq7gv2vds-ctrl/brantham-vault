@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Two buttons — Valorisation RJ — Brantham</title>
+<link rel="stylesheet" href="../../_design-system/base/tokens.css">
+<link rel="stylesheet" href="../../_design-system/base/base.css">
+<link rel="stylesheet" href="_format.css">
+<style>
+  .post .body { padding-top: 30px; }
+  .h1.small { font-size: 40px; line-height: 1.1; max-width: 880px; }
+
+  .scene {
+    margin-top: 14px;
+    font-family: var(--mono);
+    font-size: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+  }
+
+  .btns {
+    margin-top: 48px;
+    display: flex;
+    gap: 28px;
+  }
+  .btn {
+    flex: 1;
+    border: 2px solid var(--ink);
+    background: var(--paper);
+    padding: 34px 28px 30px;
+    position: relative;
+    box-shadow: 6px 6px 0 var(--ink);
+  }
+  .btn .no {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    display: block;
+    margin-bottom: 14px;
+  }
+  .btn .lbl {
+    font-family: var(--serif);
+    font-size: 25px;
+    line-height: 1.28;
+    font-weight: 600;
+    color: var(--ink);
+    letter-spacing: -0.01em;
+  }
+  .btn .press {
+    margin-top: 22px;
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+  .btn .press::before { content: "▸ "; }
+
+  /* le doigt qui hésite entre les deux boutons */
+  .hand {
+    position: absolute;
+    top: -34px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 15px;
+    color: var(--ink-mute);
+    white-space: nowrap;
+  }
+  .hand::after {
+    content: "";
+    display: block;
+    width: 2px;
+    height: 18px;
+    background: var(--ink-mute);
+    margin: 4px auto 0;
+  }
+
+  /* sueur */
+  .sweat {
+    margin-top: 14px;
+    text-align: center;
+    font-family: var(--mono);
+    font-size: 13px;
+    letter-spacing: 0.4em;
+    color: var(--ink-mute);
+  }
+
+  .verdict {
+    margin-top: 34px;
+    font-family: var(--serif);
+    font-size: 21px;
+    line-height: 1.42;
+    color: var(--ink);
+    border-top: 2px solid var(--ink);
+    padding-top: 18px;
+    max-width: 840px;
+  }
+  .verdict b { color: var(--accent); font-weight: 500; }
+  .verdict .it { font-style: italic; }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="watermark">Brantham Partners · Confidentiel · Diffusion restreinte · n°03/2026</div>
+  <div class="stamp">Méthode<b>N°04·2026</b><span class="x">05 · Mai</span></div>
+
+  <header class="head">
+    <div class="brand"><img src="../logo.png" alt="Brantham Partners"></div>
+  </header>
+
+  <div class="meta-bar" style="--meta-cols:4;">
+    <div>Sujet <b>Valorisation RJ</b></div>
+    <div>Cadre <b>L642-1+ / L642-5</b></div>
+    <div>Critère <b>Prix = signal</b></div>
+    <div>Arbitre <b>Tribunal de commerce</b></div>
+  </div>
+
+  <div class="body">
+    <div class="kicker">Meme · Le repreneur face à son offre</div>
+    <h1 class="h1 small">Déposer une offre de reprise, <span class="it">vu de l'intérieur.</span></h1>
+    <div class="scene">Le repreneur, 5 minutes avant le dépôt</div>
+
+    <div class="btns">
+      <div class="btn">
+        <span class="no">Bouton 1</span>
+        <div class="lbl">Mettre le prix le plus haut pour être sûr de gagner</div>
+        <div class="press">appuyer</div>
+      </div>
+      <div class="btn">
+        <span class="hand">son doigt</span>
+        <span class="no">Bouton 2</span>
+        <div class="lbl">Mettre le prix qui rassure le juge</div>
+        <div class="press">appuyer</div>
+      </div>
+    </div>
+
+    <div class="sweat">. . .  S U E U R  . . .</div>
+
+    <p class="verdict">Le piège : il croit que ce sont deux boutons. <b>C'en est un seul.</b> En redressement judiciaire, le prix le plus élevé n'est presque jamais celui qui emporte le dossier. <span class="it">Le bon prix se calcule, il ne se devine pas.</span></p>
+  </div>
+
+  <footer class="foot">
+    <div class="sig"><div class="n">Paul Roulleau</div><div class="f">Brantham Partners — M&amp;A distressed</div></div>
+    <div class="credit"><div><b>Cadre</b> · Code de commerce L642-1+, L642-5</div><div><b>Voir</b> · branthampartners.fr</div></div>
+  </footer>
+</div>
+
+</body>
+</html>
