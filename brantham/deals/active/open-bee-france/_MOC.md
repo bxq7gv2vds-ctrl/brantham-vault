@@ -59,6 +59,7 @@ created: 2026-05-11
 - [[04-strategie-brantham]] — angle d'attaque, fee, plan d'action 3 semaines
 - [[05-courrier-aj]] — courrier d'introduction Me Labis (brouillon)
 - [[06-teaser-repreneur]] — pitch confidentiel pour outreach
+- [[07-presentation-opportunite]] — **doc de présentation anonymisé** pour prospect non engagé
 - [[dataroom/_MOC]] — **analyse complète de la data room AJ** (141 fichiers, 9 lots + synthèse maître)
 
 ## Related
