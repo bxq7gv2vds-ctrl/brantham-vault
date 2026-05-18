@@ -58,23 +58,23 @@ Brantham Partners — M&A distressed
 - H2 : « Pourquoi l'offre la plus chère se fait éliminer au tribunal de commerce ? »
 - H3 : « Combien vaut une entreprise qui ne vaut presque plus rien ? C'est la question que tranche un tribunal. »
 
-## Visuel — meme Anakin / Padmé (retenu)
+## Visuel — meme « They don't know » (retenu)
 
-Format meme Star Wars 4 cases « for the better, right ? ... right ? » (le silence d'Anakin).
-Template visuel déjà éprouvé en semaine 02. Effet : on rit, puis on réalise le malaise.
+Format meme « They don't know » : le type seul dans le coin d'une fête, bulle de pensée.
+Effet : posture d'initié, le lecteur veut savoir ce que les autres ignorent.
 
-- TL (Anakin) : « J'ai déposé l'offre la plus chère sur le dossier »
-- TR (Padmé, souriante) : « Donc le tribunal va te choisir, non ? »
-- BL (Anakin, silence) : « … »
-- BR (Padmé, inquiète) : « Le tribunal va te choisir, non ? »
+- Bulle de pensée du type isolé : « Ils ne savent pas que l'offre la plus chère perd presque toujours le dossier au tribunal »
+- « perd presque toujours » mis en accent bordeaux.
+- Logo Brantham sur pastille blanche en bas.
 
-Template : `templates/post-4-meme-anakin-lp.html` (base `anakin.png`)
-Rendu : `post-4-meme-anakin.png` + `-navy.png` (1080×1080, via `render.py`).
+Base meme : `tdk-base.png` (template Imgflip « They don't know », ID 284929871).
+Template : `templates/post-4-meme-tdk-lp.html`
+Rendu : `post-4-meme-tdk.png` (1080×1080).
 
-## Visuel — alt « two buttons »
+## Visuels alternatifs
 
-Repli si on veut une version DA Brantham sans image externe.
-Template : `templates/post-4-two-buttons-lp.html` → `post-4-two-buttons.png` + `-navy.png`.
+- Meme Anakin / Padmé : `templates/post-4-meme-anakin-lp.html` → `post-4-meme-anakin.png` (+ `-navy`).
+- « Two buttons » DA Brantham : `templates/post-4-two-buttons-lp.html` → `post-4-two-buttons.png` (+ `-navy`).
 
 ## Pourquoi ce post
 
