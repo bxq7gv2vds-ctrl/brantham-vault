@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>meme they don't know — Valorisation RJ — Brantham</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1080px; height: 1080px; }
+  body { background: #efebe0; }
+
+  .post {
+    position: relative;
+    width: 1080px;
+    height: 1080px;
+    background: #ffffff;
+    overflow: hidden;
+  }
+  .post.dark { background: #0e1a2b; }
+
+  /* image de base, recadree pour laisser respirer le coin haut-droit */
+  .scene {
+    position: absolute;
+    left: 50%;
+    top: 56%;
+    transform: translate(-50%, -50%);
+    width: 1180px;
+    height: 1184px;
+  }
+  .scene img { width: 100%; height: 100%; display: block; }
+
+  /* bulle de pensee */
+  .bubble {
+    position: absolute;
+    top: 70px;
+    right: 56px;
+    width: 560px;
+    background: #fff;
+    border: 5px solid #0A0A0A;
+    border-radius: 42px;
+    padding: 34px 38px;
+    z-index: 4;
+  }
+  .bubble .txt {
+    font-family: "Arial Black", "Helvetica Neue", Arial, sans-serif;
+    font-weight: 900;
+    font-size: 35px;
+    line-height: 1.22;
+    color: #0A0A0A;
+    text-align: center;
+    letter-spacing: -0.01em;
+  }
+  .bubble .txt em {
+    font-style: normal;
+    color: #7A1D17;
+  }
+
+  /* petits ronds qui relient la bulle a la tete du type seul */
+  .tail { position: absolute; z-index: 4; }
+  .tail span {
+    position: absolute;
+    background: #fff;
+    border: 5px solid #0A0A0A;
+    border-radius: 50%;
+    display: block;
+  }
+  .d1 { width: 46px; height: 46px; left: 470px; top: 322px; }
+  .d2 { width: 32px; height: 32px; left: 410px; top: 378px; }
+  .d3 { width: 20px; height: 20px; left: 366px; top: 424px; }
+
+  .logo {
+    position: absolute;
+    bottom: 22px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 5;
+    background: #fff;
+    border: 3px solid #0A0A0A;
+    border-radius: 999px;
+    padding: 13px 30px;
+  }
+  .logo img { height: 32px; display: block; }
+</style>
+</head>
+<body>
+
+<div class="post">
+  <div class="scene"><img src="../tdk-base.png" alt=""></div>
+
+  <div class="bubble">
+    <div class="txt">Ils ne savent pas que l'offre la plus chère <em>perd presque toujours</em> le dossier au tribunal</div>
+  </div>
+
+  <div class="tail">
+    <span class="d1"></span>
+    <span class="d2"></span>
+    <span class="d3"></span>
+  </div>
+
+  <div class="logo"><img src="../logo.png" alt="Brantham Partners"></div>
+</div>
+
+</body>
+</html>
