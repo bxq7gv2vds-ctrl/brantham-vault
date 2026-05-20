@@ -1,0 +1,182 @@
+/* ═══════════════════════════════════════════════════════
+   Marp theme: brantham-bw
+   Identical to rapport-corporate.css — WeasyPrint PDF style
+   ═══════════════════════════════════════════════════════ */
+
+/* @theme brantham-bw */
+
+@import 'default';
+
+/* CMU Serif installed system-wide (~/Library/Fonts/) */
+
+section {
+  font-family: 'CMU Serif', serif;
+  color: #000;
+  background: #fff;
+  padding: 65px 90px;
+  font-size: 18pt;
+  line-height: 1.35;
+  justify-content: flex-start;
+}
+
+/* ── Titles ── */
+section h1 {
+  font-size: 26pt;
+  font-weight: bold;
+  margin: 0 0 24px 0;
+  padding: 0;
+  color: #000;
+  border-bottom: 1pt solid #000;
+  padding-bottom: 10pt;
+}
+section h2 {
+  font-size: 20pt;
+  font-weight: bold;
+  margin: 28px 0 12px 0;
+  color: #000;
+}
+section h3 {
+  font-size: 18pt;
+  font-weight: bold;
+  margin: 20px 0 8px 0;
+  color: #000;
+}
+section h4 {
+  font-size: 18pt;
+  font-weight: bold;
+  font-style: italic;
+  margin: 12px 0 4px 0;
+  color: #000;
+}
+
+/* ── Text ── */
+section p {
+  font-size: 16pt;
+  margin: 6px 0 10px 0;
+  line-height: 1.35;
+}
+section strong { font-weight: bold; }
+section em { font-style: italic; }
+
+section ul, section ol {
+  font-size: 16pt;
+  margin: 8px 0 10px 1.8em;
+  padding: 0;
+}
+section li { margin: 3px 0; }
+
+/* ── Tables (booktabs) ── */
+section table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 18px 0 20px 0;
+  font-size: 14pt;
+}
+section thead {
+  display: table-header-group;
+}
+section tr {
+  page-break-inside: avoid;
+}
+section th {
+  font-weight: bold;
+  text-align: left;
+  padding: 5pt 8pt;
+  border-top: 1.2pt solid #000;
+  border-bottom: 0.5pt solid #000;
+}
+section td {
+  text-align: left;
+  padding: 4pt 8pt;
+  border: none;
+  font-size: 14pt;
+}
+section tbody tr:last-child td {
+  border-bottom: 1.2pt solid #000;
+}
+
+/* ── Page number ── */
+section::after {
+  font-family: 'CMU Serif', serif;
+  font-size: 12pt;
+  color: #555;
+  content: attr(data-marpit-pagination) ' / ' attr(data-marpit-pagination-total);
+}
+
+/* ── COVER slide ── */
+section.cover {
+  justify-content: center;
+  text-align: center;
+  padding: 65px 90px;
+}
+section.cover h1 {
+  font-size: 30pt;
+  font-weight: bold;
+  margin: 0 0 16px 0;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+section.cover h2 {
+  font-size: 18pt;
+  font-weight: normal;
+  margin: 0 0 40px 0;
+}
+section.cover hr {
+  border: none;
+  border-top: 0.5pt solid #000;
+  width: 30%;
+  margin: 30px auto;
+}
+section.cover p {
+  font-size: 16pt;
+  margin: 8px 0;
+}
+section.cover::after { content: ''; }
+
+/* ── SECTION divider ── */
+section.section {
+  justify-content: center;
+  padding-left: 100px;
+}
+section.section h1 {
+  font-size: 48pt;
+  font-weight: bold;
+  margin: 0 0 8px 0;
+  border-bottom: none;
+  padding-bottom: 0;
+  color: #000;
+}
+section.section h2 {
+  font-size: 24pt;
+  font-weight: normal;
+  margin: 0;
+  color: #000;
+}
+section.section::after { content: ''; }
+
+/* ── CLOSING slide ── */
+section.closing {
+  justify-content: center;
+  text-align: center;
+  padding: 65px 90px;
+}
+section.closing h1 {
+  font-size: 26pt;
+  font-weight: bold;
+  border-bottom: none;
+  padding-bottom: 0;
+  margin: 0 0 24px 0;
+}
+section.closing p {
+  font-size: 16pt;
+  margin: 8px 0;
+}
+section.closing::after { content: ''; }
+
+/* ── Watermark / confidentiality ── */
+section.cover em,
+section.closing em {
+  font-size: 12pt;
+  color: #555;
+  font-style: italic;
+}
