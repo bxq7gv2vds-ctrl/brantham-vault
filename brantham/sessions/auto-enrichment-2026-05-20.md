@@ -33,3 +33,11 @@
   - OK
 - **Cycle termine** a 18:46
 ---
+
+## Cycle 21:46
+
+- **Scrape AJ** : lancement...
+  - ERREUR scraping (voir /tmp/bp-scrape-err.log)
+- **Enrichissement Pappers** : lancement...
+  - 0 procedures enrichies
+- **Re-scoring** : lancement...
