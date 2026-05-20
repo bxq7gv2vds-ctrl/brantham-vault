@@ -134,7 +134,7 @@ Ce qui reste bloque le gain :
 
 ## Related
 
-- [[brantham/infra/_MOC|Polymarket Hub]]
+- [[brantham/deals/infra/_MOC|Polymarket Hub]]
 - [[sessions/2026-04-19-hedge-fund-grade-upgrades|Session matin — upgrade hedge fund grade]]
 - [[reports/ablation-2026-04-19|Ablation study complète]]
 - [[reports/paper-vs-live-2026-04-19|Paper vs live net]]

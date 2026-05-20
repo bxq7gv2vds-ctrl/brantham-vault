@@ -127,7 +127,7 @@ Sprint Execution & Performance : 10/10 livrables (tasks #24-#33).
 
 ## Related
 
-- [[brantham/infra/_MOC|Polymarket Hub]]
+- [[brantham/deals/infra/_MOC|Polymarket Hub]]
 - [[g1-g2-qualification-kit|G1→G2 Framework]]
 - [[gate-scorecard-spec|Scorecard spec]]
 - [[feature-rejection-log|Feature rejection log]]

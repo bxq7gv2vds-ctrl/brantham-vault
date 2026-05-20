@@ -149,7 +149,7 @@ Vs. "énorme hedge fund directional + MM" : **~30/100**. On gagne 5 points grâc
 
 ## Related
 
-- [[brantham/infra/_MOC|Polymarket Hub]]
+- [[brantham/deals/infra/_MOC|Polymarket Hub]]
 - [[sessions/2026-04-19-backfill-scale-up|Session scale-up]]
 - [[sessions/2026-04-19-per-city-optimization|Session per-city]]
 - [[sessions/2026-04-19-critical-review-and-fixes|Critical review]]

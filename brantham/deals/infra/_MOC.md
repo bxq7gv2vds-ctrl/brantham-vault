@@ -141,8 +141,8 @@ Miroir Google Drive : `DEALS/INFRA/DATA ROOM/` ([lien](https://drive.google.com/
 
 ## Analyse — documents
 
-- [Analyse complète (00)](brantham/infra/analyses/00-analyse-complete.md) — synthèse maître 12 sections
-- [Addendum post-OCR (00b)](brantham/infra/analyses/00b-addendum-decouvertes.md) — découvertes après OCR de 10 PDFs image
+- [Analyse complète (00)](brantham/deals/infra/analyses/00-analyse-complete.md) — synthèse maître 12 sections
+- [Addendum post-OCR (00b)](brantham/deals/infra/analyses/00b-addendum-decouvertes.md) — découvertes après OCR de 10 PDFs image
 
 ## Acheteurs potentiels
 

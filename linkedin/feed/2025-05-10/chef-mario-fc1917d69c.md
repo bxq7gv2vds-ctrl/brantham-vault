@@ -31,6 +31,6 @@ delta_reposts: 0
 Recipe for great pasta carbonara: guanciale, pecorino, eggs. That's it.
 
 ## Related
-- [[brantham/infra/_MOC]]
+- [[brantham/deals/infra/_MOC]]
 - [[brantham/_MOC]]
 - [[writing-vault concepts via QMD]]

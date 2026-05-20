@@ -69,5 +69,5 @@ Impossible de timer cela.
 Mais on peut se poser la question suivante : quelle est la probabilité que cela arrive avant 2030 ? Elle me semble très élevée. ba:["$","$L1ef",null,{"textProps":{"fontFamily":"sans","fontSize":"small","fontStyle":"normal","fontWeight":"normal","lineHeig
 
 ## Related
-- [[brantham/infra/_MOC]]
+- [[brantham/deals/infra/_MOC]]
 - [[brantham/_MOC]]

@@ -135,7 +135,7 @@ Ce qui bloque encore :
 
 ## Related
 
-- [[brantham/infra/_MOC|Polymarket Hub]]
+- [[brantham/deals/infra/_MOC|Polymarket Hub]]
 - [[sessions/2026-04-19-per-city-optimization|Session précédente — diagnostic Tokyo/Chicago]]
 - [[reports/ablation-2026-04-19|Ablation study]]
 - [[STATE-HANDOFF|State handoff]]
