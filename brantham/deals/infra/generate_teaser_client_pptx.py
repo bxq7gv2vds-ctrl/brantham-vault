@@ -2,125 +2,151 @@ from pathlib import Path
 
 from pptx import Presentation
 from pptx.dml.color import RGBColor
-from pptx.enum.text import MSO_ANCHOR, PP_ALIGN
+from pptx.enum.text import PP_ALIGN
 from pptx.util import Inches, Pt
 
 
 OUT = Path(__file__).with_name("INFRA-teaser-client.pptx")
 
-INK = RGBColor(0x0F, 0x0F, 0x0E)
-T2 = RGBColor(0x4A, 0x4A, 0x47)
-T3 = RGBColor(0x8A, 0x8A, 0x86)
-BORDER = RGBColor(0xD8, 0xD7, 0xD4)
-OFF = RGBColor(0xF5, 0xF4, 0xF2)
-WHITE = RGBColor(0xFF, 0xFF, 0xFF)
+INK = RGBColor(16, 16, 15)
+T2 = RGBColor(74, 74, 71)
+T3 = RGBColor(125, 125, 120)
+LINE = RGBColor(185, 184, 178)
+OFF = RGBColor(246, 245, 242)
+WHITE = RGBColor(255, 255, 255)
 
 FONT = "Cambria"
-FONT_BODY = "Cambria"
 
 
-def set_run(run, size=10, bold=False, italic=False, color=INK):
-    run.font.name = FONT_BODY
+def run_style(run, size=8, bold=False, italic=False, color=INK):
+    run.font.name = FONT
     run.font.size = Pt(size)
     run.font.bold = bold
     run.font.italic = italic
     run.font.color.rgb = color
 
 
-def add_textbox(slide, x, y, w, h, text="", size=10, bold=False, italic=False, color=INK, align=PP_ALIGN.LEFT):
-    box = slide.shapes.add_textbox(Inches(x), Inches(y), Inches(w), Inches(h))
-    tf = box.text_frame
+def textbox(slide, x, y, w, h, text="", size=8, bold=False, italic=False, color=INK, align=PP_ALIGN.LEFT):
+    shape = slide.shapes.add_textbox(Inches(x), Inches(y), Inches(w), Inches(h))
+    tf = shape.text_frame
     tf.clear()
+    tf.word_wrap = True
     tf.margin_left = Inches(0)
     tf.margin_right = Inches(0)
     tf.margin_top = Inches(0)
     tf.margin_bottom = Inches(0)
-    tf.word_wrap = True
     p = tf.paragraphs[0]
     p.alignment = align
     p.space_after = Pt(0)
-    run = p.add_run()
-    run.text = text
-    set_run(run, size=size, bold=bold, italic=italic, color=color)
-    return box
+    p.line_spacing = 1.02
+    r = p.add_run()
+    r.text = text
+    run_style(r, size=size, bold=bold, italic=italic, color=color)
+    return shape
 
 
-def add_title(slide, number, title, subtitle=None):
-    add_textbox(slide, 0.55, 0.32, 8.8, 0.34, f"{number}. {title}", size=15, bold=True)
-    if subtitle:
-        add_textbox(slide, 0.55, 0.70, 8.9, 0.25, subtitle, size=8.5, color=T2)
-    line = slide.shapes.add_shape(1, Inches(0.55), Inches(0.98), Inches(8.9), Pt(0.8))
-    line.fill.solid()
-    line.fill.fore_color.rgb = INK
-    line.line.color.rgb = INK
-
-
-def add_footer(slide, page):
-    add_textbox(slide, 0.55, 7.08, 4.0, 0.18, "Brantham Partners — document confidentiel pre-NDA", size=6.5, color=T3)
-    add_textbox(slide, 9.0, 7.08, 0.45, 0.18, str(page), size=6.5, color=T3, align=PP_ALIGN.RIGHT)
-
-
-def add_table(slide, x, y, w, h, headers, rows, font_size=7.1, header_size=7.2, col_widths=None):
-    table_shape = slide.shapes.add_table(len(rows) + 1, len(headers), Inches(x), Inches(y), Inches(w), Inches(h))
-    table = table_shape.table
-    if col_widths:
-        total = sum(col_widths)
-        for i, cw in enumerate(col_widths):
-            table.columns[i].width = Inches(w * cw / total)
-    for i, header in enumerate(headers):
-        cell = table.cell(0, i)
-        cell.fill.solid()
-        cell.fill.fore_color.rgb = WHITE
-        cell.margin_left = Inches(0.04)
-        cell.margin_right = Inches(0.04)
-        cell.margin_top = Inches(0.02)
-        cell.margin_bottom = Inches(0.02)
-        p = cell.text_frame.paragraphs[0]
-        p.text = header
-        p.alignment = PP_ALIGN.LEFT
-        for run in p.runs:
-            set_run(run, size=header_size, bold=True)
-    for r, row in enumerate(rows, start=1):
-        for c, value in enumerate(row):
-            cell = table.cell(r, c)
-            cell.fill.solid()
-            cell.fill.fore_color.rgb = WHITE if r % 2 else OFF
-            cell.margin_left = Inches(0.04)
-            cell.margin_right = Inches(0.04)
-            cell.margin_top = Inches(0.015)
-            cell.margin_bottom = Inches(0.015)
-            p = cell.text_frame.paragraphs[0]
-            p.text = str(value)
-            p.alignment = PP_ALIGN.RIGHT if c > 0 and str(value).startswith(("~", "+", "-", "1", "2", "3", "4", "5", "6", "7", "8", "9")) else PP_ALIGN.LEFT
-            for run in p.runs:
-                set_run(run, size=font_size, bold=False, color=INK)
-    for row in table.rows:
-        for cell in row.cells:
-            cell.vertical_anchor = MSO_ANCHOR.TOP
-            for side in ("top", "bottom", "left", "right"):
-                getattr(cell, side).color.rgb = BORDER
-                getattr(cell, side).width = Pt(0.35)
-    return table_shape
-
-
-def add_lead_para(slide, x, y, w, h, lead, body, size=8.6):
-    box = slide.shapes.add_textbox(Inches(x), Inches(y), Inches(w), Inches(h))
-    tf = box.text_frame
+def multi_para(slide, x, y, w, h, parts, size=7.2):
+    shape = slide.shapes.add_textbox(Inches(x), Inches(y), Inches(w), Inches(h))
+    tf = shape.text_frame
     tf.clear()
+    tf.word_wrap = True
     tf.margin_left = Inches(0)
     tf.margin_right = Inches(0)
     tf.margin_top = Inches(0)
     tf.margin_bottom = Inches(0)
-    tf.word_wrap = True
-    p = tf.paragraphs[0]
-    p.space_after = Pt(0)
-    r1 = p.add_run()
-    r1.text = lead
-    set_run(r1, size=size, bold=True)
-    r2 = p.add_run()
-    r2.text = " " + body
-    set_run(r2, size=size, color=INK)
-    return box
+    for idx, item in enumerate(parts):
+        p = tf.paragraphs[0] if idx == 0 else tf.add_paragraph()
+        p.space_after = Pt(1)
+        p.line_spacing = 1.02
+        if isinstance(item, tuple):
+            lead, body = item
+            r = p.add_run()
+            r.text = lead
+            run_style(r, size=size, bold=True)
+            r = p.add_run()
+            r.text = " " + body
+            run_style(r, size=size)
+        else:
+            r = p.add_run()
+            r.text = item
+            run_style(r, size=size)
+    return shape
+
+
+def hline(slide, x, y, w, color=LINE, width=0.7):
+    shp = slide.shapes.add_shape(1, Inches(x), Inches(y), Inches(w), Pt(width))
+    shp.fill.solid()
+    shp.fill.fore_color.rgb = color
+    shp.line.color.rgb = color
+    shp.line.width = Pt(0)
+    return shp
+
+
+def vline(slide, x, y, h, color=LINE, width=0.7):
+    shp = slide.shapes.add_shape(1, Inches(x), Inches(y), Pt(width), Inches(h))
+    shp.fill.solid()
+    shp.fill.fore_color.rgb = color
+    shp.line.color.rgb = color
+    shp.line.width = Pt(0)
+    return shp
+
+
+def band(slide, x, y, w, h, fill=OFF):
+    shp = slide.shapes.add_shape(1, Inches(x), Inches(y), Inches(w), Inches(h))
+    shp.fill.solid()
+    shp.fill.fore_color.rgb = fill
+    shp.line.color.rgb = fill
+    shp.line.width = Pt(0)
+    return shp
+
+
+def header(slide, kicker, title, subtitle, page):
+    textbox(slide, 0.42, 0.22, 1.9, 0.18, kicker.upper(), size=5.8, color=T3)
+    textbox(slide, 0.42, 0.43, 6.2, 0.36, title, size=15.5, bold=True)
+    textbox(slide, 0.42, 0.82, 7.6, 0.20, subtitle, size=6.7, color=T2)
+    textbox(slide, 8.15, 0.28, 1.35, 0.16, "Brantham Partners", size=6.8, bold=True, align=PP_ALIGN.RIGHT)
+    textbox(slide, 8.15, 0.50, 1.35, 0.16, "pre-NDA confidentiel", size=5.7, color=T3, align=PP_ALIGN.RIGHT)
+    hline(slide, 0.42, 1.08, 9.10, INK, 0.85)
+    textbox(slide, 9.23, 7.12, 0.28, 0.12, str(page), size=5.6, color=T3, align=PP_ALIGN.RIGHT)
+    textbox(slide, 0.42, 7.12, 4.2, 0.12, "Document confidentiel — diffusion interdite sans accord ecrit prealable", size=5.4, color=T3)
+
+
+def mini_table(slide, x, y, col_widths, row_h, headers, rows, sizes=None):
+    total_w = sum(col_widths)
+    band(slide, x, y, total_w, row_h, WHITE)
+    hline(slide, x, y, total_w, INK, 0.9)
+    hline(slide, x, y + row_h, total_w, LINE, 0.6)
+    cx = x
+    for i, head in enumerate(headers):
+        textbox(slide, cx + 0.03, y + 0.06, col_widths[i] - 0.06, row_h - 0.05, head, size=(sizes or {}).get("header", 5.8), bold=True)
+        cx += col_widths[i]
+    cy = y + row_h
+    for r_idx, row in enumerate(rows):
+        if r_idx % 2 == 1:
+            band(slide, x, cy, total_w, row_h, OFF)
+        cx = x
+        for c_idx, val in enumerate(row):
+            align = PP_ALIGN.RIGHT if c_idx > 0 and str(val).strip()[:1] in "~+-0123456789" else PP_ALIGN.LEFT
+            textbox(slide, cx + 0.03, cy + 0.055, col_widths[c_idx] - 0.06, row_h - 0.05, str(val), size=(sizes or {}).get("body", 5.95), color=INK, align=align)
+            cx += col_widths[c_idx]
+        hline(slide, x, cy + row_h, total_w, LINE, 0.35)
+        cy += row_h
+    hline(slide, x, cy, total_w, INK, 0.8)
+    return cy
+
+
+def kpi_grid(slide, x, y, w, h, items):
+    cols = len(items)
+    cell_w = w / cols
+    hline(slide, x, y, w, INK, 0.85)
+    hline(slide, x, y + h, w, INK, 0.85)
+    for i, (label, value, note) in enumerate(items):
+        cx = x + i * cell_w
+        if i:
+            vline(slide, cx, y + 0.05, h - 0.10, LINE, 0.5)
+        textbox(slide, cx + 0.06, y + 0.09, cell_w - 0.12, 0.13, label.upper(), size=4.8, color=T3, align=PP_ALIGN.CENTER)
+        textbox(slide, cx + 0.06, y + 0.30, cell_w - 0.12, 0.28, value, size=11.5, bold=True, align=PP_ALIGN.CENTER)
+        textbox(slide, cx + 0.06, y + 0.62, cell_w - 0.12, 0.20, note, size=5.0, color=T2, align=PP_ALIGN.CENTER)
 
 
 prs = Presentation()
@@ -132,172 +158,202 @@ blank = prs.slide_layouts[6]
 s = prs.slides.add_slide(blank)
 s.background.fill.solid()
 s.background.fill.fore_color.rgb = WHITE
-add_textbox(s, 0.9, 2.20, 8.2, 0.42, "Opportunite de reprise", size=20, bold=True, align=PP_ALIGN.CENTER)
-line = s.shapes.add_shape(1, Inches(3.35), Inches(2.74), Inches(3.3), Pt(0.8))
-line.fill.solid()
-line.fill.fore_color.rgb = INK
-line.line.color.rgb = INK
-add_textbox(
+header(
     s,
-    1.35,
-    2.98,
-    7.3,
-    0.92,
-    "Agence francaise de communication et de production visuelle\nMarque historique du Grand Est — pres de 50 ans d'existence\nProcedure collective — fenetre de reprise a clarifier",
-    size=11,
-    align=PP_ALIGN.CENTER,
+    "Opportunite de reprise",
+    "Agence de communication et production visuelle",
+    "Marque historique du Grand Est — pres de 50 ans d'existence — procedure collective, statut de cession a confirmer",
+    1,
 )
-add_textbox(s, 2.8, 4.55, 4.4, 0.24, "Brantham Partners — Conseil M&A distressed", size=9.5, align=PP_ALIGN.CENTER)
-add_textbox(s, 4.25, 4.92, 1.5, 0.2, "2026-05-20", size=9, align=PP_ALIGN.CENTER)
-add_textbox(s, 2.8, 5.35, 4.4, 0.2, "Document confidentiel — diffusion pre-NDA", size=8.5, italic=True, color=T2, align=PP_ALIGN.CENTER)
+
+kpi_grid(
+    s,
+    0.42,
+    1.28,
+    9.10,
+    0.92,
+    [
+        ("Anciennete", "≈50 ans", "marque installee"),
+        ("CA pic", "3,0 M€", "2021/22"),
+        ("CA dernier plein", "2,3 M€", "31/03/2025"),
+        ("CA recent", "1,8 M€", "annualise 9m"),
+        ("Effectif", "18-19", "salaries actuels"),
+        ("Point mort", "2,4-2,6 M€", "CA estime"),
+    ],
+)
+
+textbox(s, 0.42, 2.42, 1.9, 0.16, "TRAJECTOIRE FINANCIERE", size=5.7, color=T3, bold=True)
+mini_table(
+    s,
+    0.42,
+    2.65,
+    [1.15, 0.76, 0.76, 0.76, 0.76, 0.90],
+    0.255,
+    ["K€", "03/22", "03/23", "03/24", "03/25", "12/25 9m"],
+    [
+        ["CA", "2 993", "2 427", "2 216", "2 312", "1 357"],
+        ["Marge brute", "2 208", "1 854", "1 738", "1 718", "1 043"],
+        ["Marge brute %", "73,8%", "76,4%", "78,4%", "74,3%", "76,9%"],
+        ["Salaires + charges", "1 137", "1 064", "961", "972", "820"],
+        ["EBE", "+227", "+36", "+22", "+79", "-284"],
+        ["Resultat net", "+97", "-77", "-73", "-1", "-345"],
+    ],
+    {"header": 5.2, "body": 5.25},
+)
+multi_para(
+    s,
+    5.75,
+    2.60,
+    3.77,
+    1.70,
+    [
+        ("Lecture.", "Le CA recent annualise ressort autour de 1,8 M€, soit environ -22% vs dernier exercice plein et environ -40% vs le pic recent."),
+        ("Marge preservee.", "La marge brute reste proche de 75-77% : le probleme n'est pas le mix vendu, mais le volume face aux couts fixes."),
+        ("Point mort.", "Le seuil EBE est estime a 2,4-2,6 M€ de CA : l'agence est 600-800 K€ sous son niveau d'equilibre."),
+    ],
+    size=6.25,
+)
+
+textbox(s, 0.42, 4.72, 1.75, 0.16, "CAUSES DCP", size=5.7, color=T3, bold=True)
+mini_table(
+    s,
+    0.42,
+    4.95,
+    [1.45, 2.45, 2.35],
+    0.255,
+    ["Cause", "Fait constate", "Impact economique"],
+    [
+        ["Dette LBO INTRA", "Rachat 2016 via holding INTRA", "Remontees de cash / stress financier"],
+        ["Conjoncture", "Budgets communication coupes en priorite", "CA en contraction, decisions clients allongees"],
+        ["Choc IA", "Clients persuades de produire eux-memes", "Pression sur prestations simples"],
+        ["Absence commerciale", "Dirigeante commerciale absente > 1 an", "Pipeline affaibli, traction commerciale perdue"],
+        ["Couts fixes", "Masse salariale inerte face au CA", "EBE negatif malgre marge brute correcte"],
+        ["Tresorerie", "VMP consommees, cash proche zero", "Sauvegarde avant cessation complete"],
+    ],
+    {"header": 5.05, "body": 5.05},
+)
+multi_para(
+    s,
+    7.05,
+    4.94,
+    2.47,
+    1.60,
+    [
+        ("Synthese.", "Le retournement resulte d'un effet ciseaux : baisse rapide du chiffre d'affaires, structure de couts encore dimensionnee pour un volume superieur, dette de LBO portee par la holding et choc IA sur les prestations commoditisees."),
+    ],
+    size=6.15,
+)
 
 # Slide 2
 s = prs.slides.add_slide(blank)
-add_title(s, "1", "L'opportunite en bref", "Profil synthetique et donnees de cadrage")
-add_lead_para(
+s.background.fill.solid()
+s.background.fill.fore_color.rgb = WHITE
+header(
     s,
-    0.55,
-    1.18,
-    8.9,
-    0.55,
-    "En une phrase.",
-    "Agence-conseil integree combinant strategie de marque, production photo/video, edition print, contenu, marque employeur et digital responsable, avec une capacite historique proche de 3 M€ de chiffre d'affaires.",
-    size=8.4,
+    "These repreneur",
+    "Actifs, leviers de reprise et points a securiser",
+    "Base exploitable, mais offre a conditionner a la transferabilite des contrats, au bail actuel et au statut procedural",
+    2,
 )
-rows = [
-    ("Anciennete", "pres de 50 ans", "Marque installee, historique commercial reel"),
-    ("CA pic recent", "~3,0 M€", "Niveau d'activite prouve avant decrochage"),
-    ("CA dernier exercice plein", "~2,3 M€", "Activite encore significative"),
-    ("CA annualise recent", "~1,8 M€", "Baisse d'environ 22% vs dernier exercice"),
-    ("Effectif actuel", "18-19 salaries", "Base deja resserree vs plaquette historique"),
-    ("Point mort estime", "2,4-2,6 M€ CA", "Cap operationnel clair pour le repreneur"),
-]
-add_table(s, 0.55, 1.95, 8.9, 2.05, ("Indicateur", "Donnee teaser", "Lecture"), rows, font_size=7.4, col_widths=(1.3, 1.15, 3.0))
-add_lead_para(
-    s,
-    0.55,
-    4.35,
-    4.25,
-    0.85,
-    "Ce que l'on achete.",
-    "Une marque ancienne, un outil de production, un portefeuille B2B probable, des savoir-faire photo/video/print/digital et une equipe deja resserree.",
-    size=8.2,
-)
-add_lead_para(
-    s,
-    5.1,
-    4.35,
-    4.35,
-    0.85,
-    "These.",
-    "Le dossier devient interessant si le repreneur relance le commercial, securise les contrats transferables et repositionne l'offre sur contenu, video, marque employeur et IA.",
-    size=8.2,
-)
-add_textbox(s, 0.55, 6.15, 8.9, 0.38, "Message cle : l'actif n'est pas financierement propre, mais il dispose d'une base exploitable et d'un historique commercial rare dans son bassin.", size=8.2, italic=True, color=T2, align=PP_ALIGN.CENTER)
-add_footer(s, 2)
 
-# Slide 3
-s = prs.slides.add_slide(blank)
-add_title(s, "2", "Trajectoire financiere et causes DCP", "Pourquoi la societe a decroche")
-finance_rows = [
-    ("CA", "2 993", "2 427", "2 216", "2 312", "1 357"),
-    ("EBE", "+227", "+36", "+22", "+79", "-284"),
-    ("Resultat net", "+97", "-77", "-73", "-1", "-345"),
-]
-add_table(s, 0.55, 1.22, 8.9, 1.25, ("K€", "03/2022", "03/2023", "03/2024", "03/2025", "12/2025 9m"), finance_rows, font_size=7.7, col_widths=(1.2, 1, 1, 1, 1, 1))
-cause_rows = [
-    ("Dette de LBO INTRA", "Rachat 2016 via holding INTRA", "Pression financiere durable"),
-    ("Budgets communication", "Conjoncture defavorable", "Contraction du CA"),
-    ("Choc IA generative", "Clients pensant produire eux-memes", "Pression sur prestations simples"),
-    ("Absence commerciale", "Fonction affaiblie plus d'un an", "Pipeline insuffisant"),
-    ("Couts fixes rigides", "Masse salariale elevee face au CA", "EBE negatif malgre marge brute"),
-    ("Tresorerie consommee", "VMP mobilisees, cash reduit", "Sauvegarde avant cessation complete"),
-]
-add_table(s, 0.55, 2.82, 8.9, 2.65, ("Cause DCP", "Fait constate", "Impact economique"), cause_rows, font_size=6.65, col_widths=(1.45, 2.15, 2.25))
-add_lead_para(
+textbox(s, 0.42, 1.27, 1.7, 0.16, "CE QUI A DE LA VALEUR", size=5.7, color=T3, bold=True)
+mini_table(
     s,
-    0.55,
-    5.85,
-    8.9,
-    0.55,
-    "Lecture.",
-    "Le retournement resulte d'un effet ciseaux : baisse rapide du chiffre d'affaires, structure de couts calibree pour un niveau superieur, dette de LBO portee par la holding et choc IA sur les prestations simples.",
-    size=8.0,
+    0.42,
+    1.50,
+    [1.70, 3.15],
+    0.255,
+    ["Actif", "Lecture repreneur"],
+    [
+        ["Marque historique", "Pres de 50 ans d'existence, credibilite locale difficile a reconstruire"],
+        ["Ancrage Grand Est", "Proximite PME, ETI industrielles, institutions et comptes regionaux"],
+        ["Production integree", "Photo, video, redaction, print, digital ; moins de dependance a la sous-traitance"],
+        ["Positionnement responsable", "Print eco-responsable, digital frugal, Green UX ; angle RSE exploitable"],
+        ["Portefeuille B2B", "Cas clients recrutement, produit, salon, institutionnel ; valeur a confirmer par contrats"],
+        ["Equipe resserree", "18-19 salaries ; premiere reduction deja engagee vs 21 en 2023 / 25 plaquette"],
+        ["Incorporels", "Marque, methodologie, phototheque/videotheque, noms de domaine, fichier clients"],
+    ],
+    {"header": 5.15, "body": 5.05},
 )
-add_footer(s, 3)
 
-# Slide 4
-s = prs.slides.add_slide(blank)
-add_title(s, "3", "Atouts strategiques", "Ce qui peut etre repris et reactive")
-atout_rows = [
-    ("Anciennete de marque", "Pres de 50 ans d'existence, credibilite locale difficile a reconstruire"),
-    ("Ancrage Grand Est", "Proximite avec PME, ETI industrielles et institutions regionales"),
-    ("Production integree", "Photo, video, redaction, print, digital ; capacite a produire sans tout sous-traiter"),
-    ("Positionnement responsable", "Print eco-responsable, digital frugal, Green UX ; differenciation agences generalistes"),
-    ("Portefeuille clients installe", "Cas clients B2B recrutement, produit, salon, institutionnel ; valeur a confirmer par contrats"),
-    ("Equipe resserree", "18-19 salaries, base operationnelle deja ajustee"),
-    ("Actifs incorporels", "Marque, methodologie, phototheque/videotheque, noms de domaine, fichier clients"),
-    ("Cadre distressed", "Possibilite de repartir avec une structure de couts redimensionnee"),
-]
-add_table(s, 0.55, 1.20, 8.9, 3.25, ("Atout", "Pourquoi il a de la valeur"), atout_rows, font_size=6.8, col_widths=(1.45, 4.5))
-add_lead_para(
+textbox(s, 5.55, 1.27, 1.7, 0.16, "THESE CHIFFREE", size=5.7, color=T3, bold=True)
+mini_table(
     s,
-    0.55,
-    4.82,
-    4.25,
-    0.92,
-    "Un actif historique.",
-    "La valeur ne vient pas uniquement du CA actuel, mais de l'anciennete commerciale, du capital relationnel et de la capacite a reactiver une marque regionale connue.",
-    size=8.0,
+    5.55,
+    1.50,
+    [1.45, 1.35, 1.17],
+    0.255,
+    ["Levier", "Base", "Effet"],
+    [
+        ["Retour point mort", "2,4-2,6 M€ CA", "EBE positif"],
+        ["Relance commerciale", "CA historique 3,0 M€", "Volume recuperable"],
+        ["Recalibrage social", "18-19 salaries", "Cout fixe ajuste"],
+        ["Dette historique", "PGE ~850 K€", "Non repris"],
+        ["Charge L.642-12", "~9,8 K€", "Impact limite"],
+        ["Materiel revendique", "10-15 K€", "Negociable"],
+        ["BFR redemarrage", "100-200 K€", "A financer"],
+    ],
+    {"header": 5.15, "body": 5.05},
 )
-add_lead_para(
-    s,
-    5.1,
-    4.82,
-    4.35,
-    0.92,
-    "Un outil a repositionner.",
-    "L'IA attaque les productions simples, mais ouvre une opportunite : industrialiser les contenus et vendre conseil, video, social content, marque employeur et workflows IA.",
-    size=8.0,
-)
-add_footer(s, 4)
 
-# Slide 5
-s = prs.slides.add_slide(blank)
-add_title(s, "4", "These de reprise et points de confirmation", "Levier repreneur, donnees a securiser et disclaimer")
-levier_rows = [
-    ("Retour vers point mort", "CA cible 2,4-2,6 M€", "Retour EBE positif"),
-    ("Relance commerciale", "CA historique ~3,0 M€", "Recuperation partielle du volume"),
-    ("Recalibrage social", "18-19 salaries actuels", "Reduction du cout fixe repris"),
-    ("Dette historique", "PGE ~850 K€ non repris", "Bilan de reprise allege"),
-    ("Charges transmises", "L.642-12 ~9,8 K€", "Faible friction bancaire directe"),
-    ("Materiel revendique", "10-15 K€ remplacement", "Sujet negociable, non bloquant"),
-    ("BFR redemarrage", "100-200 K€", "Besoin a anticiper dans l'offre"),
-]
-add_table(s, 0.55, 1.18, 8.9, 2.35, ("Levier", "Base chiffree", "Effet attendu"), levier_rows, font_size=6.9, col_widths=(1.65, 1.6, 2.25))
-add_lead_para(
+textbox(s, 0.42, 4.06, 1.85, 0.16, "ACTIONS DEJA ENGAGEES", size=5.7, color=T3, bold=True)
+mini_table(
     s,
-    0.55,
-    3.85,
-    8.9,
-    0.56,
-    "Points a confirmer avant offre.",
-    "Statut procedural exact et possibilite effective de cession ; contrats clients transferables ; bail du site actuel ; etat du passif ; liste d'effectif actualisee ; actifs incorporels disponibles ; materiel revendique et contrats de leasing.",
-    size=7.7,
+    0.42,
+    4.29,
+    [1.95, 2.95],
+    0.255,
+    ["Action", "Lecture"],
+    [
+        ["Plan d'economies 2023-25", "Effort de restructuration deja amorce"],
+        ["Effectif 21 -> 18/19", "Base sociale deja resserree par non-remplacements"],
+        ["Sous-traitance variabilisee", "Modele potentiellement plus flexible"],
+        ["Primes direction supprimees", "Charges non operationnelles reduites"],
+        ["Renforcement commercial", "Tentative de relance a reprendre / challenger"],
+    ],
+    {"header": 5.1, "body": 5.0},
 )
-add_lead_para(
+
+textbox(s, 5.55, 4.06, 1.85, 0.16, "POINTS A CONFIRMER", size=5.7, color=T3, bold=True)
+mini_table(
     s,
-    0.55,
-    4.70,
-    8.9,
-    0.72,
-    "Disclaimer.",
-    "Ce document constitue une presentation preliminaire et confidentielle d'une opportunite de reprise. Il ne constitue ni une offre, ni un memorandum d'information, ni une recommandation d'investissement. Certaines informations d'identification sont volontairement omises a ce stade. Toute diffusion est interdite sans accord ecrit prealable.",
-    size=7.3,
+    5.55,
+    4.29,
+    [1.70, 2.27],
+    0.255,
+    ["Sujet", "Pourquoi c'est critique"],
+    [
+        ["Statut procedural", "Sauvegarde : cession effective a clarifier"],
+        ["Contrats clients", "Transferabilite / concentration / CA recurrent"],
+        ["Bail Strasbourg", "Condition d'exploitation post-reprise"],
+        ["Etat du passif", "Privileges et charges residuelles"],
+        ["Effectif actualise", "Volet social et conges payes repris"],
+        ["PI / domaines / fichier", "Valeur incorporelle a securiser"],
+    ],
+    {"header": 5.1, "body": 5.0},
 )
-add_textbox(s, 0.55, 6.12, 3.8, 0.18, "Paul Roulleau — Brantham Partners", size=8.2, bold=True)
-add_textbox(s, 0.55, 6.40, 4.2, 0.18, "paul.roulleau@branthampartners.fr — 07 68 36 25 63", size=7.6, color=T2)
-add_footer(s, 5)
+
+multi_para(
+    s,
+    0.42,
+    6.18,
+    6.15,
+    0.55,
+    [
+        ("Conclusion.", "Le dossier n'est pas a vendre comme une agence saine, mais comme une plateforme regionale a relancer : marque ancienne, savoir-faire integre, marge brute preservee, dette historique non reprise et point mort clairement identifiable."),
+    ],
+    size=6.25,
+)
+textbox(
+    s,
+    6.90,
+    6.17,
+    2.62,
+    0.64,
+    "Disclaimer. Presentation preliminaire et confidentielle ; ne constitue ni une offre ni un memorandum d'information. Informations d'identification volontairement omises a ce stade. Contact : Paul Roulleau — Brantham Partners.",
+    size=5.6,
+    color=T2,
+)
 
 prs.save(OUT)
 print(OUT)

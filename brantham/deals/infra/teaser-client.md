@@ -4,89 +4,100 @@ deal: infra
 created: 2026-05-20
 diffusion: pre-nda
 format: pptx
+slides: 2
 ---
 
-# Teaser client — Agence française de communication et de production visuelle
+# Teaser client — INFRA, version 2 slides
 
-## Slide 1 — Cover
+## Slide 1 — Opportunité, trajectoire financière et causes DCP
 
-**Opportunité de reprise**
+**Agence de communication et production visuelle**  
+Marque historique du Grand Est — près de 50 ans d'existence — procédure collective, statut de cession à confirmer.
 
-Agence française de communication et de production visuelle  
-Marque historique du Grand Est — près de 50 ans d'existence  
-Procédure collective — fenêtre de reprise à clarifier
+### KPIs de cadrage
 
-Brantham Partners — Conseil M&A distressed  
-2026-05-20
-
-Document confidentiel — diffusion pré-NDA
-
-## Slide 2 — L'opportunité en bref
-
-Agence-conseil en communication intégrée, créée à la fin des années 1970, combinant stratégie de marque, production photo/vidéo, édition print, contenu, marque employeur et digital responsable. Le dossier présente une base exploitable : ancienneté commerciale, savoir-faire intégré, portefeuille B2B probable et capacité historique à générer près de 3 M€ de chiffre d'affaires.
-
-| Indicateur | Donnée teaser | Lecture |
+| Indicateur | Donnée | Lecture |
 |---|---:|---|
-| Ancienneté | près de 50 ans | Marque installée, historique commercial réel |
-| CA pic récent | ~3,0 M€ | Niveau d'activité prouvé avant décrochage |
-| CA dernier exercice plein | ~2,3 M€ | Activité encore significative |
-| CA annualisé récent | ~1,8 M€ | Baisse d'environ 22% vs dernier exercice |
-| Effectif actuel | 18-19 salariés | Base déjà resserrée vs plaquette historique |
-| Point mort estimé | 2,4-2,6 M€ CA | Cap opérationnel clair pour le repreneur |
+| Ancienneté | ~50 ans | marque installée |
+| CA pic récent | 3,0 M€ | 2021/22 |
+| CA dernier exercice plein | 2,3 M€ | 31/03/2025 |
+| CA récent | 1,8 M€ | annualisé 9 mois |
+| Effectif | 18-19 | salariés actuels |
+| Point mort | 2,4-2,6 M€ | CA estimé |
 
-**Thèse.** Le dossier vaut par la combinaison marque ancienne, outil de production, portefeuille B2B et capacité de repositionnement sur le contenu, la vidéo, la marque employeur et l'IA.
-
-## Slide 3 — Trajectoire financière et causes DCP
+### Trajectoire financière
 
 | K€ | 03/2022 | 03/2023 | 03/2024 | 03/2025 | 12/2025 9m |
 |---|---:|---:|---:|---:|---:|
 | CA | 2 993 | 2 427 | 2 216 | 2 312 | 1 357 |
+| Marge brute | 2 208 | 1 854 | 1 738 | 1 718 | 1 043 |
+| Marge brute % | 73,8% | 76,4% | 78,4% | 74,3% | 76,9% |
+| Salaires + charges | 1 137 | 1 064 | 961 | 972 | 820 |
 | EBE | +227 | +36 | +22 | +79 | -284 |
 | Résultat net | +97 | -77 | -73 | -1 | -345 |
 
-| Cause DCP | Fait constaté | Impact économique |
+**Lecture.** Le CA récent annualisé ressort autour de 1,8 M€, soit environ -22% vs dernier exercice plein et environ -40% vs le pic récent. La marge brute reste proche de 75-77% : le problème n'est pas le mix vendu, mais le volume face aux coûts fixes. Le seuil EBE est estimé à 2,4-2,6 M€ de CA.
+
+### Causes DCP
+
+| Cause | Fait constaté | Impact économique |
 |---|---|---|
-| Dette de LBO INTRA | Rachat en 2016 via holding INTRA | Pression financière durable, remontées de cash difficiles |
-| Baisse des budgets communication | Conjoncture défavorable | Contraction du CA, cycles de décision allongés |
-| Choc IA générative | Clients pensant produire eux-mêmes | Pression sur prestations simples, baisse de valeur perçue |
-| Absence commerciale prolongée | Fonction commerciale affaiblie plus d'un an | Pipeline insuffisant, perte de traction commerciale |
-| Coûts fixes trop rigides | Masse salariale élevée face au CA | EBE négatif malgré marge brute préservée |
-| Trésorerie consommée | VMP mobilisées, trésorerie réduite | Sauvegarde déposée avant cessation complète |
+| Dette LBO INTRA | Rachat 2016 via holding INTRA | Remontées de cash / stress financier |
+| Conjoncture | Budgets communication coupés en priorité | CA en contraction, décisions clients allongées |
+| Choc IA | Clients persuadés de produire eux-mêmes | Pression sur prestations simples |
+| Absence commerciale | Dirigeante commerciale absente > 1 an | Pipeline affaibli, traction commerciale perdue |
+| Coûts fixes | Masse salariale inerte face au CA | EBE négatif malgré marge brute correcte |
+| Trésorerie | VMP consommées, cash proche zéro | Sauvegarde avant cessation complète |
 
-**Lecture.** La situation actuelle résulte moins d'une disparition de la demande que d'un effet ciseaux : baisse rapide du chiffre d'affaires, structure de coûts encore calibrée pour un niveau d'activité supérieur, dette de LBO portée par la holding et choc concurrentiel de l'IA sur les prestations simples.
+**Synthèse.** Le retournement résulte d'un effet ciseaux : baisse rapide du chiffre d'affaires, structure de coûts encore dimensionnée pour un volume supérieur, dette de LBO portée par la holding et choc IA sur les prestations commoditisées.
 
-## Slide 4 — Atouts stratégiques
+## Slide 2 — Actifs, thèse repreneur et points à sécuriser
 
-| Atout | Pourquoi il a de la valeur |
+### Ce qui a de la valeur
+
+| Actif | Lecture repreneur |
 |---|---|
-| Ancienneté de marque | Près de 50 ans d'existence, crédibilité locale difficile à reconstruire |
-| Ancrage Grand Est | Proximité avec PME, ETI industrielles et institutions régionales |
-| Production intégrée | Photo, vidéo, rédaction, print, digital ; capacité à produire sans tout sous-traiter |
-| Positionnement responsable | Print éco-responsable, digital frugal, Green UX ; différenciation face aux agences généralistes |
-| Portefeuille clients installé | Cas clients B2B dans recrutement, produit, salon, institutionnel ; valeur à confirmer par contrats |
-| Equipe resserrée | 18-19 salariés, base opérationnelle déjà ajustée |
-| Actifs incorporels | Marque, méthodologie, photothèque / vidéothèque, noms de domaine, fichier clients |
-| Cadre distressed | Possibilité de repartir avec une structure de coûts redimensionnée |
+| Marque historique | Près de 50 ans d'existence, crédibilité locale difficile à reconstruire |
+| Ancrage Grand Est | Proximité PME, ETI industrielles, institutions et comptes régionaux |
+| Production intégrée | Photo, vidéo, rédaction, print, digital ; moins de dépendance à la sous-traitance |
+| Positionnement responsable | Print éco-responsable, digital frugal, Green UX ; angle RSE exploitable |
+| Portefeuille B2B | Cas clients recrutement, produit, salon, institutionnel ; valeur à confirmer par contrats |
+| Équipe resserrée | 18-19 salariés ; première réduction déjà engagée vs 21 en 2023 / 25 plaquette |
+| Incorporels | Marque, méthodologie, photothèque/vidéothèque, noms de domaine, fichier clients |
 
-**Un actif historique.** La valeur ne vient pas uniquement du chiffre d'affaires actuel, mais de l'ancienneté commerciale, du capital relationnel et de la capacité à réactiver une marque régionale connue.
+### Thèse chiffrée
 
-**Un outil à repositionner.** Le marché est attaqué par l'IA sur les productions simples, mais cela crée aussi une opportunité : industrialiser la production de contenus et vendre du conseil, de la vidéo, du social content, de la marque employeur et des workflows IA.
-
-## Slide 5 — Thèse de reprise, points de confirmation et disclaimer
-
-| Levier | Base chiffrée | Effet attendu |
+| Levier | Base | Effet |
 |---|---:|---|
-| Retour vers point mort | CA cible 2,4-2,6 M€ | Retour EBE positif |
-| Relance commerciale | CA historique prouvé ~3,0 M€ | Récupération partielle du volume |
-| Recalibrage social | 18-19 salariés actuels | Réduction du coût fixe par périmètre repris |
-| Suppression dette historique | PGE ~850 K€ non repris | Bilan de reprise allégé |
-| Charges transmises limitées | L.642-12 ~9,8 K€ | Faible friction bancaire directe |
-| Matériel revendiqué limité | 10-15 K€ remplacement | Sujet négociable, non bloquant |
-| BFR de redémarrage | 100-200 K€ | Besoin à anticiper dans l'offre |
+| Retour point mort | 2,4-2,6 M€ CA | EBE positif |
+| Relance commerciale | CA historique 3,0 M€ | Volume récupérable |
+| Recalibrage social | 18-19 salariés | Coût fixe ajusté |
+| Dette historique | PGE ~850 K€ | Non repris |
+| Charge L.642-12 | ~9,8 K€ | Impact limité |
+| Matériel revendiqué | 10-15 K€ | Négociable |
+| BFR redémarrage | 100-200 K€ | À financer |
 
-**Points à confirmer avant offre.** Statut procédural exact et possibilité effective de cession ; contrats clients transférables ; bail du site actuel ; état du passif ; liste d'effectif actualisée ; actifs incorporels disponibles ; matériel revendiqué et contrats de leasing.
+### Actions déjà engagées
 
-**Disclaimer.** Ce document constitue une présentation préliminaire et confidentielle d'une opportunité de reprise. Il ne constitue ni une offre, ni un mémorandum d'information, ni une recommandation d'investissement. Certaines informations d'identification sont volontairement omises à ce stade. Toute diffusion est interdite sans accord écrit préalable.
+| Action | Lecture |
+|---|---|
+| Plan d'économies 2023-25 | Effort de restructuration déjà amorcé |
+| Effectif 21 -> 18/19 | Base sociale déjà resserrée par non-remplacements |
+| Sous-traitance variabilisée | Modèle potentiellement plus flexible |
+| Primes direction supprimées | Charges non opérationnelles réduites |
+| Renforcement commercial | Tentative de relance à reprendre / challenger |
 
-Paul Roulleau — Brantham Partners  
-paul.roulleau@branthampartners.fr — 07 68 36 25 63
+### Points à confirmer
+
+| Sujet | Pourquoi c'est critique |
+|---|---|
+| Statut procédural | Sauvegarde : cession effective à clarifier |
+| Contrats clients | Transférabilité / concentration / CA récurrent |
+| Bail Strasbourg | Condition d'exploitation post-reprise |
+| État du passif | Privilèges et charges résiduelles |
+| Effectif actualisé | Volet social et congés payés repris |
+| PI / domaines / fichier | Valeur incorporelle à sécuriser |
+
+**Conclusion.** Le dossier n'est pas à vendre comme une agence saine, mais comme une plateforme régionale à relancer : marque ancienne, savoir-faire intégré, marge brute préservée, dette historique non reprise et point mort clairement identifiable.
+
+**Disclaimer.** Présentation préliminaire et confidentielle ; ne constitue ni une offre ni un mémorandum d'information. Informations d'identification volontairement omises à ce stade. Contact : Paul Roulleau — Brantham Partners.
