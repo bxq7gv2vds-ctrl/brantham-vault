@@ -17,3 +17,6 @@
 - **Enrichissement Pappers** : lancement...
   - 0 procedures enrichies
 - **Re-scoring** : lancement...
+  - OK
+- **Cycle termine** a 15:45
+---
