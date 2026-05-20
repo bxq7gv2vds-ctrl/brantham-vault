@@ -157,7 +157,7 @@ WHERE notes LIKE '%2026-04-23%' AND status = 'ENABLED';
 
 ## Related
 
-- [[_MOC|Quant Deep Dive Master MOC]]
+- [[brantham/polymarket/_MOC|Quant Deep Dive Master MOC]]
 - [[../odds-trajectories-v2-findings|Odds Trajectories v2 (global)]]
 - [[../STATE-HANDOFF|State Handoff]]
 - [[../city-optimization|City optimization log]]

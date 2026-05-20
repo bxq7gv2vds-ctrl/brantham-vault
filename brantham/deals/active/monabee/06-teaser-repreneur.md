@@ -82,7 +82,7 @@ paul.roulleau@branthampartners.fr
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/deals/active/monabee/_MOC]]
 - [[note-opportunite-repreneur]]
 - [[brantham/patterns/teaser-patterns]]
 - [[brantham/patterns/onboarding-distressed-ma]]

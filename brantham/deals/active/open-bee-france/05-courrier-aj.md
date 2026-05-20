@@ -63,6 +63,6 @@ paul.roulleau@branthampartners.fr
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/deals/active/open-bee-france/_MOC]]
 - [[04-strategie-brantham]]
 - [[brantham/templates/courrier-extension-nda-aj]]

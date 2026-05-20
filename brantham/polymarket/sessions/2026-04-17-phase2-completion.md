@@ -218,7 +218,7 @@ uv run scripts/ingest_nwp_daily.py --days 5
 
 ## Related
 
-- [[_MOC|Polymarket Hub]]
+- [[brantham/infra/_MOC|Polymarket Hub]]
 - [[architecture|Architecture]]
 - [[findings|Findings]]
 - [[decisions|Decisions]]

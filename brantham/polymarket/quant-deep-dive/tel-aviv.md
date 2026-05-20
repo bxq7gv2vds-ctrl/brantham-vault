@@ -81,7 +81,7 @@ Tel Aviv est le marché avec la **concentration de market makers la plus élevé
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/polymarket/quant-deep-dive/_MOC]]
 - [[../odds-trajectories-v2-findings]]
 - [[../per-city-deep-dive/tel-aviv|baseline Tel Aviv]]
 - [[../tier-s-v2-hedge-fund-gates]]

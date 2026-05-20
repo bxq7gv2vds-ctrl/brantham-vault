@@ -179,7 +179,7 @@ Plus ~2,500 lignes markdown dans le vault.
 
 ## Related
 
-- [[_MOC|Polymarket Hub]]
+- [[brantham/infra/_MOC|Polymarket Hub]]
 - [[architecture|Architecture]]
 - [[findings|Findings]]
 - [[decisions|Decisions]]

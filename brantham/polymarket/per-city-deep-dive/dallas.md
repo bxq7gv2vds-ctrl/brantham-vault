@@ -98,7 +98,7 @@ _Si bookies parfaits : WR ≈ centre du bin (calibration parfaite). Décalages =
 
 ## Related
 
-- [[_MOC|Per-city Deep Dive MOC]]
+- [[brantham/polymarket/per-city-deep-dive/_MOC|Per-city Deep Dive MOC]]
 - [[../_MOC|Polymarket Hub MOC]]
 - [[../odds-trajectories-v2-findings|Findings global v2]]
 - [[../city-optimization|City optimization log]]

@@ -155,7 +155,7 @@ research/outputs/
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/polymarket/_MOC]]
 - [[CONTINUATION-PROMPT]]
 - [[TODO-pending]]
 - [[ARCHITECTURE]]

@@ -35,7 +35,7 @@ Ville : **Chicago** (chicago) — 698 marchés, 398,810 trades, $2.12M volume.
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/polymarket/quant-deep-dive/_MOC]]
 - [[odds-trajectories-v2-findings]]
 - [[per-city-deep-dive/chicago|Deep Dive Baseline Chicago]]
 - [[tier-s-v2-hedge-fund-gates]]

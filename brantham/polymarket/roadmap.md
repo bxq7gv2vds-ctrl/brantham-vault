@@ -129,7 +129,7 @@ tags: [polymarket, roadmap, planning]
 
 ## Related
 
-- [[_MOC|Polymarket Hub]]
+- [[brantham/polymarket/_MOC|Polymarket Hub]]
 - [[architecture|Architecture]]
 - [[data-sources|Data sources]]
 - [[questions|Questions critiques]]

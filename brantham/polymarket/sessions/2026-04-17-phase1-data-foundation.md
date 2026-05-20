@@ -171,7 +171,7 @@ Backtest v1 + model v1 (session 2) :
 
 ## Related
 
-- [[_MOC|Polymarket Hub]]
+- [[brantham/infra/_MOC|Polymarket Hub]]
 - [[architecture|Architecture]]
 - [[findings|Findings]]
 - [[decisions|Décisions]]

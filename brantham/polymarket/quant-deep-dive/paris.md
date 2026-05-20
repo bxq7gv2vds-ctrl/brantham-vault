@@ -64,7 +64,7 @@ Paris est le seul marché **parfaitement calibré** des 5 villes (chi²=10.87, p
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/polymarket/quant-deep-dive/_MOC]]
 - [[../odds-trajectories-v2-findings]]
 - [[../per-city-deep-dive/paris|baseline Paris]]
 - [[../tier-s-v2-hedge-fund-gates]]

@@ -107,7 +107,7 @@ la série temporelle des `entry_price`. Compute :
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/polymarket/_MOC]]
 - [[research-findings-2026-04-21]]
 - [[tier-s-v2-hedge-fund-gates]]
 - [[dedup-bug-p-and-l-inflation]]

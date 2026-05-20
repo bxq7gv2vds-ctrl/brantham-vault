@@ -154,7 +154,7 @@ tags: [polymarket, data, nwp, observations, radar]
 
 ## Related
 
-- [[_MOC|Polymarket Hub]]
+- [[brantham/polymarket/_MOC|Polymarket Hub]]
 - [[architecture|Architecture hedge fund grade]]
 - [[model-design|Design modèle ML]]
 - [[roadmap|Roadmap phased]]

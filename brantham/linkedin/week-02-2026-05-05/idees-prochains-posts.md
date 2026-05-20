@@ -95,7 +95,7 @@ Cinq posts qui se renforcent, chacun avec un registre différent (moral / meme /
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/infra/_MOC]]
 - [[brantham/_MOC]]
 - [[brantham/linkedin/INDEX]]
 - [[brantham/linkedin/week-02-2026-05-05/post-06-distressed-moral-vautour]]

@@ -127,4 +127,4 @@ Jamais de pivot émotionnel vers crypto/sports. Discipline stratégique = notre 
 - [[hedge-fund-rigor-upgrade|Rigor upgrade]]
 - [[sessions/2026-04-20-meta-optimization|Meta-optimization session]]
 - [[STATE-HANDOFF]]
-- [[_MOC|Polymarket MOC]]
+- [[brantham/polymarket/_MOC|Polymarket MOC]]

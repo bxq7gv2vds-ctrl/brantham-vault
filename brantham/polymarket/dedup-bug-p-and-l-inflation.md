@@ -87,7 +87,7 @@ Le vrai signal de performance paper :
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/polymarket/_MOC]]
 - [[tier-s-v2-hedge-fund-gates]] (à revoir avec dedup)
 - [[research-findings-2026-04-21]]
 - [[TODO-pending]]

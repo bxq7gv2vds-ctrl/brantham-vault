@@ -125,7 +125,7 @@ priority: high
 
 ## Related
 
-- [[_MOC|Polymarket Hub MOC]]
+- [[brantham/polymarket/_MOC|Polymarket Hub MOC]]
 - [[odds-trajectories-findings|v1 — basé sur signal_log seul]]
 - [[ARCHITECTURE|Architecture map du stack]]
 - [[research-findings-2026-04-21|Research findings session 2026-04-21]]

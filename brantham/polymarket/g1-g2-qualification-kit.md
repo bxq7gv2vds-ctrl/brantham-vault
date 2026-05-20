@@ -185,7 +185,7 @@ Sans le kit, l'erreur classique : on part en paper shadow avec une strat qui a *
 
 ## Related
 
-- [[_MOC|Polymarket Hub MOC]]
+- [[brantham/polymarket/_MOC|Polymarket Hub MOC]]
 - [[STATE-HANDOFF|State Handoff — état complet]]
 - [[g1-g2-todo-tracker|Todo tracker — execution détaillée]]
 - [[gate-scorecard-spec|Gate scorecard — spec critères]]

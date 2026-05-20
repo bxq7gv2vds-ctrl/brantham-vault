@@ -162,7 +162,7 @@ Ajuster dans `src/pmhedge/alpha/signal_generator.py` → `SignalGenConfig`.
 
 ## Related
 
-- [[_MOC|Polymarket Hub]]
+- [[brantham/polymarket/_MOC|Polymarket Hub]]
 - [[architecture|Architecture]]
 - [[findings|Findings]]
 - [[roadmap|Roadmap]]

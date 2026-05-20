@@ -35,7 +35,7 @@ Ville : **Seattle** (seattle) — 1,011 marchés, 407,959 trades, $2.11M volume.
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/polymarket/quant-deep-dive/_MOC]]
 - [[odds-trajectories-v2-findings]]
 - [[per-city-deep-dive/seattle|Deep Dive Baseline Seattle]]
 - [[tier-s-v2-hedge-fund-gates]]

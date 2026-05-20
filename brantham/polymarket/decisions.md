@@ -161,7 +161,7 @@ Log chronologique des décisions prises avec le raisonnement et les alternatives
 
 ## Related
 
-- [[_MOC|Polymarket Hub]]
+- [[brantham/polymarket/_MOC|Polymarket Hub]]
 - [[architecture|Architecture détaillée]]
 - [[roadmap|Roadmap avec rationales]]
 - [[questions|Framework questions]]

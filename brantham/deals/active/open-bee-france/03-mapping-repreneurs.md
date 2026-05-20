@@ -172,7 +172,7 @@ Si **aucune réponse à J+7** sur ces 5 cibles → pivot ou abandon du dossier.
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/deals/active/open-bee-france/_MOC]]
 - [[01-fiche-cible]]
 - [[04-strategie-brantham]]
 - [[06-teaser-repreneur]]

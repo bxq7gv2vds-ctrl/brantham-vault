@@ -74,7 +74,7 @@ Grille révisée Brantham (CA 3-10 M€) : **7 k€ engagement + 7 k€ closing 
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/deals/active/open-bee-france/_MOC]]
 - [[01-fiche-cible]]
 - [[04-strategie-brantham]]
 - [[brantham/founder/decisions/2026-04-24-pricing-7k-7k-petits-tickets]]

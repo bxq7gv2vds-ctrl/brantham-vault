@@ -155,5 +155,5 @@ Paul seul décide sunset permanent (décision capital). Sunset temporaire + de-s
 - [[economic-thesis|Economic thesis — lifetime expected]]
 - [[failure-modes|Failure modes — liens vers sunset]]
 - [[STATE-HANDOFF]]
-- [[_MOC|Polymarket Hub]]
+- [[brantham/polymarket/_MOC|Polymarket Hub]]
 - [[../../_system/MOC-decisions|Decisions MOC]]

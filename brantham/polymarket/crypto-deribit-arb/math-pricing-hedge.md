@@ -215,6 +215,6 @@ Au-delà : Sharpe se dégrade, edge meurt.
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/polymarket/crypto-deribit-arb/_MOC]]
 - [[architecture]]
 - [[risks-mitigation]]

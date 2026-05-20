@@ -173,7 +173,7 @@ Top 10 approved :
 
 ## Related
 
-- [[_MOC|Polymarket Hub]]
+- [[brantham/infra/_MOC|Polymarket Hub]]
 - [[architecture|Architecture]]
 - [[findings|Findings]]
 - [[decisions|Decisions]]

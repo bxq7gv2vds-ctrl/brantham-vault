@@ -108,7 +108,7 @@ Walk-forward OOS (4 windows) :
 
 ## Related
 
-- [[_MOC|Polymarket Hub]]
+- [[brantham/polymarket/_MOC|Polymarket Hub]]
 - [[architecture|Architecture cible]]
 - [[backtest-results/2026-04-17-baseline|Baseline backtest details]]
 - [[sessions/2026-04-17-diagnostic-and-alpha-engine|Session log]]

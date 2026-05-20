@@ -35,7 +35,7 @@ Ville : **Wellington** (wellington) — 684 marchés, 312,315 trades, $2.46M vol
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/polymarket/quant-deep-dive/_MOC]]
 - [[odds-trajectories-v2-findings]]
 - [[per-city-deep-dive/wellington|Deep Dive Baseline Wellington]]
 - [[tier-s-v2-hedge-fund-gates]]

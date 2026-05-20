@@ -79,7 +79,7 @@ Voir [[03-mapping-repreneurs]] pour la liste détaillée avec noms des CEOs.
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/deals/active/open-bee-france/_MOC]]
 - [[03-mapping-repreneurs]]
 - [[05-courrier-aj]]
 - [[06-teaser-repreneur]]

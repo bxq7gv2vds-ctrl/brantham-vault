@@ -325,7 +325,7 @@ KMP_DUPLICATE_LIB_OK=TRUE uv run scripts/ablation_study.py --per-city --window 3
 
 ## Related
 
-- [[_MOC|Polymarket Hub MOC]]
+- [[brantham/polymarket/_MOC|Polymarket Hub MOC]]
 - [[g1-g2-qualification-kit|G1→G2 Qualification Kit (initiative courante)]]
 - [[g1-g2-todo-tracker|Todo tracker Kit]]
 - [[gate-scorecard-spec|Gate scorecard spec]]

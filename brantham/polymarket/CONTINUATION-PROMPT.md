@@ -152,4 +152,4 @@ launchctl kickstart -k gui/501/com.paul.polymarket-alpha-live-runner
 - [[research-findings-2026-04-21]] — pôle stats findings
 - [[ARCHITECTURE]]
 - [[TODO-pending]]
-- [[_MOC]]
+- [[brantham/polymarket/_MOC]]

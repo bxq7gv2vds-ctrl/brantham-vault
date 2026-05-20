@@ -180,7 +180,7 @@ Premier scan live avec toute la stack active :
 
 ## Related
 
-- [[_MOC|Polymarket Hub]]
+- [[brantham/infra/_MOC|Polymarket Hub]]
 - [[STATE-HANDOFF|State handoff complet]]
 - [[audit-hedge-fund-grade|Audit hedge fund grade]]
 - [[TODO-pending|TODO priorisé]]

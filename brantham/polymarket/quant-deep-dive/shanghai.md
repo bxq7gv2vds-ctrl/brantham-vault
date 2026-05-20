@@ -69,7 +69,7 @@ Shanghai est le marché le **plus jeune** (26 jours) mais avec le **volume par m
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/polymarket/quant-deep-dive/_MOC]]
 - [[../odds-trajectories-v2-findings]]
 - [[../per-city-deep-dive/shanghai|baseline Shanghai]]
 - [[../tier-s-v2-hedge-fund-gates]]

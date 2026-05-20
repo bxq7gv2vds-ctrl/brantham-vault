@@ -138,4 +138,4 @@ Estimated G2 completion: 2026-05-20
 - [[failure-modes|Failure modes catalog]]
 - [[strategy-lifecycle|Strategy lifecycle]]
 - [[STATE-HANDOFF]]
-- [[_MOC|Polymarket Hub]]
+- [[brantham/polymarket/_MOC|Polymarket Hub]]

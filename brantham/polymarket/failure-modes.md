@@ -147,5 +147,5 @@ Pour G1 PASS : **>= 8 modes cataloged**. Actuel : **12**. PASS.
 - [[strategy-lifecycle|Strategy lifecycle — quand tuer la strat]]
 - [[economic-thesis|Economic thesis — quand le edge meurt]]
 - [[STATE-HANDOFF]]
-- [[_MOC|Polymarket Hub]]
+- [[brantham/polymarket/_MOC|Polymarket Hub]]
 - [[../../_system/MOC-bugs|Bugs MOC]]

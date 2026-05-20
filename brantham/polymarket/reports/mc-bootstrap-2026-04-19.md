@@ -44,6 +44,6 @@ Source: 2 distinct days of paper P&L, block size 5d, horizon 250d, N_boot = 3000
 - Assumes stationarity of the daily return distribution.
 
 ## Related
-- [[_MOC|Polymarket Hub]]
+- [[brantham/infra/_MOC|Polymarket Hub]]
 - [[audit-hedge-fund-grade|Audit]]
 - [[sessions/2026-04-19-hedge-fund-grade-upgrades|Session 2026-04-19]]

@@ -250,7 +250,7 @@ Après `run_alpha_live.py --once` :
 
 ## Related
 
-- [[_MOC|Polymarket Hub]]
+- [[brantham/polymarket/_MOC|Polymarket Hub]]
 - [[architecture|Architecture]]
 - [[deep-learning-roadmap|Deep Learning Roadmap]]
 - [[quick-start|Quick-start]]

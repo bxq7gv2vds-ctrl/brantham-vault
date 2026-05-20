@@ -65,7 +65,7 @@ Sao Paulo est le marché le **moins liquide** ($1.07M volume) et le **moins pré
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/polymarket/quant-deep-dive/_MOC]]
 - [[../odds-trajectories-v2-findings]]
 - [[../per-city-deep-dive/sao-paulo|baseline Sao Paulo]]
 - [[../tier-s-v2-hedge-fund-gates]]

@@ -92,7 +92,7 @@ siren: "504389446"
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/deals/active/open-bee-france/_MOC]]
 - [[02-analyse-financiere]]
 - [[03-mapping-repreneurs]]
 - [[brantham/knowledge/concepts/plateforme-agreee-facture-electronique]]

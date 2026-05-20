@@ -35,7 +35,7 @@ Ville : **Toronto** (toronto) — 1,024 marchés, 357,387 trades, $2.00M volume.
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/polymarket/quant-deep-dive/_MOC]]
 - [[odds-trajectories-v2-findings]]
 - [[per-city-deep-dive/toronto|Deep Dive Baseline Toronto]]
 - [[tier-s-v2-hedge-fund-gates]]

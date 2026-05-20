@@ -80,7 +80,7 @@ Mitigation : marquer pending, exclure du portfolio Greeks live, attendre résolu
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/polymarket/crypto-deribit-arb/_MOC]]
 - [[math-pricing-hedge]]
 - [[architecture]]
 - [[../failure-modes]] — failure modes strat météo (référence)

@@ -311,7 +311,7 @@ tags: [polymarket, audit, hedge-fund, gap-analysis]
 
 ## Related
 
-- [[_MOC|Polymarket Hub]]
+- [[brantham/polymarket/_MOC|Polymarket Hub]]
 - [[STATE-HANDOFF|State complet]]
 - [[TODO-pending|TODO priorisé]]
 - [[sessions/2026-04-18-overnight-model-upgrades|Session overnight 2026-04-18]]

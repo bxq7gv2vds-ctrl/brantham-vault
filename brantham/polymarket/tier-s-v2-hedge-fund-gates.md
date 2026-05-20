@@ -91,7 +91,7 @@ Conséquence : capacity réduite mais edge-per-trade plus pur. Pour scale :
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/polymarket/_MOC]]
 - [[TODO-pending]]
 - [[research-findings-2026-04-21]]
 - [[CONTINUATION-PROMPT]]

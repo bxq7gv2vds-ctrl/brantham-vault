@@ -104,6 +104,6 @@ Paul Roulleau — Brantham Partners
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/deals/active/open-bee-france/_MOC]]
 - [[03-mapping-repreneurs]]
 - [[06-teaser-repreneur]]

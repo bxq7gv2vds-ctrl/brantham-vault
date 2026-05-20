@@ -132,5 +132,5 @@ Sans ce sentinel, `gate_scorecard.py --gate G1` return FAIL.
 - [[strategy-lifecycle|Strategy lifecycle — sunset criteria]]
 - [[failure-modes|Failure modes]]
 - [[STATE-HANDOFF]]
-- [[_MOC|Polymarket Hub]]
+- [[brantham/polymarket/_MOC|Polymarket Hub]]
 - [[../../_system/MOC-decisions|MOC Decisions]]

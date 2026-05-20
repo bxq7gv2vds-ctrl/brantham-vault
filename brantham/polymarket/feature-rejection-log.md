@@ -152,4 +152,4 @@ diverses climatiquement.
 - [[failure-modes|Failure modes]]
 - [[strategy-lifecycle|Lifecycle]]
 - [[STATE-HANDOFF]]
-- [[_MOC|Polymarket MOC]]
+- [[brantham/polymarket/_MOC|Polymarket MOC]]

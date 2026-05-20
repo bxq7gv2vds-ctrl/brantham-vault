@@ -86,7 +86,7 @@ Mais avec caveat : magnitude probablement gonfl√©e par BS naive. Re-mesurer apr√
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/polymarket/crypto-deribit-arb/_MOC]]
 - [[architecture]]
 - [[math-pricing-hedge]]
 - [[roadmap]]

@@ -135,7 +135,7 @@ Réaliste (÷3) = **$80/jour = $29k/an** sur Mexico City. Cohérent avec $18k-$2
 
 ## Related
 
-- [[_MOC|Polymarket Hub]]
+- [[brantham/infra/_MOC|Polymarket Hub]]
 - [[architecture|Architecture]]
 - [[findings|Findings diagnostics]]
 - [[reports/city-focused-projection-2026-04-17|Report markdown du backtest]]

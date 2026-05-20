@@ -61,5 +61,5 @@ Mais franchement : meilleure décision de ma vie.
 Merci à tous, c'est aussi grâce à vous ça. ❤️17d:["$","$L1ca",null,{"textProps":{"fontFamily":"sans","fontSize":"small
 
 ## Related
-- [[_MOC]]
+- [[brantham/infra/_MOC]]
 - [[brantham/_MOC]]

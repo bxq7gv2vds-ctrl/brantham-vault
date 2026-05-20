@@ -131,7 +131,7 @@ Sources :
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/infra/_MOC]]
 - [[brantham/_MOC]]
 - [[brantham/linkedin/INDEX]]
 - [[brantham/strategy/2026-03-15-linkedin-personal-brand]]

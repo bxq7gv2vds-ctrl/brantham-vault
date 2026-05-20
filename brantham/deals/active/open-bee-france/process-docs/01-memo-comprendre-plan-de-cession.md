@@ -108,7 +108,7 @@ C'est un format exigeant en rythme, mais **plus sécurisant qu'une acquisition c
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/infra/_MOC]]
 - [[02-faq-reprise-distressed]]
 - [[03-checklist-repreneur]]
 - [[brantham/patterns/onboarding-distressed-ma]]

@@ -59,7 +59,7 @@ Miami est le march√© le **plus liquide et le plus ancien** du corpus (697 march√
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/polymarket/quant-deep-dive/_MOC]]
 - [[../odds-trajectories-v2-findings]]
 - [[../per-city-deep-dive/miami|baseline Miami]]
 - [[../tier-s-v2-hedge-fund-gates]]

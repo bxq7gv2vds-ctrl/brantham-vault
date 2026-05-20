@@ -149,4 +149,4 @@ Non-implémenté mais documenté :
 - [[hedge-fund-rigor-upgrade|Rigor Upgrade]]
 - [[g1-g2-qualification-kit|G1→G2 Framework]]
 - [[STATE-HANDOFF]]
-- [[_MOC]]
+- [[brantham/infra/_MOC]]

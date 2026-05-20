@@ -136,4 +136,4 @@ Aucun critère G1 n'est remis en cause par cet audit. Cependant :
 - [[sessions/2026-04-20-execution-performance-kit|Execution & Perf Kit session]]
 - [[sessions/2026-04-20-g1-g2-kit-build|G1-G2 Kit build session]]
 - [[STATE-HANDOFF]]
-- [[_MOC|Polymarket MOC]]
+- [[brantham/polymarket/_MOC|Polymarket MOC]]

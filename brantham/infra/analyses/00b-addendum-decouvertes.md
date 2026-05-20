@@ -9,7 +9,7 @@ source: "Lecture des 10 PDFs OCR-isés (DCP, comptes 2025, état inscriptions, r
 
 # ADDENDUM — DÉCOUVERTES POST-OCR INFRA
 
-> Ce document complète [[00-analyse-complete]] avec les éléments extraits par OCR de
+> Ce document complète [[brantham/infra/analyses/00-analyse-complete]] avec les éléments extraits par OCR de
 > 10 fichiers image de la dataroom. Les conclusions du document maître sont
 > **renforcées et précisées** par ces lectures. Aucun deal-breaker neuf, mais 4
 > nouvelles précisions chiffrées + 2 corrections.
@@ -226,8 +226,8 @@ D'après les annexes du DCP, le dirigeant a déposé avec sa demande de sauvegar
 
 ## Related
 
-- [[infra/_MOC]]
-- [[infra/analyses/00-analyse-complete]]
+- [[brantham/infra/_MOC]]
+- [[brantham/infra/analyses/00-analyse-complete]]
 - [[infra/dataroom/2 - PROCEDURE COLLECTIVE/DCP ANONYME]]
 - [[infra/dataroom/9 - SURETES, REVENDICATIONS, CRP, DROITS DE RETENTION/ETAT CERTIFIE DES INSCRIPTIONS]]
 - [[infra/dataroom/9 - SURETES, REVENDICATIONS, CRP, DROITS DE RETENTION/REVENDICATION GRENKE]]

@@ -90,7 +90,7 @@ Le système peut :
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/polymarket/_MOC]]
 - [[dedup-bug-p-and-l-inflation]]
 - [[odds-trajectories-findings]]
 - [[research-findings-2026-04-21]]

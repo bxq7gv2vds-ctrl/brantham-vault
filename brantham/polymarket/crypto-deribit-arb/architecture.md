@@ -219,7 +219,7 @@ Pas critique pour cette stratégie (rebalance 60s). Mais pour info :
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/polymarket/crypto-deribit-arb/_MOC]]
 - [[math-pricing-hedge]]
 - [[risks-mitigation]]
 - [[roadmap]]

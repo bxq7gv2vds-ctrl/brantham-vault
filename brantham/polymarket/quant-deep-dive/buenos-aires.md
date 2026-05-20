@@ -35,7 +35,7 @@ Ville : **Buenos Aires** (buenos-aires) — 1,013 marchés, 353,565 trades, $1.9
 
 ## Related
 
-- [[_MOC]]
+- [[brantham/polymarket/quant-deep-dive/_MOC]]
 - [[odds-trajectories-v2-findings]]
 - [[per-city-deep-dive/buenos-aires|Deep Dive Baseline Buenos Aires]]
 - [[tier-s-v2-hedge-fund-gates]]

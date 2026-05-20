@@ -247,7 +247,7 @@ tags: [polymarket, deep-learning, foundation-models, transformer, rl]
 
 ## Related
 
-- [[_MOC|Polymarket Hub]]
+- [[brantham/polymarket/_MOC|Polymarket Hub]]
 - [[architecture|Architecture]]
 - [[data-sources|Data sources]]
 - [[quick-start|Quick-start]]

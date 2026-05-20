@@ -108,4 +108,4 @@ Quand **wallet + py-clob-client** arrivent :
 - [[sessions/2026-04-20-execution-performance-kit|Execution & Perf Kit]]
 - [[g1-g2-qualification-kit|G1→G2 Framework]]
 - [[STATE-HANDOFF]]
-- [[_MOC]]
+- [[brantham/infra/_MOC]]

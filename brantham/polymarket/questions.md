@@ -146,7 +146,7 @@ Framework systématique pour ne rien oublier. À revisiter à chaque itération 
 
 ## Related
 
-- [[_MOC|Polymarket Hub]]
+- [[brantham/polymarket/_MOC|Polymarket Hub]]
 - [[architecture|Architecture]]
 - [[roadmap|Roadmap]]
 - [[risk-management|Risk management détaillé]]

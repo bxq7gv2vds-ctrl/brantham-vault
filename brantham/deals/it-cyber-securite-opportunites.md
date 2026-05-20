@@ -209,6 +209,6 @@ tags:
 
 ## Related
 
-- [[_MOC]] — Index principal Brantham Partners
+- [[brantham/deals/_MOC]] — Index principal Brantham Partners
 - [[_system/MOC-deals]] — Tous les deals actifs
 - [[brantham/knowledge/sectors/tech-startups]] — Playbook sectoriel tech

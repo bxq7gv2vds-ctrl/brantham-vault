@@ -589,4 +589,4 @@ KMP_DUPLICATE_LIB_OK=TRUE uv run scripts/dashboard_quant.py --once
 - [[CONTINUATION-PROMPT|Prompt next session]]
 - [[weather-domination-strategy|Weather domination strategy]]
 - [[g1-g2-qualification-kit|G1→G2 Kit]]
-- [[_MOC|Polymarket Hub MOC]]
+- [[brantham/polymarket/_MOC|Polymarket Hub MOC]]
