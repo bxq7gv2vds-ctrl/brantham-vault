@@ -46,7 +46,7 @@ source: live-feed-scan + web-search
 
 ### 6. @zostaff — 168 likes, 28K views, 209 bookmarks
 "I BUILT A BOT THAT SEES THE FUTURE 8 SECONDS AHEAD"
-- Quote tweet de @0xWast3 sur front-running Polymarket
+- Quote tweet de @0xWast3 sur front-running marchés de prédiction
 - **Pattern:** hook sensationnaliste + explication technique + 209 bookmarks = contenu saveable
 
 ### 7. @noahzweben — 88 likes, 9.5K views (officiel Anthropic)

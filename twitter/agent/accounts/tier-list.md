@@ -35,7 +35,7 @@ last_scan: 2026-03-26
 
 ## Tier 3 — A decouvrir / observer
 - @arafatkatze — multi-agent orchestration, 427 likes sur Cline take
-- @zostaff — builder bots, 209 bookmarks sur Polymarket bot
+- @zostaff — builder bots, 209 bookmarks sur bot marché de prédiction
 - @sawyerhood — dev-browser CLI, Playwright agent approach
 - @plbiojout — NanoCorp (YC), AI autonomous company
 - @enfantdlajungle (Mowgli) — FR, engagement decent
