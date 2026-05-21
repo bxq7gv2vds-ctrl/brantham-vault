@@ -34,7 +34,6 @@ Cabinet M&A AI — PME en difficulté, France. Client = **repreneur** (pas manda
 - [[brantham/pappers/_MOC]] — intel entreprises (Pappers MCP)
 - [[brantham/linkedin-factory/_MOC]] — contenu LinkedIn v2
 - [[brantham/tc-paris-extraction/_MOC]] — dataset greffe Paris
-- [[brantham/polymarket/_MOC]] — side project trading (hors M&A)
 
 ## Équipe
 
