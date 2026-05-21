@@ -1036,7 +1036,7 @@ Le simulateur est irréplicable sans :
 
 Simuler un marché M&A avec des agents LLM autonomes qui évaluent, biddent et négocient des deals. Le consensus émergent de 25-50 agents produit un signal prédictif complémentaire au scoring quantitatif.
 
-**Analogie** : ce que Polymarket fait avec des parieurs humains, le swarm le fait avec des agents LLM spécialisés — chacun a un profil, une thèse, des contraintes de capital. Le prix de marché émergent = probabilité de cession.
+**Analogie** : ce qu'un marché de prédiction fait avec des parieurs humains, le swarm le fait avec des agents LLM spécialisés — chacun a un profil, une thèse, des contraintes de capital. Le prix de marché émergent = probabilité de cession.
 
 ### État actuel (v0.1)
 

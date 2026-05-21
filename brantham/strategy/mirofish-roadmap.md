@@ -14,7 +14,7 @@ status: active
 
 Simuler un marche M&A avec des agents LLM autonomes qui evaluent, biddent et negotient des deals. Le consensus emergent de 25-50 agents produit un signal predictif complementaire au scoring quant (Cox, Bayesian, MC). C'est du prediction market applique au M&A distressed, avec des agents au lieu de traders humains.
 
-**Analogie** : ce que Polymarket fait avec des parieurs humains, MiroFish le fait avec des agents LLM specialises — chacun a un profil, un thesis, des contraintes de capital. Le prix de marche emergent = probabilite de cession.
+**Analogie** : ce qu'un marché de prédiction fait avec des parieurs humains, MiroFish le fait avec des agents LLM spécialisés — chacun a un profil, un thesis, des contraintes de capital. Le prix de marche emergent = probabilite de cession.
 
 ---
 
@@ -209,7 +209,7 @@ Le swarm fait des deals.
 | Projet | Ce qu'on prend |
 |--------|---------------|
 | **OASIS (camel-ai)** | Architecture agent graph + social simulation |
-| **Polymarket** | Prediction market mechanics, price discovery par consensus |
+| **Marchés de prédiction** | Mécaniques price discovery par consensus |
 | **Robin Hood (Citadel)** | Market making, order flow analysis |
 | **AlphaFold** | Self-play pour decouvrir des structures — ici des valuations |
 | **MiroFish** | Swarm intelligence, comportement emergent, stigmergie |

@@ -35,6 +35,15 @@ Rendre le vault plus léger, navigable, et supprimer le contenu hors-sujet ou re
 
 339 Mo → **58 Mo**
 
+## Purge Polymarket (2026-05-21)
+
+Suppression complète du side project trading :
+
+- `brantham/polymarket/` (~388 fichiers, 2 Mo)
+- `patterns/polymarket-*`, `founder/data/polymarket-v2a-*`, sessions/decisions founder
+- `lat-arb-bot/`, `weather-sell96c.md`, bugs polymarket
+- Références retirées des MOCs (`_MOC`, `MOC-master`, `MOC-patterns`, `MOC-decisions`)
+
 ## Related
 
 - [[brantham/_MOC]]
