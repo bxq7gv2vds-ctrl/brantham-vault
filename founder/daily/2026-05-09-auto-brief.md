@@ -83,3 +83,4 @@ Prochaines dates AJ confirmees : 15/06/2026 (HOTEL KYRIAD + ORPHEUS).
 ---
 
 *Genere automatiquement le 2026-05-09 par Claude Code.*
+## Related

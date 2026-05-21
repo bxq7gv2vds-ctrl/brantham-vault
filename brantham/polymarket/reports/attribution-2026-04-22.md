@@ -79,6 +79,6 @@ type: report
 | MODEL_VS_MARKET | 02h | 29 | 86.2% | $+93.95 |
 
 ## Related
-- [[brantham/deals/active/infra/_MOC|Polymarket Hub]]
+- [[brantham/polymarket/_MOC|Polymarket Hub]]
 - [[STATE-HANDOFF|State handoff]]
 - [[audit-hedge-fund-grade|Audit hedge fund grade]]

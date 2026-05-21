@@ -37,3 +37,7 @@ Création de `Brantham CRM V3` (ID Drive: `1u9iSLIaWAZONf3YT5lqqkNDkL6_j5w_L`) �
 ## Fichiers liés
 - Drive: https://docs.google.com/spreadsheets/d/1u9iSLIaWAZONf3YT5lqqkNDkL6_j5w_L/edit
 - Ancien CRM (à archiver) : https://docs.google.com/spreadsheets/d/17A4wLby1U_DAZodtKJy1RlsPl4ubM1UG8NgSCA7rxFc/edit
+## Related
+
+- [[_system/MOC-decisions]]
+- [[brantham/_MOC]]

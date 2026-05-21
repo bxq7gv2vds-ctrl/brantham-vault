@@ -110,3 +110,4 @@ Fichier : `post-3-pyramide-creanciers-lp.html`.
 - [ ] Vérifier les % de récupération moyens (cohérents avec [knowledge/finance/financial-modeling-distressed]).
 - [ ] Confirmer l'ordre exact (notamment new money vs privilège de procédure selon les cas).
 - [ ] S'assurer que la simplification ne génère pas de polémique chez les avocats restructuring (Stehlin, Pelletier, etc.).
+## Related

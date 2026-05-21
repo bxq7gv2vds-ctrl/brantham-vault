@@ -41,4 +41,4 @@ Utiliser cette skill pour analyser une data room, produire une synthese de due d
 - Ne pas conclure au-dela des documents disponibles.
 - Toujours citer fichier/page/section si disponible.
 - Signaler les incertitudes et limites.
-
+## Related

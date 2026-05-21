@@ -42,6 +42,6 @@ Actionable: if ECE stays high across 7 days of sliding window and N > 30, reduce
 
 ## Related
 
-- [[brantham/deals/active/infra/_MOC|Hub]]
+- [[brantham/polymarket/_MOC|Hub]]
 - [[TODO-pending]]
 - [[STATE-HANDOFF]]

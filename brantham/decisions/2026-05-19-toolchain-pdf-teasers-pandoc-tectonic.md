@@ -79,3 +79,7 @@ Idem pour `booktabs`, `longtable`, `array` — pandoc les charge automatiquement
 
 - Teaser INFRA Strasbourg (2026-05-19), 46 Ko, 7 pages
 - Visuellement identique au teaser Open-Bee
+## Related
+
+- [[_system/MOC-decisions]]
+- [[brantham/_MOC]]

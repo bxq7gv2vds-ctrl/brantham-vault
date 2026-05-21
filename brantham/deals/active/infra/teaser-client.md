@@ -101,3 +101,4 @@ Marque historique du Grand Est — près de 50 ans d'existence — procédure co
 **Conclusion.** Le dossier n'est pas à vendre comme une agence saine, mais comme une plateforme régionale à relancer : marque ancienne, savoir-faire intégré, marge brute préservée, dette historique non reprise et point mort clairement identifiable.
 
 **Disclaimer.** Présentation préliminaire et confidentielle ; ne constitue ni une offre ni un mémorandum d'information. Informations d'identification volontairement omises à ce stade. Contact : Paul Roulleau — Brantham Partners.
+## Related

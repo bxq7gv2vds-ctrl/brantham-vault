@@ -162,3 +162,4 @@ Miroir Google Drive : `DEALS/INFRA/DATA ROOM/` ([lien](https://drive.google.com/
 4. Dataroom non OCR-isée à la source — 9 PDFs sur 28 étaient en image. **OCR fait localement le 19/05/2026 (`/tmp/infra_ocr/`)**.
 5. Conventional CC publicité : protection salariés forte, masse salariale rigide à 12 mois.
 6. Mix matériel revendiqué (5 items GRENKE+MUTUALEASE) faible : pas un blocage, mais à négocier.
+## Related

@@ -43,4 +43,4 @@ Utiliser cette skill pour audits website, SEO/GEO, contenus, scripts internes, U
 - Pas de publication/deploiement sans validation.
 - Pas de preuve client inventee.
 - Respect des conventions du repo.
-
+## Related

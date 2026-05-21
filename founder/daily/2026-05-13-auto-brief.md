@@ -104,3 +104,4 @@ Note : H&A LOCATION est en co-désignation CBF Associés / Maître CAVIGLIOLI.
 
 *Généré automatiquement le 2026-05-13 -- PostgreSQL hors ligne, scores DB indisponibles.*
 *Sources : aj_annonces.json (scan 2026-05-12), deals/ (19 dossiers), CONTEXT.md*
+## Related
