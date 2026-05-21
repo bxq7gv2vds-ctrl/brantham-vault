@@ -100,3 +100,4 @@ Une fois les ~500 JSONs produits, lancer agent d'agrégation Python qui :
 - Phase 2 : 1 agent agrégation + 1 agent rédaction = 30-45 min
 - **Total : ~3h end-to-end**
 ## Related
+## Related

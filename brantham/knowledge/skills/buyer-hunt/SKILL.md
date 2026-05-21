@@ -45,3 +45,4 @@ Utiliser cette skill pour rechercher, qualifier, scorer et documenter des repren
 - Pas de contact automatique.
 - Faits et hypotheses separes.
 ## Related
+## Related

@@ -44,3 +44,4 @@ Utiliser cette skill pour rediger emails d'approche, relances, introductions, de
 - Ne jamais promettre une condition non validee.
 - Ne jamais inclure donnees sensibles sans validation.
 ## Related
+## Related

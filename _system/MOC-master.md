@@ -46,10 +46,10 @@ Single source of truth for all Brantham Partners knowledge.
 | Architecture | [[brantham/architecture]] |
 | **Pappers Intelligence** | **[[brantham/pappers/_MOC]]** |
 
-## Quick Stats (2026-03-15)
+## Quick Stats (2026-05-21)
 
-- Deals in pipeline: 1 (MLD — teaser_redige, deadline 17/03)
-- Deals archived: 600+
-- Revenue: 0 EUR
+- Deals actifs vault: 7 — voir [[brantham/deals/_MOC]]
+- Revenue signé: 14 k€ HT (Magic Form)
+- Vault brantham: ~58 Mo (restructuré 2026-05-21)
 - Website pages: 19 indexables (glossaire 192 termes, barometre, pillar, article, accueil, 4 services, 4 guides, insights, legal x4, avertissement)
 - DB: 1.8M BODACC, 184K procedures, 43+ tables

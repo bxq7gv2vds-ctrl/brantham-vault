@@ -40,3 +40,4 @@ Utiliser cette skill pour analyser contrats, statuts, baux, contentieux, mandats
 - Toujours signaler incertitudes et limites.
 - Ne jamais inventer clause, obligation, partie ou date.
 ## Related
+## Related

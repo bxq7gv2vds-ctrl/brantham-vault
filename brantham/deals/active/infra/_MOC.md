@@ -128,7 +128,7 @@ Agence-conseil en communication. **Sites : Strasbourg / Lyon / Paris**.
 ## Dataroom
 
 Source : [aj-dataroom.fr](https://www.aj-dataroom.fr/assets/filemanager.php?company=zxhi2cpaqzhy&token_s=QxEL9ATQdufA9HJO) — affaire **1487**, société `zxhi2cpaqzhy`.
-Téléchargée le **2026-05-19** dans [`dataroom/`](dataroom/) : **28 fichiers, ~106 MB**.
+Téléchargée le **2026-05-19** — index vault : [[brantham/deals/active/infra/dataroom/README]] (PDFs sur Google Drive, plus dans le vault).
 Miroir Google Drive : `DEALS/INFRA/DATA ROOM/` ([lien](https://drive.google.com/drive/folders/1lqLInhYDe_SkGoz0u8mM20Ktv3hGtj1e)).
 
 **Pièces critiques absentes** (à demander à l'AJ) :
@@ -162,4 +162,5 @@ Miroir Google Drive : `DEALS/INFRA/DATA ROOM/` ([lien](https://drive.google.com/
 4. Dataroom non OCR-isée à la source — 9 PDFs sur 28 étaient en image. **OCR fait localement le 19/05/2026 (`/tmp/infra_ocr/`)**.
 5. Conventional CC publicité : protection salariés forte, masse salariale rigide à 12 mois.
 6. Mix matériel revendiqué (5 items GRENKE+MUTUALEASE) faible : pas un blocage, mais à négocier.
+## Related
 ## Related

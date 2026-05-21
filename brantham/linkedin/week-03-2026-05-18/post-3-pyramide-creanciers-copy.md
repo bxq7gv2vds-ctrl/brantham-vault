@@ -111,3 +111,4 @@ Fichier : `post-3-pyramide-creanciers-lp.html`.
 - [ ] Confirmer l'ordre exact (notamment new money vs privilège de procédure selon les cas).
 - [ ] S'assurer que la simplification ne génère pas de polémique chez les avocats restructuring (Stehlin, Pelletier, etc.).
 ## Related
+## Related
