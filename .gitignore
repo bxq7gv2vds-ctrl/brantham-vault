@@ -4,5 +4,12 @@
 # QMD index (rebuilt locally)
 .qmd/
 
+# Binaires & dumps (hors scope markdown)
+brantham/deals/**/dataroom/**/*.pdf
+brantham/deals/**/dataroom/**/*.PDF
+brantham/knowledge/raw/**/*.pdf
+**/__pycache__/
+*.pyc
+
 # OS
 .DS_Store
