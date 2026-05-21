@@ -56,7 +56,6 @@ Vault Obsidian indépendant (1347 docs). Pipeline raw → concepts → drafts �
 | `teasers/` | teasers générés |
 | `linkedin/` + `linkedin-factory/` | fabrique LinkedIn (posts, design system, formats internationaux) |
 | `strategy/` | `mirofish-*` (vision/roadmap/todo), `webapp-roadmap.md`, `roadmap-platform-2026.md` |
-| `polymarket/` | side-project trading (architecture, city-reports, quant-deep-dive, sessions, reports daily) — ~250 fichiers |
 | `cowork-prompts/` | prompts agents Cowork (sourcing, pipeline-check, deal-analysis, buyer-hunt, morning-brief, outreach-draft) |
 | `templates/` | `lettre-de-mission.md`, `note-cadrage-deal.md`, `courrier-extension-nda-aj.md` |
 | `corp/` | `brantham-corp-identite.md` |
@@ -156,17 +155,14 @@ Sous-nœuds : `deal-scoring` (5 critères, seuil ≥60/100, secteurs A/B/C/D, pr
 
 ## 7. Crons / automatisations (launchd)
 - `com.brantham.daily.plist` — pipeline data 07h00.
-- `com.paul.polymarket-oracle-scan-0907 / -1032 / -1617` — scans Polymarket.
-- `com.paul.polymarket-daily-pnl` — P&L quotidien 09h00.
 - Cron daily relances outreach (cockpit web).
 
 ## 8. Autres projets connectés (hors Brantham)
-- **Polymarket Hedge** (`/Users/paul/polymarket-hedge/`) — arbitrage oracle + ML météo, vault `brantham/polymarket/`.
 - **LinkedIn Machine** (`/Users/paul/linkedin-machine/`) — capture feed → FastAPI :7331 → `vault/linkedin/`. CLI `lkm`.
 - **Karaté Pipeline** (`/Users/paul/karate-pipeline/`) — analyse vidéo kumité, vault dédié `/Users/paul/karate-vault/`.
 - **Website / SEO Machine** (`/Users/paul/zura-inspired/`) — vault `website/`.
 - **Crucix** (`/Users/paul/Crucix/`) — 27 sources OSINT. **clix** — Twitter CLI.
-- Polytech Strategist (terminé), MiroFish (R&D), weather-alpha + crypto MM (hobby).
+- Polytech Strategist (terminé), MiroFish (R&D).
 
 ## Related
 - [[brantham/_MOC]]
