@@ -166,7 +166,7 @@ Layer 7: RL execution (PPO ✅ scaffold)
 
 ## Related
 
-- [[brantham/deals/infra/_MOC|Polymarket Hub]]
+- [[brantham/polymarket/_MOC|Polymarket Hub]]
 - [[deep-learning-roadmap|Deep Learning Roadmap complete]]
 - [[architecture|Architecture 4 couches classique]]
 - [[quick-start|Quick-start opérationnel]]

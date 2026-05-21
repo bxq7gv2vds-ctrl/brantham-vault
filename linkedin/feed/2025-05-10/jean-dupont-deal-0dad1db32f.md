@@ -35,6 +35,6 @@ delta_reposts: 0
 Big news on the AI / M&A front: just closed a deal where the diligence used an LLM agent to scan 12,000 pages of legal docs in 4 hours. EBITDA multiple was 6.5x. Distressed M&A is changing fast — finance teams who don't adopt agents will lose.
 
 ## Related
-- [[brantham/deals/infra/_MOC]]
+- [[brantham/deals/active/infra/_MOC]]
 - [[brantham/_MOC]]
 - [[writing-vault concepts via QMD]]

@@ -117,7 +117,7 @@ Attend : **fichier ONNX Pangu-Weather** du user → drop + wire 5 min + backfill
 
 ## Related
 
-- [[brantham/deals/infra/_MOC|Polymarket Hub]]
+- [[brantham/polymarket/_MOC|Polymarket Hub]]
 - [[STATE-HANDOFF|State handoff complet]]
 - [[sessions/2026-04-19-ml-sota-integration|Session ML SOTA]]
 - [[sessions/2026-04-19-backfill-scale-up|Backfill 365j]]

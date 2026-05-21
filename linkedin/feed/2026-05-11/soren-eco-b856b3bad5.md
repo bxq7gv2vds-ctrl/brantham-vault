@@ -32,5 +32,5 @@ De mon côté, je vais surveiller avec attention les premières décisions conce
 Et vous, si vous étiez à sa place, quelles actions achèteriez-vous aux cours actuels ? De mon côté, je pense que ce serait Meta.110:["$","$L248",null,{"textProps":{"fontFam
 
 ## Related
-- [[brantham/deals/infra/_MOC]]
+- [[brantham/deals/active/infra/_MOC]]
 - [[brantham/_MOC]]

@@ -383,7 +383,7 @@ Ou attendre les crons, tous schedulés 09:15 → 09:30 UTC.
 
 ## Related
 
-- [[brantham/deals/infra/_MOC]]
+- [[brantham/polymarket/_MOC]]
 - [[STATE-HANDOFF]]
 - [[TODO-pending]]
 - [[findings|Findings diagnostic]]

@@ -79,6 +79,6 @@ type: report
 | CONFIRMED_NO | 08h | 10 | 100.0% | $+19.40 |
 
 ## Related
-- [[brantham/deals/infra/_MOC|Polymarket Hub]]
+- [[brantham/deals/active/infra/_MOC|Polymarket Hub]]
 - [[STATE-HANDOFF|State handoff]]
 - [[audit-hedge-fund-grade|Audit hedge fund grade]]

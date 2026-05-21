@@ -28,6 +28,6 @@ Scope: last 14 days
 
 ## Related
 
-- [[brantham/deals/infra/_MOC|Hub]]
+- [[brantham/deals/active/infra/_MOC|Hub]]
 - [[TODO-pending]]
 - [[STATE-HANDOFF]]

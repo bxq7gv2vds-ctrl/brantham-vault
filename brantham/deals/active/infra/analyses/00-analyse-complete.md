@@ -624,7 +624,7 @@ incorporels / corporels / stocks, **plus le BFR de redémarrage et les charges a
 
 ## Related
 
-- [[brantham/deals/infra/_MOC]]
+- [[brantham/deals/active/infra/_MOC]]
 - [[infra/analyses/lot-1-identite-procedure]]
 - [[infra/analyses/lot-2-financier]]
 - [[infra/analyses/lot-3-bancaire-642-12]]

@@ -54,5 +54,5 @@ Elles se prennent dans le calme que vous aurez eu le courage d'imposer et encore
 Je suis Thomas Pinet, ex-DG de PME. Avec TP Impact, en 60 jours, votre entreprise fonctionne sans que tout ne passe par vous.23:["$","$L1ec",null,{"textProp
 
 ## Related
-- [[brantham/deals/infra/_MOC]]
+- [[brantham/deals/active/infra/_MOC]]
 - [[brantham/_MOC]]

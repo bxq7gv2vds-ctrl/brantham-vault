@@ -115,6 +115,6 @@ Followers : **1581** · reach moyen/post (mesuré) : **3,084** · médian : **67
 - Génère des angles dans ta voice : `/tweet-gen` (writing-vault) ou `/write draft` — branche les top posts comme références.
 
 ## Related
-- [[brantham/deals/infra/_MOC]]
+- [[brantham/deals/active/infra/_MOC]]
 - [[brantham/_MOC]]
 - [[website/_MOC]]

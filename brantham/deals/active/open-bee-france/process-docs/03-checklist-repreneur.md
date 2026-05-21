@@ -128,6 +128,6 @@ Cette cellule se réunit en point hebdomadaire pendant la phase de construction 
 
 ## Related
 
-- [[brantham/deals/infra/_MOC]]
+- [[brantham/deals/active/infra/_MOC]]
 - [[01-memo-comprendre-plan-de-cession]]
 - [[02-faq-reprise-distressed]]

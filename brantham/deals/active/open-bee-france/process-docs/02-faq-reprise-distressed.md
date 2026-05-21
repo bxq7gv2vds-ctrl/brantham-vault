@@ -113,6 +113,6 @@ L'AJ et le repreneur coordonnent la communication aux clients clés dès l'annon
 
 ## Related
 
-- [[brantham/deals/infra/_MOC]]
+- [[brantham/deals/active/infra/_MOC]]
 - [[01-memo-comprendre-plan-de-cession]]
 - [[03-checklist-repreneur]]

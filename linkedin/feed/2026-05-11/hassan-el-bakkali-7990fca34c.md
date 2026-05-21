@@ -75,5 +75,5 @@ Vous souhaitez préparer votre future cession ?
 → Écrivez-moi en message privé "CESSION" ou prenez rendez-vous sur mon profil.155:["$","$L1ec",null,{"textProps":{"fontFamily":"sa
 
 ## Related
-- [[brantham/deals/infra/_MOC]]
+- [[brantham/deals/active/infra/_MOC]]
 - [[brantham/_MOC]]

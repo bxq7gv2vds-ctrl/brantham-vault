@@ -119,7 +119,7 @@ Ce qui bloque le score plus haut :
 
 ## Related
 
-- [[brantham/deals/infra/_MOC|Polymarket Hub]]
+- [[brantham/polymarket/_MOC|Polymarket Hub]]
 - [[sessions/2026-04-19-hedge-fund-grade-upgrades|Session matin — architecture]]
 - [[sessions/2026-04-19-critical-review-and-fixes|Session soir — critical review]]
 - [[reports/ablation-2026-04-19|Ablation full stack]]
