@@ -20,7 +20,7 @@ Chaque fichier issue/PRD doit contenir :
 ---
 title: <titre court>
 status: <needs-triage | needs-info | ready-for-agent | ready-for-human | wontfix | done>
-project: <brantham | website | polymarket | writing | founder | other>
+project: <brantham | website | writing | founder | other>
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 ---

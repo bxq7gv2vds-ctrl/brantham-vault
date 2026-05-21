@@ -18,21 +18,6 @@ Reusable technical patterns. Check here before solving a problem.
 | Teaser PPTX Generation  | [[patterns/teaser-pptx-generation]]  | content  |
 | Gemweb RSS Parsing      | [[patterns/gemweb-rss-parsing]]      | scraping |
 
-## Polymarket-Specific
-
-| Pattern | Category | File |
-|---------|----------|------|
-| NWP EMOS Calibration | trading/weather | [[patterns/polymarket-nwp-emos-calibration]] |
-| Intraday Architecture | trading/infra | [[patterns/polymarket-intraday-architecture]] |
-| Bracket Arb (Temperature) | trading/arb | [[patterns/polymarket-bracket-arb]] |
-| COLDMATH_NO = −EV (analyse) | trading/math | [[patterns/polymarket-coldmath-no-ev-analysis]] |
-| Oracle Confirmed Backtest | trading/oracle | [[patterns/polymarket-oracle-confirmed-backtest]] |
-| **Processus de prix — Analyse mathématique profonde** | **trading/quant** | **[[patterns/polymarket-price-process-deep-analysis]]** |
-| **Stratégie convexe par ville (Tokyo/Paris)** | **trading/convex** | **[[patterns/polymarket-convex-strategy-city-analysis]]** |
-| **CONVEX_YES Breakdown Complet** | **trading/convex** | **[[patterns/polymarket-convex-yes-complete-breakdown]]** |
-| **CONVEX_YES v2a Optimization** | **trading/convex** | **[[patterns/polymarket-convex-yes-v2-optimization]]** |
-| **Tracking Infrastructure (Dashboard + Telegram)** | **trading/infra** | **[[patterns/polymarket-tracking-infrastructure]]** |
-
 ## Website-Specific
 
 | Pattern | Category | File |

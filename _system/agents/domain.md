@@ -41,7 +41,6 @@ Si un de ces fichiers n'existe pas, **continuer silencieusement**. Ne pas signal
 | -------------------------------------- | ---------------------- |
 | `brantham`, `internal-tool`, `cockpit-web`, `brantham-pipeline` | `vault/brantham/`      |
 | `zura-inspired`, `seomachine`          | `vault/website/`       |
-| `polymarket-hedge`                     | `vault/brantham/polymarket/` |
 | `writing-vault`                        | `/Users/paul/writing-vault/` (vault séparé) |
 | Autre                                  | `vault/founder/`       |
 
