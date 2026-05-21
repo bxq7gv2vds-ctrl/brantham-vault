@@ -1,53 +1,47 @@
 ---
 type: moc
 project: brantham
-updated: 2026-04-23
+updated: 2026-05-21
 ---
 
-# Brantham Deals — Map of Content
+# Brantham Deals
 
-Tous les deals du pipeline. Auto-alimenté par l'orchestrateur autopilot.
+## Actifs
 
-## Statuts pipeline
+| Deal | Statut | MOC |
+|------|--------|-----|
+| Magic Form Levallois | mandat signé | [[brantham/deals/active/magic-form-levallois/_MOC]] |
+| Groupe ITFI | audit livré | [[brantham/deals/active/itfi-groupe/_MOC]] |
+| INFRA SAS | analyse | [[brantham/deals/active/infra/_MOC]] |
+| Ingebime | analyse | [[brantham/deals/active/ingebime/_MOC]] |
+| Monabee | sourcing | [[brantham/deals/active/monabee/_MOC]] |
+| SAS Fitness Levallois | analyse | [[brantham/deals/active/sas-fitness-levallois/_MOC]] |
+| Open Bee France | — | [[brantham/deals/active/open-bee-france/_MOC]] |
 
-```
-detecte → notifie → valide_pour_buyer_hunt → analysed → acheteurs_identifies → contacts_enrichis → drafts_prets → outreach_envoye → mandat_signe → ferme
-                                                                                                                          ↓
-                                                                                                                       passe (archived)
-```
+## Identifiés (OSINT)
+
+- [[brantham/deals/identified/2026-05-15-doremi]]
+- [[brantham/deals/identified/2026-05-15-tech-valley]]
+- [[brantham/deals/identified/2026-05-13-tild-agence-digitale]]
+- [[brantham/deals/identified/2026-05-13-monabee]]
+
+## Pipeline & feeds
+
+- [[brantham/deals/aj-feed/_INDEX]] — snapshots AJ (2 derniers jours)
+- [[brantham/pipeline/BOARD]] — kanban statuts
+- [[brantham/tc-paris-extraction/_MOC]] — dataset TC Paris
 
 ## Structure
 
 ```
 deals/
-├── _MOC.md                    (ce fichier)
-├── TEMPLATE.md                (template par deal — legacy)
-├── active/                    (deals en cours)
-│   └── <slug>/
-│       ├── raw.json           (données brutes scraping AJ + BODACC)
-│       ├── analyse.md         (analyse financière + juridique)
-│       ├── teaser.md          (teaser anonyme)
-│       ├── acheteurs.json     (30-50 repreneurs identifies)
-│       ├── contacts.json      (top 30 dirigeants enrichis)
-│       ├── outreach-emails.json     (data structuree pour drafts)
-│       ├── outreach-linkedin.md     (DMs LinkedIn copy-paste)
-│       └── outreach-drafts-<slug>.md (recap final emails)
-└── archived/
-    └── <slug>/
+├── active/<slug>/     _MOC.md + analyse + teaser + acheteurs
+├── identified/        opportunités OSINT non engagées
+├── aj-feed/           digest quotidien (léger)
+└── closed/            deals terminés
 ```
-
-## Deals actifs
-
-Auto-listé par `python3 /Users/paul/Library/Brantham/scripts/autopilot_orchestrator.py status`.
-
-## Pipeline volumetric goals
-
-- 100 emails outreach / jour
-- 30-40 DMs LinkedIn / jour
-- Toutes les opportunites des 31 sites AJ traitees daily
 
 ## Related
 
 - [[brantham/_MOC]]
-- [[brantham/cowork-prompts/INDEX]]
 - [[brantham/context/process-end-to-end]]
