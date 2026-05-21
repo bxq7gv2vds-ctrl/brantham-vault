@@ -44,6 +44,13 @@ Suppression complète du side project trading :
 - `lat-arb-bot/`, `weather-sell96c.md`, bugs polymarket
 - Références retirées des MOCs (`_MOC`, `MOC-master`, `MOC-patterns`, `MOC-decisions`)
 
+## Crons launchd désactivés (2026-05-21)
+
+- **57 agents** `com.paul.polymarket-*` : `launchctl bootout` + plists archivés dans `~/Library/LaunchAgents/_disabled-polymarket-2026-05-21/`
+- Inclut : oracle-scan (03:00, 09:07, 10:32, 16:17), daily-pnl, daily-summary, alpha-* (live-runner, nwp-ingest, telegram-bot, etc.)
+
+Pour réactiver un job : `cp <plist> ~/Library/LaunchAgents/` puis `launchctl bootstrap gui/$(id -u) <plist>`.
+
 ## Related
 
 - [[brantham/_MOC]]
