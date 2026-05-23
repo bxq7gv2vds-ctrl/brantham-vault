@@ -47,6 +47,14 @@ However, the corresponding asymmetric `positive liquidity_vacuum -> long`
 rule lost `-0.975 bps` on test even before fees and `-9.974 bps` after fees.
 This signature remains a monitored hypothesis only.
 
+Crossed-feature screening is now implemented. In exploratory snapshots, no
+two-factor strategy is positive and sufficiently frequent on train after
+taker fees. Before fees, interactions such as `OFI` with
+`microprice_momentum` can be mildly positive in train (`+1.554 bps`) but
+remain negative on test (`-0.830 bps`). The working implication is unchanged:
+crossed signals may only justify maker-model research if the gross effect
+persists on closed multi-day data.
+
 ## Next Tests
 
 - Accumulate at least seven days of continuous HYPE perp and `@107` spot data.
