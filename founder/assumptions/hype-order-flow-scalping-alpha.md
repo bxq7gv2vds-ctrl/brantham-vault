@@ -26,6 +26,13 @@ The best training-ranked candidate produced `-9.203 bps` on train and
 This sample is far too short to reject the broader hypothesis, but it rejects
 any immediate capital deployment based on the current taker continuation rule.
 
+A subsequent event-based liquidity-pattern scan on the same closed dataset
+found two gross candidates after bid/ask but before fees:
+`microprice_momentum` at `+2.606 bps` test and `liquidity_vacuum` at
+`+1.608 bps` test. Both are far below the approximately `9 bps` base
+taker/taker fee hurdle, and the test trade counts remain too small for
+inference. They justify maker-fill research, not capital deployment.
+
 ## Next Tests
 
 - Accumulate at least seven days of continuous HYPE perp and `@107` spot data.
