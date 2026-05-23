@@ -38,6 +38,15 @@ event-pattern candidate is `ofi`; it records `-9.603 bps` on test after fees
 and `-0.602 bps` even with fees removed. Continuous collection now rolls closed
 segments every fifteen minutes and reruns the screen automatically.
 
+Reverse-engineering additions now screen extreme-event continuation versus
+reversal, asymmetric tails, spot-to-perp lead-lag and outcome-conditioned
+precursors. On an exploratory immutable snapshot of `2,603` HYPE observations,
+large executable upward moves (`>9 bps`) were preceded by strongly positive
+liquidity-vacuum readings, suggesting thin asks as a candidate trigger.
+However, the corresponding asymmetric `positive liquidity_vacuum -> long`
+rule lost `-0.975 bps` on test even before fees and `-9.974 bps` after fees.
+This signature remains a monitored hypothesis only.
+
 ## Next Tests
 
 - Accumulate at least seven days of continuous HYPE perp and `@107` spot data.
