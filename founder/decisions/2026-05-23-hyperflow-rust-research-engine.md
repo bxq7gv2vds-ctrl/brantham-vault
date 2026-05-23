@@ -43,6 +43,7 @@ data collection and out-of-sample testing demonstrate net alpha.
 
 - [x] Implement public WebSocket capture for HYPE perp and spot.
 - [x] Implement footprint features and a latency/fee-aware baseline backtest.
+- [x] Start supervised continuous HYPE perp and spot live collection.
 - [ ] Collect multi-day live data and assess signal stability.
 - [ ] Consider local non-validating node infrastructure only after public-feed
   evidence justifies the operational cost.
@@ -53,3 +54,4 @@ data collection and out-of-sample testing demonstrate net alpha.
 - [[_system/MOC-master]]
 - [[founder/strategy/current-strategy]]
 - [[_system/MOC-assumptions|Related Assumptions]]
+- [[founder/assumptions/hype-order-flow-scalping-alpha]]

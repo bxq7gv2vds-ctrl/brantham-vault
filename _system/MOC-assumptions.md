@@ -19,7 +19,9 @@ Hypotheses to validate. Review monthly.
 
 ## Testing
 
-None yet.
+| Assumption | Project | Evidence |
+|------------|---------|----------|
+| [[founder/assumptions/hype-order-flow-scalping-alpha]] | founder-research | Initial taker benchmark negative; continuous capture running |
 
 ## Validated
 
