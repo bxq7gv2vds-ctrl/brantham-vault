@@ -11,8 +11,8 @@ tags: [quant-research, hyperliquid, scalping]
 ## Hypothesis
 
 Hyperliquid `HYPE` order-book and aggressor-flow data, potentially combined
-with spot/perpetual lead-lag, contain an ultra-short-horizon trading signal
-that remains positive after executable bid/ask pricing, latency, fees,
+with spot/perpetual lead-lag, contain an intraminute-to-multiminute trading
+signal that remains positive after executable bid/ask pricing, latency, fees,
 slippage and capacity limits.
 
 ## Current Evidence
@@ -63,6 +63,16 @@ data after taker fees. Without fees, the selected
 train but `-0.304 bps` on test. This weakens the case for further taker-rule
 combinatorics and elevates maker-fill/adverse-selection modeling as the next
 required experiment.
+
+The research horizon was then shifted from seconds to holds of `30s`, `1m`,
+`2m`, `3m` and `5m`, while retaining fast liquidity states as entry triggers.
+At a `1m` markout, `960` observations moved beyond the `9 bps` taker/taker
+hurdle, compared with only `73` at `5s`, so minute holds are the appropriate
+next testing regime. The diagnostic scan with a relaxed `10`-trade train gate
+selected `trade_momentum` reversal at `1m`: it returned `+7.474 bps` on only
+four test trades before fees, but `-1.528 bps` after taker fees. Under the
+proper `30`-trade gate, no minute-scale strategy was eligible yet. This is a
+lead for accumulation and maker-fill modeling, not deployment evidence.
 
 ## Next Tests
 
