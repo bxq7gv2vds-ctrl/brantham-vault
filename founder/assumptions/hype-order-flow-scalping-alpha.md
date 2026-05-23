@@ -78,6 +78,16 @@ after taker fees and `-2.403 bps` even with fees removed. The zero-fee crossed
 rule also lost `-4.559 bps` on test. This is a lead for accumulation and
 maker-fill modeling, not deployment evidence.
 
+A dedicated long-only pre-pump scanner now tests rolling order-flow context
+windows of `5s`, `15s` and `30s` before executable upside moves across the
+minute hold grid. It requires positive training PnL, lift above the
+unconditional pump rate and the trade-count gate. Across `2,160` candidate
+signatures on the `3,165`-observation closed sample, no rule passes those
+requirements after taker fees. With fees removed, the selected
+`microprice_momentum` negative-tail pattern over `5s` returned `+1.529 bps`
+and `1.090` lift on training, then `-0.793 bps` and `0.300` lift on test.
+There is no reproducible pre-pump trigger yet.
+
 ## Next Tests
 
 - Accumulate at least seven days of continuous HYPE perp and `@107` spot data.
