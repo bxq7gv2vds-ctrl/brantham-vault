@@ -55,6 +55,15 @@ remain negative on test (`-0.830 bps`). The working implication is unchanged:
 crossed signals may only justify maker-model research if the gross effect
 persists on closed multi-day data.
 
+The first automatically closed fifteen-minute segment increased the
+reproducible feature sample to `1,905` observations. Across `540` crossed
+feature strategies, none were positive and sufficiently frequent on training
+data after taker fees. Without fees, the selected
+`microprice_momentum`/`trade_momentum` interaction returned `+2.092 bps` on
+train but `-0.304 bps` on test. This weakens the case for further taker-rule
+combinatorics and elevates maker-fill/adverse-selection modeling as the next
+required experiment.
+
 ## Next Tests
 
 - Accumulate at least seven days of continuous HYPE perp and `@107` spot data.
