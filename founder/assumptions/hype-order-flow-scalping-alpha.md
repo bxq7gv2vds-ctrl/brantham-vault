@@ -33,6 +33,11 @@ found two gross candidates after bid/ask but before fees:
 taker/taker fee hurdle, and the test trade counts remain too small for
 inference. They justify maker-fill research, not capital deployment.
 
+With a less permissive minimum of `30` training trades, the selected
+event-pattern candidate is `ofi`; it records `-9.603 bps` on test after fees
+and `-0.602 bps` even with fees removed. Continuous collection now rolls closed
+segments every fifteen minutes and reruns the screen automatically.
+
 ## Next Tests
 
 - Accumulate at least seven days of continuous HYPE perp and `@107` spot data.
