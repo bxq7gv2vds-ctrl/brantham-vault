@@ -71,8 +71,12 @@ hurdle, compared with only `73` at `5s`, so minute holds are the appropriate
 next testing regime. The diagnostic scan with a relaxed `10`-trade train gate
 selected `trade_momentum` reversal at `1m`: it returned `+7.474 bps` on only
 four test trades before fees, but `-1.528 bps` after taker fees. Under the
-proper `30`-trade gate, no minute-scale strategy was eligible yet. This is a
-lead for accumulation and maker-fill modeling, not deployment evidence.
+proper `30`-trade gate, the next completed segment increased the reproducible
+sample to `3,165` observations and made minute-scale rules eligible. The
+selected `depth_momentum` rule at a `30s` hold lost `-11.403 bps` on test
+after taker fees and `-2.403 bps` even with fees removed. The zero-fee crossed
+rule also lost `-4.559 bps` on test. This is a lead for accumulation and
+maker-fill modeling, not deployment evidence.
 
 ## Next Tests
 
