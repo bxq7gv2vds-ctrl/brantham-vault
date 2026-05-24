@@ -88,11 +88,29 @@ requirements after taker fees. With fees removed, the selected
 and `1.090` lift on training, then `-0.793 bps` and `0.300` lift on test.
 There is no reproducible pre-pump trigger yet.
 
+After accumulation to `30,889` closed HYPE observations, a causal learned
+baseline was introduced. It forecasts net executable long and short returns
+from rolling order-flow features, selecting hold, ridge regularization and
+entry threshold on validation only before one final test. The selected
+taker/taker model uses a `5m` hold and is only marginally positive on its final
+test: `+0.110 bps` over `32` trades after modeled fees, versus `+9.115 bps`
+for the corresponding gross/no-fee evaluation. Alternate chronological
+boundaries fail (`-26.268 bps` on one test split; no eligible validation model
+on two others). This is evidence of a gross microstructure effect consumed by
+fees and regime instability, not an investable model.
+
+The collector now records `BTC`, `ETH` and `SOL` perps alongside `HYPE` and
+spot `@107`. This enables the next falsifiable hedge experiment: whether a
+HYPE order-flow signal remains net positive after neutralizing common crypto
+market movement with an executable second leg and fees on both legs.
+
 ## Next Tests
 
 - Accumulate at least seven days of continuous HYPE perp and `@107` spot data.
 - Test spot-to-perp lead-lag, absorption reversal and liquidity-vacuum signals.
 - Model maker fills and adverse selection independently of taker strategies.
+- Evaluate HYPE residual-return models against simultaneous `BTC`/`ETH`/`SOL`
+  hedge legs once a sufficient multi-asset closed sample exists.
 - Require positive unseen-sample performance under realistic latency stress
   before paper execution.
 
