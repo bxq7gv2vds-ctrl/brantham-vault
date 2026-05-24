@@ -22,6 +22,7 @@ All strategic and architectural decisions, ordered by date.
 | 2026-05-05 | [[founder/decisions/2026-05-05-no-em-dashes-vault]] | cross-project | 2026-06-05 |
 | 2026-05-05 | [[founder/decisions/2026-05-05-pageindex-data-rooms]] | brantham | 2026-06-05 |
 | 2026-05-23 | [[founder/decisions/2026-05-23-hyperflow-rust-research-engine]] | founder-research | 2026-06-23 |
+| 2026-05-24 | [[founder/decisions/2026-05-24-hyperflow-adaptive-maker-hedged-architecture]] | founder-research | 2026-06-24 |
 
 ## Pending Review
 
