@@ -39,6 +39,13 @@ The quote engine may use only positive expected net value after maker fees,
 hedge cost, adverse selection, inventory risk and operational buffers. Static
 loss-averaging grids and optimistic touch-fill backtests are rejected.
 
+Deep learning is reserved for nonlinear, label-rich components: sequence
+encoding of stationary order flow, passive-fill probability, post-fill
+adverse selection and potentially multi-asset residual alpha. Fees, funding,
+inventory caps, kill switches, routing and reconciliation remain deterministic.
+Reinforcement learning is deferred until a calibrated fill/adverse-selection
+simulator and strong deterministic policy baseline exist.
+
 ## Rationale
 
 The current learned taker baseline is approximately flat after fees while its
