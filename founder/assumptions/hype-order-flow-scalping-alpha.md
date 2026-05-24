@@ -104,9 +104,24 @@ spot `@107`. This enables the next falsifiable hedge experiment: whether a
 HYPE order-flow signal remains net positive after neutralizing common crypto
 market movement with an executable second leg and fees on both legs.
 
+A causal `grid-screen` regime dataset is now implemented for `GRID`, `PAUSE`
+and `DIRECTIONAL_UP/DOWN` states. On the first two synchronized closed
+multi-asset segments with `5m` trailing and forward windows, `BTC` is the
+cleanest preliminary passive-grid candidate: `75.5%` grid share, `0.190 bps`
+mean spread, and no observed `GRID -> DIRECTIONAL` transition across `110`
+labels. This sample is too small for deployment decisions. On the much longer
+available HYPE history, `55.4%` of labels are grid states but `34.4%` of those
+transition into a directional regime. Within HYPE grid states, future
+directional transitions show positive mean `vacuum_imbalance` (`+0.4245`)
+versus negative values when grid persists (`-0.6414`), making liquidity vacuum
+and microprice momentum candidate grid-stop variables for strict out-of-sample
+testing.
+
 ## Next Tests
 
 - Accumulate at least seven days of continuous HYPE perp and `@107` spot data.
+- Accumulate synchronized BTC/ETH/SOL/HYPE grid-regime labels and test whether
+  BTC remains the lowest-toxicity passive-grid market after costs.
 - Test spot-to-perp lead-lag, absorption reversal and liquidity-vacuum signals.
 - Model maker fills and adverse selection independently of taker strategies.
 - Evaluate HYPE residual-return models against simultaneous `BTC`/`ETH`/`SOL`

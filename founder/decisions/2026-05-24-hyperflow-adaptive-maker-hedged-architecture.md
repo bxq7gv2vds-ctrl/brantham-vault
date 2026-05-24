@@ -59,6 +59,8 @@ measurement of executable net PnL and controlled risk.
 - [x] Capture HYPE, spot @107, BTC, ETH and SOL contemporaneously.
 - [x] Specify the platform architecture and validation gates in
   `hyperflow/docs/ADAPTIVE_MARKET_MAKING_ARCHITECTURE.md`.
+- [x] Implement causal multi-market grid/regime screening with continuity
+  guards and forward labels for stop-grid research.
 - [ ] Implement deterministic maker replay with conservative queue fills.
 - [ ] Implement inventory-aware dynamic grid and symmetric-grid baseline.
 - [ ] Implement HYPE residual hedge evaluation with two-leg cost accounting.
