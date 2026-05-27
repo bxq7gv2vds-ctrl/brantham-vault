@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+  <rect x="54" y="40" width="1492" height="8" fill="#0B1D3A"/>
+  <line x1="54" y1="91" x2="96" y2="91" stroke="#0B1D3A" stroke-width="2"/>
+  <text x="112" y="103" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#121820">OPEN BEE |</text>
+  <text x="318" y="103" font-family="Arial, sans-serif" font-size="27" fill="#0B1D3A">Un modèle fragilisé, mais des actifs stratégiques à préserver en reprise</text>
+
+  <!-- Cause 1: profitability -->
+  <rect x="55" y="142" width="790" height="698" fill="#FFFFFF" stroke="#C9CDD2" stroke-width="1.5"/>
+  <line x1="76" y1="176" x2="102" y2="176" stroke="#0B1D3A" stroke-width="2"/>
+  <text x="120" y="182" font-family="Arial" font-size="20" font-weight="700" fill="#0B1D3A">Cause #1 :</text>
+  <text x="245" y="182" font-family="Arial" font-size="20" font-weight="700" fill="#131A22">le CA publié ne se transforme plus en résultat</text>
+  <text x="94" y="227" font-family="Arial" font-size="13.5" font-weight="700" fill="#131A22">Chiffre d'affaires publié (M€)</text>
+  <text x="620" y="227" font-family="Arial" font-size="13.5" font-weight="700" fill="#C8251A">Marge d'exploitation (%)</text>
+
+  <!-- Chart -->
+  <line x1="135" y1="507" x2="769" y2="507" stroke="#C6CCD3" stroke-width="1.5"/>
+  <text x="108" y="511" font-family="Arial" font-size="12" fill="#59616B">0</text>
+  <text x="104" y="463" font-family="Arial" font-size="12" fill="#59616B">2</text>
+  <text x="104" y="415" font-family="Arial" font-size="12" fill="#59616B">4</text>
+  <text x="104" y="367" font-family="Arial" font-size="12" fill="#59616B">6</text>
+  <text x="104" y="319" font-family="Arial" font-size="12" fill="#59616B">8</text>
+  <text x="96" y="271" font-family="Arial" font-size="12" fill="#59616B">10</text>
+  <line x1="135" y1="459" x2="769" y2="459" stroke="#EBEDF0"/>
+  <line x1="135" y1="411" x2="769" y2="411" stroke="#EBEDF0"/>
+  <line x1="135" y1="363" x2="769" y2="363" stroke="#EBEDF0"/>
+  <line x1="135" y1="315" x2="769" y2="315" stroke="#EBEDF0"/>
+  <rect x="208" y="384" width="92" height="123" fill="#0B1D3A"/>
+  <rect x="397" y="358" width="92" height="149" fill="#0B1D3A"/>
+  <rect x="586" y="297" width="92" height="210" fill="#0B1D3A"/>
+  <text x="225" y="374" font-family="Arial" font-size="14" font-weight="700" fill="#0B1D3A">5,11</text>
+  <text x="414" y="348" font-family="Arial" font-size="14" font-weight="700" fill="#0B1D3A">6,22</text>
+  <text x="603" y="287" font-family="Arial" font-size="14" font-weight="700" fill="#0B1D3A">8,76</text>
+  <text x="225" y="532" font-family="Arial" font-size="14" fill="#59616B">2022</text>
+  <text x="414" y="532" font-family="Arial" font-size="14" fill="#59616B">2023</text>
+  <text x="603" y="532" font-family="Arial" font-size="14" fill="#59616B">2024</text>
+  <polyline points="254,399 443,385 632,472" fill="none" stroke="#C8251A" stroke-width="3"/>
+  <circle cx="254" cy="399" r="5" fill="#C8251A"/>
+  <circle cx="443" cy="385" r="5" fill="#C8251A"/>
+  <circle cx="632" cy="472" r="5" fill="#C8251A"/>
+  <text x="205" y="393" font-family="Arial" font-size="13" font-weight="700" fill="#C8251A">(1,2 %)</text>
+  <text x="454" y="380" font-family="Arial" font-size="13" font-weight="700" fill="#C8251A">1,4 %</text>
+  <text x="645" y="476" font-family="Arial" font-size="13" font-weight="700" fill="#C8251A">(15,2 %)</text>
+  <rect x="307" y="246" width="264" height="53" fill="#C8251A"/>
+  <text x="439" y="269" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#FFFFFF">(16,6) pts</text>
+  <text x="439" y="289" text-anchor="middle" font-family="Arial" font-size="12" font-weight="700" fill="#FFFFFF">DE MARGE D'EXPLOITATION VS. 2023</text>
+
+  <!-- Explanation panel -->
+  <rect x="77" y="570" width="746" height="244" fill="#F4F3F0"/>
+  <line x1="97" y1="605" x2="122" y2="605" stroke="#0B1D3A" stroke-width="2"/>
+  <text x="141" y="612" font-family="Arial" font-size="18" font-weight="700" fill="#131A22">Pourquoi le modèle a décroché</text>
+  <circle cx="111" cy="647" r="3" fill="#131A22"/>
+  <text x="141" y="653" font-family="Arial" font-size="15" fill="#131A22"><tspan font-weight="700">Charges externes : +34,3 %</tspan> entre 2023 et 2024</text>
+  <circle cx="111" cy="684" r="3" fill="#131A22"/>
+  <text x="141" y="690" font-family="Arial" font-size="15" fill="#131A22"><tspan font-weight="700">Production immobilisée : 1,25 M€</tspan> en 2024, puis 1,29 M€ sur 8,5 mois en 2025</text>
+  <circle cx="111" cy="721" r="3" fill="#131A22"/>
+  <text x="141" y="727" font-family="Arial" font-size="15" fill="#131A22"><tspan font-weight="700">CA 2024 surévalué de 2,01 M€</tspan> selon les CAC</text>
+  <circle cx="111" cy="758" r="3" fill="#131A22"/>
+  <text x="141" y="764" font-family="Arial" font-size="15" fill="#131A22"><tspan font-weight="700">Résultat net 2024 : (1,05) M€</tspan>, avant une nouvelle perte sur 9 mois</text>
+  <text x="141" y="796" font-family="Arial" font-size="11.5" fill="#6A717B">Les réserves CAC documentent la fragilité de la croissance publiée, sans être additionnées entre elles.</text>
+
+  <!-- Cause 2: cash -->
+  <rect x="871" y="142" width="675" height="351" fill="#FFFFFF" stroke="#C9CDD2" stroke-width="1.5"/>
+  <line x1="892" y1="176" x2="918" y2="176" stroke="#0B1D3A" stroke-width="2"/>
+  <text x="936" y="182" font-family="Arial" font-size="20" font-weight="700" fill="#0B1D3A">Cause #2 :</text>
+  <text x="1061" y="182" font-family="Arial" font-size="20" font-weight="700" fill="#131A22">le cash est épuisé par la dérive du modèle</text>
+  <text x="902" y="220" font-family="Arial" font-size="13" font-weight="700" fill="#131A22">Trésorerie disponible (M€)</text>
+  <line x1="929" y1="376" x2="1246" y2="376" stroke="#CBD1D8" stroke-width="1.2"/>
+  <text x="907" y="380" font-family="Arial" font-size="11" fill="#59616B">0</text>
+  <text x="898" y="335" font-family="Arial" font-size="11" fill="#59616B">0,5</text>
+  <text x="898" y="290" font-family="Arial" font-size="11" fill="#59616B">1,0</text>
+  <text x="898" y="245" font-family="Arial" font-size="11" fill="#59616B">1,5</text>
+  <line x1="929" y1="331" x2="1246" y2="331" stroke="#EBEDF0"/>
+  <line x1="929" y1="286" x2="1246" y2="286" stroke="#EBEDF0"/>
+  <line x1="929" y1="241" x2="1246" y2="241" stroke="#EBEDF0"/>
+  <polyline points="950,292 1015,314 1080,334 1145,239 1216,374" fill="none" stroke="#0B1D3A" stroke-width="3"/>
+  <circle cx="950" cy="292" r="4" fill="#0B1D3A"/>
+  <circle cx="1015" cy="314" r="4" fill="#0B1D3A"/>
+  <circle cx="1080" cy="334" r="4" fill="#0B1D3A"/>
+  <circle cx="1145" cy="239" r="4" fill="#0B1D3A"/>
+  <circle cx="1216" cy="374" r="6" fill="#C8251A"/>
+  <text x="936" y="398" font-family="Arial" font-size="10" fill="#59616B">03/22</text>
+  <text x="1001" y="398" font-family="Arial" font-size="10" fill="#59616B">03/23</text>
+  <text x="1066" y="398" font-family="Arial" font-size="10" fill="#59616B">03/24</text>
+  <text x="1131" y="398" font-family="Arial" font-size="10" fill="#59616B">12/24</text>
+  <text x="1201" y="398" font-family="Arial" font-size="10" fill="#59616B">09/25</text>
+  <rect x="1272" y="231" width="247" height="64" fill="#C8251A"/>
+  <text x="1395" y="257" text-anchor="middle" font-family="Arial" font-size="19" font-weight="700" fill="#FFFFFF">~19 k€</text>
+  <text x="1395" y="279" text-anchor="middle" font-family="Arial" font-size="12" font-weight="700" fill="#FFFFFF">DE TRÉSORERIE AU 15/09/25</text>
+  <rect x="1272" y="310" width="247" height="54" fill="#F4F3F0"/>
+  <text x="1287" y="331" font-family="Arial" font-size="12" fill="#59616B">Dette financière brute</text>
+  <text x="1503" y="352" text-anchor="end" font-family="Arial" font-size="22" font-weight="700" fill="#0B1D3A">4,39 M€</text>
+  <text x="902" y="447" font-family="Arial" font-size="14" fill="#131A22"><tspan font-weight="700">(1,50) M€ de cash consommé</tspan> entre décembre 2024 et septembre 2025</text>
+  <text x="902" y="472" font-family="Arial" font-size="13" fill="#59616B">+ fournisseurs : 1,41 M€  |  dettes fiscales/sociales estimées : ~1,60 M€</text>
+
+  <!-- Reset levers -->
+  <rect x="871" y="516" width="675" height="324" fill="#FFFFFF" stroke="#C9CDD2" stroke-width="1.5"/>
+  <line x1="892" y1="550" x2="918" y2="550" stroke="#0B1D3A" stroke-width="2"/>
+  <text x="936" y="556" font-family="Arial" font-size="20" font-weight="700" fill="#0B1D3A">Réajustement :</text>
+  <text x="1084" y="556" font-family="Arial" font-size="20" font-weight="700" fill="#131A22">recentrer la reprise sur les actifs porteurs</text>
+
+  <rect x="896" y="585" width="296" height="101" fill="#F4F3F0"/>
+  <text x="912" y="610" font-family="Arial" font-size="14" font-weight="700" fill="#0B1D3A">1. Isoler le passif historique</text>
+  <text x="912" y="638" font-family="Arial" font-size="24" font-weight="700" fill="#0B1D3A">4,39 M€</text>
+  <text x="912" y="660" font-family="Arial" font-size="12" fill="#59616B">de dette financière brute dans la procédure*</text>
+  <rect x="1207" y="585" width="313" height="101" fill="#F4F3F0"/>
+  <text x="1223" y="610" font-family="Arial" font-size="14" font-weight="700" fill="#0B1D3A">2. Recalibrer le périmètre</text>
+  <text x="1223" y="638" font-family="Arial" font-size="24" font-weight="700" fill="#0B1D3A">25 postes max.</text>
+  <text x="1223" y="660" font-family="Arial" font-size="12" fill="#59616B">visés par le PSE homologué</text>
+
+  <rect x="896" y="703" width="296" height="101" fill="#F4F3F0"/>
+  <text x="912" y="728" font-family="Arial" font-size="14" font-weight="700" fill="#0B1D3A">3. Préserver le revenu coeur</text>
+  <text x="912" y="756" font-family="Arial" font-size="24" font-weight="700" fill="#0B1D3A">4,72 M€</text>
+  <text x="912" y="778" font-family="Arial" font-size="12" fill="#59616B">de solutions hébergées reconstituées en 2025</text>
+  <rect x="1207" y="703" width="313" height="101" fill="#F4F3F0"/>
+  <text x="1223" y="728" font-family="Arial" font-size="14" font-weight="700" fill="#0B1D3A">4. Sécuriser le relais de croissance</text>
+  <text x="1223" y="756" font-family="Arial" font-size="24" font-weight="700" fill="#0B1D3A">~3 000 clients</text>
+  <text x="1223" y="778" font-family="Arial" font-size="12" fill="#59616B">+ agrément facture électronique indiqué</text>
+
+  <line x1="55" y1="866" x2="1546" y2="866" stroke="#0B1D3A" stroke-width="2"/>
+  <text x="55" y="884" font-family="Arial" font-size="10.5" fill="#6A717B">Sources : rapports CAC 2022-2024 ; plaquette 31/12/2024 ; balance 15/09/2025 ; tableau emprunts 31/08/2025 ; PSE et appel d'offres. *Traitement exact selon périmètre et contrats repris à confirmer.</text>
+</svg>
