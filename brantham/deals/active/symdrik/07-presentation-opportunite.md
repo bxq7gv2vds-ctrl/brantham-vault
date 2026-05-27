@@ -73,7 +73,7 @@ La cible n'évolue pas sur un marché en déclin. Le retournement est de nature 
 | Pression structurelle sur les coûts de développement IT en France | Demande forte pour des modèles franco-offshore éprouvés, là où le ticket d'entrée d'un montage *from scratch* est élevé |
 | Pénurie persistante de développeurs sur les stacks PHP, Symfony, Magento, Drupal | Toute équipe technique constituée et opérationnelle constitue un actif rare |
 | Consolidation des agences digitales mid-cap françaises | Fenêtre de build-up active sur les acteurs Symfony, Magento, e-commerce |
-| Maturité du nearshore Maghreb pour la production logicielle | Modèle offshore franco-tunisien validé par les ESN et intégrateurs mid-market |
+| Maturité du nearshore Maghreb pour la production logicielle | Modèle offshore franco-maghrébin validé par les ESN et intégrateurs mid-market |
 
 ### 2.2 Nature du retournement
 
@@ -89,7 +89,7 @@ Le retournement de la cible relève d'une **perte de volume commercial sur quelq
 | Plateforme technique | Stack Symfony, Magento, Drupal, WordPress, mobile, front — adressant les besoins courants des PME et ETI |
 | Marque | Onze ans d'existence, marque déposée, visibilité métier |
 | Périmètre de groupe | Structure franco-maghrébine déjà constituée, prête à être branchée à un flux de commandes |
-| Timing | Reprise sur une fenêtre de marché favorable aux modèles offshore franco-tunisiens |
+| Timing | Reprise sur une fenêtre de marché favorable aux modèles offshore franco-maghrébins |
 
 ### 3.1 Un dispositif offshore que l'on ne reconstitue pas en six mois
 
@@ -144,7 +144,7 @@ L'un des atouts clés d'une reprise par plan de cession est la **flexibilité of
 | ESN ou intégrateur mid-cap français | Internalisation d'une capacité offshore opérationnelle, sans le délai et l'incertitude d'une implantation directe |
 | Agence digitale Symfony, Magento, Drupal | Consolidation sectorielle, mutualisation du back-office, élimination d'un concurrent, montée en compétences offshore |
 | Intégrateur e-commerce (Magento, Adobe Commerce, Shopify+) | Acquisition d'un pôle de production dédié, croisement des bases clients e-commerce |
-| Acteur nearshore Maghreb déjà implanté | Consolidation de la position offshore, économies d'échelle sur la production tunisienne |
+| Acteur nearshore Maghreb déjà implanté | Consolidation de la position offshore, économies d'échelle sur la production maghrébine |
 | MBI franco-maghrébin | Plateforme prête à l'emploi pour un dirigeant opérationnel disposant d'un carnet de commandes |
 | Fonds spécialisé ou investisseur industriel | Plateforme de build-up sur le segment offshore IT mid-market |
 
