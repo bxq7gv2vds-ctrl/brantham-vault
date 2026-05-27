@@ -184,10 +184,10 @@ Reprendre une entreprise en difficulté est un exercice exigeant et chronométr�
 
 ## 10. Contact
 
-**Paul ROULLEAU**
+**Soren MENDY**
 Brantham Partners
-paul.roulleau@branthampartners.fr
-07 68 36 25 63
+soren.mendy@branthampartners.fr
+07 81 48 44 54
 
 ---
 
