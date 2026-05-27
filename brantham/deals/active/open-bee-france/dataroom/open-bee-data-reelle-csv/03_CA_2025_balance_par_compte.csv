@@ -1,0 +1,60 @@
+Compte;Intitule;Montant_net_EUR;Categorie;Canal_zone;Nature;Source
+70100001;LIC OP KM Ventes FR;96894.09;Licence_on_premise;Konica_Minolta_FR;balance_brute;balance_generale_15_09_25.txt
+70100002;LIC CLOUD KM Ventes FR;1268255.82;Licence_cloud;Konica_Minolta_FR;balance_brute;balance_generale_15_09_25.txt
+70100003;LIC OP ORANGE Ventes FR;22354.06;Licence_on_premise;Orange_FR;balance_brute;balance_generale_15_09_25.txt
+70100004;LIC CLOUD ORANGE Ventes FR;557308.17;Licence_cloud;Orange_FR;balance_brute;balance_generale_15_09_25.txt
+70100005;LIC OP AUTRES PARTENAIRES Ventes FR;62600.32;Licence_on_premise;Autres_partenaires_FR;balance_brute;balance_generale_15_09_25.txt
+70100006;LIC CLOUD AUTRE PART. Vtes FR;2093226.47;Licence_cloud;Autres_partenaires_FR;balance_brute_cutoff_massif;balance_generale_15_09_25.txt
+70100007;LIC OP VENTES DIRECTES Ventes FR;198170.37;Licence_on_premise;Direct_FR;balance_brute;balance_generale_15_09_25.txt
+70100008;LIC CLOUD Vtes DIRECTES Vtes FR;319123.23;Licence_cloud;Direct_FR;balance_brute;balance_generale_15_09_25.txt
+70100012;LICENCES CLOUD ASIE;94.50;Licence_cloud;Asie;balance_brute;balance_generale_15_09_25.txt
+70100013;ON PREMISE AFRIQUE;384.00;Licence_on_premise;Afrique;balance_brute;balance_generale_15_09_25.txt
+70100016;LIC CLOUD TOSHIBA FR;256219.31;Licence_cloud;Toshiba_FR;balance_brute;balance_generale_15_09_25.txt
+70100018;LIC OP TOSHIBA FR;21867.50;Licence_on_premise;Toshiba_FR;balance_brute;balance_generale_15_09_25.txt
+70100101;LIC OP KM Ventes EU;19485.79;Licence_on_premise;Konica_Minolta_EU;balance_brute;balance_generale_15_09_25.txt
+70100102;LIC CLOUD KM Ventes EU;39245.03;Licence_cloud;Konica_Minolta_EU;balance_brute;balance_generale_15_09_25.txt
+70100105;LIC OP AUTRES PARTENAIRES Ventes EU;19652.80;Licence_on_premise;Autres_partenaires_EU;balance_brute;balance_generale_15_09_25.txt
+70100106;LIC CLOUD AUTRE PART. Vtes EU;15706.48;Licence_cloud;Autres_partenaires_EU;balance_brute;balance_generale_15_09_25.txt
+70100108;LIC CLOUD Vtes DIRECTES Vtes EU;13989.42;Licence_cloud;Direct_EU;balance_brute;balance_generale_15_09_25.txt
+70100201;LIC OP KM Ventes Export;40377.10;Licence_on_premise;Konica_Minolta_Export;balance_brute;balance_generale_15_09_25.txt
+70100202;LIC CLOUD KM Ventes Export;28165.74;Licence_cloud;Konica_Minolta_Export;balance_brute;balance_generale_15_09_25.txt
+70100205;LIC OP AUTRES PARTENAIRES Vtes Exp.;47182.10;Licence_on_premise;Autres_partenaires_Export;balance_brute;balance_generale_15_09_25.txt
+70100208;LIC CLOUD Vtes DIRECTES Vtes Exp.;2262.00;Licence_cloud;Direct_Export;balance_brute;balance_generale_15_09_25.txt
+70100210;LIC CLOUD AUTRE PART. Vtes Exp.;43002.95;Licence_cloud;Autres_partenaires_Export;balance_brute;balance_generale_15_09_25.txt
+70100213;LIC OP AFRIQUE Ventes Export;1701.00;Licence_on_premise;Afrique_Export;balance_brute;balance_generale_15_09_25.txt
+70100215;LIC OP ASIE Ventes Export;540.00;Licence_on_premise;Asie_Export;balance_brute;balance_generale_15_09_25.txt
+70100305;LIC OP AUTRES PARTENAIRES Vtes Dom;9118.70;Licence_on_premise;Autres_partenaires_DOM;balance_brute;balance_generale_15_09_25.txt
+70100307;LIC OP Vtes DIRECTES Vtes DomTom;2580.00;Licence_on_premise;Direct_DOM_TOM;balance_brute;balance_generale_15_09_25.txt
+70100308;LIC CLOUD Vtes DIRECTES Vtes Dom;1800.00;Licence_cloud;Direct_DOM;balance_brute;balance_generale_15_09_25.txt
+70100310;LIC CLOUD AUTRE PART. Vtes Dom;85053.38;Licence_cloud;Autres_partenaires_DOM;balance_brute;balance_generale_15_09_25.txt
+70100405;VENTES FRANCE EXO;6650.00;Licence_autre;France_EXO;balance_brute;balance_generale_15_09_25.txt
+70100508;LIC CLOUD AUTRE PART. St Barth;-1744.40;Licence_cloud;Autres_partenaires_St_Barth;balance_brute;balance_generale_15_09_25.txt
+70600001;MAINT. OP KM Ventes FR;11763.80;Maintenance;Konica_Minolta_FR;balance_brute;balance_generale_15_09_25.txt
+70600002;INSTALL S/SITE KM Ventes FR;72644.50;Installation;Konica_Minolta_FR;balance_brute;balance_generale_15_09_25.txt
+70600007;MAINT. OP AUTRES PARTE Ventes FR;76783.22;Maintenance;Autres_partenaires_FR;balance_brute;balance_generale_15_09_25.txt
+70600008;INSTALL S/SITE AUTRES PARTE Vtes FR;78658.77;Installation;Autres_partenaires_FR;balance_brute;balance_generale_15_09_25.txt
+70600010;MAINT. OP VENTES DIREC Ventes FR;8733.89;Maintenance;Direct_FR;balance_brute;balance_generale_15_09_25.txt
+70600011;INSTALL S/SITE Vtes DIREC Vtes FR;129500.39;Installation;Direct_FR;balance_brute;balance_generale_15_09_25.txt
+70600012;INSTALL DISTANCE Vtes DIR Vtes FR;60809.84;Installation;Direct_FR;balance_brute;balance_generale_15_09_25.txt
+70600013;FORMATIONS Ventes FR;11712.02;Formation;France;balance_brute;balance_generale_15_09_25.txt
+70600014;INSTALL S/SITE TOSHIBA FR;833.00;Installation;Toshiba_FR;balance_brute;balance_generale_15_09_25.txt
+70600020;MAINTENANCE OP TOSHIBA;10765.30;Maintenance;Toshiba_FR;balance_brute;balance_generale_15_09_25.txt
+70600101;MAINT. OP KM Ventes EU;7212.88;Maintenance;Konica_Minolta_EU;balance_brute;balance_generale_15_09_25.txt
+70600107;MAINT. OP AUTRES PARTE Ventes EU;141474.86;Maintenance;Autres_partenaires_EU;balance_brute;balance_generale_15_09_25.txt
+70600108;INSTALL S/SITE AUTRES PARTE Vtes EU;9086.00;Installation;Autres_partenaires_EU;balance_brute;balance_generale_15_09_25.txt
+70600113;FORMATIONS Ventes EU;936.00;Formation;Europe;balance_brute;balance_generale_15_09_25.txt
+70600201;MAINTENANCE OP KM Ventes Export;1368.40;Maintenance;Konica_Minolta_Export;balance_brute;balance_generale_15_09_25.txt
+70600207;MAINT. OP AUTRES PARTE Vtes Export;35532.53;Maintenance;Autres_partenaires_Export;balance_brute;balance_generale_15_09_25.txt
+70600208;INSTALL S/SITE AUTRE PARTE Vts EXPO;27721.00;Installation;Autres_partenaires_Export;balance_brute;balance_generale_15_09_25.txt
+70600209;INSTALL DISTANCE AUTRE PAR Vts Exp.;36800.00;Installation;Autres_partenaires_Export;balance_brute;balance_generale_15_09_25.txt
+70600213;FORMATIONS Ventes Export;-216.00;Formation;Export;balance_brute;balance_generale_15_09_25.txt
+70600307;MAINT. OP AUTRES PARTE Vtes DomTom;2174.80;Maintenance;Autres_partenaires_DOM_TOM;balance_brute;balance_generale_15_09_25.txt
+70600308;INSTALL S/SITE AUTRES PARTE Vts Dom;17017.00;Installation;Autres_partenaires_DOM_TOM;balance_brute;balance_generale_15_09_25.txt
+70600310;MAINT. OP Vtes DIREC Vtes DomTom;2010.00;Maintenance;Direct_DOM_TOM;balance_brute;balance_generale_15_09_25.txt
+70600311;INSTALL S/SITE Vtes DIREC Vtes Dom;4839.00;Installation;Direct_DOM_TOM;balance_brute;balance_generale_15_09_25.txt
+70600312;INSTALL DISTANCE Vtes DIR Vtes Dom;1190.00;Installation;Direct_DOM_TOM;balance_brute;balance_generale_15_09_25.txt
+70600313;FORMATIONS Ventes DomTom;8409.50;Formation;DOM_TOM;balance_brute;balance_generale_15_09_25.txt
+70670000;PRESTATIONS DE SERVICES Ventes FR;300.00;Prestation;France;balance_brute;balance_generale_15_09_25.txt
+70670001;AUTRES Ventes FR;189606.51;Autres_prestations;France;balance_brute;balance_generale_15_09_25.txt
+TOTAL_DETAIL_RECONSTITUE;CA somme des lignes detaillees extraites;6218933.14;Total_CA;Tous;calcule_sur_balance_brute;balance_generale_15_09_25.txt
+TOTAL_INDIQUE_ANALYSE;CA indique dans analyse par agregation des comptes 70;6223000.00;Total_CA;Tous;approximation_balance_brute;lot-1-detail.md section 5.1

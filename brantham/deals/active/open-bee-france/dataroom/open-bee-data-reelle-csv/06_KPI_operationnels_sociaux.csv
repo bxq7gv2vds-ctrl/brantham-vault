@@ -1,0 +1,19 @@
+Categorie;Indicateur;Periode;Valeur;Unite;Nature;Source;Limite
+Activite;Activite;2026;GED facturation electronique Cloud;texte;fait;00-analyse-complete.md;
+Activite;CA affiche appel offres Open Bee France;31_12_2025;8933000;EUR;affiche_AJ;00-analyse-complete.md section Perimetre vendu;Piece originale a citer avant diffusion externe
+Activite;Salaries affiches appel offres Open Bee France;31_12_2025;46;personnes;affiche_AJ;00-analyse-complete.md section Perimetre vendu;Different de solde repos
+Commercial;Base clients GED;2026;3000;clients;indique_non_audite;00-analyse-complete.md et 12-facture-electronique.md;Liste contrats absente
+Commercial;Reseau partenaires distributeurs;2026;60;partenaires;indique_non_audite;00-analyse-complete.md;Contrats partenaires absents
+Commercial;Utilisateurs monde;brochure;250000;utilisateurs;marketing_non_audite;11-fiche-produit.md;A recouper
+Produit;Langues disponibles;brochure;12;langues;marketing_non_audite;11-fiche-produit.md;A recouper
+Produit;Agrement PA facture electronique DGFIP;11_02_2026;obtenu;texte;indique_a_confirmer_par_piece;12-facture-electronique.md;Transferabilite a valider
+Social;Liste salaries data room;2026;46;personnes;document_data_room;lot-8-social.md;Extrait possible
+Social;Solde repos salaries;31_03_2026;52;personnes;document_data_room;lot-8-social.md;Ecart a reconcilier
+Social;Suppressions postes PSE homologue;10_12_2025;25;postes;document_data_room;lot-8-social.md;21 Epagny et 4 Paris
+Social;CP_N_moins_1_en_stock;31_03_2026;295;jours;document_data_room;lot-8-social.md;
+Social;CP_N_en_stock;31_03_2026;952.97;jours;document_data_room;lot-8-social.md;
+Social;RTT_en_stock;31_03_2026;29;jours;document_data_room;lot-8-social.md;
+Social;Total_repos_non_pris;31_03_2026;1276.97;jours;calcule;lot-8-social.md;
+Missing;ARR_MRR_churn;data_room;non_disponible;texte;manquant;00-analyse-complete.md;A demander AJ
+Missing;Contrats_clients_et_partenaires;data_room;non_disponible;texte;manquant;00-analyse-complete.md;A demander AJ
+Missing;Remunerations_masse_salariale;data_room;non_disponible;texte;manquant;00-analyse-complete.md;A demander AJ

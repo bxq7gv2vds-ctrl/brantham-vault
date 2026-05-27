@@ -1,0 +1,7 @@
+Sujet;Valeur;Nature;Source
+Perimetre;Open Bee France SAS - donnees extraites de la data room;fait;00-analyse-complete.md et lot-1-financier.md
+Objectif;Data brute utilisable pour refaire des slides Excel de type presentation financiere;livrable;Production du 27/05/2026
+Important;Les fichiers de ce dossier remplacent le pack synthetique precedent;fait;Extraction directe des analyses et pieces converties
+Donnees absentes;ARR MRR churn contrats clients actifs et contrats partenaires detailles;manquant;00-analyse-complete.md section Cartographie documentaire
+Limite 2025;La balance au 15/09/2025 comporte des ecritures de cut-off massives;limite;lot-1-detail.md section 5.6
+Unites;Montants en EUR sauf mention contraire;n/a;n/a

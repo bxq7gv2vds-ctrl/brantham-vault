@@ -1,0 +1,81 @@
+﻿Customer_ID;Customer_name;Industry;Country;Tier;Product_bundle;Contract_start;Licensed_seats;ARR_3Q25_kEUR;ARR_3Q24_kEUR;Churn_risk_score;Status;Nature
+OB-C0001;Client 001;Industrie;Luxembourg;Enterprise;DMS + Signature;2025-12-01;1824;279,9;251,8;0,053;Active;SYNTHETIQUE
+OB-C0002;Client 002;Services;Suisse;Enterprise;Invoice Automation;2019-09-01;1170;187,3;171,6;0,052;Active;SYNTHETIQUE
+OB-C0003;Client 003;Public;France;Enterprise;DMS + Signature;2024-04-01;2218;316,5;255;0,055;Active;SYNTHETIQUE
+OB-C0004;Client 004;Public;France;Enterprise;DMS + Workflow;2024-05-01;1744;288,3;245;0,045;Active;SYNTHETIQUE
+OB-C0005;Client 005;Assurance;Suisse;Enterprise;Full Suite;2024-06-01;3550;355,7;278,5;0,039;Active;SYNTHETIQUE
+OB-C0006;Client 006;Banque;Suisse;Enterprise;Invoice Automation;2025-10-01;1514;174,1;158,7;0,063;Active;SYNTHETIQUE
+OB-C0007;Client 007;Assurance;Espagne;Enterprise;Invoice Automation;2023-01-01;1313;216,3;178,5;0,059;Active;SYNTHETIQUE
+OB-C0008;Client 008;Public;Espagne;Enterprise;DMS + Signature;2023-05-01;1883;205,9;183,7;0,066;Active;SYNTHETIQUE
+OB-C0009;Client 009;Public;Espagne;Enterprise;Invoice Automation;2021-06-01;1281;234,2;183,1;0,058;Active;SYNTHETIQUE
+OB-C0010;Client 010;Sante;France;Enterprise;DMS + Signature;2022-05-01;2101;240,8;198,4;0,057;Active;SYNTHETIQUE
+OB-C0011;Client 011;Public;Espagne;Enterprise;DMS + Signature;2022-07-01;1650;323,4;278,9;0,068;Active;SYNTHETIQUE
+OB-C0012;Client 012;Assurance;Luxembourg;Enterprise;DMS + Signature;2025-11-01;2663;382,7;305,7;0,031;Active;SYNTHETIQUE
+OB-C0013;Client 013;Industrie;Luxembourg;Enterprise;DMS + Workflow;2023-03-01;2297;352;330;0,025;Active;SYNTHETIQUE
+OB-C0014;Client 014;Sante;Suisse;Enterprise;DMS + Workflow;2025-09-01;2101;336;266,9;0,052;Active;SYNTHETIQUE
+OB-C0015;Client 015;Public;Belgique;Mid-Market;Invoice Automation;2023-01-01;721;73,7;66,6;0,044;Active;SYNTHETIQUE
+OB-C0016;Client 016;Sante;Espagne;Mid-Market;Archive Cloud;2022-02-01;521;85,3;80,6;0,058;Active;SYNTHETIQUE
+OB-C0017;Client 017;Industrie;Espagne;Mid-Market;DMS + Workflow;2021-12-01;662;72,8;63,9;0,046;Active;SYNTHETIQUE
+OB-C0018;Client 018;Public;Belgique;Mid-Market;Full Suite;2025-04-01;395;59,4;52,5;0,038;Active;SYNTHETIQUE
+OB-C0019;Client 019;Sante;Luxembourg;Mid-Market;Archive Cloud;2025-10-01;797;131,6;104,7;0,025;Active;SYNTHETIQUE
+OB-C0020;Client 020;Public;Belgique;Mid-Market;Archive Cloud;2023-08-01;533;56,1;48;0,045;Active;SYNTHETIQUE
+OB-C0021;Client 021;Industrie;Luxembourg;Mid-Market;DMS + Signature;2022-01-01;700;96,3;88,6;0,043;Active;SYNTHETIQUE
+OB-C0022;Client 022;Banque;Espagne;Mid-Market;DMS + Workflow;2020-01-01;593;112,8;90,1;0,056;Active;SYNTHETIQUE
+OB-C0023;Client 023;Banque;France;Mid-Market;Archive Cloud;2020-09-01;780;78,3;72;0,066;Active;SYNTHETIQUE
+OB-C0024;Client 024;Services;France;Mid-Market;Archive Cloud;2019-01-01;1125;121,6;110,1;0,023;Active;SYNTHETIQUE
+OB-C0025;Client 025;Industrie;Espagne;Mid-Market;Full Suite;2021-07-01;824;129,8;110,2;0,02;Active;SYNTHETIQUE
+OB-C0026;Client 026;Retail;France;Mid-Market;Invoice Automation;2021-06-01;609;112,6;94;0,037;Active;SYNTHETIQUE
+OB-C0027;Client 027;Services;Luxembourg;Mid-Market;Archive Cloud;2020-02-01;927;96,4;79,4;0,024;Active;SYNTHETIQUE
+OB-C0028;Client 028;Industrie;Belgique;Mid-Market;DMS + Signature;2024-09-01;525;87,4;82,8;0,059;Active;SYNTHETIQUE
+OB-C0029;Client 029;Sante;Espagne;Mid-Market;Archive Cloud;2021-09-01;362;66,9;59,1;0,065;Active;SYNTHETIQUE
+OB-C0030;Client 030;Public;Luxembourg;Mid-Market;Archive Cloud;2020-05-01;617;106;99,9;0,04;Active;SYNTHETIQUE
+OB-C0031;Client 031;Assurance;Belgique;Mid-Market;Archive Cloud;2020-09-01;974;102,4;85,5;0,058;Active;SYNTHETIQUE
+OB-C0032;Client 032;Assurance;Suisse;Mid-Market;Invoice Automation;2025-09-01;636;112,7;91,6;0,02;Active;SYNTHETIQUE
+OB-C0033;Client 033;Banque;Espagne;Mid-Market;Archive Cloud;2022-04-01;348;64,6;52,3;0,067;Active;SYNTHETIQUE
+OB-C0034;Client 034;Sante;Luxembourg;Mid-Market;DMS + Signature;2021-03-01;580;60,8;55,1;0,035;Active;SYNTHETIQUE
+OB-C0035;Client 035;Assurance;Suisse;Mid-Market;DMS + Workflow;2023-11-01;918;121,3;107,5;0,065;Active;SYNTHETIQUE
+OB-C0036;Client 036;Services;Luxembourg;Mid-Market;Archive Cloud;2020-07-01;454;74,9;61,9;0,024;Active;SYNTHETIQUE
+OB-C0037;Client 037;Industrie;France;Mid-Market;DMS + Workflow;2024-10-01;519;86,2;75,8;0,038;Active;SYNTHETIQUE
+OB-C0038;Client 038;Industrie;Luxembourg;Mid-Market;Archive Cloud;2022-03-01;747;105;95,3;0,031;Active;SYNTHETIQUE
+OB-C0039;Client 039;Retail;Belgique;Mid-Market;DMS + Signature;2021-11-01;618;71,2;65,7;0,024;Active;SYNTHETIQUE
+OB-C0040;Client 040;Services;Belgique;Mid-Market;Full Suite;2021-08-01;910;105,7;95,7;0,061;Active;SYNTHETIQUE
+OB-C0041;Client 041;Services;Suisse;Mid-Market;DMS + Signature;2020-11-01;582;62;52,6;0,044;Active;SYNTHETIQUE
+OB-C0042;Client 042;Industrie;Suisse;Mid-Market;DMS + Signature;2024-03-01;1080;120,4;104;0,044;Active;SYNTHETIQUE
+OB-C0043;Client 043;Assurance;Suisse;SMB;DMS + Workflow;2024-05-01;165;22,3;19,2;0,03;Active;SYNTHETIQUE
+OB-C0044;Client 044;Industrie;Suisse;SMB;DMS + Workflow;2019-02-01;180;19,4;18,1;0,062;Active;SYNTHETIQUE
+OB-C0045;Client 045;Sante;Espagne;SMB;Invoice Automation;2023-10-01;178;27,1;21,3;0,052;Active;SYNTHETIQUE
+OB-C0046;Client 046;Banque;France;SMB;Invoice Automation;2021-05-01;217;28,3;25;0,065;Active;SYNTHETIQUE
+OB-C0047;Client 047;Banque;Luxembourg;SMB;Invoice Automation;2025-08-01;248;33,1;28,3;0,06;Active;SYNTHETIQUE
+OB-C0048;Client 048;Banque;Espagne;SMB;DMS + Workflow;2021-06-01;336;34;29,5;0,027;Active;SYNTHETIQUE
+OB-C0049;Client 049;Banque;France;SMB;Archive Cloud;2023-02-01;171;21,9;19,6;0,043;Active;SYNTHETIQUE
+OB-C0050;Client 050;Banque;Luxembourg;SMB;DMS + Workflow;2023-10-01;246;27,2;21,7;0,025;Active;SYNTHETIQUE
+OB-C0051;Client 051;Industrie;Luxembourg;SMB;Full Suite;2021-06-01;212;23,7;20,7;0,042;Active;SYNTHETIQUE
+OB-C0052;Client 052;Industrie;Espagne;SMB;Invoice Automation;2024-12-01;160;21,9;18,8;0,058;Active;SYNTHETIQUE
+OB-C0053;Client 053;Sante;Luxembourg;SMB;Full Suite;2019-02-01;242;31,5;28,5;0,05;Active;SYNTHETIQUE
+OB-C0054;Client 054;Retail;Luxembourg;SMB;DMS + Workflow;2025-03-01;269;27,5;25,4;0,068;Active;SYNTHETIQUE
+OB-C0055;Client 055;Sante;France;SMB;DMS + Workflow;2025-07-01;179;27,7;25,4;0,044;Active;SYNTHETIQUE
+OB-C0056;Client 056;Industrie;Espagne;SMB;DMS + Signature;2025-10-01;197;22,4;19,4;0,04;Active;SYNTHETIQUE
+OB-C0057;Client 057;Industrie;Belgique;SMB;Invoice Automation;2024-08-01;103;16,9;14,1;0,067;Active;SYNTHETIQUE
+OB-C0058;Client 058;Public;Suisse;SMB;DMS + Signature;2025-08-01;160;26,6;22,7;0,061;Active;SYNTHETIQUE
+OB-C0059;Client 059;Assurance;France;SMB;Invoice Automation;2020-01-01;260;26,5;24,7;0,063;Active;SYNTHETIQUE
+OB-C0060;Client 060;Banque;Espagne;SMB;Full Suite;2022-09-01;149;21,5;20,2;0,021;Active;SYNTHETIQUE
+OB-C0061;Client 061;Public;Luxembourg;SMB;DMS + Signature;2025-06-01;177;26,8;23,6;0,053;Active;SYNTHETIQUE
+OB-C0062;Client 062;Sante;Suisse;SMB;DMS + Workflow;2025-03-01;166;26,2;20,5;0,027;Active;SYNTHETIQUE
+OB-C0063;Client 063;Public;France;SMB;DMS + Workflow;2024-03-01;176;24,3;20,5;0,053;Active;SYNTHETIQUE
+OB-C0064;Client 064;Assurance;France;SMB;Full Suite;2021-08-01;132;22,2;18,6;0,044;Active;SYNTHETIQUE
+OB-C0065;Client 065;Retail;Suisse;SMB;Archive Cloud;2024-02-01;227;33,3;26,9;0,032;Active;SYNTHETIQUE
+OB-C0066;Client 066;Retail;Espagne;SMB;Invoice Automation;2019-06-01;121;19,2;16,4;0,045;Active;SYNTHETIQUE
+OB-C0067;Client 067;Retail;Belgique;SMB;Full Suite;2025-04-01;138;14,5;11,8;0,022;Active;SYNTHETIQUE
+OB-C0068;Client 068;Services;Luxembourg;SMB;DMS + Signature;2019-04-01;99;16,6;14,4;0,028;Active;SYNTHETIQUE
+OB-C0069;Client 069;Sante;France;SMB;Archive Cloud;2023-07-01;265;32,7;27,8;0,046;Active;SYNTHETIQUE
+OB-C0070;Client 070;Banque;France;SMB;DMS + Workflow;2025-10-01;235;23,5;19;0,058;Active;SYNTHETIQUE
+OB-C0071;Client 071;Services;Luxembourg;SMB;DMS + Signature;2024-06-01;157;30,3;27,9;0,028;Active;SYNTHETIQUE
+OB-C0072;Client 072;Industrie;Suisse;SMB;DMS + Signature;2021-10-01;278;28,8;24,7;0,061;Active;SYNTHETIQUE
+OB-C0073;Client 073;Sante;Belgique;SMB;DMS + Signature;2024-10-01;270;27,2;24;0,065;Active;SYNTHETIQUE
+OB-C0074;Client 074;Retail;France;SMB;Full Suite;2022-12-01;253;32,8;27,4;0,068;Active;SYNTHETIQUE
+OB-C0075;Client 075;Industrie;France;SMB;DMS + Workflow;2019-06-01;180;20,8;18,3;0,045;Active;SYNTHETIQUE
+OB-C0076;Client 076;Industrie;Belgique;SMB;Archive Cloud;2019-10-01;294;32,5;28;0,066;Active;SYNTHETIQUE
+OB-C0077;Client 077;Assurance;Espagne;SMB;DMS + Signature;2025-07-01;281;30,4;23,9;0,032;Active;SYNTHETIQUE
+OB-C0078;Client 078;Public;France;SMB;Archive Cloud;2025-10-01;150;25,2;20,7;0,034;Active;SYNTHETIQUE
+OB-C0079;Client 079;Assurance;Luxembourg;SMB;Invoice Automation;2020-05-01;135;20,1;15,9;0,056;Active;SYNTHETIQUE
+OB-C0080;Client 080;Retail;France;SMB;Full Suite;2022-03-01;164;23,7;20,1;0,054;Active;SYNTHETIQUE

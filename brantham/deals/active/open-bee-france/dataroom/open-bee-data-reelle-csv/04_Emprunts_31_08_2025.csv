@@ -1,0 +1,15 @@
+Banque;Emprunt;CRD_31_08_2025_EUR;Echeance_fin;Note;Nature;Source
+BPI;300000 EUR 2018;60000.00;30/06/2026;;extrait;tableau_emprunts_31_08_25
+BPI;150000 EUR 2018;30596.00;30/06/2026;;extrait;tableau_emprunts_31_08_25
+Banque Populaire;BP 240000 EUR 2022;240000.00;22/02/2030;Interets seuls - remboursement capital differe au 22/05/2026;extrait;tableau_emprunts_31_08_25
+BPI;150000 EUR 2025;150000.00;30/09/2030;Interets seuls - remboursement capital differe au 31/12/2025;extrait;tableau_emprunts_31_08_25
+Banque Populaire;PGE 150000 EUR;25594.97;30/04/2026;;extrait;tableau_emprunts_31_08_25
+Societe Generale;PGE 600000 EUR;100975.02;04/05/2026;;extrait;tableau_emprunts_31_08_25
+Caisse Epargne;PGE 200000 EUR;38012.63;22/05/2026;;extrait;tableau_emprunts_31_08_25
+BPI;PTZ 100000 EUR;40000.00;30/06/2027;Taux 0 pourcent;extrait;tableau_emprunts_31_08_25
+BPI;150000 EUR 2023;37500.00;31/07/2026;;extrait;tableau_emprunts_31_08_25
+Banque Populaire;BP 160000 EUR 2022;79479.92;06/01/2028;;extrait;tableau_emprunts_31_08_25
+Societe Generale;SG 250000 EUR 2022;76927.00;07/02/2027;;extrait;tableau_emprunts_31_08_25
+BPI;500000 EUR 2022;425000.00;30/09/2029;Gros encours;extrait;tableau_emprunts_31_08_25
+Societe Generale;SG 240000 EUR 2022;240000.00;17/02/2030;Interets seuls - remboursement capital differe au 17/05/2026;extrait;tableau_emprunts_31_08_25
+TOTAL;Emprunts bancaires hors obligataire;1544085.36;;;extrait;tableau_emprunts_31_08_25

@@ -1,0 +1,18 @@
+Indicateur;31_03_2022;31_03_2023;31_03_2024;31_12_2024;15_09_2025;Unite;Nature;Source
+Total_bilan;7108778;8604565;10030791;12375056;;EUR;publie;RCA et plaquette
+Immobilisations_incorporelles_nettes;2325000;2441000;3479000;4271000;;EUR;publie_arrondi;lot-1-financier section 2.3
+Concessions_brevets_logiciel;2168568;2288013;3328550;4121331;;EUR;publie;RCA et plaquette
+Titres_Open_Bee_Tunisie;0;0;634545;634545;;EUR;publie;RCA et plaquette
+Encours_de_production_stock;1042000;1797935;0;0;;EUR;publie;RCA et plaquette
+Clients_nets;1258328;1952818;4257414;4413123;;EUR;publie;RCA et plaquette
+Disponibilites;937350;689612;467972;1519761;19084;EUR;publie_ou_balance;RCA - plaquette - balance generale 15/09/2025
+Capitaux_propres_publies;2361817;2669831;2066084;3176616;;EUR;publie;RCA et plaquette
+Capitaux_propres_retraites_CAC_estimation;1684000;974000;477000;;;EUR;calcule_ordre_de_grandeur;lot-1-financier section 2.3
+Emprunts_obligataires_convertibles;0;0;2000000;2000000;2000000;EUR;publie_ou_balance;RCA - plaquette - balance generale
+Emprunts_etablissements_credit;3244106;2704958;2348922;1965638;1544308;EUR;publie_ou_balance;RCA - plaquette - balance generale
+Compte_courant_DOXSA;;;;;842213;EUR;balance;balance generale 15/09/2025
+Dettes_fournisseurs;470151;735519;679365;1255855;1405766;EUR;publie_ou_balance;RCA - plaquette - balance generale
+Dettes_fiscales_sociales;848000;1195000;1312000;1806884;1600000;EUR;publie_arrondi_ou_estimation;lot-1-financier sections 1.1 a 1.5
+Produits_constates_avance;27000;1024433;920203;564275;;EUR;publie;RCA et plaquette
+Dette_financiere_brute;;;;;4386000;EUR;calcule_arrondi;2000000 + 1544308 + 842213
+Dette_financiere_nette;;;;;4367000;EUR;calcule_arrondi;Dette financiere brute moins disponibilites

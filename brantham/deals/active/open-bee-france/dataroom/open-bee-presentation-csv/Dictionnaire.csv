@@ -1,0 +1,17 @@
+﻿Onglet;Champ;Definition;Unite;Nature
+REF_S1_NII;NII_CPBS_MEUR;Net interest income de la courbe source;M EUR;RECONSTITUE_ESTIME
+REF_S1_Depots;Part;Part des depots sight/term affichee;%;VISIBLE_EXACT
+REF_S1_Arval;*_index;Niveau relatif approxime pour reproduire le graphique;index;RECONSTITUE_ESTIME
+REF_S1_Notes;Texte_slide;Messages de la zone d'hypotheses et sensibilite;texte;VISIBLE_EXACT
+REF_S2_PnL;3Q25 / 3Q24;Donnees du tableau CIB;M EUR sauf ratios;VISIBLE_EXACT
+REF_S2_Segments;NBI_3Q24_MEUR_calc;Valeur calculee depuis NBI 3Q25 et variation affichee;M EUR;CALCULE
+OB_Raw_Customers;ARR_3Q25_kEUR;Annual recurring revenue contractualise en cloture de trimestre;k EUR;SYNTHETIQUE
+OB_Raw_Customers;Churn_risk_score;Probabilite indicative de churn a 12 mois;%;SYNTHETIQUE
+OB_Raw_Revenue_Q;Revenue_kEUR;Chiffre d'affaires reconnu au trimestre par ligne;k EUR;SYNTHETIQUE
+OB_KPI_Quarterly;ARR_exit_kEUR;ARR en fin de trimestre;k EUR;SYNTHETIQUE
+OB_KPI_Quarterly;Recurring_revenue_share;Part du revenu abonnement dans le chiffre d'affaires;%;SYNTHETIQUE
+OB_KPI_Quarterly;Adj_EBITDA_margin;EBITDA ajuste / chiffre d'affaires;%;SYNTHETIQUE
+OB_KPI_Quarterly;Net_revenue_retention;ARR closing des clients existants / ARR opening;%;SYNTHETIQUE
+OB_Channel;Certified_partners_end_period;Partenaires certifies en cloture;nombre;SYNTHETIQUE
+OB_Assumptions;Message_slide;Messages a inserer dans une slide BeeDocs Cloud analogue;texte;SYNTHETIQUE
+OB_Slide2_PnL;Variation;Croissance annuelle, ou ecart en points pour les ratios;% ou pts;SYNTHETIQUE

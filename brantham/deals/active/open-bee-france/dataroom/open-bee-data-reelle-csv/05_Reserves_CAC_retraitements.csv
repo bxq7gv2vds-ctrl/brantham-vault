@@ -1,0 +1,12 @@
+Exercice;Sujet;Impact_CA_EUR;Impact_resultat_EUR;Impact_bilan_EUR;Nature;Source;Note
+31_03_2022;Surevaluation stocks encours SaaS;;-678000;-678000;reserve_CAC;Rapport CAC 31/03/2022;Resultat et capitaux propres surevalues
+31_03_2023;Surevaluation stocks encours SaaS;;-1142000;-1142000;reserve_CAC;Rapport CAC 31/03/2023;Impact bilan retenu dans synthese
+31_03_2023;Absence etalement CA Konica Minolta;-554000;-554000;;reserve_CAC;Rapport CAC 31/03/2023;CA et resultat inferieurs si etalement
+31_03_2023;Release Capital reclasser PCA vers dette;;;369000;reserve_CAC;Rapport CAC 31/03/2023;Dette financiere sous-affichee de 369 kEUR
+31_03_2024;Annulation stock ouverture SaaS;;;-1797935;reserve_CAC;Rapport CAC 31/03/2024;Stock annule a ouverture
+31_03_2024;Nouvelle methode reconnaissance one-shot;-2005000;-1589000;;reserve_CAC;Rapport CAC 31/03/2024;Clients +2406 kEUR provisions +416 kEUR dettes fiscales +401 kEUR
+31_03_2024;Absence etalement CA Konica Minolta;-751000;-751000;;reserve_CAC;Rapport CAC 31/03/2024;CA et resultat inferieurs si etalement
+31_03_2022;Resultat_net_retraite_ordre_grandeur;;-400000;;calcule;lot-1-financier section 2.2;Ne pas assimiler a comptes audites
+31_03_2023;Resultat_net_retraite_ordre_grandeur;;-1400000;;calcule;lot-1-financier section 2.2;Ne pas assimiler a comptes audites
+31_03_2024;Resultat_net_retraite_fourchette_basse;;-2600000;;calcule;lot-1-financier section 2.2;Fourchette
+31_03_2024;Resultat_net_retraite_fourchette_haute;;-3400000;;calcule;lot-1-financier section 2.2;Fourchette

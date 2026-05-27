@@ -1,0 +1,45 @@
+﻿Trimestre;Segment;Revenue_type;Revenue_kEUR;Recurrence;Nature
+1Q23;Document Management SaaS;Subscription;3320;Recurring;SYNTHETIQUE
+2Q23;Document Management SaaS;Subscription;3430;Recurring;SYNTHETIQUE
+3Q23;Document Management SaaS;Subscription;3560;Recurring;SYNTHETIQUE
+4Q23;Document Management SaaS;Subscription;3690;Recurring;SYNTHETIQUE
+1Q24;Document Management SaaS;Subscription;3830;Recurring;SYNTHETIQUE
+2Q24;Document Management SaaS;Subscription;3980;Recurring;SYNTHETIQUE
+3Q24;Document Management SaaS;Subscription;4130;Recurring;SYNTHETIQUE
+4Q24;Document Management SaaS;Subscription;4290;Recurring;SYNTHETIQUE
+1Q25;Document Management SaaS;Subscription;4460;Recurring;SYNTHETIQUE
+2Q25;Document Management SaaS;Subscription;4640;Recurring;SYNTHETIQUE
+3Q25;Document Management SaaS;Subscription;4835;Recurring;SYNTHETIQUE
+1Q23;Invoice Automation SaaS;Subscription;980;Recurring;SYNTHETIQUE
+2Q23;Invoice Automation SaaS;Subscription;1030;Recurring;SYNTHETIQUE
+3Q23;Invoice Automation SaaS;Subscription;1080;Recurring;SYNTHETIQUE
+4Q23;Invoice Automation SaaS;Subscription;1140;Recurring;SYNTHETIQUE
+1Q24;Invoice Automation SaaS;Subscription;1210;Recurring;SYNTHETIQUE
+2Q24;Invoice Automation SaaS;Subscription;1290;Recurring;SYNTHETIQUE
+3Q24;Invoice Automation SaaS;Subscription;1380;Recurring;SYNTHETIQUE
+4Q24;Invoice Automation SaaS;Subscription;1480;Recurring;SYNTHETIQUE
+1Q25;Invoice Automation SaaS;Subscription;1590;Recurring;SYNTHETIQUE
+2Q25;Invoice Automation SaaS;Subscription;1705;Recurring;SYNTHETIQUE
+3Q25;Invoice Automation SaaS;Subscription;1835;Recurring;SYNTHETIQUE
+1Q23;E-signature & Workflow;Subscription;690;Recurring;SYNTHETIQUE
+2Q23;E-signature & Workflow;Subscription;720;Recurring;SYNTHETIQUE
+3Q23;E-signature & Workflow;Subscription;760;Recurring;SYNTHETIQUE
+4Q23;E-signature & Workflow;Subscription;800;Recurring;SYNTHETIQUE
+1Q24;E-signature & Workflow;Subscription;845;Recurring;SYNTHETIQUE
+2Q24;E-signature & Workflow;Subscription;900;Recurring;SYNTHETIQUE
+3Q24;E-signature & Workflow;Subscription;970;Recurring;SYNTHETIQUE
+4Q24;E-signature & Workflow;Subscription;1040;Recurring;SYNTHETIQUE
+1Q25;E-signature & Workflow;Subscription;1120;Recurring;SYNTHETIQUE
+2Q25;E-signature & Workflow;Subscription;1210;Recurring;SYNTHETIQUE
+3Q25;E-signature & Workflow;Subscription;1310;Recurring;SYNTHETIQUE
+1Q23;Professional Services;Implementation;620;Non-recurring;SYNTHETIQUE
+2Q23;Professional Services;Implementation;650;Non-recurring;SYNTHETIQUE
+3Q23;Professional Services;Implementation;600;Non-recurring;SYNTHETIQUE
+4Q23;Professional Services;Implementation;670;Non-recurring;SYNTHETIQUE
+1Q24;Professional Services;Implementation;660;Non-recurring;SYNTHETIQUE
+2Q24;Professional Services;Implementation;690;Non-recurring;SYNTHETIQUE
+3Q24;Professional Services;Implementation;710;Non-recurring;SYNTHETIQUE
+4Q24;Professional Services;Implementation;720;Non-recurring;SYNTHETIQUE
+1Q25;Professional Services;Implementation;730;Non-recurring;SYNTHETIQUE
+2Q25;Professional Services;Implementation;760;Non-recurring;SYNTHETIQUE
+3Q25;Professional Services;Implementation;785;Non-recurring;SYNTHETIQUE

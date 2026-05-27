@@ -1,0 +1,33 @@
+{
+  "agent": "codex",
+  "run_id": "2026-05-27-open-bee-csv-data-reelle",
+  "timestamp": "2026-05-27",
+  "status": "complete",
+  "summary": "Extraction CSV de donnees reelles issues de la data room Open Bee France pour preparation de slides Excel. Le precedent jeu synthetique est explicitement remplace.",
+  "data": {
+    "output_directory": "brantham/deals/active/open-bee-france/dataroom/open-bee-data-reelle-csv",
+    "files_created": [
+      "00_LIRE_AVANT_UTILISATION.csv",
+      "01_PNL_historique_publie.csv",
+      "02_Bilan_tresorerie_dette.csv",
+      "03_CA_2025_balance_par_compte.csv",
+      "04_Emprunts_31_08_2025.csv",
+      "05_Reserves_CAC_retraitements.csv",
+      "06_KPI_operationnels_sociaux.csv",
+      "07_Data_chart_ready_presentation.csv",
+      "08_Donnees_manquantes.csv"
+    ]
+  },
+  "actions_taken": [
+    "Inventaire des documents et analyses existantes du deal",
+    "Verification des chiffres financiers et de la ventilation CA 2025 contre les fichiers convertis",
+    "Generation des CSV sourcés separees par usage"
+  ],
+  "pending_for_human": [
+    "Ne pas presenter l ARR ou le churn : ils ne figurent pas dans la data room",
+    "Valider les retraitements CAC avant diffusion externe",
+    "Obtenir les contrats clients partenaires et une situation 2025 retraitee"
+  ],
+  "triggered_next": [],
+  "errors": []
+}

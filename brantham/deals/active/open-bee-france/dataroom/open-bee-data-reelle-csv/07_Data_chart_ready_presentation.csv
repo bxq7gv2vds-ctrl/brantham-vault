@@ -1,0 +1,34 @@
+Bloc_slide;Periode;Serie;Valeur;Unite;Nature;Source
+Performance_historique;31_03_2022;CA_net;5111579;EUR;publie;RCA 31/03/2022
+Performance_historique;31_03_2023;CA_net;6220692;EUR;publie;RCA 31/03/2023
+Performance_historique;31_03_2024;CA_net;8755918;EUR;publie;RCA 31/03/2024
+Performance_historique;31_12_2024_9m;CA_net;6845157;EUR;publie_non_comparable_9m;Plaquette 31/12/2024
+Performance_historique;31_03_2022;Resultat_exploitation;-60105;EUR;publie;RCA 31/03/2022
+Performance_historique;31_03_2023;Resultat_exploitation;88231;EUR;publie;RCA 31/03/2023
+Performance_historique;31_03_2024;Resultat_exploitation;-1332481;EUR;publie;RCA 31/03/2024
+Performance_historique;31_12_2024_9m;Resultat_exploitation;-697920;EUR;publie_non_comparable_9m;Plaquette 31/12/2024
+Performance_historique;31_03_2022;Resultat_net;275169;EUR;publie;RCA 31/03/2022
+Performance_historique;31_03_2023;Resultat_net;308013;EUR;publie;RCA 31/03/2023
+Performance_historique;31_03_2024;Resultat_net;-1047546;EUR;publie;RCA 31/03/2024
+Performance_historique;31_12_2024_9m;Resultat_net;-589468;EUR;publie_non_comparable_9m;Plaquette 31/12/2024
+Tresorerie;31_03_2022;Disponibilites;937350;EUR;publie;RCA 31/03/2022
+Tresorerie;31_03_2023;Disponibilites;689612;EUR;publie;RCA 31/03/2023
+Tresorerie;31_03_2024;Disponibilites;467972;EUR;publie;RCA 31/03/2024
+Tresorerie;31_12_2024;Disponibilites;1519761;EUR;publie;Plaquette 31/12/2024
+Tresorerie;15_09_2025;Disponibilites;19084;EUR;balance;Balance generale 15/09/2025
+Mix_CA_balance_2025;15_09_2025;LIC_CLOUD_AUTRE_PARTENAIRE_FR;2093226.47;EUR;balance_brute;Balance generale 15/09/2025
+Mix_CA_balance_2025;15_09_2025;LIC_CLOUD_KM_FR;1268255.82;EUR;balance_brute;Balance generale 15/09/2025
+Mix_CA_balance_2025;15_09_2025;LIC_CLOUD_ORANGE_FR;557308.17;EUR;balance_brute;Balance generale 15/09/2025
+Mix_CA_balance_2025;15_09_2025;LIC_CLOUD_DIRECT_FR;319123.23;EUR;balance_brute;Balance generale 15/09/2025
+Mix_CA_balance_2025;15_09_2025;LIC_CLOUD_TOSHIBA_FR;256219.31;EUR;balance_brute;Balance generale 15/09/2025
+Dette;15_09_2025;Dette_financiere_brute;4386000;EUR;calcule_arrondi;Balance generale 15/09/2025
+Dette;15_09_2025;Emprunt_obligataire_convertible;2000000;EUR;balance;Balance generale 15/09/2025
+Dette;31_08_2025;Emprunts_bancaires_CRD;1544085.36;EUR;extrait;Tableau emprunts 31/08/2025
+Dette;15_09_2025;Compte_courant_DOXSA;842213.01;EUR;balance;Balance generale 15/09/2025
+Atouts;31_12_2025;CA_affiche_appel_offres;8933000;EUR;affiche_AJ;00-analyse-complete.md
+Atouts;2026;Base_clients_GED;3000;clients;indique_non_audite;00-analyse-complete.md
+Atouts;2026;Partenaires_distributeurs;60;partenaires;indique_non_audite;00-analyse-complete.md
+Atouts;11_02_2026;Agrement_PA_DGFIP;1;obtenu_indique_a_confirmer;indique;12-facture-electronique.md
+Social;2026;Salaries_liste_data_room;46;personnes;document_data_room;lot-8-social.md
+Social;31_03_2026;Salaries_solde_repos;52;personnes;document_data_room;lot-8-social.md
+Social;10_12_2025;Postes_PSE_supprimes_max;25;postes;document_data_room;lot-8-social.md
