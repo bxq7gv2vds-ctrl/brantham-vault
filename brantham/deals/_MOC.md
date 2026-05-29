@@ -17,6 +17,7 @@ updated: 2026-05-21
 | Monabee | sourcing | [[brantham/deals/active/monabee/_MOC]] |
 | SAS Fitness Levallois | analyse | [[brantham/deals/active/sas-fitness-levallois/_MOC]] |
 | Open Bee France | — | [[brantham/deals/active/open-bee-france/_MOC]] |
+| SYMDRIK | analyse data room / strategie reprise | [[brantham/deals/active/symdrik/_MOC]] |
 
 ## Identifiés (OSINT)
 
