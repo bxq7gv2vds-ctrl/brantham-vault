@@ -22,3 +22,16 @@
   - ERREUR (voir /tmp/bp-rescore-err.log)
 - **Cycle termine** a 08:48
 ---
+
+## Cycle 23:02
+
+- **Scrape AJ** : lancement...
+  - ERREUR scraping (voir /tmp/bp-scrape-err.log)
+- **Enrichissement Pappers** : lancement...
+  - 0 procedures enrichies
+- **Re-scoring** : lancement...
+  - ERREUR (voir /tmp/bp-rescore-err.log)
+- **Cycle termine** a 23:02
+---
+
+## Deep Enrichment 23:02
