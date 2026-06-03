@@ -10,6 +10,7 @@ updated: 2026-06-03
 ## Accès rapide
 
 - [[brantham/deals/active/gesler/repreneurs-2026-06-03]] — shortlist 20 repreneurs + dirigeants publics.
+- [[brantham/deals/active/gesler/outreach/_MOC]] — notes emails ultra-courtes par repreneur.
 
 ## Faits clés
 
@@ -23,7 +24,7 @@ updated: 2026-06-03
 
 ## Prochaine action
 
-Enrichir les 7 repreneurs A/A- en contacts LinkedIn:
+Verifier les contacts LinkedIn / emails avant envoi, puis prioriser les 7 repreneurs A/A-:
 
 1. T'Rhéa / Viandes de Bresse / Abattoirs des Crêts.
 2. Bovi-Coop.
