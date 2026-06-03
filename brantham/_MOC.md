@@ -1,7 +1,7 @@
 ---
 type: moc
 project: brantham
-updated: 2026-05-21
+updated: 2026-06-03
 ---
 
 # Brantham Partners
@@ -19,7 +19,9 @@ Cabinet M&A AI — PME en difficulté, France. Client = **repreneur** (pas manda
 
 | Besoin | Aller à |
 |--------|---------|
+| Operating system / infra | [[brantham/operating-system/_MOC]] |
 | Deal en cours | [[brantham/deals/_MOC]] |
+| Dossier Gesler | [[brantham/deals/active/gesler/repreneurs-2026-06-03]] |
 | Process & rôles | [[brantham/context/process-end-to-end]] |
 | Business live | [[brantham/context/business-profile/_PROFILE]] |
 | Knowledge M&A | [[brantham/knowledge/INDEX]] |
@@ -30,6 +32,8 @@ Cabinet M&A AI — PME en difficulté, France. Client = **repreneur** (pas manda
 
 ## Sous-systèmes
 
+- [[brantham/operating-system/infra/osint-distressed-agent]] — agent OSINT distressed M&A
+- [[brantham/operating-system/obsidian-write-protocol]] — protocole écriture Vault + Obsidian
 - [[brantham/data-pipeline/_MOC]] — BODACC, scraping, PostgreSQL
 - [[brantham/pappers/_MOC]] — intel entreprises (Pappers MCP)
 - [[brantham/linkedin-factory/_MOC]] — contenu LinkedIn v2
