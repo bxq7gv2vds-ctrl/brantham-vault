@@ -30,5 +30,12 @@ Date: 2026-06-03
 
 ## Regle de lecture
 
-Chaque note contient un email court, un objet, le contact prioritaire et l'angle d'approche. Les contacts a confiance faible doivent etre verifies sur LinkedIn ou Pappers avant envoi.
+Chaque note contient un email court, un objet, le contact prioritaire, les chiffres publics utiles et l'angle d'approche. Les contacts a confiance faible doivent etre verifies sur LinkedIn ou Pappers avant envoi.
 
+Chiffres inclus dans les emails:
+
+- CA 2023: c. 3,4 M EUR.
+- Effectif public: 20-49 salaries.
+- Tresorerie 2023: 261 k EUR.
+- Dettes financieres 2023: 1,76 M EUR.
+- Prix de cession / financement minimum: non public a ce stade; a confirmer en data room.
