@@ -1,7 +1,7 @@
 ---
 type: moc
 project: brantham
-updated: 2026-05-21
+updated: 2026-06-03
 ---
 
 # Brantham Deals
@@ -18,6 +18,7 @@ updated: 2026-05-21
 | SAS Fitness Levallois | analyse | [[brantham/deals/active/sas-fitness-levallois/_MOC]] |
 | Open Bee France | — | [[brantham/deals/active/open-bee-france/_MOC]] |
 | SYMDRIK | analyse data room / strategie reprise | [[brantham/deals/active/symdrik/_MOC]] |
+| Abattoirs Gesler | sourcing repreneurs | [[brantham/deals/active/gesler/repreneurs-2026-06-03]] |
 
 ## Identifiés (OSINT)
 
