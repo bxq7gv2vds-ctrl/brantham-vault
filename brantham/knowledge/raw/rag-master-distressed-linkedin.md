@@ -1,11 +1,20 @@
+---
+name: RAG Master — Stratégie LinkedIn Distressed M&A
+description: Base de connaissance complète pour la production de contenu LinkedIn Brantham Partners. 1703 lignes couvrant positionnement, territoires éditoriaux, thèses signatures, formats, cadence, style, guardrails, prompts, backlog 100 idées, 8 posts prêts, séries éditoriales, algorithme de génération.
+type: raw-source
+status: active
+version: "1.0"
+created: 2026-06-03
+source: rag_distressed_linkedin_brantham_pack
+compiled_into: []
+---
+
 # RAG Pack — Stratégie LinkedIn Distressed M&A / Brantham / Économie réelle
 
 Version: 1.0  
 Date: 2026-06-03  
 Langue principale: français  
 Usage cible: OpenCode, agents IA, génération LinkedIn, stratégie éditoriale, base de contexte RAG, prompt engineering, pipeline de contenu.
-
----
 
 ## 0. Résumé exécutif
 
@@ -30,8 +39,6 @@ La stratégie doit s'inspirer de la mécanique de contenu de Brivael sur X, sans
 Objectif: construire un média personnel LinkedIn transversal, intelligent, viral, crédible et différenciant.
 
 Cadence cible: deux prises de parole par jour sur LinkedIn.
-
----
 
 ## 1. Identité éditoriale
 
@@ -79,8 +86,6 @@ Version bio LinkedIn:
 
 > Distressed M&A | Entreprises en crise | Reprises à la barre  
 > J'analyse les entreprises qui tombent, les repreneurs qui gagnent, et les erreurs de gestion qui coûtent des millions.
-
----
 
 ## 2. Grande thèse centrale
 
@@ -131,8 +136,6 @@ Elle attaque une idée reçue:
 
 Elle propose un reframe:
 > Les faillites sont des crash tests économiques.
-
----
 
 ## 3. Mécanique de contenu inspirée de Brivael
 
@@ -221,8 +224,6 @@ Exemples:
 - Le cash ne ment pas. Il encaisse ou il manque.
 - En distressed M&A, le temps est un créancier.
 - Le tribunal ne valorise pas les rêves. Il teste ce qui tient encore debout.
-
----
 
 ## 4. Territoires éditoriaux
 
@@ -512,8 +513,6 @@ Angles:
 - Pourquoi les entreprises mal capitalisées deviennent des cibles.
 - Pourquoi certaines faillites renforcent les leaders.
 
----
-
 ## 5. Thèses signatures
 
 Ces thèses doivent être réutilisées, reformulées, déclinées.
@@ -538,8 +537,6 @@ Ces thèses doivent être réutilisées, reformulées, déclinées.
 18. Les salariés sont parfois le dernier actif vivant d'une entreprise en crise.
 19. Une faillite est une due diligence réalisée par le réel.
 20. Le tribunal ne valorise pas les rêves. Il teste ce qui tient encore debout.
-
----
 
 ## 6. Formats récurrents
 
@@ -646,8 +643,6 @@ Structure:
 4. Exemple sectoriel.
 5. Chute.
 
----
-
 ## 7. Cadence LinkedIn
 
 ### 7.1 Objectif
@@ -731,8 +726,6 @@ Chaque semaine:
 - 1 post opinion clivant.
 - 1 récapitulatif.
 
----
-
 ## 8. Style d'écriture
 
 ### 8.1 Principes
@@ -791,8 +784,6 @@ Au lieu de:
 Dire:
 > En distressed M&A, on ne regarde pas seulement ce qu'on achète. On regarde surtout ce qui peut exploser après la reprise.
 
----
-
 ## 9. Guardrails juridiques, réputationnels et éditoriaux
 
 ### 9.1 Confidentialité
@@ -845,8 +836,6 @@ Même si le style est fort, ne jamais oublier:
 - une reprise peut sauver mais aussi supprimer des emplois;
 - le distressed M&A n'est pas un jeu;
 - le contenu doit être lucide, pas cruel.
-
----
 
 ## 10. Prompts opérationnels
 
@@ -1037,8 +1026,6 @@ Donne:
 3. Note visuelle.
 4. Post d'accompagnement.
 
----
-
 ## 11. Backlog d'idées de posts
 
 ### 11.1 Finance / cash
@@ -1170,8 +1157,6 @@ Donne:
 98. Une startup échoue avec un post LinkedIn. Une PME ferme avec des salariés et des fournisseurs.
 99. La vraie création de valeur est parfois dans la survie.
 100. Les entreprises moches cachent parfois les meilleurs actifs.
-
----
 
 ## 12. Exemples de posts prêts à publier
 
@@ -1448,8 +1433,6 @@ Dans une levée de fonds, on vend le futur.
 
 Dans une reprise à la barre, on teste le réel.
 
----
-
 ## 13. Rubriques / séries éditoriales
 
 ### Série 1 — Autopsies d'entreprises
@@ -1536,8 +1519,6 @@ Titres:
 - Reprendre une usine comme acte stratégique.
 - Les crises géopolitiques et les opportunités distressed.
 
----
-
 ## 14. Algorithme de génération d'un post
 
 Pour tout sujet donné:
@@ -1569,8 +1550,6 @@ OUTPUT: post LinkedIn
 - compliance = check_confidentiality_and_legal_risk(post)
 - return post
 
----
-
 ## 15. Schéma metadata pour ingestion RAG
 
 Chaque chunk peut être indexé avec les champs suivants:
@@ -1588,8 +1567,6 @@ Chaque chunk peut être indexé avec les champs suivants:
   "content": "..."
 }
 ```
-
----
 
 ## 16. Instructions pour un agent IA
 
@@ -1621,8 +1598,6 @@ Réponse par défaut à une demande de stratégie:
 - proposer le backlog;
 - proposer des exemples.
 
----
-
 ## 17. Dataset de classification rapide
 
 ### Si le sujet contient:
@@ -1645,8 +1620,6 @@ Réponse par défaut à une demande de stratégie:
 - Tribunal: symbolique, théâtral, précis.
 - Géopolitique: large, souveraineté, chaînes de valeur.
 - Travail: humain, respectueux, concret.
-
----
 
 ## 18. CTA et amplification
 
@@ -1677,8 +1650,6 @@ Après publication, ajouter en commentaire:
 Exemple:
 > Nuance importante: une entreprise en redressement judiciaire n'est pas nécessairement condamnée. Certains dossiers gardent des actifs très solides. Le sujet, c'est souvent le temps disponible pour les sauver.
 
----
-
 ## 19. Checklist qualité avant publication
 
 Avant de publier:
@@ -1695,8 +1666,6 @@ Avant de publier:
 - Le post évite-t-il les affirmations juridiques risquées?
 - Le post peut-il générer un débat?
 - Le post renforce-t-il le positionnement?
-
----
 
 ## 20. Résumé ultra-court pour prompt système
 
