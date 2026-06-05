@@ -43,3 +43,5 @@ Digest quotidien des annonces AJ. **Source live** : cockpit PostgreSQL (`interna
 - [[brantham/deals/aj-feed/2026-06-03]] — 488 deals
 
 - [[brantham/deals/aj-feed/2026-06-04]] — 783 deals
+
+- [[brantham/deals/aj-feed/2026-06-05]] — 695 deals
