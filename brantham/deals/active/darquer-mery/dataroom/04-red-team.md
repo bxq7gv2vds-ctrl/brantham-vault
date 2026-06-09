@@ -13,9 +13,9 @@ Le risque principal est de sous-estimer la complexité industrielle. La dentelle
 
 ## 2. Objection au prix bas
 
-Le tribunal peut considérer que les actifs Calais ont une valeur d'exploitation importante : inventaire Calais à 913 kEUR, patrimoine industriel rare, stocks, archives. Une offre à 100 kEUR peut être perçue comme trop agressive si elle ne reprend pas assez d'emplois.
+Le tribunal peut considérer que les actifs Calais ont une valeur d'exploitation importante : inventaire Calais à 913 kEUR, patrimoine industriel rare, stocks, archives. Une offre à 50-60 kEUR peut être perçue comme très agressive, voire opportuniste, si elle ne reprend pas assez d'emplois ou si le plan de financement est faible.
 
-Réponse : le prix doit être défendu par le cash injecté en BFR, la valeur incertaine des stocks, le coût de maintien du site et les investissements nécessaires. Mais il faut documenter ça.
+Réponse : le prix doit être défendu par le cash injecté en BFR, la valeur incertaine des stocks, le coût de maintien du site et les investissements nécessaires. À 50-60 kEUR, il faut montrer que le repreneur met le vrai argent dans l'exploitation, pas dans le prix facial.
 
 ## 3. Objection au périmètre social resserré
 
@@ -64,8 +64,7 @@ Le dossier mérite une analyse complète et probablement une offre si les points
 - CA 2026 supérieur à 3,3 MEUR annualisé ;
 - carnet de commandes réel ;
 - 26-30 salariés suffisent ;
-- prix maintenu sous 200 kEUR hors BFR ;
+- prix maintenu à 50-60 kEUR maximum hors BFR ;
 - cash disponible au moins 1 MEUR.
 
 Sinon, le bon mouvement est de viser des actifs isolés ou de passer.
-

@@ -140,11 +140,11 @@ Mais :
 
 | Offre | Prix indicatif | Quand l'utiliser |
 |---|---:|---|
-| Offre ultra-prudente | 50-100 kEUR | Si peu d'emplois repris, stock fortement décoté, BFR important. |
+| Offre ultra-prudente | 50-60 kEUR | Plafond repreneur. Défendable seulement avec stock fortement décoté/exclu, reprise sociale calibrée et BFR prouvé. |
 | Offre équilibrée | 100-200 kEUR | Si 24-30 salariés repris et actifs/stock Calais sélectionnés. |
 | Offre haute | 200-300 kEUR | Si stock vendable prouvé + carnet commandes ferme + site sécurisé. |
 
-Prix recommandé à ce stade : 100-200 kEUR, avec argument central que la vraie contribution est le financement du redémarrage et la conservation d'un noyau d'emplois durable.
+Prix retenu côté repreneur : 50-60 kEUR maximum. C'est inférieur à la fourchette "équilibrée" initiale ; il faut donc compenser par la qualité d'exécution : cash de relance, maintien d'emplois ciblé, preuve de fonds, plan industriel crédible et argumentaire très dur sur la non-valeur du stock ancien.
 
 ## 9. Conditions avant dépôt
 
@@ -158,4 +158,3 @@ Ne pas déposer sans :
 - tri stock vendable / non vendable ;
 - clarification droits collections / dessins / exclusivités ;
 - visite technique machines et coût de maintenance urgent.
-

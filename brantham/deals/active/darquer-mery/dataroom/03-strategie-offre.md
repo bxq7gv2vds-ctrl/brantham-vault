@@ -74,17 +74,21 @@ Le tribunal peut préférer 30 emplois robustes à 44 emplois qui redéposent. L
 
 ### Prix
 
-Fourchette actuelle recommandée : 100-200 kEUR.
+Plafond repreneur retenu : 50-60 kEUR maximum.
 
-Structure possible :
-- prix actifs corporels/incorporels : 75-125 kEUR ;
-- stock vendable sélectionné : 25-75 kEUR ;
+Cette fourchette est agressive mais défendable uniquement si l'offre ne prétend pas acheter la valeur comptable du stock ni "sauver" le périmètre complet. Elle doit être construite comme une reprise du coeur industriel utile, avec prix faible mais cash de relance documenté.
+
+Structure possible à 50-60 kEUR :
+- prix actifs corporels/incorporels Calais : 45-55 kEUR ;
+- stock vendable sélectionné : 5 kEUR symboliques ou stock exclu / repris après récolement ;
 - stock obsolète ou ancien : prix symbolique ou exclusion ;
 - pas de reprise de passif antérieur.
 
+Argumentaire : le stock comptable ne vaut pas cash. L'inventaire commissaire-priseur signale des états non à jour, du stock ancien, du mélange, du deuxième choix et des droits exclusifs possibles. Le repreneur conserve son cash pour le BFR, les salaires, l'énergie, la maintenance et la sécurisation du site.
+
 ### Garanties
 
-À joindre :
+À joindre impérativement, sinon 50-60 kEUR sera trop faible :
 - preuve de fonds couvrant prix + BFR ;
 - attestation bancaire ou compte séquestre ;
 - business plan 12 mois ;
@@ -141,3 +145,17 @@ Avant rédaction d'une offre :
 6. fixer périmètre social nominatif ;
 7. construire offre L642-2 complète.
 
+## 9. Formulation recommandée pour une offre à 50-60 kEUR
+
+L'offre ne doit pas dire "la société vaut 50 kEUR". Elle doit dire :
+
+> Le prix de cession facial est volontairement calibré à 50-60 kEUR parce que la valeur économique ne réside pas dans un prix versé à la procédure mais dans la capacité du repreneur à financer immédiatement la continuité : BFR, énergie, maintenance, relance commerciale, tri des stocks, sécurisation des salariés clés et remise en ordre du site. Un prix supérieur réduirait mécaniquement les garanties d'exécution et la pérennité des emplois repris.
+
+À défendre avec :
+- reprise d'un nombre d'emplois cohérent et tenable ;
+- financement total disponible beaucoup plus élevé que le prix ;
+- preuves de fonds ;
+- plan 100 jours ;
+- liste précise des actifs repris ;
+- exclusion ou reprise symbolique des stocks douteux ;
+- engagement de ne pas céder les actifs stratégiques pendant 24 mois, sauf accord du tribunal si nécessaire.
