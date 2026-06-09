@@ -1,0 +1,697 @@
+  2C25013 - SAS DARQUER & MERY
+
+                           Liste des immobilisations (par n° de plan comptable immo)
+                                                   Pour toutes les immobilisations du dossier                                               Exprimé en euros
+N° Im m o      Lib Im m obilisation                    DeviseDate Acquis.                    Quantité        Val. Entrée                                 T.V.A.
+Reg. Sec.                                        Nom Fournisseur                                             Val. Vénale             Val. d'Usage       Val. rés.
+
+                                           Date Am ort. Taux Mode Durée                      Base Am ort. Am ort. Dépréc.    Am ort. Prat.     V.N.C.
+                                                              Type U.O.                         Total U.O.        U.O. pratiquées Valeur Annuelle U.O.
+
+Com pte n° 205000                                   Concessions et droits similair
+C40125        SITE E COMMERCE ARCHIPELIA                      E           01/01/2024            1,00               8 990,00                                   0,00
+0000 / 0000                                      CESSION DESSEILLES                                                    0,00                   0,00            0,00
+
+                                    Eco. 01/01/2024       10,00       L      10 ans, 0 mois     8 990,00                      0,00              0,00         8 990,00
+
+                                    Fis.     01/01/2024   10,00       L      10 ans, 0 mois     8 990,00                      0,00              0,00         8 990,00
+Sous-total                                                                                                      8 990,00                     0,00              0,00
+                                               Sous-total     Econom ique                         8 990,00                    0,00               0,00         8 990,00
+                                               Sous-total     Fiscal                              8 990,00                    0,00               0,00         8 990,00
+
+
+Com pte n° 207000                                   Fonds commercial
+B40400        FOND DE COMMERCE                                E           01/04/2014            1,00              20 000,00                                   0,00
+0000 / 0000                                                                                                            0,00                   0,00            0,00
+
+                                    Eco. 01/04/2014         0,00      N      0 an, 0 mois       20000,00                      0,00              0,00        20 000,00
+
+                                    Fis.     01/04/2014     0,00      N      0 an, 0 mois       20000,00                      0,00              0,00        20 000,00
+C30600        FOND MARQUE BREVET DESSIN                       E           01/06/2023            1,00              20 000,00                                   0,00
+0000 / 0000                                      CALAIS DENTELLE                                                       0,00                   0,00            0,00
+
+                                    Eco. 01/06/2023         0,00      N      0 an, 0 mois       20000,00                      0,00              0,00        20 000,00
+
+                                    Fis.     01/06/2023     0,00      N      0 an, 0 mois       20000,00                      0,00              0,00        20 000,00
+C40126        FOND COMMERCE DESSEILLES                        E           01/01/2024            1,00              11 010,00                                   0,00
+0000 / 0000                                      CESSION DESSEILLES                                                    0,00                   0,00            0,00
+
+                                    Eco. 01/01/2024         0,00      N      0 an, 0 mois       11010,00                      0,00              0,00        11 010,00
+
+                                    Fis.     01/01/2024     0,00      N      0 an, 0 mois       11010,00                      0,00              0,00        11 010,00
+Sous-total                                                                                                     51 010,00                     0,00              0,00
+                                               Sous-total     Econom ique                        51 010,00                    0,00               0,00        51 010,00
+                                               Sous-total     Fiscal                             51 010,00                    0,00               0,00        51 010,00
+
+
+Com pte n° 215400                                   Matériels industriels
+B40405        56 METIERS                                      E           01/04/2014            1,00              15 880,00                                   0,00
+0000 / 0000                                                                                                            0,00                   0,00            0,00
+
+                                    Eco. 01/04/2014       50,00       L      2 ans, 0 mois      15880,00                      0,00        15 880,00                 0,00
+
+                                    Fis.     01/04/2014   50,00       L      2 ans, 0 mois      15880,00                      0,00        15 880,00                 0,00
+B61000        METIERS EN PIECES DETACHEES                     E           03/10/2016            1,00              10 000,00                                   0,00
+0000 / 0000                                                                                                            0,00                   0,00            0,00
+
+                                    Eco. 03/10/2016       50,00       L      2 ans, 0 mois      10000,00                      0,00        10 000,00                 0,00
+
+                                    Fis.     03/10/2016   50,00       L      2 ans, 0 mois      10000,00                      0,00        10 000,00                 0,00
+B71000        5 METIERS COLIN                                 E           31/10/2017            1,00              85 000,00                                   0,00
+0000 / 0000                                                                                                            0,00                   0,00            0,00
+
+                                    Eco. 31/10/2017       12,50       L      8 ans, 0 mois      85000,00                      0,00        65 550,35         19 449,65
+
+                                    Fis.     31/10/2017   12,50       L      8 ans, 0 mois      85000,00                      0,00        65 550,35         19 449,65
+C21208        REEVAL. 56 METIERS                              E           31/12/2022            1,00             820 000,00                                   0,00
+0000 / 0000                                                                                                            0,00                   0,00            0,00
+
+                                    Eco. 01/01/2023         5,00      L      20 ans, 0 mois 820000,00                         0,00        41 000,00       779 000,00
+
+
+
+
+ Cabinet FIDAC Calais                                                                                                          21/05/2025    - 09:56        Page - 1
+  2C25013 - SAS DARQUER & MERY
+
+                        Liste des immobilisations (par n° de plan comptable immo)
+                                                     Pour toutes les immobilisations du dossier                                           Exprimé en euros
+N° Im m o      Lib Im m obilisation                      DeviseDate Acquis.                 Quantité       Val. Entrée                                T.V.A.
+Reg. Sec.                                          Nom Fournisseur                                         Val. Vénale             Val. d'Usage      Val. rés.
+
+                                          Date Am ort. Taux Mode Durée                      Base Am ort. Am ort. Dépréc.    Am ort. Prat.     V.N.C.
+                                                             Type U.O.                         Total U.O.        U.O. pratiquées Valeur Annuelle U.O.
+Com pte n° 215400                                     Matériels industriels                                                                               (Suite)
+                                       Fis.    01/01/2023    5,00       L      20 ans, 0 mois 820000,00                     0,00        41 000,00      779 000,00
+C21209        REEVAL. METIERS EN PIECES DETA                    E           31/12/2022          1,00            60 000,00                                  0,00
+0000 / 0000                                                                                                         0,00                    0,00           0,00
+
+                                       Eco. 01/01/2023       5,00       L      20 ans, 0 mois   60000,00                    0,00          3 000,00       57 000,00
+
+                                       Fis.    01/01/2023    5,00       L      20 ans, 0 mois   60000,00                    0,00          3 000,00       57 000,00
+C40100        2 OUVREUSES-3 RASEUSES                            E           01/01/2024          1,00             1 109,00                                  0,00
+0000 / 0000                                        CESSION DESSEILLES                                               0,00                    0,00           0,00
+
+                                       Eco. 01/01/2024      10,00       L      10 ans, 0 mois   1 109,00                    0,00              0,00        1 109,00
+
+                                       Fis.    01/01/2024   10,00       L      10 ans, 0 mois   1 109,00                    0,00              0,00        1 109,00
+C40101        1 CERCLEUSE-2FILMEUSES                            E           01/01/2024          1,00              222,00                                   0,00
+0000 / 0000                                        CESSION DESSEILLES                                               0,00                    0,00           0,00
+
+                                       Eco. 01/01/2024      10,00       L      10 ans, 0 mois     222,00                    0,00              0,00          222,00
+
+                                       Fis.    01/01/2024   10,00       L      10 ans, 0 mois     222,00                    0,00              0,00          222,00
+C40102        53 METIERS LEAVERS                                E           01/01/2024          1,00            36 952,00                                  0,00
+0000 / 0000                                        CESSION DESSEILLES                                               0,00                    0,00           0,00
+
+                                       Eco. 01/01/2024       5,00       L      20 ans, 0 mois   36952,00                    0,00              0,00       36 952,00
+
+                                       Fis.    01/01/2024    5,00       L      20 ans, 0 mois   36952,00                    0,00              0,00       36 952,00
+C40103        CENTRALE A AIR COMPRIME                           E           01/01/2024          1,00              185,00                                   0,00
+0000 / 0000                                        CESSION DESSEILLES                                               0,00                    0,00           0,00
+
+                                       Eco. 01/01/2024      10,00       L      10 ans, 0 mois     185,00                    0,00              0,00          185,00
+
+                                       Fis.    01/01/2024   10,00       L      10 ans, 0 mois     185,00                    0,00              0,00          185,00
+C40104        34 TRAVEES RACKS METAL                            E           01/01/2024          1,00              185,00                                   0,00
+0000 / 0000                                        CESSION DESSEILLES                                               0,00                    0,00           0,00
+
+                                       Eco. 01/01/2024      10,00       L      10 ans, 0 mois     185,00                    0,00              0,00          185,00
+
+                                       Fis.    01/01/2024   10,00       L      10 ans, 0 mois     185,00                    0,00              0,00          185,00
+C40105        2 FOURS JAPONAIS TSUCHIGA                         E           01/01/2024          1,00              185,00                                   0,00
+0000 / 0000                                        CESSION DESSEILLES                                               0,00                    0,00           0,00
+
+                                       Eco. 01/01/2024      10,00       L      10 ans, 0 mois     185,00                    0,00              0,00          185,00
+
+                                       Fis.    01/01/2024   10,00       L      10 ans, 0 mois     185,00                    0,00              0,00          185,00
+C40106        NACELLE BELONE                                    E           01/01/2024          1,00              370,00                                   0,00
+0000 / 0000                                        CESSION DESSEILLES                                               0,00                    0,00           0,00
+
+                                       Eco. 01/01/2024      10,00       L      10 ans, 0 mois     370,00                    0,00              0,00          370,00
+
+                                       Fis.    01/01/2024   10,00       L      10 ans, 0 mois     370,00                    0,00              0,00          370,00
+C40107        NACELLE CROWN                                     E           01/01/2024          1,00              296,00                                   0,00
+0000 / 0000                                        CESSION DESSEILLES                                               0,00                    0,00           0,00
+
+                                       Eco. 01/01/2024      10,00       L      10 ans, 0 mois     296,00                    0,00              0,00          296,00
+
+                                       Fis.    01/01/2024   10,00       L      10 ans, 0 mois     296,00                    0,00              0,00          296,00
+C40108        CHARGEUR STILL RX50                               E           01/01/2024          1,00              185,00                                   0,00
+0000 / 0000                                        CESSION DESSEILLES                                               0,00                    0,00           0,00
+
+                                       Eco. 01/01/2024      10,00       L      10 ans, 0 mois     185,00                    0,00              0,00          185,00
+
+
+
+
+ Cabinet FIDAC Calais                                                                                                        21/05/2025    - 09:56       Page - 2
+  2C25013 - SAS DARQUER & MERY
+
+                        Liste des immobilisations (par n° de plan comptable immo)
+                                                     Pour toutes les immobilisations du dossier                                           Exprimé en euros
+N° Im m o      Lib Im m obilisation                      DeviseDate Acquis.                 Quantité       Val. Entrée                                T.V.A.
+Reg. Sec.                                          Nom Fournisseur                                         Val. Vénale             Val. d'Usage      Val. rés.
+
+                                         Date Am ort. Taux Mode Durée                       Base Am ort. Am ort. Dépréc.    Am ort. Prat.     V.N.C.
+                                                            Type U.O.                          Total U.O.        U.O. pratiquées Valeur Annuelle U.O.
+Com pte n° 215400                                     Matériels industriels                                                                               (Suite)
+                                      Fis.     01/01/2024   10,00       L      10 ans, 0 mois     185,00                    0,00              0,00          185,00
+C40109        BALANCES SARTORICES                               E           01/01/2024          1,00              185,00                                   0,00
+0000 / 0000                                        CESSION DESSEILLES                                               0,00                    0,00           0,00
+
+                                      Eco. 01/01/2024       10,00       L      10 ans, 0 mois     185,00                    0,00              0,00          185,00
+
+                                      Fis.     01/01/2024   10,00       L      10 ans, 0 mois     185,00                    0,00              0,00          185,00
+C40110        6 CANTRES METAL                                   E           01/01/2024          1,00              443,00                                   0,00
+0000 / 0000                                        CESSION DESSEILLES                                               0,00                    0,00           0,00
+
+                                      Eco. 01/01/2024       10,00       L      10 ans, 0 mois     443,00                    0,00              0,00          443,00
+
+                                      Fis.     01/01/2024   10,00       L      10 ans, 0 mois     443,00                    0,00              0,00          443,00
+C40111        12 METIERS KARL MAYER                             E           01/01/2024          1,00            29 561,00                                  0,00
+0000 / 0000                                        CESSION DESSEILLES                                               0,00                    0,00           0,00
+
+                                      Eco. 01/01/2024        5,00       L      20 ans, 0 mois   29561,00                    0,00              0,00       29 561,00
+
+                                      Fis.     01/01/2024    5,00       L      20 ans, 0 mois   29561,00                    0,00              0,00       29 561,00
+C40112        TRANSPALETTES-SCIES/TABLES-TOU                    E           01/01/2024          1,00              370,00                                   0,00
+0000 / 0000                                        CESSION DESSEILLES                                               0,00                    0,00           0,00
+
+                                      Eco. 01/01/2024       10,00       L      10 ans, 0 mois     370,00                    0,00              0,00          370,00
+
+                                      Fis.     01/01/2024   10,00       L      10 ans, 0 mois     370,00                    0,00              0,00          370,00
+C40113        55 TRAVEES RACKS GROS PORTEURS                    E           01/01/2024          1,00              443,00                                   0,00
+0000 / 0000                                        CESSION DESSEILLES                                               0,00                    0,00           0,00
+
+                                      Eco. 01/01/2024       10,00       L      10 ans, 0 mois     443,00                    0,00              0,00          443,00
+
+                                      Fis.     01/01/2024   10,00       L      10 ans, 0 mois     443,00                    0,00              0,00          443,00
+C40114        1 TOURET-2TOURS PROMAC ERNAULT                    E           01/01/2024          1,00              370,00                                   0,00
+0000 / 0000                                        CESSION DESSEILLES                                               0,00                    0,00           0,00
+
+                                      Eco. 01/01/2024       10,00       L      10 ans, 0 mois     370,00                    0,00              0,00          370,00
+
+                                      Fis.     01/01/2024   10,00       L      10 ans, 0 mois     370,00                    0,00              0,00          370,00
+C40115        2 PERCEUSES A COLONNE                             E           01/01/2024          1,00              185,00                                   0,00
+0000 / 0000                                        CESSION DESSEILLES                                               0,00                    0,00           0,00
+
+                                      Eco. 01/01/2024       10,00       L      10 ans, 0 mois     185,00                    0,00              0,00          185,00
+
+                                      Fis.     01/01/2024   10,00       L      10 ans, 0 mois     185,00                    0,00              0,00          185,00
+C40116        MACHINE INJECTION KAP SCHUBERT                    E           01/01/2024          1,00              185,00                                   0,00
+0000 / 0000                                        CESSION DESSEILLES                                               0,00                    0,00           0,00
+
+                                      Eco. 01/01/2024       10,00       L      10 ans, 0 mois     185,00                    0,00              0,00          185,00
+
+                                      Fis.     01/01/2024   10,00       L      10 ans, 0 mois     185,00                    0,00              0,00          185,00
+C40117        OURDISSOIR ATELIER BELMON 2002                    E           01/01/2024          1,00             2 956,00                                  0,00
+0000 / 0000                                        CESSION DESSEILLES                                               0,00                    0,00           0,00
+
+                                      Eco. 01/01/2024       10,00       L      10 ans, 0 mois   2 956,00                    0,00              0,00        2 956,00
+
+                                      Fis.     01/01/2024   10,00       L      10 ans, 0 mois   2 956,00                    0,00              0,00        2 956,00
+C40118        FRAISEUSES-MORTAISEUSE-MEULEUS                    E           01/01/2024          1,00              185,00                                   0,00
+0000 / 0000                                        CESSION DESSEILLES                                               0,00                    0,00           0,00
+
+                                      Eco. 01/01/2024       10,00       L      10 ans, 0 mois     185,00                    0,00              0,00          185,00
+
+
+
+
+ Cabinet FIDAC Calais                                                                                                        21/05/2025    - 09:56       Page - 3
+  2C25013 - SAS DARQUER & MERY
+
+                        Liste des immobilisations (par n° de plan comptable immo)
+                                                    Pour toutes les immobilisations du dossier                                                 Exprimé en euros
+N° Im m o      Lib Im m obilisation                     DeviseDate Acquis.                    Quantité         Val. Entrée                                  T.V.A.
+Reg. Sec.                                         Nom Fournisseur                                              Val. Vénale              Val. d'Usage       Val. rés.
+
+                                        Date Am ort. Taux Mode Durée                          Base Am ort. Am ort. Dépréc.    Am ort. Prat.     V.N.C.
+                                                           Type U.O.                             Total U.O.        U.O. pratiquées Valeur Annuelle U.O.
+Com pte n° 215400                                    Matériels industriels                                                                                      (Suite)
+                                    Fis.      01/01/2024    10,00      L      10 ans, 0 mois        185,00                       0,00              0,00           185,00
+C40119        SCIE CIRC-MORTAISEUSE-RABOTEUS                   E           01/01/2024            1,00                  443,00                                     0,00
+0000 / 0000                                       CESSION DESSEILLES                                                     0,00                    0,00             0,00
+
+                                    Eco. 01/01/2024         10,00      L      10 ans, 0 mois        443,00                       0,00              0,00           443,00
+
+                                    Fis.      01/01/2024    10,00      L      10 ans, 0 mois        443,00                       0,00              0,00           443,00
+Sous-total                                                                                                     1 065 895,00                     0,00              0,00
+                                                Sous-total     Econom ique                      1 065 895,00                     0,00         135 430,35       930 464,65
+                                                Sous-total     Fiscal                           1 065 895,00                     0,00         135 430,35       930 464,65
+
+
+Com pte n° 215700                                    Matériel d'entretien
+B61200        MACHINE A REMONTER POUR MT26                     E           01/12/2016            1,00                14 500,00                                    0,00
+0000 / 0000                                                                                                              0,00                    0,00             0,00
+
+                                    Eco. 01/12/2016         20,00      L      5 ans, 0 mois      14500,00                        0,00        14 500,00                 0,00
+
+                                    Fis.      01/12/2016    20,00      L      5 ans, 0 mois      14500,00                        0,00        14 500,00                 0,00
+B70500        1 MACHINE REMONTER M3                            E           15/05/2017            1,00                 9 250,00                                    0,00
+0000 / 0000                                                                                                              0,00                    0,00             0,00
+
+                                    Eco. 15/05/2017         20,00      L      5 ans, 0 mois       9 250,00                       0,00          9 250,00                0,00
+
+                                    Fis.      15/05/2017    20,00      L      5 ans, 0 mois       9 250,00                       0,00          9 250,00                0,00
+B70501        1 DISTRIBUTEUR DE CHARIOTS M3                    E           15/05/2017            1,00                 3 000,00                                    0,00
+0000 / 0000                                                                                                              0,00                    0,00             0,00
+
+                                    Eco. 15/05/2017         20,00      L      5 ans, 0 mois       3 000,00                       0,00          3 000,00                0,00
+
+                                    Fis.      15/05/2017    20,00      L      5 ans, 0 mois       3 000,00                       0,00          3 000,00                0,00
+C21210        REEVAL. MACHINE A REMONTER MT2                   E           31/12/2022            1,00                  500,00                                     0,00
+0000 / 0000                                                                                                              0,00                    0,00             0,00
+
+                                    Eco. 01/01/2023         33,33      L      3 ans, 0 mois         500,00                       0,00           166,67            333,33
+
+                                    Fis.      01/01/2023    33,33      L      3 ans, 0 mois         500,00                       0,00           166,67            333,33
+C21211        REEVAL. MACHINE REMONTER M3                      E           31/12/2022            1,00                  500,00                                     0,00
+0000 / 0000                                                                                                              0,00                    0,00             0,00
+
+                                    Eco. 01/01/2023         33,33      L      3 ans, 0 mois         500,00                       0,00           166,67            333,33
+
+                                    Fis.      01/01/2023    33,33      L      3 ans, 0 mois         500,00                       0,00           166,67            333,33
+C21212        REEVAL DISTRIBUTEUR DE CHARIOT                   E           31/12/2022            1,00                  500,00                                     0,00
+0000 / 0000                                                                                                              0,00                    0,00             0,00
+
+                                    Eco. 01/01/2023         33,33      L      3 ans, 0 mois         500,00                       0,00           166,67            333,33
+
+                                    Fis.      01/01/2023    33,33      L      3 ans, 0 mois         500,00                       0,00           166,67            333,33
+C30101        ECHELLE                                          E           05/01/2023            1,00                  744,04                                   148,81
+0000 / 0000                                       EQUIPEX                                                                0,00                    0,00             0,00
+
+                                    Eco. 05/01/2023         33,33      L      3 ans, 0 mois         744,04                       0,00           245,25            498,79
+
+                                    Fis.      05/01/2023    33,33      L      3 ans, 0 mois         744,04                       0,00           245,25            498,79
+Sous-total                                                                                                       28 994,04                      0,00            148,81
+                                                Sous-total     Econom ique                        28 994,04                      0,00          27 495,26         1 498,78
+                                                Sous-total     Fiscal                             28 994,04                      0,00          27 495,26         1 498,78
+
+
+Com pte n° 218100                                    Install. géné., agenc. aménag.
+
+
+
+
+ Cabinet FIDAC Calais                                                                                                             21/05/2025    - 09:56        Page - 4
+  2C25013 - SAS DARQUER & MERY
+
+                         Liste des immobilisations (par n° de plan comptable immo)
+                                                     Pour toutes les immobilisations du dossier                                            Exprimé en euros
+N° Im m o      Lib Im m obilisation                      DeviseDate Acquis.                 Quantité        Val. Entrée                                 T.V.A.
+Reg. Sec.                                          Nom Fournisseur                                          Val. Vénale             Val. d'Usage       Val. rés.
+
+                                          Date Am ort. Taux Mode Durée                      Base Am ort. Am ort. Dépréc.    Am ort. Prat.     V.N.C.
+                                                             Type U.O.                         Total U.O.        U.O. pratiquées Valeur Annuelle U.O.
+
+B50700        STOCKAGE R2 DE GRAEF                             E         01/07/2015            1,00              13 722,55                                    0,00
+0000 / 0000                                                                                                          0,00                    0,00             0,00
+
+                                      Eco. 01/07/2015       10,00   L       10 ans, 0 mois     13722,55                      0,00        11 664,21          2 058,34
+
+                                      Fis.     01/07/2015   10,00   L       10 ans, 0 mois     13722,55                      0,00        11 664,21          2 058,34
+B61100        ESCALIER DROIT 44°                               E         16/11/2016            1,00               2 988,00                                    0,00
+0000 / 0000                                                                                                          0,00                    0,00             0,00
+
+                                      Eco. 16/11/2016       10,00   L       10 ans, 0 mois     2 988,00                      0,00          2 128,95            859,05
+
+                                      Fis.     16/11/2016   10,00   L       10 ans, 0 mois     2 988,00                      0,00          2 128,95            859,05
+B70100        1 MONTE CHARGE RUE GAMBETTA                      E         31/01/2017            1,00               2 852,85                                    0,00
+0000 / 0000                                                                                                          0,00                    0,00             0,00
+
+                                      Eco. 31/01/2017       12,50   L       8 ans, 0 mois      2 852,85                      0,00          2 467,54            385,31
+
+                                      Fis.     31/01/2017   12,50   L       8 ans, 0 mois      2 852,85                      0,00          2 467,54            385,31
+B70900        1 CABINET DE TOILETTE RDC SIEG                   E         10/09/2017            1,00               2 033,00                                    0,00
+0000 / 0000                                                                                                          0,00                    0,00             0,00
+
+                                      Eco. 10/09/2017       10,00   L       10 ans, 0 mois     2 033,00                      0,00          1 282,48            750,52
+
+                                      Fis.     10/09/2017   10,00   L       10 ans, 0 mois     2 033,00                      0,00          1 282,48            750,52
+B71200        OUVERTURE COUR RUE BARBUSSE N°                   E         28/12/2017            1,00               5 937,00                                    0,00
+0000 / 0000                                                                                                          0,00                    0,00             0,00
+
+                                      Eco. 28/12/2017       10,00   L       10 ans, 0 mois     5 937,00                      0,00          3 567,15         2 369,85
+
+                                      Fis.     28/12/2017   10,00   L       10 ans, 0 mois     5 937,00                      0,00          3 567,15         2 369,85
+B71201        INSTAL.SANITAIRE RUE BARBUSSE                    E         28/12/2017            1,00               5 337,56                                    0,00
+0000 / 0000                                                                                                          0,00                    0,00             0,00
+
+                                      Eco. 28/12/2017       10,00   L       10 ans, 0 mois     5 337,56                      0,00          3 207,01         2 130,55
+
+                                      Fis.     28/12/2017   10,00   L       10 ans, 0 mois     5 337,56                      0,00          3 207,01         2 130,55
+C10200        CLOISON ET PLAFONDS STOCK                        E         01/02/2021            1,00               5 000,00                                 1 000,00
+0000 / 0000                                        MENUISERIE DE GRAEF                                               0,00                    0,00             0,00
+
+                                      Eco. 01/02/2021       10,00   L       10 ans, 0 mois     5 000,00                      0,00          1 458,33         3 541,67
+
+                                      Fis.     01/02/2021   10,00   L       10 ans, 0 mois     5 000,00                      0,00          1 458,33         3 541,67
+C21200        PLAFONDS 2EME ETAGE                              E         15/12/2022            1,00               4 388,80                                  877,76
+0000 / 0000                                        MENUISERIE DE GRAEF                                               0,00                    0,00             0,00
+
+                                      Eco. 15/12/2022       10,00   L       10 ans, 0 mois     4 388,80                      0,00           458,39          3 930,41
+
+                                      Fis.     15/12/2022   10,00   L       10 ans, 0 mois     4 388,80                      0,00           458,39          3 930,41
+C21201        CLOISON ET SOL 2EME ETAGE                        E         15/12/2022            1,00              10 460,77                                 2 092,15
+0000 / 0000                                        MENUISERIE DEGRAEF                                                0,00                    0,00             0,00
+
+                                      Eco. 15/12/2022       10,00   L       10 ans, 0 mois     10460,77                      0,00          1 092,57         9 368,20
+
+                                      Fis.     15/12/2022   10,00   L       10 ans, 0 mois     10460,77                      0,00          1 092,57         9 368,20
+Sous-total                                                                                                    52 720,53                     0,00          3 969,91
+                                                 Sous-total     Econom ique                     52 720,53                    0,00          27 326,63        25 393,90
+                                                 Sous-total     Fiscal                          52 720,53                    0,00          27 326,63        25 393,90
+
+
+Com pte n° 218200                                     Matériel de transport
+B40401        1 FORD TRANSIT 2008                              E         01/04/2014            1,00               1 000,00                                    0,00
+0000 / 0000                                                                                                          0,00                    0,00             0,00
+
+                                      Eco. 01/04/2014       50,00   L       2 ans, 0 mois      1 000,00                      0,00          1 000,00                0,00
+
+
+ Cabinet FIDAC Calais                                                                                                         21/05/2025    - 09:56        Page - 5
+  2C25013 - SAS DARQUER & MERY
+
+                         Liste des immobilisations (par n° de plan comptable immo)
+                                                     Pour toutes les immobilisations du dossier                                               Exprimé en euros
+N° Im m o      Lib Im m obilisation                      DeviseDate Acquis.                    Quantité        Val. Entrée                                 T.V.A.
+Reg. Sec.                                          Nom Fournisseur                                             Val. Vénale             Val. d'Usage       Val. rés.
+
+                                           Date Am ort. Taux Mode Durée                        Base Am ort. Am ort. Dépréc.    Am ort. Prat.     V.N.C.
+                                                              Type U.O.                           Total U.O.        U.O. pratiquées Valeur Annuelle U.O.
+
+                                        Fis.   01/04/2014    50,00      L      2 ans, 0 mois      1 000,00                      0,00          1 000,00                0,00
+B40402        1 407 PEUGEOT 2007                                E           01/04/2014            1,00                800,00                                     0,00
+0000 / 0000                                                                                                             0,00                    0,00             0,00
+
+                                        Eco. 01/04/2014      50,00      L      2 ans, 0 mois        800,00                      0,00           800,00                 0,00
+
+                                        Fis.   01/04/2014    50,00      L      2 ans, 0 mois        800,00                      0,00           800,00                 0,00
+C21213        REEVAL FORD TRANSIT 2008                          E           31/12/2022            1,00                300,00                                     0,00
+0000 / 0000                                                                                                             0,00                    0,00             0,00
+
+                                        Eco. 01/01/2023      33,33      L      3 ans, 0 mois        300,00                      0,00           100,00             200,00
+
+                                        Fis.   01/01/2023    33,33      L      3 ans, 0 mois        300,00                      0,00           100,00             200,00
+C21214        REEVAL 407 PEUGEOT 2007                           E           31/12/2022            1,00                300,00                                     0,00
+0000 / 0000                                                                                                             0,00                    0,00             0,00
+
+                                        Eco. 01/01/2023      33,33      L      3 ans, 0 mois        300,00                      0,00           100,00             200,00
+
+                                        Fis.   01/01/2023    33,33      L      3 ans, 0 mois        300,00                      0,00           100,00             200,00
+C30301        FIESTA AFFAIRES BUSINESS                          E           29/03/2023            1,00              10 736,43                                 2 147,29
+0000 / 0000                                        MOTOCAR                                                              0,00                    0,00             0,00
+
+                                        Eco. 29/03/2023      20,00      L      3 ans, 0 mois      10736,43                      0,00          1 622,40         9 114,03
+
+                                        Fis.   29/03/2023    20,00      L      3 ans, 0 mois      10736,43                      0,00          1 622,40         9 114,03
+C40120        BMW SERIE 1                                       E           01/01/2024            1,00               2 583,00                                    0,00
+0000 / 0000                                        CESSION DESSEILLES                                                   0,00                    0,00             0,00
+
+                                        Eco. 01/01/2024      20,00      L      5 ans, 0 mois      2 583,00                      0,00              0,00         2 583,00
+
+                                        Fis.   01/01/2024    20,00      L      5 ans, 0 mois      2 583,00                      0,00              0,00         2 583,00
+C40121        PEUGEOT 208                                       E           01/01/2024            1,00                739,00                                     0,00
+0000 / 0000                                        CESSION DESSEILLES                                                   0,00                    0,00             0,00
+
+                                        Eco. 01/01/2024      20,00      L      5 ans, 0 mois        739,00                      0,00              0,00            739,00
+
+                                        Fis.   01/01/2024    20,00      L      5 ans, 0 mois        739,00                      0,00              0,00            739,00
+C40122        CITROEN JUMPY                                     E           01/01/2024            1,00                739,00                                     0,00
+0000 / 0000                                        CESSION DESSEILLES                                                   0,00                    0,00             0,00
+
+                                        Eco. 01/01/2024      20,00      L      5 ans, 0 mois        739,00                      0,00              0,00            739,00
+
+                                        Fis.   01/01/2024    20,00      L      5 ans, 0 mois        739,00                      0,00              0,00            739,00
+C40123        RENAULT KANGOO                                    E           01/01/2024            1,00                185,00                                     0,00
+0000 / 0000                                        CESSION DESSEILLES                                                   0,00                    0,00             0,00
+
+                                        Eco. 01/01/2024      33,33      L      3 ans, 0 mois        185,00                      0,00              0,00            185,00
+
+                                        Fis.   01/01/2024    33,33      L      3 ans, 0 mois        185,00                      0,00              0,00            185,00
+C40124        RENAULT MAXITY                                    E           01/01/2024            1,00                739,00                                     0,00
+0000 / 0000                                        CESSION DESSEILLES                                                   0,00                    0,00             0,00
+
+                                        Eco. 01/01/2024      20,00      L      5 ans, 0 mois        739,00                      0,00              0,00            739,00
+
+                                        Fis.   01/01/2024    20,00      L      5 ans, 0 mois        739,00                      0,00              0,00            739,00
+Sous-total                                                                                                       18 121,43                     0,00          2 147,29
+                                                 Sous-total     Econom ique                        18 121,43                    0,00           3 622,40        14 499,03
+                                                 Sous-total     Fiscal                             18 121,43                    0,00           3 622,40        14 499,03
+
+
+Com pte n° 218300                                     Matériel de bureau et mat.info
+
+
+
+
+ Cabinet FIDAC Calais                                                                                                            21/05/2025    - 09:56        Page - 6
+  2C25013 - SAS DARQUER & MERY
+
+                           Liste des immobilisations (par n° de plan comptable immo)
+                                                     Pour toutes les immobilisations du dossier                                          Exprimé en euros
+N° Im m o      Lib Im m obilisation                      DeviseDate Acquis.                 Quantité      Val. Entrée                                T.V.A.
+Reg. Sec.                                          Nom Fournisseur                                        Val. Vénale             Val. d'Usage      Val. rés.
+
+                                          Date Am ort. Taux Mode Durée                      Base Am ort. Am ort. Dépréc.    Am ort. Prat.     V.N.C.
+                                                             Type U.O.                         Total U.O.        U.O. pratiquées Valeur Annuelle U.O.
+
+B40403        1 SERVEUR TERRA 2013                               E       01/04/2014            1,00             2 240,00                                   0,00
+0000 / 0000                                                                                                        0,00                    0,00            0,00
+
+                                       Eco. 01/04/2014      50,00    L      2 ans, 0 mois      2 240,00                    0,00          2 240,00               0,00
+
+                                       Fis.    01/04/2014   50,00    L      2 ans, 0 mois      2 240,00                    0,00          2 240,00               0,00
+B40404        5 PC YE LOGICIELS                                  E       01/04/2014            1,00              500,00                                    0,00
+0000 / 0000                                                                                                        0,00                    0,00            0,00
+
+                                       Eco. 01/04/2014      50,00    L      2 ans, 0 mois        500,00                    0,00           500,00                0,00
+
+                                       Fis.    01/04/2014   50,00    L      2 ans, 0 mois        500,00                    0,00           500,00                0,00
+B41000        2 PC FIXES DECLIC                                  E       21/10/2014            0,50             1 377,60                                   0,00
+0000 / 0000                                                                                                        0,00                    0,00            0,00
+
+                                       Eco. 21/10/2014      33,33    L      3 ans, 0 mois      1 377,60                    0,00          1 377,60               0,00
+
+                                       Fis.    21/10/2014   33,33    L      3 ans, 0 mois      1 377,60                    0,00          1 377,60               0,00
+B60600        TERRA PC BUSINESS.7100 SILENT+                     E       14/06/2016            1,00             1 529,50                                   0,00
+0000 / 0000                                                                                                        0,00                    0,00            0,00
+
+                                       Eco. 14/06/2016      33,33    L      3 ans, 0 mois      1 529,50                    0,00          1 529,50               0,00
+
+                                       Fis.    14/06/2016   33,33    L      3 ans, 0 mois      1 529,50                    0,00          1 529,50               0,00
+B71100        1 PC ASUS GAUTIER                                  E       08/11/2017            1,00              978,33                                    0,00
+0000 / 0000                                                                                                        0,00                    0,00            0,00
+
+                                       Eco. 08/11/2017      33,33    L      3 ans, 0 mois        978,33                    0,00           978,33                0,00
+
+                                       Fis.    08/11/2017   33,33    L      3 ans, 0 mois        978,33                    0,00           978,33                0,00
+B80600        1 BALANCE VVC                                      E       04/06/2018            1,00              650,00                                    0,00
+0000 / 0000                                                                                                        0,00                    0,00            0,00
+
+                                       Eco. 04/06/2018      33,33    L      3 ans, 0 mois        650,00                    0,00           650,00                0,00
+
+                                       Fis.    04/06/2018   33,33    L      3 ans, 0 mois        650,00                    0,00           650,00                0,00
+C10600        TELEPHONIE RESEAU PAREFEU                          E       01/06/2021            1,00             3 259,50                                 651,90
+0000 / 0000                                        INFORMATECH                                                     0,00                    0,00            0,00
+
+                                       Eco. 01/06/2021      20,00    L      5 ans, 0 mois      3 259,50                    0,00          1 684,08        1 575,42
+
+                                       Fis.    01/06/2021   20,00    L      5 ans, 0 mois      3 259,50                    0,00          1 684,08        1 575,42
+C10900        1 PC TERRA                                         E       21/09/2021            1,00             1 016,67                                 203,33
+0000 / 0000                                        DECLIC INFO                                                     0,00                    0,00            0,00
+
+                                       Eco. 21/09/2021      33,33    L      3 ans, 0 mois      1 016,67                    0,00           771,92           244,75
+
+                                       Fis.    21/09/2021   33,33    L      3 ans, 0 mois      1 016,67                    0,00           771,92           244,75
+C20300        PC PORTABLE 17 POUCES                              E       31/03/2022            1,00             1 070,06                                 214,01
+0000 / 0000                                        DECLIC INFO                                                     0,00                    0,00            0,00
+
+                                       Eco. 31/03/2022      33,33    L      3 ans, 0 mois      1 070,06                    0,00           625,20           444,86
+
+                                       Fis.    31/03/2022   33,33    L      3 ans, 0 mois      1 070,06                    0,00           625,20           444,86
+C20600        PC PORTABLE TERRA 1716                             E       14/06/2022            1,00             1 366,18                                 273,24
+0000 / 0000                                        DECLIC INFO                                                     0,00                    0,00            0,00
+
+                                       Eco. 14/06/2022      33,33    L      3 ans, 0 mois      1 366,18                    0,00           704,59           661,59
+
+
+
+
+ Cabinet FIDAC Calais                                                                                                       21/05/2025    - 09:56       Page - 7
+  2C25013 - SAS DARQUER & MERY
+
+                         Liste des immobilisations (par n° de plan comptable immo)
+                                                     Pour toutes les immobilisations du dossier                                            Exprimé en euros
+N° Im m o      Lib Im m obilisation                      DeviseDate Acquis.                 Quantité        Val. Entrée                                 T.V.A.
+Reg. Sec.                                          Nom Fournisseur                                          Val. Vénale             Val. d'Usage       Val. rés.
+
+                                           Date Am ort. Taux Mode Durée                     Base Am ort. Am ort. Dépréc.    Am ort. Prat.     V.N.C.
+                                                              Type U.O.                        Total U.O.        U.O. pratiquées Valeur Annuelle U.O.
+Com pte n° 218300                                     Matériel de bureau et mat.info                                                                        (Suite)
+                                        Fis.   14/06/2022   33,33    L      3 ans, 0 mois      1 366,18                      0,00           704,59            661,59
+C20601        PC PORTABLE TERRA MOBILE 1716                      E       14/06/2022            1,00                782,50                                   156,50
+0000 / 0000                                        DECLIC INFO                                                       0,00                    0,00             0,00
+
+                                        Eco. 14/06/2022     33,33    L      3 ans, 0 mois        782,50                      0,00           403,56            378,94
+
+                                        Fis.   14/06/2022   33,33    L      3 ans, 0 mois        782,50                      0,00           403,56            378,94
+C21202        PC FIXE BURO+                                      E       31/12/2022            1,00                595,83                                   119,17
+0000 / 0000                                        DECLIC INFO                                                       0,00                    0,00             0,00
+
+                                        Eco. 31/12/2022     33,33    L      3 ans, 0 mois        595,83                      0,00           199,16            396,67
+
+                                        Fis.   31/12/2022   33,33    L      3 ans, 0 mois        595,83                      0,00           199,16            396,67
+C21215        REEVAL SERVEUR TERRA 2013                          E       31/12/2022            1,00                150,00                                     0,00
+0000 / 0000                                                                                                          0,00                    0,00             0,00
+
+                                        Eco. 01/01/2023     33,33    L      3 ans, 0 mois        150,00                      0,00             50,00           100,00
+
+                                        Fis.   01/01/2023   33,33    L      3 ans, 0 mois        150,00                      0,00             50,00           100,00
+C21216        REEVAL 5 PC YE LOGICIEL                            E       31/12/2022            1,00                150,00                                     0,00
+0000 / 0000                                                                                                          0,00                    0,00             0,00
+
+                                        Eco. 01/01/2023     33,33    L      3 ans, 0 mois        150,00                      0,00             50,00           100,00
+
+                                        Fis.   01/01/2023   33,33    L      3 ans, 0 mois        150,00                      0,00             50,00           100,00
+C21218        REEVAL PC ASUS GAUTHIER                            E       31/12/2022            1,00                150,00                                     0,00
+0000 / 0000                                                                                                          0,00                    0,00             0,00
+
+                                        Eco. 01/01/2023     33,33    L      3 ans, 0 mois        150,00                      0,00             50,00           100,00
+
+                                        Fis.   01/01/2023   33,33    L      3 ans, 0 mois        150,00                      0,00             50,00           100,00
+C21219        TERRA PC BUSINESS 7100                             E       31/12/2022            1,00                150,00                                     0,00
+0000 / 0000                                                                                                          0,00                    0,00             0,00
+
+                                        Eco. 01/01/2023     33,33    L      3 ans, 0 mois        150,00                      0,00             50,00           100,00
+
+                                        Fis.   01/01/2023   33,33    L      3 ans, 0 mois        150,00                      0,00             50,00           100,00
+C21220        REEVAL BALANCE VVC                                 E       31/12/2022            1,00                150,00                                     0,00
+0000 / 0000                                                                                                          0,00                    0,00             0,00
+
+                                        Eco. 01/01/2023     33,33    L      3 ans, 0 mois        150,00                      0,00             50,00           100,00
+
+                                        Fis.   01/01/2023   33,33    L      3 ans, 0 mois        150,00                      0,00             50,00           100,00
+C40900        RESEAU ET TELEPHONIE                               E       11/09/2024            1,00               6 959,50                                    0,00
+0000 / 0000                                        INFORMATECH                                                       0,00                    0,00             0,00
+
+                                        Eco. 11/09/2024     14,29    L      7 ans, 0 mois      6 959,50                      0,00              0,00         6 959,50
+
+                                        Fis.   11/09/2024   14,29    L      7 ans, 0 mois      6 959,50                      0,00              0,00         6 959,50
+Sous-total                                                                                                    23 075,67                     0,00          1 618,15
+                                                 Sous-total      Econom ique                    23 075,67                    0,00          11 913,94        11 161,73
+                                                 Sous-total      Fiscal                         23 075,67                    0,00          11 913,94        11 161,73
+
+
+Com pte n° 218400                                     Mobilier
+B70101        1 TABLE DE REUNION                                 E       27/01/2017            1,00                743,20                                     0,00
+0000 / 0000                                                                                                          0,00                    0,00             0,00
+
+                                        Eco. 27/01/2017     12,50    L      8 ans, 0 mois        743,20                      0,00           643,59              99,61
+
+
+
+
+ Cabinet FIDAC Calais                                                                                                         21/05/2025    - 09:56        Page - 8
+  2C25013 - SAS DARQUER & MERY
+
+                        Liste des immobilisations (par n° de plan comptable immo)
+                                                 Pour toutes les immobilisations du dossier                                              Exprimé en euros
+N° Im m o      Lib Im m obilisation                  DeviseDate Acquis.                  Quantité         Val. Entrée                                 T.V.A.
+Reg. Sec.                                      Nom Fournisseur                                            Val. Vénale             Val. d'Usage       Val. rés.
+
+                                       Date Am ort. Taux Mode Durée                      Base Am ort. Am ort. Dépréc.    Am ort. Prat.     V.N.C.
+                                                          Type U.O.                         Total U.O.        U.O. pratiquées Valeur Annuelle U.O.
+
+                                    Fis.   27/01/2017   12,50     L      8 ans, 0 mois        743,20                       0,00           643,59             99,61
+B70102        1 MEUBLE PAUSE CAFE                           E         27/01/2017            1,00                 297,60                                    0,00
+0000 / 0000                                                                                                        0,00                    0,00            0,00
+
+                                    Eco. 27/01/2017     12,50     L      8 ans, 0 mois        297,60                       0,00           257,71             39,89
+
+                                    Fis.   27/01/2017   12,50     L      8 ans, 0 mois        297,60                       0,00           257,71             39,89
+Sous-total                                                                                                   1 040,80                     0,00              0,00
+                                             Sous-total     Econom ique                       1 040,80                     0,00            901,30            139,50
+                                             Sous-total     Fiscal                            1 040,80                     0,00            901,30            139,50
+
+
+Com pte n° 274300                                 Prêts Solendi
+B51200        PRET SOLENDI                                  E         31/12/2015            1,00                3 217,30                                   0,00
+0000 / 0000                                                                                                        0,00                    0,00            0,00
+
+                                    Eco. 31/12/2015       0,00    N      0 an, 0 mois       3 217,30                       0,00              0,00         3 217,30
+
+                                    Fis.   31/12/2015     0,00    N      0 an, 0 mois       3 217,30                       0,00              0,00         3 217,30
+B61201        PRET SOLENDI                                  E         28/12/2016            1,00                   0,00                                    0,00
+0000 / 0000                                                                                                        0,00                    0,00            0,00
+
+                                    Eco. 28/12/2016       0,00    N      0 an, 0 mois              0,00                    0,00              0,00                0,00
+
+                                    Fis.   28/12/2016     0,00    N      0 an, 0 mois              0,00                    0,00              0,00                0,00
+B61202        PRET SOLENDI                                  E         28/12/2016            1,00                4 077,37                                   0,00
+0000 / 0000                                                                                                        0,00                    0,00            0,00
+
+                                    Eco. 28/12/2016       0,00    N      0 an, 0 mois       4 077,37                       0,00              0,00         4 077,37
+
+                                    Fis.   28/12/2016     0,00    N      0 an, 0 mois       4 077,37                       0,00              0,00         4 077,37
+B71202        PRET SOLENDI                                  E         28/12/2017            1,00                4 257,00                                   0,00
+0000 / 0000                                                                                                        0,00                    0,00            0,00
+
+                                    Eco. 28/12/2017       0,00    N      0 an, 0 mois       4 257,00                       0,00              0,00         4 257,00
+
+                                    Fis.   28/12/2017     0,00    N      0 an, 0 mois       4 257,00                       0,00              0,00         4 257,00
+B81200        PRET SOLENDI                                  E         20/12/2018            1,00                4 477,00                                   0,00
+0000 / 0000                                                                                                        0,00                    0,00            0,00
+
+                                    Eco. 20/12/2018       0,00    N      0 an, 0 mois       4 477,00                       0,00              0,00         4 477,00
+
+                                    Fis.   20/12/2018     0,00    N      0 an, 0 mois       4 477,00                       0,00              0,00         4 477,00
+B91200        PRET SOLENDI                                  E         18/12/2019            1,00                3 920,00                                   0,00
+0000 / 0000                                                                                                        0,00                    0,00            0,00
+
+                                    Eco. 18/12/2019       0,00    N      0 an, 0 mois       3 920,00                       0,00              0,00         3 920,00
+
+                                    Fis.   18/12/2019     0,00    N      0 an, 0 mois       3 920,00                       0,00              0,00         3 920,00
+Sous-total                                                                                                  19 948,67                     0,00              0,00
+                                             Sous-total     Econom ique                      19 948,67                     0,00               0,00        19 948,67
+                                             Sous-total     Fiscal                           19 948,67                     0,00               0,00        19 948,67
+
+
+Com pte n° 612200
+C10300        RENAULT SCENIC                                E         31/03/2023            1,00               26 990,02                                   0,00
+0000 / 0000                                                                                                        0,00                    0,00            0,00
+
+                                    Eco. 31/03/2023     20,00     L      5 ans, 0 mois      26990,02                       0,00        13 509,99         13 480,03
+
+
+
+
+ Cabinet FIDAC Calais                                                                                                       21/05/2025    - 09:56        Page - 9
+ 2C25013 - SAS DARQUER & MERY
+
+                     Liste des immobilisations (par n° de plan comptable immo)
+                                             Pour toutes les immobilisations du dossier                                       Exprimé en euros
+N° Im m o    Lib Im m obilisation                DeviseDate Acquis.             Quantité         Val. Entrée                               T.V.A.
+Reg. Sec.                                  Nom Fournisseur                                       Val. Vénale           Val. d'Usage       Val. rés.
+
+                                    Date Am ort. Taux Mode Durée                Base Am ort. Am ort. Dépréc.    Am ort. Prat.     V.N.C.
+                                                       Type U.O.                   Total U.O.        U.O. pratiquées Valeur Annuelle U.O.
+
+                                Fis.   31/03/2023   20,00   L   5 ans, 0 mois      26990,02                     0,00        13 509,99         13 480,03
+Sous-total                                                                                         26 990,02                   0,00              0,00
+                                         Sous-total    Econom ique                  26 990,02                   0,00          13 509,99        13 480,03
+                                         Sous-total    Fiscal                       26 990,02                   0,00          13 509,99        13 480,03
+
+
+Total                                                                                            1 296 786,16                  0,00          7 884,16
+                                              Total    Econom ique                1 296 786,16                  0,00         220 199,87     1 076 586,29
+                                              Total    Fiscal                     1 296 786,16                  0,00         220 199,87     1 076 586,29
+
+
+
+
+Cabinet FIDAC Calais                                                                                             21/05/2025    - 09:56      Page - 10
+

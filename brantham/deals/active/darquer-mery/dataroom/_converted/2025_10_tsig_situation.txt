@@ -1,0 +1,312 @@
+Cabinet FIDAC Calais                                            SAS DARQUER & MERY                                    Page :               2
+                 T
+PR    Détail des Soldes Intermédiaires (Activité mixte)
+  OJE                                                           01/01/2025        10       01/01/2024        12
+                        Etat exprimé en euros                   31/10/2025        mois     31/12/2024        mois     Variations       %
+
+Montant net du chiffre d'affaires                                 4 669 476,41 100,00        4 930 654,31 100,00      (261 177,90)    -5,30
+
+
+  Ventes de marchandises                                          3 076 352,95     65,88     3 684 524,30     74,73   (608 171,35) -16,51
+   707100        Ventes Mdises France Lingerie                    1 526 051,47     32,68     1 529 506,40     31,02     (3 454,93) -0,23
+   7071012       Ventes Export Lingerie                             488 386,57     10,46       721 524,53     14,63   (233 137,96) -32,31
+   7071013       Ventes CEE Lingerie                                420 088,32      9,00       576 476,09     11,69   (156 387,77) -27,13
+   7071014       Ventes Suspension Lingerie                           4 854,41      0,10        85 914,86      1,74    (81 060,45) -94,35
+   707102        Ventes E-Commerce France Lingerie                   34 544,33      0,74       134 817,09      2,73   (100 272,76) -74,38
+   70710201      Ventes E-Commerce Export lingerie                                                 626,03      0,01       (626,03) -100,00
+   707110        Ventes dentelles stock Darquer France Robe         128 458,10      2,75        90 663,60      1,84      37 794,50 41,69
+   707111        Ventes Dentelle Negoce France Robe                  73 490,85      1,57       126 331,06      2,56    (52 840,21) -41,83
+   707200        Vente Dentelle Negoce Export Robe                   29 896,79      0,64        20 136,40      0,41       9 760,39 48,47
+   707210        Vente de dentelles stock Darquer Export Rob        136 334,84      2,92       137 086,43      2,78       (751,59) -0,55
+   707300        Vente Dentellesnegoce CEE Robe                      42 796,54      0,92        77 802,27      1,58    (35 005,73) -44,99
+   707310        Vente de dentelles stock Darquer CEE Robe          171 680,72      3,68       176 746,32      3,58     (5 065,60) -2,87
+   707400        Vente Dentelles negoce suspension Robe              17 159,37      0,37         3 803,30      0,08      13 356,07 351,17
+   707410        Ventes de marchandises Robe Suspension               2 610,64      0,06         3 089,92      0,06       (479,28) -15,51
+
+  Achats de marchandises                                            201 757,40      6,56       343 160,64      9,31   (141 403,24) -41,21
+   607100        Achat negoce France                                 81 391,05      2,65        71 544,30      1,94       9 846,75 13,76
+   607300        Achats Negoce CEE                                  120 366,35      3,91       252 494,41      6,85   (132 128,06) -52,33
+   607400        Achats negoce Suspension                                                       19 121,93      0,52    (19 121,93) -100,00
+
+  Variation de stocks de marchandises                                                          328 379,29      8,91   (328 379,29) -100,00
+   603700        Variation stock negoce Darquer                                                 65 663,83      1,78    (65 663,83) -100,00
+   603710        Variation stock marchandises                                                  262 715,46      7,13   (262 715,46) -100,00
+
+Marge commerciale                                                 2 874 595,55     93,44     3 012 984,37     81,77   (138 388,82)    -4,59
+
+
+  Production vendue                                               1 593 123,46     34,12     1 246 130,01     25,27    346 993,45     27,85
+
+   701100        Ventes dentelles France Robe                       346 517,20      7,42       284 254,52      5,77       62 262,68 21,90
+   701200        Vente de dentelles export Robe                     419 983,64      8,99       460 575,19      9,34    (40 591,55) -8,81
+   701300        Vente de dentelles CEE Robe                        642 774,75     13,77       336 664,22      6,83     306 110,53 90,92
+   701400        Vente de dentelles suspension Robe                 143 571,92      3,07         58 052,18     1,18       85 519,74 147,32
+   709100        R.R.R. France Robe                                  (6 050,55)    -0,13        (1 506,88)    -0,03      (4 543,67) -301,53
+   709200        R.R.R. Export Robe                                  (1 027,30)    -0,02        (1 846,95)    -0,04          819,65 44,38
+   709210        R.R.R. CEE Robe                                   (11 155,61)     -0,24                               (11 155,61)
+   709300        R.R.R CEE ROBE                                                                  (718,19)     -0,01          718,19 100,00
+   709400        R.R.R. Suspension Robes                             (1 552,32)    -0,03                                 (1 552,32)
+   706100        Prestations de services France lingerie               5 096,65     0,11         5 230,51      0,11        (133,86) -2,56
+   706110        Prestations Clipage/Rasage France lingerie            2 889,48     0,06           105,26                  2 784,22 N/S
+   706115        Prestation services export lingerie                                               167,17                  (167,17) -100,00
+   706210        Prestation T einture France Lingerie                 5 440,00      0,12         2 160,00      0,04        3 280,00 151,85
+   708100        Port France Robe                                     2 829,86      0,06         6 785,71      0,14      (3 955,85) -58,30
+   708200        Commissions Royalties France Lingerie                   87,50                     290,42      0,01        (202,92) -69,87
+   708210        Commissions Royalties Export Lingerie                                           4 002,00      0,08      (4 002,00) -100,00
+   708220        Port export Robe                                    13 495,88      0,29        10 217,18      0,21        3 278,70 32,09
+   708320        Port CEE Robe                                        6 801,49      0,15         7 462,57      0,15        (661,08) -8,86
+   708400        Mise à disposition personnel france Lingerie           268,38      0,01           877,75      0,02        (609,37) -69,42
+   708500        Ports et frais acc France Lingerie                  14 770,26      0,32        14 268,39      0,29          501,87 3,52
+   708520        Frais de port Export lingerie                        1 607,04      0,03         6 337,73      0,13      (4 730,69) -74,64
+   708530        Frais de Port CEE lingerie                           2 339,98      0,05         3 745,12      0,08      (1 405,14) -37,52
+   708540        Produits des activités annexes                           9,89                                                 9,89
+   708810        Autres produits Acc suspension lingerie              3 846,66      0,08        10 018,40      0,20      (6 171,74) -61,60
+   708811        Cession Matières Fil France lingerie                                            3 207,16      0,07      (3 207,16) -100,00
+   708812        Ventes Emballages Export Lingerie                       28,66                                                28,66
+   708820        Autres Produits Acc Export lingerie                    550,00      0,01        19 637,63      0,40    (19 087,63) -97,20
+   708830        Autres Produits Acc CEE lingerie                                                   42,92                   (42,92) -100,00
+   708840        Autres Produits Acc France lingerie                                             2 000,00      0,04      (2 000,00) -100,00
+   708850        Ventes matériels divers                                                        14 100,00      0,29    (14 100,00) -100,00
+Cabinet FIDAC Calais                                 SAS DARQUER & MERY                                   Page :              3
+                 T
+PR    Détail des Soldes Intermédiaires (Activité mixte)
+  OJE                                                01/01/2025       10       01/01/2024        12
+                          Etat exprimé en euros      31/10/2025       mois     31/12/2024        mois     Variations      %
+
+  Production stockée                                                               464 478,86      9,42   (464 478,86) -100,00
+   713500         Variation des stocks produits                                    464 478,86      9,42   (464 478,86) -100,00
+
+Production de l'exercice                               1 593 123,46    34,12     1 710 608,87     34,69   (117 485,41)   -6,87
+
+
+  Achats stockés approvisionnement                       345 384,96    21,68       462 303,82     27,03   (116 918,86) -25,29
+   601000         Achats Mat premières Fils Calais         4 966,25     0,31        67 564,95      3,95    (62 598,70) -92,65
+   601100         Achats mat. premières 20%               67 609,97     4,24        35 620,36      2,08      31 989,61 89,81
+   601300         Achats matières CEE                     57 475,86     3,61        81 578,87      4,77    (24 103,01) -29,55
+   601400         Achats matières suspension             180 911,45    11,36       223 492,37     13,07    (42 580,92) -19,05
+   602210         Fuel Calais                             21 207,90     1,33        30 434,45      1,78     (9 226,55) -30,32
+   602600         Emballages                              13 213,53     0,83        23 612,82      1,38    (10 399,29) -44,04
+
+  Variation de stocks approvisionnements                                           (45 322,36)    -2,65     45 322,36 100,00
+   603110         Variation stock mat.premières                                    (45 322,36)    -2,65     45 322,36 100,00
+
+  Achats de sous-traitance                               873 718,00    54,84       937 916,73     54,83    (64 198,73)   -6,84
+
+   604000         Ourdissage                                                         2 268,59      0,13     (2 268,59) -100,00
+   604100         Siliconage                              60 837,04     3,82        67 224,14      3,93     (6 387,10) -9,50
+   604110         T einture France                       302 592,53    18,99       405 486,44     23,70   (102 893,91) -25,38
+   604111         T einture Suspension                   223 896,62    14,05       127 424,91      7,45      96 471,71 75,71
+   604130         Analyse Chimique                         4 006,76     0,25           244,08      0,01       3 762,68 N/S
+   604150         Prestation Leveque                      19 020,49     1,19         2 035,59      0,12      16 984,90 834,40
+   604160         Prestation Fouquart                      8 669,24     0,54        49 004,46      2,86    (40 335,22) -82,31
+   604200         Découpage effilage suspension           31 317,60     1,97        12 612,03      0,74      18 705,57 148,32
+   604210         Découpage effilage France              223 377,72    14,02       271 616,49     15,88    (48 238,77) -17,76
+
+Marge brute de production                                374 020,50    23,48       355 710,68     20,79     18 309,82     5,15
+
+
+MARGES ( Commerciale + Production )                    3 248 616,05    69,57     3 368 695,05     68,32   (120 079,00)   -3,56
+
+
+  Achats non stockés matières et fournitures             221 389,41     4,74       260 734,05      5,29    (39 344,64) -15,09
+   606110         Eau                                      3 540,40     0,08         4 247,72      0,09       (707,32) -16,65
+   606120         Electricité                            129 116,40     2,77       139 653,03      2,83    (10 536,63) -7,54
+   606130         Gaz                                     61 674,28     1,32        77 648,98      1,57    (15 974,70) -20,57
+   606150         Carburant                                7 912,21     0,17         9 725,80      0,20     (1 813,59) -18,65
+   606310         Produits entretien                       5 768,73     0,12         1 834,73      0,04       3 934,00 214,42
+   606320         Fourn. petit équip.                      4 978,24     0,11         8 514,72      0,17     (3 536,48) -41,53
+   606400         Fournitures administratives              3 904,85     0,08        12 381,66      0,25     (8 476,81) -68,46
+   606500         Fournitures informatiques                4 494,30     0,10         6 727,41      0,14     (2 233,11) -33,19
+
+  Autres charges externes                              1 140 099,92    24,42     1 263 207,63     25,62   (123 107,71)   -9,75
+
+   611000         Sous-traitance générale                 87 190,03     1,87        75 366,76      1,53      11 823,27 15,69
+   611010         Sous-traitance Export                  152 007,71     3,26       182 060,91      3,69    (30 053,20) -16,51
+   612200         Crédit-bail mobilier                     4 672,80     0,10         5 607,36      0,11       (934,56) -16,67
+   613200         Locations immobilières                 100 711,57     2,16       129 296,00      2,62    (28 584,43) -22,11
+   613520         Location Véhicules                       4 315,30     0,09         2 499,18      0,05       1 816,12 72,67
+   613540         Location bennes à ordures                4 511,45     0,10         2 797,82      0,06       1 713,63 61,25
+   613550         Droits mensuels Archipelia              31 398,62     0,67        39 777,32      0,81     (8 378,70) -21,06
+   613559         Droit Kelio-Gestion des temps            2 703,76     0,06         3 302,28      0,07       (598,52) -18,12
+   613561         Droit Adn Silae                          4 276,78     0,09         4 011,20      0,08         265,58 6,62
+   613570         Location Photocopieur                      800,00     0,02           960,00      0,02       (160,00) -16,67
+   613580         Location Canon BNP paribas les             470,00     0,01           564,00      0,01        (94,00) -16,67
+   613600         Location serveur informatique            1 098,00     0,02         2 358,27      0,05     (1 260,27) -53,44
+   615200         Entretien / biens immobiliers           33 983,95     0,73        93 180,13      1,89    (59 196,18) -63,53
+   615500         Entretien matériels                      5 442,90     0,12        54 953,78      1,11    (49 510,88) -90,10
+   615530         Entretien véhicules                      4 409,02     0,09         6 002,02      0,12     (1 593,00) -26,54
+   615550         Entretien / Matériels                   26 908,07     0,58                                 26 908,07
+   615600         Maintenance                              9 044,69     0,19        13 864,04      0,28     (4 819,35) -34,76
+Cabinet FIDAC Calais                                     SAS DARQUER & MERY                                  Page :               4
+                 T
+PR    Détail des Soldes Intermédiaires (Activité mixte)
+  OJE                                                    01/01/2025       10       01/01/2024       12
+                          Etat exprimé en euros          31/10/2025       mois     31/12/2024       mois     Variations       %
+    615601       Maintenance CEE                                 600,00     0,01         7 200,00     0,15     (6 600,00) -91,67
+    615700       Maintenance ascenseurs                        1 128,92     0,02         1 461,40     0,03       (332,48) -22,75
+    616100       Assurances auto                               8 471,53     0,18         9 345,80     0,19       (874,27) -9,35
+    616101       Ass/loyer BNP paribas leasing                    50,00                     60,00                 (10,00) -16,67
+    616170       Assurance matériel informatique                 210,59                     48,32                  162,27 335,82
+    616500       Assurances diverses                         100 356,84     2,15       125 618,36     2,55    (25 261,52) -20,11
+    618100       Documentation générale                          709,00     0,02           676,00     0,01           33,00 4,88
+    621100       Personnel intérimaire                                                   5 722,99     0,12     (5 722,99) -100,00
+    621400       Personnel détaché ou prêté                   51 694,18     1,11        28 851,33     0,59      22 842,85 79,17
+    622210       Commissions/ventes france                    53 230,46     1,14        57 790,55     1,17     (4 560,09) -7,89
+    622220       Commission /ventes étranger                  45 349,94     0,97        38 979,70     0,79       6 370,24 16,34
+    622300       Commissions CEE                              44 033,63     0,94        57 569,07     1,17    (13 535,44) -23,51
+    622500       Rémunerations d'affacturage                   8 431,46     0,18         5 609,13     0,11       2 822,33 50,32
+    622510       Commissions affacturage export                1 916,60     0,04         1 494,32     0,03         422,28 28,26
+    622600       Honoraires comptables                        13 232,60     0,28        11 510,40     0,23       1 722,20 14,96
+    622620       Honoraires divers                            90 889,86     1,95        13 638,79     0,28      77 251,07 566,41
+    622641       Management Fees                              30 000,00     0,64        36 000,00     0,73     (6 000,00) -16,67
+    622650       T raitement informatiques                    22 500,00     0,48        17 700,00     0,36       4 800,00 27,12
+    622700       Frais d'actes et contentieux                    790,00     0,02           100,00                  690,00 690,00
+    622800       Rémunerations et hono.divers                    543,96     0,01           781,04     0,02       (237,08) -30,35
+    623100       Annonces et insertions                        1 218,00     0,03                                 1 218,00
+    623300       Foires et expositions                        11 618,29     0,25        33 199,78     0,67    (21 581,49) -65,00
+    623400       Cadeaux à la clientele                           56,67                    281,41     0,01       (224,74) -79,86
+    623500       Marketing Relations Publiques                    48,00                     96,00                 (48,00) -50,00
+    623800       Divers (pourboires)                                                         2,62                   (2,62) -100,00
+    624210       T ransport/ventes france                     52 616,66     1,13        41 186,74     0,84      11 429,92 27,75
+    624220       T RANSPORT / VENT ES EXPORT                  73 498,55     1,57                                73 498,55
+    624230       Ports/ventes export                                                    99 645,95     2,02    (99 645,95) -100,00
+    624800       T ransports divers                              804,50     0,02         2 138,03     0,04     (1 333,53) -62,37
+    625100       Voyages et déplacements                      13 473,12     0,29        23 500,54     0,48    (10 027,42) -42,67
+    625700       Réceptions                                    3 187,71     0,07         6 188,78     0,13     (3 001,07) -48,49
+    626000       Frais postaux                                 7 287,34     0,16         2 976,46     0,06       4 310,88 144,83
+    626001       T éléphone                                                              1 101,93     0,02     (1 101,93) -100,00
+    626202       T éléphones portables                         2 865,35     0,06         5 181,78     0,11     (2 316,43) -44,70
+    626220       Serveur internet                             10 133,62     0,22         2 260,47     0,05       7 873,15 348,30
+    627800       Prestations de services bancaires            11 214,89     0,24         6 863,95     0,14       4 350,94 63,39
+    627820       Frais/loyer BNP paribas leasing                  34,98                     43,92                   (8,94) -20,36
+    628100       Concours divers (cotisations)                 3 958,02     0,08         1 781,00     0,04       2 177,02 122,24
+
+Valeur ajoutée produite                                    1 887 126,72    40,41     1 844 753,37    37,41     42 373,35      2,30
+
+
+  S ubventions                                                                           3 513,00     0,07     (3 513,00) -100,00
+    740100       Subventions emploi                                                      3 513,00     0,07     (3 513,00) -100,00
+
+  Impôts, taxes & versements assimilés sur rémunératio        25 934,95     0,56        24 807,44     0,50       1 127,51     4,55
+
+    631200       T axe d'apprentissage                         9 511,36     0,20        10 159,22     0,21       (647,86) -6,38
+    633300       Particip. des employeurs à fc                15 592,10     0,33         9 533,08     0,19       6 059,02 63,56
+    633400       T axe logement                                  831,49     0,02         5 115,14     0,10     (4 283,65) -83,74
+
+  Impôts, taxes & versements assimilés autres                 78 717,59     1,69        67 645,10     1,37     11 072,49     16,37
+
+    635110       Cvae/Cfe                                     22 127,50     0,47        10 546,00     0,21      11 581,50 109,82
+    635120       T axes foncières                             50 174,29     1,07        55 628,99     1,13     (5 454,70) -9,81
+    635140       T axe sur les véhicules stés                  6 225,00     0,13           560,00     0,01       5 665,00 N/S
+    635400       Droits d'enregist.et de timbre                  190,80                                            190,80
+    637800       T axes OET H Handicap                                                     910,11     0,02       (910,11) -100,00
+
+  S alaires                                                1 610 741,51    34,50     1 932 157,86    39,19   (321 416,35) -16,64
+    641100       Salaires Caudry                             518 312,53    11,10       613 595,70    12,44    (95 283,17) -15,53
+    641110       Salaires Calais                           1 057 595,48    22,65     1 135 964,68    23,04    (78 369,20) -6,90
+    641200       Congés payés                               (28 184,61)    -0,60       146 750,59     2,98   (174 935,20) -119,21
+Cabinet FIDAC Calais                                         SAS DARQUER & MERY                                    Page :              5
+                   T
+PR    Détail des Soldes Intermédiaires (Activité mixte)
+  OJE                                                        01/01/2025        10       01/01/2024        12
+                            Etat exprimé en euros            31/10/2025        mois     31/12/2024        mois     Variations      %
+   641300          Primes de présence Caudry                                                  9 712,39      0,20     (9 712,39) -100,00
+   641400          Primes licenciement                                                        9 668,74      0,20     (9 668,74) -100,00
+   641430          13eme mois                                     46 281,87      0,99                                 46 281,87
+   641431          Fr.Atelier paniers Ind stages                  16 736,24      0,36        15 387,40      0,31       1 348,84 8,77
+   641432          Indémnités Diverses                                                          408,73      0,01       (408,73) -100,00
+   641800          Carences salaires                                                            669,63      0,01       (669,63) -100,00
+
+  Cotisations sociales                                           539 117,37     11,55       649 878,30     13,18   (110 760,93) -17,04
+   645100          Urssaf Caudry                                 125 449,76      2,69       120 285,13      2,44       5 164,63 4,29
+   645150          Urssaf Calais                                 252 043,79      5,40       285 706,78      5,79    (33 662,99) -11,78
+   645200          Harmonie mutuelle calais                        34 708,56     0,74        39 677,20      0,80     (4 968,64) -12,52
+   645201          Entoria prévoyance NC calais                    10 602,14     0,23         2 408,27      0,05       8 193,87 340,24
+   645210          Entoria mutuelle cadre calais                    6 843,90     0,15         8 855,70      0,18     (2 011,80) -22,72
+   645211          Viapi prevoyance cadres calais                   4 037,90     0,09         5 050,02      0,10     (1 012,12) -20,04
+   645300          Retraite caudry                                 29 708,08     0,64        30 288,89      0,61       (580,81) -1,92
+   645310          Retraite calais                                 49 060,94     1,05        56 364,84      1,14     (7 303,90) -12,96
+   645400          Gan retraite sup cadre et NC calais             15 834,66     0,34        17 051,71      0,35     (1 217,05) -7,14
+   645810          Retraite cadre sup T B axa caudry                2 049,72     0,04         2 522,06      0,05       (472,34) -18,73
+   645820          Cotisations chambre syndicale                    1 772,97     0,04         1 772,97      0,04
+   645830          Retraite sup T A generali caudry                 5 880,95     0,13         6 955,20      0,14     (1 074,25) -15,45
+   645850          Mutuelle malakoff caudry                         5 900,28     0,13         7 287,78      0,15     (1 387,50) -19,04
+   645860          Gan prev NC caudry                               4 075,77     0,09         4 325,32      0,09       (249,55) -5,77
+   645870          Gan cadres malakoff caudry                       7 255,17     0,16         8 681,76      0,18     (1 426,59) -16,43
+   647220          CSE BUDGET DE FONCT IONNEMENT                      387,91     0,01                                    387,91
+   647500          Médecine du travail, pharmacie                   6 201,54     0,13            732,54     0,01       5 469,00 746,58
+   647600          Provisions charges sociales                    (8 616,39)    -0,18         60 812,57     1,23    (69 428,96) -114,17
+   648000          Autres charges de personnel                                                 4 719,50     0,10     (4 719,50) -100,00
+   649000          T ransfert charges salariés                  (14 080,28)     -0,30       (13 619,94)    -0,28       (460,34) -3,38
+
+Excédent brut d'exploitation                                   (367 384,70)     -7,87     (826 222,33) -16,76       458 837,63    55,53
+
+
+  Reprises sur provisions                                                                    27 569,43      0,56    (27 569,43) -100,00
+   781500          Rep.prov.risques et charges                                                3 230,00      0,07     (3 230,00) -100,00
+   781730          Repr.prov. / stocks                                                       21 252,57      0,43    (21 252,57) -100,00
+   781740          Reprises/créances douteuses                                                3 086,86      0,06     (3 086,86) -100,00
+
+  Pdts des cessions immo incorp. corp.                             5 500,00      0,12                                  5 500,00
+   757000          Produits des cessions d’immos inc.corp.         5 500,00      0,12                                  5 500,00
+
+  Autres produits d'exploitation                                   8 641,63      0,19        12 955,16      0,26     (4 313,53) -33,30
+   758000          Produits div. gestion courante                  8 641,63      0,19        12 955,16      0,26     (4 313,53) -33,30
+
+  Dotations aux amortissements et provisions                      59 112,22      1,27       221 615,28      4,49   (162 503,06) -73,33
+   681110          Dot.amort. immo.incorporelles                     749,17      0,02           899,00      0,02       (149,83) -16,67
+   681120          Dot.amort. immo.corporelles                    58 363,05      1,25        71 113,28      1,44    (12 750,23) -17,93
+   681730          Dot.prov.dép.stocks/en-cours                                             149 603,00      3,03   (149 603,00) -100,00
+
+  Valeurs comptables immos incorp. corp. cédées                      185,51                                              185,51
+   657200          VNC immobilisations corporel                      185,51                                              185,51
+
+  Autres charges                                                   2 522,28      0,05         8 091,97      0,16     (5 569,69) -68,83
+   654100          Pertes/créances de l'exercice                                              1 720,88      0,03     (1 720,88) -100,00
+   658000          Ch. diverses gestion courantes                  2 522,28      0,05         6 371,09      0,13     (3 848,81) -60,41
+
+Résultat d'exploitation                                        (415 063,08)     -8,89    (1 015 404,99) -20,59      600 341,91    59,12
+
+
+  Total des produits financiers                                      142,94                     701,98      0,01       (559,04) -79,64
+   765000          Escomptes obtenus                                 142,94                     701,98      0,01       (559,04) -79,64
+Cabinet FIDAC Calais                                        SAS DARQUER & MERY                                   Page :              6
+                 T
+PR    Détail des Soldes Intermédiaires (Activité mixte)
+  OJE                                                       01/01/2025       10       01/01/2024        12
+                           Etat exprimé en euros            31/10/2025       mois     31/12/2024        mois     Variations      %
+
+  Total des charges financières                                  18 123,48     0,39        25 995,57      0,53     (7 872,09) -30,28
+   661160         Intérêts/emprunt CDN                              139,65                    537,54      0,01       (397,89) -74,02
+   661180         Intérêts Emprunts 9991.67                          65,21                    246,68      0,01       (181,47) -73,56
+   661500         Commissions bancaires                           2 726,40     0,06         4 449,22      0,09     (1 722,82) -38,72
+   665000         Escomptes accordés Suspension robe              (125,48)                    595,78      0,01       (721,26) -121,06
+   665100         Escompte accordee CEE                                                        65,46                  (65,46) -100,00
+   665200         Escomptes accordés export                       1 532,44     0,03         2 117,25      0,04       (584,81) -27,62
+   665300         Escompte accordée France lingerie               2 431,86     0,05         3 237,58      0,07       (805,72) -24,89
+   668000         Autres charges financières                      1 085,34     0,02           842,40      0,02         242,94 28,84
+   668200         Prime de garantie Caudry                        8 789,56     0,19         7 939,26      0,16         850,30 10,71
+   666000         Pertes de change                                1 478,50     0,03         5 964,40      0,12     (4 485,90) -75,21
+
+Résultat courant avant impôts                                 (433 043,62)    -9,27    (1 040 698,58) -21,11      607 654,96    58,39
+
+
+  Produits exceptionnels                                             17,10                  5 052,00      0,10     (5 034,90) -99,66
+   771820         aide salons association premiÞre vision                                   5 052,00      0,10     (5 052,00) -100,00
+   772000         Produits sur exercices antérie                     17,10                                              17,10
+
+  Charges exceptionnelles                                                                  27 376,96      0,56    (27 376,96) -100,00
+   671210         Amendes fiscales                                                            450,00      0,01       (450,00) -100,00
+   672000         Charges/exercices antérieurs                                             26 825,26      0,54    (26 825,26) -100,00
+   678000         Autres charges exceptionnelles                                              101,70                 (101,70) -100,00
+
+Résultat exceptionnel                                                17,10                (22 324,96)    -0,45     22 342,06 100,08
+
+  Impôts sur les bénéfices                                     (65 326,00)    -1,40     (217 575,00)     -4,41    152 249,00    69,98
+
+   699500         Crédit d'impot collection                    (65 326,00)    -1,40     (217 575,00)     -4,41    152 249,00    69,98
+
+
+
+Résultat de l'exercice                                        (367 700,52)    -7,87     (845 448,54) -17,15       477 748,02    56,51
+

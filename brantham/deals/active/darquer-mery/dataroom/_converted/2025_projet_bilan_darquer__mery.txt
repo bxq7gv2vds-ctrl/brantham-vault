@@ -1,0 +1,393 @@
+Cabinet FIDAC Calais                                                                         SAS DARQUER & MERY                                      Page :              1
+                                               T
+PR                                                                                         Bilan Actif
+  OJE                                                                                                           31/12/2025                               31/12/2024
+
+                                                        Etat exprimé en    euros             Brut             Amort. et Dépréc.      Net                      Net
+                                                        Règlement ANC 2022-06
+
+                                  Capital souscrit non appelé                    (I)
+
+                                  Frais d'établissement                         ( II )
+
+                                  IMMOBILISATIONS INCORPORELLES
+                                    Frais de développement
+                                    Concessions brevets droits similaires                             8 990                  1 798           7 192                    8 091
+                                    Fonds commercial                                                 51 010                                 51 010                   51 010
+                                    Autres immobilisations incorporelles
+                                    Imm. inc. en cours, avances et acomptes
+
+
+
+
+         ACTIF IMMOBILISE
+                                  IMMOBILISATIONS CORPORELLES
+                                    Terrains
+                                    Constructions
+                                    Installations tech.,mat. et outillage indus.                1 094 667               280 179            814 489                  872 415
+                                    Autres immobilisations corporelles                             95 535                65 646             29 889                   39 630
+                                    Imm. corp. en cours, avances et acomptes
+
+                                  IMMOBILISATIONS FINANCIERES (1)
+                                    Participations
+                                    Titres imm. de l’activité de portefeuille
+                                    Créances rattachées à des participations
+                                    Autres titres immobilisés
+                                    Prêts                                                            19 949                                 19 949                   19 949
+                                    Autres immobilisations financières                               23 810                                 23 810                      850
+
+                                               Total de l'actif immobilisé       ( III )        1 293 961               347 623            946 338                  991 944
+
+                                  STOCKS ET EN-COURS
+                                    Matières premières, approvisionnements                          438 334                                438 334                   75 705
+                                    En-cours de production de biens
+
+
+
+
+         ACTIF CIRCULANT
+                                    En-cours de production de services
+                                    Produits finis                                              2 301 622               855 579        1 446 043                1 167 394
+                                    Marchandises                                                   46 799                                 46 799                   77 525
+                                  Avances et Acomptes versés sur commandes                           16 309                                 16 309
+
+                                  CREANCES (2)
+                                    Créances clients et comptes rattachés                           391 126                                391 126                  716 809
+                                    Autres créances                                                 374 830                                374 830                  339 738
+                                    Charges constatées d'avance                                       6 960                                  6 960                   29 604
+                                    Capital souscrit appelé, non versé
+                                  Valeurs mobilières de placement
+                                  Instruments financiers et jetons détenus
+                                  Disponibilités                                                    274 049                                274 049                  116 134
+
+                                                  Total de l'actif circulant     ( IV )         3 850 029               855 579        2 994 450                2 522 911
+
+
+
+
+                 REGULARISATION
+                                  Frais d'émission des emprunts         ( V)
+
+
+COMPTES DE
+                                  Primes de remboursement des emprunts ( VI )
+                                  Ecarts de conversion et différences d'évaluation
+                                  Actif                                         ( VII )
+
+                                          TOTAL GENERAL DE L'ACTIF ( I à VII )                  5 143 989              1 203 202       3 940 788                3 514 855
+
+                                  (1) dont immobilisations financières à moins d'un an                                                      43 759                   20 799
+                                  (2) dont créances à plus d'un an
+Cabinet FIDAC Calais                                                          SAS DARQUER & MERY                                 Page :             2
+                                 T
+PR                                                                     Bilan Passif
+  OJE                                                                                Etat exprimé en   euros
+                                                                                     Règlement ANC 2022-06
+                                                                                                                31/12/2025          31/12/2024
+
+                      Capital social ou individuel                                                                     380 000                253 000
+                      Primes d' émission, de fusion, d' apport ...                                                   1 064 813                475 600
+                      Ecarts de réévaluation                                                                         1 232 060              1 232 060
+                      Ecarts d'équivalence
+                      RESERVES
+
+
+
+
+   Capitaux Propres
+                        Réserve légale                                                                                  17 700                 17 700
+                        Réserves statutaires ou contractuelles
+                        Réserves réglementées
+                        Autres réserves                                                                                391 407                391 407
+
+                      Report à nouveau                                                                               (959 143)              (113 694)
+
+                      Résultat de l'exercice                                                                            29 383              (845 449)
+                      Subventions d'investissement
+                      Provisions réglementées
+
+                                                                                  Total des capitaux propres         2 156 220              1 410 625
+
+
+Autres fonds
+                      Produits des émissions de titres participatifs
+                      Avances conditionnées
+
+ propres
+                                                                             Total des autres fonds propres
+
+
+
+
+     Provisions
+                      Provisions pour risques
+                      Provisions pour charges
+
+                                                                                        Total des provisions
+
+                      DETTES FINANCIERES
+                           Emprunts obligataires convertibles
+                           Autres emprunts obligataires
+
+
+
+   DETTES (1)
+                           Emprunts dettes auprès des établissements de crédit                                          46 237                 71 758
+                           Emprunts et dettes financières divers (2)                                                                          400 000
+                           Instruments financiers à terme
+                           Avances et acomptes reçus sur commandes en cours                                             27 178                 32 078
+                      DETTES D'EXPLOITATION
+                           Dettes fournisseurs et comptes rattachés                                                    847 423              1 011 699
+                           Dettes fiscales et sociales                                                                 670 058                563 243
+                      DETTES DIVERSES
+                           Dettes sur immobilisations et comptes rattachés
+                           Autres dettes                                                                               193 672                 25 453
+
+                      Produits constatés d'avance (1)
+
+                                                                                             Total des dettes        1 784 568              2 104 230
+
+                      Ecarts de conversion et différences d'évaluation - Passif
+
+                                                                                         TOTAL PASSIF                3 940 788              3 514 855
+
+                      Résultat de l'exercice exprimé en centimes                                                     29 383,13            (845 448,54)
+                  (1) Dont à moins d’un an (hors avances et acomptes reçus sur commandes en cours)                   1 757 390               2 054 143
+                  (2) Dont emprunts participatifs
+Cabinet FIDAC Calais                                      SAS DARQUER & MERY                                    Page :                3
+                   T
+PR                                                   Détail de l'Actif
+  OJE                                                     01/01/2025       12       01/01/2024         12
+                        Etat exprimé en euros             31/12/2025       mois     31/12/2024         mois     Variations        %
+
+Capital souscrit non appelé
+
+TOTAL II – Frais d’établissement NET
+
+TOTAL III - Actif Immobilisé NET                                946 338     24,01         991 944      28,22      (45 606)       -4,60
+
+
+  Concessions brevets et droits similaires                        7 192      0,18           8 091       0,23         (899)      -11,11
+
+   205000          Concessions et droits similair                  8 990     0,23           8 990       0,26
+   280500          Amort.concessions et droits                   (1 798)    -0,05           (899)       -0,03        (899)     -100,00
+
+  Fonds Commercial                                               51 010      1,29          51 010       1,45
+
+   207000          Fonds commercial                              51 010      1,29          51 010       1,45
+
+  Installations techniques, matériel et outillage               814 489     20,67         872 415      24,82      (57 926)       -6,64
+
+   215400          Matériels industriels                      1 065 673     27,04       1 065 895      30,33         (222)       -0,02
+   215700          Matériel d'entretien                          28 994      0,74          28 994       0,82
+   281540          Amort.materiel                             (251 187)     -6,37       (194 231)       -5,53     (56 956)      -29,32
+   281570          Amort.materiel d'entretien                  (28 991)     -0,74        (28 243)       -0,80        (748)       -2,65
+
+  Autres immobilisations corporelles                             29 889      0,76          39 630       1,13       (9 741)      -24,58
+
+   218100          Install. géné., agenc. aménag.                52 721      1,34           52 721      1,50
+   218200          Matériel de transport                         18 121      0,46           18 121      0,52
+   218300          Matériel de bureau et mat.info                23 652      0,60           23 076      0,66             576      2,50
+   218400          Mobilier                                       1 041      0,03            1 041      0,03
+   281810          Amort.installations générales               (36 999)     -0,94         (32 670)      -0,93      (4 329)      -13,25
+   281820          Amort.matériel de transport                 (10 360)     -0,26          (6 991)      -0,20      (3 369)      -48,19
+   281830          Amort.matériel de bureau                    (17 246)     -0,44         (14 636)      -0,42      (2 610)      -17,83
+   281840          Amort.mobilier de bureau                     (1 041)     -0,03          (1 031)      -0,03          (9)       -0,91
+
+  Prêts                                                          19 949      0,51          19 949       0,57
+
+   274300          Prêts Solendi                                 19 949      0,51          19 949       0,57
+
+  Autres immobilisations financières                             23 810      0,60                850    0,02       22 960         N/S
+
+   275000          Dépôts et cautionnements versé                14 810      0,38                                  14 810
+   275100          Dépôts et cautionnements                       9 000      0,23                850    0,02        8 150      958,82
+
+
+TOTAL IV - Actif Circulant NET                                2 994 450     75,99       2 522 911      71,78      471 539       18,69
+
+
+  Matières premières, approvisionnements                        438 334     11,12          75 705       2,15      362 628      479,00
+
+   311000          Stock matières premières                     438 334     11,12          75 705       2,15      362 628      479,00
+
+  Produits finis                                              1 446 043     36,69       1 167 394      33,21      278 649       23,87
+
+   355000          Stock produits finis Caudry                1 535 062     38,95       1 535 062 43,67
+   355101          Stocks Produits finis Calais                 753 060     19,11         472 911 13,45           280 149       59,24
+   355103          Stock Desseilles                              13 500      0,34          15 000 0,43             (1 500)      -10,00
+   395000          Prov.dép.stock produits finis              (855 579)    -21,71       (855 579) -24,34
+  Marchandises                                                   46 799      1,19          77 525       2,21      (30 727)      -39,63
+
+   370000          Stocks de marchandises depot 62               46 799      1,19           91 206      2,59      (44 408)      -48,69
+   397000          Prov.dép.stock marchandises                                            (13 681)      -0,39       13 681     100,00
+
+  Avances & acomptes versés sur commandes                        16 309      0,41                                  16 309
+   409100          Fourn. - avances & acptes                     16 309      0,41                                  16 309
+  Créances clients et comptes rattachés                         391 126      9,93         716 809      20,39     (325 683)      -45,44
+
+   041D            Collectif clients débiteurs                  384 666      9,76         708 354      20,15     (323 688)      -45,70
+   418100          Clients - factures à établir                   6 460      0,16           8 456       0,24       (1 996)      -23,60
+Cabinet FIDAC Calais                                         SAS DARQUER & MERY                              Page :              4
+                   T
+PR                                                      Détail de l'Actif
+  OJE                                                        01/01/2025      12      01/01/2024      12
+                        Etat exprimé en euros                31/12/2025      mois    31/12/2024      mois    Variations      %
+
+  Autres créances                                                  374 830    9,51         339 738    9,67      35 092     10,33
+
+   040D             Collectif fournisseurs débiteurs                20 187    0,51           3 721    0,11       16 466   442,51
+   409800           Fourn. R.R.R. à obtenir                                                  4 813    0,14      (4 813)   -100,00
+   409820           Avoirs à recevoir Fourn Export                                              36                 (36)   -100,00
+   421000           Rémunérations Dues Caudry                                                  117                (117)   -100,00
+   438710           Sécurité Sociale-IJSS                            3 017    0,08             714    0,02        2 303   322,61
+   444000           Etat-impôts sur les bénéfices                  180 546    4,58         217 575    6,19     (37 029)    -17,02
+   445660           T .V.A. déd. b/s - 20%                          77 565    1,97          67 413    1,92       10 152    15,06
+   445842           T axes sur factures à établir                                            1 503    0,04      (1 503)   -100,00
+   445860           T axe sur le ca fact.non parv.                  12 416    0,32           8 427    0,24        3 990    47,35
+   467300           CMCIC Factor France Retenue ga                  26 106    0,66          26 096    0,74           11      0,04
+   467400           CMCIC Factor France réserve                     23 886    0,61                               23 885      N/S
+   467510           Ajilink Labis                                   30 408    0,77                               30 408
+   467520           Greffe T ribunal Boulogne sur mer                  700    0,02                                  700
+   468700           Divers produits à recevoir                                               9 323    0,27      (9 323)   -100,00
+
+  Charges constatées d'avance                                        6 960    0,18          29 604    0,84     (22 644)    -76,49
+
+   486000           Charges constatées d'avance                      6 960    0,18          29 604    0,84     (22 644)    -76,49
+
+  Disponibilités                                                   274 049    6,95         116 134    3,30     157 915    135,98
+
+   512100           Société générale                                92 689    2,35          19 741    0,56      72 949    369,54
+   512200           Crédit mutuel                                  178 481    4,53          95 356    2,71      83 125     87,17
+   531000           Caisse Euros                                     2 511    0,06             734    0,02       1 776    241,90
+   531100           Caisse Dollars                                     332    0,01             304    0,01          28       9,32
+   531200           Caisse Mad                                          37                                          37
+
+TOTAL DU BILAN ACTIF                                             3 940 788 100,00        3 514 855 100,00      425 933     12,12
+Cabinet FIDAC Calais                                         SAS DARQUER & MERY                                   Page :              5
+                    T
+PR                                                      Détail du Passif
+  OJE                                                        01/01/2025        12       01/01/2024       12
+                         Etat exprimé en euros               31/12/2025        mois     31/12/2024       mois     Variations      %
+
+TOTAL I - Capitaux propres                                       2 156 220      54,72       1 410 625    40,13      745 595     52,86
+
+
+  Capital S ocial ou individuel                                    380 000       9,64         253 000     7,20      127 000     50,20
+
+   101000           Capital social                                                             354 000   10,07     (354 000)   -100,00
+   101300           Capital souscrit appelé versé                  380 000       9,64        (101 000)    -2,87      481 000   476,24
+
+  Primes d'émission, de fusion, d'apport, ...                    1 064 813      27,02         475 600    13,53      589 213    123,89
+
+   104100           Primes d'émission                            1 064 813      27,02         475 600    13,53      589 213    123,89
+
+  Ecarts de réévaluation                                         1 232 060      31,26       1 232 060    35,05
+
+   105200           Ecart de réevaluation libre                  1 232 060      31,26       1 232 060    35,05
+
+
+  Réserve légale                                                    17 700       0,45          17 700     0,50
+
+   106110           Réserve légale proprement dite                  17 700       0,45          17 700     0,50
+
+  Autres réserves                                                  391 407       9,93         391 407    11,14
+
+   106800           Autres réserves                                391 407       9,93         391 407    11,14
+
+  Report à nouveau                                               (959 143)     -24,34        (113 694)    -3,23    (845 450)   -743,62
+
+   119000           Report à nouveau (s.debiteur)                (959 143)     -24,34        (113 694)    -3,23    (845 450)   -743,62
+
+  Résultat de l'exercice                                            29 383       0,75        (845 449) -24,05       874 832    103,48
+
+
+
+TOTAL II - Autres fonds propres
+
+TOTAL III - Total des Provisions
+
+TOTAL IV - Total des dettes                                      1 784 568      45,28       2 104 230    59,87     (319 662)    -15,19
+
+
+  Emprunts et dettes auprès des établissements de crédit            46 237       1,17          71 758     2,04      (25 521)    -35,57
+
+   164400           Emprunt CM 9991.67                                                          4 584     0,13       (4 584)   -100,00
+   164500           Pret PGE CDN                                    46 237       1,17          67 174     1,91      (20 937)    -31,17
+
+
+  Emprunts et dettes financières divers                                                       400 000    11,38     (400 000)   -100,00
+
+   451000           Groupe                                                                    400 000    11,38     (400 000)   -100,00
+
+  Avances et acomptes reçus sur commandes en cours                  27 178       0,69          32 078     0,91       (4 900)    -15,28
+
+   419100           Clients - avances et acomptes                   27 178       0,69          32 078     0,91       (4 900)    -15,28
+
+  Dettes fournisseurs et comptes rattachés                         847 423      21,50       1 011 699    28,78     (164 275)    -16,24
+
+   040C             Collectif fournisseurs créditeurs              687 510      17,45         914 353    26,01     (226 843)    -24,81
+   408100           Fourn. fact. non parven.                       159 913       4,06          97 345     2,77        62 568    64,27
+
+  Dettes fiscales et sociales                                      670 058      17,00         563 243    16,02      106 815     18,96
+
+   421100           Rémunérations dues Calais                                                  75 919     2,16      (75 919)   -100,00
+   425026           Ndf Mme Mery Edith                                    93                                              93
+   425027           Pinhal Anna Maria                                                             146                  (146)   -100,00
+   428200           Dettes prov. pour cp                           178 300       4,52         197 882     5,63      (19 582)     -9,90
+   428600           Autres charges à payer                           7 575       0,19          39 885     1,13      (32 310)    -81,01
+   431100           Urssaf Caudry                                   62 655       1,59          23 852     0,68        38 804   162,69
+   431110           Urssaf Caudry après RJ                          28 534       0,72                                 28 534
+   431120           Urssaf Calais                                  101 721       2,58          43 289     1,23        58 432   134,98
+   431130           Urssaf Calais après RJ                          35 259       0,89                                 35 259
+   437210           Retraite Calais                                 15 558       0,39            9 480    0,27         6 079    64,12
+   437220           Retraite Calais après RJ                         7 595       0,19                                  7 595
+   437221           GAN Retraite suppl NC Calais                     1 425       0,04            4 175    0,12       (2 750)    -65,87
+   437222           GAN Retraite Supl Cadre Calais                     252       0,01              917    0,03         (665)    -72,55
+   437225           GAN Retraite NC Calais Apres RJ                    602       0,02                                    602
+Cabinet FIDAC Calais                                            SAS DARQUER & MERY                                 Page :              6
+                  T
+PR                                                 Détail du Passif
+  OJE                                                           01/01/2025         12      01/01/2024      12
+                       Etat exprimé en euros                    31/12/2025         mois    31/12/2024      mois    Variations      %
+   437226         GAN Retraite Supl Cadre Calais Après RJ                    163                                          163
+   437260         Harmonie mutuelle NC Calais                                                      8 467    0,24      (8 467)   -100,00
+   437261         Entoria mutuelle NC Calais                            1 140       0,03           2 408    0,07      (1 268)    -52,66
+   437262         Harmonie Mutuelle Apres RJ                            5 487       0,14                                5 487
+   437264         Entoria mutuelle NC Calais Après RJ                   3 268       0,08                                3 268
+   437270         Entoria Mutuelle Cadre Calais                                                    3 284    0,09      (3 284)   -100,00
+   437271         Viapi prévoyance Cadres Calais                          393       0,01           1 415    0,04      (1 022)    -72,25
+   437274         Entoria mutuelle Cadre Après RJ                       2 368       0,06                                2 368
+   437275         Viapi Prév Cadre Calais Après RJ                      1 465       0,04                                1 465
+   437300         Malakoff Retraite Caudry                             12 868       0,33           6 574    0,19        6 294    95,74
+   437311         Malakoff Retraite Caudry Après RJ                     7 663       0,19                                7 663
+   437830         Axa Caudry Retraite sup Cadre T B                       565       0,01           1 020    0,03        (456)    -44,64
+   437840         Axa Caudry retraite sup Cadre T B Après RJ            1 063       0,03                                1 063
+   437850         Mutuelle humanis Caudry                               6 688       0,17           4 866    0,14        1 822    37,44
+   437860         Gan prevoyance NC Caudry                              3 365       0,09           2 151    0,06        1 215    56,48
+   437870         Generali Retraite sup Cadre T A Caudry                  942       0,02           2 782    0,08      (1 840)    -66,14
+   437880         Prevoyance Cadre Humanis Caudry                         879       0,02           2 178    0,06      (1 299)    -59,64
+   437890         Mutuelle Humanis Salariés Caudry Après RJ             4 589       0,12                                4 589
+   437900         Gan Prév NC Caudry Après RJ                           2 278       0,06                                2 278
+   437910         Generali Ret supl Cadre T A Caudry Après RJ           2 424       0,06                                2 424
+   437920         Prév Cadre Humanis Caudry Après RJ                    2 010       0,05                                2 010
+   438200         Charges sociales sur cp                              66 158       1,68          73 239    2,08      (7 082)     -9,67
+   438600         Charges sociales - charges à payer                    2 728       0,07          14 359    0,41     (11 631)    -81,00
+   442100         Prélèvements à la source (IR)                           136                      4 749    0,14      (4 612)    -97,13
+   442110         Prélèvements à la source Après RJ                     4 399       0,11                                4 399
+   445510         T .V.A. à décaisser                                  78 817       2,00           7 643    0,22       71 174   931,23
+   445800         Regul T VA Collectée                                    625       0,02           2 187    0,06      (1 562)    -71,42
+   445801         Regul T VA Déductible                                 8 473       0,22          26 313    0,75     (17 840)    -67,80
+   445870         T axe sur le ca fact.à établir                        1 778       0,05             936    0,03          842    89,91
+   448600         Etat charges à payer                                  7 755       0,20           3 126    0,09        4 629   148,07
+
+  Autres dettes                                                       193 672       4,91          25 453    0,72     168 219    660,91
+
+   041C           Collectif clients créditeurs                          3 254       0,08          19 119    0,54     (15 865)    -82,98
+   419800         Clients R.R.R. à etablir                              6 835       0,17           5 493    0,16        1 343    24,44
+   467200         CM CIC Factor                                         1 228       0,03             841    0,02          387    46,05
+   467500         AGS Amiens                                          180 590       4,58                              180 590
+   468600         Divers charges à payer                                1 764       0,04                                1 764
+
+TOTAL DU BILAN PASSIF                                               3 940 788 100,00           3 514 855 100,00      425 933     12,12
+

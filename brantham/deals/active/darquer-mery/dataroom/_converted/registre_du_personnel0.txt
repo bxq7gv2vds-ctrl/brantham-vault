@@ -1,0 +1,51 @@
+                                                                     Registre personnel - MàJ 04.06.2026
+
+                                                                                                                                                       Statut
+ Matricule   Sexe   Date de naissance   Date entrée   Date ancienneté                                  Emploi                                                              Qualification
+                                                                                                                                                   professionnel
+01405         F        09/05/2004       18/05/2026      18/05/2026      Chargée de communication et de marketing                               Employé             Niveau : 1
+01396         F        04/09/1976       13/11/2024      13/11/2024      WHEELEUSE                                                              Ouvrier             Niveau : 3, Echelon : 3
+01356         H        21/06/1972       01/05/2021      01/06/2018      DIRECTEUR GENERAL                                                      Cadre               Position : IV
+00226         H        20/08/1966       01/10/2019      18/02/1985      WAPPEUR LEAVERS                                                        Ouvrier             Niveau : 2, Echelon : 2
+01403         F        10/03/1975       05/02/2026      05/02/2026      Raccommodeuse                                                          Ouvrier             Niveau : 3, Echelon : 3
+01380         F        10/12/1965       01/05/2021      18/11/2019      EMPLOYEE DE BUREAU                                                     Agent de maîtrise   Niveau : 3, Echelon : 2
+01015         H        24/12/1970       01/10/2019      06/01/2014      TULLISTE                                                               Technicien          Niveau : 5, Echelon : 2
+00150         H        22/08/1966       01/10/2019      22/05/2017      METTEUR(SE) EN OEUV. CHARIOTS                                          Technicien          Niveau : 3, Echelon : 2
+00365         H        24/02/1968       01/09/2020      12/09/1988      RACHELISTE MONTEUR                                                     Ouvrier             Niveau : 3, Echelon : 2
+00265         H        24/08/1970       31/08/2020      31/08/2020      RACHELISTE MONTEUR                                                     Ouvrier             Niveau : 3, Echelon : 2
+00336         F        21/05/1965       01/10/2019      18/04/1988      TECHNICIENNE PLANNING                                                  Agent de maîtrise   Niveau : 5, Echelon : 2
+01386         H        30/07/1974       02/01/2022      02/01/2022      RACHELISTE MONTEUR                                                     Ouvrier             Niveau : 3, Echelon : 2
+00346         H        10/10/1966       01/10/2019      24/05/1988      WHEELEUR                                                               Ouvrier             Niveau : 2, Echelon : 2
+01402         F        15/02/1965       04/05/2026      04/05/2026      PLIEUSE                                                                Ouvrier             Niveau : 3, Echelon : 3
+01397         H        17/11/1969       18/11/2024      18/11/2024      REMONTEUR                                                              Ouvrier             Niveau : 2, Echelon : 2
+01392         H        09/04/1969       30/09/2024      09/09/2024      TULLISTE                                                               Technicien          Niveau : 5, Echelon : 2
+01390         H        20/10/1997       01/09/2024      07/01/2022      OPERATEUR DE MACHINE (LEAVERS)                                         Ouvrier             Niveau : 3, Echelon : 2
+01406         F        15/05/1968       01/06/2026      01/06/2026      Agent polyvalent                                                       Ouvrier             Niveau : 3, Echelon : 3
+00288         H        25/01/1970       01/10/2019      22/06/1987      TULLISTE                                                               Technicien          Niveau : 5, Echelon : 2
+01347         H        08/09/1974       01/09/2020      21/08/2017      MACHINISTE CLIPPING                                                    Ouvrier             Niveau : 3, Echelon : 2
+01401         H        07/08/1968       12/12/2025      02/07/2025      Remonteur                                                              Ouvrier             Niveau : 2, Echelon : 2
+00295         F        24/12/1964       01/09/2020      06/10/1987      PLIEUSE                                                                Ouvrier             Niveau : 3, Echelon : 3
+00854         F        22/09/1978       01/09/2020      03/03/2003      CONTROLEUSE QUALITE ROBE                                               Technicien          Niveau : 4, Echelon : 2
+00046         H        04/07/1972       01/09/2020      01/03/1995      Respon. Commercial Robe                                                Cadre               Position : II
+00290         H        30/07/1971       01/05/2021      01/07/1987      MENUISIER                                                              Technicien          Niveau : 4, Echelon : 3
+00458         F        08/10/1970       01/09/2020      20/01/1992      VISITEUSE CLIPPING                                                     Ouvrier             Niveau : 2, Echelon : 2
+01393         H        27/03/1967       09/09/2024      09/09/2024      TULLISTE                                                               Technicien          Niveau : 5, Echelon : 2
+01404         H        20/01/1975       27/04/2026      27/04/2026      CONDUCTEUR DE MACHINE                                                  Ouvrier             Niveau : 3, Echelon : 2
+00304         H        12/08/1969       02/01/2022      23/08/2021      RACHELISTE MONTEUR                                                     Ouvrier             Niveau : 3, Echelon : 2
+01366         F        18/09/1969       01/09/2020      14/09/1989      ASSISTANT(E) COMMERCIAL                                                Agent de maîtrise   Niveau : 5, Echelon : 2
+01400         H        19/06/1966       01/05/2025      01/05/2025      Responsable de l'organisation industrielle et de la gestion des flux   Agent de maîtrise   Niveau : 5, Echelon : 2
+00163         H        12/09/1966       01/10/2019      04/10/1983      REMONTEUR                                                              Ouvrier             Niveau : 2, Echelon : 2
+00054         F        19/08/1970       09/05/2022      09/05/2022      COMPTABLE UNIQUE                                                       Agent de maîtrise   Niveau : 5, Echelon : 2
+01399         F        16/02/1973       10/02/2025      10/02/2025      RACCOMMODEUSE - FINITION-POLYVALENCE                                   Ouvrier             Niveau : 3, Echelon : 3
+00328         F        13/03/1967       01/09/2020      21/03/1988      ECHANTILLONNEUSE                                                       Ouvrier             Niveau : 3, Echelon : 2
+00775         H        21/05/1977       01/05/2021      10/09/2001      CONCIERGE                                                              Ouvrier             Niveau : 2, Echelon : 2
+00236         F        12/07/1963       01/09/2020      02/09/1985      TECHNICIENNE PLANNING                                                  Agent de maîtrise   Niveau : 5, Echelon : 3
+01113         H        27/07/1968       01/10/2019      01/03/1993      ELECTRICIEN                                                            Technicien          Niveau : 4, Echelon : 2
+01370         H        09/05/1966       01/09/2020      21/03/1996      ESQUISSEUR(SE)                                                         Technicien          Niveau : 6, Echelon : 2
+00047         H        04/10/1978       02/06/2022      02/06/2022      Attaché Commercial Robe                                                Cadre               Position : I, Echelon : 2
+00715         F        24/08/1979       01/09/2020      21/08/2000      RESPONSABLE DE LABORATOIRE                                             Agent de maîtrise   Niveau : 5, Echelon : 2
+01130         H        24/02/1970       01/10/2019      27/06/1988      TULLISTE                                                               Technicien          Niveau : 5, Echelon : 2
+01133         F        08/11/1965       01/10/2019      01/02/1988      RACCOMMODEUSE MAIN/MACHINE                                             Ouvrier             Niveau : 3, Echelon : 3
+00670         H        14/06/1971       01/09/2020      21/02/2000      DESSINATEUR au statut Cadre                                            Cadre               Niveau : 5, Echelon : 2
+00048         H        24/07/1965       01/09/2020      19/01/1989      Dessinateur                                                            Technicien          Niveau : 5, Echelon : 2
+

@@ -1,0 +1,1477 @@
+DARQUER & MERY
+CONTRAT N° ASP100002428
+DOMMAGES AUX BIENS
+PERTES D’EXPLOITATION
+
+
+
+Conditions Particulières
+CP INTERCALAIRE
+
+
+
+
+                  Page 1 sur 32
+     ASSUREUR                     Aspect Labs Europe S.A
+     CONTRAT N°                   aASP100002428
+     PART                          100 %
+     EFFET                         01 / 01 / 2026
+     ECHEANCE                      01 / 01
+     DUREE                         1 an avec tacite reconduction
+     PAIEMENT                      Semestriel
+     INDICE RI                     7391
+
+
+
+Les présentes conventions interviennent entre :
+
+
+
+
+                              Darquer & Mery
+                          Rue des Salines CS 60103
+                            62102 Calais Cedex
+
+                                                            Ci-après dénommé « l’ASSURE », d’une part
+
+
+et
+
+
+
+                        Aspect Labs Europe S.A
+                         171 Syggrou Avenue,
+                  171 21, Nea Smyrni, Attica, Athènes,
+                                Grèce
+                                                     Ci-après dénommé « l’ASSUREUR », d’autre part
+
+
+
+
+                                            Page 2 sur 32
+COMPOSITION DU CONTRAT
+
+Le présent contrat est régi par le Code Français des Assurances et également par la loi du 30 Mai 1918,
+en ce qui concerne les risques situés dans les départements du Haut-Rhin, du Bas Rhin et de la Moselle
+lorsque ces dispositions sont plus favorables à l’assuré que celles prévues par le Code des Assurances
+Français,
+
+
+Le présent contrat est composé par :
+    -   les Conventions Spéciales référencées « CS INTERCALAIRE »
+    -   les présentes Conditions Particulières référencées « « CP INTERCALAIRE »
+    -   l’annexe Catastrophes naturelles
+    -   l’annexe Attentat
+Les clauses ci-dessous priment sur les conditions des présentes conditions particulières :
+    -   NMA 464 Guerre et guerre civile
+    -   NMA 1191 Contamination radioactive
+    -   LMA 5256 Clause de déclaration frauduleuse
+    -   LMA 3100A Clause de limitation des sanctions
+    -   LMA 5401 Exclusion Cyber et Dommages aux Données (Risques de Biens)
+    -   LMA 5393 Maladie Transmissible
+    -   NMA 2962 Matériaux Biologiques ou Chimiques
+    -   NMA 2340 Fuites et Pollution, Terre, Air, Eau et Enlèvement de Débris
+    -   NMA 2842 Clause des 72 heures
+    -   NMA 348 Clause de Proportionnalité (Règle de l'Assurance Proportionnelle)
+    -   LSW 1001 avis de responsabilité individuelle
+    -   LBS0046D Avis relatif à la protection des données
+
+
+
+Les conditions particulières prévalent sur les Conventions Spéciales en cas de contradiction entre
+elles.
+Les conventions spéciales prévalent sur les dispositions générales en cas de contradictions entre
+elles.
+
+
+
+OBJET DU CONTRAT
+
+Le présent contrat a pour objet de garantir les dommages matériels soudains, accidentels et fortuits
+atteignant les biens assurés et résultant des évènements assurés, ainsi que :
+    -   les frais et pertes - Indemnisations complémentaires, assurés ;
+    -   les responsabilités assurées ;
+    -   les conséquences financières assurées
+consécutifs à ces dommages matériels garantis.
+
+
+
+                                             Page 3 sur 32
+REGLEMENTATION
+
+Le présent contrat ne s’applique pas :
+
+•    Lorsqu’une interdiction de fournir un contrat ou un service d’assurance s’impose à nous du fait de
+     sanction, restriction ou prohibition prévues par les conventions, lois ou règlements, y compris celles
+     décidées par le Conseil de sécurité des Nations Unies, le Conseil de l’Union européenne, ou par tout autre
+     droit national applicable ;
+•    Lorsque les biens et/ou les activités assurés sont soumis à une quelconque sanction, restriction, embargo
+     total ou partiel ou prohibition prévues par les conventions, lois ou règlements, y compris celles décidées
+     par le Conseil de sécurité des Nations Unies, le Conseil de l’Union européenne, ou par tout autre droit
+     national applicable.
+
+Il est entendu que cette disposition ne s’applique que dans le cas où le contrat d’assurance, les biens et/ou
+activités assurés entrent dans le champ d’application de la décision de sanction restriction, embargo total ou
+partiel ou prohibition
+
+
+INFORMATIQUE ET LIBERTES
+La protection de vos données personnelles
+
+L’Assureur recueille les données personnelles de l’Assuré et les utilise pour la gestion de cette demande et pour
+la relation commerciale. Elles sont destinées prioritairement à votre courtier et à l’assureur; mais également aux
+différents organismes et partenaires en lien avec l’assureur.
+
+Ces destinataires se situent parfois en dehors de l’Union Européenne. Dans ce cas, l’assureur conçoit des
+garanties spécifiques pour assurer la protection complète de vos données.
+
+Les informations personnelles de l’assuré aident les assureurs à mieux connaître l’assuré et ainsi qu’à lui proposer
+des solutions et services qui lui correspondent. L’assureur les conserve tout au long de la vie du contrat. Une fois
+ce dernier fermé, elles sont conservées pendant le délai de prescription.
+
+L’assuré garde bien sûr tout loisir d’y accéder, de demander leur modification, rectification, portabilité ou
+effacement et de s’opposer à leur utilisation. L’assuré peut également prendre contact avec le responsable des
+données personnelles pour toute information ou contestation (loi "Informatique et Libertés" du 6 janvier 1978).
+Pour cela, il lui suffit d’adresser une demande écrite à son courtier dont les coordonnées figurent sur le présent
+document.
+L’assuré peut également s’adresser à la CNIL.
+
+Le ciblage des offres commerciales peut être automatisé et basé sur des profils de clients ou de prospects.
+Pour plus de détail, reportez-vous aux documents contractuels, notamment les dispositions générales ou notices
+d’information et les sites internet de l’assureur et de votre courtier.
+
+Protéger nos clients et nous protéger nous-mêmes est au cœur de la politique de maîtrise des risques de
+l’assureur et de la lutte anti-fraude. Aussi, l’assureur garde la possibilité de vérifier ces informations et de saisir,
+si nécessaire, les autorités compétentes.
+
+
+
+
+                                                     Page 4 sur 32
+CONDITIONS PARTICULIERES
+1. DEFINITION DE L’ASSURE
+L’assuré désigné, ci-avant, et l’ensemble des Personnes physiques ou morales agissant tant pour son
+compte que pour celui de qui il appartiendra et notamment :
+
+•    La société Holding, ses sociétés sœurs et filiales, créées ou à créer, les sociétés commerciales ou
+     civiles pour lesquelles il a intérêt assurable et dont il assure la gestion, lesquelles sont considérées
+     comme assurées additionnelles.
+
+•    Les sociétés civiles immobilières, les sociétés de crédit, de crédit-bail et tout organisme financier,
+     pour les biens faisant l’objet d’une obligation contractuelle d’assurance.
+
+•    Les propriétaires des matériels mis à la disposition des assurés y compris les matériels faisant
+     l’objet de contrats de location, crédit-bail, leasing, les propriétaires des marchandises.
+
+
+
+•    Les comités d’entreprises, comités d’établissements et toutes autres organisations, telles que
+     syndicats, coopératives, crèches, colonies de vacances, amicales, foyers, services sociaux,
+     associations sportives, rattachés directement à la société assurée et pouvant avoir une
+     personnalité juridique distincte.
+
+•    L’Etat français, les collectivités publiques françaises, les personnes morales de droit public de
+     nationalité française lorsque la qualité d’assuré ressort des contrats conclus entre eux et l’assuré.
+
+•    Le personnel de l’assuré en ce qui concerne ses biens et effets personnels.
+
+
+
+2. DEFINITION DES ACTIVITES
+
+L'Assuré déclare exercer les activités suivantes :
+•   Fabrication de dentelles avec notamment des opérations de tissage, pressage en four, tricotage.
+
+Sont assurées toutes les activités annexes et connexes exercées par l’assuré.
+
+3. DEFINITIONS
+
+•    Evènement garanti : fait générateur à l’origine des dommages couverts au titre d’une ou plusieurs
+     garanties.
+
+•    Établissement : ensemble des biens immobiliers, mobiliers et matériels professionnels concourant à la
+     même exploitation et réunis sur le site assuré
+
+•    Rebut : bien dépourvu de toute valeur marchande au jour du sinistre
+
+•    Sinistre : ensemble des dommages matériels garantis causés aux biens assurés ainsi que les frais et
+
+                                                 Page 5 sur 32
+    pertes indemnisations complémentaires, les responsabilités et les conséquences financières,
+    consécutifs à ces dommages matériels garantis, résultant d'un même événement garanti.
+
+    En cas d’action de groupe en matière environnementale visée à l’article L142-3-1 du Code de
+    l’environnement, constitue un seul et même sinistre, l’action de groupe de personnes, placées
+    dans une situation similaire, et la somme des actions individuelles engagées contre vous,
+    subissant des préjudices résultant d’un dommage dans les domaines mentionnées à l’article
+    L142-2 du même code, ayant pour cause commune un manquement de même nature à vos
+    obligations légales ou contractuelles à l’origine de leurs préjudices
+
+•   Site assuré : le terrain occupé par votre entreprise assurée, au lieu d’assurance ainsi que tout lieu
+    situé à une distance maximale de 200 mètres autour de ce terrain.
+
+
+•   Dommages environnementaux : les dommages visés par la directive européenne 2004/35/CE et
+    ses textes de transposition, dont la loi n° 2008‑757 du 1er août 2008, à savoir les dommages
+    affectant les sols, les eaux et ceux causés aux espèces et habitats naturels protégés (EHNP).
+
+
+
+    On entend par :
+    - dommages affectant les sols : toute contamination des sols qui engendre un risque d’incidence
+      négative grave sur la santé humaine ;
+    - dommages affectant les eaux (eaux de surface, souterraines, côtières) : tout dommage qui
+      affecte de manière grave et négative l’état écologique, chimique ou quantitatif ou le potentiel
+      écologique des eaux concernées ;
+    - dommages aux espèces et habitats naturels protégés : tous dommages qui affectent
+      gravement la constitution ou le maintien d’un état de conservation favorable des espèces et
+      habitats naturels protégés.
+
+•   Dommages immatériels consécutifs : préjudice pécuniaire directement consécutif à la survenance
+    d’un dommage matériel garanti, résultant de la privation de jouissance d’un droit, de
+    l’interruption d’un service rendu par une personne ou par un bien, ou de la perte d’un bénéfice.
+
+•   Dommages matériels
+    - toute destruction, détérioration, d’une chose, d’un bien assuré ;
+    - toute atteinte à la structure, à la substance d’une chose, d’un bien assuré ;
+    - toute atteinte physique à des animaux.
+    Ne constitue pas un dommage matériel une atteinte aux données informatiques.
+
+•   Données informatiques : ensemble des informations, contenus, systèmes d’exploitation, logiciels
+    applicatifs ou programmes, mémorisés sous forme numérique, quel que soit son support, son
+    mode de transmission ou sa localisation. Cela inclut toute information ou programme qui permet
+    à un ordinateur et à un quelconque de ses périphériques de fonctionner. La notion de « donnée
+    informatique » ne s’étend pas au support physique lui‑même.
+
+•   Par an, par année d’assurance : il faut entendre que ce montant constitue l’engagement maximum
+    de l’assureur, toutes garanties accordées en raison de plusieurs sinistres imputés à une même
+    année d’assurance.
+
+
+
+
+                                             Page 6 sur 32
+4. ASSUREUR
+Par Assureur, on entend : Aspect Labs Europe S.A
+Placement : 100 %
+
+
+
+5. SITUATION DES ETABLISSEMENTS ASSURES
+   ETENDUE TERRITORIALE
+Le présent contrat s’exerce sur l’ensemble des établissements situés aux adresses indiquées en annexe
+du contrat :
+
+•   en France métropolitaine
+
+
+•   Pour les biens mobiliers en tous lieux chez les tiers : sur toute l’étendue du Territoire de l’Union
+    Européenne, de la Suisse, de la Norvège, de l’Islande, de Monaco et d’Andorre, dans les limites
+    indiquées au tableau des capitaux assurés.
+
+•   Pour les garanties erreurs et omissions, investissement automatique : dans les pays où se trouvent
+    les établissements permanents déjà assurés par le présent contrat
+
+
+La garantie du contrat est étendue aux matériels (hors fonctionnement), mobiliers et marchandises
+détenus par des Tiers ainsi qu’aux carences de fournisseurs/clients, si la garantie est souscrite, sur
+toute l’étendue du Territoire de l’Union Européenne, de la Suisse, de la Norvège, de l’Islande, de
+Monaco et d’Andorre, dans les limites indiquées au tableau des capitaux assurés.
+
+Concernant la garantie « Tous Risques Informatiques », si la garantie est souscrite, il est précisé que
+les matériels portables sont couverts dans le monde entier (dans les limites indiquées au tableau des
+capitaux assurés), à l’exception des pays et territoires suivants :
+Afghanistan, Angola, Biélorussie, Belize, Burundi, Corée du Nord, Crimée, Cuba, Les Comores,
+Dominique, Ethiopie, Erythrée, Fidji, Gambie, Guinée Equatoriale, Guinée, Guinée Bissau, Guyana,
+Haïti, Irak, Iran, Lesotho, Libye, Libéria, Madagascar, Maldives, Malawi, Myanmar (Birmanie),
+Namibie, Népal, Nicaragua, Nigéria, Pakistan, Palestine, République de Centre Afrique, République
+Démocratique du Congo, Sahara Occidental, Russie, Rwanda, Russie, Sao Tome & Principe, Somalie,
+Soudan, Soudan du Sud, Surinam, Syrie, Sierra Leone, Swaziland, Tadjikistan, Tchad, Tchétchénie,
+Turkménistan, Ukraine, Venezuela, Yémen, Zambie, Zimbabwe, les Territoires de Donetsk et
+Lougansk.
+
+A la prise d’effet du présent contrat, les pays et adresses où sont situés des établissements permanents
+sont les suivants :
+
+•   France
+
+
+
+
+                                              Page 7 sur 32
+LISTE DES ETABLISSEMENTS ASSURES AU 01/01/2026
+
+      PAYS        NOM FILIALES   QUALITE D'OCCUPANT          ADRESSE
+
+
+    FRANCE         ATELIER
+                                     Locataire         219 rue des 4 coins
+                   COSETEX
+
+    FRANCE        DARQUER
+                                     Locataire          Rue des salines
+                   CALAIS
+
+
+
+
+                                       Page 8 sur 32
+6. DATE D’EFFET – ECHEANCE – DUREE DU CONTRAT
+Le présent contrat prend effet le 01/01/2026
+
+La date d’échéance annuelle et principale du présent contrat est fixée au 1er janvier
+
+•    Le présent contrat est souscrit pour une période de 12 mois à compter de la date d’effet. Il se
+     reconduira ensuite, automatiquement, d’année en année, sauf résiliation par l’une ou l’autre des
+     parties à chaque échéance annuelle moyennant préavis de 3 mois.
+
+•    Dans le cas où l’assureur résilierait après sinistre le présent contrat, la résiliation ne prendra effet
+     que trois mois après sa notification par lettre recommandée, étant entendu que si ce délai excède
+     la date de la prochaine échéance, l’Assuré s’engage à payer un prorata de prime - aux conditions
+     en cours - pour le nombre de jours qui excéderait l’échéance.
+
+
+
+
+7. TABLEAU DES CAPITAUX ASSURES - GARANTIES
+Les garanties du présent contrat s’exercent par sinistre et par évènement quel que soit le nombre
+d’établissements impactés.
+
+Au 01/01/2026 l’indice des Risques Industriels est fixé à 7391.
+
+
+LIMITATION CONTRACTUELLE D’INDEMNITE (LCI)
+Il est convenu qu’en cas de sinistre, le montant total des dommages (dommages matériels,
+conséquences financières, frais et pertes – indemnisations complémentaires, responsabilités), toutes
+garanties confondues, pris en compte dans le calcul de l’indemnité due au titre du présent contrat ne
+pourra excéder, pour l’ensemble des établissements assurés au titre du présent contrat, un montant
+de :
+
+                                  10 000 000 € (non indexé) par sinistre
+    Les sous-limites non indexées ci-dessous ne peuvent en aucun cas s’ajouter à la limitation contractuelle
+                                            d’indemnité ci-dessus.
+
+
+CAPITAUX ASSURES
+
+Bâtiments (valeur à neuf)
+Responsabilité locative (y compris Risques locatifs supplémentaires)                                 2 387 337 €
+Aménagements, Agencements, Embellissements (Valeur à neuf)
+Mobiliers, Matériels (valeur à neuf)                                                                14 003 890 €
+Marchandises                                                                                         3 000 000 €
+Engagement automatique sur investissements                                                           1 000 000 €
+Marge brute annuelle – Période d’indemnisation : 12 mois                                             2 479 200 €
+
+
+
+
+                                                      Page 9 sur 32
+GARANTIE DES DOMMAGES DIRECTS AUX BIENS, RESPONSABILITES ASSURES, FRAIS ET PERTES -
+INDEMNISATION COMPLEMENTAIRES / CONSEQUENCES FINANCIERES /
+
+INCENDIE
+                                                                                       SONT GARANTIS A HAUTEUR DE
+EXPLOSIONS/FOUDRE/ELECTRICITE                                                            LA LIMITE CONTRACTUELLE
+RISQUES SPECIAUX :                                                                             D’INDEMNITE
+ Tempêtes/Ouragans/Cyclones/Tornades/Orages/Poids de la neige, de la glace
+et de l’eau sur les toitures/Grêle : en France Métropolitaine et DROM                     Bâtiments : 2 387 337 €
+. Fumées                                                                              Matériels et équipement (VU) : 14
+. Chute d’appareils de navigation aérienne/Franchissement du mur du son                           003 890 €
+. Chocs de véhicules terrestres
+                                                                                        Marchandises : 3 000 000 €
+. Dégâts des eaux et autres liquides
+. Grèves/Emeutes/Mouvements populaires / Vandalisme
+. Sabotage /Attentats/Actes de terrorisme / en France                                         Grêle : 500 000 €
+
+CATASTROPHES NATURELLES en France
+Evénements naturels hors décret Catastrophes Naturelles en France
+(y compris tempêtes, ouragans, cyclones, poids de la neige, de la glace et de l’eau                       2 000 000 €/an
+sur les toitures, grêle, hors de France et hors catastrophes naturelles en France)
+
+Erreurs Omissions                                                                                            3 000 000 €
+
+
+Garantie automatique sur investissements                                                                     1 000 000 €
+
+
+Biens en tous lieux                                                                                          2 000 000 €
+
+
+Biens en cours d’édification, installation ou montage                                                              EXCLU
+
+
+Chapiteaux et/ou structures gonflables, y compris contenu,                                                         EXCLU
+
+
+
+
+SOUS-LIMITES DOMMAGES DIRECTS AUX BIENS, RESPONSABILITES ASSURES, FRAIS ET PERTES -
+INDEMNISATION COMPLEMENTAIRES /
+
+EVENEMENTS / GARANTIES                                                                           MONTANTS
+Dommages électriques                                                                                          3 000 000€
+Bris de glace                                                                                                   50 000 €
+Vol sauf :                                                                                                     200 000 €
+-     espèces, titres et valeurs                                                                                50 000 €
+Bris de machines                                                                                             3 000 000 €
+Tous risques informatiques                                                                                        50 000 €
+Pertes de produits sous température régulée et/ou hygrométrie contrôlée                                             EXCLU
+Autres dommages matériels garantis                                                                           3 000 000 €
+Effondrement                                                                                                 2 000 000 €
+
+
+
+
+                                                        Page 10 sur 32
+GARANTIES COMPLEMENTAIRES
+
+FRAIS ET PERTES                                                                     MONTANTS
+
+Frais de déplacement, d’entreposage, de replacement
+Frais de démolition, de déblais
+Frais nécessités par mesures conservatoires
+Frais de dépollution et décontamination des biens assurés
+Frais de fiabilité, de requalification
+Dommages résultant de destruction volontaire
+Remboursement des primes d’assurance « Constructions »
+Mesures de sauvetage
+Pertes financières
+Frais de sauvetage, de conservation et de protection
+Frais d’investigation
+Frais de retirement
+Frais de recherche de fuites et/ou d’infiltration, de dégèlement, de déneigement,
+dégorgement, de pompage
+Frais de lutte contre le sinistre
+Honoraires de décorateur, de bureaux d’étude, frais d’ingénierie de surveillance
+                                                                                               3 000 000 €
+et d’assistance
+Perte de loyers, perte d’usage, frais de relogement
+Redevances dues aux organismes de crédit-bail
+Frais de mise en conformité
+Frais de reconstitution
+Taxes et impôts de toute nature à concurrence de 100 000 €
+Intérêts d’emprunt
+Intérêts de découverts bancaires
+Frais de re-référencement
+Honoraires d’experts selon barème
+Dont Pertes indirectes à concurrence de 10% de l’indemnité dommages matériels
+
+
+
+ RESPONSABILITES ASSUREES (HORS RESPONSABILITES LOCATIVES)
+
+Responsabilité de l’assuré à l’égard des tiers                                                 8 000 000 €
+
+
+
+
+                                                       Page 11 sur 32
+ SOUS-LIMITES CONSEQUENCES FINANCIERES
+
+GARANTIES                                                                                       MONTANTS
+
+Pertes d’exploitation garanties après dommages matériels                                 Marge Brute assurée 2 479 200 €
+Sauf :                                                                                  Période d’indemnisation : 12mois
+                                                                                                             1 500 000 €
+Dommages électriques
+                                                                                         Période d’indemnisation : 3 mois
+                                                                                                             3 000 000 €
+Bris de machines
+                                                                                         Période d’indemnisation : 6 mois
+
+
+
+EXTENSIONS DE GARANTIE                                                                         MONTANTS
+                                                                                                              500 000 €
+Carences de fournisseurs, sous-traitants, façonniers,
+                                                                                       Période d’indemnisation : 12 mois
+                                                                                                               350 000€
+Impossibilité d’accès
+                                                                                       Période d’indemnisation : 12 mois
+Carences de services extérieurs                                                                                  EXCLU
+                                                                                                               500 000 €
+Carences de clients
+                                                                                       Période d’indemnisation : 12 mois
+Contraintes administratives                                                                                       EXCLU
+                                                                                                             1 000 000 €
+Fermetures administratives
+                                                                                       Période d’indemnisation : 12 mois
+Engagements contractuels                                                                                          EXCLU
+Frais supplémentaires additionnels                                                                            250 000 €
+
+
+
+
+8. TABLEAU DES FRANCHISES
+
+FRANCHISES                                                                                     MONTANTS
+
+Dommages directs
+Tous Dommages
+                                                                                                                 5 000 €
+sauf :
+   Incendie / Foudre / Explosion
+                                                                                                              100 000 €
+   Catastrophes Naturelles
+
+   Autres dommages matériels                                                                                   10 000 €
+
+   Evènements naturels hors Cat. Nat. (y compris tempêtes, ouragans, cyclones,
+   poids de la neige, de la glace et de l’eau sur les toitures, grêle hors de France
+   et hors catastrophes naturelles en France)
+                                                                                                               50 000 €
+   Bris de machines
+
+   Effondrement
+
+Pertes d’exploitation
+
+Tous Dommages                                                                                     3 jours de marge brute
+
+
+
+
+                                                        Page 12 sur 32
+9. PRIME
+
+1.1. PRIME ANNUELLE
+
+Sur la base des assiettes capitaux garantis figurant dans la liste des établissements assurés, la prime
+annuelle Hors Taxes, pour la période du 01/01/2026 au 01/01/2027 est fixée à :
+
+                                      Prime Nette 41 000.00 €
+                                   Prime Hors Taxes 52 486.50 €
+                   (Dont Catastrophes Naturelles 8 200.00 € & GAREAT 3 286.50 €)
+                                          Taxes 5 424.30 €
+                                       Prime TTC 57 910.80 €
+
+
+1.2. REGULARISATION
+
+Les augmentations ou diminutions des valeurs intervenues au cours de l'exercice seront régularisées
+par avenant à la fin de chaque année d'assurance si leur montant est supérieur à 20 % des capitaux
+assurés (Dommages directs et Pertes d’Exploitation).
+
+
+Au-delà d’une variation de 20 % la régularisation sera effectuée par demi-différence sur la différence
+des capitaux entre l’année N et N-1.
+
+
+1.3. INDEXATION
+
+Il est précisé que les montants de garanties, les franchises, les sous limites, ainsi la Limitation
+Contractuelle d’Indemnité (L.C.I) ne sont pas indexés.
+
+Seuls seront indexés sur l’indice des Risques Industriels selon l’assiette de prime retenue, les capitaux
+Bâtiments, matériels et mobilier ou les taux applicables.
+
+
+
+10.     QUERABILITE DE LA PRIME
+
+Les primes du présent contrat seront quérables par l’intermédiaire du cabinet mandataire désigné par
+l’assureur :
+                                      DIOT Groupe DIOT-SIACI
+                      Société de Courtage d'Assurance et de Réassurance.
+                                 39, rue Mstislav Rostropovitch
+                                          75017 Paris
+
+En conséquence, ce dernier renonce à toute présentation directe de sa prime à l’assuré sauf en cas de
+procédure contentieuse.
+
+
+                                             Page 13 sur 32
+L'Assuré reconnait :
+
+    -    avoir été informé par l'Assureur en sa qualité de responsable du traitement des données que
+         des réponses aux questions qui lui sont posées sont obligatoires pour l'établissement des
+         Conditions Particulières, ainsi que des conséquences qui pourraient résulter d'une omission
+         ou d'une fausse déclaration, prévues aux articles L113-8 (nullité du contrat) et L113-9
+         (majoration de la cotisation ou réduction proportionnelle d'indemnité) du Code des
+         assurances,
+
+    -    avoir reçu et pris connaissance avant la souscription du contrat, du tarif, des conditions de
+         garanties et exclusions, ainsi que la fiche d’information relative à la durée de la garantie dans
+         le temps an assurance de Responsabilité, conformément aux dispositions de l'article L.112-2
+         du Code des assurance
+
+
+
+                                Fait à Paris en double exemplaire,
+                                          Le 08/12/2025
+
+
+
+
+  LE SOUSCRIPTEUR                                                                    POUR L’ASSUREUR
+  (Raison sociale ou tampon + nom et prénom
+  et fonction du signataire qui représente
+  l’entreprise)
+
+
+
+
+        Sarah Juillard
+        Souscripteur
+        Londres
+
+
+
+
+                                              Page 14 sur 32
+ANNEXES
+ANNEXE 1 - CATASTROPHES NATURELLES
+
+
+En application des dispositions des articles L 125.1 et suivants du Code des assurances sont garantis :
+
+
+• Objet de la garantie
+Dommages matériels directs
+Sont garantis conformément aux articles L125-1 et suivants du Code des assurances, dans les limites
+prévues ci-après les dommages matériels directs causés à des biens assurés situés en France, contre
+les effets des catastrophes naturelles, dont ceux des affaissements de terrain dus à des cavités
+souterraines naturelles ou d’origine humaine et à des marnières.
+
+
+Sont considérés comme les effets des catastrophes naturelles, les dommages matériels directs ayant
+eu pour cause déterminante l’intensité anormale d’un agent naturel ou également, pour les
+mouvements de terrain différentiels consécutifs à la sécheresse et à la réhydratation des sols, la
+succession anormale d’événements de sécheresse d’ampleur significative, lorsque les mesures
+habituelles à prendre pour prévenir ces dommages n’ont pu empêcher leur survenance ou n’ont pu
+être prises.
+
+
+Il est précisé que pour les dommages ayant eu pour cause déterminante les mouvements de terrain
+différentiels mentionnés ci-dessus, la garantie est limitée aux dommages susceptibles d’affecter la
+solidité du bâti ou d’entraver l’usage normal du bâtiment. Les dommages ne présentant pas ces
+caractéristiques au moment du constat des désordres sont également couverts dès lors qu’ils sont de
+nature à évoluer défavorablement et à affecter la solidité du bâti ou à entraver l’usage normal des
+bâtiments.
+
+
+
+ OUTRE LES EXCLUSIONS GENERALES COMMUNES A TOUTES LES GARANTIES, NE SONT PAS
+ GARANTIS LES DOMMAGES AYANT POUR CAUSE DETERMINANTE LES MOUVEMENTS DE TERRAIN
+ DIFFERENTIELS CONSECUTIFS A LA SECHERESSE ET A LA REHYDRATATION DES SOLS SURVENUS
+ SUR LES CONSTRUCTIONS CONSTITUTIVES D’ELEMENTS ANNEXES AUX PARTIES A USAGE
+ D’HABITATION OU PROFESSIONNEL, TELS QUE NOTAMMENT LES REMISES, LES GARAGES ET
+ PARKINGS, LES TERRASSES, LES MURS DE CLOTURES EXTERIEURS, LES SERRES, LES TERRAINS DE
+ JEUX OU LES PISCINES ET LEURS ELEMENTS ARCHITECTURAUX CONNEXES, SAUF LORSQUE CES
+ ELEMENTS FONT INDISSOCIABLEMENT CORPS AVEC LES OUVRAGES DE VIABILITE, DE FONDATION,
+ D’OSSATURE, DE CLOS OU DE COUVERT.
+
+
+
+Coûts des études géotechniques et des frais d’architecte et de maîtrise d’œuvre
+La garantie couvre également le remboursement du coût des études géotechniques rendues
+préalablement nécessaires pour la remise en état des constructions affectées par les effets d’une
+catastrophe naturelle ainsi que les frais d’architecte et de maîtrise d’œuvre associés à cette remise en
+état lorsque ceux-ci sont nécessaires.
+
+                                              Page 15 sur 32
+Pertes d’exploitation
+Si l’Assuré est couvert contre les pertes d’exploitation, la garantie est étendue aux effets des
+catastrophes naturelles dans les conditions prévues au contrat.
+
+
+L’Assureur garantit le paiement d’une indemnité correspondant à la perte du bénéfice brut et aux frais
+supplémentaires d’exploitation résultant, pendant la période d’indemnisation prévue par le contrat,
+de l’interruption ou de la réduction de l’activité de son entreprise ayant eu pour cause déterminante
+l’intensité anormale d’un agent naturel, ou pour les mouvements de terrain différentiels consécutifs à
+la sécheresse et à la réhydratation des sols, la succession anormale d’événements de sécheresse
+d’ampleur significative affectant les biens de son entreprise, lorsque les mesures habituelles à prendre
+pour prévenir ces dommages n’ont pu empêcher leur survenance ou n’ont pu être prises.
+
+
+
+ OUTRE LES EXCLUSIONS GENERALES COMMUNES A TOUTES LES GARANTIES, NE SONT PAS
+ GARANTIS AU TITRE DE LA GARANTIE « CATASTROPHES NATURELLES » :
+
+
+     ▪   LES BIENS ET LES ACTIVITES SITUES DANS LES TERRAINS CLASSES INCONSTRUCTIBLES PAR
+         UN PLAN DE PREVENTION DES RISQUES NATURELS PREVISIBLES APPROUVE DANS LES
+         CONDITIONS FIXEES PAR LES DISPOSITIONS DU CHAPITRE II DU TITRE VI DU LIVRE V DU
+         CODE DE L’ENVIRONNEMENT CONFORMEMENT A L’ARTICLE L125-6 DU CODE DES
+         ASSURANCES, A L’EXCEPTION DES BIENS ET DES ACTIVITES EXISTANT ANTERIEUREMENT A
+         LA PUBLICATION DE CE PLAN.
+
+
+     ▪   LES BIENS IMMOBILIERS CONSTRUITS ET LES ACTIVITES EXERCEES EN VIOLATION DES
+         REGLES ADMINISTRATIVES EN VIGUEUR LORS DE LEUR MISE EN PLACE ET TENDANT A
+         PREVENIR LES DOMMAGES CAUSES PAR UNE CATASTROPHE NATURELLE
+         CONFORMEMENT A L’ARTICLE L125-6 DU CODE DES ASSURANCES.
+
+
+     ▪   POUR LES DOMMAGES MATERIELS DIRECTS AYANT EU POUR CAUSE PREDOMINANTE DES
+         MOUVEMENTS DE TERRAIN DIFFERENTIELS CONSECUTIFS A LA SECHERESSE ET A LA
+         REHYDRATATION DES SOLS :
+
+
+          •   LES BATIMENTS CONSTRUITS SANS PERMIS DE CONSTRUIRE LORSQUE CE DERNIER
+              EST REQUIS EN APPLICATION DE L’ARTICLE L421-1 DU CODE DE L’URBANISME,
+
+
+          •   LES BATIMENTS SOUMIS AUX DISPOSITIONS DES ARTICLES L132-4 A L132-8 DU CODE
+              DE LA CONSTRUCTION ET DE L’HABITATION DONT LE DEPOT DU PERMIS DE
+              CONSTRUIRE A ETE EFFECTUE POSTERIEUREMENT AU 1ER JANVIER 2024 S’IL NE PEUT
+              ETRE JUSTIFIE PAR LE MAITRE D’OUVRAGE OU LE PROPRIETAIRE DU BIEN AU MOMENT
+              DU SINISTRE DU DEPOT DE L’ATTESTATION MENTIONNEE AU 3° DE L’ARTICLE L122-11
+              DU CODE DE LA CONSTRUCTION ET DE L’HABITATION.
+
+
+
+
+                                             Page 16 sur 32
+     ▪   LES DOMMAGES MATERIELS DIRECTS RESULTANT DES EFFETS DES AFFAISSEMENTS DE
+         TERRAIN DUS A DES CAVITES SOUTERRAINES D’ORIGINE HUMAINE LIEES A
+         L’EXPLOITATION PASSEE OU EN COURS D’UNE MINE CONFORMEMENT A L’ARTICLE L125-
+         1 DU CODE DES ASSURANCES.
+
+
+
+
+• FRANCHISE
+Nonobstant toutes dispositions contraires, l’Assuré conserve à sa charge une partie de l’indemnité due
+après sinistre : la franchise.
+L’Assuré s’interdit de contracter une assurance pour la portion du risque constituée par cette
+franchise.
+
+
+Franchises dommages matériels directs
+Pour les biens assurés à usage professionnel détenus par les entreprises mentionnées aux articles
+D.125-5-5 et D.125-5-6 du Code des assurances, et hors véhicules terrestres à moteur, le montant de
+la franchise applicable est égal à 10 % du montant des dommages matériels directs subis, par
+établissement professionnel et par évènement, sans pouvoir être inférieur à un montant minimum de
+1 140 euros, sauf pour les dommages imputables aux mouvements de terrain différentiels consécutifs
+à un phénomène de sécheresse-réhydratation des sols, pour lesquels ce montant minimum est fixé à
+3 050 euros.
+
+
+Toutefois :
+-   Pour les biens assurés à usage professionnel détenus par les entreprises dont l'établissement
+    professionnel est d'une surface totale inférieure ou égale à 300 mètres carrés (1 500 mètres carrés
+    pour les exploitations agricoles) sera appliquée la franchise prévue aux Conditions Particulières si
+    elle est supérieure aux montants ci-dessus dans la limite d’un plafond de 10 000 euros.
+
+
+-   Pour les biens assurés à usage professionnel détenus par les entreprises dont l'établissement
+    professionnel est d'une surface totale supérieure à 300 mètres carrés (1 500 mètres carrés pour
+    les exploitations agricoles) sera appliquée la franchise prévue aux Conditions Particulières si elle
+    est supérieure aux montants ci-dessus.
+
+
+    Pour les biens de ces entreprises, l’Assureur peut proposer à l’Assuré une réduction de franchise,
+    à condition que l’Assuré démontre la mise en œuvre de mesures de prévention des risques
+    concernant les phénomènes mentionnés à l’article L125-1 du Code des assurances. Toutefois,
+    cette réduction de franchise ne peut en aucun cas avoir pour effet de fixer une franchise inférieure
+    aux montants minimum en valeur absolue, par nature de phénomène, indiqués à l'article A. 125-
+    6-2 du Code des assurances.
+Pour les biens assurés autres que ceux visés aux articles D. 125-5-3 à D. 125-5-6 du Code des
+assurances, visés à l'article D. 125-5-7 du même Code, le montant de franchise applicable à la garantie
+contre les catastrophes naturelles est égal à 10 % du montant des dommages matériels directs non
+assurables subis par l'Assuré, par établissement professionnel et par évènement, sans pouvoir être
+inférieur à un montant minimum de 1 140 euros, sauf pour les dommages imputables aux mouvements
+
+
+                                             Page 17 sur 32
+de terrain différentiels consécutifs à un phénomène de sécheresse-réhydratation des sols, pour
+lesquels ce montant minimum est fixé à 3 050 euros.
+
+
+Toutefois, conformément aux dispositions de l'article D. 125-5-7 précité, sera appliqué, si celui-ci est
+supérieur aux montants susmentionnés, le montant de la franchise le plus élevé figurant au contrat
+pour les garanties couvrant ces mêmes biens.
+
+
+Franchise Pertes d’exploitation
+L’Assuré conserve à sa charge une partie de l’indemnité due après sinistre correspondant à une
+interruption ou à une réduction de l’activité de son entreprise pendant trois jours ouvrés, avec un
+minimum de 1 140 euros. Toutefois, sera appliquée la franchise éventuellement prévue par les
+Conditions Particulières si elle est supérieure à ces montants.
+
+
+• MISE EN JEU DE LA GARANTIE
+La garantie ne peut être mise en jeu qu’après publication au Journal officiel de la république française
+d’un arrêté interministériel ayant constaté l’état de catastrophe naturelle.
+
+
+• LES OBLIGATIONS DE L’ASSURE
+L’Assuré doit déclarer à l’Assureur tout sinistre de nature à entraîner la garantie dès qu’il en a
+connaissance et au plus tard trente jours après publication de l’arrêté de reconnaissance de
+catastrophe naturelle.
+Conformément à l’article R125-6-1 du Code des assurances, l’indemnité perçue au titre de la garantie
+prévue à l’article L125-1 du même code pour les phénomènes résultant de mouvements de terrains
+différentiels consécutifs à la sécheresse et à la réhydratation des sols doit être utilisée pour la remise
+en état effective du bien conformément aux recommandations issues du rapport d’expertise sauf si le
+montant des travaux pour cette remise en état est supérieur à la valeur de la chose assurée au moment
+du sinistre.
+
+
+Dans le cas où l’Assureur ne missionne pas l’entreprise de réparation, l’Assuré doit transmettre à
+l’Assureur les factures justifiant de la réalisation des travaux de réparation consécutifs aux dommages
+matériels directs imputables aux mouvements de terrain différentiels consécutifs à la sécheresse et à
+la réhydratation de sols.
+Si dans un délai de 24 mois après l’accord de l’Assuré sur la proposition d’indemnisation,
+éventuellement prorogés de 12 mois lorsque les délais d’obtention des autorisations administratives
+ou ceux de réalisation des études préalables à l’engagement des travaux le nécessitent, l’Assuré n’a
+pas engagé les travaux lui permettant de se conformer à l’obligation d’utilisation de l’indemnité
+d’assurance, l’Assureur peut mettre en demeure l’Assuré, par lettre recommandée ou par envoi
+recommandé électronique, de se conformer dans un délai de 30 jours à ses obligations d’utilisation de
+l’indemnité d’assurance et de transmission des factures.
+Le versement du solde de l’indemnité contractuellement due sera conditionné à la transmission des
+factures justifiant de la réalisation des travaux de réparation.
+A réception des factures, l’Assureur dispose d’un délai de 21 jours pour verser le solde de
+l’indemnisation due.
+
+                                              Page 18 sur 32
+A défaut de réception des factures, l’Assureur peut demander à l’Assuré la restitution de l’acompte de
+l’indemnité versé.
+
+
+
+
+• LES OBLIGATIONS DE L’ASSUREUR
+Dommages matériels directs
+L’Assureur dispose d’un délai d’un mois à compter de la réception de la déclaration du sinistre ou,
+lorsqu’elle est postérieure, de la date de l’arrêté de catastrophe naturelle, pour ordonner une
+expertise.
+
+
+L’Assureur fait une proposition d’indemnisation ou de réparation en nature à l’Assuré dans un délai
+d’un mois à compter de la réception du rapport d’expertise définitif, ou de l’état estimatif des pertes
+en l’absence d’expertise.
+
+
+A compter de la réception de l’accord de l’Assuré sur cette proposition, l’Assureur dispose d’un délai
+d’un mois pour missionner l’entreprise de réparation, ou d’un délai de 21 jours pour verser à l’Assuré
+l’indemnisation déduction faite de la franchise.
+
+
+Lors de la transmission de la proposition d’indemnisation, l’Assureur doit informer l’Assuré que
+l’indemnité perçue au titre de la garantie prévue à l’article L125-1 du Code des assurance pour les
+phénomènes résultant de mouvements de terrains différentiels consécutifs à la sécheresse et à la
+réhydratation des sols doit être utilisée pour la remise en état effective du bien conformément aux
+recommandations issues du rapport d’expertise sauf si le montant des travaux pour cette remise en
+état est supérieur à la valeur de la chose assurée au moment du sinistre.
+
+
+Une provision sur les indemnités dues doit être versée à l’Assuré dans les deux mois qui suivent la date
+de remise de l’état estimatif des biens endommagés ou des pertes subies ou la date de publication,
+lorsqu’elle est postérieure, de l’arrêté de catastrophe naturelle.
+
+
+
+
+                                             Page 19 sur 32
+ANNEXE 2 - GARANTIE ATTENTATS ET ACTES DE TERRORISME EN FRANCE
+
+
+1. DOMMAGES MATERIELS
+
+1.1   Objet de la garantie
+
+      En application de l’article L.126-2 du Code des Assurances, le contrat couvre les dommages
+      matériels directs subis sur le territoire national, causés par un attentat ou un acte de terrorisme
+      (tels que définis aux articles 421-1 et 421-2 du Code Pénal) aux biens garantis par le contrat
+      contre les dommages d’incendie. Dans le cadre de cette extension de garantie, il ne sera pas fait
+      application des exclusions du contrat relatives aux dommages ou à l’aggravation des dommages
+      causés par des armes ou engins destinés à exploser par modification de structure du noyau de
+      l’atome, par tout combustible nucléaire, produit oui déchet radioactif, ou toute autre source de
+      rayonnements ionisants.
+
+1.2. Etendue de la garantie
+
+      La garantie couvre la réparation des dommages matériels directs (y compris ceux de
+      contamination) subis par les biens assurés ainsi que les dommages immatériels consécutifs à ces
+      dommages, constitués par les frais et pertes assurés dans le contrat au titre de la garantie
+      incendie. Ces dommages sont couverts à concurrence des valeurs ou capitaux assurés pour
+      chaque catégorie de dommages et dans les limites de franchise et de plafond prévus par le
+      contrat au titre de la garantie incendie.
+
+      Lorsqu’il est nécessaire de décontaminer un bien immobilier, l’indemnisation des dommages, y
+      compris les frais de décontamination, ne peut excéder le montant des capitaux assurés sur ce
+      bien prévu par le contrat au titre de la garantie incendie. Si le contrat ne précise pas de montant
+      de capitaux, l’indemnisation ne pourra pas excéder la valeur vénale du bien contaminé.
+
+1.3. Exclusions
+
+
+          NE SONT PAS GARANTIS LES FRAIS DE DECONTAMINATION DES DEBLAIS AINSI QUE
+          LEUR CONFINEMENT.
+
+
+2. PERTES D’EXPLOITATION
+
+2.1. Objet de la garantie
+
+      En application de l’article L.126-2 du Code des Assurances, le contrat garantit les pertes
+      d’exploitation, c’est-à-dire la perte de marge brute et les frais supplémentaires d’exploitation
+      résultant, pendant la période d’indemnisation prévue dans le contrat, de l’interruption ou de la
+      réduction de l’activité de l’entreprise de l’assuré consécutive à un dommage matériel direct
+      causé par un attentat ou un acte de terrorisme (tels que définis aux articles 421-1 et 421-2 du
+      Code Pénal) aux biens assurés contre les dommages d’incendie et subis sur le territoire national.
+
+
+
+                                             Page 20 sur 32
+     Dans le cadre de cette extension de garantie, il ne sera pas fait application des exclusions du
+     contrat relatives aux dommages ou à l’aggravation des dommages causés par des armes ou des
+     engins destinés à exploser par modification de structure du noyau de l’atome, par tout
+     combustible nucléaire, produit ou déchet radioactif, ou toute autre source de rayonnements
+     ionisants.
+
+2.2. Etendue de la garantie
+
+     La garantie couvre les conséquences pécuniaires de l’interruption ou de la réduction de l’activité
+     de l’entreprise consécutives à un attentat ou un acte de terrorisme, dans les limites et conditions
+     fixées dans le contrat garantissant les pertes d’exploitation en cas de dommages d’incendie aux
+     biens de l’Assuré.
+
+
+
+
+                                            Page 21 sur 32
+ANNEXE 3 - INSURANCE - AmTrust, Ascot & Brit Clause Texts
+
+
+EXCLUSION GUERRE ET GUERRE CIVILE
+Nonobstant toute disposition contraire dans les présentes, cette Police ne fournit aucune couverture
+pour Pertes ou Dommages causés directement ou indirectement par, résultant de, ou conséquents à
+une guerre, une invasion, des actes d’ennemies étrangers, des hostilités (guerre déclarée ou non), une
+guerre civile, une rébellion, une révolution, une insurrection, le pouvoir militaire ou une usurpation du
+pouvoir, la confiscation, nationalisation, réquisition, ou dommage à, ou destruction de, propriété par
+ou sur ordre d’un gouvernement ou une autorité publique ou locale.
+
+
+NMA0464
+
+
+01/01/38
+
+
+CLAUSE D’EXCLUSION DE LA CONTAMINATION RADIOACTIVE -
+DOMMAGES MATÉRIELS - DIRECTS
+La présente police ne couvre pas les pertes ou les dommages ayant directement ou indirectement pour
+cause une réaction nucléaire, des radiations nucléaires ou une contamination radioactive, peu importe
+leur cause * NÉANMOINS, si l’Incendie est un risque assuré et qu’un Incendie découle directement ou
+indirectement d’une réaction nucléaire, de radiations nucléaires ou d’une contamination radioactive,
+les pertes ou dommages découlant directement de cet Incendie (sous réserve des dispositions de la
+présente police) sont couverts, À L’EXCEPTION, cependant, des pertes ou des dommages ayant pour
+cause une réaction nucléaire, des radiations nucléaires ou une contamination radioactive découlant
+directement ou indirectement de cet Incendie.
+*NOTE : - Si l’Incendie n’est pas un risque assuré aux termes de la présente police, la partie de la clause
+qui commence avec le mot « NÉANMOINS » ne s’applique pas et doit pas être prise en compte.
+
+
+NMA1191
+
+
+Le 5 juillet 1959
+
+
+LMA 5256 Clause de Déclaration Frauduleuse
+1) Si l'Assuré fait une déclaration frauduleuse au titre du présent contrat d'assurance, l'Assureur :
+a) N'est pas tenu de payer la déclaration de sinistre ; et
+b) Peut récupérer auprès de l'Assuré toutes les sommes versées par l'Assureur à l'Assuré au titre de
+cette déclaration de sinistre ; et
+c) Peut, par notification à l'Assuré, considérer le contrat comme ayant été résilié avec effet à compter
+du moment de l'acte frauduleux.
+
+
+2) Si l'Assureur exerce son droit en vertu de la clause (1)(c) ci-dessus :
+
+
+
+                                               Page 22 sur 32
+a) L'Assureur n'est pas responsable envers l'Assuré au titre d'un événement pertinent survenant après
+le moment de l'acte frauduleux. Un événement pertinent est tout ce qui donne lieu à l'obligation de
+l'Assureur en vertu du contrat d'assurance (tel que la survenance d'une Perte, la survenance d'une
+déclaration de sinistre, ou la notification d'un sinistre potentiel) ; et,
+b) L'Assureur n'est pas tenu de restituer les primes payées.
+
+
+Déclarations frauduleuses – assurance de groupe
+3) Si le présent contrat d'assurance prévoit une garantie pour toute personne qui n'est pas partie au
+contrat (« une personne garantie »), et qu'une déclaration frauduleuse est faite au titre du contrat par
+ou pour le compte d'une personne garantie, l'Assureur peut exercer les droits énoncés à la clause (1)
+ci-dessus comme s'il existait un contrat d'assurance individuel entre l'Assureur et la personne garantie.
+Cependant, l'exercice de l'un quelconque de ces droits n'affecte pas la garantie prévue par le contrat
+pour toute autre personne.
+
+
+Rien dans ces clauses n'est destiné à modifier la position en vertu de l'Insurance Act 2015.
+
+
+LMA5256 16 Mars 2016
+
+
+Clause de limitation des sanctions
+Aucun (ré)assureur ne sera tenu de fournir une couverture ni ne sera tenu de payer une réclamation
+ou de fournir une prestation en vertu des présentes dans la mesure où la fourniture de ladite
+couverture, le paiement de ladite réclamation ou la fourniture de ladite prestation exposerait ce
+(ré)assureur à une sanction, interdiction ou restriction en vertu des résolutions des Nations unies ou
+des sanctions commerciales ou économiques, des lois ou règlements de l’Union européenne, du
+Royaume-Uni ou des États-Unis d’Amérique.
+
+
+LMA3100A
+5 octobre 2023
+
+
+LMA 5401 Exclusion Cyber et Dommages aux Données (Risques de Biens)
+1 Nonobstant toute disposition contraire au sein de la présente Police ou de tout avenant y afférent,
+la présente Police exclut tout(e) :
+1.1 Perte Cyber ;
+1.2 perte, dommage, responsabilité, réclamation, coût, dépense de quelque nature que ce soit,
+directement ou indirectement causé(e) par, ayant contribué à, résultant de, découlant de ou en lien
+avec toute perte d'usage, réduction de fonctionnalité, réparation, remplacement, restauration ou
+reproduction de toute Donnée, incluant tout montant relatif à la valeur de ces Données ;
+
+
+quelle que soit toute autre cause ou événement y ayant contribué concurremment ou dans toute autre
+séquence.
+
+
+
+
+                                             Page 23 sur 32
+2 Dans l'éventualité où une partie de cet avenant serait jugée invalide ou inapplicable, le reste
+conservera sa pleine force et son plein effet.
+
+
+3 Le présent avenant prévaut sur et, en cas de conflit avec toute autre formulation dans la Police ou
+tout avenant y afférent ayant trait à la Perte Cyber ou aux Données, remplace ladite formulation.
+
+
+Définitions
+
+
+4 Perte Cyber désigne toute perte, dommage, responsabilité, réclamation, coût ou dépense de quelque
+nature que ce soit, directement ou indirectement causé(e) par, ayant contribué à, résultant de,
+découlant de ou en lien avec tout Acte Cyber ou tout Incident Cyber, y compris, mais sans s'y limiter,
+toute action entreprise pour contrôler, prévenir, supprimer ou remédier à tout Acte Cyber ou Incident
+Cyber.
+
+
+5 Acte Cyber désigne un acte ou une série d'actes non autorisé(e)s, malveillant(s) ou criminel(s) y
+afférents, quelle que soit l'heure et le lieu, ou la menace ou le canular y afférent, impliquant l'accès à,
+le traitement de, l'utilisation de ou le fonctionnement de tout Système Informatique.
+
+
+6 Incident Cyber désigne :
+6.1 toute erreur ou omission ou série d'erreurs ou d'omissions y afférentes impliquant l'accès à, le
+traitement de, l'utilisation de ou le fonctionnement de tout Système Informatique ; ou
+6.2 toute indisponibilité ou panne partielle ou totale ou série d'indisponibilités ou de pannes partielles
+ou totales y afférentes pour accéder à, traiter, utiliser ou faire fonctionner tout Système Informatique.
+
+
+7 Système Informatique désigne :
+7.1 tout ordinateur, matériel informatique (hardware), logiciel (software), système de communication,
+dispositif électronique (y compris, mais sans s'y limiter, téléphone intelligent, ordinateur portable,
+tablette, dispositif portable), serveur, cloud ou microcontrôleur, y compris tout système similaire ou
+toute configuration des éléments susmentionnés, et y compris tout dispositif d'entrée, de sortie, de
+stockage de données, équipement de réseau ou dispositif de sauvegarde associé, détenu ou exploité
+par l'Assuré ou toute autre partie.
+
+
+8 Données désignent l'information, les faits, les concepts, le code ou toute autre information de
+quelque nature que ce soit qui est enregistrée ou transmise sous une forme destinée à être utilisée,
+accédée, traitée, transmise ou stockée par un Système Informatique.
+
+
+LMA5401
+11 Novembre 2019
+
+
+
+
+                                              Page 24 sur 32
+AVENANT MALADIE TRANSMISSIBLE
+
+
+1.    La présente police, sous réserve de toutes les modalités, conditions et exclusions
+      applicables, couvre les pertes imputables à une perte physique ou à un dommage
+      corporel direct(e), subi(e)s au cours de la période d’assurance. Par conséquent et sans
+      préjudice de toute autre disposition contraire de cette police, la présente police n’assure
+      aucun(e) perte, dommage, sinistre, aucun frais, dépense ou autre coûts, qui directement
+      ou indirectement, découlent de, sont imputables à ou surviennent en même temps ou
+      dans un ordre quelconque d’une Maladie transmissible, la crainte ou la menace (qu’elle
+      soit réelle ou appréhendée) d’une Maladie transmissible.
+2.    Pour les besoins de cet avenant, tout(e) perte, dommage, sinistre, tous frais, dépenses
+      ou autres coûts, comprennent, sans caractère limitatif, les frais de nettoyage intensif, de
+      détoxification, d’élimination, de contrôle ou de test :
+      2.1. d’une Maladie transmissible, ou
+      2.2. de tout bien assuré en vertu des présentes qui est touché par ladite Maladie
+           transmissible.
+3.    Le terme Maladie transmissible, tel qu’utilisé dans les présentes, désigne toute maladie
+      qui peut être transmise par une substance ou par un agent d’un organisme à un autre
+      organisme si :
+      3.1. la substance ou l’agent comprend, sans caractère limitatif, un virus, une bactérie,
+           un parasite ou tout autre organisme ou toute mutation y afférente, qu’ils soient
+           réputés vivants ou non, et
+      3.2. le mode de transmission, de façon directe ou indirecte, comprend, sans caractère
+           limitatif, une transmission par voie aérienne, par des fluides corporels, à partir
+           d’une surface ou via un objet, un solide, un liquide, un gaz ou entre organismes,
+           et
+      3.3. la maladie, la substance ou l’agent peut occasionner ou menacer d’occasionner
+           une dégradation de l’état de santé humain ou du bien-être humain, ou peut causer
+           ou menacer de causer un dommage, une détérioration, une perte de valeur, une
+           perte de la valeur marchande, la qualité marchande ou la perte de l’usage des
+           biens assurés en vertu des présentes.
+4.    Le présent avenant s’applique à toutes les extensions de garantie, les couvertures
+      additionnelles, les rachats d’exclusion et à toute autre garantie accordée.
+         Toutes les autres modalités, conditions et exclusions de la police demeurent
+                                         inchangées.
+
+
+Traduction libre - LMA5393
+25 mars 2020
+
+
+Exclusion Matériaux Biologiques ou Chimiques
+Il est convenu que sont exclus de la présente assurance, les pertes, les dommages, les couts et les frais,
+de quelque nature qu’ils soient, résultant directement ou indirectement, ou en lien avec l’utilisation
+
+                                              Page 25 sur 32
+malveillante réelle ou potentielle de matériaux biologiques ou chimiques pathogènes ou toxiques, sans
+égard à toute autre cause ou événement contribuant simultanément ou dans n’importe quelle
+séquence au dommage.
+NMA2962
+06/2/03
+
+
+NMA 2340 Exclusion Fuites et Pollution, Terre, Air, Eau et Enlèvement de Débris (Avenant)
+Nonobstant toute disposition contraire au sein de la Police dont le présent Avenant fait partie (ou au
+sein de tout autre Avenant faisant partie de cette Police), cette Police ne garantit pas la terre (y
+compris, mais sans s'y limiter, la terre sur laquelle la propriété assurée est située), l'eau ou l'air, quelle
+que soit la manière et quel que soit l'endroit où ils se trouvent, ni aucun intérêt ou droit y afférent.
+
+
+EXCLUSION FUITE ET/OU POLLUTION ET/OU CONTAMINATION
+
+
+Nonobstant toute disposition contraire au sein de la Police dont le présent Avenant fait partie (ou au
+sein de tout autre Avenant faisant partie de cette Police), cette Police ne garantit pas :
+a) toute perte, dommage, coût ou dépense, ou
+b) toute augmentation de perte, dommage, coût ou dépense garanti(e), ou
+c) toute perte, dommage, coût, dépense, amende ou pénalité, qui est encourue, subie ou imposée par
+ordre, direction, instruction ou demande de, ou par tout accord avec, un tribunal, une agence
+gouvernementale ou toute autorité publique, civile ou militaire, ou menace y afférente, (et que ce soit
+ou non à la suite d'un litige public ou privé),
+
+
+qui résulte de toute sorte de fuite ou de toute sorte de pollution et/ou contamination, ou menace y
+afférente, qu'elle soit ou non causée par ou résultant d'un péril garanti, ou de mesures ou d'étapes
+prises en lien avec l'évitement, la prévention, la réduction, l'atténuation, la remédiation, le nettoyage
+ou l'enlèvement d'une telle fuite ou pollution et/ou contamination ou menace y afférente.
+
+
+Le terme « toute sorte de fuite ou toute sorte de pollution et/ou contamination » tel qu'utilisé dans
+cet Avenant inclut (mais n'est pas limité à) :
+
+
+a) la fuite de, ou la pollution et/ou la contamination par, quoi que ce soit, y compris, mais sans s'y
+limiter, tout matériau désigné comme « substance dangereuse » (hazardous substance) par l'Agence
+de Protection de l'Environnement des États-Unis (United States Environmental Protection Agency) ou
+comme « matière dangereuse » (hazardous material) par le Département des Transports des États-
+Unis (United States Department of Transportation), ou défini comme « substance toxique » (toxic
+substance) par la Loi canadienne sur la protection de l'environnement (Canadian Environmental
+Protection Act) aux fins de la Partie II de cette Loi, ou toute substance désignée ou définie comme
+toxique, dangereuse, nocive ou délétère pour les personnes ou l'environnement en vertu de toute
+autre loi, ordonnance ou règlement Fédéral, d'État, Provincial, Municipal ou autre ; et b) la présence,
+l'existence ou le rejet de quoi que ce soit qui met en danger ou menace de mettre en danger la santé,
+la sécurité ou le bien-être des personnes ou de l'environnement.
+
+
+
+
+                                                Page 26 sur 32
+AVENANT ENLÈVEMENT DE DÉBRIS
+
+
+LE PRÉSENT AVENANT CONTIENT DES DISPOSITIONS QUI PEUVENT LIMITER OU EMPÊCHER LE
+RECOUVREMENT AU TITRE DE LA PRÉSENTE POLICE POUR UNE PERTE OÙ DES COÛTS OU DÉPENSES
+D'ENLÈVEMENT DE DÉBRIS SONT ENCOURUS.
+
+
+Rien de ce qui est contenu dans le présent Avenant ne saurait annuler toute Exclusion Fuite et/ou
+Pollution et/ou Contamination ou toute Exclusion Contamination Radioactive ou toute autre Exclusion
+applicable à la présente Police.
+
+
+Toute disposition au sein de la présente Police (ou au sein de tout autre Avenant qui fait partie de cette
+Police) qui garantit l'enlèvement de débris est annulée et remplacée par ce qui suit :
+
+
+1) En cas de dommage matériel direct ou de destruction de la propriété, pour lequel les Souscripteurs
+s'engagent à payer, ou pour lequel, sans l'application d'une franchise ou d'un montant sous-jacent, ils
+accepteraient de payer (ci-après dénommés « Dommage ou Destruction »), cette Police garantit
+également, dans la limite de la somme assurée, sous réserve des limitations et de la méthode de calcul
+ci-dessous, et de toutes les autres modalités et conditions de la Police, les coûts ou dépenses :
+
+
+(a) qui sont raisonnablement et nécessairement encourus par l'Assuré pour l'enlèvement, des locaux
+de l'Assuré où le Dommage ou la Destruction a eu lieu, des débris résultant du Dommage ou de la
+Destruction ; et
+(b) dont l'Assuré prend connaissance et communique le montant aux Souscripteurs ici présents dans
+un délai d'un an à compter du début de ce Dommage ou de cette Destruction.
+2) Lors du calcul du montant, le cas échéant, payable au titre de la présente Police pour une Perte où
+des coûts ou dépenses d'enlèvement de débris sont encourus par l'Assuré (sous réserve des limitations
+du paragraphe 1 ci-dessus) :
+(a) le montant maximal de ces coûts ou dépenses qui peut être inclus dans la méthode de calcul
+énoncée en (b) ci-dessous est le plus élevé de 25 000 $ US (vingt-cinq mille dollars) ou 10 % (dix pour
+cent) du montant du Dommage ou de la Destruction d'où résultent ces coûts ou dépenses ; et
+(b) le montant de ces coûts ou dépenses tel que limité en (a) ci-dessus est ajouté à :
+(i) le montant du Dommage ou de la Destruction ; et
+(ii) tous les autres montants de perte, qui résultent du même événement, et pour lesquels les
+Souscripteurs s'engagent également à payer, ou pour lesquels, sans l'application d'une franchise ou
+d'un montant sous-jacent, ils accepteraient de payer ;
+
+
+et la somme résultante est le montant auquel toute franchise ou tout montant sous-jacent auquel
+cette Police est soumise et la limite (ou sous-limite applicable) de cette Police, doit être appliqué(e).
+
+
+NMA2340
+24/11/1988
+
+
+
+                                              Page 27 sur 32
+NMA 2842 Clause des 72 Heures
+Le terme « survenance de perte » désigne toutes les pertes individuelles découlant de, et directement
+occasionnées par, une seule catastrophe.
+Toutefois, la durée et l'étendue de toute « survenance de perte » ainsi défini sont limitées à :
+(a) 72 heures consécutives s'agissant d'un ouragan, typhon, tempête de vent, tempête de pluie,
+tempête de grêle et/ou tornade.
+(b) 72 heures consécutives s'agissant d'un tremblement de terre, séisme marin, raz-de-marée
+(tsunami).
+(c) 72 heures consécutives et dans les limites d'une seule ville, municipalité ou village s'agissant
+d'émeutes, de troubles civils et de dommages malveillants.
+(d) 72 heures consécutives s'agissant de toute « survenance de perte » qui inclut une ou des pertes
+individuelles dues à l'un des périls mentionnés aux alinéas (a), (b) et (c) ci-dessus.
+(e) 672 heures consécutives s'agissant d'un événement éruptif volcanique.
+(f) 168 heures consécutives de toute « survenance de perte » de quelque nature que ce soit qui n'inclut
+pas de pertes individuelles dues à l'un des périls mentionnés aux alinéas (a), (b), (c) et (e) ci-dessus.
+
+
+et aucune perte individuelle, quel que soit le péril assuré, qui survient en dehors de ces périodes ou
+zones, ne doit être incluse dans cette « survenance de perte ».
+
+
+La Compagnie peut choisir la date et l'heure auxquelles cette période d'heures consécutives
+commence, et si une catastrophe est d'une durée supérieure aux périodes ci-dessus, la Compagnie
+peut diviser cette catastrophe en deux ou plusieurs « survenance de perte », à condition qu'aucune
+des deux périodes ne se chevauche et qu'aucune période ne commence avant la date et l'heure de la
+survenance de la première perte individuelle enregistrée par la Compagnie dans cette catastrophe, à
+l'exception de toute « survenance de perte » mentionné au sous-alinéa (e) ci-dessus où seulement une
+telle période de 672 heures consécutives s'applique au cours de chaque période annuelle.
+
+
+NMA2842
+25/11/1999
+
+
+
+
+                                             Page 28 sur 32
+NMA 348 Clause de Proportionnalité (Règle de l'Assurance Proportionnelle)
+La présente Police est soumise à la condition de proportionnalité, c'est-à-dire que si la valeur du bien
+couvert par la présente Assurance est, au moment d'un sinistre, supérieure à la Somme Assurée par la
+présente, l'Assuré n'aura droit de recouvrer au titre des présentes que la proportion de ladite perte
+que la Somme Assurée par la présente Police représente par rapport à la valeur totale dudit bien.
+22/10/17
+NMA348
+
+
+AVIS DE RESPONSABILITE INDIVIDUELLE
+
+
+Les obligations de chaque assureur se limitent à ses engagements au titre des contrats auxquels il
+souscrit, sans solidarité avec les autres assureurs participant aux risques. Aucun assureur n'est
+responsable de la part de souscription des co-participants qui, pour quelque raison que ce soit, ne
+peuvent remplir tout ou partie de leurs obligations.
+
+
+01/95
+LSW1001-8 (Assurance)
+
+
+AVIS RELATIF À LA PROTECTION DES DONNÉES
+
+
+Présentation de la société
+
+
+Notre société est la Lloyd’s Insurance Company S.A. (ci-après dénommée « Lloyd’s Europe »), une
+compagnie d’assurance agréée et réglementée par la Banque Nationale de Belgique (BNB) et contrôlée
+par l’Autorité des services et marchés financiers (FSMA). Son siège social est situé Place du Champ de
+Mars 5, Bastion Tower, 14e étage, 1050 Ixelles, Belgique. Son numéro de société/TVA est BE
+0682.594.839, RPR/RPM Bruxelles. LIC est une filiale à part entière de la Society of Lloyd’s, 1 Lime
+Street, Londres, EC3M 3HA, Royaume-Uni (Society of Lloyd’s).
+
+
+Nature des données personnelles que nous traitons
+
+
+Nous recueillons et utilisons des informations pertinentes vous concernant dans le but de vous fournir
+la couverture d’assurance ou une protection d’assurance dont vous bénéficiez, et de remplir nos
+obligations légales et les obligations des autres acteurs de la chaîne d’assurance.
+
+
+Ces informations comprennent des éléments tels que votre nom, votre adresse et vos coordonnées,
+ainsi que toute autre information que nous recueillons à votre sujet en rapport avec la couverture
+d’assurance ou la protection dont vous bénéficiez. Ces informations peuvent inclure des catégories
+spéciales de données personnelles telles que des renseignements sur votre santé et vos éventuelles
+condamnations pénales.
+
+
+Motifs de la collecte de vos données personnelles et fondement juridique de leur traitement
+
+                                             Page 29 sur 32
+Nous collectons et utilisons vos données personnelles pour vous fournir une couverture d’assurance.
+La base juridique de ces opérations est l’exécution du contrat conclu avec vous, la personne concernée,
+et le respect des obligations légales, entre autres les obligations en matière d’assurance et de droit
+fiscal.
+
+
+Concernant le traitement de données personnelles sensibles relatives à la santé, la base juridique
+générale est votre consentement, à moins qu’il n’existe un droit légal national l’autorisant
+juridiquement.
+
+
+Pour le traitement des données personnelles relatives aux mineurs, la base juridique est le
+consentement donné ou autorisé par le détenteur de l’autorité parentale.
+
+
+Enfin, nous pouvons également traiter vos données personnelles à des fins de prévention et de
+détection des fraudes, cet intérêt légitime en constituant la base juridique.
+
+
+Personnes avec lesquelles nous partageons vos données personnelles
+
+
+Le fonctionnement des assurances implique que vos informations peuvent être partagées et utilisées
+par plusieurs tiers du secteur de l’assurance (à l’intérieur et à l’extérieur de l’Espace économique
+européen-EEE). Il s’agit, par exemple, d’assureurs, d’agents ou de courtiers d’assurance, de
+réassureurs, d’experts en sinistres, de sous-traitants, de régulateurs, d’organismes chargés de faire
+respecter la loi, d’agences de prévention et de détection des fraudes et des crimes et de bases de
+données d’assurance obligatoire. Nous divulguons vos données personnelles uniquement dans le
+cadre de la couverture d’assurance fournie, et dans la mesure où cela est nécessaire ou autorisé par la
+loi.
+
+
+Il est possible que nous devions ponctuellement partager vos informations personnelles avec des tiers
+en dehors de l’EEE et nous prenons systématiquement des mesures pour nous assurer que tout
+transfert international d’informations est soigneusement géré afin de protéger vos droits et vos
+intérêts :
+• Nous transférons uniquement vos données personnelles vers des pays reconnus comme offrant
+un niveau adéquat de protection juridique, ou lorsque nous pouvons être convaincus que des
+dispositions alternatives sont en place pour protéger vos droits à la vie privée.
+• Les transferts aux prestataires de services et autres tiers sont systématiquement protégés par
+des engagements contractuels et, le cas échéant, par d’autres garanties.
+• Toute demande d’information que nous recevons de la part d’organismes d’application de la loi ou
+de régulateurs sera
+soigneusement vérifiée avant la divulgation d’informations personnelles.
+
+
+Durée de conservation des données
+
+
+
+                                            Page 30 sur 32
+Nous conservons vos données personnelles pendant une durée n’excédant pas celle nécessaire à
+l’offre de l’assurance souscrite ou au respect de nos obligations légales ou réglementaires.
+
+
+Nous supprimerons ou effacerons en toute sécurité vos données personnelles dès lors qu’il n’existe
+plus aucune raison commerciale valable de les conserver. Dans des circonstances exceptionnelles,
+nous pouvons conserver vos informations personnelles pendant des périodes plus longues si nous
+pensons qu’il existe une possibilité de litige, en cas de réclamation ou s’il existe une autre raison
+commerciale valable pour laquelle les données seront nécessaires à l’avenir.
+
+
+Coordonnées d’autres personnes que vous nous fournissez
+Lorsque vous nous fournissez (ou à votre agent d’assurance ou courtier d’assurance) des informations
+sur d’autres personnes, vous devez vous assurer que le présent Avis de relatif à la protection des
+données leur est communiqué.
+
+
+Réclamations, contact avec nos services et avec l’autorité de réglementation, et vos droits
+
+
+Si vous souhaitez savoir la manière dont nous utilisons vos données ou consulter notre Politique de
+confidentialité      complète,        veuillez        nous       contacter        à       l’adresse
+LloydsEurope.DataProtection@lloyds.com ou consulter notre Politique de confidentialité sur le site
+web https://www.lloydseurope.com où vous trouverez tous les détails utiles.
+
+
+Vous disposez des droits suivants en ce qui concerne les informations que nous détenons à votre sujet :
+
+
+le droit d’accès, le droit de rectification, le droit de suppression, le droit à la restriction du traitement,
+le droit à la portabilité des données, le droit d’opposition, le droit de retrait du consentement.
+
+
+Si vous souhaitez exercer vos droits, vous devez contacter l’agent d’assurance ou le courtier
+d’assurance qui a souscrit votre assurance à l’adresse suivante :
+
+
+Vous avez le droit de déposer une réclamation auprès de l’autorité compétente en matière de
+protection des données, mais nous vous encourageons à nous contacter avant de le faire.
+
+
+Consentement
+
+
+Pour le traitement des données à caractère personnel relatives à la santé ou à la génétique, et pour le
+traitement des données à caractère personnel relatives aux mineurs de moins de 16 ans, en rapport
+avec la couverture d’assurance, l’agent ou le courtier d’assurance qui a conclu le contrat vous
+demandera votre consentement au moyen du formulaire de consentement à la protection des
+données, sauf dans les pays où la législation nationale permet le traitement des données à caractère
+personnel sensibles relatives à la santé dans le cadre d’une police d’assurance.
+
+
+
+
+                                                Page 31 sur 32
+Le traitement des données à caractère personnel relatives aux enfants sera considéré comme légal si
+le consentement est donné ou autorisé par le détenteur de l’autorité parentale.
+
+
+Les États membres peuvent prévoir par la loi un âge inférieur à ces fins, à condition que cet âge ne soit
+pas inférieur à 13 ans.
+
+
+Vous êtes libre de nous donner votre consentement, cependant, si vous ne le donnez pas, ou si vous
+le retirez, cela peut affecter notre capacité à fournir la couverture d’assurance dont vous bénéficiez et
+peut nous empêcher de vous fournir une couverture ou de gérer vos sinistres.
+
+
+Coordonnées du responsable de la confidentialité des données
+
+
+Pour toute question relative à la protection des données à laquelle vous pensez que nous pourrons
+répondre, veuillez contacter notre responsable de la confidentialité des données.
+
+
+Responsable de la confidentialité des données
+
+
+Lloyds Insurance Company S.A.
+Bastion Tower
+Place du Champ de Mars 5
+1050 Bruxelles
+Belgique
+E-mail : LloydsEurope.DataProtection@lloyds.com
+
+
+LBS0046D
+17/03/2023
+
+
+
+
+                                             Page 32 sur 32
+
