@@ -48,7 +48,11 @@ Narratif tribunal :
 
 ### Offre cible recommandée
 
-Reprendre environ 26 à 30 salariés sur 44.
+Option économique maximale : reprendre environ 20 salariés sur 44.
+
+Option plus défendable tribunal : 24 à 30 salariés si l'AJ ou le tribunal juge le volet social trop faible.
+
+La stratégie doit partir de 20 et ne remonter que si cela augmente réellement les chances de gagner l'offre sans casser la rentabilité.
 
 Structure indicative :
 - Production coeur Leavers / Rachel : tullistes, wappeur, remonteurs, rachelistes, opérateurs machine.
@@ -58,17 +62,23 @@ Structure indicative :
 - Commercial : responsable commercial robe ou attaché commercial, mais pas les deux sans preuve de CA personnel.
 - Comptabilité / administratif : 1 poste en transition, si le repreneur n'absorbe pas.
 
-### Postes à challenger
+### Postes à exclure par défaut
 
-- Directeur général : coût très élevé, à reprendre seulement si sa valeur commerciale/technique est prouvée par commandes et clients.
+- Directeur général : coût trop élevé pour le périmètre post-cession, sauf preuve d'un rôle commercial/industriel indispensable.
+- Responsable commercial robe : à ne reprendre que si son portefeuille personnel et son CA encaissable sont démontrés.
 - Marketing/communication : arrivée récente, non critique Day One.
 - Concierge / fonctions support non critiques.
 - Doublons planning / finition si volumes insuffisants.
-- Une partie des commerciaux si portefeuille non démontré.
+
+### Postes à challenger
+
+- Un commercial : probablement nécessaire si le repreneur n'a pas déjà accès aux clients robe/lingerie.
+- Comptable unique : utile en transition, mais absorbable si le repreneur a une équipe finance.
+- Deuxième dessinateur : utile seulement si le carnet de nouveautés justifie deux postes création.
 
 ### Argument social
 
-Le tribunal peut préférer 30 emplois robustes à 44 emplois qui redéposent. La justification doit être chiffrée : le niveau de CA post-cession ne permet pas de financer 44 salariés durablement.
+Le tribunal peut préférer 20-25 emplois robustes à 44 emplois qui redéposent si la démonstration est solide. La justification doit être chiffrée : le niveau de CA post-cession ne permet pas de financer 44 salariés durablement.
 
 ## 4. Prix et garanties
 

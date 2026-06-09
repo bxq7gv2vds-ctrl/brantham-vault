@@ -106,6 +106,55 @@ Hypothèse : repreneur déjà équipé en back-office, commercial, logistique, c
 
 Verdict économique : très attractif. Verdict tribunal : plus difficile si le maintien d'emploi est jugé trop faible. À présenter seulement avec une démonstration forte : activité viable, conservation des postes rares, possibilité de recruter ensuite si commandes.
 
+## 6 bis. Zoom 20 salariés sans DG
+
+Ne pas reprendre les postes chers de structure si leur utilité commerciale ou industrielle n'est pas prouvée. Le directeur général coûte environ 8,46 kEUR de salaire de base mensuel, soit environ 155-160 kEUR/an chargé. DG + responsable commercial robe représentent environ 240 kEUR/an chargés. C'est trop lourd pour un run-rate Calais-only autour de 3,3-4,0 MEUR.
+
+### Variante 1 - 20 salariés industriel intégré
+
+Profil : le repreneur apporte direction, finance, RH, commercial et une partie du back-office.
+
+Noyau indicatif :
+- production Leavers / machines : wappeur, wheeleur, opérateur, conducteur, machiniste ;
+- production métier rare : remonteurs, rachelistes, tullistes ;
+- qualité / laboratoire ;
+- création : esquisseur + un dessinateur ;
+- flux / ordonnancement.
+
+Coût estimé :
+- salaires de base mensuels : environ 44,7 kEUR ;
+- coût chargé annuel prudent : 0,78-0,83 MEUR.
+
+### Variante 2 - 20 salariés autonome minimale
+
+Profil : le repreneur doit garder un peu de commercial et d'administratif.
+
+Noyau indicatif :
+- production réduite ;
+- qualité / laboratoire ;
+- création ;
+- flux ;
+- un commercial ;
+- une comptable ou assistante de transition.
+
+Coût estimé :
+- salaires de base mensuels : environ 47,1 kEUR ;
+- coût chargé annuel prudent : 0,82-0,88 MEUR.
+
+### Effet P&L
+
+À 20 salariés, la masse salariale tombe environ 0,9 à 1,0 MEUR sous le scénario 44 salariés. C'est le levier qui rend l'offre 50-60 kEUR crédible.
+
+| Scénario 20 salariés | CA 3,3M | CA 4,0M | CA 4,5M |
+|---|---:|---:|---:|
+| Marge après achats/sous-traitance directs | 2,05 | 2,50 | 2,85 |
+| Masse salariale chargée | -0,85 | -0,88 | -0,90 |
+| Contrats/frais externes réduits | -0,38 | -0,45 | -0,50 |
+| Frais de transition / aléas | -0,30 | -0,35 | -0,40 |
+| EBITDA indicatif | +0,52 | +0,82 | +1,05 |
+
+Conclusion : économiquement, 20 salariés est le bon ordre de grandeur si le repreneur peut absorber le management et le back-office. Le risque n'est pas financier ; il est opérationnel et social. Il faut prouver que 20 personnes suffisent à tenir les machines, les commandes et la qualité.
+
 ## 7. Cash total à prévoir
 
 Le prix de cession ne doit pas être le vrai ticket. Le repreneur devra financer la remise en route.

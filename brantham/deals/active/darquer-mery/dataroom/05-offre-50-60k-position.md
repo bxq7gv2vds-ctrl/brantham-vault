@@ -43,7 +43,7 @@ Variante haute : 60 000 EUR uniquement si cela améliore le score social/audienc
 
 ## Contreparties non-prix à mettre en avant
 
-- Reprise de 24 à 30 salariés selon validation opérationnelle.
+- Reprise cible de 20 salariés selon validation opérationnelle, avec option d'amélioration à 24-25 si nécessaire pour l'audience.
 - Maintien du savoir-faire Leavers et des postes rares.
 - Cash disponible pour 6 mois de continuité.
 - Rétention des salariés clés.
@@ -67,4 +67,3 @@ Pour compenser, il faut arriver avec :
 ## Ligne rouge
 
 Ne pas monter au-delà de 60 kEUR pour "faire sérieux". Si le tribunal ou l'AJ valorise surtout le prix facial, le deal n'est probablement pas le bon. Le cash doit rester dans l'exploitation.
-
