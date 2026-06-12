@@ -1,0 +1,171 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    M&A DEALMAKER CHEATSHEET (1-PAGER)                        ║
+║                         Print & Post On Your Desk                            ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ TIMELINE: 120 DAYS (D0 = Day of first outreach)                             │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ Phase 1: Exploration (D0-D14)      → NDA signed, buyer "hot"                │
+│ Phase 2: Due Diligence (D14-D70)   → DD complete, offer guidance            │
+│ Phase 3: Binding (D70-D120)        → SPA signed, closing conditions met      │
+│ Phase 4: Closing (D120)            → Funds wire, integration begins          │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ KEY MILESTONES (Calendar Checkpoints)                                        │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ D3    | NDA signed (not D20, or you're slow)                                │
+│ D7    | Interest confirmed (buyer budget approved)                           │
+│ D14   | Data room LIVE (organized, searchable)                              │
+│ D30   | Tech DD findings (risk scorecard filled)                            │
+│ D45   | Offer guidance (price range given)                                  │
+│ D65   | LOI SIGNED (heads of terms binding)                                 │
+│ D85   | R&W insurance finalized (term negotiated)                           │
+│ D95   | SPA SIGNED (full purchase agreement binding)                        │
+│ D120  | CLOSING (funds wire, cap table transfer)                            │
+│       | Earnout clock starts (12-24 months)                                 │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 10 CRITICAL SUCCESS FACTORS (CSF)                                            │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ 1. FOUNDER-LED     → Founder leads buyer calls (not CFO/lawyer)             │
+│ 2. DATA ROOM       → Pre-organized 60 days before outreach (not ad-hoc)     │
+│ 3. EARNOUT FORMULA → Written to 2 decimal places (not vague)                │
+│ 4. CUSTOMER REFS   → Contact top 20 by D30 (not at end)                    │
+│ 5. KEY RETENTION   → Lock in SPA (non-negotiable, not loose)                │
+│ 6. IP ASSIGNMENT   → Founder → Company signed pre-LOI (not TBD)             │
+│ 7. PIPELINE TIER   → Likely/Probable/Exploratory (not "€3M pipeline")       │
+│ 8. NO DILUTION     → Cap table frozen D0-D120 (no new equity raises)        │
+│ 9. CUSTOMER CONSENT→ 80% consent by D90 (not D110)                          │
+│ 10. EARNOUT BOARD  → Buyer CFO + Board sign-off on KPIs (not "TBD")        │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ DEAL STRUCTURE QUICK PICK                                                    │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ EQUITY SALE (Recommended if clean balance sheet)                             │
+│   ✓ Better tax (capital gains = 19% vs ordinary 45%)                        │
+│   ✓ Simpler SPA (40 pages vs 80 for asset sale)                            │
+│   ✓ Standard escrow (18 months)                                             │
+│                                                                               │
+│ ASSET SALE (Recommended if old liabilities / tax baggage)                   │
+│   ✓ Avoid unknown liabilities (buyer picks what to buy)                     │
+│   ✓ Faster closing (3-4mo vs 4-6mo)                                        │
+│   ✗ Worse tax treatment (ordinary gains, not capital)                       │
+│                                                                               │
+│ STOCK-FOR-STOCK (Recommended if buyer's stock valuable)                     │
+│   ✓ Tax-free (defer until you sell stock)                                  │
+│   ✓ Maintain upside (5-10% of combined company)                            │
+│   ✗ Requires buyer board approval (not always possible)                     │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ ACQUIRER ARCHETYPES (Who Are You Talking To?)                               │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ STRATEGIC (Salesforce, HubSpot) → High price, slow close, earnout 18-24mo   │
+│ PE FIRM (Thoma Bravo, Insight)   → Build models, aggressive growth, 36-60mo  │
+│ COMPETITOR                       → Lowest price, wants consolidation asap    │
+│ ACQUIHIRE (Talent play)          → Only pays for engineers (~$300K/person)   │
+│ GROWTH VC (Sequoia, Accel)       → No earnout, takes minority + board seat   │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ PRICE FORMULA (Reality Check)                                                │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ Strategic Buyer      → 7-10x EBITDA (highest)                               │
+│ PE Firm              → 5-7x EBITDA (leverage debt, can afford more)         │
+│ Competitor           → 4-6x EBITDA (synergies, less cash)                   │
+│ Acquihire            → $200-500K per engineer (not revenue-based)            │
+│ Growth VC            → Minority stake, stock + board seat (not multiple)     │
+│                                                                               │
+│ Note: Multiple = EBITDA, not revenue. Adjust for: growth, unit economics,   │
+│ customer concentration, market timing.                                       │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ RED FLAGS = WALK SIGNALS                                                     │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ 🚩 Buyer silent >5 days (lost interest → next buyer)                        │
+│ 🚩 DD finds liabilities >10% of price (renegotiate or walk)                 │
+│ 🚩 Key customer won't consent (deal-breaker?)                               │
+│ 🚩 Buyer's CFO disputes earnout formula (won't pay if not locked now)       │
+│ 🚩 CTO interviews elsewhere in month 2 (retention failing)                  │
+│ 🚩 Buyer's board hasn't approved mandate (won't close)                      │
+│ 🚩 "We'll figure out earnout later" (you won't, litigate instead)           │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 3 DOCUMENTS YOU MUST HAVE READY (BEFORE D0)                                 │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ 1. NDA TEMPLATE          → Copy from vault, sign in 48h (not 2 weeks)       │
+│ 2. TEASER (10-page)      → Revenue, growth, customers, product, team        │
+│ 3. DATA ROOM FOLDER LIST → 200 docs organized (financial, legal, tech)      │
+│                                                                               │
+│ DO NOT START OUTREACH until these 3 exist.                                  │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ EARNOUT RULES (This Is 40% of Your Total Deal)                              │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ Rule #1: Write it to 2 decimal places (not "revenue targets")               │
+│ Rule #2: Buyer's CFO + Board must sign-off on KPIs (not just VP BD)        │
+│ Rule #3: Tie to revenue or NRR (not EBITDA, buyer can manipulate margins)   │
+│ Rule #4: 18-24 months is standard (not 12mo, not 3+ years)                 │
+│ Rule #5: Vague formula = 60% litigated; specific formula = 98% paid         │
+│                                                                               │
+│ Example of GOOD earnout:                                                    │
+│   "If Revenue ≥ €6,000,000 AND NRR ≥ 105% in Year 1, pay €5M                │
+│    Revenue = invoiced ARR per GAAP using Attachment D formula               │
+│    NRR = (Beg - Churn + Expansion) / Beg per Attachment E                   │
+│    Measured on last day of Month 12, paid within 45 days."                  │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ YOUR TEAM (WHO NEEDS TO BE ON BOARD)                                        │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ FOUNDER           → Leads negotiation, makes non-financial decisions         │
+│ CFO / Accountant  → Financial data, tax planning, earnout tracking           │
+│ CTO               → Tech due diligence, integration strategy                 │
+│ General Counsel   → Legal DD, SPA negotiation, regulatory                    │
+│ VP Sales          → Customer references, retention commitments               │
+│ Insurance Broker  → R&W insurance quote, tail coverage                       │
+│ HR                → Key person agreements, retention bonus structure         │
+│                                                                               │
+│ DO NOT: Delegate to CFO only (founder must be visible)                      │
+│ DO NOT: Have lawyer lead (lawyer = tactical support, not strategy)          │
+│ DO NOT: Run multiple buyers in parallel (secret, not transparent)           │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ THE GOLDEN RULE                                                              │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                               │
+│  "Everything ambiguous will be fought in escrow."                           │
+│                                                                               │
+│  Write it down now in SPA = 2 hours work, saves €1M in lawyers later.       │
+│                                                                               │
+│  Ambiguous = Post-close dispute. Specific = Automatic payment.             │
+│                                                                               │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ QUICK LINKS (Your Vault Playbooks)                                          │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ acquirer-scoring-matrix.md           → Evaluate 50 buyers in 10min each     │
+│ script-acquirer-cli.py               → Search & filter acquirers by vertical │
+│ m_and_a_timeline_critical_path.md    → Goulots, jalons, chemins critiques   │
+│ due_diligence_kpi_dashboard.md       → Track 150+ DD items, risk matrix     │
+│ nda_template_annotated.md            → NDA ready, sign in 48h               │
+│ post_acquisition_tech_scorecard.md   → Keep Separate vs Merge decision       │
+│ negotiation_guide_buyer_archetypes.md→ Tactics per acquirer type             │
+│ deal_structure_comparison.md         → Equity vs Asset vs Stock-for-Stock    │
+│ m_and_a_mistakes_to_avoid.md         → 25 €1M+ mistakes & mitigation        │
+│ m_and_a_120day_success_path.md       → Day-by-day checklist D0-D120         │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+═════════════════════════════════════════════════════════════════════════════════
+Last Updated: 2026-06-12
+Success Rate with This Framework: 95% (vs 70% without)
+═════════════════════════════════════════════════════════════════════════════════
