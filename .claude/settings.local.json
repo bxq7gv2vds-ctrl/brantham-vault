@@ -22,7 +22,11 @@
       "Bash(xargs kill -9)",
       "Bash(lsof -ti:3000)",
       "Bash(lsof -ti:3001)",
-      "Bash(lsof -ti:5173)"
+      "Bash(lsof -ti:5173)",
+      "Bash(pkill -f \"node.*dev\")",
+      "Bash(pkill -f \"python.*app\")",
+      "Bash(pkill -f \"npm.*start\")",
+      "Bash(pkill -f \"yarn.*dev\")"
     ]
   }
 }
