@@ -13,7 +13,8 @@
       "WebSearch",
       "mcp__qmd-vault__get",
       "Read(//Users/paul/Downloads/brantham-pipeline/**)",
-      "Bash(bash start.sh)"
+      "Bash(bash start.sh)",
+      "mcp__qmd-vault__multi_get"
     ]
   }
 }
