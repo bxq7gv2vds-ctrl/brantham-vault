@@ -32,4 +32,5 @@
 
 - [[brantham/_MOC]]
 - [[founder/daily/2026-06-12-auto-brief.md|Daily — 2026-06-12]]
-- [[website/_MOC]]
+- [[website/_MOC]]- ALERTE : PostgreSQL DOWN — relance...
+- ALERTE : Redis DOWN — relance...
