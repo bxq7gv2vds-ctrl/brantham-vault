@@ -1,263 +1,223 @@
 # MECA THEIL — Analyse Deal Redressement Judiciaire
 
-_Data room analysée : 12 juin 2026 (Jugement RJ 26/05/2026)_
+_Data room analysée : 12 juin 2026 — Jugement RJ Tribunal de Commerce d'Aurillac, 26/05/2026_
+_Révision Opus (corrige 1ère passe Haiku : immobilier, nature des pertes, période suspecte)_
 
 ---
 
 ## Métadonnées
 
 - **Slug** : `meca-theil-rj-2026`
-- **Analyste** : Soren (data room)
+- **Cible** : SAS MECA THEIL — SIREN 414 619 866 — APE 2899B (fabrication machines spéciales)
+- **Localisation** : Lafeuillade-en-Vézie (15130), Cantal — bassin d'Aurillac
+- **Analyste** : Soren / Opus
 - **Date analyse** : 2026-06-12
-- **Statut** : **REDRESSEMENT JUDICIAIRE OUVERT** (26/05/2026)
-- **Score Director** : 6.5/10 _(actifs substantiels + technologie BUT procédure + trésorerie critique)_
-- **Statut QC** : `en cours`
+- **Statut procédure** : **REDRESSEMENT JUDICIAIRE** ouvert 26/05/2026, observation 6 mois → 26/11/2026
+- **Prochaine audience** : 21 juillet 2026 (examen capacité à financer la période)
+- **Score Director** : **4.5/10** _(savoir-faire réel mais perte structurelle, peu d'actifs propres, structure groupe à risque)_
+- **Recommandation** : `RISQUÉE — reprise à la barre uniquement, prix symbolique`
+- **Statut QC** : `validé Opus`
+
+---
+
+## 0. Synthèse exécutive (à lire en premier)
+
+MECA THEIL conçoit des machines spéciales automatisées/robotisées depuis 1998 (28 ans, ~32 salariés). **L'entreprise était saine jusqu'en 2024** (CA 3,74 M€, +207 k€ net, Altman Z' 2,62) puis s'est **effondrée en un seul exercice** : CA −37 %, **résultat d'exploitation −521 k€**, **résultat net −794 k€**, cessation des paiements au 01/01/2026.
+
+Ce n'est **pas** un accident conjoncturel ponctuel mais une **destruction de marge opérationnelle** : le coût matières est passé de 24 % à 37 % de la production et la masse salariale de 41 % à 59 % du CA. L'entreprise **construisait des machines à perte** et n'arrivait plus à les facturer (WIP en hausse de +255 k€).
+
+**Point dur pour un repreneur** : les actifs propres de la cible sont faibles (machines-outils ~200–350 k€ en valeur de réalisation ; **le bâtiment n'appartient pas à MECA THEIL**, il est loué/en crédit-bail). La valeur est dans le carnet, l'équipe et le WIP — donc une **reprise à la barre d'un going concern**, pas un achat d'actifs.
+
+**Verdict** : intéressant **uniquement** pour un repreneur industriel du même métier capable (a) de redresser la marge projet et (b) de sécuriser le bail + 2-3 clients clés, à un **prix de cession symbolique (≈ 100–500 k€)** avec engagement emplois. À éviter pour un financier pur ou une logique asset-stripping.
 
 ---
 
 ## 1. Analyse financière
 
-### Données bilans (2024 — dernières données complètes)
-| Indicateur | 2024 | 2023 | Variation |
-|-----------|---------|-----------|-----------|
-| CA (M EUR) | 3.74 | — | — |
-| Résultat d'exploitation (k€) | 260 | — | — |
-| Résultat net (k€) | 207 | — | — |
-| Actif brut (M EUR) | 3.36 | — | — |
-| Passif (M EUR) | 2.74 | — | — |
+### Compte de résultat — la bascule 2024 → 2025
 
-### Impact 2025 (projection déclarée)
-- **CA 2025** : 2.36 M€ (vs 3.74 M€ en 2024) = **-37% / -1.38 M€**
-- **Effectif** : 32 pers. (vs 36) = -11%
-- **Cessation paiements déclarée** : 01/01/2026
+| Poste (k€) | 2024 | 2025 | Var. |
+|---|---|---|---|
+| **Chiffre d'affaires** | 3 737 | 2 356 | **−37 %** |
+| — dont biens | 2 995 | 1 560 | −48 % |
+| — dont services | 741 | 796 | +7 % |
+| Production stockée (WIP) | −180 | **+255** | inversion |
+| Achats matières | 850 | 967 | **+14 %** ⚠ |
+| Autres achats & charges ext. | 825 | 621 | −25 % |
+| Salaires + charges | 1 549 | 1 399 | −10 % |
+| **Résultat d'exploitation** | **+260** | **−521** | **−781** |
+| Résultat financier | −36 | −212 | dont −200 prov. titres |
+| Résultat exceptionnel | n.s. | −123 | |
+| **Résultat net** | **+207** | **−794** | **−1 001** |
 
-### Ratios clés (2024)
-- **Taux de rentabilité nette** : 5.5% (207k€ / 3.74M€)
-- **Taux d'endettement** : 79.8% (passif / actif brut)
-- **Ratio passif/actif** : 0.82 (sain avant dégradation 2025)
-- **EBITDA implicite** : ~260k€ (si D&A faible)
+### Diagnostic des marges — le vrai problème
 
-### Synthèse financière
+- **Ratio coût matières / production** : **24 % (2024) → 37 % (2025)**, soit **−13 pts**. Sur des machines spéciales à prix forfaitaire, cela signale des **dépassements de coûts / sous-cotation / rebut-reprise** : l'entreprise a vendu des machines en dessous de leur coût de revient réel.
+- **Poids masse salariale / CA** : **41 % → 59 %**. La masse salariale n'a baissé que de 10 % quand le CA chutait de 37 % → **déleveraging opérationnel** classique de l'atelier mécanique : main-d'œuvre qualifiée fixe vs. production facturable en chute.
+- **EBITDA** : **+315 k€ (2024) → −401 k€ (2025)**. Passage en EBITDA négatif = l'exploitation ne s'autofinance plus.
+- **WIP +255 k€** : production stockée positive = machines en cours **construites mais non livrées/facturées**. En-cours total au bilan : ~990 k€ (540 biens + 450 services) = près de 5 mois de CA immobilisés en machines à demi-terminées. **C'est le cœur du problème de trésorerie.**
 
-**Sain jusqu'à 2025 :**
-- 2024 bénéficiaire (207k€ net)
-- Actifs tangibles importants (immobilisations : 1.1 M€ net)
-- Trésorerie 237k€ au 31/12/2024
+### Bilan 2025 (net)
 
-**Dégradation critique 2025 :**
-- Chute CA -37% inexpérience (1.38 M€ de perte)
-- Effondrement trésorerie (projections → insolvabilité)
-- Passif social (paies impayées depuis janvier 2026)
-- Dettes fournisseurs (>400k€ estimé)
+| Actif (k€) | 2025 | Passif (k€) | 2025 |
+|---|---|---|---|
+| Immobilisations nettes | 394 | Capitaux propres | **451** |
+| — dont titres THEIL Ind. | 7 (200 provisionnés) | Emprunts ét. crédit | **1 707** |
+| Stocks + en-cours | 1 141 | — dont découvert | **728** |
+| Clients | 823 (68 provisionnés) | Fournisseurs | 265 |
+| Disponibilités | 406 | Dettes fiscales/soc. | 405 |
+| **Total** | **2 938** | **Total** | **2 938** |
+
+### Ratios & scores
+
+- **Altman Z' (priv.)** : **2,62 en 2024 → 0,64 en 2025**. Passage de la zone grise/saine à la **zone de détresse profonde** (<1,23) en un exercice.
+- **Capitaux propres** : 1 300 k€ → 451 k€ (**−65 %**). Encore > capital social (100 k€), mais un second exercice équivalent les rend négatifs.
+- **Dette financière nette** : ~1 301 k€ ; **dette nette / capitaux propres ≈ 2,9x**.
+- **Découvert bancaire** : 336 k€ → **728 k€** (×2,2). La trésorerie « disponible » de 406 k€ est **illusoire** : nette du découvert, la position bancaire est ≈ −320 k€ → cohérent avec l'incapacité à payer le loyer de janvier.
+
+### Signaux de gouvernance ⚠
+
+- **Dividende de 50 k€ distribué** (annexe 2065) alors que l'entreprise glissait vers l'insolvabilité et doublait son découvert.
+- **Provision de 200 k€ sur les titres THEIL Industries** = participation intragroupe dépréciée → la holding elle-même est en difficulté ou l'investissement est compromis.
+- **Crédit d'impôt / IS négatif −62 k€** et charges exceptionnelles 123 k€ (dont salaires R&D 116 k€ reclassés).
 
 ---
 
 ## 2. Analyse juridique
 
-### Procédure collectiveouverture
-- **Type** : Redressement judiciaire (art. L. 631-1 Code de commerce)
-- **Jugement** : 26 mai 2026, Tribunal de commerce d'Aurillac
-- **Date cessation paiements** : 01/01/2026 (fixée rétroactivement)
-- **Observation period** : 6 mois (jusqu'au 26/11/2026)
-- **Next hearing** : 21 juillet 2026
+### Procédure
+- **Type** : Redressement judiciaire, art. L. 631-1 C. com.
+- **Tribunal** : Commerce d'Aurillac, jugement du 26/05/2026 (audience du 19/05).
+- **Cessation des paiements** : **fixée au 01/01/2026** (motif : loyers impayés depuis janvier 2026).
+- **Période d'observation** : 6 mois → **26/11/2026**. Prochaine audience **21/07/2026**.
+- **Obligation débiteur** (8 j avant audience) : prévisionnel 6 mois, justificatif trésorerie, preuve de capacité à financer l'observation (devis signés, commandes).
 
-### Acteurs
-- **Administrateur judiciaire** : BAC Jean-Louis (SELAS AJ UP)
-- **Mandataire judiciaire** : MARTIN Fanny (SELARL MJ MARTIN, Clermont-Ferrand)
-- **Juge-commissaire** : JACQUIER-SUPERSAC Colette
-- **Commissaire à la surveillance** : GOOLEN (SELARL GOOLEN)
+### Organes désignés
+- **Administrateur judiciaire** : SELAS AJ UP — Me Grégory WAUTOT (Clermont-Ferrand), mission d'**assistance**.
+- **Mandataire judiciaire** : SELARL MJ MARTIN — Me Fanny MARTIN (Clermont-Ferrand).
+- **Juge-commissaire** : M. Jean-Louis BAC ; suppléant Mme JACQUIER-SUPERSAC.
+- **Inventaire** : SELARL GOOLEN (Aurillac).
 
-### Passif social estimé
-- **Salaires impayés** : Janvier–mai 2026 (~5 mois × masse salariale)
-- **Cotisations sociales** : ~250–300k€ (12 mois arriérés estimés)
-- **Autres dettes salariales** : indemnités de licenciement (32 salariés)
-- **Total social estimé** : **600–750k€**
+### ⚠ Période suspecte — point d'attention majeur
+- **« Convention de transfert MECA THEIL → SARL THEIL Industries » signée le 16/12/2025, effet 01/01/2026** — soit **exactement la date de cessation des paiements**.
+- Elle transfère des **contrats de travail** (a minima la comptable unique) vers la holding **THEIL Industries** (SARL capital 3 M€, créée récemment, APE 6630Z holding, gérant = **Olivier THEIL**, le même dirigeant).
+- Des actes passés pendant la période suspecte (entre cessation des paiements et jugement) peuvent être **frappés de nullité** (art. L. 632-1 s. C. com.) et **scrutés par l'administrateur**. Tout transfert d'actifs/personnel/valeur vers une entité contrôlée par le même dirigeant juste avant le dépôt est un **drapeau rouge** : il faut comprendre ce qui a réellement été déplacé (immobilier ? machines ? clients ? personnel clé ?).
 
-### Dettes fiscales
-- **Impôt sur les sociétés** : arrérés probables (à confirmer)
-- **TVA** : encaissements/décaissements à reconcilier (activité = vente machines = TVA normal)
+### Structure de groupe (à cartographier avant toute offre)
+- **MECA THEIL SAS** (opérationnelle, en RJ) — SIREN 414 619 866.
+- **THEIL Industries SARL** (holding, capital 3 M€) — SIREN 938 428 224 — **probable propriétaire/porteur du bâtiment** (crédit-bail immobilier 59 404 €/an dans les comptes MECA THEIL).
+- Dirigeant commun : **Olivier THEIL**.
+- **Conséquence** : le repreneur n'achète **pas** l'immobilier en reprenant MECA THEIL. Il doit **négocier séparément le bail** avec THEIL Industries (ou un crédit-bailleur) — levier de négociation et risque de blocage.
 
-### Litiges identifiés
-- **Aucun litige majeur documenté** dans data room (pas d'action en justice visible)
-- **Risque client** : contrats en cours sur machines non terminées → réclamations possibles
-
-### Observations
-- Entreprise en situation d'insolvabilité manifeste (dettes > actifs réalisables court terme)
-- Procédure correcte (jugement bien motivé, administrateur + mandataire désignés)
-- **Passif non-prioritaire** : Créanciers chriséculiers (banquiers, fournisseurs) : ~1.5–1.7 M€
+### Passif estimé (à confirmer sur l'état des créances du mandataire)
+| Poste | Montant estimé |
+|---|---|
+| Dettes bancaires (dont découvert 728 k€) | ~1 707 k€ |
+| Dettes fiscales & sociales | ~405 k€ |
+| Fournisseurs | ~265 k€ |
+| Loyers impayés (THEIL Ind.) | depuis 01/2026 |
+| Passif salarial (si licenciements) | AGS / à chiffrer |
+| **Passif total ordre de grandeur** | **~2,4 M€+** |
 
 ---
 
 ## 3. Analyse opérationnelle
 
-### Outil de production
+### Métier & savoir-faire
+- **Conception & réalisation de machines spéciales automatisées/robotisées** — full-service : pré-étude, CAO méca + élec, usinage, montage, câblage, programmation, mise au point, installation site, formation, SAV.
+- Atelier usinage numérique (tour CUCN, fraiseuse), chaudronnerie (plieuse, cisaille), **découpe jet d'eau**, gravure laser. ERP WORKPLAN, SIRH (2024).
+- 28 ans d'historique, croissance régulière jusqu'en 2024.
 
-**Localisation** :
-- 2 Parc d'activités du Pays de Montsalvy, 15130 Lafeuilllade-en-Vézie (Cantal)
-- Bâtiment neuf 2 300 m² (2019) — **actif de 1.5 M€ estimé** (terrain 17.3k€ + construction 85.1k€ net pour ~2.3k m²)
-- Ateliers équipés (2 ateliers relais d'après historique 1999–2015)
+### Actifs réellement détenus par la cible (≠ bâtiment)
+| Actif | VNC 2025 | Valeur réalisation estimée | Note |
+|---|---|---|---|
+| Terrain (sur sol propre) | 17 k€ | 17 k€ | petit |
+| Construction (ancien atelier relais) | 44 k€ | ~40–60 k€ | **bâtiment principal NON inclus** |
+| Machines-outils & install. tech. | 17 k€ net (530 k€ brut) | **200–350 k€** (occasion CNC) | actif dur principal |
+| Autres immo corp. (IT, mobilier) | 100 k€ | ~30–50 k€ | décote forte |
+| Titres THEIL Industries | 7 k€ (200 provisionnés) | ~0 | intragroupe, déprécié |
+| Créances rattachées participations | 174 k€ | incertain | intragroupe |
+| Brevets/concessions | 0 (amorti) | à évaluer (cf. liste brevets.xlsx) | optionnel |
+| **En-cours (WIP)** | 990 k€ | **valeur = qualité des contrats sous-jacents** | le vrai enjeu |
+| **Clients** | 823 k€ | **500–580 k€** (60–70 %) | aging non fourni |
 
-**Équipement**
-- Machines-outils numériques : **tour CUCN, fraisseuse, laser jet d'eau, SIRH (logiciel)**
-- Capacité : fabrication machines spéciales (2–8 pers. par projet typiquement)
-- État : équipement 2025 (tour numérique récente — moins de 1 an)
+### Le WIP = l'actif clé et le risque clé
+Les ~990 k€ d'en-cours sont des **machines à demi-construites**. Leur valeur dépend entièrement de :
+- la **solidité juridique des commandes** (contrats fermes ? acomptes versés ? clauses de résiliation en cas de RJ ?) ;
+- la **capacité du repreneur à finir et facturer** (compétences + trésorerie) ;
+- l'**acceptation client** (les machines passent-elles la recette ?).
+Bien gérés, ils valent ~990 k€ de CA à venir. Abandonnés, ils valent leur poids de ferraille (20–40 %).
 
-### Actifs cessibles principaux
+### Points forts
+1. Savoir-faire technique rare (machines spéciales = barrière à l'entrée).
+2. Équipe stable et expérimentée (32 pers., ancienneté forte).
+3. Outil de production moderne (tour numérique 2025, jet d'eau 2018).
+4. Secteur porteur (réindustrialisation, automatisation, nearshoring).
+5. Procédure « propre » : pas de litige majeur documenté.
 
-| Actif | Valeur nette (2024) | Commentaire |
-|--------|-----------|-----------|
-| **Terrain + bâtiment** | ~1.5 M€ | Neuf 2019, excellent état. Gestion hypothèques = priorité |
-| **Machines-outils** | ~383 k€ | Numérique, relativement moderne (2015–2025) |
-| **Mobilier/IT** | ~114 k€ | SIRH 2024, PCs, serveurs — standard |
-| **Fonds de commerce** | Néant | Pas de marque client captive (B2B machines spéciales = project-based) |
-| **WIP / Stocks** | 540 k€ | Matières en cours de production (état et prix réalisation = TBD) |
-| **Créances clients** | 823 k€ | **RISQUÉ** : clients sains ou en retard ? (à auditer) |
-| **Trésorerie** | ~40 k€ | Critique (solde courant) |
-| **TOTAL ACTIF** | **2.94 M€** | Avant réduction pour contrainte/dépôt |
-
-### Contrats clients clés
-
-- **Non nommés dans data room** (confidentialité)
-- **Modèle** : devis → contrat → suivi projet → paiement 30 j fin
-- **Secteurs** : aéronautique, pharmacie, agroalimentaire, général industrie _(annoncé)_
-- **Taille client** : PME-ETI (données incomplètes, pas de top 5 fourni)
-
-### Contrats fournisseurs clés
-
-- **Matières premières** : acier, fonte, composants électroniques (achats 850k€ / 2024)
-- **Sous-traitance** : usinage complémentaire, traitements thermiques (non isolé dans comptes)
-- **Équipement** : fournisseurs machines-outils (Siemens?, Fanuc? — non spécifié)
-
-### Points forts opérationnels
-
-1. **Savoir-faire reconnu** : 28 ans d'expérience (fondée 1998)
-2. **Équipe technique** : 36 → 32 personnes = groupe cohérent (maison depuis longtemps)
-3. **Installations modernes** : bâtiment 2019 neuf, équipement 2015–2025
-4. **Capacité full-service** : CAO, usinage, montage, tests sur site (différenciateur vs sous-traitants)
-5. **Actifs de revente** : immobilier + machines délocalisables
-
-### Points faibles opérationnels
-
-1. **Client concentration inconnue** : pas de diversification documentée; une perte client = spirale
-2. **Cycle de trésorerie long** : 2–3 mois projet = 90j+ avant paiement vs 30j fournisseurs → BFR structurel
-3. **RH coûteuse** : salaires ~1.25 M€ / 2024 (33% du CA) = levier fragile en contraction CA
-4. **Faible marge** : résultat net 5.5% = petit matelas; besoin ~15% CA min pour rentabilité
-5. **PME spécialisée, pas scalable** : machines spéciales = low volume, haute valeur → forte volatilité de carnet
+### Points faibles
+1. **Marge projet détruite** (matières 37 %, salaires 59 %) — problème de **chiffrage/pilotage des affaires**, pas seulement de volume.
+2. **BFR structurel massif** (~1,36 M€, ~58 % du CA) — cycle projet long, acomptes insuffisants.
+3. **Dépendance immobilière externe** (bail avec la holding du dirigeant).
+4. **Concentration client inconnue** — aucune granularité dans la data room.
+5. **Découvert bancaire au plafond** — plus de marge de manœuvre court terme.
+6. **Structure groupe opaque** (transferts intragroupe période suspecte).
 
 ---
 
-## 4. Risque de cession et timeline
+## 4. Scénarios & valorisation
 
-### Contexte procédure
-- **Période d'observation** : 6 mois (26/11/2026 deadline)
-- **Scénarios 2026** :
-  - Plan de continuation (redressement interne) — **très risqué**
-  - Cession exploitant pendant observation (acheteur reprend biz)
-  - Liquidation (actifs vendus/dispersés)
+### Probabilités de sortie (observation 6 mois)
+| Scénario | Prob. | Mécanique |
+|---|---|---|
+| **Plan de continuation** | 10 % | Nécessite retour rapide à la marge + new money ; peu crédible sans repreneur |
+| **Plan de cession (going concern à la barre)** | 55 % | Repreneur industriel reprend fonds + équipe + WIP, reprend le bail, engagement emplois |
+| **Liquidation judiciaire** | 35 % | Si aucune offre sérieuse au 21/07 ou 26/11 ; actifs dispersés |
 
-### Probabilités estimées
+### Valorisation — reprise à la barre (offre de reprise)
+En RJ, le prix d'offre n'est **pas** la valeur des actifs : c'est le prix proposé au tribunal pour le **fonds + actifs repris**, assorti d'engagements (emplois, contrats). Pour un atelier de cette taille :
 
-| Scénario | Probabilité | Timeline | Notes |
-|----------|-----------|----------|-------|
-| **Continuation** | 15% | — | Nécessite nouveaux clients + tréso; improbable sans aide externe |
-| **Cession (reprise de biz)** | 60% | 2–4 mois (juillet–novembre 2026) | Meilleure issue; acheteur cherche équipe + outils |
-| **Liquidation judiciaire** | 25% | 6+ mois | Actifs vendus piecemeal; WIP/clients perdus |
+- **Plancher actifs durs** (machines en valeur forcée) : **200–350 k€**.
+- **Offre going concern réaliste** : **≈ 100–500 k€** + reprise du bail + engagement de maintien d'une partie des emplois.
+- **Ce que le repreneur récupère** : le carnet/WIP (~990 k€ à finir-facturer), l'équipe, l'outil en place, les créances reprises selon montage.
+- **Les créanciers** (banque ~1,7 M€, fisc/social ~0,4 M€, fournisseurs ~0,3 M€) sont **largement effacés** (le prix de cession se répartit selon l'ordre des privilèges ; le superprivilège salarial AGS passe avant).
 
-### Valeur cession estimée
-
-- **Actifs bruts** : 2.94 M€ (hors provisions)
-- **Décote procédure** : -20% à -40% (urgence, procédure, intangibles perdus)
-- **Fourchette valeur acquisition** : **1.76–2.35 M€**
-  - **Scénario conservateur** (liquidation) : 1.5 M€ (actifs tangibles seuls)
-  - **Scénario cession exploitant** : 1.9–2.2 M€ (goodwill de clients repris)
-  - **Scénario optimal** (repreneur avec capital) : 2.3–2.5 M€
-
-### Passif à couvrir
-
-- Social : 600–750k€
-- Dettes banquaires/fousisseurs : 1.5–1.7 M€
-- **TOTAL** : ~2.1–2.45 M€
-
-**Résultat net (après passif)** : **-0.35 M€ à +0.25 M€** (restructuring credit, haircuts possibles)
+> ⚠ Correction vs. 1ère passe : la fourchette « 1,76–2,35 M€ » de l'analyse Haiku était **fausse** (×4–5). Elle comptait à tort l'immobilier (non détenu) et valorisait WIP/créances quasi à leur VNC. En reprise à la barre, le prix se compte en **centaines de milliers**, pas en millions.
 
 ---
 
-## 5. Profils de repreneurs potentiels
+## 5. Recommandation
 
-### Profil 1 : Acheteur stratégique (concurrent / intégrateur)
-- **Caractéristiques** : PME/ETI usinage/robotique française ou europ.
-- **Motivation** : capacités complémentaires, clients à intégrer, assets à amortir
-- **Prix accepté** : 1.9–2.2 M€
-- **Risques** : licenciements, relocalisation (perte emplois Cantal)
+### `RISQUÉE — reprise à la barre uniquement, pour repreneur industriel du métier`
 
-### Profil 2 : Investisseur financier + manager
-- **Caractéristiques** : fond LBO, repreneurs indépendants
-- **Motivation** : equity + dette senior, redressement par restructuring clients + coûts
-- **Prix accepté** : 1.6–1.9 M€
-- **Risques** : sous-capitalisation, pressão coûts salaires = risque social
+**Pour qui ça marche** :
+- Un **industriel concurrent / intégrateur mécanique-robotique** capable de (a) reprendre le pilotage des affaires pour restaurer la marge projet, (b) absorber l'équipe sur son propre carnet, (c) financer la finition du WIP.
+- Secondairement, un **repreneur opérationnel + fonds** avec une vraie expertise atelier (pas un financier pur).
 
-### Profil 3 : Reprise management (CSP THEIL?)
-- **Caractéristiques** : Olivier THEIL (PDG sortant) + apport externe
-- **Motivation** : reprendre l'outil de famille, redemption play
-- **Prix accepté** : 1.7–2.0 M€
-- **Risques** : réappétence du management difficile; peut ne pas sortir procédure
+**Conditions sine qua non avant offre** :
+1. **Diagnostic marge projet** : pourquoi le coût matières est passé à 37 % ? Affaires sous-cotées, dérapages, ou mix ? → conditionne tout le redressement.
+2. **Audit du WIP & du carnet** : commandes fermes, acomptes, clauses RJ, top 5 clients et % CA.
+3. **Sécuriser le bail** : négociation parallèle avec THEIL Industries (propriétaire) — sans local, pas de reprise.
+4. **Vérifier la période suspecte** : ce qui a été transféré vers la holding au 01/01/2026 (interroger l'administrateur).
+5. **Cible coûts** : ramener la masse salariale de 59 % à ~45 % du CA sans perdre les compétences cœur.
 
----
+**À éviter** :
+- Logique asset-stripping (80 % de la valeur apparente est en going concern, pas en actifs durs).
+- Tout repreneur sans capacité industrielle propre derrière.
 
-## 6. Synthèse et recommandation
-
-### Ce qui est sain
-
-- ✅ **Actifs tangibles importants** : immobilier neuf (1.5 M€), machines modernes (383k€), WIP (540k€)
-- ✅ **Savoir-faire/équipe** : 28 ans, 32 personnes stables, capabilités full-service reconnues
-- ✅ **Secteur résilient** : machines spéciales = demand endogène (industrie 4.0, nearshoring)
-- ✅ **Pas de litiges majeurs** : RJ "propre" (pas de héritages légaux lourds)
-- ✅ **Créances clients non nulles** : 823k€ recouvrable si clients sains
-
-### Ce qui ne l'est pas
-
-- ❌ **Effondrement CA 2025** : -37% (3.74 → 2.36 M€) = signale perte clientèle majeure ou marché
-- ❌ **BFR destructeur** : cycles longs, dettes sociales accumulées = trésorerie critique 01/01/2026
-- ❌ **Marges fines** : 5.5% net, 6.9% d'exploitation = fragile; besoin 12–15% post-restructuring
-- ❌ **Concentration clientèle non documentée** : risque que 1 client ≈ perte CA exogène
-- ❌ **PME spécialisée = faible scalabilité** : croissance requires new salesforce, R&D, not just efficiency
-- ❌ **Passif social lourd** : 600–750k€ = premier obstacle post-acquisition
-
-### Scénarios cession
-
-**Meilleur cas (60% prob.)** : Repreneur stratégique identifié par juillet 2026, reprend équipe+clients, structure dette senior. Actionnaires/banquiers : haircut 40–60% (perte ~1.2 M€).
-
-**Cas moyen (25% prob.)** : Liquidation progressive; actifs vendus piecemeal sur 12 mois. Valeur réalisée : 1.5 M€ net. Emplois perdus. Passif non couvert entièrement.
-
-**Pire cas (15% prob.)** : Continuation échouée post-redressement; liquidation accélérée. Spirale défaut → saisies.
-
-### Recommandation finale
-
-**`RISQUEE MAIS POSSIBLE`**
-
-**Justification** :
-MECA THEIL est une distressed acquisition **viable pour repreneur stratégique ou LBO** avec 3 conditions critiques :
-1. **Diagnostic clients** : identifier cause CA -37% (perte client vs marché) ET sécuriser top 3 clients (70%+ CA estimé)
-2. **Restructuring coûts** : éliminer -15–20% des coûts fixes (1.25 M€ salaires → 1.0 M€) sans perdre capacité production
-3. **Financement hybride** : debt senior (banque) + equity (repreneur ou fonds LBO) + possible subvention régionale (zone défavorisée Cantal)
-
-**Pas opportunité pour reprise « asset stripping »** : immobilier + machines = 80% valeur, mais BFR + RH = 60% de la valeur réelle d'une « going concern ». 
-
-Repreneur doit avoir **industriel solide** derrière, pas juste capital.
-
-### Questions sans réponse
-
-1. **Quels sont les clients top 5 et leurs volumes ?** (absence totale de granularité dans data room)
-2. **Cause précise CA -37%** : perte client vs contraction marché ? (pas de diagnostique fourni)
-3. **Créances clients (823k€) — saines ou douteuses ?** Pas de balance aging
-4. **Levier immobilier** : hypothèques sur bâtiment ? (pas d'état de charge fourni)
-5. **Valeur WIP (540k€)** : %age avancement ? risque reprise clients ? (no detail)
-6. **Management/Olivier THEIL** : volonté reprise ou exit ? (role post-RJ unclear)
+### Questions ouvertes (pour Director / Paul)
+1. **Top 5 clients & concentration** — absence totale dans la data room.
+2. **Cause précise de la perte de marge** (matières 24 %→37 %) — sous-cotation ou exécution ?
+3. **Aging créances clients** (823 k€) — saines ou douteuses ?
+4. **Contenu exact de la convention de transfert** vers THEIL Industries (au-delà de la comptable) — actifs ? clients ? brevets ?
+5. **Statut du bâtiment** : propriété THEIL Industries ? crédit-bail bancaire ? conditions de bail reprenable ?
+6. **Position d'Olivier THEIL** : veut-il reprendre via la holding, ou sortir ?
+7. **Brevets** (liste fournie .xlsx) — valeur séparable ?
 
 ---
 
 ## Related
-
 - [[brantham/_MOC]]
-- [[brantham/decisions]] — future : décision approche cession vs. continuation monitoring
-- [[brantham/patterns/distressed-analysis]] — pattern réutilisable pour prochains RJ
+- [[brantham/sessions/2026-06-12-meca-theil-analysis]]
+- [[brantham/analyses/INDEX]]
+- [[brantham/patterns/distressed-analysis]] — _à créer : pattern lecture data room RJ (bilan + jugement + structure groupe + période suspecte)_
