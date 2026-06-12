@@ -247,3 +247,4 @@ Ideal if you want to start something new
 - If people are leaving → acqui-hire failed (not your fault)
 - If team is strong, building → success, can stay or go
 - If you're miserable → no value in staying
+## Related

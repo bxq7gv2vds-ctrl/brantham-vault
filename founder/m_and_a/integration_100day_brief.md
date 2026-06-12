@@ -260,3 +260,4 @@ For buyer to say "this was a good deal":
 → Audit day 5, consolidate by day 60
 
 **Use case**: New integration lead arrives day 1 → print this, execute this.
+## Related

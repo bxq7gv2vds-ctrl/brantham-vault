@@ -199,3 +199,4 @@ Before you sign ANY deal:
 - [ ] Terms are in writing (not just verbal)
 - [ ] Tax impact modeled (consult CPA)
 - [ ] Have a walk-away number (and stick to it)
+## Related

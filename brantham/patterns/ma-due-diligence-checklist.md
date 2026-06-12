@@ -134,3 +134,7 @@ metadata:
 - [[_system/MOC-patterns]]
 - [[brantham/_MOC]]
 - [[ma-saa-valuation-framework]]
+## Related
+
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]

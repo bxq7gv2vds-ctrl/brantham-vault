@@ -320,3 +320,7 @@ metadata:
 - [[ma-valuation-process]]
 - [[ma-checklist-template]]
 - [[ma-grid-comparatif]]
+## Related
+
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]

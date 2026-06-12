@@ -251,3 +251,4 @@ CONFLICTS:
 - **Total cost:** 3-5% of deal value (reasonable investment)
 - **Negotiate:** Retainer down, success fee tiered, capped if you prefer certainty
 - **Performance test:** After 4 weeks, do you have LOI in hand? If no, fire + rehire.
+## Related

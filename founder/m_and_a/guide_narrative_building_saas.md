@@ -150,3 +150,4 @@ Before soft shop, ask yourself:
 - [ ] After product milestone
 - [ ] After market event (competitor IPO, layoffs signal)
 - [ ] Before LOI discussion (add urgency if needed)
+## Related

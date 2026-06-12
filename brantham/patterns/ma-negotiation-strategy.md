@@ -188,3 +188,7 @@ metadata:
 - [[_system/MOC-patterns]]
 - [[brantham/_MOC]]
 - [[ma-acquisition-pitch-template]]
+## Related
+
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]

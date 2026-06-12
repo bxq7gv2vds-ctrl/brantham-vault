@@ -91,3 +91,7 @@ metadata:
 - [[_system/MOC-patterns]]
 - [[ma-valuation-metrics]]
 - [[risk-assessment-framework]]
+## Related
+
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]

@@ -172,3 +172,4 @@ Go analyse complète, mais uniquement avec une thèse de reprise partielle Calai
 
 La bonne offre doit être construite comme une sauvegarde du coeur industriel, pas comme une continuation de la structure actuelle.
 ## Related
+## Related

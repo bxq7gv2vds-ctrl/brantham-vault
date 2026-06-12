@@ -235,3 +235,7 @@ Phase 3 (91-180 days): Optimization
 - [[ma-checklist-template]]
 - [[ma-grid-comparatif]]
 - [[ma-valuation-metrics]]
+## Related
+
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]

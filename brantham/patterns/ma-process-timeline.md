@@ -256,3 +256,7 @@ Total : 3-6 mois selon la complexité et taille de la cible
 - [[_system/MOC-patterns]]
 - [[brantham/_MOC]]
 - [[ma-due-diligence-checklist]]
+## Related
+
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]

@@ -542,4 +542,4 @@ Result:
 **Golden Rule:** 
 > "If something is ambiguous, it will be litigated in escrow. Write it down now in SPA, 
 > or pay lawyers €500/hour later to fight it out."
-
+## Related

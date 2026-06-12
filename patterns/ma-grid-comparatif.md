@@ -99,3 +99,7 @@ metadata:
 - [[ma-checklist-template]]
 - [[ma-valuation-metrics]]
 - [[risk-assessment-framework]]
+## Related
+
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]

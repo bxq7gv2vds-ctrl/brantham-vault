@@ -434,4 +434,4 @@ Earnout: N/A (ongoing ownership, not time-bound)
 - [ ] Run price sensitivity analysis: What's WALK price? What's WALK-AWAY price?
 - [ ] Brief your lawyer on archetype-specific risks
 - [ ] Do 1-2 mock negotiations with advisor/investor
-
+## Related

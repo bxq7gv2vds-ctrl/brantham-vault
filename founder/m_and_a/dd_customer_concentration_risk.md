@@ -298,4 +298,4 @@ Mitigation:
 - [ ] Buyer's stress-test assumptions: Shared + discussed
 
 **Use case**: Buyer's diligence team arrives day 1 → hand them this checklist + data room folder.
-
+## Related

@@ -202,3 +202,4 @@ Date         Event
 2. **Schedule call** to walk through key terms
 3. **Request cap table review** to identify special shareholders
 4. **Loop in tax advisor** re: structure implications
+## Related

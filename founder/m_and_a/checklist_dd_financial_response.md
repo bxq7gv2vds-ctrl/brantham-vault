@@ -158,3 +158,4 @@ Buyer WILL ask about:
 - [ ] Bring your CFO/accountant to calls (if you have one)
 - [ ] Prepare visuals (cohort charts, trend lines, not raw sheets)
 - [ ] Anticipate tough questions 24h in advance
+## Related

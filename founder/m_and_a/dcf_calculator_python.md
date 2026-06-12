@@ -368,3 +368,4 @@ Or use Excel if you prefer graphical sensitivity tables.
   - 10-20% growth → 2-4x ARR
   
 - **Your calculator outputs should be in these ranges** (if not, validate assumptions)
+## Related

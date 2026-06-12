@@ -308,4 +308,4 @@ Your job doesn't end at closing—it intensifies.
 | Customer consents pre-LOI | ✅ | 95%+ close on-time (vs 60% delayed) |
 
 **Bottom Line:** This playbook = battle-tested; follow it, adjust per specific deal.
-
+## Related

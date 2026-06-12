@@ -77,3 +77,4 @@ Cession partielle arrêtée le 17/12/2025, effet 01/01/2026 :
 - `_converted/*.ocr.txt` : OCR des scans critiques.
 - `_ocr_pages/` : images intermédiaires OCR.
 ## Related
+## Related

@@ -289,3 +289,4 @@ Before hitting send, verify:
 - [ ] All-hands Zoom link tested + backup plan ready
 
 **Use case**: Print this, fill [brackets], send Day 1.
+## Related

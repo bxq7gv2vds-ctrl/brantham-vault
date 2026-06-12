@@ -40,3 +40,4 @@ Chiffres inclus dans les emails:
 - Dettes financieres 2023: 1,76 M EUR.
 - Prix de cession / financement minimum: non public a ce stade; a confirmer en data room.
 ## Related
+## Related

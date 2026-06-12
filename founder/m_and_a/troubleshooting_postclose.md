@@ -352,3 +352,4 @@ Happy to discuss. Available [times].
 ```
 
 **Use case**: Something goes wrong post-close → follow escalation path → send template email.
+## Related

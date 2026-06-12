@@ -73,3 +73,4 @@ metadata:
 - NO → wait 3-6 months, revisit
 
 (Soft shops are visible. Backing out = founder looks flaky.)
+## Related

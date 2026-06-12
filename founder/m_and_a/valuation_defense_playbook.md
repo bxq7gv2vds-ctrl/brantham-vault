@@ -284,3 +284,4 @@ If those are right, I'm ready to sign LOI next week."
 4. If <$[Y] even with earnout, walk
 
 **Use case**: Founder + board prep before LOI call.
+## Related

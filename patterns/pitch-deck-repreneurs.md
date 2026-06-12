@@ -132,3 +132,7 @@ Template de présentation pour présenter des deals distressed aux repreneurs.
 **Utilité** : Template de pitch deck structuré pour présenter rapidement des deals distressed avec focus sur l'urgence et les synergies.
 
 **Prochaine action** : Tâche 3 - Analyse concurrentielle M&A AI
+## Related
+
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]

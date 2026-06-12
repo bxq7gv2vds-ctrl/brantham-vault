@@ -376,3 +376,7 @@ metadata:
 - [[ma-checklist-template]]
 - [[ma-valuation-process]]
 - [[ma-integration-90days]]
+## Related
+
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]

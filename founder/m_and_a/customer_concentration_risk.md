@@ -160,3 +160,4 @@ Others:        $0.5M (17%)
 - Non-compete preventing you from working with large customer post-sale
 
 **Fallback:** Reduce earnout, extend timeline, add concentration carve-out (if customer churns, earnout adjusts).
+## Related

@@ -192,4 +192,4 @@ Si <7/10 → walk ou renegotiate avant LOI
 5. **Walk** — mieux que mauvais deal
 
 *Vendre n'est pas un besoin — c'est une option. Mauvais buyer = nightmare 3-5 ans.*
-
+## Related

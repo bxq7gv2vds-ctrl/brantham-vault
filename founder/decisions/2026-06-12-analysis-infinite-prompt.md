@@ -88,3 +88,7 @@ Ce prompt est conçu pour générer des réponses potentiellement infinies qui n
 
 ## Templates
 - Template decision: vault/_system/templates/decision.md
+## Related
+
+- [[_system/MOC-decisions]]
+- [[brantham/_MOC]]

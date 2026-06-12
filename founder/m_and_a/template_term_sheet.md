@@ -126,3 +126,4 @@ Si négative → vendeur paie rabais
 - Earnout max 20-30% (sinon risque de méfiance)
 - Rétention client est clé : structure earnout autour
 - Réserver crédit fiscal/tax loss carryforward à négocier
+## Related

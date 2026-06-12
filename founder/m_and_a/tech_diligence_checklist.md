@@ -188,3 +188,4 @@ Use this to grade your own tech risk:
 - **Complex deal:** 8-12 weeks (if you need significant modernization)
 
 **Timeline:** Assume 6 weeks; plan data room access accordingly.
+## Related

@@ -174,4 +174,4 @@ date: 2026-06-12
 | Légal | 9/10 | Clean history, no overlap réglementaire |
 | Culture | 5/10 | Known for reorg post-deal, 30% attrition moyenne |
 | **TOTAL** | **7.3 × 10 = 73/100** | Explore mais avec protections earnout |
-
+## Related

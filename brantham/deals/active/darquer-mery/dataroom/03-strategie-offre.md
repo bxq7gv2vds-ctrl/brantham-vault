@@ -170,3 +170,4 @@ L'offre ne doit pas dire "la société vaut 50 kEUR". Elle doit dire :
 - exclusion ou reprise symbolique des stocks douteux ;
 - engagement de ne pas céder les actifs stratégiques pendant 24 mois, sauf accord du tribunal si nécessaire.
 ## Related
+## Related

@@ -283,3 +283,4 @@ If buyer doesn't provide sales resources, earnout tied to engagement metrics ins
 - Get independent audit rights
 - Make it independent of your employment
 - Front-load tranches (don't wait 24 months for payout)
+## Related

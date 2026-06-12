@@ -77,3 +77,4 @@ brantham/
 - Déplacement massif de `linkedin`, `deals`, `knowledge` ou `tc-paris-extraction`.
 - Renommage de dossiers qui casseraient les backlinks Obsidian sans migration de liens.
 ## Related
+## Related

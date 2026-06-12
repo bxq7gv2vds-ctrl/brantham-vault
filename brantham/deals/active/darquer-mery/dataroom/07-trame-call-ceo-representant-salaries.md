@@ -217,3 +217,4 @@ Et décider :
 4. Quelles sont les 5 dépenses à couper immédiatement ?
 5. Quelle est la condition numéro 1 pour que Darquer survive ?
 ## Related
+## Related

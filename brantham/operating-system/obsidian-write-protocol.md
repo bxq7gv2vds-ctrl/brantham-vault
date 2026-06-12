@@ -60,3 +60,4 @@ Limiter les sous-dossiers profonds. Les emplacements par défaut:
 - Écrire les dossiers Brantham dans `/Desktop/.../agent/output` sauf pour tests techniques.
 - Déplacer ou supprimer en masse des notes existantes sans validation utilisateur.
 ## Related
+## Related

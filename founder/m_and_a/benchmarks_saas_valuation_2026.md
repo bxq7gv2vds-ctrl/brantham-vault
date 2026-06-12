@@ -154,3 +154,4 @@ Base multiple (your growth/size):    ____x
 ─────────────────────────────────────
 Your realistic multiple:             ____x ARR
 ```
+## Related

@@ -189,3 +189,4 @@ By end of soft shop:
 - [ ] Decision: Continue with highest bidder(s) or stay independent
 
 If <1 LOI discussion: Soft shop was unsuccessful; either rethink positioning or improve data.
+## Related

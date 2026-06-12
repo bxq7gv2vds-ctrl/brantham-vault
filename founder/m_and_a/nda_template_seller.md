@@ -144,3 +144,4 @@ Disclosure of information does not grant Buyer any license or rights to Seller's
 - **Soft shop:** Send NDA first thing (before LOI call)
 - **Strategic buyer:** NDA in first email
 - **Follow-up conversations:** Reference NDA; assume it's in effect
+## Related

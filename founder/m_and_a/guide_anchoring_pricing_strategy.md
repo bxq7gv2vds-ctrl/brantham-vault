@@ -204,3 +204,4 @@ Have they asked for a number?
   ├─ YES → Anchor via comps/range/BATNA
   └─ NO → Wait for them to ask
 ```
+## Related

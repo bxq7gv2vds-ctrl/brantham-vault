@@ -172,3 +172,7 @@ Ce compendium regroupe 9 patterns M&A complémentaires pour couvrir l'ensemble d
 - [[ma-seller-script]]
 - [[ma-process-timeline]]
 - [[ma-trends-2026]]
+## Related
+
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]

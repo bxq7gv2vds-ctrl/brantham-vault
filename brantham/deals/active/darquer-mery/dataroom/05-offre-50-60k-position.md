@@ -68,3 +68,4 @@ Pour compenser, il faut arriver avec :
 
 Ne pas monter au-delà de 60 kEUR pour "faire sérieux". Si le tribunal ou l'AJ valorise surtout le prix facial, le deal n'est probablement pas le bon. Le cash doit rester dans l'exploitation.
 ## Related
+## Related

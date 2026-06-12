@@ -132,3 +132,4 @@ metadata:
 | "Buyer can fire you anytime" | Specify "without cause" severance |
 
 **If buyer won't budge on severance:** Demand higher earnout + front-loaded retention bonuses instead.
+## Related

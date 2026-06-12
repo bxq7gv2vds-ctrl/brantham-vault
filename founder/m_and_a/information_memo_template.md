@@ -189,3 +189,4 @@ Our Current Position:         $[Z]M ARR = [%] of SAM
 - [ ] NDA/confidentiality language included
 - [ ] Length is <5 pages (longer = not read)
 - [ ] M&A advisor reviewed before sending to buyer
+## Related

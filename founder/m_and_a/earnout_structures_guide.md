@@ -375,3 +375,4 @@ $13M cash + $5M earnout:
 - [ ] Earnout period > 2 years (unlikely to hit targets)
 
 **Use case**: Before LOI signing, confirm earnout terms make sense.
+## Related

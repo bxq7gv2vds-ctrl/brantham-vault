@@ -436,4 +436,4 @@ Buyer:
 - [ ] Is this a consolidation (buyer wants rid of you post-close)? → **Asset Sale**
 
 **Once decided:** Use template above (Equity Sale standard), modify for Asset Sale per legal counsel.
-
+## Related

@@ -280,3 +280,4 @@ Owner accountability: [Who's responsible for overall risk management?]
 Don't hope things will work out post-close. Discuss risks openly with buyer, document agreements, assign owners, and track weekly.
 
 **Use case**: Week 1 of diligence, share this with buyer to start risk conversation. "Here are the integration risks we see. How do we mitigate together?"
+## Related

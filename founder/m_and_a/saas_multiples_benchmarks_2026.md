@@ -198,3 +198,4 @@ Your weaknesses: -[B]x
 - **20-50% growth:** 4-7x (sweet spot for most acquisitions)
 - **<20% growth:** 1-4x (mature; profitability matters more)
 - **Your job:** Document the factors that justify the multiple you're asking for
+## Related

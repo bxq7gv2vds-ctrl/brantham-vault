@@ -187,3 +187,4 @@ Le marché M&A distressed offre des opportunités uniques pour les acquéreurs s
 **Utilité** : Guide complet de 7 chapitres couvrant toute la stratégie M&A distressed avec focus sur l'exécution pratique.
 
 **Prochaine action** : Tâche 6 - Template scoring sectoriel
+## Related

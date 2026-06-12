@@ -358,4 +358,4 @@ Date: __________________
 - [ ] Buyer added to data room with access log
 - [ ] Seller legal team notified (backup copy)
 - [ ] LOI kick-off call scheduled for D+3 to D+5
-
+## Related

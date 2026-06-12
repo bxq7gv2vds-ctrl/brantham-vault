@@ -119,3 +119,4 @@ Base mensuelle descend d'environ 6,6 kEUR, soit 115-123 kEUR/an chargé économi
 
 Risque : autonomie opérationnelle plus faible et offre socialement plus fragile devant le tribunal.
 ## Related
+## Related

@@ -187,3 +187,8 @@ Buyer satisfaction           | Smooth      | Minimal disputes post-close
 ✓ Timeline respecté
 
 **Prochaine session :** À l'étape suivante du deal (LOI signing, closing, etc.)
+## Related
+
+- [[brantham/_MOC]]
+- [[founder/daily/2026-06-12-auto-brief.md|Daily — 2026-06-12]]
+- [[website/_MOC]]

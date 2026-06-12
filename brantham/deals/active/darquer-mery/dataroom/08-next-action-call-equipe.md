@@ -35,3 +35,4 @@ Si vous deviez faire survivre Calais avec 20 personnes, qui prenez-vous ? Et si 
 
 Utiliser la trame détaillée : [[07-trame-call-ceo-representant-salaries]].
 ## Related
+## Related

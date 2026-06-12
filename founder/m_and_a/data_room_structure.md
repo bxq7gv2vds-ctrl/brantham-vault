@@ -250,4 +250,4 @@ D60 : Data room access expires OR deal closes
 4. **Video intro** — CEO 5-min video ("Here's who we are, what we've built")
 5. **Update daily** — shows momentum & engagement
 6. **Be responsive** — buyer asks something? Answer in <24h = trust signal
-
+## Related

@@ -89,3 +89,7 @@ metadata:
 - [[_system/MOC-patterns]]
 - [[brantham/_MOC]]
 - [[ma-due-diligence-checklist]]
+## Related
+
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]

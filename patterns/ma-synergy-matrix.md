@@ -156,3 +156,7 @@ metadata:
 - [[ma-valuation-process]]
 - [[ma-grid-comparatif]]
 - [[ma-valuation-metrics]]
+## Related
+
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]

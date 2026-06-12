@@ -248,3 +248,4 @@ If yes, I can draft a quick email for you to forward?"
 Keep the burden on THEM to decide fit, not explain business.
 
 **Use case**: 50 buyers to contact in 30 days → batch cold reach + warm intros in parallel.
+## Related

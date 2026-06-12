@@ -229,3 +229,4 @@ If buyer insists on long survival/high cap:
 - [ ] Compare to walk-away price (is escrow amount worth the risk?)
 - [ ] Ensure survival dates are reasonable (not indefinite)
 - [ ] Confirm indemnification CAP (don't accept "unlimited")
+## Related
