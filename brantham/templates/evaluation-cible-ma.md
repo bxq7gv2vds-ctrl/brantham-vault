@@ -1,43 +1,111 @@
-# Framework d'Évaluation Cible M&A
+# Template d'Évaluation Cible M&A
 
-## 🎯 Grille d'Évaluation Cible (0-100 points)
+## 🎯 Informations Cible
 
-### 🏢 Profil Stratégique (25 points)
-| Critère | Poids | Score | Commentaires |
+### Identification
+- **Nom entreprise**: _________________________
+- **SIREN/SIRET**: _________________________
+- **Date d'évaluation**: _________________
+- **Source d'identification**: __________________
+- **Référence interne**: __________________
+
+**Note**: Ce template intègre un système de scoring progressif pour évaluer systématiquement les opportunités M&A.
+
+---
+
+## 🏢 Evaluation Sectorielle (0-30 points)
+
+### Marché & Positionnement
+| Critère | Score | Notes | Justification |
 |---------|-------|-------|--------------|
-| Alignement stratégique avec portefeuille | 10/10 | | |
-| Synergies opérationnelles identifiables | 8/10 | | |
-| Positionnement marché complémentaire | 7/10 | | |
-| Potentiel de croissance organique | | | |
+| Positionnement marché | /10 | | Leader? Suiveur? Niche? |
+| Part de marché estimée | /10 | | % segment | % global | Tendance |
+| Barrières à l'entrée | /10 | | Réglementaire | Technologique | Économique |
 
-### 💰 Potentiel Financier (25 points)
-| Critère | Poids | Score | Commentaires |
-|---------|-------|-------|--------------|
-| Rentabilité durable > EBITDA 15% | 10/10 | | |
-| Modèle économique scalable | 8/10 | | |
-| Dette sous contrôle (<3x EBITDA) | 7/10 | | |
-| Trésorerie positive | | | |
+**Score sectoriel**: ______/30
 
-### 🚀 Dynamique Croissance (20 points)
-| Critère | Poids | Score | Commentaires |
-|---------|-------|-------|--------------|
-| Taux CA croissance > 10% annuel | 8/10 | | |
-| Innovation produit/service | 6/10 | | |
-| Market expansion démontrée | 6/10 | | |
+### Concurrence & Écosystème
+| Concurrent | Position | Force | Faiblesse | Opportunité |
+|-----------|----------|-------|-----------|-------------|
+| [Concurrent 1] | | | | |
+| [Concurrent 2] | | | | |
+| [Concurrent 3] | | | | |
 
-### 👌 Risques Gérables (15 points)
-| Critère | Poids | Score | Commentaires |
-|---------|-------|-------|--------------|
-| Conformité réglementaire OK | 5/10 | | |
-| Dépendance clients < 30% du CA | 5/10 | | |
-| Team clé stable | 5/10 | | |
+**Threat Level**: [ ] Low [ ] Medium [ ] High [ ] Critical
 
-### 🔄 Potentiel Restructuration (15 points)
-| Critère | Poids | Score | Commentaires |
-|---------|-------|-------|--------------|
-| Optimisation coûts immédiate | 5/10 | | |
-| Rationalisation portefeuille possible | 5/10 | | |
-| Tech stack modernisable | 5/10 | | |
+---
+
+## 💰 Evaluation Financière (0-35 points)
+
+### Comptabilité Analytique
+| Métrique | Valeur | Benchmark | Score | Notes |
+|----------|--------|-----------|-------|-------|
+| Chiffre d'affaires (CA) | € _______ | € _______ | /5 | |
+| EBITDA | € _______ | € _______ | /5 | |
+| Marge EBITDA | ______% | ______% | /5 | |
+| Chiffre d'affaires récurrent | € _______ | € _______ | /5 | |
+| Croissance CA (3 ans) | ______% | ______% | /5 | |
+| Rentabilité nette | ______% | ______% | /5 | |
+| ROIC | ______% | ______% | /5 | |
+
+**Score financier**: ______/35
+
+### Structure Coûts
+| Poste de coûts | % CA | Benchmark | Optimisation | Potentiel |
+|----------------|------|-----------|--------------|-----------|
+| Coûts directs | | | € ________ | |
+| Salaires | | | € ________ | |
+| Marketing | | | € ________ | |
+| IT | | | € ________ | |
+| Autres | | | € ________ | |
+
+**Synergies coûts estimées**: € _________ / an
+
+---
+
+## 👥 Evaluation Humaine (0-20 points)
+
+### Team Management
+| Critère | Évaluation | Score |
+|---------|------------|-------|
+| Dirigeants - Expérience | [ ] Exceptionnelle [ ] Solide [ ] Moyenne [ ] Faible | /5 |
+| Équipe clé - Stabilité | [ ] >90% retention [ ] 70-90% [ ] <70% | /5 |
+| Culture d'entreprise | [ ] Alignée [ ] Complémentaire [ ] Conflit | /5 |
+| Succession planifiée | [ ] Oui [ ] Partiel [ ] Non | /5 |
+
+**Score humain**: ______/20
+
+### Ressources Humaines
+| Indicateur | Valeur | Benchmark | Potentiel |
+|------------|--------|-----------|-----------|
+| Effectif total | ______ | ______ | |
+| Turnover | ______% | ______% | |
+| Coût par employé | € ______ | € ______ | |
+| Productivité | ______ | ______ | |
+
+**Risque RH**: [ ] Low [ ] Medium [ ] High [ ] Critical
+
+---
+
+## 🚀 Evaluation Technologique (0-15 points)
+
+### Stack Technique
+| Catégorie | État | Modernité | Coût maintenance | Score |
+|-----------|------|-----------|-----------------|-------|
+| Infrastructure | | | | /5 |
+| Applications | | | | /5 |
+| Données | | | | /5 |
+
+**Tech score**: ______/15
+
+### Digital Maturity
+| Pilier | Niveau | Notes | Amélioration |
+|--------|--------|-------|--------------|
+| Digitalisation | [ ] Avancée [ ] Intermédiaire [ ] Débutante | | |
+| Automatisation | [ ] Forte [ ] Modérée [ ] Faible | | |
+| Analytics | [ ] Advanced [ ] Basic [ ] None | | |
+
+**Tech debt estimated**: € _________
 
 ---
 
