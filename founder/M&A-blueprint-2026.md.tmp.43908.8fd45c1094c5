@@ -1,0 +1,103 @@
+---
+name: M&A Strategic Blueprint 2026
+type: reference
+created: 2026-06-12
+---
+
+# M&A Strategic Blueprint
+
+## 1. Raison d'être de l'acquisition
+
+**Pour LAT-ARB Bot :**
+- Acquérir des data feeds propriétaires (Binance, CEX alts) → réduire latence de 20-30ms
+- Talent : ingénieurs système, traders quantitatifs
+- Déjà possédé : GARCH vol modeler, Brownian Bridge pricer
+
+**Pour SaaS (Alliance Coiffure) :**
+- Acquérir des salons locaux → croissance géographique
+- Intégration de CRM/booking existant
+- Base clients + staff existant
+
+---
+
+## 2. Critères d'acquisition idéale
+
+| Dimension | LAT-ARB | SaaS |
+|-----------|---------|------|
+| **Taille** | <$2M ARR | <$5M ARR |
+| **Secteur** | Quant/HFT/Market Data | Retail Services |
+| **Géographie** | US/EU | FR/EU |
+| **Core strength** | Latency, infrastructure | Operations, clients |
+| **Synergies** | 20-30% cost reduction | 30% customer uplift |
+
+---
+
+## 3. Capacité d'intégration
+
+**LAT-ARB:**
+- ✓ Technical integration (Python stack)
+- ✗ Limited capital ($100k initial)
+- ? Legal complexity (derivatives, compliance)
+
+**SaaS:**
+- ✓ Operational (standardized salon ops)
+- ✓ Tech (Next.js stack)
+- ? Cash position for acquisition
+
+---
+
+## 4. Budget & Financement
+
+**LAT-ARB** (hypothétique)
+- Max budget: $500k-$1M
+- Financement: Profits du bot + convertible note
+
+**SaaS**
+- Max budget: $1-2M
+- Financement: Revenue-based financing + debt
+
+---
+
+## 5. Calendrier cible
+
+**Phase 1 (30j) :** Sourcing & screening
+**Phase 2 (30j) :** Due diligence light
+**Phase 3 (30j) :** Négociation & LOI
+**Phase 4 (30j) :** Legal & closing
+
+**Total: 120 jours**
+
+---
+
+## 6. Risques réglementaires clés
+
+**LAT-ARB:**
+- Derivatives regulation (CFTC, CySEC)
+- Market manipulation concerns (HFT scrutiny)
+- Compliance with exchange terms of service
+
+**SaaS:**
+- CNIL/RGPD (client data in salon CRM)
+- Labor law (salon employees)
+- Health/safety licensing
+
+---
+
+## 7. Success KPIs (Post-acquisition)
+
+**LAT-ARB:**
+- Latency reduction: <80ms (from 103ms)
+- Trade volume: 100+ trades/hour
+- Win rate: >65%
+- P&L: +100% YoY
+
+**SaaS:**
+- Customer CAC: <$500
+- Churn: <5% MoM
+- Salon NPS: >40
+- Revenue per location: +30%
+
+---
+
+## Next: Pipeline sourcing (50+ targets)
+
