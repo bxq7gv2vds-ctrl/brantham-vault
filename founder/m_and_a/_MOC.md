@@ -1,6 +1,14 @@
 # M&A — Master Index
 
 ## Outils Essentiels
+
+### Nouveaux (Session 2026-06-12)
+- [Deal Quick Scorecard](deal_quick_scorecard.md) — Score buyers en 5 min, prioritize
+- [Buyer Outreach Playbook](buyer_outreach_playbook.md) — Cold to LOI en 90j (sequences, angles, rejections)
+- [Integration 100-Day Brief](integration_100day_brief.md) — Post-close roadmap (team, produit, clients, opérations)
+- [DD Customer Concentration Risk](dd_customer_concentration_risk.md) — Buyer's deep-dive (churn, stickiness, contracts)
+
+### Fondations Existantes
 - [Checklist Due Diligence Acheteur](checklist_due_diligence_acquereur.md) — 40-item scan avant acquisition
 - [Red Flags M&A](red_flags_m_et_a.md) — 30+ signaux de risque majeur
 - [Valuation DCF Template](valuation_dcf_template.md) — calcul enterprise value, scenarios

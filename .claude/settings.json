@@ -6,7 +6,8 @@
       "Bash(find ~ -maxdepth 3 -name \"package.json\" 2>/dev/null | head -10)",
       "Read(//Users/paul/**)",
       "Bash(pkill -f \"python\")",
-      "Bash(uvicorn main:app --host 0.0.0.0 --port 8000)"
+      "Bash(uvicorn main:app --host 0.0.0.0 --port 8000)",
+      "Bash(python -m uvicorn main:app --host 0.0.0.0 --port 8000)"
     ]
   }
 }
