@@ -6,7 +6,11 @@
       "Bash(git -C /Users/sorenmendy/vault add -A)",
       "Bash(git -C /Users/sorenmendy/vault status)",
       "Bash(git:*)",
-      "Bash(ssh -T git@github.com)"
+      "Bash(ssh -T git@github.com)",
+      "mcp__qmd-vault__query",
+      "Bash(qmd status *)",
+      "Bash(qmd query *)",
+      "WebSearch"
     ]
   }
 }
