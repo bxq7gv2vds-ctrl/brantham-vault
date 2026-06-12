@@ -436,3 +436,4 @@ Earnout: N/A (ongoing ownership, not time-bound)
 - [ ] Do 1-2 mock negotiations with advisor/investor
 ## Related
 ## Related
+## Related

@@ -227,9 +227,7 @@ Score = Σ(Probabilité × Impact Financier × Pondération Sectorielle)
 ---
 
 ## Related
-
-- [[brantham/_MOC]]
 - [[_system/MOC-patterns]]
-- [[due-diligence-checklist]]
-- [[scoring-cibles-ma]]
-- [[teaser-ma-template]]
+- [[brantham/_MOC]]
+- [[brantham/patterns/ma-synergy-analysis-model]]
+- [[brantham/patterns/scoring-cibles-ma]]

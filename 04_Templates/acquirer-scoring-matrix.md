@@ -176,3 +176,4 @@ date: 2026-06-12
 | **TOTAL** | **7.3 × 10 = 73/100** | Explore mais avec protections earnout |
 ## Related
 ## Related
+## Related
