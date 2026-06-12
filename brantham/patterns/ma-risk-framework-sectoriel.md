@@ -1,8 +1,14 @@
 ---
-title: Framework de Risques M&A Sectoriels
-description: Système d'évaluation et de mitigation des risques spécifiques par secteur d'activité pour les transactions M&A
-date: 2026-06-12
-tags: [ma, risque, due-diligence, strategy]
+name: framework-risques-ma-sectoriel
+description: Framework de risques M&A spécifiques par secteur d'activité
+metadata:
+  type: pattern
+  category: ma
+  date: 2026-06-12
+  author: Brantham Partners
+  created_for: M&A Risk Assessment
+  industry_verticals: ['tech', 'healthcare', 'retail', 'manufacturing', 'energy']
+  risk_categories: ['market', 'operational', 'financial', 'regulatory', 'integration']
 ---
 
 # Framework de Risques M&A Sectoriels

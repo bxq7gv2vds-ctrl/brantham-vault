@@ -29,7 +29,7 @@ Script structuré pour l'analyse financière pré-M&A couvrant due diligence, va
 
 ### Données Opérationnelles
 - [ ] Chiffre d'affaires par ligne de produit/segment
-- [ : ] Marge brute par segment (>10% détail)
+- [ ] Marge brute par segment (>10% détail)
 - [ ] Coûts fixes vs variables (détail par nature)
 - [ ] Soldes intermédiaires de gestion (SIG)
 - [ ] Indicateurs de performance opérationnelle (KPIs)
@@ -140,7 +140,7 @@ def calculate_valuation(df, multiples_sector):
     # Flux de trésorerie disponibles
     fcf = df['flux_trésorerie'].iloc[-1]
     
-    # Valeur actisée
+    # Valeur actuelle
     terminal_value = fcf * (1 + perpetual_growth) / (wacc - perpetual_growth)
     pv_terminal = terminal_value / (1 + wacc)**3
     
@@ -269,6 +269,167 @@ def generate_recommendation(valuation, ratios, comparison):
 analysis = generate_recommendation(valuation, ratios, comparison)
 ```
 
+### Étape 6: Modélisation des Synergies Financières
+
+```python
+def calculate_synergies(target_data, acquirer_data):
+    """
+    Calcule les synergies financières potentielles
+    """
+    synergies = {}
+    
+    # Synergies de coûts
+    cost_synergies = {
+        'economies_echelle': target_data['coûts'] * 0.10,  # 10%
+        'rationalisation_effectif': target_data['salaires'] * 0.15,  # 15% des effectifs
+        'achats_groupes': target_data['achats'] * 0.05  # 5%
+    }
+    
+    # Synergies de revenus
+    revenue_synergies = {
+        'cross_selling': target_data['ca'] * 0.15,  # 15%
+        'premium_prix': target_data['ca'] * 0.07,  # 7%
+        'nouveaux_produits': target_data['ca'] * 0.10  # 10%
+    }
+    
+    # Investissements nécessaires
+    investments = {
+        'integration_systeme': target_data['ca'] * 0.03,  # 3%
+        'formation_equipe': target_data['salaires'] * 0.02,  # 2%
+        'technologie': target_data['investissements'] * 0.05  # 5%
+    }
+    
+    # Flux de synergies nets
+    synergies['annuel'] = sum(cost_synergies.values()) + sum(revenue_synergies.values()) - sum(investments.values())
+    synergies['valeur_actualisee'] = synergies['annuel'] * 0.15  # Perpétuité à 15%
+    
+    return {
+        'coûts': cost_synergies,
+        'revenus': revenue_synergies,
+        'investissements': investments,
+        'flux_net': synergies['annuel'],
+        'valeur': synergies['valeur_actualisee']
+    }
+
+# Calcul des synergies
+synergies = calculate_synergies(target_data, acquirer_data)
+```
+
+### Étape 7: Analyse des Risques Financiers
+
+```python
+def financial_risk_assessment(ratios, industry_data):
+    """
+    Évalue les risques financiers spécifiques
+    """
+    risk_score = 0
+    risks = []
+    
+    # Risques de liquidité
+    if ratios['ratio_liquidite_immediate'] < 0.5:
+        risk_score += 20
+        risks.append("Risque de liquidité - ratio < 0.5")
+    
+    # Risques d'endettement
+    if ratios['endettement'] > 4.0:
+        risk_score += 30
+        risks.append("Risque d'endettement élevé - >4x EBITDA")
+    
+    # Risques de croissance
+    if ratios['croissance_ca'] < 0.05:
+        risk_score += 15
+        risks.append("Croissance insuffisante - <5%")
+    
+    # Risques de rentabilité
+    if ratios['marge_ebitda'] < 0.10:
+        risk_score += 20
+        risks.append("Marge EBITDA faible - <10%")
+    
+    # Risques opérationnels
+    if ratios['capacite_autofinancement'] < 1.0:
+        risk_score += 15
+        risks.append("Autofinancement insuffisant - <100%")
+    
+    return {
+        'risk_score': min(risk_score, 100),
+        'risk_level': 'Élevé' if risk_score > 60 else 'Moyen' if risk_score > 30 else 'Faible',
+        'risks_identified': risks
+    }
+
+# Évaluation des risques
+risk_assessment = financial_risk_assessment(ratios, industry_data)
+```
+
+### Étape 8: Scoring Global et Recommandation
+
+```python
+def generate_final_recommendation(valuation, ratios, comparison, risk_assessment, synergies):
+    """
+    Génère une recommandation finale avec scoring détaillé
+    """
+    
+    # Calcul des scores
+    scores = {}
+    
+    # Score de valorisation (30%)
+    valuation_methods = ['ebitda_multiple', 'ca_multiple', 'net_multiple']
+    avg_valuation = np.mean([valuation[m] for m in valuation_methods if m in valuation])
+    scores['valuation'] = min(avg_valuation / 1000000 / 10, 1) * 30  # Normalisé sur 30
+    
+    # Score de santé financière (30%)
+    financial_health = (
+        min(ratios['marge_ebitda'] / 0.20, 1) * 0.3 +
+        min(max(0, (3 - ratios['endettement']) / 3), 1) * 0.3 +
+        min(ratios['croissance_ca'] / 0.15, 1) * 0.2 +
+        min(ratios['couverture_dettes'] / 5, 1) * 0.2
+    ) * 30
+    scores['financial_health'] = financial_health
+    
+    # Score de positionnement (20%)
+    competitive_score = sum(1 for comp in comparison.values() if comp['vs_avg'] > 0)
+    scores['competitive'] = min(competitive_score / len(comparison), 1) * 20
+    
+    # Score de risques (20%)
+    risk_component = max(0, (100 - risk_assessment['risk_score']) / 100)
+    scores['risk'] = risk_component * 20
+    
+    # Score des synergies (bonus)
+    if synergies['valeur'] > 0:
+        scores['synergies'] = min(synergies['valeur'] / 1000000 / 5, 1) * 10
+    else:
+        scores['synergies'] = 0
+    
+    # Score total
+    total_score = sum(scores.values())
+    
+    # Classement
+    if total_score >= 80:
+        recommendation = "ACHETER - Exceptionnel"
+        priority = "Immédiate"
+    elif total_score >= 60:
+        recommendation = "ACHETER - Très attractif"
+        priority = "Haute"
+    elif total_score >= 40:
+        recommendation = "SURVEILLER - Potentiel limité"
+        priority = "Moyenne"
+    else:
+        recommendation = "ÉVITER - Trop de risques"
+        priority = "Basse"
+    
+    return {
+        'scores': scores,
+        'total_score': total_score,
+        'recommendation': recommendation,
+        'priority': priority,
+        'synergies_value': synergies['valeur']
+    }
+
+# Génération de la recommandation finale
+final_recommendation = generate_final_recommendation(
+    valuation, ratios, comparison, risk_assessment, synergies
+)
+```
+
 ## Output du Script
 
 ### Dashboard d'Analyse Financière
@@ -307,20 +468,28 @@ DCF Analysis:
 - Valeur DCF: €4.2M
 - Valeur par action: €4.20
 
-=== RECOMMANDATION ===
+=== SYNERGIES ===
 
-Score Global: 8/10
-Recommandation: ACHETER - Forte valorisation avec bonne santé financière
-
-=== RISQUES CLÉS ===
-1. Dépendance clientèle (>30% CA)
-2. Innovation technologique à surveiller
-3. Concurrence agressive sur prix
-
-=== SYNERGIES ESTIMÉES ===
+Synergies Annuelles:
 - Coûts: €500K/an (efficacité opérationnelle)
 - Revenus: €750K/an (croissance cross-selling)
-- Valeur actisée synergies: €3.1M
+- Flux Net: €1.25M/an
+- Valeur Actualisée: €8.3M
+
+=== RISQUES ===
+
+Score de Risque: 35/100 (Faible)
+Risques Identifiés:
+- [ ] Dépendance clientèle >30% (contrôlée)
+- [ ] Innovation technologique (surveillance)
+- [ ] Concurrence agressive (monitoring)
+
+=== RECOMMANDATION FINALE ===
+
+Score Global: 82/100
+Recommandation: ACHETER - Exceptionnel
+Priorité: Immédiate
+Valeur Synergies: €8.3M
 ```
 
 ## Implementation Pratique
