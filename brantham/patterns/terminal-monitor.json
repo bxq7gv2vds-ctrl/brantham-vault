@@ -1,0 +1,29 @@
+{
+    "interval": 30,
+    "processes": [
+        "npm run dev",
+        "python manage.py runserver",
+        "yarn dev",
+        "go run main.go",
+        "docker-compose up",
+        "rails server"
+    ],
+    "services": ["redis", "postgres", "nginx", "docker"],
+    "auto_restart": true,
+    "extensions": {
+        "vscode": [
+            "ms-python.python",
+            "ms-vscode.vscode-json",
+            "bradlc.vscode-tailwindcss",
+            "esbenp.prettier-vscode",
+            "ms-vscode.vscode-eslint"
+        ],
+        "check_interval": 300,
+        "auto_update": true
+    },
+    "notifications": {
+        "enabled": true,
+        "desktop": true,
+        "log_file": "/tmp/terminal-monitor.log"
+    }
+}
