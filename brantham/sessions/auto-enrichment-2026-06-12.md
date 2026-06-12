@@ -33,3 +33,5 @@
   - ERREUR (voir /tmp/bp-rescore-err.log)
 - **Cycle termine** a 07:36
 ---
+
+## Deep Enrichment 09:06
