@@ -8,17 +8,26 @@
 
 ## Outils Essentiels
 
-### Nouveaux (Session 2026-06-12 — Volet Produit +13)
+### Nouveaux (Session 2026-06-12 — Volet Opérationnel +9)
+- [Valuation Defense Playbook](valuation_defense_playbook.md) — Price negotiation scripts (anchoring, objections, walkaway)
+- [Closing Day Comms Template](closing_day_comms_template.md) — Email suite Day 1 (team, clients, investors, partners)
+- [CIM Template](cim_confidential_information_memo.md) — 15-page executive summary (market, product, traction, financials)
+- [Seller Prep Checklist](seller_prep_checklist.md) — 90-day pre-launch audit (financials, legal, operations, M&A prep)
+- [Earnout Structures Guide](earnout_structures_guide.md) — Types, payout, escalators, negotiation tactics
+- [Warranty & Indemnity Risks](warranty_indemnity_risks.md) — Reps, caps, escrow mechanics, carve-outs
+- [Integration Risk Matrix](integration_risk_matrix.md) — Post-close risks (team, product, customer, financial, strategic)
+- [Buyer Decision Tree](buyer_decision_tree.md) — 4 paths (Strategic buyer, Investor, PE, Financial buyer)
+- [Troubleshooting Post-Close](troubleshooting_postclose.md) — 10 scenarios courants + escalation path
+
+### De Sessions Antérieures (Volet Produit)
 - [Executive Summary 1-page](00_EXECUTIVE_SUMMARY.md) — 5 Q critiques, order reading
 - [Pre-M&A Self-Audit](self_audit_checklist.md) — Identify landmines before soft shop
 - [BATNA Calculator](batna_calculator.md) — Walk-away price en 10 min
 - [Email Templates](email_templates.md) — Outreach, LOI, closing logistics
-- [Glossaire M&A 50 termes](glossaire_ma.md) — FR/EN, définitions concises
-- [DCF Calculator (Python)](dcf_calculator.py) — Multi-scenario, outputs JSON
-- [Deal Quick Scorecard](deal_quick_scorecard.md) — Score buyers en 5 min, prioritize
-- [Buyer Outreach Playbook](buyer_outreach_playbook.md) — Cold to LOI en 90j (sequences, angles, rejections)
-- [Integration 100-Day Brief](integration_100day_brief.md) — Post-close roadmap (team, produit, clients, opérations)
-- [DD Customer Concentration Risk](dd_customer_concentration_risk.md) — Buyer's deep-dive (churn, stickiness, contracts)
+- [Deal Quick Scorecard](deal_quick_scorecard.md) — Score buyers en 5 min
+- [Buyer Outreach Playbook](buyer_outreach_playbook.md) — Cold to LOI en 90j
+- [Integration 100-Day Brief](integration_100day_brief.md) — Post-close roadmap
+- [DD Customer Concentration Risk](dd_customer_concentration_risk.md) — Buyer's churn/stickiness deep-dive
 
 ### Nouveaux (Session 2026-06-12 — Volet Operationnel +13)
 **Préparation (T-3m):**
@@ -122,7 +131,36 @@ If stuck: team hiring is only option       → Acqui-hire
 ---
 
 ## Session Archives
-- **2026-06-12**: Executive summary, self-audit checklist, BATNA calculator, email templates, glossaire 50 termes, DCF Python script
+
+### Session 2026-06-12 — Production Sprint (15 Livrables)
+**Templates Prêts à l'Emploi:**
+- [LOI Template SaaS](template_loi_saas.md) — Structure complète + annotations négociation
+- [Information Memorandum 5-pager](information_memo_template.md) — Soft-shop ready
+- [Founder Retention Letter](founder_retention_letter_template.md) — Severance + equity + earnout
+- [NDA Seller-Friendly](nda_template_seller.md) — Standstill + protection IP
+- [Cap Table Template](cap_table_template.md) — Liquidation waterfall + scenarios
+
+**Outils Exécutables:**
+- [DCF Calculator Python](dcf_calculator_python.md) — Base/upside/downside en 3 min
+- [SaaS Multiples Benchmarks 2026](saas_multiples_benchmarks_2026.md) — EV/ARR par growth rate
+
+**Checklists Opérationnelles:**
+- [Data Room 60 Items](data_room_checklist_60items.md) — T1-T5 hiérarchisé
+- [Tech Diligence](tech_diligence_checklist.md) — Scorecard buyer risk
+- [Customer Concentration Risk](customer_concentration_risk.md) — Matrix + mitigation
+
+**Playbooks & Guidance:**
+- [Earnout Failure Playbook](earnout_failure_playbook.md) — Pourquoi 80% échouent + structures sûres
+- [Founder Q&A Script](founder_qa_script_presale.md) — 50+ réponses pré-écrites
+- [Soft Shop Playbook](soft_shop_playbook_5buyers.md) — 5 acheteurs parallèles en 30j
+- [Top 10 Founder Mistakes](founder_mistakes_top_10.md) — Erreurs critiques à éviter
+- [Advisor Selection & Fees](advisor_selection_fees.md) — Qui embaucher, coûts, fee models
+
+**Status:** 15 ressources produites en 60 min; prêtes pour soft-shop/LOI immédiate.
+
+### Sessions Antérieures
+- **2026-06-12 (Prior)**: Executive summary, self-audit checklist, BATNA calculator, email templates, glossaire 50 termes, DCF Python script
+- Earlier: Quickstart 90 jours, Playbooks existants
 
 ## Related Memories
 - [[lat_arb_bot_m_and_a]] — if LAT-ARB Bot is acquirable target
