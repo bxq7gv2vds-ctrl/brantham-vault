@@ -1,8 +1,9 @@
 ---
-name: term-sheet-tech-acquisition-template
-description: Template de term sheet adapté pour acquisition de croissance tech
-type: pattern
-date: 2026-06-12
+type: template
+deal_type: tech-acquisition-distressed
+created: 2026-06-12
+version: 2.0
+usage: Distressed/Micro-cap tech acquisitions
 ---
 
 # Term Sheet - Acquisition Tech (Croissance)
