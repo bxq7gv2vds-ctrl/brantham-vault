@@ -329,3 +329,4 @@ If you're uncomfortable with earnout, we can increase base price by [X%],
 but that increases your financial risk. Let's structure around confidence."
 ```
 ## Related
+## Related

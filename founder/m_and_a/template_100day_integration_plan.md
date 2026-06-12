@@ -168,3 +168,4 @@ If earnout is based on milestones (e.g., $500k if ARR > $1.5M by month 12):
 - [ ] Document any "force majeure" (things outside your control)
 - [ ] Have lawyer review milestone definitions (avoid disputes)
 ## Related
+## Related

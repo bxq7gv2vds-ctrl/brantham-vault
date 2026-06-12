@@ -437,3 +437,4 @@ Buyer:
 
 **Once decided:** Use template above (Equity Sale standard), modify for Asset Sale per legal counsel.
 ## Related
+## Related

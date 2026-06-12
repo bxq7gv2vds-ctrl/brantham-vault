@@ -200,3 +200,4 @@ Before you sign ANY deal:
 - [ ] Tax impact modeled (consult CPA)
 - [ ] Have a walk-away number (and stick to it)
 ## Related
+## Related

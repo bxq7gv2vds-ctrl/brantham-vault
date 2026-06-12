@@ -175,3 +175,4 @@ date: 2026-06-12
 | Culture | 5/10 | Known for reorg post-deal, 30% attrition moyenne |
 | **TOTAL** | **7.3 × 10 = 73/100** | Explore mais avec protections earnout |
 ## Related
+## Related

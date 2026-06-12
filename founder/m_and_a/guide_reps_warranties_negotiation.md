@@ -230,3 +230,4 @@ If buyer insists on long survival/high cap:
 - [ ] Ensure survival dates are reasonable (not indefinite)
 - [ ] Confirm indemnification CAP (don't accept "unlimited")
 ## Related
+## Related

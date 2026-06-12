@@ -92,3 +92,7 @@ Ce prompt est conçu pour générer des réponses potentiellement infinies qui n
 
 - [[_system/MOC-decisions]]
 - [[brantham/_MOC]]
+## Related
+
+- [[_system/MOC-decisions]]
+- [[brantham/_MOC]]

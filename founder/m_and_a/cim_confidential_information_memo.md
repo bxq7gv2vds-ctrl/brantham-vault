@@ -464,3 +464,4 @@ Pick the 10 most compelling facts about your company. Let those drive the CIM.
 
 **Use case**: Buyer says "send more detail" after first call → send this within 48 hours.
 ## Related
+## Related

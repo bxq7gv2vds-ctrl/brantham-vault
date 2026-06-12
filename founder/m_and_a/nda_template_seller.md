@@ -145,3 +145,4 @@ Disclosure of information does not grant Buyer any license or rights to Seller's
 - **Strategic buyer:** NDA in first email
 - **Follow-up conversations:** Reference NDA; assume it's in effect
 ## Related
+## Related

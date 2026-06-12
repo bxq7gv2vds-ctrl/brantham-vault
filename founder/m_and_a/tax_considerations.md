@@ -279,3 +279,4 @@ So: €50k in escrow during Y1
 **Bottom line:** You can save €20-50k in taxes with good structuring.
 Hire a specialist. ROI = 10:1.
 ## Related
+## Related

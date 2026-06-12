@@ -224,3 +224,4 @@ Use this checklist weekly:
 4. **Advisor review** — Have M&A counsel vet before upload (catches legal landmines)
 5. **Dry run** — Share with friendly investor for feedback; iterate before real buyer sees
 ## Related
+## Related

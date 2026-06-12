@@ -168,3 +168,4 @@ Vertical: fintech (+25%)     = 3.27 × 1.25 = 4.09x
 Final estimate: ~4.0x ARR
 ```
 ## Related
+## Related

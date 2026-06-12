@@ -261,3 +261,4 @@ For buyer to say "this was a good deal":
 
 **Use case**: New integration lead arrives day 1 → print this, execute this.
 ## Related
+## Related

@@ -199,3 +199,4 @@ Typique M&A SaaS <€2M : **65% cash + 15% holdback + 20% earnout**
 - Acheteur : protection (holdback) + optionnel croissance (earnout)
 - Deal : structure équilibrée, peu de friction
 ## Related
+## Related

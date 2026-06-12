@@ -93,3 +93,4 @@ Acheteur : _________________________  Date : ______
 - Faire valider par avocat local avant signature
 - Earnout doit être spécifique et mesurable (ex: "retient 85%+ clients 18 mois")
 ## Related
+## Related

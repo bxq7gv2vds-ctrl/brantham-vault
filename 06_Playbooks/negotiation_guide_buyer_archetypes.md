@@ -435,3 +435,4 @@ Earnout: N/A (ongoing ownership, not time-bound)
 - [ ] Brief your lawyer on archetype-specific risks
 - [ ] Do 1-2 mock negotiations with advisor/investor
 ## Related
+## Related

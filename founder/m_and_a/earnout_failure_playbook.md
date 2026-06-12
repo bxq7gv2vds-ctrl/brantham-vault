@@ -284,3 +284,4 @@ If buyer doesn't provide sales resources, earnout tied to engagement metrics ins
 - Make it independent of your employment
 - Front-load tranches (don't wait 24 months for payout)
 ## Related
+## Related

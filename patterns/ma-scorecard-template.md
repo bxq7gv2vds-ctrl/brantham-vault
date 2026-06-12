@@ -343,3 +343,7 @@ metadata:
 - [[ma-valuation-process]]
 - [[ma-antitrust-scenarios]]
 - [[ma-grid-comparatif]]
+## Related
+
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]

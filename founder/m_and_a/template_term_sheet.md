@@ -127,3 +127,4 @@ Si négative → vendeur paie rabais
 - Rétention client est clé : structure earnout autour
 - Réserver crédit fiscal/tax loss carryforward à négocier
 ## Related
+## Related

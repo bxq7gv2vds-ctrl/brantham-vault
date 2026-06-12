@@ -199,3 +199,4 @@ Your weaknesses: -[B]x
 - **<20% growth:** 1-4x (mature; profitability matters more)
 - **Your job:** Document the factors that justify the multiple you're asking for
 ## Related
+## Related
