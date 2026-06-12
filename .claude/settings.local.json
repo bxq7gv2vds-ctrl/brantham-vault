@@ -26,7 +26,8 @@
       "Bash(pkill -f \"node.*dev\")",
       "Bash(pkill -f \"python.*app\")",
       "Bash(pkill -f \"npm.*start\")",
-      "Bash(pkill -f \"yarn.*dev\")"
+      "Bash(pkill -f \"yarn.*dev\")",
+      "Bash(obsidian --version)"
     ]
   }
 }
