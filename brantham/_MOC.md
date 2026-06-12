@@ -29,6 +29,7 @@ Cabinet M&A AI — PME en difficulté, France. Client = **repreneur** (pas manda
 | Playbooks calls | [[brantham/playbooks/call-trame-visuelle-deal]] |
 | Formation distressed | [[brantham/mastery/_MOC]] |
 | Patterns techniques | [[brantham/patterns/teaser-patterns]] |
+| Infinite Q&A prompt | [[brantham/patterns/infinite-qna-prompt]] |
 
 ## Sous-systèmes
 
