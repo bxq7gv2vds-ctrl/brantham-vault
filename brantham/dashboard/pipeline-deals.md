@@ -3,13 +3,13 @@
 ## 📊 Vue d'Ensemble Pipeline
 
 ### Stats Globales
-- **Total Deals Actifs**: [ ] 
-- **Valeur Totale**: € [ ]
+- **Total Deals Actifs**: 12 deals 
+- **Valeur Totale**: € 8.5M
 - **Stages Pipeline**: 
-  - Screening: [ ] deals
-  - Due Diligence: [ ] deals  
-  - Négociation: [ ] deals
-  - Clôture: [ ] deals
+  - Screening: 6 deals
+  - Due Diligence: 3 deals  
+  - Négociation: 2 deals
+  - Clôture: 1 deal
 
 ### Performance Pipeline
 - **Taux Conversion Screening → DD**: % [ ]
