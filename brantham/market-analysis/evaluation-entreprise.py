@@ -232,6 +232,7 @@ class ModeleEvaluationEntreprise:
 
         return {
             'methode': 'DCF',
+            'valeur': max(0, valeur_equite),
             'valeur_entreprise': valeur_entreprise,
             'valeur_equite': max(0, valeur_equite),
             'fcf': fcf,
