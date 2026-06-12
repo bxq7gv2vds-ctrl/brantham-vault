@@ -4,6 +4,7 @@
 
 | Deal | Date | Recommandation | Statut |
 |------|------|---------------|--------|
+| [[2026-06-12-meca-theil]] | 2026-06-12 | RISQUEE MAIS POSSIBLE | actif |
 | [[bma-multi-loisirs-distribution-mld]] | 2026-02-19 | INTERESSANTE | actif |
 | [[bma-artemis]] | 2026-02-19 | RISQUEE MAIS POSSIBLE | clos (deadline) |
 | [[aj2m-gab-france-retail-scotch-soda]] | 2026-02-19 | RISQUEE MAIS POSSIBLE | clos (deadline) |
