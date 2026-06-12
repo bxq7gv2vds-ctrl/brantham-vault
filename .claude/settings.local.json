@@ -17,7 +17,12 @@
       "mcp__qmd-vault__multi_get",
       "Bash(python3 /Users/paul/vault/_system/vault-health.py --report vault/reports/health-2026-06-12.md)",
       "Bash(curl -s http://localhost:3000/api/shared/OPPORTUNITIES.json)",
-      "Bash(python3 /Users/paul/vault/_system/vault-health.py)"
+      "Bash(python3 /Users/paul/vault/_system/vault-health.py)",
+      "Bash(lsof -ti:8000)",
+      "Bash(xargs kill -9)",
+      "Bash(lsof -ti:3000)",
+      "Bash(lsof -ti:3001)",
+      "Bash(lsof -ti:5173)"
     ]
   }
 }
