@@ -11,9 +11,36 @@ metadata:
 
 # Script d'Analyse Financière Pré-M&A
 
-## Synthèse Exécutive
+## Vue d'entreprise
 
-Script structuré pour évaluer la santé financière et la valorisation des cibles M&A. Combine multiples méthodes de valorisation et analyse financière comparative pour une évaluation robuste et décision éclairée.
+Script structuré pour l'analyse financière pré-M&A couvrant due diligence, valorisation, et structuration de deal. Optimisé pour une exécution rapide avec résultats actionnables.
+
+## Workflow Complet
+
+### Phase 1 : Collecte et Validation des Données (30 min)
+```markdown
+## Checklist Collecte Données Financières
+### Données Historiques (3-5 ans)
+- [ ] Comptes sociaux annuels (bilan, compte de résultat, annexe)
+- [ ] Comptes consolidés si applicable
+- [ ] Etat des flux de trésorerie (tableau de flux)
+- [ ] Prévisions financières (business plan)
+- [ ] Tableaux de bord de performance mensuelle
+
+### Données Opérationnelles
+- [ ] Chiffre d'affaires par ligne de produit/segment
+- [ : ] Marge brute par segment (>10% détail)
+- [ ] Coûts fixes vs variables (détail par nature)
+- [ ] Soldes intermédiaires de gestion (SIG)
+- [ ] Indicateurs de performance opérationnelle (KPIs)
+
+### Données de Dette
+- [ ] Tableau d'amortissement des dettes
+- [ ] Contrats de financement existants
+- [ ] Covenants financiers (ratio leverage, coverage)
+- [ ] Échéances de remboursement
+- [ ] Garanties et collatéraux
+```
 
 ## Script Complet d'Analyse Financière
 
