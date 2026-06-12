@@ -1,11 +1,12 @@
 ---
-name: Script d'Analyse Financière Pré-M&A
-description: Script automatisé pour l'analyse financière pré-acquisition avec calculs de valorisation et indicateurs clés
+name: script-analyse-financiere-ma
+description: Script automatisé d'analyse financière pré-M&A avec calculs de valorisation, synergies et rentabilité
 metadata:
   type: pattern
-  created: 2026-06-12
-  category: ma-analyse
-  tags: [ma, financier, valuation, script]
+  category: ma
+  date: 2024-06-12
+  tags: [ma, finance, valuation, analyse, script]
+  author: Paul Roulleau
 ---
 
 # Script d'Analyse Financière Pré-M&A
