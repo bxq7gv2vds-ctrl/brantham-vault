@@ -1,12 +1,45 @@
 # M&A — Master Index
 
+## ⚡ QUICK START (pour aujourd'hui)
+1. [Executive Summary 1-page](00_EXECUTIVE_SUMMARY.md) — Lire en 5 min
+2. [Pre-M&A Self-Audit](self_audit_checklist.md) — Run checklist (15 min)
+3. [BATNA Calculator](batna_calculator.md) — Définissez walk-away (10 min)
+4. [Quickstart 90 jours](quickstart_90_days.md) — Lancez soft shop
+
 ## Outils Essentiels
 
-### Nouveaux (Session 2026-06-12)
+### Nouveaux (Session 2026-06-12 — Volet Produit +13)
+- [Executive Summary 1-page](00_EXECUTIVE_SUMMARY.md) — 5 Q critiques, order reading
+- [Pre-M&A Self-Audit](self_audit_checklist.md) — Identify landmines before soft shop
+- [BATNA Calculator](batna_calculator.md) — Walk-away price en 10 min
+- [Email Templates](email_templates.md) — Outreach, LOI, closing logistics
+- [Glossaire M&A 50 termes](glossaire_ma.md) — FR/EN, définitions concises
+- [DCF Calculator (Python)](dcf_calculator.py) — Multi-scenario, outputs JSON
 - [Deal Quick Scorecard](deal_quick_scorecard.md) — Score buyers en 5 min, prioritize
 - [Buyer Outreach Playbook](buyer_outreach_playbook.md) — Cold to LOI en 90j (sequences, angles, rejections)
 - [Integration 100-Day Brief](integration_100day_brief.md) — Post-close roadmap (team, produit, clients, opérations)
 - [DD Customer Concentration Risk](dd_customer_concentration_risk.md) — Buyer's deep-dive (churn, stickiness, contracts)
+
+### Nouveaux (Session 2026-06-12 — Volet Operationnel +13)
+**Préparation (T-3m):**
+- [Cost of Independence Calculator](calculator_cost_of_independence.py) — Comparez rester indépendant vs vendre (Python)
+- [BATNA Card Template](template_batna_card.md) — 1-pager: quantifiez votre walk-away price
+- [Narrative Building Guide](guide_narrative_building_saas.md) — Construire la story que les acheteurs veulent
+- [Soft Shop Prep Checklist](checklist_soft_shop_prep.md) — 15 items avant le 1er contact
+
+**Valuation (T-2m):**
+- [Earnout Expected Value Script](script_earnout_expected_value.py) — Vraie valeur d'un earnout (Python)
+- [SaaS Valuation Benchmarks 2026](benchmarks_saas_valuation_2026.md) — Multiples par ARR/croissance/catégorie
+- [Anchoring & Pricing Guide](guide_anchoring_pricing_strategy.md) — L'art du "first number" en négociation
+
+**Due Diligence (T+0 à T+8w):**
+- [Financial DD Response Checklist](checklist_dd_financial_response.md) — 35 items: préparez vos finances
+- [Reps & Warranties Guide](guide_reps_warranties_negotiation.md) — Négociez escrow sans tout sacrifier
+- [Buyer Red Flags Matrix](matrix_buyer_red_flags.md) — Red flags par type (Strategic/PE/VC/Acqui-hire)
+
+**Post-M&A (T+close):**
+- [100-Day Integration Template](template_100day_integration_plan.md) — Jour 1 à jour 100: roadmap détaillé
+- [Acqui-Hire Playbook](guide_acqui_hire_playbook.md) — Quand buyer veut l'équipe, pas le produit
 
 ### Fondations Existantes
 - [Checklist Due Diligence Acheteur](checklist_due_diligence_acquereur.md) — 40-item scan avant acquisition
@@ -89,7 +122,7 @@ If stuck: team hiring is only option       → Acqui-hire
 ---
 
 ## Session Archives
-- None yet (this is first session)
+- **2026-06-12**: Executive summary, self-audit checklist, BATNA calculator, email templates, glossaire 50 termes, DCF Python script
 
 ## Related Memories
 - [[lat_arb_bot_m_and_a]] — if LAT-ARB Bot is acquirable target
