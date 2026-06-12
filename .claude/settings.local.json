@@ -10,7 +10,10 @@
       "mcp__qmd-vault__query",
       "Bash(qmd status *)",
       "Bash(qmd query *)",
-      "WebSearch"
+      "WebSearch",
+      "mcp__qmd-vault__get",
+      "Read(//Users/paul/Downloads/brantham-pipeline/**)",
+      "Bash(bash start.sh)"
     ]
   }
 }
