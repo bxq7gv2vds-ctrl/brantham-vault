@@ -252,3 +252,4 @@ D60 : Data room access expires OR deal closes
 6. **Be responsive** — buyer asks something? Answer in <24h = trust signal
 ## Related
 ## Related
+## Related

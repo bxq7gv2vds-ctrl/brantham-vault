@@ -162,3 +162,4 @@ Others:        $0.5M (17%)
 **Fallback:** Reduce earnout, extend timeline, add concentration carve-out (if customer churns, earnout adjusts).
 ## Related
 ## Related
+## Related

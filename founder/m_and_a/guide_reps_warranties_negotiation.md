@@ -231,3 +231,4 @@ If buyer insists on long survival/high cap:
 - [ ] Confirm indemnification CAP (don't accept "unlimited")
 ## Related
 ## Related
+## Related

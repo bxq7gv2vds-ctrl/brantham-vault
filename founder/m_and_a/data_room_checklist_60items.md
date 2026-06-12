@@ -225,3 +225,4 @@ Use this checklist weekly:
 5. **Dry run** — Share with friendly investor for feedback; iterate before real buyer sees
 ## Related
 ## Related
+## Related

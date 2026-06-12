@@ -377,3 +377,4 @@ $13M cash + $5M earnout:
 **Use case**: Before LOI signing, confirm earnout terms make sense.
 ## Related
 ## Related
+## Related

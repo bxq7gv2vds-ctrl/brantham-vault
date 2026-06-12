@@ -128,3 +128,4 @@ Si négative → vendeur paie rabais
 - Réserver crédit fiscal/tax loss carryforward à négocier
 ## Related
 ## Related
+## Related

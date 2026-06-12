@@ -531,3 +531,4 @@ Special Items (longer survival):
 Before LOI: Share this guide with your lawyer. Identify your key risks, prepare defenses. Before signing: Confirm escrow amount, cap, survival periods are reasonable.
 ## Related
 ## Related
+## Related

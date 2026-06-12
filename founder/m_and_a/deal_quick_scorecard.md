@@ -74,3 +74,4 @@ Copy this table, fill, score each buyer/deal in 2-3 min. Threshold: 14+ = worth 
 **Use case**: Pinboard 15 inbound buyers in 60 min → prioritize call list.
 ## Related
 ## Related
+## Related

@@ -292,3 +292,4 @@ RESULT: Your optimal buyer profile = PATH [1/2/3/4]
 **Print this page, discuss with co-founders, pick your path.**
 ## Related
 ## Related
+## Related

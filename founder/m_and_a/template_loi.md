@@ -94,3 +94,4 @@ Acheteur : _________________________  Date : ______
 - Earnout doit être spécifique et mesurable (ex: "retient 85%+ clients 18 mois")
 ## Related
 ## Related
+## Related

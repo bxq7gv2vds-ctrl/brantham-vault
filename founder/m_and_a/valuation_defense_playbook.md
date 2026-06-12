@@ -286,3 +286,4 @@ If those are right, I'm ready to sign LOI next week."
 **Use case**: Founder + board prep before LOI call.
 ## Related
 ## Related
+## Related

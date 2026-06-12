@@ -282,3 +282,4 @@ Don't hope things will work out post-close. Discuss risks openly with buyer, doc
 **Use case**: Week 1 of diligence, share this with buyer to start risk conversation. "Here are the integration risks we see. How do we mitigate together?"
 ## Related
 ## Related
+## Related
