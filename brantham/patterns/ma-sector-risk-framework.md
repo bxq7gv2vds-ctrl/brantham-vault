@@ -261,6 +261,9 @@ Formule : Σ (Pondération × Score Critère)
 - Signaux de marché négatifs
 
 ## Related
-[[_system/MOC-patterns]]
-[[brantham/_MOC]]
-[[_system/MOC-decisions]]
+
+- [[_system/MOC-patterns]] — Patterns techniques et méthodologiques
+- [[brantham/_MOC]] — Contexte Brantham Partners  
+- [[brantham/sessions/auto-health-2026-06-12]] — Session de travail actuelle
+- [[brantham/patterns/due-diligence-checklist]] — Checklist due diligence complète
+- [[brantham/patterns/scoring-cibles-ma]] — Système d'évaluation des cibles M&A
