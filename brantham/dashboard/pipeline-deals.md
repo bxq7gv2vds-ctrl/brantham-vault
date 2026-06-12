@@ -24,9 +24,10 @@
 ### 🔍 Screening Phase
 | Deal | Secteur | Valeur | Probabilité | Next Step |
 |------|---------|--------|-------------|-----------|
-| [ ] | Tech/SaaS | € [ ] | % [ ] | DD → [ ] |
-| [ ] | Santé | € [ ] | % [ ] | Rejeter → [ ] |
-| [ ] | Industrie | € [ ] | % [ ] | Plus d'info → [ ] |
+| API TECH | Tech/SaaS | € 2.1M | 75% | DD → 2026-06-20 |
+| BRANDT FRANCE | Industrie | € 3.2M | 65% | DD → 2026-06-25 |
+| TRANSPORTS BALLET | Services | € 1.8M | 60% | DD → 2026-06-30 |
+| ADIAMAS | Tech/SaaS | € 1.4M | 45% | Plus d'info → 2026-06-18 |
 
 ### 🔍 Due Diligence Phase  
 | Deal | SIREN | Progress DD | Risques Clés | Date DD |
