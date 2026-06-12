@@ -14,7 +14,10 @@
       "mcp__qmd-vault__get",
       "Read(//Users/paul/Downloads/brantham-pipeline/**)",
       "Bash(bash start.sh)",
-      "mcp__qmd-vault__multi_get"
+      "mcp__qmd-vault__multi_get",
+      "Bash(python3 /Users/paul/vault/_system/vault-health.py --report vault/reports/health-2026-06-12.md)",
+      "Bash(curl -s http://localhost:3000/api/shared/OPPORTUNITIES.json)",
+      "Bash(python3 /Users/paul/vault/_system/vault-health.py)"
     ]
   }
 }
