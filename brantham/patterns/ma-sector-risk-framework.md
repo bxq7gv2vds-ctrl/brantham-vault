@@ -1,202 +1,202 @@
 # Framework de Risques M&A Sectoriels
 
-## Vue d'Ensemble
-
-Framework d'évaluation et de mitigation des risques spécifiques par secteur pour les transactions M&A. Structuré en 5 dimensions sectorielles avec pondération adaptative.
-
-## Matrice de Risques Sectoriels
-
-### 1. Technologie & Digital
-**Poids global: 25%**
-
-| Sous-secteur | Risques Clés | Indicateurs d'Alerte | Méthodes de Mitigation |
-|---|---|---|---|
-| SaaS | Churn client > 5%/mois | Taux de rétention < 90% | Contrats à long terme, diversification client |
-| E-commerce | Conversion < 1.5% | Taux d'abandon panier > 70% | Optimisation UX, marketing ciblé |
-| Fintech | Régulation évolutive | Changements réglementaires majeurs | Compliance proactive, lobby réglementaire |
-| Deep Tech | Obsolescence technologique | R&D < 15% du CA | IP portfolio fort, R&D continue |
-
-**Monitoring Mensuel:**
-- Score de risque sectoriel (1-10)
-- Évolution des tendances réglementaires
-- Innovation disruptive potentielle
-- Concentration client
-
-### 2. Santé & MedTech
-**Poids global: 20%**
-
-| Sous-secteur | Risques Clés | Indicateurs d'Alerte | Méthodes de Mitigation |
-|---|---|---|---|
-| Pharma | Brevets expirants | Pipeline R&D faible | Portefeuille brevets équilibré |
-| Dispositifs médicaux | Certification FDA/CE | Retractions réglementaires | Compliance qualité ISO 13485 |
-| Services hospitaliers | Sur-régulation | Coûts compliance > 8% CA | Digitalisation des processus |
-| Biotech | Essais cliniques ratés | Taux échec > 70% | Diversification thérapeutique |
-
-**Monitoring Trimestriel:**
-- Évolution de la réglementation santé
-- Actualités juridiques sectorielles
-- Prix des actifs similaires
-- Tendances démographiques impactantes
-
-### 3. Énergie & Transition Écologique
-**Poids global: 20%**
-
-| Sous-secteur | Risques Clés | Indicateurs d'Alerte | Méthodes de Mitigation |
-|---|---|---|---|
-| Renouvelables | Subventions décroissantes | ROI projet < 8% | Diversification géographique |
-| Électricité | Volatilité prix énergie | Coût énergie > 40% CA | Contrats à terme, efficacité énergétique |
-| Hydrogène | Infrastructure immature | Investissements > CA | Partenariats publics, normes volontaires |
-| Carbone | Crise climatique | Prix carbone non couvert | Compensation carbone anticipée |
-
-**Monitoring Hebdomadaire:**
-- Prix des matières premières
-- Actualités climatiques
-- Réglementation ESG
-- Investissements verts
-
-### 4. Consommation & Retail
-**Poids global: 20%**
-
-| Sous-secteur | Risques Clés | Indicateurs d'Alerte | Méthodes de Mitigation |
-|---|---|---|---|
-| Distribution | Déflation persistante | Marge brute < 25% | Optimisation logistique, private label |
-| Luxe | Crise de confiance | Image marque dégradée | Storytelling fort, expérience client |
-| Agroalimentaire | Inflation matières | Coût matières > 50% CA | Contrats long terme, innovation produit |
-| Tourisme | Fragilité saisonnière | Occupations < 70% | Diversification activités |
-
-**Monitoring Quotidien:**
-- Indicateurs de conjoncture
-- Sentiment consommateur
-- Tendances de consommation
-- Performance concurrentielle
-
-### 5. Industrie & Services
-**Poids global: 15%**
-
-| Sous-secteur | Risques Clés | Indicateurs d'Alerte | Méthodes de Mitigation |
-|---|---|---|---|
-| Manufacturing | Coût main d'œuvre | Salaires > 35% CA | Automatisation, localisation |
-| BTP | Retards projets | Délai > 120% prévu | Digitalisation chantier, prévisions |
-| Transport | Carburant volatil | Coût énergie > 30% CA | Flotte électrique, optimisation |
-| Consulting | Pression prix | Taux journalier décroissant | Spécialisation, valeur ajoutée |
-
-**Monitoring Hebdomadaire:**
-- Coûts de production
-- Utilisation capacité
-- Prix des services
-- Indicateurs conjoncturels
-
-## Méthodologie d'Évaluation
-
-### Score de Risque Sectoriel (1-10)
-```
-Score = Σ (Sous-secteur_Risque × Poids × Pondération_Contextuelle)
-```
-
-**Facteurs de Contexte:**
-- Macroéconomique (+0 à +2)
-- Réglementaire (+0 à +3)
-- Technologique (+0 à +2)
-- Concurrentiel (+0 à +2)
-
-### Dashboard de Surveillance
-- **Rouge** (>7): Action immédiate requise
-- **Orange** (4-7): Surveillance active
-- **Vert** (<4): Monitoring normal
-
-## Plan d'Action par Niveau de Risque
-
-### Risque Élevé (>7)
-- Révision stratégique immédiate
-- Due diligence approfondie sectorielle
-- Plan B activé
-- Reporting hebdomadaire au comité
-
-### Risque Modéré (4-7)
-- Monitoring renforcé
-- Préparation de plan de mitigation
-- Due diligence ciblée
-- Reporting mensuel
-
-### Risque Faible (<4)
-- Monitoring standard
-- Revue trimestrielle
-- Documentation mise à jour
-
-## Outils d'Analyse
-
-### Analyse PESTEL Sectorielle
-- **Politique**: Réglementation spécifique
-- **Économique**: Indicateurs macro sectoriels
-- **Social**: Tendances comportementales
-- **Technologique**: Innovation disruptive
-- **Environnemental**: Impact ESG
-- **Légal**: Cadre juridique sectoriel
-
-### Analyse des 5 Forces de Porter par Secteur
-- Pouvoir de négociation clients/fournisseurs
-- Menaces de nouveaux entrants
-- Intensité concurrentielle
-- Substituts potentiels
-
-## Checklists Sectorielles
-
-### Checklist Tech Due Diligence
-- [ ] Audit de sécurité des données
-- [ ] Évaluation du pipeline produit
-- [ ] Analyse de l'infrastructure cloud
-- [ ] Vérification des brevets et IP
-- [ ] Évaluation de l'équipe technique
-
-### Checklist Santé Due Diligence
-- [ ] Conformité réglementaire santé
-- [ ] Portefeuille de patients/sécurité sociale
-- [ ] Certification qualité ISO
-- [ ] Pipeline thérapeutique
-- [ ] Évaluation des médicaments/appareils
-
-### Checklist Énergie Due Diligence
-- [ ] Permis environnementaux
-- [ ] Contrats d'approvisionnement
-- [ ] Mix énergétique
-- [ ] Conformité carbone
-- [ ] Risques climatiques
-
-## Métriques Clés par Secteur
-
-### Tech
-- LTV:CAC ratio > 3
-- Monthly Recurring Revenue (MRR)
-- Customer Acquisition Cost (CAC)
-- Churn rate < 5%
-
-### Santé
-- Taux de rétention patients
-- Coût d'acquisition client (CAC)
-- Valeur vie patient (LTV)
-- ROI R&D
-
-### Énergie
-- Levelized Cost of Energy (LCOE)
-- Capacity Factor
-- Emissions CO₂/kWh
-- Subventions per MW
-
-## Prochaines Étapes
-
-1. **Phase 1**: Évaluation sectorielle de la cible cible
-2. **Phase 2**: Deep dive due diligence sectorielle
-3. **Phase 3**: Plan de mitigation risques
-4. **Phase 4**: Monitoring continu post-acquisition
-
-## Liens Obsidian
-
-- [[_system/MOC-patterns]]
-- [[_system/MOC-bugs]]
-- [[brantham/_MOC]]
-- [[ma-risk-assessment]]
-- [[due-diligence-checklist]]
+## Description
+Framework d'évaluation et de mitigation des risques spécifiques par secteur d'activité pour les opérations M&A. Permet d'identifier les risques critiques avant la due diligence et de mettre en place des plans de mitigation adaptés.
 
 ---
 
-*Ce framework est mis à jour trimestriellement pour refléter l'évolution réglementaire et technologique des secteurs.*
+## Matrice de Risques Sectoriels
+
+### Technologie & Digital
+| Risque | Probabilité | Impact | Mitigation |
+|--------|-------------|---------|------------|
+| Obsolescence technologique | Élevée | Critique | Audit tech stack, due diligence R&D |
+| Pertente de talents clés | Élevée | Élevé | Rétention bonus, clauses non-concurrence |
+| Violation de brevets | Moyenne | Critique | Audit propriété intellectuelle |
+| Cybersécurité | Élevée | Élevé | Pen test, audit sécurité des systèmes |
+
+---
+
+### Santé & Pharma
+| Risque | Probabilité | Impact | Mitigation |
+|--------|-------------|---------|------------|
+| Approbation réglementaire | Moyenne | Critique | Suivi procédures réglementaires |
+| Risques médico-légaux | Faible | Critique | Audit historique des litiges |
+| Dépendance fournisseurs | Élevée | Élevé | Audit chaîne d'approvisionnement |
+| Valeur des actifs intangibles | Moyenne | Élevé | Évaluation médicale, brevets |
+
+---
+
+### Services & Consulting
+| Risque | Probabilité | Impact | Mitigation |
+|--------|-------------|---------|------------|
+| Dépendance clients clés | Élevée | Élevé | Diversification clientèle |
+| Perte de know-how | Moyenne | Élevé | Documentation des processus |
+| Contrats à long terme | Faible | Moyen | Audit contrats clients |
+| Cyclicité économique | Moyenne | Élevé | Modélisation scénarios |
+
+---
+
+### Industrie & Manufacturing
+| Risque | Probabilité | Impact | Mitigation |
+|--------|-------------|---------|------------|
+| Conformité environnementale | Élevée | Élevé | Audit réglementaire ESG |
+| Sécurité des sites | Élevée | Critique | Audit sécurité, conformité |
+| Dépendance fournisseurs | Élevée | Élevé | Audit supply chain |
+| Actifs physiques | Moyenne | Élevé | Inspection technique, dépréciation |
+
+---
+
+## Indicateurs de Risques Clés
+
+### Indicateurs Qualitatifs
+- Score de maturité réglementaire (0-10)
+- Taux de rotation des employés sectoriel
+- Nombre d'incidents de conformité sectoriels
+- Positionnement concurrentiel
+
+### Indicateurs Quantitatifs
+- Ratio d'endettement sectoriel moyen
+- Marge EBITDA sectorielle
+- ROI moyen des investissements
+- Durée moyenne des contrats
+
+---
+
+## Processus d'Évaluation des Risques
+
+### Phase 1 : Identification
+- Benchmark sectoriel
+- Analyse des 3 dernières transactions
+- Interview de spécialistes sectoriels
+- Audit réglementaire complet
+
+### Phase 2 : Quantification
+- Modélisation des scénarios de risque
+- Calcul du VaR (Value at Risk)
+- Détermination des provisions nécessaires
+- Évaluation de la valeur put option
+
+### Phase 3 : Mitigation
+- Plan d'adaptation opérationnelle
+- Structure juridique optimale
+- Mécanismes de paiement adaptés
+- Échéancier de transition
+
+---
+
+## Checklists Sectorielles
+
+### Due Diligence Spécifique
+- **Tech :** Audit de la stack, brevets, code source, documentation technique
+- **Santé :** Approbations ANSM/EMA, essais cliniques, contr hôpitaux
+- **Services :** Contrats clients, clauses de non-concurrence, portefeuille clients
+- **Industrie :** Permis d'exploiter, normes ISO, stock produit en transit
+
+### Points de Vigilance Juridique
+- **Licences sectorielles** : vérifier les autorisations d'exercice
+- **Droits de propriété** : brevets, marques, logiciels
+- **Responsabilité future** : passifs environnementaux, produits défectueux
+- **Contrats clients** : clauses de résiliation, pénalités
+
+---
+
+## Score de Risque Sectoriel
+
+### Méthodologie de Calcul
+```
+Risque Global = Σ (Risque × Pondération)
+
+Pondérations :
+- Stratégique : 25%
+- Financier : 20%
+- Réglementaire : 30%
+- Opérationnel : 15%
+- RH : 10%
+```
+
+### Classes de Risque
+- **Faible (0-3.5)** : Transaction standard, mitigations standard
+- **Moyen (3.5-6.5)** : Exigences contractuelles renforcées
+- **Élevé (6.5-8.5)** : Structure transactionnelle complexe
+- **Critique (>8.5)** : À revoir ou abandonner
+
+---
+
+## Dashboard de Surveillance
+
+### Indicateurs en Temps Réel
+- Évolution de la réglementation sectorielle
+- Performance comparée des acteurs
+- Risques systémiques du marché
+- Opportunités sectorielles émergentes
+
+### Alertes Automatisées
+- Changements réglementaires impactants
+- Anomalies financières sectorielles
+- Rumeurs de transactions majeures
+- Signaux de saturation du marché
+
+---
+
+## Études de Cas Sectorielles
+
+### Tech Startup - Acquisition by PE
+**Risques identifiés :**
+- Dépendance du fondateur
+- Technologie non éprouvée
+- Marché en évolution rapide
+
+**Mitigations :**
+- Clause de non-concurrence 3 ans
+- Earn-out basé sur milestones techniques
+- équipe d'intégration dédiée
+
+### Cabinet Médical - Fusion
+**Risques identifiés :**
+- Responsabilité professionnelle
+- Cession de clientèle encadrée
+- Réglementation stricte
+
+**Mitigations :**
+- Assurance responsabilité étendue
+- Période de transition 12 mois
+- Clauses de conformité continue
+
+---
+
+## Ressources et Outils
+
+### Bases de Données
+- **ORBIS** : Données financières sectorielles
+- **LexisNexis** : Réglementation sectorielle
+- **Dun & Bradstreet** : Risques fournisseurs
+- **Factiva** : Actualité sectorielle
+
+### Modèles de Contrats
+- Clauses spécifiques par secteur
+- Mécanismes d'ajustement de prix
+- Garanties sectorielles
+- Exclusions de responsabilité
+
+### Expertises Externes
+- Consultants sectoriels spécialisés
+- Avocats spécialisés réglementation
+- Experts techniques indépendants
+- Cabinets d'audit sectoriels
+
+---
+
+## Prochaines Étapes
+
+1. **Pré-évaluation** : Appliquer le framework à la transaction cible
+2. **Due Diligence ciblée** : Profondeur des checks selon les risques identifiés
+3. **Structure adaptée** : Négociation des termes en fonction du risque
+4. **Post-intégration** : Surveillance continue des indicateurs de risque
+
+## Related
+- [[brantham/_MOC]]
+- [[_system/MOC-patterns]]
+- [[scoring-cibles-ma]]
+- [[due-diligence-checklist]]
+- [[ma-synergy-analysis-model]]
