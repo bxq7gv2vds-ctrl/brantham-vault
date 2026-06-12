@@ -27,7 +27,8 @@
       "Bash(pkill -f \"python.*app\")",
       "Bash(pkill -f \"npm.*start\")",
       "Bash(pkill -f \"yarn.*dev\")",
-      "Bash(obsidian --version)"
+      "Bash(obsidian --version)",
+      "Bash(python3 -m http.server 8000 --directory ./)"
     ]
   }
 }
