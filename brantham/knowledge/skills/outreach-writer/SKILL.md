@@ -45,3 +45,4 @@ Utiliser cette skill pour rediger emails d'approche, relances, introductions, de
 - Ne jamais inclure donnees sensibles sans validation.
 ## Related
 ## Related
+## Related

@@ -171,4 +171,4 @@ Une offre rentable Day One doit probablement :
 Go analyse complète, mais uniquement avec une thèse de reprise partielle Calais. No-go sur reprise intégrale 44 salariés sans preuve d'un CA annualisé supérieur à 4,5 MEUR et d'une marge brute réellement encaissable.
 
 La bonne offre doit être construite comme une sauvegarde du coeur industriel, pas comme une continuation de la structure actuelle.
-
+## Related

@@ -9,3 +9,8 @@
   - ERREUR (voir /tmp/bp-rescore-err.log)
 - **Cycle termine** a 14:51
 ---
+## Related
+
+- [[brantham/_MOC]]
+- [[founder/daily/2026-06-05-auto-brief.md|Daily — 2026-06-05]]
+- [[website/_MOC]]

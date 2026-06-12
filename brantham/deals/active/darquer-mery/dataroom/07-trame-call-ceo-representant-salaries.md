@@ -216,4 +216,4 @@ Et décider :
 3. Quelles sont les 5 personnes qu'il serait catastrophique de perdre ?
 4. Quelles sont les 5 dépenses à couper immédiatement ?
 5. Quelle est la condition numéro 1 pour que Darquer survive ?
-
+## Related

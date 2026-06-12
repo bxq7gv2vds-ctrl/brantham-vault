@@ -227,3 +227,7 @@ Verdict final attendu :
 ## 12. Phrase de travail
 
 "Je ne cherche pas combien la société valait hier. Je cherche quel périmètre, repris libre de passif, peut produire du cash demain sans refaire les erreurs qui l'ont mise en procédure."
+## Related
+
+- [[_system/MOC-patterns]]
+- [[brantham/_MOC]]

@@ -9,3 +9,8 @@
   - OK
 - **Cycle termine** a 14:56
 ---
+## Related
+
+- [[brantham/_MOC]]
+- [[founder/daily/2026-05-21-auto-brief.md|Daily — 2026-05-21]]
+- [[website/_MOC]]

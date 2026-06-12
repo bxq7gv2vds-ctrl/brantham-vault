@@ -112,3 +112,4 @@ Fichier : `post-3-pyramide-creanciers-lp.html`.
 - [ ] S'assurer que la simplification ne génère pas de polémique chez les avocats restructuring (Stehlin, Pelletier, etc.).
 ## Related
 ## Related
+## Related

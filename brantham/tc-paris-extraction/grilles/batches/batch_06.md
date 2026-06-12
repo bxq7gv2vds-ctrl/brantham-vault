@@ -75,3 +75,4 @@ Aucun des 5 dossiers ne figure dans `gagnants-tribunal.md` (qui couvre 11 dossie
 22 grilles JSON produites pour 5 dossiers (06, 08, 17, 23, 28), 17 offres au total. CSV pré-extraits couvrent ~85% du contenu ; PDFs SSH lus en direct pour reconstituer 3 versions du repreneur Corentin KY (CSV n'en référençait qu'1). 3 PDFs MUVICO >10MB non extraits (confidence `partial_pdf_only`). Aucun gagnant connu pour ces 5 dossiers (tous en attente). Anomalies notées : doublons MD5 HAWKSWELL et SSH, PDFs lourds non lus pour PRIMEL, offre 4 PRIMEL non typée. Champs prioritaires renseignés à 95%+ sauf volet social (non-applicable aux dossiers immo).
 ## Related
 ## Related
+## Related

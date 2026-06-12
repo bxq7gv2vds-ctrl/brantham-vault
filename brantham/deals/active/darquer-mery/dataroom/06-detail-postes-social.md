@@ -118,4 +118,4 @@ Si le repreneur absorbe commercial + comptabilité, retirer :
 Base mensuelle descend d'environ 6,6 kEUR, soit 115-123 kEUR/an chargé économisés.
 
 Risque : autonomie opérationnelle plus faible et offre socialement plus fragile devant le tribunal.
-
+## Related

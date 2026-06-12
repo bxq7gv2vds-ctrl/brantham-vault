@@ -39,3 +39,4 @@ Chiffres inclus dans les emails:
 - Tresorerie 2023: 261 k EUR.
 - Dettes financieres 2023: 1,76 M EUR.
 - Prix de cession / financement minimum: non public a ce stade; a confirmer en data room.
+## Related

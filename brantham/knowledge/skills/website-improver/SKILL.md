@@ -45,3 +45,4 @@ Utiliser cette skill pour audits website, SEO/GEO, contenus, scripts internes, U
 - Respect des conventions du repo.
 ## Related
 ## Related
+## Related

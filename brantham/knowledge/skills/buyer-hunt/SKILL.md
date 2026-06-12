@@ -46,3 +46,4 @@ Utiliser cette skill pour rechercher, qualifier, scorer et documenter des repren
 - Faits et hypotheses separes.
 ## Related
 ## Related
+## Related

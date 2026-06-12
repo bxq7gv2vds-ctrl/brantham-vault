@@ -43,3 +43,4 @@ Utiliser cette skill pour analyser comptes, KPI, rentabilite, BFR, dette nette, 
 - Ne pas donner de conclusion financiere definitive sans validation humaine.
 ## Related
 ## Related
+## Related
