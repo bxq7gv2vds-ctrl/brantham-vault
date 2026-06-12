@@ -31,7 +31,8 @@
       "Bash(python3 -m http.server 8000 --directory ./)",
       "Bash(pkill -f \"python3.*http.server\")",
       "Bash(pkill -f \"node.*server\")",
-      "Bash(kill 10661 11231)"
+      "Bash(kill 10661 11231)",
+      "mcp__claude-peers__set_summary"
     ]
   }
 }
