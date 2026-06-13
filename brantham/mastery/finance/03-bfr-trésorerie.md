@@ -252,3 +252,5 @@ Solde fin   35   -10   -5   -45    -40  -10   -35    -85
 - [[brantham/mastery/finance/01-bilan-distressed]]
 - [[brantham/mastery/finance/02-compte-resultat-distressed]]
 - [[brantham/knowledge/finance/restructuration-dette]]
+- [[brantham/deals/active]]
+- [[brantham/ma-strategy]]
