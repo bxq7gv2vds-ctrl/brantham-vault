@@ -29,3 +29,13 @@
 - [[brantham/_MOC]]
 - [[founder/daily/2026-06-13-auto-brief.md|Daily — 2026-06-13]]
 - [[website/_MOC]]
+## Cycle 18:13
+
+- **Scrape AJ** : lancement...
+  - ERREUR scraping (voir /tmp/bp-scrape-err.log)
+- **Enrichissement Pappers** : lancement...
+  - 0 procedures enrichies
+- **Re-scoring** : lancement...
+  - ERREUR (voir /tmp/bp-rescore-err.log)
+- **Cycle termine** a 18:13
+---
