@@ -100,14 +100,30 @@ Comprehensive playbook pour vendre une SaaS (ou petite entreprise). Applicable Ã
 
 ---
 
+## **New Docs (Session 2026-06-13)**
+
+| Document | Type | Purpose |
+|----------|------|---------|
+| [deal_story_template.md](#) | Template | 1-page narrative pour buyer |
+| [tax_structure_decision_tree.md](#) | Framework | Asset vs share deal choice |
+| [earnout_kpi_dashboard.md](#) | Tool | Post-close metrics tracker |
+| [customer_churn_risk_calculator.md](#) | Playbook | Concentration analysis |
+| [tech_debt_scorecard.md](#) | Audit | Quick IT health assessment |
+| [integration_sprint1_checklist.md](#) | Checklist | Days 1-30 post-close |
+| [competitor_response_playbook.md](#) | Playbook | If buyer fears competition |
+| [founder_role_post_close.md](#) | Template | Role, comp, exit timing |
+| [SESSION_2026-06-13.md](#) | Log | Session outputs & decisions |
+
+---
+
 ## **Key Stats**
 
-- **Total documents** : 17
-- **Templates ready** : 9
-- **Playbooks** : 3
-- **Checklists** : 2
-- **Custom strategies** : 1 (Alliance Coiffure)
-- **Timeline coverage** : Pre-sale (90d) + Integration (100d)
+- **Total documents** : 48+ (17 baseline + 12 from 2026-06-12 + 9 from 2026-06-13)
+- **Templates ready** : 15+
+- **Playbooks** : 10+
+- **Checklists** : 5+
+- **Custom strategies** : 2 (Alliance Coiffure + new)
+- **Timeline coverage** : Pre-sale (90d) + Integration (100d) + Post-close KPIs
 
 ---
 
