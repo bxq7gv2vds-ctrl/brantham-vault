@@ -35,7 +35,7 @@ Le processus se déroule en 4 phases principales :
   - "Opportunités de marché" adaptées à leur secteur
   - "Cas de transformation réussie" similaires
 - **Formats éditoriaux** :
-  - Articles courts (1500-2000 mots) avec des insights sectoriels
+  - Articles courts (1500-2000 mots) avec des insights sectoriels (2026)
   - Posts de discussion avec des questions engageantes
   - Infographies de benchmarking
 - **Timing optimal** : Publier 3-5 posts avant l'approche directe
