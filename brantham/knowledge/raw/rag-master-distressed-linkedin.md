@@ -6,7 +6,8 @@ status: active
 version: "1.0"
 created: 2026-06-03
 source: rag_distressed_linkedin_brantham_pack
-compiled_into: []
+compiled_into:
+  - "brantham/knowledge/concepts/linkedin-distressed-ma-strategy"
 ---
 
 # RAG Pack — Stratégie LinkedIn Distressed M&A / Brantham / Économie réelle
