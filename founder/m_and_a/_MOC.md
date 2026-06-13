@@ -150,5 +150,6 @@ Comprehensive playbook pour vendre une SaaS (ou petite entreprise). Applicable �
 
 ## **Last Updated**
 
-2026-06-12 — Initial comprehensive build-out
+2026-06-13 — +10 actionable livrables (Deal Story, Tax Tree, Earnout Dashboard, Churn Risk, Tech Debt, Integration Sprint 1, Competitor Playbook, Founder Role, Session Log, Quick Start)
+
 ## Related
