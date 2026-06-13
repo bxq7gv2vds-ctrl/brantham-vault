@@ -13,3 +13,14 @@
 - STEELMAG INTERNATIONAL — Score 80, CA 2.0M€
 - SOCIETE DE COMMERCIALISATION ET DE DIFFUSION (TRANSPORTS CODI) — Score 80, CA 2.0M€
 - SGOF SECURITE — Score 80, CA 2.0M€
+
+## Cycle 15:13
+
+- **Scrape AJ** : lancement...
+  - ERREUR scraping (voir /tmp/bp-scrape-err.log)
+- **Enrichissement Pappers** : lancement...
+  - 0 procedures enrichies
+- **Re-scoring** : lancement...
+  - ERREUR (voir /tmp/bp-rescore-err.log)
+- **Cycle termine** a 15:13
+---
