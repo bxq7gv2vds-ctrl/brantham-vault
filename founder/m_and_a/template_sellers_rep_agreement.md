@@ -111,4 +111,4 @@ Sellers' Representative (acceptance):
 ✓ **Give broad authority** to avoid 10 shareholders having to vote on every detail  
 ✓ **Lock in dispute resolution process** (arbitration, independent accountant, etc.)  
 ✓ **Set reasonable caps** on [Rep] authority for big decisions (e.g., settle for >$[X]M requires shareholder vote)
-
+## Related

@@ -199,4 +199,4 @@ Date: ___________________________
 | **Expiration date is very soon** | Pressure tactic; bad faith |
 | **Conditions require seller approval** | Lender trying to involve seller; unorthodox |
 | **Lender is unknown / not Googl-able** | Likely fraudulent; walk away |
-
+## Related

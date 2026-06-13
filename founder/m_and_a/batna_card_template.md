@@ -63,4 +63,4 @@ MY WEAK POSITION (if yes, weaker BATNA):
 **Owner:** [Your name]
 **Date prepared:** [Date]
 **Review before each negotiation call**
-
+## Related

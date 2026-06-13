@@ -174,4 +174,4 @@ date: 2026-06-13
 - `pricing_strategy_initial_ask.md` — Sets your asking price (once you're ready)
 - `email_templates_m_and_a.md` — First email to buyers
 - `financial_normalization_template.md` — Build defensible EBITDA
-
+## Related

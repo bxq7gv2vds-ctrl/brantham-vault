@@ -240,4 +240,4 @@ Week 8: Close decision
 | **Asks for 30%+ price cut mid-diligence** | Likely bad faith; consider walking |
 | **Won't commit to timeline** | Not serious; deactivate |
 | **Demands exclusivity but moves slowly** | Reject; lock up your optionality |
-
+## Related

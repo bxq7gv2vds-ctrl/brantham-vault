@@ -318,4 +318,4 @@ Date: ___________________________
 | **Indemnity cap** | 10% / 12 months | 25% / 24 months | 15% / 18 months |
 | **MAC clause** | Narrow definition | Broad | >20% revenue loss, clear metrics |
 | **Financing contingency** | Not acceptable | Full contingency | Proof of funds by day 20 |
-
+## Related

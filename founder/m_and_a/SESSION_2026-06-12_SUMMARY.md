@@ -204,3 +204,4 @@ All docs now linked from:
 **Session end:** 2026-06-12 12:45 PM  
 **Next review:** 2026-06-17 (Day 5 checkpoint)  
 **Follow-up:** Audit decision by EOD today
+## Related

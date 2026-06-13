@@ -301,3 +301,7 @@ Text: "Let's explore. [Your email]"
 **Designer:** [Your name]  
 **Last updated:** [Date]  
 **For soft shop launch:** June 15
+## Related
+
+- [[_system/MOC-decisions]]
+- [[brantham/_MOC]]

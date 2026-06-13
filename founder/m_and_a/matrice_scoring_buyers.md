@@ -174,4 +174,4 @@ Feel free to adjust weights based on **what matters most to you**:
 - **Founder retention critical?** Increase to 15%
 
 Just make sure total weights still = 100%.
-
+## Related

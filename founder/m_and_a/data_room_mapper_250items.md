@@ -331,3 +331,4 @@ DATA_ROOM/
 5. **Add T3/T4/T5** if buyer is serious (LOI stage)
 
 **Pro tip**: Use this as your own checklist BEFORE soft shop. Identify gaps. Fix them.
+## Related

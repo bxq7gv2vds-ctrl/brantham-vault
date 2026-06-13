@@ -72,3 +72,4 @@ INTERPRETATION:
 1. Launch soft shop with LOI template (use [LOI Template](template_loi_saas.md))
 2. Prepare data room outline (use [Data Room Checklist](data_room_checklist_60items.md))
 3. Hire advisor (use [Advisor Selection Guide](advisor_selection_fees.md))
+## Related

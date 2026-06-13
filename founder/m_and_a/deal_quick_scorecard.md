@@ -75,3 +75,4 @@ Copy this table, fill, score each buyer/deal in 2-3 min. Threshold: 14+ = worth 
 ## Related
 ## Related
 ## Related
+## Related

@@ -225,4 +225,4 @@ This supports our ask of $[price]."
 - Risk discount should be **30–50%** (be realistic about integration)
 - Buyer typically gets **50–70%** of synergies; you get 30–50%
 - If buyer claims synergies are double what you calculated, **be skeptical**
-
+## Related

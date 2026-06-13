@@ -263,4 +263,4 @@ If short on time, prioritize these 20 items:
 ✅ **Close on-time** (no delays; funds received by target date)  
 ✅ **100% team retention post-close** (no key person departures)  
 ✅ **Earnout documentation clear** (zero disputes post-close)
-
+## Related

@@ -121,3 +121,4 @@ Posez ces 3 questions :
    - **Micro** : Vision + complémentarité
 
 4. **Créer priorité d'outreach** : Predator/Strategic d'abord (plus rapide et $ plus haut)
+## Related

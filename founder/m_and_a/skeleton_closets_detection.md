@@ -306,3 +306,4 @@ MINOR (Disclose but < 5% impact):
 5. [ ] Work with advisor: disclose early = less discount than hidden discovery
 
 **Philosophy:** A disclosed issue = negotiable. A hidden issue discovered = deal dies or 50% off.
+## Related

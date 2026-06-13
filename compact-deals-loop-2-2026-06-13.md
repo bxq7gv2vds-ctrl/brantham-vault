@@ -37,3 +37,4 @@ Système de vérification opérationnel. Données deals maintenues à jour et co
 
 ---
 *Compact généré après loop #2 de 100 vérifications.*
+## Related

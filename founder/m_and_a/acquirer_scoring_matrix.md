@@ -43,4 +43,4 @@ metadata:
 
 **RECOMMENDATION:** Choose highest weighted score, not highest price alone.
 Reason: Culture + Timeline matter more than extra $500k if you stay 2 years miserable.
-
+## Related

@@ -228,4 +228,4 @@ Best,
 - The less likely they'll want to work with you later
 
 Send within **24 hours** of deciding to go another direction.
-
+## Related

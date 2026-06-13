@@ -75,3 +75,4 @@ metadata:
 2. Noter chaque capability sur la matrice (30 min)
 3. Ranger par score : BUY candidates > PARTNER options > BUILD internally
 4. Approuver avec leadership avant outreach
+## Related

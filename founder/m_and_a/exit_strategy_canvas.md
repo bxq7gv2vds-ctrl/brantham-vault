@@ -106,3 +106,4 @@ Complèter ce canvas AVANT toute approche buyer. Révisez tous les 6 mois.
 - [[buyer_profiles_signals]] — Identifier les buyers high-probability
 - [[valuation_dcf_template]] — Calculer enterprise value
 - [[preclosing_checklist_100]] — 100j avant signature
+## Related

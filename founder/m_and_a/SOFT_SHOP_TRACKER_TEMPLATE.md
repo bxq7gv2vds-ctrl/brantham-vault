@@ -248,3 +248,4 @@ Decision: Continue soft shop. No changes to buyer list yet.
 **Last updated:** [Date]  
 **Next review:** [Date]  
 **Responsible party:** [Founder name]
+## Related

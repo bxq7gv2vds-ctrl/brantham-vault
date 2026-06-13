@@ -18,4 +18,4 @@ metadata:
 **For each contract with Change of Control = YES:**
 - Proactively get written waiver before sale
 - Or disclose in dataroom with buyer agreement to assume
-
+## Related

@@ -21,4 +21,4 @@ Year 1: If ARR > $2.5M → $500k
 Year 2: If EBITDA > $300k → $1.0M
 Total upside: $1.5M (spread across 2 years)
 ```
-
+## Related

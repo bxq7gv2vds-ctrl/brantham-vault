@@ -348,4 +348,4 @@ Best,
 ✓ **Respond to their emails within 2 hours** (shows you're serious)  
 ✓ **Follow up exactly 5–7 days** (not random; creates rhythm)  
 ✓ **Track opens & clicks** (use Intercom/HubSpot; adjust if they're not opening)
-
+## Related

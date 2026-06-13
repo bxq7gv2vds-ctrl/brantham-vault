@@ -23,4 +23,4 @@ metadata:
 **Red flag:** If W7 → no LOI received = process slow or buyers uninterested. Pivot.
 
 **Velocity goal:** Week 7 → first offer, Week 13 → close
-
+## Related

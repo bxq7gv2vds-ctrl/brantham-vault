@@ -247,4 +247,4 @@ IP/
 3. Review GitHub for accidental public commits
 4. Ask for IP indemnification insurance
 5. Reduce offer by 30% if GPL found in proprietary code
-
+## Related

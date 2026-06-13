@@ -184,4 +184,4 @@ Vary WACC (9%-15%) vs Terminal Growth (1%-5%)
 - `DCF_Model.xlsx` (Excel with 3 tabs: Conservative / Base / Bull)
 - `Valuation_Summary.pdf` (this page + charts)
 - `Assumptions_Documentation.md` (why you used 12% WACC, 3% terminal growth, etc.)
-
+## Related

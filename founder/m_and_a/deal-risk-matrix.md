@@ -160,3 +160,4 @@ Utilisez cette matrice pour classer rapidement les targets en 4 quadrants et dé
 2. Discuter quadrant par quadrant avec leadership
 3. Approuver targets dans Quick Win/Medium d'abord
 4. Revisiter Complex/Major Risk selon trésorerie/stratégie
+## Related

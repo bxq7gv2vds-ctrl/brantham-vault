@@ -126,3 +126,4 @@ Q3: Is your main goal maximum $?
 3. **List 3-5 buyers** of that type (use [Buyer Outreach](buyer_outreach_playbook.md))
 4. **Define walk-away price** for that buyer type (use [BATNA Calculator](batna_calculator.md))
 5. **Run soft shop** with 2-3 of them in parallel
+## Related

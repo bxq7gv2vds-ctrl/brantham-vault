@@ -105,3 +105,4 @@ metadata:
 ## **Livrable final pour dataroom :**
 - Fichier: `Financial_Statements_Normalized_3Y.xlsx` 
 - Contient: P&L brut, adjustments schedule, EBITDA calc, summary page
+## Related

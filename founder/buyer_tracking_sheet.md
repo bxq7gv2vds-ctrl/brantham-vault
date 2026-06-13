@@ -120,4 +120,4 @@ Add columns to sheet for tracking earnout metrics:
 ✅ **LOI by D45** → On-track to close D90  
 ✅ **0 deals >90 days in "Stalled"** → Active pipeline management  
 ✅ **Earnout payment 98%+ on-time** → Trust with buyer = easier future negotiation
-
+## Related

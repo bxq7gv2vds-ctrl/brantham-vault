@@ -142,3 +142,4 @@ Cheers,
 4. **Earnout:** Weekly syncs build trust (easier to pay out).
 
 **Success metric:** Response rate ≥ 15% (outreach), counterproposal accepted (objection), close on-time (closing).
+## Related

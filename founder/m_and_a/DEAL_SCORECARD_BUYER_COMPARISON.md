@@ -209,3 +209,7 @@ metadata:
 **Scorecard filled:** _________  
 **Buyer:** _________________  
 **Total Score:** __ /10
+## Related
+
+- [[_system/MOC-decisions]]
+- [[brantham/_MOC]]

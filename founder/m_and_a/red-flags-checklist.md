@@ -99,3 +99,4 @@ metadata:
 3. **Pre-close** (1h) : Rediscuss pricing si >3 jaunes
 
 **Prochaine action** : Appliquer à 1-2 targets actuels, noter les couleurs.
+## Related

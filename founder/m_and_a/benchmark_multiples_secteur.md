@@ -239,4 +239,4 @@ Fair value: $4M × 12x = $48M
 Opening ask: $50M
 Walk-away: $45M (4M × 11x)
 ```
-
+## Related

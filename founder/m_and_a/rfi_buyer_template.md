@@ -103,3 +103,4 @@ Template standard. Le buyer posera ces questions. Préparez les réponses AVANT 
 - [[preclosing_checklist_100]] — items avant signature
 - [[buyer_tracking_sheet]] — qui poser les questions, tracking
 - [[data_room_structure]] — comment organiser les réponses
+## Related

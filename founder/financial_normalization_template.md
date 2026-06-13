@@ -234,5 +234,5 @@ EARNOUT METRICS
 
 ✅ **Buyer accepts ≥80% of adjustments** → Credible presentation  
 ✅ **Normalized EBITDA >30% margin** → Attractive multiple  
-✅ **Earnout targets achievable (>85% likely)** → Earnout gets paid  
-
+✅ **Earnout targets achievable (>85% likely)** → Earnout gets paid
+## Related

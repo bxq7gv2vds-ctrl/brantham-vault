@@ -152,3 +152,4 @@ Normalized EBITDA (2025E) × 9.5 = Enterprise Value
 - [[valuation_dcf_template]] — DCF alternative avec growth assumptions
 - [[financial_normalization_template]] — Detail version avec scenarios
 - [[rfi_buyer_template]] — Buyer questionnaire
+## Related

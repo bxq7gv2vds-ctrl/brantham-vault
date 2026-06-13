@@ -26,4 +26,4 @@ SDE = EBITDA + Add-backs (expenses du fondateur que buyer assume)
 - Conservative: $282k × 5 = $1.41M
 - Market: $282k × 6.5 = $1.83M
 - Optimistic: $282k × 8 = $2.26M
-
+## Related

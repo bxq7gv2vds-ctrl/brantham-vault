@@ -283,3 +283,4 @@ Base purchase price ($X)
 5. **Get legal review:** Have a lawyer review before you sign
 
 **Pro tip:** Negotiate LOI HARD. It's easier to change before signing than after. Post-signing, everything tightens.
+## Related

@@ -23,4 +23,4 @@ metadata:
 - [ ] SAFEs terms clear (what triggers conversion?)
 - [ ] No unclaimed shares (dead person clause?)
 - [ ] Vesting schedules confirmed with each holder
-
+## Related

@@ -160,4 +160,4 @@ Likely range: $15M–$25M (mid-market SaaS acquiring for synergies)
 
 Recommendation: Ask $22M, settle at $18M–$20M.
 ```
-
+## Related

@@ -24,4 +24,4 @@ metadata:
 - If 50% growth, 25% EBITDA → 50/(25+5) = 1.67x → use ~8-10x ARR
 
 **Rule of 40:** Growth + EBITDA Margin ≥ 40 = premium valuation
-
+## Related

@@ -147,4 +147,4 @@ date: 2026-06-13
 - `founder_transition_guide.md` — Non-compete and role negotiations
 - `preclosing_checklist_100.md` — Full SPA review (item 43–60 = legal clauses)
 - `competitive_response_playbook.md` — If you're negotiating price simultaneously
-
+## Related

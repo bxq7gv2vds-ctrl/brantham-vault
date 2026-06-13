@@ -133,3 +133,4 @@ Sélectionner 5 clients **heureux** (mélange: grand, moyen, petit):
 1. [ ] Anonymize clients si demandé (Client A, B, C) ou révéler? → Décider avec advisor
 2. [ ] Vérifier contrats: aucune clause de consentement nécessaire avant DD
 3. [ ] Préparer story: pourquoi top-3? Comment les retenir post-deal?
+## Related

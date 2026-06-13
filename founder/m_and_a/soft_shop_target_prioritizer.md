@@ -200,3 +200,4 @@ metadata:
 4. Final round: Best price + best terms on reps/warranties/earnout
 
 **Golden rule**: Create competition. Never negotiate against yourself.
+## Related

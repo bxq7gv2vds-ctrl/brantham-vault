@@ -300,4 +300,4 @@ We'll pursue other options. If you'd like to revisit after 6 months, we're open,
 ✅ **Move from opening offer to fair market value (+20–30%)** in 2–3 rounds  
 ✅ **Board confidence** in negotiation process (clear data, clear strategy)  
 ✅ **Close with dignified economics** (don't feel undercut years later)
-
+## Related

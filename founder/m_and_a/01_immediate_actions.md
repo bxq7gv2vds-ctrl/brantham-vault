@@ -105,3 +105,4 @@ Do you have 18+ months of predictable revenue?
 ## Next Immediate Step
 Pick one of Actions 1-5 and start today. Don't wait for perfection.
 **Most blocking:** Action 2 (cap table) and Action 3 (buyer list). Do these first.
+## Related

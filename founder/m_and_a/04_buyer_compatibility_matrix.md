@@ -82,3 +82,4 @@ Score: 29
 
 ## Next Step
 Fill this out for your top 3 buyers. Which archetype scores highest for your situation?
+## Related

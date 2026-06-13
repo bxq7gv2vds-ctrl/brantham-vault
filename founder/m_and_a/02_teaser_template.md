@@ -84,3 +84,4 @@ If interested, [Your Lawyer] will arrange a brief call with [Your CEO] to discus
 ✗ Don't mention your burn rate or liability issues  
 ✗ Don't name competitors explicitly (hint, don't name)  
 ✗ Don't say "we're running out of cash" — ever
+## Related

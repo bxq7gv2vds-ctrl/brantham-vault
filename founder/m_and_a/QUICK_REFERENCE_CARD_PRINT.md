@@ -190,3 +190,7 @@ RULES TO LIVE BY
 **Your name:** _______________________  
 **Your company:** _____________________ ARR  
 **Soft shop launch date:** _____________
+## Related
+
+- [[_system/MOC-decisions]]
+- [[brantham/_MOC]]

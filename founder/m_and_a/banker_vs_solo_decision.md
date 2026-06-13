@@ -41,4 +41,7 @@ metadata:
 - **< $2M ARR:** DIY or lightweight advisor ($20k fixed)
 - **$2M-$5M ARR:** Professional banker (5%)
 - **> $5M ARR:** Top-tier banker (3-5%)
+## Related
 
+- [[_system/MOC-decisions]]
+- [[brantham/_MOC]]

@@ -383,4 +383,4 @@ Best,
 | **"Competitor just raised $[X]M"** | "Competition validates the market. We're differentiated by [key advantage]. Plus, this deal gets you to market faster." |
 | **"We need more diligence"** | "Absolutely. Here's what we'll provide: [list]. What's the timeline?" |
 | **"Price seems high"** | "We're open to discuss. What would change your view on valuation?" |
-
+## Related

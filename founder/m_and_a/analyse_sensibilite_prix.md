@@ -164,4 +164,4 @@ IF cash % is:
   50–70% → Healthy (balances both sides)
   >70% → Buyer is conservative; good sign
 ```
-
+## Related

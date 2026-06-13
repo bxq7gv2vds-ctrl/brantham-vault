@@ -210,3 +210,4 @@ IF buyer signals weakness in negotiation
 - But only bluff if you have a real BATNA to fall back on
 - Earnout can bridge valuation gaps *only if* buyer has strong incentive to hit KPI
 - Share BATNA with board / advisors — not with buyer
+## Related

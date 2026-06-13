@@ -51,4 +51,4 @@ Interested parties should contact [Advisor Name] at [Email] to sign NDA and rece
 ---
 
 **One sentence per reason. No financial projections here. No valuation hints.**
-
+## Related

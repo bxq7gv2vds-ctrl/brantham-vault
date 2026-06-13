@@ -226,3 +226,7 @@ If buyer learns your BATNA, your negotiating leverage vanishes.
 6. Your red flags (product, team, market, buyer-specific)
 
 **Done.** You now have a BATNA card. Keep it private. Use it as your north star.
+## Related
+
+- [[_system/MOC-decisions]]
+- [[brantham/_MOC]]

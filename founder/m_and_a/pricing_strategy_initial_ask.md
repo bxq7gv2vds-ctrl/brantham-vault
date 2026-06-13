@@ -267,4 +267,4 @@ OPEN TO ADJUST FOR:
 - `email_templates_m_and_a.md` — How to mention price in outreach
 - `competitive_response_playbook.md` — Counter when buyer lowballs you
 - `financial_normalization_template.md` — Build EBITDA defense for your price
-
+## Related

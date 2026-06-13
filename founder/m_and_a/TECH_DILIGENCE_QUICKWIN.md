@@ -229,3 +229,7 @@ A: [Succession plan / Risk / Timeline to mitigate]
 **Date audited:** __________  
 **Auditor:** __________  
 **Overall risk level:** __________
+## Related
+
+- [[_system/MOC-decisions]]
+- [[brantham/_MOC]]

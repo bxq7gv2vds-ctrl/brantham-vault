@@ -41,3 +41,4 @@ status: completed
 
 ---
 *Compact généré après loop #3 (300e vérification totale).*
+## Related

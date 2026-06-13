@@ -357,3 +357,4 @@ For each buyer, prepare:
 - [ ] Likelihood they genuinely believe each objection vs. standard anchor
 - [ ] Which objections are real risks vs. which are negotiation theater
 - [ ] Your concession strategy (if you give on valuation, what do you gain?)
+## Related

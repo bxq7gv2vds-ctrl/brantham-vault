@@ -44,3 +44,4 @@ Auto-relancé avec compteur reset à 1/100
 
 ---
 *Compact généré après loop #4 (400e vérification totale).*
+## Related

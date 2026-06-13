@@ -260,3 +260,4 @@ Example:
 - **Honest**: "Our churn is [X]%, which is [higher than we'd like]. We're tackling it by [solution]. It's our biggest risk, but we're optimistic."
 
 Buyers respect honesty more than spin.
+## Related

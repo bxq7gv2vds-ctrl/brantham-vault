@@ -245,4 +245,4 @@ Signed: [Founder] [Buyer CEO] [Date]
 ✅ **Team retention ≥ 90%** — Leadership credibility maintained  
 ✅ **Personal satisfaction ≥ 8/10** — Worth the 24 months  
 ✅ **Next venture/role clarity by M18** — Planned transition
-
+## Related

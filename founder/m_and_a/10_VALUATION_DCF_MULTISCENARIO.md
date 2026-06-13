@@ -180,3 +180,4 @@ created: 2026-06-13
 - Earnout component can bridge gap between buyer/seller valuations
 - Update quarterly as guidance / actuals change
 - WACC = Rf + β(Rm - Rf) + Credit spread; adjust for business-specific risk
+## Related

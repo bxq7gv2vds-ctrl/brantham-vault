@@ -215,4 +215,4 @@ Firm: ____________________________
 ✓ **No earnest money commitment yet** (just exploring)  
 
 → **If you're past initial call + buyer is serious**, move to **LOI with fuller terms** (earnout structure, reps, indemnification).
-
+## Related
