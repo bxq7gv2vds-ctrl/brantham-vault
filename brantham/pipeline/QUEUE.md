@@ -122,3 +122,12 @@
 - meynet-soci-t-lucca : deadline 28/05, HCR avec emplacement à vérifier
 - 2 SIRENs résolus : SOLAK ENERGIE (535364798), RFI SAS (818024317)
 - Enrichissement Pappers : bilans non disponibles — vérifier INPI manuellement
+
+## 2026-06-13 14:05 — Auto-enrichment
+- **APPEL D’OFFRES - CESSION D’ENTREPRISE - GROUPE INDUSTRIEL** (p2g-appel-d-offres-cession-d-entreprise-groupe-industriel) — Score: 105, CA: 15.0M€
+- **SAINTÉLOC** (ajup-saint-loc) — Score: 100, CA: 15.0M€
+- **SUD LOIRE AUTOMOBILES** (trajectoire-sud-loire-automobiles) — Score: 100, CA: 15.0M€
+- **KLUBB ENGINEERING** (ajilink-ihdf-klubb-engineering) — Score: 80, CA: 2.0M€
+- **STEELMAG INTERNATIONAL** (ajup-steelmag-international) — Score: 80, CA: 2.0M€
+- **SOCIETE DE COMMERCIALISATION ET DE DIFFUSION (TRANSPORTS CODI)** (ajire-societe-de-commercialisation-et-de-diffusion-transport) — Score: 80, CA: 2.0M€
+- **SGOF SECURITE** (ajilink-grandest-sgof-securite) — Score: 80, CA: 2.0M€
